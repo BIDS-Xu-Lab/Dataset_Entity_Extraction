@@ -1,6 +1,12 @@
-# 忽略根目录下的所有文件和目录，除了项目目录
+# 忽略当前目录下的以.开头的文件夹
 *
-!/.gitignore
+!*/
+.*/
+env/
+# 只上传其他文件夹中的.py文件
+!.gitignore
+!*.py
+!**/*.py
 
-.conda
-.pytest_cache
+!*.ipynb
+!*/**/*.ipynb
