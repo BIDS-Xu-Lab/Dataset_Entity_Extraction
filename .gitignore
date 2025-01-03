@@ -9,4 +9,4 @@ env/
 !**/*.py
 
 !*.ipynb
-!*/**/*.ipynb
+!**/*.ipynb
