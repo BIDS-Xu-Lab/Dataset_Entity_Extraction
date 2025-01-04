@@ -1,0 +1,8 @@
+*
+!*/
+!*.py
+!*.ipynb
+!.gitignore
+!*.sh
+!*.slurm
+!*.csv
