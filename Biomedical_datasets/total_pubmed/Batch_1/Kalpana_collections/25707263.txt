@@ -1,0 +1,4 @@
+The review considers molecular mechanisms of chronic renal failure and cancer kidney disease.
+The most important molecules inducing inflammation are cytokines (MCP-1, TNFalpha, IFN-gamma, IL-1,6,8,18), matrix metalloproteinases MMP-2,3,9,14, tissue inhibitors of metalloproteinases (TIMPs) and grow factors (VEGF PDGE FGF).
+This signal molecules regulate the activity of immune cells and remodeling extracellular matrix (ECM) components taken place in inflammatory reactions, proliferation, apoptosis and also in the differentiation of kidney cells.
+On the basis of these data nowadays developed new highly selective approaches to diagnosis, prediction, estimation of efficiency of treatment of renal disease and creating of target drugs.

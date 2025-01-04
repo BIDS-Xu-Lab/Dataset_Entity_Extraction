@@ -1,0 +1,10 @@
+The present in vitro microperfusion study examined whether the rates of the apical membrane Na+-H+ antiporter and basolateral membrane Na(HCO3)3 symporter vary along the length of the proximal tubule.
+Initial proximal convoluted tubules (PCT obtained within 0.5 mm from the glomerulus), mid-PCT (PCT without glomerular attachments) and cortical proximal straight tubules were examined.
+The rate of either the apical or basolateral membrane acidification mechanism was measured from the initial rate of change of intracellular pH after a change in either the luminal or bathing solution.
+Intracellular pH was measured fluorometrically using the pH-sensitive dye (2',7')-bis(carboxyethyl)-(5,6)-carboxyfluorescein.
+The rate of bicarbonate exit across the basolateral membrane was examined by imposing either a sodium or bicarbonate gradient.
+There was no difference between initial and mid-PCT, but the rate of change in cell pH was 30% slower in PST in both series.
+The rate of sodium-dependent apical proton secretion was examined by changing the sodium concentration in the lumen.
+There was no difference in sodium-dependent apical proton secretion in initial vs. mid-PCT, but the rate fell by 70% in the proximal straight tubule (PST).
+These differences were not due to a difference in buffer capacity in these segments.
+These data are consistent with a homogeneous rate of apical Na+-H+ antiporter and basolateral Na(HCO3)3 activity along the rabbit PCT, but a lower rate in the PST.

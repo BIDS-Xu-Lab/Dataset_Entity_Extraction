@@ -1,0 +1,10 @@
+Intrinsically photosensitive retinal ganglion cells (ipRGCs) represent a new class of photoreceptors which support a variety of non-image forming physiological functions, such as circadian photoentrainment, pupillary light reflex and masking responses to light.
+In view of the recently proposed role of retinal inputs for the regulation of diurnal and nocturnal behavior, we performed the first deep analysis of the ipRGC system in a diurnal rodent model, Arvicanthisansorgei, and compared the anatomical and physiological properties of ipRGCs with those of nocturnal mice.
+Based on somata location, stratification pattern and melanopsin expression, we identified two main ipRGC types in the retina of Arvicanthis: M1, constituting 74% of all ipRGCs and non-M1 (consisting mainly of the M2 type) constituting the following 25%.
+The displaced ipRGCs were rarely encountered.
+Phenotypical staining patterns of ganglion cell markers showed a preferential expression of Brn3 and neurofilaments in non-M1 ipRGCs.
+In general, the anatomical properties and molecular phenotyping of ipRGCs in Arvicanthis resemble ipRGCs of the mouse retina, however the percentage of M1 cells is considerably higher in the diurnal animal.
+Multi-electrode array recordings (MEA) identified in newborn retinas of Arvicanthis three response types of ipRGCs (type I, II and III) which are distinguished by their light sensitivity, response strength, latency and duration.
+Type I ipRGCs exhibited a high sensitivity to short light flashes and showed, contrary to mouse type I ipRGCs, robust light responses to 10 ms flashes.
+The morphological, molecular and physiological analysis reveals very few differences between mouse and Arvicanthis ipRGCs.
+These data imply that the influence of retinal inputs in defining the temporal niche could be related to a stronger cone input into ipRGCs in the cone-rich Arvicanthis retina, and to the higher sensitivity of type I ipRGCs and elevated proportion of M1 cells.

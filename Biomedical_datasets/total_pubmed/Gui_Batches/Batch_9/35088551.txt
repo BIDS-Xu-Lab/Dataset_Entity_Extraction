@@ -1,0 +1,9 @@
+This study examined the association between social determinants of health (SDOH) burden and overweight/obesity in a nationally representative sample of adults in the United States.
+Data for 161,795 adults aged ≥18 years from the 2013 to 2017 National Health Interview Survey were used.
+A total of 38 SDOH were aggregated to create a cumulative SDOH score, which was divided into quartiles (Q1-Q4) to denote levels of SDOH burden.
+Prevalence of overweight and obesity was examined across SDOH quartiles in the total population and by age, sex, and race/ethnicity.
+Multinomial logistic regression models were used to analyze the association between SDOH quartiles and overweight/obesity, adjusting for relevant covariates.
+There was a graded increase in obesity prevalence with increasing SDOH burden.
+At nearly each quartile, overweight and obesity rates were higher for middle-aged and non-Hispanic Black adults compared with their counterparts; additional differences were observed by sex.
+In fully adjusted models, SDOH-Q4 was associated with 15%, 50%, and 70% higher relative prevalence of overweight, obesity class 1 and 2, and obesity class 3, respectively, relative to SDOH-Q1.
+Cumulative social disadvantage, denoted by higher SDOH burden, was associated with increased odds of obesity, independent of clinical and demographic factors.

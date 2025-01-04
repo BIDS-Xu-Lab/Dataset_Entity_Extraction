@@ -1,0 +1,16 @@
+To evaluate the classification criteria of early rheumatoid arthritis (ERA) and compare the sensitivity and specificity with the criteria of 1987 American College of Rheumatology (ACR) criteria and 2010 ACR/European League Against Rheumatism (EULAR).
+Patients from 4 hospitals, aged more than 16 years, with arthritis, whose disease duration was ≤1 year, and with ≥1 joint pain and swelling were enrolled in the study.
+The indicators including clinical manifestations, laboratory tests and imaging examinations were observed.
+The ERA patients were dignosed by two experienced rheumatologists based on the clinical features, drug therapy information and radiography features.
+(1) A total of 325 patients with arthritis were enrolled, including 98 males (30.15%) and 227 females (69.85%), The average age was (47.53±14.44) years, and the median disease duration was 5 (2, 8) months.
+Finally, 236 patients were dignosed with ERA, and 89 patients were dignosed with other diseases (Non-ERA, including osteoarthritis, reactive arthritis, undifferentiated arthritis, spondyloarthritis, etc).
+(2) The sensitivity of ERA criteria was 87.29%, and the specificity was 84.37%.
+The sensitivity was higher than that of 1987 ACR criteria (χ2=43.641, P < 0.001), and had no significant difference compared with 2010 ACR/EULAR criteria (χ2=0.446, P=0.593).
+But the specificity of ERA criteria was lower than that of 1987 ACR criteria (χ2=4.891, P=0.027), which was not statistically significant compared with 2010 ACR/EULAR criteria (χ2=0.044, P=1.000).
+(3) In the patients with arthritis whose disease duration was ≤3 months and ≤6 months, the sensitivity of ERA criteria was 81.71% and 86.79%, respectively, both were higher than the 1987 ACR criteria (χ2=7.131, P=0.008; χ2=22.015, P < 0.001) and had no statistically difference compared with the 2010 ACR/EULAR criteria (χ2=0.220, P=0.755; χ2=0.473, P=0.491).
+The differences of the three criteria in specificity were not statistically significant.
+(4) The three different classification criteria were consistent with the clinical diagnosis, among which the ERA criteria and 2010 ACR/EULAR criteria were slightly higher (Kappa>0.6).
+The results of the consistency comparison between the three criteria showed that the ERA criteria and 2010 ACR/EULAR criteria had a better consistency (Kappa=0.836).
+The sensitivity of ERA classification criteria in the diagnosis of ERA was higher than that of 1987 ACR criteria, and was equivalent to that of 2010 ACR/EULAR criteria.
+There is no significant difference in specificity between these three criteria.
+The ERA criteria can also identify patients with RA at a very early stage in arthritis with disease duration ≤3 months.

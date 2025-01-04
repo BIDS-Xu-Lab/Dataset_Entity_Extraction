@@ -1,0 +1,13 @@
+Radon exposure is the second leading cause of lung cancer worldwide and represents a major health concern within and outside the United States.
+Mitigating exposure to radon is especially critical in places with high rates of tobacco smoking (e.g., Kentucky, USA), as radon-induced lung cancer is markedly greater among people exposed to tobacco smoke.
+Despite homes being a common source of radon exposure, convincing homeowners to test and mitigate for radon remains a challenge.
+A new communication strategy to increase radon testing among Kentucky homeowners utilizes fine-scale geologic map data to create detailed radon risk potential maps.
+We assessed the health benefits of this strategy via avoided lung cancer and associated premature mortality and quantified the economic value of these benefits to indicate the potential utility of using geologic map data in radon communication strategies.
+We estimated the change in radon testing among all 120 counties in Kentucky following a new communication strategy reliant on geologic maps.
+We approximated the resultant potential change in radon mitigation rates and subsequent expected lung cancer cases and mortality avoided among smokers and non-smokers exposed to 4 pCi/L of radon in the home.
+We then applied the value of a statistical life to derive the economic value of the expected avoided mortality.
+The new communication strategy is estimated to help 75 Kentucky residents in 1 year avoid exposure to harmful radon levels via increased testing and mitigation rates.
+This equated to the potential avoidance of approximately one premature death due to lung cancer, with a net present value of $3.4 to $8.5 million (2016 USD).
+Our analysis illustrates the potential economic value of health benefits associated with geologic map data used as part of a communication strategy conveying radon risk to the public.
+Geologic map data are freely available in varying resolutions throughout the United States, suggesting Kentucky's radon communication strategy using geologic maps can be employed in other states to educate the public about radon.
+As this is only a single application, in a single state, the economic and health benefits of geologic map data in educating the public about radon are likely to exceed our estimates.

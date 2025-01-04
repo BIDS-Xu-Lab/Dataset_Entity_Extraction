@@ -1,0 +1,9 @@
+In megacities, vehicle emissions face urgent challenges related to air pollution and CO2 control.
+To achieve the refinement of vehicle control policies for the co-control of air pollutants and CO2, this study established a vehicle emission inventory with high spatial and temporal resolution based on the hourly traffic flow in Shanghai and analyzed the spatial and temporal distribution characteristics of the real-time vehicle emissions.
+Meanwhile, a policy evaluation framework was constructed by combining pollutant emission predictions with quantitative co-control effect assessments.
+The results indicated that spatio-temporal variations in different air pollutants and CO2 could mainly be attributed to primary contributing vehicle types.
+The pollutants (CO2, CO and VOCs) primarily contributed by private cars exhibited a bimodal pattern in 24-h time series and their spatial distribution was concentrated in the urban city center.
+The spatial distribution of NOx and PM primarily contributed by heavy trucks was still obvious on non-urban center areas.
+Furthermore, the results of synergistic effect analysis revealed that the alternative energy replacement scenario demonstrated the most significant potential for the co-control.
+Based on temporal-spatial and co-benefit analysis, the precise control policy of vehicle emissions can be established through time-, region-, and model-control.
+This study provides references and research methods for the formulation of the vehicle refinement control policies in worldwide megacities.

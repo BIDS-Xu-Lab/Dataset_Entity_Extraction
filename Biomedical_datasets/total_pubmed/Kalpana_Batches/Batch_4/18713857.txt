@@ -1,0 +1,8 @@
+Here, we compare the distributions of main chain (Phi,Psi) angles (i.e., Ramachandran maps) of the 20 naturally occurring amino acids in three contexts: (i) molecular dynamics (MD) simulations of Gly-Gly-X-Gly-Gly pentapeptides in water at 298 K with exhaustive sampling, where X = the amino acid in question; (ii) 188 independent protein simulations in water at 298 K from our Dynameomics Project; and (iii) static crystal and NMR structures from the Protein Data Bank.
+The GGXGG peptide series is often used as a model of the unstructured denatured state of proteins.
+The sampling in the peptide MD simulations is neither random nor uniform.
+Instead, individual amino acids show preferences for particular conformations, but the peptide is dynamic, and interconversion between conformers is facile.
+For a given amino acid, the (Phi,Psi) distributions in the protein simulations and the Protein Data Bank are very similar and often distinct from those in the peptide simulations.
+Comparison between the peptide and protein simulations shows that packing constraints, solvation, and the tendency for particular amino acids to be used for specific structural motifs can overwhelm the "intrinsic propensities" of amino acids for particular (Phi,Psi) conformations.
+We also compare our helical propensities with experimental consensus values using the host-guest method, which appear to be determined largely by context and not necessarily the intrinsic conformational propensities of the guest residues.
+These simulations represent an improved coil library free from contextual effects to better model intrinsic conformational propensities and provide a detailed view of conformations making up the "random coil" state.

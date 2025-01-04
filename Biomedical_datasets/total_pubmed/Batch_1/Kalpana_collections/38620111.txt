@@ -1,0 +1,12 @@
+Around the world, several lung diseases such as pneumonia, cardiomegaly, and tuberculosis (TB) contribute to severe illness, hospitalization or even death, particularly for elderly and medically vulnerable patients.
+In the last few decades, several new types of lung-related diseases have taken the lives of millions of people, and COVID-19 has taken almost 6.27 million lives.
+To fight against lung diseases, timely and correct diagnosis with appropriate treatment is crucial in the current COVID-19 pandemic.
+In this study, an intelligent recognition system for seven lung diseases has been proposed based on machine learning (ML) techniques to aid the medical experts.
+Chest X-ray (CXR) images of lung diseases were collected from several publicly available databases.
+A lightweight convolutional neural network (CNN) has been used to extract characteristic features from the raw pixel values of the CXR images.
+The best feature subset has been identified using the Pearson Correlation Coefficient (PCC).
+Finally, the extreme learning machine (ELM) has been used to perform the classification task to assist faster learning and reduced computational complexity.
+The proposed CNN-PCC-ELM model achieved an accuracy of 96.22% with an Area Under Curve (AUC) of 99.48% for eight class classification.
+The outcomes from the proposed model demonstrated better performance than the existing state-of-the-art (SOTA) models in the case of COVID-19, pneumonia, and tuberculosis detection in both binary and multiclass classifications.
+For eight class classification, the proposed model achieved precision, recall and fi-score and ROC are 100%, 99%, 100% and 99.99% respectively for COVID-19 detection demonstrating its robustness.
+Therefore, the proposed model has overshadowed the existing pioneering models to accurately differentiate COVID-19 from the other lung diseases that can assist the medical physicians in treating the patient effectively.

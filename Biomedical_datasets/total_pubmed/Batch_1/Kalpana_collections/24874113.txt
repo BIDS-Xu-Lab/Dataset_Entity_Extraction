@@ -1,0 +1,11 @@
+Systematic, genome-wide loss-of-function experiments can be used to identify host factors that directly or indirectly facilitate or inhibit the replication of a virus in a host cell.
+We present an approach that combines an integer linear program and a diffusion kernel method to infer the pathways through which those host factors modulate viral replication.
+The inputs to the method are a set of viral phenotypes observed in single-host-gene mutants and a background network consisting of a variety of host intracellular interactions.
+The output is an ensemble of subnetworks that provides a consistent explanation for the measured phenotypes, predicts which unassayed host factors modulate the virus, and predicts which host factors are the most direct interfaces with the virus.
+We infer host-virus interaction subnetworks using data from experiments screening the yeast genome for genes modulating the replication of two RNA viruses.
+Because a gold-standard network is unavailable, we assess the predicted subnetworks using both computational and qualitative analyses.
+We conduct a cross-validation experiment in which we predict whether held-aside test genes have an effect on viral replication.
+Our approach is able to make high-confidence predictions more accurately than several baselines, and about as well as the best baseline, which does not infer mechanistic pathways.
+We also examine two kinds of predictions made by our method: which host factors are nearest to a direct interaction with a viral component, and which unassayed host genes are likely to be involved in viral replication.
+Multiple predictions are supported by recent independent experimental data, or are components or functional partners of confirmed relevant complexes or pathways.
+Integer program code, background network data, and inferred host-virus subnetworks are available at http://www.biostat.wisc.edu/~craven/chasman_host_virus/.

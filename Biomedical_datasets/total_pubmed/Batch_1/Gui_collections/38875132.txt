@@ -1,0 +1,7 @@
+A compelling hypothesis about attention-deficit/hyperactivity disorder (ADHD) etiopathogenesis is that the ADHD phenotype reflects a delay in cortical maturation.
+Slow-wave activity (SWA) of non-rapid eye movement (NREM) sleep electroencephalogram (EEG) is an electrophysiological index of sleep intensity reflecting cortical maturation.
+Available data on ADHD and SWA are conflicting, and developmental differences, or the effect of pharmacological treatment, are relatively unknown.
+We examined, in samples (Mage = 16.4, SD = 1.2), of ever-medicated adolescents at risk for ADHD (n = 18; 72% boys), medication-naïve adolescents at risk for ADHD (n = 15, 67% boys), and adolescents not at risk for ADHD (n = 31, 61% boys) matched for chronological age and controlling for non-ADHD pharmacotherapy, whether ADHD pharmacotherapy modulates the association between NREM SWA and ADHD risk in home sleep.
+Findings indicated medication-naïve adolescents at risk for ADHD exhibited greater first sleep cycle and entire night NREM SWA than both ever-medicated adolescents at risk for ADHD and adolescents not at risk for ADHD and no difference between ever-medicated, at-risk adolescents, and not at-risk adolescents.
+Results support atypical cortical maturation in medication-naïve adolescents at risk for ADHD that appears to be normalized by ADHD pharmacotherapy in ever-medicated adolescents at risk for ADHD.
+Greater NREM SWA may reflect a compensatory mechanism in middle-later adolescents at risk for ADHD that normalizes an earlier occurring developmental delay.

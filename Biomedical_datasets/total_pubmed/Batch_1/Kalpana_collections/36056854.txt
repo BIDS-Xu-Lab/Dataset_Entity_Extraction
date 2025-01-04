@@ -1,0 +1,11 @@
+Uncoupling proteins (UCPs) are unpaired electron carriers that uncouple oxygen intake by the electron transport chain from ATP production in the inner membrane of the mitochondria.
+The physiological activities of UCPs have been hotly contested, and the involvement of UCPs in the pathogenesis and progression of diabetes mellitus is among the greatest concerns.
+UCPs are hypothesised to be triggered by superoxide and then reduce mitochondrial free radical production, potentially protecting diabetes mellitus patients who are experiencing oxidative stress.
+The objectives of the study are to find out the newest ways to treat diabetes mellitus through protein uncoupling.
+Research and review papers are collected from different databases like google scholar, PubMed, Mendeley, Scopus, Science Open, Directory of open access journals, and Education Resources Information Center, using different keywords such as "uncoupling proteins in diabetes mellitus treatment", "UCP 1", "UCP 2", and 'UCP 3".
+UCP1, UCP2, and UCP 3 are the potential targets as an uncoupling protein for the treatment of diabetes mellitus for new drugs.
+New drugs treat the disease by reducing oxidative stress through thermogenesis and energy expenditure.
+UCP1, UCP2, and UCP3 have a role in fatty acid metabolism, negative control of insulin production, and insulin sensitivity by beta-cells.
+Polymorphisms in the UCP 1, 2, and 3 genes significantly reduce the risk of developing diabetes mellitus.
+Protein uncoupling indirectly targets the GPCR and islet of Langerhans.
+This review summarises the advances in understanding the role of UCP1, UCP2, and UCP3 in diabetes mellitus.

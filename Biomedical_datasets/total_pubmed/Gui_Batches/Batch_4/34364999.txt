@@ -1,0 +1,12 @@
+Dietary modification is common in patients with digestive diseases to improve symptoms; however, food avoidance can become problematic.
+Avoidant Restrictive Food Intake Disorder (ARFID) is characterized as failure to meet one's nutritional needs owing to sensory hypersensitivity, lack of interest in eating, or fear of aversive consequences from eating, and is associated with negative medical and psychosocial outcomes.
+This study characterizes ARFID behaviors in adults with achalasia, celiac sprue, eosinophilic esophagitis, and inflammatory bowel disease.
+In this cross-sectional study, 289 adults aged 18 and older completed self-report measures evaluating use of dietary treatment, ARFID symptoms, and psychosocial outcomes.
+Primary analyses investigated the occurrence of ARFID in patients with achalasia, celiac, eosinophilic esophagitis, and inflammatory bowel disease.
+Secondary analyses explored the associations between ARFID symptoms and clinical and psychosocial outcomes.
+More than half (53.7%) of the total sample met the diagnostic criteria for ARFID based on the Nine-Item ARFID Screen (NIAS), with 78.4% of patients with achalasia meeting criteria.
+Patients on a physician-directed diet showed greater fear of gastrointestinal symptoms (P = .025), less interest in food (P = .046), and a higher total NIAS score (P = .045).
+For patients using dietary therapy, those who had met with a dietitian reported higher NIAS scores (P = .039).
+Food avoidance/restriction was associated with increased anxiety and depression, and diminished health-related quality of life.
+It is likely that ARFID rates, as measured by the NIAS, are inflated in these 4 patient groups.
+These findings highlight the need for updated assessments of ARFID in patients with complex digestive diseases.

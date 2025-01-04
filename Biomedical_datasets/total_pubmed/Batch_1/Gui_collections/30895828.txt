@@ -1,0 +1,9 @@
+Introduction: Persistent pulmonary hypertension of the newborn (PPHN) is a rapidly increasing condition among neonates.
+It represents failure of adaptation of pulmonary circulation to the extrauterine environment causing severe hypoxemia in affected newborns.
+Few data have weighed the relationship of ventricular dysfunction in the context of PPHN and the outcome in involved patients.
+The aim of this paper is to study ventricular functions in newborns with PPHN and to determine whether short-term outcome is closely related or not to ventricular dysfunction occurring in PPHN.Methods: Thirty full-term neonates with PPHN were screened with conventional echocardiography and tissue Doppler imaging (TDI) for the assessment of ventricular functions at the start of treatment for PPHN, demographic data and Arterial blood gazes were performed as well.
+The echocardiographic data were compared to healthy age-matched controls.
+The sensitivity and specificity of relevant echocardiographic data to predict the short-term (Day 3) outcome of patients were measured.
+Results: Patients with PPHN had both left ventricular (LV) and right ventricular (RV) dysfunction when compared to controls, RV Tei (Cases: 0.39 ± 0.1 versus controls: 0.29 ± 0.08, p < .01)
+LV Tei (Cases: 0.3 ± 0.04 versus controls: 0.25 ± 0.02, p < .01), LV functions were found of greatest prediction of negative outcome in cases with PPHN than RV Tei.
+Conclusion: The aforementioned findings are sight opening towards the importance of LV dysfunction in PPHN, LV dysfunction might occur in PPHN as a result of RV-LV interactions and the observed involvement might be an important aggravating factor of PPHN.

@@ -1,0 +1,7 @@
+The objective of this study was to evaluate the efficacy of atomoxetine, a new and highly selective inhibitor of the norepinephrine transporter, in reducing symptoms of attention-deficit/hyperactivity disorder (ADHD) among adults by using drug-placebo response curve methods.
+We analyzed data from two double-blind, placebo-controlled, parallel design studies of adult patients (Study I, N = 280; Study II, N = 256) with DSM-IV-defined ADHD who were recruited by referral and advertising.
+Subjects were randomized to 10 weeks of treatment with atomoxetine or placebo, and were assessed with the Conners Adult ADHD Rating Scales and the Clinical Global Impression of ADHD Severity scale before and after treatment.
+Those treated with atomoxetine were more likely to show a reduction in ADHD symptoms than those receiving placebo.
+Across all measures, the likelihood that an atomoxetine-treated subject improved to a greater extent than a placebo-treated subject was approximately 0.60.
+Furthermore, atomoxetine prevented worsening of most symptom classes.
+From these findings, we conclude that atomoxetine is an effective treatment for ADHD among adults when evaluated using several criteria.

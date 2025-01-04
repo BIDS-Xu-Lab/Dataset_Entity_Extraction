@@ -1,0 +1,11 @@
+The activities of two structurally unrelated thromboxane/prostaglandin endoperoxide receptor antagonists, SQ 30,741 and BM 13,505, were compared to heparin in a model of venous thrombosis.
+A combination of blood stasis with osmotic and pressure stress was used to induce thrombus formation in the vena cava of anesthetized rats.
+Intravenous infusions of SQ 30,741 (500 micrograms/kg/min) and BM 13,505 (50 micrograms/kg/min) produced significant (P less than .01) and equivalent reductions in thrombus mass of 58 and 56%, respectively.
+Thrombus reduction in response to heparin (50 U/kg) was greater (95%; P less than .001) than in response to the thromboxane antagonists.
+Either lower doses of SQ 30,741 (50 and 100 micrograms/kg/min) or aspirin (30 and 60 mg/kg) were ineffective in altering thrombus formation.
+However, a subthreshold dose of SQ 30,741 (100 micrograms/kg/min) increased (P less than .01)
+the antithrombotic activity obtained with both threshold (0.5 U/kg) and subthreshold (0.3 U/kg) doses of heparin.
+SQ 30,741 (500 micrograms/kg/min) did not change activated partial thromboplastin times or inhibit platelet loss induced by contact activation in response to kaolin in vivo.
+This suggests that SQ 30,741 does not interfere with components of the coagulation cascade that are not dependent on platelet factors.
+The extent of thromboxane antagonism achieved with SQ 30,741 (50 and 500 micrograms/kg/min) and BM 13,505 (50 micrograms/kg/min) was determined from parallel shifts in dose-dependent U-46,619-induced vasoconstriction in vivo (approximately 200- and 1300-fold, respectively, for SQ 30,741 and 200-fold for BM 13,505).
+These data demonstrate that thromboxane antagonists inhibit venous thrombosis partially, but only at doses producing near complete receptor inhibition.(ABSTRACT TRUNCATED AT 250 WORDS)

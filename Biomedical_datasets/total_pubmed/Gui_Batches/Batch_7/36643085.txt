@@ -1,0 +1,11 @@
+DExH-Box Helicase 30 (DHX30) is a gene that codes for proteins.
+It belongs to the class of RNA secondary structure unwinding helicases known as DExH-boxes.
+There have been numerous reports of pathogenic DHX30 variants.
+Most mutations, but not all, result in severe phenotypic abnormalities.
+The most common symptoms are severe motor developmental delay, intellectual disability, sleep disturbances, autism spectrum disorder, seizures, and gait abnormalities.
+The objectives of reporting this case are: To report a novel mutation giving rise to NEDMIAL and to update the literature regarding the manifestation of the case of a rare condition (NEDMIAL).
+We report the case of a 12-year-old female who presented with similar complaints of severe motor impairment, seizures, intellectual disability, and absent language and was later diagnosed on Next-Generation Sequencing (NGS) with an autosomal dominant neurodevelopmental disorder (NEDMIAL).
+We report a case of neurodevelopmental disorder with severe motor impairment and absent language (NEDMIAL) with a De novo novel DHX30 mutation (p.Pro796Leu) detected by whole exome sequence.
+We suggest upgrading the variant classification of DHX30:p.
+Pro796Leu to likely pathogenic, according to the evidence found in our patient.
+To the best of our knowledge, this is the first reported case of this mutation and disorder in the Middle East.

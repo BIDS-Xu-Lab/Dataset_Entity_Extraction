@@ -1,0 +1,9 @@
+This study demonstrates that a single subcutaneous injection of gonadotrophin-releasing hormone (GnRH) (60 ng) to GnRH-deficient (hpg) male mice causes a doubling of pituitary GnRH receptors (GnRH-R).
+No change in GnRH-R occurs during the time of LH release (15-60 min) or up until 4 h post-GnRH.
+Between 4 and 12 h there is a progressive increase in GnRH-R, which is still apparent 24 h later.
+No induction of GnRH-R occurs after the same treatment of intact adult normal mice.
+The same degree of GnRH-R induction occurs 12 h after a single GnRH injection (60 ng) to orchidectomized hpg male mice, indicating that this effect is mediated by a direct action of GnRH on the pituitary gonadotroph, rather than being secondary to stimulation of some gonadal product.
+Homologous ligand GnRH-R induction in hpg mouse pituitaries in vivo is prevented by prior treatment with cycloheximide, a non-specific protein synthesis inhibitor.
+Cycloheximide alone had no effect on GnRH-R in normal male mice but when combined with GnRH caused a 40% depletion of receptors, implying ligand-induced receptor loss without subsequent replenishment.
+The similarity between the extent, time-course, and dependence on protein synthesis of GnRH induction of its own receptors in vivo and in cultured pituitary cells in vitro indicates that the hpg mouse pituitary behaves like an in vivo pituitary cell culture system in this respect.
+Similarity of data derived from this in vivo model provides direct support for the view that in vitro studies on the cellular mechanism of GnRH action can be physiologically relevant to the intact animal.

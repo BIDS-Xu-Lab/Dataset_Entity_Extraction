@@ -1,0 +1,9 @@
+Fibroblast growth factor 23 (FGF23) is a phosphaturic hormone implicated in the pathogenesis of several hypophosphatemic disorders.
+FGF23 causes hypophosphatemia by decreasing the expression of sodium phosphate cotransporters (NaPi-2a and NaPi-2c) and decreasing serum 1,25(OH)(2)Vitamin D(3) levels.
+We previously showed that FGFR1 is the predominant receptor for the hypophosphatemic actions of FGF23 by decreasing renal NaPi-2a and 2c expression while the receptors regulating 1,25(OH)(2)Vitamin D(3) levels remained elusive.
+To determine the FGFRs regulating 1,25(OH)(2)Vitamin D(3) levels, we studied FGFR3(-/-)FGFR4(-/-) mice as these mice have shortened life span and are growth retarded similar to FGF23(-/-) and Klotho(-/-) mice.
+Baseline serum 1,25(OH)(2)Vitamin D(3) levels were elevated in the FGFR3(-/-)FGFR4(-/-) mice compared with wild-type mice (102.2 ± 14.8 vs. 266.0 ± 34.0 pmol/l; P = 0.001) as were the serum levels of FGF23.
+Administration of recombinant FGF23 had no effect on serum 1,25(OH)(2)Vitamin D(3) in the FGFR3(-/-)FGFR4(-/-) mice (173.4 ± 32.7 vs. 219.7 ± 56.5 pmol/l; vehicle vs. FGF23) while it reduced serum 1,25(OH)(2)Vitamin D(3) levels in wild-type mice.
+Administration of FGF23 to FGFR3(-/-)FGFR4(-/-) mice resulted in a decrease in serum parathyroid hormone (PTH) levels and an increase in serum phosphorus levels mediated by increased renal phosphate reabsorption.
+These data indicate that FGFR3 and 4 are the receptors that regulate serum 1,25(OH)(2)Vitamin D(3) levels in response to FGF23.
+In addition, when 1,25(OH)(2)Vitamin D(3) levels are not affected by FGF23, as in FGFR3(-/-)FGFR4(-/-) mice, a reduction in PTH can override the effects of FGF23 on renal phosphate transport.

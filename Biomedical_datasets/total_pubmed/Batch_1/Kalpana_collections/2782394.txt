@@ -1,0 +1,9 @@
+Type II pneumocytes were isolated by either Percoll density gradient centrifugation or by immunoglobulin G (IgG) panning from the lungs of normal rats and the right lung of rats subjected to left pneumonectomy.
+Cells were studied at 7- (pnx-7) and 15- (pnx-15) days postoperative, times during and after, respectively, rapid compensatory growth of the right lung.
+Acridine orange staining permitted resolution of type II cells from contaminants on the basis of high red fluorescence (greater than 590 nm).
+Simultaneous measurement of forward-angle light scatter (FALS) suggested a shift of pnx-7 cells toward greater size, which was reversed in pnx-15 cells.
+By Percoll gradient isolation, approximately 15% of pnx-7 cells analyzed were above the mean FALS of control cells.
+In contrast, approximately 30% of the pnx-7 cells isolated by IgG panning were above the mean FALS of corresponding control cells.
+Biochemical analyses of pnx-7 cells separated by cell sorting into "high FALS" and "low FALS" subgroups revealed that high FALS type II cells contained 50% more protein (P less than 0.05) and 140% more RNA (P less than 0.01) than low FALS cells, with no significant change in cellular DNA content.
+These data are consistent with previous studies of type II cells isolated from the lungs of pneumonectomized animals and confirm the presence of hypertrophic cells in these preparations.
+They provide a foundation from which to design further flow cytometric studies of the role of hypertrophic type II pneumocytes in compensatory lung growth.

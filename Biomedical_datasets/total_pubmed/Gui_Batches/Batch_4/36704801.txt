@@ -1,0 +1,17 @@
+Hyperglycemia and insulin resistance are concerns today worldwide.
+Recently, L-carnitine supplementation has been suggested as an effective adjunctive therapy in glycemic control.
+Therefore, it seems important to investigate its effect on glycemic markers.
+PubMed, Scopus, Web of Science, and the Cochrane databases were searched in October 2022 for prospective studies on the effects of L-carnitine supplementation on glycemic markers.
+Inclusion criteria included adult participants and taking oral L-carnitine supplements for at least seven days.
+The pooled weighted mean difference (WMD) was calculated using a random-effects model.
+We included the 41 randomized controlled trials (RCTs) (n = 2900) with 44 effect sizes in this study.
+In the pooled analysis; L-carnitine supplementation had a significant effect on fasting blood glucose (FBG) (mg/dl)
+[WMD = -3.22 mg/dl; 95% CI, -5.21 to -1.23; p = 0.002; I 2 = 88.6%, p < 0.001], hemoglobin A1c (HbA1c) (%)
+[WMD = -0.27%; 95% CI, -0.47 to -0.07; p = 0.007; I 2 = 90.1%, p < 0.001] and homeostasis model assessment-estimate insulin resistance (HOMA-IR)
+[WMD = -0.73; 95% CI, -1.21 to -0.25; p = 0.003; I 2 = 98.2%, p < 0.001] in the intervention compared to the control group.
+L-carnitine supplementation had a reducing effect on baseline FBG ≥100 mg/dl, trial duration ≥12 weeks, intervention dose ≥2 g/day, participants with overweight and obesity (baseline BMI 25-29.9 and >30 kg/m2), and diabetic patients.
+Also, L-carnitine significantly affected insulin (pmol/l), HOMA-IR (%), and HbA1c (%) in trial duration ≥12 weeks, intervention dose ≥2 g/day, and participants with obesity (baseline BMI >30 kg/m2).
+It also had a reducing effect on HOMA-IR in diabetic patients, non-diabetic patients, and just diabetic patients for insulin, and HbA1c.
+There was a significant nonlinear relationship between the duration of intervention and changes in FBG, HbA1c, and HOMA-IR.
+In addition, there was a significant nonlinear relationship between dose (≥2 g/day) and changes in insulin, as well as a significant linear relationship between the duration (weeks) (coefficients = -16.45, p = 0.004) of intervention and changes in HbA1C.
+L-carnitine could reduce the levels of FBG, HbA1c, and HOMA-IR.

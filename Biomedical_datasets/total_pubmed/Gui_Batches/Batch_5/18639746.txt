@@ -1,0 +1,7 @@
+The pathological key features of Alzheimer's disease (AD) are beta-amyloid peptide (Abeta)-containing senile plaques (SP) and neurofibrillary tangles.
+Previous studies have suggested that an extracellular elevation of the zinc concentration can initiate the deposition of Abeta and lead to the formation of SP.
+In the present study, we present data showing a correlation between zinc ions, zinc transporters (ZNTs) and AD, using immersion autometallography (AMG) and double immunofluorescence for the ZNTs and Abeta.
+We found that all the ZNTs tested (ZNT1, 3, 4, 5, 6, 7) were extensively present in the Abeta-positive plaques in the cortex of human AD brains, and the density of autometallographic silver enhanced zinc-sulphur nanoparticles were much higher in the plaques than in the surrounding zinc enriched (ZEN) terminals.
+Moreover, we found an abundant expression of ZNT3 and autometallographic grains in the amyloid angiopathic vessels.
+The subcellular localization of ZNTs and zinc ions were not detected, due to the limited tissue preservation in the present study.
+In conclusion, our data provided significant morphological evidence of zinc ions and ZNTs being actively involved in the pathological processes that lead to plaque formation.

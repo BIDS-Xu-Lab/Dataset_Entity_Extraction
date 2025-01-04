@@ -1,0 +1,11 @@
+The most frequent genetic alteration in transitional cell carcinoma of the urinary bladder (TCC) is loss of chromosome 9 which targets CDKN2A on 9p.
+The targets on 9q are not confirmed.
+Here, 81 advanced TCC specimens were investigated for loss of heterozygosity (LOH) and homozygous deletions (HD) on chromosome 9q using multiplex analysis of microsatellite markers.
+41/81 tumours (51%) showed LOH on 9q, with LOH at all markers in 33 cases.
+Eight partial losses involved three regions in 9q12, 9q22.3, and 9q33- 9q34.
+No mutations were identified in the candidate tumour suppressor gene DBCCR1 in three tumours showing restricted LOH at 9q32-33.
+22% of the specimens had HD at CDKN2A, but no HD was found on 9q.
+Two tumours had lost 9p only and five 9q only.
+9q LOH was not related to tumour grade or stage and present or absent with equal frequency in recurrent TCC.
+LOH on 9q correlated with the extent of genome-wide hypomethylation (P < 0.0001) which extended into satellite sequences located in 9q12 juxtacentromeric heterochromatin.
+While the high frequency of chromosome 9q loss in TCC may reflect destabilization of the chromosome related to hypomethylation of repetitive DNA, the data are compatible with the existence of tumour suppressor genes on this chromosome arm.

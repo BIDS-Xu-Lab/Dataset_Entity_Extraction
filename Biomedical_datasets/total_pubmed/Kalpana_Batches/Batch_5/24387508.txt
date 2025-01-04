@@ -1,0 +1,23 @@
+A new type of (103)Pd source (CivaString and CivaThin by CivaTech Oncology, Inc.) is examined.
+The source contains (103)Pd and Au radio-opaque marker(s), all contained within low-Zeff organic polymers that permit source flexibility.
+The CivaString source is available in lengths L of 10, 20, 30, 40, 50, and 60 mm, and referred to in the current study as CS10-CS60, respectively.
+A thinner design, CivaThin, has sources designated as CT10-CT60, respectively.
+The CivaString and CivaThin sources are 0.85 and 0.60 mm in diameter, respectively.
+The source design is novel and offers an opportunity to examine its interesting dosimetric properties in comparison to conventional (103)Pd seeds.
+The MCNP5 radiation transport code was used to estimate air-kerma rate and dose rate distributions with polar and cylindrical coordinate systems.
+Doses in water and prostate tissue phantoms were compared to determine differences between the TG-43 formalism and realistic clinical circumstances.
+The influence of Ti encapsulation and 2.7 keV photons was examined.
+The accuracy of superposition of dose distributions from shorter sources to create longer source dose distributions was also assessed.
+The normalized air-kerma rate was not highly dependent on L or the polar angle θ, with results being nearly identical between the CivaString and CivaThin sources for common L.
+The air-kerma strength was also weakly dependent on L.
+The uncertainty analysis established a standard uncertainty of 1.3% for the dose-rate constant Λ, where the largest contributors were μen/ρ and μ/ρ.
+The Λ values decreased with increasing L, which was largely explained by differences in solid angle.
+The radial dose function did not substantially vary among the CivaString and CivaThin sources for r ≥ 1 cm.
+However, behavior for r < 1 cm indicated that the Au marker(s) shielded radiation for the sources having L = 10, 30, and 50 mm.
+The 2D anisotropy function exhibited peaks and valleys that corresponded to positions adjacent to (103)Pd wells and Au markers, respectively.
+Dose distributions of both source types had minimal anisotropy in comparison to conventional (103)Pd seeds.
+Contributions by 2.7 keV photons comprised ≤ 0.1% of the dose from all photons at positions farther than 0.13 mm from the polymer source surface.
+Differences between absorbed dose to water and prostate became more substantial as distance from the sources increased, with prostate dose being about 13% lower for r = 5 cm.
+Using a cylindrical coordinate system, dose superposition of small length sources to replicate the dose distribution for a long length source proved to be a robust technique; a 2.0% tolerance compared with the reference dose distribution did not exceed 0.1 cm(3) for any of the examined source combinations.
+By design, the CivaString and CivaThin sources have novel dosimetric characteristics in comparison to Ti-encapsulated (103)Pd seeds.
+The dosimetric characterization has determined the reasons for these differences through analysis using Monte Carlo-based radiation transport simulations.

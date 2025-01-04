@@ -1,0 +1,12 @@
+The insect growth regulator (IGR) imidazole KK-42 induces hemolymph juvenile hormone esterase activity and precocious metamorphosis in Bombyx mori.
+As an initial step to understand the molecular action of KK-42, we isolated a full-length of juvenile hormone esterase cDNA from B. mori (BmJHE).
+The deduced amino acid sequence of BmJHE showed high identity to JHEs of Heliothis virescens (54%) and Choristoneura fumiferana (52%).
+Recombinant BmJHE protein expressed in the baculovirus expression system hydrolyzed 3H-JH III and JH analog, HEPTAT, indicating that BmJHE cDNA encodes functional JH esterase.
+Northern blot analysis showed that the BmJHE transcript was present predominantly in the fat body at the beginning of the last larval instar.
+During this instar, BmJHE transcript increased gradually until day 7, then decreased, and increased again on day 10 in the fat body.
+This temporary expression pattern was similar to that of JHE enzyme activity in hemolymph.
+In contrast, in the 4th instar, the BmJHE transcript was present in the fat body even though hemolymph JHE activity was very low.
+Western blot analysis using anti-BmJHE antiserum showed BmJHE protein was present in hemolymph during the 5th instar but not during the 4th instar.
+These results indicate that BmJHE protein is secreted into hemolymph at the metamorphic stage.
+Hemolymph JHE activity was high in precociously metamorphosed 4th instar larvae (treated KK-42) but low in normal 4th and extra-molted 6th instar larvae (fed 20E).
+KK-42-treated larvae showed high expression level of BmJHE transcript in the fat body, suggesting that KK-42 enhances BmJHE gene expression in the fat body.

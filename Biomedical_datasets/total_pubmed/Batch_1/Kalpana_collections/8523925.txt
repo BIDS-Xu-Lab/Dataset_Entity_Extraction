@@ -1,0 +1,12 @@
+This study was performed to define what clinical and analytical variables were significantly associated with the presence of pneumonia in febrile patients.
+A predictive model which may rationalize radiologic explorations is presented.
+A prospective study was carried out in two Emergency Departments in Madrid, Spain.
+One hundred forty-one patients presenting fever of more than 48 hours in evolution with symptomatology of the lower airway or without focal data were included.
+Following anamnesis, physical exploration and elemental hemogram the physician established a tentative diagnosis.
+Subsequently, on observation of thorax X-ray definitive diagnosis was made.
+Thirty-eight percent of the patients had pneumonia.
+[OR] 2.06), alcohol abuse (OR 3.18), chronic obstructive bronchopneumopathy (OR 4.35), respiratory symptoms (OR 5.73), cough (OR 5.37), expectoration (OR 2.08), dyspnea (OR 7.03), pleural pain (OR 13.38), pathologic auscultation (OR 7.46), leukocytes (OR 6.34) and neutrophilia (OR 8.10).
+Clinical prior to radiologic diagnosis showed a sensitivity of 45.3% and specificity of 93.2%.
+Pneumonia was demonstrated in 10% of the cases with respiratory symptomatology with normal auscultation and without neutrophilia.
+A logistic regression model is proposed for the diagnosis of pneumonia.
+Clinical judgment prior to observation of radiography has a low sensitivity in the improvement in clinical judgment.

@@ -1,0 +1,10 @@
+In medicine, understanding the pathophysiologic basis of exceptional circumstances has led to an enhanced understanding of biology.
+We have studied the circumstance of HIV-infected patients in whom antiretroviral therapy results in immunologic benefit, despite virologic failure.
+In such patients, two protease mutations, I54V and V82A, occur more frequently.
+Expressing HIV protease containing these mutations resulted in less cell death, caspase activation, and nuclear fragmentation than wild type (WT) HIV protease or HIV protease containing other mutations.
+The impaired induction of cell death was also associated with impaired cleavage of procaspase 8, a requisite event for HIV protease mediated cell death.
+Primary CD4 T cells expressing I54V or V82A protease underwent less cell death than with WT or other mutant proteases.
+Human T cells infected with HIV containing these mutations underwent less cell death and less Casp8p41 production than WT or HIV containing other protease mutations, despite similar degrees of viral replication.
+The reductions in cell death occurred both within infected cells, as well as in uninfected bystander cells.
+These data indicate that single point mutations within HIV protease which are selected in vivo can significantly impact the ability of HIV to kill CD4 T cells, while not impacting viral replication.
+Therefore, HIV protease regulates both HIV replication as well as HIV induced T cell depletion, the hallmark of HIV pathogenesis.

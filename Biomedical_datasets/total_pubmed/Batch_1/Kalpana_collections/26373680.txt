@@ -1,0 +1,7 @@
+Two novel porous luminescent metal-organic frameworks (MOFs, 1 and 2) have been constructed using 3,4-di(3,5-dicarboxyphenyl)phthalic acid using a hydrothermal method.
+Both MOFs can work as highly sensitive sensors to Fe(3+) by luminescent quenching.
+Analyses of the structures indicate a higher quenching efficiency of 2 because of the existence of active -COOH groups.
+Based on this consideration, the quenching mechanisms are studied and the processes are controlled by multiple mechanisms in which dynamic and static mechanisms of MOFs are discussed.
+Besides, the corresponding dynamic and static quenching constants are calculated, achieving the quantification evaluation of the quenching process.
+As expected, experimental data show that compound 2 possesses an overall quenching efficiency 6.9 times that of compound 1.
+Additionally, time-dependent intensity measurements, the shifts of the excitation spectrum and the appearance of a new emission peak all give visual proofs of the distinct mechanisms between the two MOFs.

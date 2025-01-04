@@ -1,0 +1,6 @@
+The possibility of flexibly retrieving our memories using a first-person or a third-person perspective (1PP or 3PP) has been extensively investigated in episodic memory research.
+Here, we used a Virtual Reality-based paradigm to manipulate the visual perspective used during the encoding stage to investigate age-related differences in the formation of memories experienced from 1PP vs. 3PP.
+32 young adults and 32 seniors participated in the study.
+Participants navigated through two virtual cities to encode complex real-life virtual events, from either a 1PP (as if from their egocentric viewpoint) or a 3PP, while actively controlling an avatar.
+While recognition accuracy was higher in young adults after encoding in 1PP compared to 3PP, there was no benefit in memory formation in 1PP for older adults.
+These findings are discussed in terms of both age-related changes in episodic memory functioning and self-referencing processes.

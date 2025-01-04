@@ -1,0 +1,9 @@
+scyllo-inositol dehydrogenase, isolated from Paracoccus laeviglucosivorans (Pl-sIDH), exhibits a broad substrate specificity: it oxidizes scyllo- and myo-inositols as well as L-glucose, converting L-glucose to L-glucono-1,5-lactone.
+Based on the crystal structures previously reported, Arg178 residue, located at the entry port of the catalytic site, seemed to be important for accepting substrates.
+Here, we report the role of Arg178 by using an alanine-substituted mutant for kinetic analysis as well as to determine the crystal structures.
+The wild-type Pl-sIDH exhibits the activity for scyllo-inositol most preferably followed by myo-inositol and L-glucose.
+On the contrary, the R178A mutant abolished the activities for both inositols, but remained active for L-glucose to the same extent as its wild-type.
+Based on the crystal structures of the mutant, the side chain of Asp191 flipped out of the substrate binding site.
+Therefore, Arg178 is important in positioning Asp191 correctly to exert its catalytic activities.
+Abbreviations: IDH: inositol dehydrogenase; LB: Luria-Bertani; kcat: catalyst rate constant; Km: Michaelis constant; NAD: nicotinamide dinucleotide; NADH:
+nicotinamide dinucleotide reduced form; PDB; Protein Data Bank; PDB entry: 6KTJ, 6KTK, 6KTL.

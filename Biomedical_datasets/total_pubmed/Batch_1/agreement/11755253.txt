@@ -1,0 +1,9 @@
+Previous studies have shown that activity of the cerebral N-methyl-D-aspartate (NMDA) receptor is modified by receptor nitration and phosphorylation.
+Since the sites for tyrosine phosphorylation and nitration are on adjacent carbon atoms, the present study tested the hypothesis that in vitro dephosphorylation of the NR1, NR2A and NR2B subunits of the NMDA receptor increases receptor nitration by peroxynitrite in cortical membranes of newborn piglets.
+To test this hypothesis, cerebral cortical P(2) membranes were prepared from normoxic and hypoxic newborn piglets and divided into dephosphorylated and non-dephosphorylated control groups.
+Dephosphorylation was performed in vitro by incubation with protein tyrosine phosphatase 1B and confirmed by immunoprecipitation with antiphosphotyrosine antibody.
+Dephosphorylated and non-dephosphorylated samples were nitrated with 0.5 mM peroxynitrite.
+Nitration was measured by immunoprecipitating with agarose-conjugated anti-nitrotyrosine antibody followed by Western blot analysis using specific anti -NR1, -NR2A and -NR2B primary antibodies.
+The data demonstrate that nitration of the NR1, NR2A and NR2B subunits of the NMDA receptor increases following dephosphorylation in both normoxic and hypoxic animals, however increase is much higher in hypoxic animals.
+We conclude that dephosphorylation at the site adjacent to the nitration site (ortho-position) on tyrosine residues of the NMDA receptor enhances nitration.
+Since in vitro nitration of the NMDA receptor increases the affinity of the glutamate recognition site and the receptor ion channel, we speculate that tyrosine dephosphorylation of the NMDA receptor will remove steric hindrance and facilitate nitration of tyrosine residues resulting in increased ion-channel activation in the hypoxic newborn brain.

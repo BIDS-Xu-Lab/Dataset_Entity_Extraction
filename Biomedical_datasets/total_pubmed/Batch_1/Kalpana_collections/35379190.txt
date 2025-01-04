@@ -1,0 +1,17 @@
+Despite the vaccination process in Germany, a large share of the population is still susceptible to SARS-CoV-2.
+In addition, we face the spread of novel variants.
+Until we overcome the pandemic, reasonable mitigation and opening strategies are crucial to balance public health and economic interests.
+We model the spread of SARS-CoV-2 over the German counties by a graph-SIR-type, metapopulation model with particular focus on commuter testing.
+We account for political interventions by varying contact reduction values in private and public locations such as homes, schools, workplaces, and other.
+We consider different levels of lockdown strictness, commuter testing strategies, or the delay of intervention implementation.
+We conduct numerical simulations to assess the effectiveness of the different intervention strategies after one month.
+The virus dynamics in the regions (German counties) are initialized randomly with incidences between 75 and 150 weekly new cases per 100,000 inhabitants (red zones) or below (green zones) and consider 25 different initial scenarios of randomly distributed red zones (between 2 and 20% of all counties).
+To account for uncertainty, we consider an ensemble set of 500 Monte Carlo runs for each scenario.
+We find that the strength of the lockdown in regions with out of control virus dynamics is most important to avoid the spread into neighboring regions.
+With very strict lockdowns in red zones, commuter testing rates of twice a week can substantially contribute to the safety of adjacent regions.
+In contrast, the negative effect of less strict interventions can be overcome by high commuter testing rates.
+A further key contributor is the potential delay of the intervention implementation.
+In order to keep the spread of the virus under control, strict regional lockdowns with minimum delay and commuter testing of at least twice a week are advisable.
+If less strict interventions are in favor, substantially increased testing rates are needed to avoid overall higher infection dynamics.
+Our results indicate that local containment of outbreaks and maintenance of low overall incidence is possible even in densely populated and highly connected regions such as Germany or Western Europe.
+While we demonstrate this on data from Germany, similar patterns of mobility likely exist in many countries and our results are, hence, generalizable to a certain extent.

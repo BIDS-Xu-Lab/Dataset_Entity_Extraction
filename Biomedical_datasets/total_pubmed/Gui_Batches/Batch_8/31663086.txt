@@ -1,0 +1,6 @@
+Although liquids are mastered late, English-speaking children are said to have fully acquired these segments by age 8.
+The aim of this study was to test whether liquid coarticulation was also adult-like by this age.
+8-year-old productions of /əLa/ and /əLu/ sequences were compared to 5-year-old and adult productions of these sequences.
+SSANOVA analyses of formant frequency trajectories indicated that, while adults contrasted rhotics and laterals from the onset of the vocalic sequence, F2 trajectories for rhotics and lateral were overlapped at the onset of the /əLa/ sequence in 8-year-old productions and across the entire /əLu/ sequence.
+The F2 trajectories for rhotics and laterals were even more overlapped in 5-year olds' productions.
+Overall, the study suggests that whereas younger children have difficulty coordinating the tongue body/root gesture with the tongue tip gesture, older children still struggle with the intergestural timing associated with liquid production.

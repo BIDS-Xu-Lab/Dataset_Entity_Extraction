@@ -1,0 +1,6 @@
+To investigate the relationship between hospital financing patterns and hospital resources for the care of babies born at low birthweight in New York City.
+Data on neonatal care beds in New York City hospitals for 1991, obtained from the Greater New York Hospital Association, which were matched to 1991 hospital-specific birthweight and payment distributions from the New York State Department of Health.
+Statistical analyses were used to assess the relationship between insurance and beds across all hospitals and across hospitals classified by ownership and teaching status.
+After adjusting for low birthweight and other measures of patient need and for hospital affiliation, the study finds that hospitals with more privately insured patients, especially those with more privately insured low-birthweight newborns, have statistically significantly more neonatal intensive care beds than do those with fewer such patients.
+This result persists within hospital affiliation categories.
+These results suggest that differences in the care received by privately insured, Medicaid insured, and uninsured low-birthweight babies may stem from differences in the resources available to the hospitals that treat these patients.

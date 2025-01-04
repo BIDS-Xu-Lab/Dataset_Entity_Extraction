@@ -1,0 +1,10 @@
+Despite interest in investigating age-related hip fractures, the determinants of decreased bone strength in advanced age are not clear enough.
+Hitherto it has been obscure how the aging process affects the femoral neck nanostructure and composition, particularly in the lateral subregion of the femoral neck, which is considered as a fracture-initiating site.
+The femoral bone samples used in this study were obtained at autopsy in 10 women without skeletal disease (five younger: aged 20-40 years, and five elderly: aged 73-94 years).
+Atomic force microscopy (AFM) was applied to explore the mineral grain size in situ in young vs. old trabecular bone samples from the lateral femoral neck.
+The chemical compositions of the samples were determined using inductively coupled plasma optical emission spectroscopy and direct current argon arc plasma optical emission spectrometry.
+Our AFM study revealed differences in trabecular bone nanostructure between young and elderly women.
+The mineral grain size in the trabeculae of the old women was larger than that in the young (median: 95 vs. 59nm), with a particular bimodal distribution: 45% were small grains (similar to the young) and the rest were larger.
+Since chemical analyses showed that levels of calcium and phosphorus were unchanged with age, our study suggests that during aging the existing bone mineral is reorganized and forms larger aggregates.
+Given the mechanical disadvantage of large-grained structures (decreased material strength), the observed nanostructural differences contribute to our understanding of the increased fragility of the lateral femoral neck in aged females.
+Moreover, increasing data on mineral grains in natural bone is essential for advancing calcium-phosphate ceramics for bone tissue replacement.

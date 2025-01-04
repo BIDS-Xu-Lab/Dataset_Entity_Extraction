@@ -1,0 +1,16 @@
+The human appendix has historically been considered a vestige of evolutionary development with an unknown function.
+While limited data are available on the microbial composition of the appendix, it has been postulated that this organ could serve as a microbial reservoir for repopulating the gastrointestinal tract in times of necessity.
+We aimed to explore the microbial composition of the human appendix, using high-throughput sequencing of the 16S rRNA gene V4 region.
+Seven patients, 5 to 25 years of age, presenting with symptoms of acute appendicitis were included in this study.
+Results showed considerable diversity and interindividual variability among the microbial composition of the appendix samples.
+In general, however, Firmicutes was the dominant phylum, with the majority of additional sequences being assigned at various levels to Proteobacteria, Bacteroidetes, Actinobacteria, and Fusobacteria.
+Despite the large diversity in the microbiota found within the appendix, however, a few major families and genera were found to comprise the majority of the sequences present.
+Interestingly, also, certain taxa not generally associated with the human intestine, including the oral pathogens Gemella, Parvimonas, and Fusobacterium, were identified among the appendix samples.
+The prevalence of genera such as Fusobacterium could also be linked to the severity of inflammation of the organ.
+We conclude that the human appendix contains a robust and varied microbiota distinct from the microbiotas in other niches within the human microbiome.
+The microbial composition of the human appendix is subject to extreme variability and comprises a diversity of biota that may play an important, as-yet-unknown role in human health.
+There are currently limited data available on the microbial composition of the human appendix.
+It has been suggested, however, that it may serve as a "safe house" for commensal bacteria that can reinoculate the gut at need.
+The present study is the first comprehensive view of the microbial composition of the appendix as determined by high-throughput sequencing.
+We have determined that the human appendix contains a wealth of microbes, including members of 15 phyla.
+Important information regarding the associated bacterial diversity of the appendix which will help determine the role, if any, the appendix microbiota has in human health is presented.

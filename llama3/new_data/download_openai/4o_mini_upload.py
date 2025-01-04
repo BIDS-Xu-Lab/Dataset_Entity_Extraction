@@ -36,9 +36,6 @@ print(client.batches.list(limit=10))
 # file-i5X1KLHZtYl7k67prv6Ia7fW
 # file-qHNVioWyohK9X0ZXbwSxNE3M
 
-'''curl https://api.openai.com/v1/files/file-w8ZS34ellDg3AgmqVedPYncO/content \
-  -H "Authorization: Bearer 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" > /home/gy237/project/llama3/new_data/download_openai/test.jsonl
-'''
 
 # # Retrieving the Results
 # # file-tOrHABMkkqiTCGQrclhxKe8m

@@ -1,0 +1,13 @@
+Quantitative susceptibility mapping (QSM) uses prior information to reconstruct maps, but prior information may not show pathology and introduce inconsistencies with susceptibility maps, degrade image quality and inadvertently smoothing image features.
+To develop a local field data-driven QSM reconstruction that does not depend on spatial edge prior information.
+A dataset from 2016 ISMRM QSM Challenge, 11 patients with glioblastoma, a patient with microbleeds and porcine heart.
+3D gradient echo sequence on 3T and 7T scanners.
+Accuracy was compared to Calculation of Susceptibility through Multiple Orientation Sampling (COSMOS), and several published techniques using region of interest (ROI) measurements, root-mean-squared error (RMSE), structural similarity index metric (SSIM), and high-frequency error norm (HFEN).
+Numerical ranking and semiquantitative image grading was performed by three expert observers to assess overall image quality (IQ) and image sharpness (IS).
+Bland-Altman, Friedman test, and Conover multiple comparisons.
+Loss adaptive dipole inversion (LADI) (β = 0.82, R2 = 0.96), morphology-enabled dipole inversion (MEDI) (β = 0.91, R2 = 0.97), and fast nonlinear susceptibility inversion (FANSI) (β = 0.81, R2 = 0.98) had excellent correlation with COSMOS and no bias was detected (bias = 0.006 ± 0.014, P < 0.05).
+In glioblastoma patients, LADI showed consistently better performance (IQGrade = 2.6 ± 0.4, ISGrade = 2.6 ± 0.3, IQRank = 3.5 ± 0.4, ISRank = 3.9 ± 0.2) compared with MEDI (IQGrade = 2.1 ± 0.3, ISGrade = 2 ± 0.5, IQRank = 2.4 ± 0.5, ISRank = 2.8 ± 0.2) and FANSI (IQGrade = 2.2 ± 0.5, ISGrade = 2 ± 0.4, IQRank = 2.8 ± 0.3, ISRank = 2.1 ± 0.2).
+Dark artifact visible near the infarcted region in MEDI (InfMEDI = -0.27 ± 0.06 ppm) was better mitigated by FANSI (InfFANSI-TGV = -0.17 ± 0.05 ppm) and LADI (InfLADI = -0.18 ± 0.05 ppm).
+For neuroimaging applications, LADI preserved image sharpness and fine features in glioblastoma and microbleed patients.
+LADI performed better at mitigating artifacts in cardiac QSM.
+4 TECHNICAL EFFICACY STAGE: 1 J. Magn. Reson.

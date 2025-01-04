@@ -1,0 +1,12 @@
+Clinical treatment decisions rely on prognostic evaluation of a patient's future health outcomes.
+Thus, predictive models under different treatment options are key factors for making good decisions.
+While many criteria exist for judging the statistical quality of a prediction model, few are available to measure its clinical utility.
+As a consequence, we may find that the addition of a clinical covariate or biomarker improves the statistical quality of the model, but has little effect on its clinical usefulness.
+We focus on the setting where a treatment decision may reduce a patient's risk of a poor outcome, but also comes at a cost; this may be monetary, inconvenience, or the potential side effects.
+This setting is exemplified by cancer chemoprevention, or the use of statins to reduce the risk of cardiovascular disease.
+We propose a novel approach to assessing a prediction model using a formal decision analytic framework.
+We combine the predictive model's ability to discriminate good from poor outcome with the net benefit afforded by treatment.
+In this framework, reduced risk is balanced against the cost of treatment.
+The relative cost-benefit of treatment provides a useful index to assist patient decisions.
+This index also identifies the relevant clinical risk regions where predictive improvement is needed.
+Our approach is illustrated using data from a colorectal adenoma chemoprevention trial.

@@ -1,0 +1,9 @@
+Erythrocytosis results when there is an increased red cell mass and thus an increased hemoglobin.
+The causes can be divided into primary intrinsic defects of the erythroid progenitor cell and secondary defects, where factors external to the erythroid compartment are responsible.
+Both can then be further divided into congenital and acquired categories.
+Congenital causes include mutations of the erythropoietin receptor and defects of the oxygen-sensing pathway including VHL, PHD2 and HIF2A mutations.
+When fully investigated there remain a number of patients in whom no cause can be elucidated who are currently described as having idiopathic erythrocytosis.
+Investigation should start with a full history and examination.
+Having eliminated the common entity polycythemia vera, further direction for investigation is guided by the erythropoietin level.
+Clinical consequences of the various erythrocytoses are not clear, but in some groups thromboembolic events have been described in young patients.
+Evidence is lacking to define best management, but aspirin and venesection to a target hematocrit should be considered.

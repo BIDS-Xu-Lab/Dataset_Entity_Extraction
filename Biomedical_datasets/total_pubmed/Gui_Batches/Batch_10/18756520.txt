@@ -1,0 +1,13 @@
+There is evidence that zinc may be involved in the pathogenesis of Parkinson's disease by an apoptotic pathway.
+However, the mechanisms underlying zinc-induced apoptosis are unknown.
+Previous studies showed that 6-hydroxydopamine (6-OHDA)-enhanced potassium channels are involved in apoptosis of dopaminergic neurons.
+Our study was designed to test whether zinc-induced apoptosis was mediated by potassium channels.
+First we demonstrated cell apoptosis with zinc treatment by Hoechst staining assay.
+The results showed that 13.38% +/- 0.6% of MES23.5 cells were apoptotic after 24 hr of incubation with 60 microM zinc sulfate.
+Then we observed that the tyrosine hydroxylase (TH) protein expression and the dopamine content decreased, as detected by Western blots and high-performance liquid chromatography-electrochemical detection (HPLC-ECD).
+We further elucidated the mechanism of cell apoptosis by using whole-cell patch clamp recording.
+The data demonstrated that MES23.5 cells exhibited a tetraethylammonium (TEA)-sensitive outward K(+) current with delayed rectifier characteristics.
+Increases of K(+) current density were recorded following the treatment with 60 microM zinc for 4-8 hr.
+After incubation with 20 mM TEA, the zinc-induced enhancement of K(+) currents was fully blocked.
+Furthermore, incubation with TEA blocked zinc-mediated caspase-3 activation and cell apoptosis.
+These data suggest that zinc-induced apoptosis of MES23.5 dopaminergic cells may due to the enhancement of TEA-sensitive K(+) channel activity.

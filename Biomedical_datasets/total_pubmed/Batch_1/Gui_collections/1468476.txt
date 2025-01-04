@@ -1,0 +1,8 @@
+The relation between survival and tumor cell type in renal cell carcinomas was reviewed in 79 cases.
+The mean follow-up period was 10 years.
+Tumors were classified into 5 groups according to the percentage of granular cells: group 1, 0-5%; group 2, 6-20%; group 3, 21-40%; group 4, 41-80%, and group 5, over 80%.
+Half of the patients (50.6%) revealed less than 5% of granular cells, and almost two thirds of the patients (64.64%) had less than 20% of granular cells.
+Our results showed a lack of correlation between the percentage of granular cell in the tumor and long-term survival (chi 2 p > 0.9 after 10 years).
+When the data were analyzed in groups of patients with the same clinical stage or nuclear grading, no significant correlation between the percentage of granular cells and long-term survival was found.
+However, the short-term survival, up to 3 years after diagnosis, was significantly higher for patients with tumors containing less than 20% of granular cells (64.6% in comparison to 46.4% survival for patients with over 20% granular cells; chi 2 p = 0.1).
+In addition, our data showed a significant correlation between the survival of patients and nuclear grading (chi 2 p < 0.003) as well as the surgical staging of the tumor (chi 2 p < 0.001).

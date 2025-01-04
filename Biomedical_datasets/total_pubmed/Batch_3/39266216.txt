@@ -1,0 +1,12 @@
+Chlamydia trachomatis is classified into 15 major genotypes, A to L3, based on the diversity of ompA gene.
+Here, we evaluated and characterised the distribution and diversity of ompA-genotypes over 32 years (1990-2021) in Portugal.
+The collection of the Portuguese National Reference Laboratory for Sexually Transmitted Infections includes 5824 C. trachomatis-positive samples that were successfully ompA-genotyped between 1990 and 2021.
+An in-depth analysis of ompA-genotypes distribution across the years, as well as by biological sex, age and anatomical site of infection was performed.
+ompA-genotype E was consistently the most frequently detected across the years, with a median frequency of 34.6%, followed by D/Da (17.6%), F (14.3%) and G (10.7%).
+The prevalence of lymphogranuloma venereum (LGV) genotypes (mostly L2, 62.0%, followed by L2b, 32.1%) increased since 2016, reaching the highest value in 2019 (20.9%).
+LGV, G and Da genotypes were associated with biological sex, specifically with being male, and were the most frequent among anorectal specimens (37.7%, 19.4% and 17.7%, respectively).
+Notably, LGV ompA-genotypes represented 38.9% of the male anorectal specimens since 2016, and were also detected among oropharynx and urogenital samples.
+ompA-genotype E was the most frequently detected at the oropharynx (28.6%) and urogenital (33.9%) sites during the study period, followed by D/Da (17.4%) and F (16.0%) in the urogenital specimens, and by G (26.1%) and D/Da (25.7%) in oropharynx specimens.
+Our data also highlight the emergence of the recombinant L2b/D-Da strain since 2017 (representing between 2.0% and 15.5% of LGV cases per year) and the non-negligible detection of ompA-genotype B in urogenital and anorectal specimens.
+This study provides a comprehensive landscape of C. trachomatis molecular surveillance in Portugal, highlighting the continued relevance of ompA-genotyping as a complement to rapid LGV-specific detection tests.
+It also contributes to a deeper understanding of C. trachomatis epidemiology, diversity and pathogenicity.

@@ -1,0 +1,13 @@
+Peroxiredoxin 6 (PRDX6) has been associated with tumor progression and cancer metastasis.
+Its acting on phospholipid hydroperoxides and its phospholipase-A2 activity are unique among the peroxiredoxin family and add complexity to its action mechanisms.
+As a first step towards the study of PRDX6 involvement in cancer, we have constructed a human hepatocarcinoma HepG2PRDX6-/- cell line using the CRISPR/Cas9 technique and have characterized the cellular response to lack of PRDX6.
+Applying quantitative global and redox proteomics, flow cytometry, in vivo extracellular flow analysis, Western blot and electron microscopy, we have detected diminished respiratory capacity, downregulation of mitochondrial proteins and altered mitochondrial morphology.
+Autophagic vesicles were abundant while the unfolded protein response (UPR), HIF1A and NRF2 transcription factors were not activated, despite increased levels of p62/SQSTM1 and reactive oxygen species (ROS).
+Insulin receptor (INSR), 3-phosphoinositide-dependent protein kinase 1 (PDPK1), uptake of glucose and hexokinase-2 (HK2) decreased markedly while nucleotide biosynthesis, lipogenesis and synthesis of long chain polyunsaturated fatty acids (LC-PUFA) increased.
+254 Cys-peptides belonging to 202 proteins underwent significant redox changes.
+PRDX6 knockout had an antiproliferative effect due to cell cycle arrest at G2/M transition, without signs of apoptosis.
+Loss of PLA2 may affect the levels of specific lipids altering lipid signaling pathways, while loss of peroxidase activity could induce redox changes at critical sensitive cysteine residues in key proteins.
+Oxidation of specific cysteines in Proliferating Cell Nuclear Antigen (PCNA) could interfere with entry into mitosis.
+The GSH/Glutaredoxin system was downregulated likely contributing to these redox changes.
+Altogether the data demonstrate that loss of PRDX6 slows down cell division and alters metabolism and mitochondrial function, so that cell survival depends on glycolysis to lactate for ATP production and on AMPK-independent autophagy to obtain building blocks for biosynthesis.
+PRDX6 is an important link in the chain of elements connecting redox homeostasis and proliferation.

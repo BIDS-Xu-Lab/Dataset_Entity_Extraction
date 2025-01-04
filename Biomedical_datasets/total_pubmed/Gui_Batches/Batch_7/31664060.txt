@@ -1,0 +1,7 @@
+Recreational boating is an increasing activity in coastal areas and its spatiotemporal overlap with key habitats of marine species pose a risk for negative noise impacts.
+Yet, recreational vessels are currently unaccounted for in vessel noise models using Automatic Identification System (AIS) data.
+Here we conduct a case study investigating noise contributions from vessels with and without AIS (non-AIS) in a shallow coastal area within the Inner Danish waters.
+By tracking vessels with theodolite and AIS, while recording ambient noise levels, we find that non-AIS vessels have a higher occurrence (83%) than AIS vessels, and that motorised recreational vessels can elevate third-octave band noise centred at 0.125, 2 and 16 kHz by 47-51 dB. Accordingly, these vessels dominated the soundscape in the study site due to their high numbers, high speeds and proximity to the coast.
+Furthermore, recreational vessels caused 49-85% of noise events potentially eliciting behavioural responses in harbour porpoises (AIS vessels caused 5-24%).
+We therefore conclude that AIS data would poorly predict vessel noise pollution and its impacts in this and other similar marine environments.
+We suggest to improve vessel noise models and impact assessments by requiring that faster and more powerful recreational vessels carry AIS-transmitters.

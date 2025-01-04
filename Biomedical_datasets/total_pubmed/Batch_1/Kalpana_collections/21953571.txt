@@ -1,0 +1,8 @@
+Trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate in development for treatment of HER2-positive cancers.
+T-DM1 has been tested as a single agent in a phase I and 2 phase II studies of patients with heavily pretreated metastatic breast cancer (MBC), with the maximum tolerated dose established at 3.6 mg/kg intravenously for every-3-week dosing.
+The authors present results from the population pharmacokinetics analysis for T-DM1.
+Population pharmacokinetics for T-DM1 were characterized using a clinical database of 273 patients from the 3 studies.
+Pharmacokinetics was best described by a linear 2-compartment model.
+Population estimates (interindividual variability [IIV]) for pharmacokinetic parameters were clearance, 0.7 L/d (21.0%); central compartment volume (V(c)), 3.33 L (13.2%); peripheral compartment volume (V(p)), 0.89 L (50.4%); and intercompartmental clearance, 0.78 L/d. Body weight, albumin, tumor burden, and aspartate aminotransferase levels were identified as statistically significant covariates accounting for interindividual variability in T-DM1 pharmacokinetics, with body weight having a greater effect on IIV of clearance and V(c) than other covariates.
+T-DM1 exposure was relatively consistent across the weight range following body weight-based dosing.
+This analysis suggests no further T-DM1 dose adjustments are necessary in heavily pretreated patients with MBC.

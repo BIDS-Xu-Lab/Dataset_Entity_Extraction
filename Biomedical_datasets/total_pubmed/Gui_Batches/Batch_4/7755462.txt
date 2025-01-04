@@ -1,0 +1,9 @@
+To study the modifications of the BP and its short-term variability in hypertensives patients submitted at to a psychological stress test.
+Fourty nine hypertensive subjects (27 women and 22 men, aged 46 +/- 9, SBP 164 +/- 10, DBP 97 +/- 6 mmHg after a 15 days placebo run-in period) were studied.
+We used the original version of Stroop Word Color Conflict Test (SWCCT) to induce mental stress.
+Haemodynamic parameters (SBP, DBP, MPB and HR) were measured continuously by a non invasive method (Finapres) with data acquisition every 0.5 second allowing spectral analysis of SBP variability at rest, during and after SWCCT (FFT algorithm on 256 point time series Anapres 1.2).
+All haemodynamic parameters increased during stress test (p = 0.001).
+The mean value and the variability (V) of SBP standard deviation (SD) increased during SWCCT (p = 0.001 and p = 0.003 respectively).
+Two minutes after the test, SPB returned to the rest level, while the overall variability of SPB remained elevated (p = 0.007).
+Spectral analysis: the total area under the curve and the mid frequency component (MFC) (66-128 mHz) increased during and after SWCCT (p = 0.001).
+Short-term variability of SBP is increased in hypertensives when submitted to a SWCCT appears to induce sustained orthosympathetic stimulation as suggested by the increase of mid frequency component (Mayer waves).

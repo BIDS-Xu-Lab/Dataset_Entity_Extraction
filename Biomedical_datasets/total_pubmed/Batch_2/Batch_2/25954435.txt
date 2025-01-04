@@ -1,0 +1,7 @@
+Vaccination campaigns are one of the most important and successful public health programs ever undertaken.
+People who want to learn about vaccines in order to make an informed decision on whether to vaccinate are faced with a wealth of information on the Internet, both for and against vaccinations.
+In this paper we develop an automated way to score Internet search queries and web pages as to the likelihood that a person making these queries or reading those pages would decide to vaccinate.
+We apply this method to data from a major Internet search engine, while people seek information about the Measles, Mumps and Rubella (MMR) vaccine.
+We show that our method is accurate, and use it to learn about the information acquisition process of people.
+Our results show that people who are pro-vaccination as well as people who are anti-vaccination seek similar information, but browsing this information has differing effect on their future browsing.
+These findings demonstrate the need for health authorities to tailor their information according to the current stance of users.

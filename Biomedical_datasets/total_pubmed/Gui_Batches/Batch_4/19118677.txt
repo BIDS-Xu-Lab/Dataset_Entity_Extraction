@@ -1,0 +1,5 @@
+To produce a quantitative picture of cellular life, one has to study the processes comprising it in individual living cells, quantifying intracellular dynamics with sufficient resolution to describe individual events in space and time.
+To perform such studies, we have recently developed a novel measurement approach, based on quantitative fluorescence microscopy, and applied it to the study of transcription in Escherichia coli and of the spatiotemporal dynamics of individual mRNA molecules in the cell (Golding and Cox, 2004, 2006a; Golding et al., 2005).
+The ability to detect individual events in real time depends on the engineering of an endogenous cellular process for amplifying the biological signal, in a way which allows signal detection to be independent of slow and highly stochastic cellular processes (Golding and Cox, 2006a).
+In this chapter, we describe the ingredients of our system and the way data is acquired and analyzed.
+We attempt to give general lessons for researchers who wish to implement a similar approach for the study of transcription in other organisms and, more generally, for the study of cellular processes with single-event resolution.

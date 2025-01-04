@@ -1,0 +1,4 @@
+Dragon Promoter Mapper (DPM) is a tool to model promoter structure of co-regulated genes using methodology of Bayesian networks.
+DPM exploits an exhaustive set of motif features (such as motif, its strand, the order of motif occurrence and mutual distance between the adjacent motifs) and generates models from the target promoter sequences, which may be used to (1) detect regions in a genomic sequence which are similar to the target promoters or (2) to classify other promoters as similar or not to the target promoter group.
+DPM can also be used for modelling of enhancers and silencers.
+Manual for using DPM web server is provided at http://defiant.i2r.a-star.edu.sg/projects/BayesPromoter/html/manual/manual.htm.

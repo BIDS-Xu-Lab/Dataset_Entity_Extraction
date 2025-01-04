@@ -1,0 +1,12 @@
+To quantify the relationships between age, sex and country of residence and sleep time (time in bed) in young people aged 9-18 years.
+Thirty studies of sleep patterns in healthy adolescents from the last 30 years in 20 countries were reviewed.
+Monte Carlo simulation generated pseudo-data where only summary statistics were available.
+Raw and pseudo-data were combined, generating a total of 92,977 data points.
+A mixed model, clustering on countries, analysed data for school and non-school days separately.
+Sleep time varied with sex, age and geographical region.
+School day sleep differed slightly between boys and girls, girls sleeping 11 min/night more than boys (p = 0.003).
+On non-school days, girls slept 29 min more each day (p = 0.003).
+Sleep time declined with age, - 14 min/day per year of age (school days), and seven min/night per year of age (non-school days).
+Large differences between countries, showed adolescents from Asian countries sleeping 40-60 min less each night than Americans, and 60-120 min less than Europeans.
+Sex, age, geographical region and day type interact and predict sleep patterns in adolescents.
+One consistent trend is the increasing gap between sleep on school days and non-school days as adolescents get older.

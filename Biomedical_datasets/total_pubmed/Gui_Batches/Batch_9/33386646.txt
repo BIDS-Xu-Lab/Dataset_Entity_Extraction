@@ -1,0 +1,11 @@
+To evaluate the role of Helicobacter pylori and other risk factors in recurrent aphthous stomatitis (RAS).
+Patients with functional dyspepsia responded to questionnaires regarding demographic and clinical data, anxiety and depression, and a specific RAS questionnaire.
+They underwent upper digestive endoscopy and H. pylori evaluation.
+476 patients were included and of the 372 evaluated for H. pylori, 65.6% were H. pylori-positive.
+RAS was reported by 32.6% (155/476).
+In the bivariate analysis of the 372 patients evaluated for gastric H. pylori status, positive subjects had a lower RAS prevalence (29.9%; 73/244) than H. pylori-negative (41.4%; 53/128) (p = .026).
+Smoking (p = .005) and older age (p = .034) were also associated with a lower prevalence, while female gender (p = .032) and lower income (p = .046) presented higher RAS prevalence.
+In the multivariate analysis, H. pylori infection (p = .017), smoking (p = .001), and older age (p = .013) were protective factors, while lower income (p = .030) and anxiety (p = .042) were risk factors.
+In the multivariate analysis of all patients, female gender, lower income, and more schooling years were risk factors.
+An unexpected lower prevalence of RAS was found in H. pylori-positive patients.
+Smoking, sex, age, income, education, and anxiety were associated with RAS.

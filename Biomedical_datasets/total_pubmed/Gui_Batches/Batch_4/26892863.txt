@@ -1,0 +1,10 @@
+Tenofovir alafenamide (TAF), a novel prodrug of the NtRTI tenofovir (TFV), delivers TFV-diphosphate (TFV-DP) to target cells more efficiently than the current prodrug, tenofovir disoproxil fumarate (TDF), with a 90% reduction in TFV plasma exposure.
+TAF, within the fixed dose combination of elvitegravir /cobicistat / emtricitabine (FTC)/TAF (E/C/F/TAF), has been evaluated in one Phase 2 and two Phase 3 randomized, double-blinded studies in HIV-infected treatment-naive patients, comparing E/C/F/TAF to E/C/F/TDF.
+In these studies, the TAF-containing group demonstrated non-inferior efficacy to the TDF-containing comparator group with 91.9% of E/C/F/TAF patients having <50 copies/mL of HIV-1 RNA at week 48.
+An integrated resistance analysis across these three studies was conducted, including HIV-1 genotypic analysis at screening, and genotypic/phenotypic analysis for patients with HIV-1 RNA>400 copies/mL at virologic failure.
+Pre-existing primary resistance-associated mutations (RAMs) were observed at screening among the 1903 randomized and treated patients: 7.5% had NRTI-RAMs, 18.2% had NNRTI-RAMs, and 3.4% had primary PI-RAMs.
+Pre-treatment RAMs did not influence treatment response at Week 48.
+In the E/C/F/TAF group, resistance development was rare; seven patients (0.7%, 7/978) developed NRTI-RAMs, five of whom (0.5%, 5/978) also developed primary INSTI-RAMs.
+In the E/C/F/TDF group, resistance development was also rare; seven patients (0.8%, 7/925) developed NRTI-RAMs, four of whom (0.4%, 4/925) also developed primary INSTI-RAMs.
+An additional analysis by deep sequencing in virologic failures revealed minimal differences compared to population sequencing.
+Overall, resistance development was rare in E/C/F/TAF-treated patients, and the pattern of emergent mutations was similar to E/C/F/TDF.

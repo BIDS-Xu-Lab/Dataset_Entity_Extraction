@@ -1,0 +1,14 @@
+The true impact of heat-induced changes in human bone regarding their sex estimation has not been comprehensively documented having a potentially negative impact on forensic anthropology.
+The objective of this paper was to evaluate how heat exposure affects sex estimation based on both morphological and metric features.
+The study focused in both low-to-medium intensity burns and high intensity burns.
+Selected sexually dimorphic features were analysed in 51 experimentally burnt skeletons from the 21st Century Identified Skeletal Collection.
+Bones were burnt to maximum temperatures between 450 °C and 1050 °C achieved after 75 to 257 min. Morphological methods tested in this study comprised the recommendations for hipbone features from Buikstra and Ubelaker (1994) and from Bruzek (2002).
+On the other hand, metric references tested here were the ones from Wasterlain (2000), Curate et al.
+(2013) focused on the humerus, femur, calcaneus and talus.
+Agreement was tested with Gwet's AC1 test and was further assessed by calculating the relative amount of perfect agreements.
+Results demonstrated that heat-induced changes affected not only the scoring of morphological features burnt at high temperatures but also the scoring of features burnt at lower intensities.
+On the other hand, metric features were only considerably affected in high intensity burns, no major changes being documented for low-to-medium intensity burns.
+For low-to-medium intensity burns, the Bruzek and Curate et al. methods revealed a better agreement between the pre- and post-burning scores.
+For high intensity burns, better agreement was obtained by using the Bruzek (2002) and Gonçalves et al.
+As expected, heat-induced warping, fracture and metric change had a major impact on the pre- and post-observations' agreement.
+Contrary to what has been systematically assumed over the years, this impact is also quite substantial in bones burnt at low-to-medium burn intensities so caution is advised during the analysis of this kind of burnt skeletal material.

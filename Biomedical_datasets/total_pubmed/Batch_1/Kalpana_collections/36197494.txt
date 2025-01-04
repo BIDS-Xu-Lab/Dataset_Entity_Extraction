@@ -1,0 +1,12 @@
+Recurrence-free survival (RFS) and overall survival (OS) data for adjuvant nivolumab versus placebo (proxy for routine surveillance) in patients with high-risk, resected melanoma are lacking.
+This post hoc, indirect treatment comparison (ITC) used pooled data from the phase 3 EORTC 18,071 (ipilimumab vs. placebo) and CheckMate 238 (nivolumab vs. ipilimumab) trials to assess RFS and OS with nivolumab versus placebo and the numbers needed to treat (NNT) over 4 years.
+Patients with resected stage IIIB-C cutaneous melanoma (American Joint Committee on Cancer seventh edition) were included.
+Inverse probability treatment weighting (IPTW) was used to balance baseline characteristics.
+RFS NNTs were calculated for nivolumab versus ipilimumab and placebo.
+OS NNTs were calculated for nivolumab versus placebo.
+To adjust for different post-recurrence treatments, the difference in post-recurrence survival between the two ipilimumab arms was added to OS of the placebo arm.
+This ITC included 278, 643, and 365 patients treated with nivolumab, ipilimumab, and placebo, respectively.
+[CI] 0.39-0.61) and ipilimumab (HR: 0.69; 95% CI 0.56-0.85).
+RFS NNT was 4.2 for nivolumab versus placebo and 8.9 for nivolumab versus ipilimumab.
+After post-recurrence survival adjustment, weighted 4-year OS rates were 75.8% for nivolumab and 64.1% for placebo; OS NNT for nivolumab versus placebo was 8.5.
+In patients with resected stage IIIB-C cutaneous melanoma in this ITC, nivolumab improved RFS versus placebo and ipilimumab, and OS versus placebo after post-recurrence survival adjustment.

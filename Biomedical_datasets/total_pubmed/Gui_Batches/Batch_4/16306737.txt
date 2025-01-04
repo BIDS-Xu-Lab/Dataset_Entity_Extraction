@@ -1,0 +1,11 @@
+This double-blind, randomized study was aimed at detecting the effect of three different volumes of intrathecal levobupivacaine on the minimum local analgesic dose in early labor.
+Ninety-three nulliparous women requesting combined spinal-epidural analgesia, at more than 37 weeks gestation, with spontaneous onset of labor, cervical dilatation from 2 to 5 cm, were enrolled.
+Parturients received 10 ml (group 10), 5 ml (group 5), or 2.5 ml (group 2.5) of the spinal solution containing plain levobupivacaine diluted with 0.9% wt/vol saline to achieve the desired dose and volume at room temperature.
+A lumbar epidural catheter was then placed.
+The initial dose for each group was 2.0 mg, and the following doses were determined by the response of the previous patient using up-down sequential allocation.
+The authors required the test solution to achieve a visual analog pain score of 10 mm or less to be considered effective.
+The up-down sequences were analyzed using the Dixon and Massey formula and regression logistic model.
+The minimum local analgesic dose of spinal levobupivacaine in spontaneously laboring women was 1.35 mg (95% confidence interval, 1.25-1.45 mg) in group 10, 1.63 mg (95% confidence interval, 1.51-1.76 mg) in group 5, and 1.97 mg (95% confidence interval, 1.89-2.05 mg) in group 2.5.
+A unit change in volume increased the odds of an effective response multiplicatively by a factor of 1.8.
+Analgesia can be achieved using lower doses and higher volumes even in subarachnoid space.
+The important role of the volume should be considered not only in epidural but also in spinal analgesia.

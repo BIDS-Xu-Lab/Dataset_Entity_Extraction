@@ -1,0 +1,10 @@
+Approximately 2.4 million adults were estimated to have hepatitis C virus (HCV) infection in the United States during 2013-2016 (1).
+Untreated, hepatitis C can lead to advanced liver disease, liver cancer, and death (2).
+The Viral Hepatitis National Strategic Plan for the United States calls for ≥80% of persons with hepatitis C to achieve viral clearance by 2030 (3).
+Characterizing the steps that follow a person's progression from testing to viral clearance and subsequent infection (clearance cascade) is critical for monitoring progress toward national elimination goals.
+Following CDC guidance (4), a simplified national laboratory results-based HCV five-step clearance cascade was developed using longitudinal data from a large national commercial laboratory throughout the decade since highly effective hepatitis C treatments became available.
+During January 1, 2013-December 31, 2021, a total of 1,719,493 persons were identified as ever having been infected with HCV.
+During January 1, 2013-December 31, 2022, 88% of those ever infected were classified as having received viral testing; among those who received viral testing, 69% were classified as having initial infection; among those with initial infection, 34% were classified as cured or cleared (treatment-induced or spontaneous); and among those persons, 7% were categorized as having persistent infection or reinfection.
+Among the 1.0 million persons with evidence of initial infection, approximately one third had evidence of viral clearance (cured or cleared).
+This simplified national HCV clearance cascade identifies substantial gaps in cure nearly a decade since highly effective direct-acting antiviral (DAA) agents became available and will facilitate the process of monitoring progress toward national elimination goals.
+It is essential that increased access to diagnosis, treatment, and prevention services for persons with hepatitis C be addressed to prevent progression of disease and ongoing transmission and achieve national hepatitis C elimination goals.

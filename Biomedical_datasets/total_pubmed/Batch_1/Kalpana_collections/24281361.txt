@@ -1,0 +1,12 @@
+Individuals with eating disorders show deficits in neuropsychological functioning which might preexist and underlie the etiology of the eating disorders and influence relapse.
+Deficits in cognitive flexibility, i.e., set-shifting and central coherence, might perpetuate the symptoms.
+Cognitive remediation therapy (CRT) was developed to improve cognitive flexibility, thereby increasing the likelihood of improved outcome.
+The focus of CRT is on how patients think, rather than on what patients think.
+The present study investigated the effectiveness of CRT for patients with a severe or enduring eating disorder by means of a randomized controlled trial comparing intensive treatment as usual (TAU) to CRT plus TAU.
+Eighty-two patients were randomly assigned to CRT plus TAU (n = 41) or TAU alone (n = 41).
+Outcome measures were set-shifting, central coherence, eating disorder and general psychopathology, motivation, quality of life and self-esteem.
+Assessments were performed at baseline (n = 82) and after 6 weeks (T1; n = 75) and 6 months (T2; n = 67).
+Data were analyzed by means of linear mixed model analyses.
+Patients who received CRT in addition to TAU improved significantly more with regard to eating disorder-related quality of life at the end of treatment (T1) and eating disorder psychopathology at follow-up (T2), compared to those who received TAU only.
+Moreover, moderator analyses revealed that patients with poor baseline set-shifting abilities benefited more from CRT than patients with no deficits in set-shifting abilities at baseline; the quality of life of the former group was higher than that of the latter at follow-up.
+CRT seems to be promising in enhancing the effectiveness of concurrent treatment.

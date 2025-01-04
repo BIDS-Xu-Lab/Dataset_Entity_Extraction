@@ -1,0 +1,14 @@
+Anaplastic thyroid cancer (ATC) is a rare and lethal malignant cancer.
+In recent years, the application of molecular-driven targeted therapy and immunotherapy has markedly improved the prognosis of ATC.
+This study aimed to identify characteristic genes for ATC diagnosis and revealed the role of ATC characteristic genes in drug sensitivity and immune cell infiltration.
+We downloaded ATC RNA-sequencing data from the GEO database.
+Following the combination and normalization of the dataset, we first divided the combined datasets into the training cohort and the validation cohort.
+We identified differentially expressed genes (DEGs) in ATC by differential expression analysis in the training cohort.
+We used two machine learning algorithms, least absolute shrinkage and selection operator (LASSO) and support vector machine-recursive feature elimination (SVM-RFE) to identify ATC characteristic genes.
+The CIBERSORT algorithm was performed to calculate the abundance of various immune cells in ATC.
+Finally, we validated the expression of ATC characteristic genes by quantitative RT-PCR (RT-qPCR) in ATC cell lines and immunohistochemistry (IHC).
+A total of 425 DEGs were identified in the training cohort, including 240 upregulated genes and 185 downregulated genes.
+Four ATC characteristic genes (ADM, PXDN, MMP1, and TFF3) were identified, and their diagnostic value was validated in the validation cohort (AUC in ROC analysis > 0.75).
+We established a practical gene expression-based nomogram to accurately predict the probability of ATC.
+We also found that ATC characteristic biomarkers are associated with the tumor immune microenvironment and drug sensitivity.
+ADM, PXDN, MMP1, and TFF3 might serve as potential ATC diagnostic biomarkers and may be helpful for ATC molecular targeted therapy and immunotherapy.

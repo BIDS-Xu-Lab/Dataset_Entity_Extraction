@@ -1,0 +1,12 @@
+Kidney disease is associated with an increased risk of cardiovascular disease (CVD); however, there have been few well-designed prospective studies of this issue in Asian populations.
+Recent epidemiological studies have suggested that a lower blood pressure level may be associated with an increased risk of CVD in individuals with kidney dysfunction.
+Using data from 10 community-based cohort studies in Japan, we conducted follow-up on a total of 30 657 individuals 40 to 89 years of age without preexisting CVD or kidney failure and examined the relationship between reduced glomerular filtration rate (GFR) and the risk of CVD.
+During an average 7.4-year follow-up, 727 individuals experienced CVD.
+The age- and sex-adjusted incidence of CVD increased significantly in subjects with GFR of 60 to 89 mL .
+1.73 m(-2) (4.3 per 1000 person-years, P=0.002) and in those with a GFR <60 mL .
+1.73 m(-2) (6.5, P<0.001) compared with those with a GFR >/=90 mL .
+Even after adjustment for potential confounding factors, subjects with a GFR <60 mL .
+1.73 m(-2) had a 57% (95% CI 14% to 115%) greater risk of CVD than those with a GFR >/=90 mL .
+The multivariate-adjusted hazard ratios of CVD increased in a log-linear manner with elevations in blood pressure levels, regardless of GFR levels (all P for trend <0.01).
+Our findings suggest that a reduced GFR is a significant risk factor for CVD in the general Japanese population.
+Additionally, a log-linear association of blood pressure level with CVD risk was observed, without evidence of a J-curve association, regardless of GFR levels.

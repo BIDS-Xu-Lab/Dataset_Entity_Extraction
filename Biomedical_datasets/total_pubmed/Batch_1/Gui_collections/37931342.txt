@@ -1,0 +1,20 @@
+Rickettsia species are obligate intracellular bacteria that can cause mild to severe human disease.
+Based on phylogeny, clinical symptoms, and antigenic properties, rickettsiae are classified into four groups.
+Infections by these agents are characterized by clinical symptoms ranging from self-limited to severe and even fatal febrile illnesses, depending on the Rickettsia spp.
+involved, the patient's predisposition, and timely medical care.
+The present study aimed to characterize rickettsial diseases in Yucatan according to clinical and laboratory features appearing in medical records corresponding to 427 samples taken between 2015 and 2018.
+A study was conducted over the period 2015-2018 on 427 samples.
+Clinical and laboratory features were documented from the patients' medical records.
+For molecular diagnosis, blood was collected in 3.8 % sodium citrate as anticoagulant, and DNA was extracted.
+Single-step and nested PCR amplification was performed using genus-specific primers for the rickettsial 17kDa and ompB genes.
+The amplicons obtained were purified and sequenced.
+A total of 22.7 % (97/427) positive cases of Rickettsia spp. were identified by PCR from 14.15 % (15/106) of the municipalities in Yucatan.
+75.2 % (73/97) of the cases were from the city of Merida during the autumn (September-December).
+The age groups with the highest frequency of confirmed cases were pediatric (5-14 years) (57.7 %) and adults (25-49 years) (42.2 %).
+There were six fatal cases in children, one associated with R. typhi and five with R. rickettsii.
+In non-fatal cases, 32.9 % (32/97) corresponded to the spotted fever group (SFG), and 60.8 % (59/97) to the typhus group (TG).
+Significant differences in signs, and laboratory data, were observed between the pediatric and adult populations.
+For the treatment of patients, oral and intravenous doxycycline was used in severe hospitalized cases.
+Typhus group and spotted fever group Rickettsiae are endemic pathological agents found in urban and rural areas of our region.
+Molecular identification allows for greater diagnostic accuracy and timely treatment and consequently a better prognosis.
+It is necessary to implement or reinforce measures focused on the dissemination of knowledge regarding rickettsial diseases and their prevention.

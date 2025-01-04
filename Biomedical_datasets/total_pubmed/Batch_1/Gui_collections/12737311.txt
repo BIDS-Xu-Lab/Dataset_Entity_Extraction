@@ -1,0 +1,6 @@
+The effect of interleukin (IL)-17 on the activation of inducible nitric oxide (NO) synthase (iNOS) and subsequent production of NO was investigated.
+IL-17 induced NO production in both mouse and rat endothelial cells in a dose- and time-dependent manner.
+This was paralleled by the induction of mRNA for iNOS, which was markedly down-regulated by specific antagonists of protein tyrosine kinase, p38 MAP kinase or iNOS transcription factor NF-kappaB.
+The expression of iNOS transcription factor IRF-1 was also induced by IL-17 and blocked by all three inhibitors, suggesting that the induction of iNOS by IL-17 might be partly exerted through IRF-1 activation.
+Neutralization with the specific antibody showed that endogenous IL-17 is involved in T cell-mediated NO production in endothelial cells and NO-dependent suppression of T cell growth.
+These data indicate that IL-17-triggered iNOS activation in endothelial cells might participate in regulation of the T cell-dependent inflammatory response.

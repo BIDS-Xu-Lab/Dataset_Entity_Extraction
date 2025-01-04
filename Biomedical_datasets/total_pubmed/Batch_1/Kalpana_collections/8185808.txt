@@ -1,0 +1,9 @@
+We have studied the effect of LHRH and neuropeptide Y (NPY) on prolactin (PRL) mRNA levels in pituitary reaggregate cell cultures from 14-day-old female rats, by means of in situ hybridization and Northern blot analysis.
+As estimated by computer-image analysis, addition of LHRH on day 5 in culture for 40 h resulted in a 37% increase in the total cytoplasmic areas of cells containing PRL mRNA, visualized using a digoxigenin-labelled PRL cRNA.
+The size of individual PRL-expressing cells was not influenced, nor was the content of PRL mRNA per cell.
+A similar effect of LHRH was found by dot blot hybridization of extracted RNA.
+PRL mRNA levels were not affected by NPY.
+LHRH induced a 29% increase in the number of PRL mRNA-expressing cells processing through the S phase of the cell cycle, visualized by the incorporation of [3H]thymidine ([3H]T) into DNA over 16 h. The fraction of [3H]T-labelled cells was 10-12% of the total cell population.
+NPY did not influence the number of [3H]T-positive cells expressing PRL mRNA, but completely blocked the effect of LHRH on the latter population.
+The present data suggest that LHRH, probably via a paracrine action of gonadotrophs, stimulates the recruitment of new lactotrophs, an action which is negatively modulated by NPY.
+Since the magnitude of this effect was the same in the total pituitary cell population as in cells processing through the S phase of the cell cycle and presumably mitosis, recruitment of lactotrophs seems to be based on differentiation of progenitor or immature cells into PRL-expressing cells, rather than on a mitogenic action on pre-existing lactotrophs alone.

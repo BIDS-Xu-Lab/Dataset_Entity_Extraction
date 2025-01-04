@@ -1,0 +1,9 @@
+Nonsense-mediated mRNA decay (NMD) is a eukaryotic post-transcriptional gene regulation mechanism that eliminates mRNAs with the termination codon (TC) located in an unfavorable environment for efficient translation termination.
+The best-studied NMD-targeted mRNAs contain premature termination codons (PTCs); however, NMD regulates even many physiological mRNAs.
+An exon-junction complex (EJC) located downstream from a TC acts as an NMD-enhancing signal, but is not generally required for NMD.
+Here, we compared these "EJC-enhanced" and "EJC-independent" modes of NMD with regard to their requirement for seven known NMD factors in human cells using two well-characterized NMD reporter genes (immunoglobulin μ and β-Globin) with or without an intron downstream from the PTC.
+We show that both NMD modes depend on UPF1 and SMG1, but detected transcript-specific differences with respect to the requirement for UPF2 and UPF3b, consistent with previously reported UPF2- and UPF3-independent branches of NMD.
+In addition and contrary to expectation, a higher sensitivity of EJC-independent NMD to reduced UPF2 and UPF3b concentrations was observed.
+Our data further revealed a redundancy of the endo- and exonucleolytic mRNA degradation pathways in both modes of NMD.
+Moreover, the relative contributions of both decay pathways differed between the reporters, with PTC-containing immunoglobulin μ transcripts being preferentially subjected to SMG6-mediated endonucleolytic cleavage, whereas β-Globin transcripts were predominantly degraded by the SMG5/SMG7-dependent pathway.
+Overall, the surprising heterogeneity observed with only two NMD reporter pairs suggests the existence of several mechanistically distinct branches of NMD in human cells.

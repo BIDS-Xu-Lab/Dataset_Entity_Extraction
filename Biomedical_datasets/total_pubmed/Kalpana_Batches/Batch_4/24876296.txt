@@ -1,0 +1,10 @@
+Bulk modulus of elasticity (ɛ), depicting the flexibility of plant tissues, is recognized as an important component in maintaining internal water balance.
+Elevated ɛ and comparatively low osmotic potential (Ψπ) may work in concert to effectively maintain vital cellular water content.
+This concept, termed the 'cell water conservation hypothesis', may foster tolerance for lower soil-water potentials in plants while minimizing cell dehydration and shrinkage.
+Therefore, the accumulation of solutes in marine plants, causing decreases in Ψπ, play an important role in plant-water relations and likely works with higher ɛ to achieve favourable cell volumes.
+While it is generally held that plants residing in marine systems have higher leaf tissue ɛ, to our knowledge no study has specifically addressed this notion in aquatic and wetland plants residing in marine and freshwater systems.
+Therefore, we compared ɛ and Ψπ in leaf tissues of 38 freshwater, coastal and marine plant species using data collected in our laboratory, with additional values from the literature.
+Overall, 8 of the 10 highest ɛ values were observed in marine plants, and 20 of the lowest 25 ɛ values were recorded in freshwater plants.
+As expected, marine plants often had lower Ψπ, wherein the majority of marine plants were below -1.0 MPa and the majority of freshwater plants were above -1.0 MPa.
+While there were no differences among habitat type and symplastic water content (θsym), we did observe higher θsym in shrubs when compared with graminoids, and believe that the comparatively low θsym observed in aquatic grasses may be attributed to their tendency to develop aerenchyma that hold apoplastic water.
+These results, with few exceptions, support the premise that leaf tissues of plants acclimated to marine environments tend to have higher ɛ and lower Ψπ, and agree with the general tenets of the cell water conservation hypothesis.

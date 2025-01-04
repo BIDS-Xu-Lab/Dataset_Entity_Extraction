@@ -1,0 +1,7 @@
+In the urban-rural fringe of the Bangkok Metropolitan Region, rapid urbanization is creating a land-use mixture of agricultural fields and residential areas.
+To develop appropriate policies to enhance recycling of municipal solid waste (MSW), current MSW management was investigated in the oboto (local administrative district) of Bang Maenang in Nonthaburi Province, adjoining Bangkok.
+The authors conducted a structural interview survey with waste-related organizations and local residents, analysed household waste generation, and performed global positioning system (GPS) tracking of municipal garbage trucks.
+It was found that MSW was collected and treated by local government, private-sector entities, and the local community separately.
+Lack of integrated management of these entities complicated waste flow in the study area, and some residences were not served by MSW collection.
+Organic waste, such as kitchen garbage and yard waste, accounted for a large proportion of waste generation but was underutilized.
+Through GPS/GIS analysis, the waste collection rate of the generated waste amount was estimated to be 45.5- 51.1% of total generation.

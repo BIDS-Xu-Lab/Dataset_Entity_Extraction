@@ -1,0 +1,22 @@
+Colorectal cancer is the major diagnostic and therapeutic problem.
+The number of patients in the world has increased recently.
+In our country it is detected late and patients visit doctor in the advanced stage of the disease with already developed metastases.
+A clinical study was conducted at the Clinic of gastroenterohepatologists, Clinical Center of Sarajevo University on 164 patients.
+Special attention was given to the symptoms, which are considered to be a macroscopically visible as bleeding, anemia pain, weight loss and disturbance of defecation.
+Smoking had no effect because a small number of observed patients smoked.
+Endoscopic examination revealed localization of the tumor in the colon and then underwent targeted biopsy, histological analysis by pathologist, and we determined the concentration of CEA and CA19-9 in the serum.
+In order to get the most relevant results we used larger data set.
+The program used to prepare the data was Microsoft Excel 2013, and for the creation of decision trees is a used software RapidMiner version 5.
+Our research has shown that patients older than 55 years with significant stenosis, metastasis and diarrhea that lasted longer than 3.5 months and bleeding that lasted up to 10 months had cancer of the rectum.
+Bleeding that lasts longer than 10 months indicated that it was the case of cancer that was localized in the rectum in men and sigma in women.
+Patients older than 82.5 years and had diarrhea up to 3.5 months developed cancer in the sigma part of the colon.
+Analyzing pain as a symptom of an alarm, the study found that pain that lasts longer than a few days, is caused by rectal cancer, and occurs after the age of 70.5 years, and in patients younger than 63 years anemia as a alarm symptom, which lasted more than two months in men was caused by cancer of the rectum and in women cancer in other localizations within colon.
+In patients without stenosis developed bleeding as the most important symptom.
+We can say that after the age of 74 years cancer of the rectum and sigmoid is more common in men and in women dominate sigma and other locations in the colon.
+In patients under the 70 years of age with short time of bleeding, cancer predominates in rectum.
+In patients younger than 63 years can be concluded that weight loss is greater than 8 kg follows rectal cancer.
+In patients with bleeding that lasted one month or more as classifier occurring the age and gender.
+Patients younger than 74 years have rectal cancer, while older than 73 years have cancer at other sites.
+In women these locations are sigma and rectum.
+we can conclude that regardless of the technical advances in medicine must pay special attention to the symptoms that doctors will refer to the localization of the tumor, stenosis of the intestine and possibly metastasis.
+Key words: Colorectal cancer, diagnostic procedures, concentration of CEA and CA19-9.

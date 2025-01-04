@@ -1,0 +1,13 @@
+The aim of this study was to examine the association between food prices and food outlet density and changes in the body mass index (BMI) among elementary school children in the USA.
+The Early Childhood Longitudinal Study followed a nationally representative sample of kindergarten children over 4 years.
+We merged individual-level data to (a) metropolitan data on food prices and (b) per capita number of restaurants, grocery stores and convenience stores in the child's home and school zip code.
+The dependent variables were BMI changes over 1 and 3 years.
+We analysed mean changes with least-squares regression, and median changes and 85th percentile changes with quantile regression.
+We controlled for baseline BMI, age, real family income and sociodemographic characteristics.
+Lower real prices for vegetables and fruits were found to predict a significantly lower gain in BMI between kindergarten and third grade; half of that effect was found between kindergarten and first grade.
+Lower meat prices had the opposite effect, although this effect was generally smaller in magnitude and was insignificant for BMI gain over 3 years.
+Differences across subgroups were not statistically significant due to smaller sample sizes in subgroup analyses, but the estimated effects were meaningfully larger for children in poverty, children already at risk for overweight or overweight in kindergarten, and Asian and Hispanic children.
+There were no significant effects for dairy or fast-food prices, nor for outlet density, once we had controlled for individual characteristics and random intercepts to adjust standard errors for the sampling design.
+The geographic variation in fruit and vegetable prices is large enough to explain a meaningful amount of the differential gain in BMI among elementary school children across metropolitan areas.
+However, as consumption information was not available, we cannot confirm that this is the actual pathway.
+We found no effects of food outlet density at the neighbourhood level, possibly because availability is not an issue in metropolitan areas.

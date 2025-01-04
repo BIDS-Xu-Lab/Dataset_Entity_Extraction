@@ -1,0 +1,8 @@
+Intoxication by the organophosphate compound soman causes prolonged seizures that lead to neuropathology in the brain.
+This MRI-based study describes the temporal and spatial evolution of brain pathology that follows soman-induced convulsions.
+We observed significant decreases in apparent diffusion coefficients (ADC; 23% below control) of the hippocampus and thalamus by 12 h after soman treatment.
+The ADC then returned to near normal values in all regions at 24 h but declined again during the next 7 days.
+These data suggest that the initial cellular degradation may be resolved but is ultimately followed by regional cellular remodeling.
+T2 relaxation values declined significantly at 12 h (37% decrease) returning to near normal values by 24 h. These data lend detail to the model suggesting that injured tissues experience an edematous influx that is resolved by 24 h.
+The imaging data was fully supported by histopathological comparisons where moderate cell loss and swelling within the hippocampus and piriform cortex was observed.
+This is the first report providing excellenttemporal and spatial resolution of emerging soman-mediated, seizure-induced neuropathology using MRI with histological correlation.

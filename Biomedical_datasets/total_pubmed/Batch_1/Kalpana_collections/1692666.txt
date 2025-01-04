@@ -1,0 +1,8 @@
+Transcervical and transabdominal chorionic villus sampling are believed, on the basis of indirect evidence, to result in fetomaternal transfusion.
+We sought to measure this phenomenon by devising a simple method that would allow us to identify variables that influence fetomaternal transfusion.
+We investigated patients undergoing transcervical-chorionic villus sampling (n = 15) and transabdominal-chorionic villus sampling (n = 15), restricting the sample to subjects who required only a single catheter passage or needle insertion to obtain villi.
+Maternal serum alpha-fetoprotein was measured before and after the procedure along with alpha-fetoprotein concentration of the transport medium into which the villi had been aspirated.
+We first confirmed that the change in maternal serum alpha-fetoprotein levels after chorionic villus sampling, an indirect measure of fetomaternal transfusion, was indeed correlated with the alpha-fetoprotein concentration of transport medium into which the villi were aspirated (p = 0.0350).
+Fetomaternal transfusion next proved to be correlated with the amount of villi obtained (p = 0.0279).
+However, when adjusted for the amount of villi obtained, no significant difference was observed between transcervical and transabdominal-chorionic villus sampling with respect to the change in maternal serum alpha-fetoprotein levels after chorionic villus sampling (p = 0.8512).
+These data suggest that the magnitude of fetomaternal transfusion depends on the amount of villi obtained but not on the chorionic villus sampling method used.

@@ -1,0 +1,6 @@
+The variety of clinical manifestations of human cytomegalovirus infection probably results from both viral and host factors.
+Because genetic markers that span the viral genome are needed to identify such viral factors, polymorphisms at the UL4 gene locus were analyzed.
+DNA sequence analyses revealed 4 UL4-based genotypes, 2 of which were closely related but distinguishable by an uncommon polymorphism that results in overexpression of gpUL4.
+Similarities in the spectra of polymorphisms detected in various sets of samples reveal that all UL4 types infect a diversity of organs in different patient groups and in different geographic locales.
+Simultaneous infection by >1 UL4 type is common in AIDS patients.
+Data from sequencing analyses and from a rapid and simple UL4 typing assay did not detect linkage between UL4 and glycoprotein B types, which suggests that UL4 genotyping should be useful for studies that attempt to identify cytomegalovirus genes involved in disease pathogenesis.

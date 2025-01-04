@@ -1,0 +1,9 @@
+Angiogenesis is a dynamic, multi-step process.
+It is known that about 70 diseases are related to angiogenesis.
+Both the experimental and the literature reports showed that Sophora flavescens inhibit angiogenesis significantly, but the material basis and the mechanism of action have not been clear.
+In this study, molecular docking was used for screening of anti-angiogenesis flavonoids from the roots of S. flavescens.
+One handred and twenty-six flavonoids selected from S. flavescens were screened in the docking ligand database with six targets(VEGF-a,TEK,KDR,Flt1,FGFR1 and FGFR2) as the receptors.
+In addition, the small-molecule approved drugs of targets from DrugBank database were set as a reference with minimum score of each target's approved drugs as threshold.
+The LibDock module in Discovery Studio 2.5 (DS2.5) software was applied to screen the compounds.
+As a result, 37 compounds were screened out that their scores were higher than the minimum score of approved drugs as well as being in the top of 10%.
+At last the mechanism of flavonoids anti-angiogenesis was preliminarily revealed, which provided a new method for the development of angiogenesis inhibitor drugs.

@@ -1,0 +1,6 @@
+Experimental features of a transgenic mouse mutation assay based on a lacI target transgene from Escherichia coli are considered in detail.
+Sources of variability in the experimental protocol that can affect the statistical nature of the observations are examined with the goal of identifying sources of excess variation in the observed mutant fractions.
+The sources include plate-to-plate (within packages), package-to-package (within animals), and animal-to-animal (within study) variability.
+Data from two laboratories are evaluated, using various statistical methods to identify excess variability.
+Results suggest only scattered patterns of excess variability, except possibly in those cases where genomic DNA from test animals is stored for extended periods (e.g., > 90 days) after isolation from tissues.
+Further study is encouraged to examine the validity and implications of this time/storage-related effect.

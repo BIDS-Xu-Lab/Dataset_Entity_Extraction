@@ -1,0 +1,9 @@
+Retinoic acid (RA) morphogenetic properties have been used in different kinds of therapies, from neurodegenerative disorders to some types of cancer such as promyelocytic leukemia and neuroblastoma.
+However, most of the pathways responsible for RA effects remain unknown.
+To investigate such pathways, we used a RA-induced differentiation model in the human neuroblastoma cells, SH-SY5Y. Our data showed that n-acetyl-cysteine (NAC) reduced cells' proliferation rate and increased cells' sensitivity to RA toxicity.
+Simultaneously, NAC pre-incubation attenuated nuclear factor erythroid 2-like factor 2 (NRF2) activation by RA.
+None of these effects were obtained with Trolox® as antioxidant, suggesting a cysteine signalization by RA.
+NRF2 knockdown increased cell sensibility to RA after 96 h of treatment and diminished neuroblastoma proliferation rate.
+Conversely, NRF2 overexpression limited RA anti-proliferative effects and increased cell proliferation.
+In addition, a rapid and non-genomic activation of the ERK 1/2 and PI3K/AKT pathways revealed to be equally required to promote NRF2 activation and necessary for RA-induced differentiation.
+Together, we provide data correlating NRF2 activity with neuroblastoma proliferation and resistance to RA treatments; thus, this pathway could be a potential target to optimize neuroblastoma chemotherapeutic response as well as in vitro neuronal differentiation protocols.

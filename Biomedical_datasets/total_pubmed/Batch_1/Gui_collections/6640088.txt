@@ -1,0 +1,3 @@
+Electron microscopy used in experiments on white mice has shown the presence of vacuoles containing collagen fibers in the cytoplasm of some hepatocytes in liver cirrhosis and during its reverse development.
+These vacuoles mostly merged with lysosomes.
+The data obtained are suggestive of the involvement of hepatocytes in the resorption of collagen formed in abundance by means of its phagocytosis.

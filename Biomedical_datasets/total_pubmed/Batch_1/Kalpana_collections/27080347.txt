@@ -1,0 +1,14 @@
+Reduced exposure of trainees to open repair (OR) of abdominal aortic aneurysm (AAA) during training has been considered detrimental to outcome.
+The Australasian Vascular Audit (AVA) was interrogated for AAA procedures between 1 January 2010 and 31 December 2014.
+Surgeons completing training before 2006 (group 1) were compared with those attaining their qualification subsequently (group 2).
+The Australian Institute of Health and Welfare (AIHW) database was also interrogated to confirm the trends over time of open and endovascular repair (EVAR) since 2000.
+Actual exposure to OR and EVAR of AAA by trainees from 2010 to 2014 was also extracted.
+One hundred and forty-six surgeons in group 1 performed 3049 OR compared with 997 for the 66 surgeons in group 2.
+Overall mortality for group 1 was 9.8% and for group 2, 15% (P < 0.0001).
+However, proportionately more ruptured AAA were treated in group 2 (31.5%) compared to group 1 (21.6%) (P < 0.0001).
+There was a slightly higher mortality in group 2 for ruptured but not intact aneurysm repair.
+Logistic regression analysis did not show the consultant group to be a significant variable in the model.
+EVAR was performed in 7409 patients during the study period; group 1 had a 1.5% mortality rate compared with 1.6% for group 2 (P = 0.76).
+AIHW data showed a trend of increasing EVAR with time.
+Considerable variation in OR exposure by trainees exists.
+Reduced exposure to OR by younger trainees did not significantly affect surgical outcome when compared with those surgeons trained in an earlier period.

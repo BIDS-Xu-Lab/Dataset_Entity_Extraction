@@ -1,0 +1,8 @@
+Modification of pathogenic strains with the passage of time is responsible for evolution in the timeline of vaccine development for last 30 years.
+Recent advancements in computational vaccinology on the one hand and genome sequencing approaches on the other have generated new hopes in vaccine development.
+The aim of this review was to discuss the evolution of vaccines, their characteristics and limitations.
+In this review, we highlighted the evolution of vaccines, from first generation to the current status, pointing out how different vaccines have emerged and different approaches that are being followed up in the development of more rational vaccines against a wide range of diseases.
+Data were collected using Google Scholar, Web of Science, Science Direct, Web of Knowledge, Scopus and Science Hub, whereas computational tools such as NCBI, GeneMANIA and STRING were used to analyse the pathways of vaccine action.
+Innovative tools, such as computational tools, recombinant technologies and intra-dermal devices, are currently being investigated in order to improve the immunological response.
+New technologies enlightened the interactions of host proteins with pathogenic proteins for vaccine candidate development, but still there is a need of integrating transcriptomic and proteomic approaches.
+Although immunization with genomics data is a successful approach, its advantages must be assessed case by case and its applicability depends on the nature of the agent to be immunized, the nature of the antigen and the type of immune response required to achieve effective protection.

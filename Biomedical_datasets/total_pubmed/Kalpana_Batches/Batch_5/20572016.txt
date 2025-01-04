@@ -1,0 +1,5 @@
+Analysis of the literature reporting p53 mutations shows that 8% of report display typographical mistakes with a notable increase in recent years.
+These errors are sometimes isolated, but in some cases, they concern several or even all mutations described in a single article.
+Furthermore, some works report unusual profile of p53 mutations whose accuracy is difficult to assess.
+To handle these problems we have developed MUT-TP53 2.0, an accurate and powerful tool that will automatically handle p53 mutations and generate tables ready for publication that will lower the risk of typographical errors.
+Furthermore, using functional and statistical information issued from the UMD p53 database, it allows to assess the biological activity and the likelihood of every p53 mutant.

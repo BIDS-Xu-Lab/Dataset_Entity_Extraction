@@ -1,0 +1,8 @@
+Overweight and obesity present alarming global health problems including detrimental health risks that call for effective interventions.
+Considerable research has examined behavioural and psychological factors associated with weight loss to advance the field of obesity and overweight.
+In line with the literature, this study aimed to develop a behavioural and psychological profile based on factors of personality, eating behaviours, emotional functioning, physical well-being, and psychopathology.
+The sample consisted of 105 community participants who had reduced their bodyweight by at least 10% and had either successfully maintained their weight loss for a minimum 12-month period (n = 41) or had regained their weight loss within 12 months (n = 64).
+Participants completed an online survey comprising demographic items and four empirical measures (Mini Marker Personality Scale, Patient Health Questionnaire, Three-Factor Eating Questionnaire-Revised, and a food screening tool).
+Based on significant bivariate correlations results, four factors (fat intake, restrained eating, uncontrolled eating, and emotional eating) were entered into a binary logistic regression.
+Restrained eating was the only factor that significantly increased the likelihood of predicting successful long-term weight loss.
+Findings have implications for overweight and obesity future research, which may guide the direction of obesity and overweight treatments.

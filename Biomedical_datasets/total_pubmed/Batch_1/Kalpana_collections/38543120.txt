@@ -1,0 +1,6 @@
+This review article explores the evolving landscape of Molecular Radiotherapy (MRT), emphasizing Peptide Receptor Radionuclide Therapy (PRRT) for neuroendocrine tumours (NETs).
+The primary focus is on the transition from β-emitting radiopharmaceuticals to α-emitting agents in PRRT, offering a critical analysis of the radiobiological basis, clinical applications, and ongoing developments in Targeted Alpha Therapy (TAT).
+Through an extensive literature review, the article delves into the mechanisms and effectiveness of PRRT in targeting somatostatin subtype 2 receptors, highlighting both its successes and limitations.
+The discussion extends to the emerging paradigm of TAT, underlining its higher potency and specificity with α-particle emissions, which promise enhanced therapeutic efficacy and reduced toxicity.
+The review critically evaluates preclinical and clinical data, emphasizing the need for standardised dosimetry and a deeper understanding of the dose-response relationship in TAT.
+The review concludes by underscoring the significant potential of TAT in treating SSTR2-overexpressing cancers, especially in patients refractory to β-PRRT, while also acknowledging the current challenges and the necessity for further research to optimize treatment protocols.

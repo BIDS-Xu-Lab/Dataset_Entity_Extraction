@@ -1,0 +1,9 @@
+Local translation is critical for diverse aspects of neuronal function, including mediating responses of elongating axons to guidance cues and other signaling molecules.
+A major determinant of the protein synthetic capacity of axons and growth cones is the specific set of mRNAs that are trafficked to these sites.
+However, recently it has become clear that the axonal transcriptome can also be shaped by local RNA degradation mechanisms, such as nonsense-mediated decay.
+Here we show that Staufen1-mediated decay can also occur within axons and mediate degradation of specific axonal transcripts.
+We show that Staufen1 and Upf1, which function together in Staufen1-mediated decay, are localized in growth cones.
+Selective depletion of Staufen1 from neurons results in a complex pattern of transcriptional alterations, with a subset of transcripts showing increased expression and increased RNA half-life consistent with their regulation by Staufen1-mediated decay.
+Additionally, we show certain transcripts, such as Rac1, are regulated by Staufen1 within axons and growth cones.
+The functional significance of Staufen1 in growth cones is supported by morphological alterations in growth cones following Staufen1 knockdown.
+Together these data point to Staufen1-mediated decay as a novel mechanism to control mRNA expression levels in axons and growth cones through local RNA degradation.

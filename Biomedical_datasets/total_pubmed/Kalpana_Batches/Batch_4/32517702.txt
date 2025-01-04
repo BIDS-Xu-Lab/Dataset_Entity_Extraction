@@ -1,0 +1,10 @@
+To investigate how many traditional Chinese medicine (TCM) guidelines adopted a grading system and the differences among them, and the distribution of level of evidence used to support TCM recommendations.
+A comprehensive search of relevant guideline webpages and literature databases were undertaken from inception to August 2018 to identify guidelines including TCM interventions.
+Two independent reviewers extracted the information about grading systems and recommendations.
+One hundred forty-two TCM guidelines were included, among which, 68 (47.9%) adopted a total of eight grading systems.
+The definitions, letters, and codes among these systems varied significantly.
+A total of 1284 recommendations were extracted from included TCM guidelines.
+More than 60% recommendations were based on a low and very low level of evidence (level C:33.4% and level D: 30.2%).
+Only 7.8% recommendations were rated as strong recommendation (grade I), while 76.2% recommendations were rated as conditional recommendation (grade II).
+Various grading systems were used in TCM guidelines, which might confuse guideline users.
+The low proportion of high level of evidence in TCM recommendations might downgrade the confidence to TCM interventions.

@@ -1,0 +1,11 @@
+Anemia is a global public health concern.
+Its devastating consequences include impaired cognitive and motor development, reduced work productivity, and adverse birth outcomes, all of which apply to adolescents, as well as adults and children.
+This study aimed to examine the determinants of anemia in Indonesian adolescent girls and boys from Klaten and Lombok Barat districts.
+A total of 2150 adolescents who participated in a cross-sectional household survey were included in the analysis.
+The dietary intake of adolescents was assessed using a 7-day food frequency questionnaire.
+The relationship between anemia status, dietary intake, and other hypothesized determinants was assessed for adolescent girls and boys on a separate basis, using complex samples Cox regression analysis.
+Variables were selected for inclusion in multivariate models if they were significantly associated with the dependent variable in univariate models (P < .05).
+The prevalence of anemia among adolescent girls and boys was 19% and 5%, respectively.
+In multivariate analyses, frequent consumption of animal-based iron-rich foods was significantly associated with a lower risk of anemia (prevalence ratio [PR]: 0.59; 95% CI: 0.36-0.97) among adolescent girls, whereas a higher intake of vitamin A-rich fruits and vegetables was associated with a reduced risk of anemia (PR: 0.41; 95% CI: 0.20-0.85) among adolescent boys, after adjustment for all potential confounders.
+Increased consumption of iron- and vitamin A-rich foods through the implementation of gender-responsive Social Behaviour Change Communication (SBCC) interventions is warranted.
+This should be coupled with improved coverage and quality of iron and folic acid supplementation programs in adolescents.

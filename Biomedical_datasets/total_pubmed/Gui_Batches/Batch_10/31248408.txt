@@ -1,0 +1,10 @@
+This study aimed to examine the associations between gender and the prevalence of metabolic syndrome (MS) components among Korean adults by age and body mass index (BMI) subgroups.
+This study obtained data from the sixth Korea National Health and Nutrition Examination Survey 2013-2015, a cross-sectional and nationally representative survey conducted by the Korean Centers for Diseases Control and Prevention.
+Of the 11,136 subjects included in this study, there were 4627 (41.5%) men and 6509 (58.5%) women.
+[OR], 1.508; 95% confidence interval [CI], 1.320-1.723), diabetes mellitus (DM) (OR, 1.638; 95% CI, 1.333-2.013), prediabetes (OR, 1.549; 95% CI, 1.355-1.771), and hypertriglyceridemia (OR, 2.466; 95% CI, 2.097-2.900), but at lower risks of low high-density lipoprotein (HDL) (OR, 0.346; 95% CI, 0.307-0.390) and high waist circumference (WC) (OR, 0.780; 95% CI, 0.647-0.940).
+Among subjects with BMI < 25 kg/m2, the risks of HTN, DM, prediabetes, and hypertriglyceridemia were higher in men than in women, whereas the risks of low HDL level and high WC were lower in men.
+Similarly, among subjects with BMI ≥25 kg/m2, compared to women, men were at higher risks of HTN, DM, prediabetes, and hypertriglyceridemia, but at lower risks of low HDL level.
+The difference in the prevalence of MS components between men and women can be partially explained by the different effects of gender on the etiology of MS components.
+The results showed that gender was likely to contribute to an increase in the prevalence of MS components.
+HTN, DM, prediabetes, and hypertriglyceridemia were more prevalent in men than in women, whereas the prevalence of low HDL level and high WC were higher in women than in men.
+Similar results were found in subgroup analyses by age and BMI.

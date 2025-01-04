@@ -1,0 +1,4 @@
+The effects of thrombin and a peptide mimicking the amino terminus of its receptor, Res (42-55), on vascular reactivity were compared in isolated canine blood vessels.
+In saphenous veins contracted with endothelin-1, both thrombin and Res (42-55) caused relaxation in rings with endothelium and contraction in rings without endothelium.
+In coronary arteries, thrombin caused similar responses while Res (42-55) only caused contraction.
+These data suggest that different thrombin receptors are present on venous and arterial endothelial cells.

@@ -1,0 +1,5 @@
+A remarkable breakthrough in topological phase classification is the establishment of the topological periodic table, which is mainly based on the classifying space analysis or K theory, but not based on concrete Hamiltonians that possess finite bands or arise in a lattice.
+As a result, it is still difficult to identify the topological phase of an arbitrary Hamiltonian; the common practice is, instead, to check the incomplete and still growing list of topological invariants one by one, very often by trial and error.
+Here, we develop unsupervised classifications of topological gapped systems with symmetries, and demonstrate the data-driven construction of the topological periodic table without a priori knowledge of topological invariants.
+This unsupervised data-driven strategy can take into account spatial symmetries, and further classify phases that were previously classified as trivial in the past.
+Our Letter introduces machine learning into topological phase classification and paves the way for intelligent explorations of new phases of topological matter.

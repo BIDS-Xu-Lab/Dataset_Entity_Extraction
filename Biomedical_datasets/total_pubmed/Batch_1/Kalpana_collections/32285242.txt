@@ -1,0 +1,6 @@
+This study leveraged data from a 40-school randomized controlled trial to understand the cost of coaching to support implementation of evidence-based programs (EBPs) through a multi-tiered system of supports for behavior (MTSS-B) model.
+Coach activity log data were utilized to generate the annual average, per school, costs of coaching of $8198.
+The cost of school personnel time for coaching was estimated to be $3028.
+Data on coach-rated administrator buy-in, school MTSS-B engagement, and implementation infrastructure and capacity were also collected and found to be associated with coaching activities.
+Notably, coaches did not spend significantly different amounts of time in schools using few EBPs relative to more EBPs, indicating some inefficiency in the use of coaches' time.
+These findings highlight the often-overlooked resources needed to support EBP implementation in schools.

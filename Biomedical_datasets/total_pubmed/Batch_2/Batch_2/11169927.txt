@@ -1,0 +1,17 @@
+Topotecan, a topoisomerase I inhibitor, acts by stabilizing the topoisomerase DNA cleavage complex.
+Etoposide, a topoisomerase II inhibitor, mediates antitumor activity by stabilizing cleavage complex formed between topoisomerase II and DNA.
+These two agents have therapeutic activity in non-Hodgkin lymphoma.
+The authors report Phase I data of topotecan and etoposide combination for patients with recurrent or refractory non-Hodgkin lymphoma and correlation of topoisomerase-DNA complex formation to clinical response.
+Twenty-two patients with recurrent or refractory aggressive non-Hodgkin lymphoma were treated at four dose levels of topotecan (1 mg/m(2)/day to 2.5 mg/m(2)/day).
+Topotecan was given at a 30-minute infusion daily with etoposide 150 mg/m(2)/day, both for 5 days.
+Topoisomerase-DNA covalent complex formation was measured using in vivo link assay, whereas topoisomerase I, IIalpha, and IIbeta in RNA expression levels were determined by reverse transcription-polymerase chain reaction in blood samples.
+The relation of these levels to clinical response was studied.
+The maximum tolerated dose of topotecan was 2.0 mg/m(2)/day for 5 days.
+Of 21 examinable patients, 3 patients achieved complete remission, and 5 patients achieved partial remission.
+Of six untreated patients who experienced a recurrence, three had complete remission, and the other three had partial remission.
+Drug-induced topoisomerase-DNA complex formation was observed throughout the treatment in blood samples of all the patients who responded.
+However, only 4 of 13 patients, who did not respond, formed covalent complex at all time points.
+This was statistically significant (P = 0.024).
+In all patients, expression levels of topoisomerase I and IIbeta mRNA remained similar to pretreatment levels, whereas topoisomerase IIalpha mRNA levels decreased dramatically by the third day.
+The recommended Phase II dose of topotecan with etoposide of 150 mg/m(2)/day for 5 days was 2.0 mg/m(2)/day for 5 days.
+Topoisomerase-DNA complex formation correlated with response to treatment.

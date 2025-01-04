@@ -1,0 +1,33 @@
+Bibliographic databases provide access to an international body of scientific literature in health and medical sciences.
+Systematic reviews are an important source of evidence for clinicians, researchers, consumers, and policymakers as they address a specific health-related question and use explicit methods to identify, appraise and synthesize evidence from which conclusions can be drawn and decisions made.
+Methodological search filters help database end-users search the literature effectively with different levels of sensitivity and specificity.
+These filters have been developed for various study designs and have been found to be particularly useful for intervention studies.
+Other filters have been developed for finding systematic reviews.
+Considering the variety and number of available search filters for systematic reviews, there is a need for a review of them in order to provide evidence about their retrieval properties at the time they were developed.
+To review systematically empirical studies that report the development, evaluation, or comparison of search filters to retrieve reports of systematic reviews in MEDLINE and Embase.
+We searched the following databases from inception to January 2023: MEDLINE, Embase, PsycINFO; Library, Information Science & Technology Abstracts (LISTA) and Science Citation Index (Web of Science).
+We included studies if one of their primary objectives is the development, evaluation, or comparison of a search filter that could be used to retrieve systematic reviews on MEDLINE, Embase, or both.
+Two review authors independently extracted data using a pre-specified and piloted data extraction form using InterTASC Information Specialist Subgroup (ISSG) Search Filter Evaluation Checklist.
+We identified eight studies that developed filters for MEDLINE and three studies that developed filters for Embase.
+Most studies are very old and some were limited to systematic reviews in specific clinical areas.
+Six included studies reported the sensitivity of their developed filter.
+Seven studies reported precision and six studies reported specificity.
+Only one study reported the number needed to read and positive predictive value.
+None of the filters were designed to differentiate systematic reviews on the basis of their methodological quality.
+For MEDLINE, all filters showed similar sensitivity and precision, and one filter showed higher levels of specificity.
+For Embase, filters showed variable sensitivity and precision, with limited study reports that may affect accuracy assessments.
+The report of these studies had some limitations, and the assessments of their accuracy may suffer from indirectness, considering that they were mostly developed before the release of the PRISMA 2009 statement or due to their limited scope in the selection of systematic review topics.
+Search filters for MEDLINE Three studies produced filters with sensitivity > 90% with variable degrees of precision, and only one of them was developed and validated in a gold-standard database, which allowed the calculation of specificity.
+The other two search filters had lower levels of sensitivity.
+One of these produced a filter with higher levels of specificity (> 90%).
+All filters showed similar sensitivity and precision in the external validation, except for one which was not externally validated and another one which was conceptually derived and only externally validated.
+Search filters for Embase We identified three studies that developed filters for this database.
+One of these studies developed filters with variable sensitivity and precision, including highly sensitive strategies (> 90%); however, it was not externally validated.
+The other study produced a filter with a lower sensitivity (72.7%) but high specificity (99.1%) with a similar performance in the external validation.
+Studies reporting the development, evaluation, or comparison of search filters to retrieve reports of systematic reviews in MEDLINE showed similar sensitivity and precision, with one filter showing higher levels of specificity.
+For Embase, filters showed variable sensitivity and precision, with limited information about how the filter was produced, which leaves us uncertain about their performance assessments.
+Newer filters had limitations in their methods or scope, including very focused subject topics for their gold standards, limiting their applicability across other topics.
+Our findings highlight that consensus guidance on the conduct of search filters and standardized reporting of search filters are needed, as we found highly heterogeneous development methods, accuracy assessments and outcome selection.
+New strategies adaptable across interfaces could enhance their usability.
+Moreover, the performance of existing filters needs to be evaluated in light of the impact of reporting guidelines, including the PRISMA 2009, on how systematic reviews are reported.
+Finally, future filter developments should also consider comparing the filters against a common reference set to establish comparative performance and assess the quality of systematic reviews retrieved by strategies.

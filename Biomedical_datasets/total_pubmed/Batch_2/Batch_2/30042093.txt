@@ -1,0 +1,3 @@
+As eye tracking-based assessment of cognition becomes more widely used in older adults, particularly those at risk for dementia, reliable and scalable methods to collect high-quality data are required.
+Eye tracking-based cognitive tests that utilize device-embedded cameras have the potential to reach large numbers of people as a screening tool for preclinical cognitive decline.
+However, to fully validate this approach, more empirical evidence about the comparability of eyetracking-based paradigms to existing cognitive batteries is needed.

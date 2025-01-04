@@ -1,0 +1,10 @@
+Multivariate time series forecasting has long been a research hotspot because of its wide range of application scenarios.
+However, the dynamics and multiple patterns of spatiotemporal dependencies make this problem challenging.
+Most existing methods suffer from two major shortcomings: (1) They ignore the local context semantics when modeling temporal dependencies.
+(2) They lack the ability to capture the spatial dependencies of multiple patterns.
+To tackle such issues, we propose a novel Transformer-based model for multivariate time series forecasting, called the spatial-temporal convolutional Transformer network (STCTN).
+STCTN mainly consists of two novel attention mechanisms to respectively model temporal and spatial dependencies.
+Local-range convolutional attention mechanism is proposed in STCTN to simultaneously focus on both global and local context temporal dependencies at the sequence level, which addresses the first shortcoming.
+Group-range convolutional attention mechanism is designed to model multiple spatial dependency patterns at graph level, as well as reduce the computation and memory complexity, which addresses the second shortcoming.
+Continuous positional encoding is proposed to link the historical observations and predicted future values in positional encoding, which also improves the forecasting performance.
+Extensive experiments on six real-world datasets show that the proposed STCTN outperforms the start-of-the-art methods and is more robust to nonsmooth time series data.

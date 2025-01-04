@@ -1,0 +1,11 @@
+In a recent clinical trial (NCT00295308), we demonstrated that clonidine decreased the association between opioid craving and moderate levels of stress and affect in patients receiving buprenorphine-based opioid agonist therapy.
+To examine the relationship between illicit opioid use and craving and affect during the evaluation of clonidine as an adjunct medication in buprenorphine treatment for opioid use disorder.
+Secondarily, to examine whether those relationships are driven by within- or between-participant factors.
+This was a secondary data analysis from our original trial.
+Participants (N = 108, female: n = 23, male n = 85) receiving buprenorphine were randomized to receive adjunct clonidine or placebo.
+Participants used portable electronic devices to rate stress, mood, and craving via ecological momentary assessment (EMA) four times randomly each day.
+To associate the EMA data with illicit opioid use, each EMA report was linked to participants' next urine drug screen (thrice weekly).
+We used generalized linear mixed models to examine the interaction between treatment group and illicit opioid use, as well as to decompose the analysis into within- and between-participant effects.
+Craving for opioids and cocaine was increased when participants were using illicit opioids; this effect was greater in the clonidine group.
+For affect, mood was poorer during periods preceding opioid-positive urines than opioid-negative urines for clonidine-treated participants, whereas there was no difference for placebo participants.
+This secondary analysis provides evidence that for participants maintained on opioid agonist therapy, clonidine minimized the behavioral impact of moderate levels of negative affect and craving.

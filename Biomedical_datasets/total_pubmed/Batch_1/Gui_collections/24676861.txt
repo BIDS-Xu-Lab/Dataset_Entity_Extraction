@@ -1,0 +1,12 @@
+Bone mineral density (BMD) is a reflection of bone strength and lifestyles that preserve bone mass and may reduce fracture risk in old age.
+This study examined the effect of combined profiles of smoking, physical activity, and body mass index (BMI) on lifetime bone loss.
+Data were collected from the population-based Tromsø Study.
+BMD was measured as g/cm(2) by dual-energy X-ray absorptiometry (DXA) at the total hip and femoral neck in 2580 women and 2084 men aged 30 to 80 years in the 2001-02 survey, and repeated in 1401 women and 1113 men in the 2007-08 survey.
+Height and weight were measured and lifestyle information was collected through questionnaires.
+Data were analyzed using linear mixed models with second-degree fractional polynomials.
+From the peak at the age around 40 years to 80 years of age, loss rates varied between 4% at the total hip and 14% at femoral neck in nonsmoking, physically active men with a BMI of 30 kg/m(2) to approximately 30% at both femoral sites in heavy smoking, physically inactive men with a BMI value of 18 kg/m(2) .
+In women also, loss rates of more than 30% were estimated in the lifestyle groups with a BMI value of 18 kg/m(2) .
+BMI had the strongest effect on BMD, especially in the oldest age groups, but a BMI above 30 kg/m(2) did not exert any additional effect compared with the population average BMI of 27 kg/m(2) .
+At the age of 80 years, a lifestyle of moderate BMI to light overweight, smoking avoidance, and physical activity of 4 hours of vigorous activity per week through adult life may result in 1 to 2 standard deviations higher BMD levels compared with a lifestyle marked by heavy smoking, inactivity, and low weight.
+In the prevention of osteoporosis and fracture risk, the effect of combined lifestyles through adult life should be highlighted.
+© 2014 American Society for Bone and Mineral Research.

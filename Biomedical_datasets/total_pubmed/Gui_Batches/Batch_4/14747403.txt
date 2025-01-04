@@ -1,0 +1,10 @@
+Using digital fluorescence imaging, we determined the effects of methyl anthranilate (MA), an avian irritant, and capsaicin (CAP), a mammalian irritant, on intracellular calcium (
+Concentration-response functions indicated that the threshold for inducing increases in [Ca(2+)](i) was higher for CAP (30 micromol l(-1)) than for MA (10 micromol l(-1)).
+The maximum magnitudes of [Ca(2+)](i) in response to MA and CAP were compared after normalization to 40 mmol l(-1) KCl.
+At equal concentrations (300 micro mol l(-1)), trigeminal neurons responded with a greater change in [Ca(2+)](i) to MA (78% of KCl) than to CAP (43% of KCl).
+Furthermore, at 300 micromol l(-1), 48% of neurons responded to MA whereas only 16% responded to CAP.
+The increases in [Ca(2+)](i) induced by both MA and CAP were dependent upon extracellular calcium.
+While the calcium responses to MA were also dependent on extracellular sodium, responses to CAP were not.
+There were separate but overlapping populations of neurons sensitive to MA and CAP.
+Taken together, the higher threshold concentration of CAP, the higher response magnitude to MA than CAP and the greater number of neurons sensitive to MA than CAP provide a rationale for the observed behavioral differences of birds to these two compounds.
+Finally, the findings that the calcium responses to MA and CAP have different ion dependencies and that there are separate populations sensitive to these compounds suggest different transduction mechanisms mediating chicken trigeminal responses to MA and CAP.

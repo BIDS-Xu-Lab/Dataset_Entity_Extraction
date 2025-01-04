@@ -1,0 +1,6 @@
+"This paper uses combinations of full brothers, half brothers, and fathers and sons to measure the effect of common family background on a household's income and wealth.
+While the data are drawn from a nineteenth-century [U.S.] population, the intraclass correlation for income ranges from .13 to .18, which is similar to that found in modern samples.
+Intraclass correlations for wealth are significantly higher (.18-.35) than are those for income.
+Intraclass correlations of half brothers compared to those for full brothers suggest that fathers play a dominant role in the transmission of the common family effect.
+When unobserved background is decomposed into individual and family effects, the individual effect dominates the family effect for income, while the family effect dominates the individual effect for wealth."
+A comment by Sherwin Rosen is included (pp. 80-2).

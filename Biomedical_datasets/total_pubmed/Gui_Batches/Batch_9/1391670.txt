@@ -1,0 +1,11 @@
+The authors reanalyzed previously published data from a prospectively randomized, placebo-controlled, double-blind phase-III study of 130 inpatients with dementia syndrome.
+The patients in the study had been diagnosed as having suffered from organic brain syndrome (ICD 290), which is the core syndrome of dementia (so-called dementia syndrome) for at least two years.
+They were treated with piracetam for three months at a dose level of 4,800 mg/d. These data were reexamined in order both to survey the extent of drug-related improvement and response rates when assessed at different levels and to investigate the comparability of efficacy in subgroups suffering from either senile dementia of the Alzheimer type or multi-infarct dementia.
+Three scales were used for the assessment of efficacy.
+They were the CGI, or Clinical Global Impression, completed by the physicians; the SCAG, or Sandoz Clinical Assessment Geriatric, used by clinical psychologists; and the BGP, or Beurteilungsskala für Geriatrische Patienten (Evaluation Scale for Geriatric Patients), employed by the nursing staff.
+The Syndrome-Kurztest (SKT) and Benton tests served to measure performance.
+The items and subscores of the SCAG and the SKT were highly intercorrelated at baseline, forming a common factor fairly independent of the information gained by BGP.
+This suggests that merely using different kinds of information-gathering methods, i.e., clinical scales and performance tests, completed by different groups of observers, does not automatically result in nonredundant comprehensive information.
+When using the most conservative response criterion of individual improvement, i.e., at least one baseline standard deviation, treatment with piracetam showed statistically significant (pe less than .001) explorative response rates of 50% and above in three out of four target variables, as compared to the 0 to 6% obtained with placebo.
+CGI was used as descriptive variable.
+Again, using this response criterion from a separate analysis of diagnostic subgroups, as matched by the median of the patients' Hachinski Ischemic Scale scores, it does not appear that piracetam's efficacy for patients with senile dementia of the Alzheimer type (SDAT) varies with its efficacy for patients with multi-infarct dementia (MID).

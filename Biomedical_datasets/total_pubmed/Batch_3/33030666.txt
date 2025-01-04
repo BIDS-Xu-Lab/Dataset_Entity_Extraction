@@ -1,0 +1,9 @@
+In presence of indeterminate lesions by fine needle aspiration (FNA), thyroid cancer cannot always be easily diagnosed by conventional cytology.
+As a consequence, unnecessary removal of thyroid gland is performed in patients without cancer based on the lack of optimized diagnostic criteria.
+Aim of this study is identifying a molecular profile based on long noncoding RNAs (lncRNAs) expression capable to discriminate between benign and malignant nodules.
+Patients were subjected to surgery (n = 19) for cytologic suspicious thyroid nodules or to FNA biopsy (n = 135) for thyroid nodules suspicious at ultrasound.
+Three thyroid-specific genes (TG, TPO, and NIS), six cancer-associated lncRNAs (MALAT1, NEAT1, HOTAIR, H19, PVT1, MEG3), and two housekeeping genes (GAPDH and P0) were analyzed using Droplet Digital PCR (ddPCR).
+Based on higher co-expression in malignant (n = 11) but not in benign (n = 8) nodules after surgery, MALAT1, PVT1 and HOTAIR were selected as putative cancer biomarkers to analyze 135 FNA samples.
+Cytological and histopathological data from a subset of FNA patients (n = 34) were used to define a predictive algorithm based on a Naïve Bayes classifier using co-expression of MALAT1, PVT1, HOTAIR, and cytological class.
+This classifier exhibited a significant separation capability between malignant and benign nodules (P < 0.0001) as well as both rule in and rule out test potential with an accuracy of 94.12% and a negative predictive value (NPV) of 100% and a positive predictive value (PPV) of 91.67%.
+ddPCR analysis of selected lncRNAs in FNA biopsies appears a suitable molecular tool with the potential of improving diagnostic accuracy.

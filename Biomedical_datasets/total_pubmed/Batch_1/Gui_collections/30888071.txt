@@ -1,0 +1,13 @@
+The differential diagnosis of regular wide QRS complex tachycardia (RWQRST) remains the subject of numerous publications, all of which aim at diagnosis during the acute phase.
+Although an accurate diagnosis is necessary to make long-term decisions, it often leads to invasive testing.
+Criteria with high positive predictive values (PPVs) for diagnosis can be obtained by analyzing the electrocardiogram (ECG) data during RWQRST and comparing them with these data at baseline.
+By assigning points to these criteria, a scoring algorithm to accurately diagnose numerous patients can be obtained.
+A total of 352 consecutive patients with RWQRST were included.
+Two electrophysiologists blind to patient condition analyzed the 16 criteria considered as having high PPVs.
+A total of 149 (42.3%) cases were supraventricular tachycardia (SVT), and 203 (57.7%) cases were ventricular tachycardia (VT).
+A higher percentage of patients with VT had structural heart disease (86.7% vs 16.1%).
+Seven of the 16 criteria analyzed had PPVs > 95%, and each criterion was assigned a score.
+A final score of -1 was indicative of SVT (PPV 98%); a score of 1 was indicative of VT (PPV 98%); and a score of ≥2 was indicative of VT (PPV 100%).
+A score of ≠0 was obtained for 51.7% of all cases of tachycardia, making it possible to reach a highly accurate diagnosis in approximately half of all cases.
+No cases of VT scored -1, and no cases of SVT scored ≥2.
+The current scoring system stands out for its high PPV (98%) and specificity (98%), enabling an accurate diagnosis for more than half of the patients.

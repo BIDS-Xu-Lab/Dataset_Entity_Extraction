@@ -1,0 +1,5 @@
+B cell depletion with the monoclonal antibody rituximab is attracting increasing attention in systemic lupus erythematosus, vasculitis, and primary glomerulonephritis.
+Existing, uncontrolled data report high response rates in patients with refractory disease.
+If supported by the results of ongoing randomized trials, then rituximab and related B cell-depleting or -modulating drugs are likely to become a component in the future management of these disorders.
+Their use may improve patient outcomes by permitting more complete disease control and reduced exposure to glucocorticoid and traditional immunosuppressive drugs.
+The toxicity and infective risk of B cell-targeted agents in renal disease needs to be determined as well as their optimal dosing in combination with conventional agents.

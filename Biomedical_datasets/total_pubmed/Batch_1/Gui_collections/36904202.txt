@@ -1,0 +1,11 @@
+This study aims to explore the interaction between a Chinese version of the Mediterranean-DASH intervention for neurodegenerative delay (cMIND) diet and indoor air pollution and its effect on depression among older adults.
+This cohort study used 2011-2018 data from the Chinese Longitudinal Healthy Longevity Survey.
+Participants included 2724 adults aged 65 and older without depression.
+The Chinese version of the Mediterranean-DASH intervention for neurodegenerative delay (cMIND) diet scores ranged from 0 to 12 based on validated food frequency questionnaire responses.
+Depression was measured using the Phenotypes and eXposures Toolkit.
+Cox proportional hazards regression models were used to explore the associations, and the analysis was stratified using the cMIND diet scores.
+A total of 2724 participants (54.3% males and 45.9% 80 years and older) at baseline were included.
+Living with severe indoor pollution was associated with a 40% increase in the risk of depression (HR: 1.40, 95% CI: 1.07, 1.82) compared to living without indoor pollution.
+Indoor air pollution exposure was significantly associated with cMIND diet scores.
+Participants with a lower cMIND diet score (HR: 1.72, 95% CI: 1.24, 2.38) had a greater association with severe pollution than those with a higher cMIND diet score.
+The cMIND diet may alleviate depression caused by indoor pollution among older adults.

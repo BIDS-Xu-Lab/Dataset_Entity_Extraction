@@ -1,0 +1,17 @@
+The Robinson and Hadlock crown-rump length (CRL) curves are commonly used to estimate gestational age (GA) based on the CRL of an embryo or fetus.
+However, the Robinson curve was derived from a small population using transabdominal sonography and the Hadlock curve was generated using early transvaginal ultrasound equipment.
+The aim of this study was to use transvaginal and transabdominal ultrasound to study a large population of early pregnancies to assess embryonic or fetal size, and so create a new normal CRL curve from 5.5 weeks' gestation.
+We compared this with the Robinson and Hadlock CRL curves.
+A retrospective database study of CRL in first-trimester embryos was conducted in a fetal medicine referral center with a predominantly Caucasian population.
+Linear mixed-effects analysis was performed to determine the relationship between CRL and GA.
+After internal validation of this curve, the CRL was compared with the expected CRL at a given GA according to both the Robinson and Hadlock models based on the paired t-test.
+Bland-Altman plots were constructed to compare the CRL measurements obtained in our study population with those predicted according to GA by both the Robinson and Hadlock curves.
+In total 3710 normal singleton pregnancies with a known last menstrual period were included in the study, corresponding to 4387 scans.
+Our data differed significantly from both the Robinson and the Hadlock curves (paired t-test, P < 0.0001).
+A mixed-effects model for CRL as a function of GA was developed on 70% of the data and internally validated with z-scores on the remaining 30%.
+The new curve extended from 5.5 to 14 weeks' gestation.
+Compared to our CRL curve, the Robinson curve gave a 4-day underestimation of GA at 6 weeks with a difference in CRL of 3.7 mm and a 1-day overestimation from 11 to 14 weeks with a difference in CRL of 0.9-1 mm.
+A comparison between our curve and the Hadlock curve showed a difference in CRL of 2.7 mm at 6 weeks, equivalent to an underestimation of 3 days, and a difference in CRL of 4.8 mm at 14 weeks, equivalent to an overestimation of 2 days.
+At 9 weeks all three curves were similar.
+The new CRL curve suggests differences in the range of CRL measurements compared with the Robinson and Hadlock curves.
+These differences are most significant at the beginning and the end of the first trimester, and may lead to more accurate estimations of GA.

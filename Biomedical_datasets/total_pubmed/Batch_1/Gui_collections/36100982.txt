@@ -1,0 +1,6 @@
+Separating selection bias from moral hazard in private health insurance (PHI) markets has been a challenging task.
+We estimate selection bias and moral hazard in Australia's mixed public-private health system, where PHI premiums are community-rated rather than risk-rated.
+Using longitudinal cohort data, with fine-grained measures for medical services predominantly funded by PHI providers, we find consistent and robust estimates of advantageous selection among hospitalized cardiovascular disease (CVD) patients.
+Specifically, we show that in addition to their risk-averse attributes, CVD patients who purchase PHI use fewer services that are not covered by PHI providers (e.g., general practitioners and emergency departments) and have fewer comorbidities.
+Finally, unlike previous studies, we show that ex-post moral hazard exists in the use of specific "in-hospital" medical services such as specialist and physician services, miscellaneous diagnostic procedures, and therapeutic treatments.
+From the perspective of PHI providers, the annual cost of moral hazard translates to a lower bound estimate of $707 per patient, equivalent to a 3.03% reduction in their annual profits.

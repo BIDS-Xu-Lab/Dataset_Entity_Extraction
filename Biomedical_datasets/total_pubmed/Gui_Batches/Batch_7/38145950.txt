@@ -1,0 +1,8 @@
+Single cell sequencing technology has provided unprecedented opportunities for comprehensively deciphering cell heterogeneity.
+Nevertheless, the high dimensionality and intricate nature of cell heterogeneity have presented substantial challenges to computational methods.
+Numerous novel clustering methods have been proposed to address this issue.
+However, none of these methods achieve the consistently better performance under different biological scenarios.
+In this study, we developed CAKE, a novel and scalable self-supervised clustering method, which consists of a contrastive learning model with a mixture neighborhood augmentation for cell representation learning, and a self-Knowledge Distiller model for the refinement of clustering results.
+These designs provide more condensed and cluster-friendly cell representations and improve the clustering performance in term of accuracy and robustness.
+Furthermore, in addition to accurately identifying the major type cells, CAKE could also find more biologically meaningful cell subgroups and rare cell types.
+The comprehensive experiments on real single-cell RNA sequencing datasets demonstrated the superiority of CAKE in visualization and clustering over other comparison methods, and indicated its extensive application in the field of cell heterogeneity analysis.

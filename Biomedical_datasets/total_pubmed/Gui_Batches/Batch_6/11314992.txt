@@ -1,0 +1,7 @@
+A crime has been committed, and a DNA profile of the perpetrator is obtained from the crime scene.
+A suspect with a matching profile is found.
+The problem of evaluating this DNA evidence in a forensic context, when the suspect is found through a database search, is analysed through a likelihood approach.
+The recommendations of the National Research Council of the U.S. are derived in this setting as the proper way of evaluating the evidence when finiteness of the population of possible perpetrators is not taken into account.
+When a finite population of possible perpetrators may be assumed, it is possible to take account of the sampling process that resulted in the actual database, so one can deal with the problem where a large proportion of the possible perpetrators belongs to the database in question.
+It is shown that the last approach does not in general result in a greater weight being assigned to the evidence, though it does when a sufficiently large amount of the possible perpetrators are in the database.
+The value of the likelihood ratio corresponding to the probable cause setting constitutes an upper bound for this weight, and the upper bound is only attained when all but one of the possible perpetrators are in the database.

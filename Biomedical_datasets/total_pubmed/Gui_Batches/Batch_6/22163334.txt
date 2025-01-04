@@ -1,0 +1,7 @@
+Using RNA-seq digital difference expression profiling methods, we have assessed the gene expression profiles of hemocytes harvested from Heliothis virescens that were challenged with Helicoverpa zea single nucleopolyhedrovirus (HzSNPV).
+A reference transcriptome of hemocyte-expressed transcripts was assembled from 202 million 42-base tags by combining the sequence data of all samples, and the assembled sequences were then subject to BLASTx analysis to determine gene identities.
+We used the fully sequenced HzSNPV reference genome to align 477,264 Illumina sequence tags from infected hemocytes in order to document expression of HzSNPV genes at early points during infection.
+A comparison of expression profiles of control insects to those lethally infected with HzSNPV revealed differential expression of key cellular stress response genes and genes involved in lipid metabolism.
+Transcriptional regulation of specific insect hormones in baculovirus-infected insects was also altered.
+A number of transcripts bearing homology to retroviral elements that were detected add to a growing body of evidence for extensive invasion of errantiviruses into the insect genome.
+Using this method, we completed the first and most comprehensive gene expression survey of both baculoviral infection and host immune defense in lepidopteran larvae.

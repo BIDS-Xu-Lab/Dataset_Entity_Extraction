@@ -1,0 +1,5 @@
+This study used the general applicability of 2,6-didi-o-methyl-β-cyclodextrin (DM-β-CD) as the chiral selector in capillary electrophoresis for fast and efficient chiral separation of repaglinide enantiomers.
+A systematic study of the parameters affecting separation was performed with UV detection at 243 nm.
+The optimum conditions were determined to be 1.25% (w/v) DM-β-CD in 20 mM sodium phosphate (pH 2.5) as the running buffer and separation voltage at 20 kV. DM-β-CD had the best enantiomer resolution properties under the tested conditions, whereas other β-cyclodextrins showed inferior performances or no performance.
+The proposed method had a linear calibration curve in the concentration range of 12.5-400 µg/mL. The limit of detection was 100 ng/mL. The intra-day and inter-day precisions were 2.8 and 3.2%, respectively.
+The proposed method was fast and convenient, and was determined to be efficient for separating enantiomers and applicable for analyzing repaglinide enantiomers in quality control of pharmaceutical production.

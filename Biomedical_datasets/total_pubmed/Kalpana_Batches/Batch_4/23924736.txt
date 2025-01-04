@@ -1,0 +1,5 @@
+In modified Winogradsky's (MW) medium supplemented with excessive indole (1), Burkholderia unamae strain CK43B isolated from polyphenol-rich Shorea rhizosphere showed almost no cell growth, but it showed drastic cell growth given further supplementation of gallic acid, a simple plant polyphenol.
+This active cell growth of B. unamae CK43B was due to the stimulating effect of gallic acid on 1-degradation of bacterial cells, which acquired a nitrogen source in 1.
+Under aerobic culture conditions with appropriate concentrations (0.5-2.0 mM) of gallic acid, B. unamae CK43B started to decompose exogenous 1 in a dose-dependent manner, and finally accumulated catechol (5) via anthranilic acid (4).
+Pyrogallol also showed a cometabolic effect on decarboxylation-coupled oxidative deamination of B. unamae CK43B, producing 5 from 4, as gallic acid did.
+These results suggest that pyrogallol-type plant polyphenols act as stimulators on B. unamae CK43B, causing it to degrade an N-heterocyclic aromatic compound (NHAC) including nitrogen-containing humic substances.

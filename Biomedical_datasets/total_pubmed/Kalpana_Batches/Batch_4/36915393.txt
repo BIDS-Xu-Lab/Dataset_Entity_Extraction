@@ -1,0 +1,11 @@
+FAT atypical cadherin 1 (FAT1) acts as a tumor suppressor or oncogene, which regulates cell adherence, proliferation, motility, and actin kinetics.
+FAT1 gene expression is closely related to hepatocarcinogenesis; however, the function and mechanism of FAT1 in hepatocellular carcinoma (HCC) remain unclear.
+Here, we screened for the FAT1, which is intimately linked to the development and progression of HCC, both in circulating tumor cells (CTCs) and tumor tissues using next generation sequencing (NGS).
+Immunohistochemical staining was performed to detect FAT1 protein expression.
+To determine the impact of FAT1 on epithelial-mesenchymal transition (EMT), migration and invasion of HCC, an in vitro transwell assay and Western blot were performed.
+Moreover, Gene Set Enrichment Analysis was carried out to discover the underlying mechanism.
+Finally, animal experiments were conducted to confirm the effects of FAT1 on HCC metastasis and tumorigenicity.
+Our results showed that FAT1 expression was decreased in HCC tissues, while in vitro and in vivo, the FAT1 knockdown facilitated invasion, cell motility, colony formation, and proliferation.
+FAT1 knockdown also resulted in decreased expression of E-cadherin and markedly elevated expression of N-cadherin, vimentin, and snail.
+We also confirmed our hypothesis from the analysis of group differences in the CTC phenotype and lung metastasis in nude mice.
+Our findings illustrated that FAT1 played a negative regulatory role in the HCC EMT and metastasis, providing further evidence for the role played by FAT1 in the formation and progression of HCC.

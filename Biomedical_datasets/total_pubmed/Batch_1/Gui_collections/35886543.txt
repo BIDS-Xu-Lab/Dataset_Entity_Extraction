@@ -1,0 +1,12 @@
+The purpose of the study was to test the within-week variations of the internal and external training intensity outcomes organized by days of the week.
+An 8-month observational period was conducted during the 2020-2021 season.
+The training sessions and matches of an elite volleyball team were monitored daily.
+The data comes from 14 players (two setters, five middle blockers, five outside hitters, and two opposites) of an elite team from the Portuguese 1st League (age: 21.7 ± 4.19 years of age; experience: 6.2 ± 3.8 years; body mass: 85.7 ± 8.69 kg; height: 192.4 ± 6.25 cm; BMI: 23.1 ± 1.40 kg/m2).
+The CR10 Borg scale was applied daily to measure the training intensity.
+The rate of perceived exertion (RPE) and the session-RPE were extracted as the internal outcomes.
+The external intensity was measured using an inertial measurement unit (IMU).
+The number of jumps, height average of jumps (JHA), minimum jump (MJ), maximal jump (MXJ), range jump (RJ), number of jumps (NJ), and training session density (D) were extracted as external intensity outcomes.
+The results showed that there was a difference between RPE and S-RPE (F (1.98) = 6.31, p = 0.01, η2 = 0.36, and F (1.73) = 28.30, p = 0.001, η2 = 0.72), as well as JHA and NJ (F (2.14) = 4.76, p = 0.02, η2 = 0.30, and F (1.77) = 4.77, p = 0.02, η2 = 0.30) within the microcycle.
+r2 = 0.36, respectively) with S_RPE (4 days before the Match day).
+Such findings show that higher internal intensities are correlated with lower external intensities in sessions further away from the game day.
+Such results could be an important tool for coaches to reflect, plan, monitor, and execute the training unit according to the temporal distance to the competition.

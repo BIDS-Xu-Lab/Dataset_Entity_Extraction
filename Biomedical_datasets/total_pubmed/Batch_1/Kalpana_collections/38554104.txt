@@ -1,0 +1,7 @@
+Magnetic resonance enterography (MRE) and intestinal ultrasound (IUS) have developed rapidly in the last few decades, emerging as the primary non-invasive options for both diagnosing and monitoring Crohn's disease (CD).
+In this review, we evaluate the pertinent data relating to the use of MRE and IUS in CD.
+We summarise the key imaging features of CD activity, highlight their increasing role in both the clinical and research settings, and discuss how these modalities fit within the diagnostic pathway.
+We discuss how they can be used to assess disease activity and treatment responsiveness, including the emergence of activity scores for standardised reporting.
+Additionally, we address areas of controversy such as the use of contrast agents, the role of diffusion-weighted imaging, and discuss point-of-care ultrasound.
+We also highlight exciting new developments including the applications of artificial intelligence.
+Finally, we provide suggestions for future research priorities.

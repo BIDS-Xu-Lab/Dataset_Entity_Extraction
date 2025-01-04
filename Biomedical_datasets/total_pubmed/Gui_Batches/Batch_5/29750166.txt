@@ -1,0 +1,13 @@
+The rehabilitation process is a fundamental stage for recovery of people's capabilities.
+However, the evaluation of the process is performed by physiatrists and medical doctors, mostly based on their observations, that is, a subjective appreciation of the patient's evolution.
+This paper proposes a tracking platform of the movement made by an individual's upper limb using Kinect sensor(s) to be applied for the patient during the rehabilitation process.
+The main contribution is the development of quantifying software and the statistical validation of its performance, repeatability, and clinical use in the rehabilitation process.
+The software determines joint angles and upper limb trajectories for the construction of a specific rehabilitation protocol and quantifies the treatment evolution.
+In turn, the information is presented via a graphical interface that allows the recording, storage, and report of the patient's data.
+For clinical purposes, the software information is statistically validated with three different methodologies, comparing the measures with a goniometer in terms of agreement and repeatability.
+The agreement of joint angles measured with the proposed software and goniometer is evaluated with Bland-Altman plots; all measurements fell well within the limits of agreement, meaning interchangeability of both techniques.
+Additionally, the results of Bland-Altman analysis of repeatability show 95% confidence.
+Finally, the physiotherapists' qualitative assessment shows encouraging results for the clinical use.
+The main conclusion is that the software is capable of offering a clinical history of the patient and is useful for quantification of the rehabilitation success.
+The simplicity, low cost, and visualization possibilities enhance the use of the software Kinect for rehabilitation and other applications, and the expert's opinion endorses the choice of our approach for clinical practice.
+Comparison of the new measurement technique with established goniometric methods determines that the proposed software agrees sufficiently to be used interchangeably.

@@ -1,0 +1,11 @@
+Objective To assess the combined effect of consanguineous and child marriages (CCM) on children health, which has not previously been explored, either globally or locally.
+Methods We analyzed secondary data from a series of cross-sectional, nationally representative Pakistan Demographic and Health Surveys 1990-91, 2006-07, and 2012-13.
+A total of 5406 mothers with 10,164 children were included in the analysis.
+Child health was assessed by variables such as history of diarrhea, acute respiratory infection (ARI), ARI with fever, Under-5 child mortality (U5CM) and small-size birth (SSB).
+Associations among variables were assessed by calculating unadjusted Odd Ratios (OR) and adjusted OR (AOR).
+Results A majority (n = 6,247, 61%) of the births were to mothers having CCM as compare to non-CCM (3917, 39%).
+There was a significant association between CCM and U5CM during 1990-91 (AOR 1.24, 95% CI 1.03-1.49) and 2006-07 (AOR 1.25, 95% CI 1.05-1.51), and infant mortality in 1990-91 (AOR 1.39, 95% CI 1.05-1.85) and 2006-07 (AOR 1.61, 95% CI 1.17-2.21).
+A significant association was also found between CCM and SSB infants in the period 2006-07 (AOR 1.19, 95% CI 1.01-1.42) and 2012-13 (AOR 1.22, 95% CI 1.02-1.46).
+We noted no effect of CCM on diarrhea, ARI, and ARI with fever.
+Conclusion CCM increases the likelihood of U5CM, infant mortality and SSB infants.
+Further quantitative and qualitative research should be conducted to assess the effects of environmental, congenital and genetic factors on the health of children born to mothers in CCM.

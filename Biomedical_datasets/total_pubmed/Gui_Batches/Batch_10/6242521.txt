@@ -1,0 +1,7 @@
+Techniques of increasing sophistication are being used to analyse the data obtained from continuous wave Doppler Ultrasound examination of patients with suspected arterial disease in the extracranial circulation.
+This study was carried out in order to compare the results of using relatively simple parameters such as the A/B ratio and the Index of Circulatory Resistance, ICR, and more recent techniques such as Principal Component Analysis on the changes apparent in the common carotid arterial waveform, particularly in the presence of disease in the internal carotid artery.
+This information was obtained from patients undergoing angiography so that the Doppler ultrasound results could be compared directly with an invasive assessment of the arteries under study.
+The signals obtained were processed off line using a Kay Sonograph Spectrum Analyser.
+The resulting maximum frequency envelope was further processed using a statistics package on a 2970 ICL computer.
+The A/B and ICR values were calculated manually.
+The preliminary results, calculated from 105 comparisons between Doppler ultrasound and angiography, suggest that techniques, such as Principal Components Analysis, are best able to cope with the waveform changes obtained in this study.

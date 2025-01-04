@@ -1,0 +1,9 @@
+Idiopathic pulmonary fibrosis (IPF) is a devastating lung disease with limited therapeutic possibilities.
+FGF19 (fibroblast growth factor 19), an endocrine FGF, was recently shown to decrease liver fibrosis.
+To ask whether FGF19 had antifibrotic properties in the lung and decipher its effects on common features associated with lung fibrogenesis, we assessed, by ELISA, FGF19 concentrations in plasma and BAL fluids obtained from control subjects and patients with IPF.
+In vivo, using an intravenously administered adeno11-associated virus, we overexpressed FGF19 at the fibrotic phase of two experimental models of murine lung fibrosis and assessed its effect on lung morphology, lung collagen content, fibrosis markers, and profibrotic mediator expression at mRNA and protein levels.
+In vitro, we investigated whether FGF19 could modulate the TGF-β-induced differentiation of primary human lung fibroblasts into myofibroblasts and the apoptosis of murine alveolar type II cells.
+Although FGF19 was not detected in BAL fluid, FGF19 concentration was decreased in the plasma of patients with IPF compared with control subjects.
+In vivo, the overexpression of FGF19 was associated with a marked decrease of lung fibrosis and fibrosis markers, with a decrease of profibrotic mediator expression and lung collagen content.
+In vitro, FGF19 decreased alveolar type 2 epithelial cell apoptosis through the decrease of the proapoptotic BIM protein expression and prevented TGF-β-induced myofibroblast differentiation through the inhibition of JNK phosphorylation.
+Altogether, these data identify FGF19 as an antifibrotic molecule with potential therapeutic interest in fibrotic lung disorders.

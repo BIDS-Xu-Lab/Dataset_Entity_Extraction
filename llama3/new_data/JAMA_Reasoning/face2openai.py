@@ -8,7 +8,7 @@ import re
 
 # openai API 
 def generator(prompt, model):
-    # client = OpenAI(api_key="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")
+    # client = OpenAI()
     client = OpenAI()
     if model == 'o1-preview':
         chat_return = client.chat.completions.create(

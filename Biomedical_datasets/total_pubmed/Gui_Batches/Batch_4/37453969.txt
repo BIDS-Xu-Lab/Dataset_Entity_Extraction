@@ -1,0 +1,10 @@
+Resistance to chemotherapy and radiotherapy is the primary cause of a poor prognosis in oncological patients.
+Researchers identified many possible mechanisms involved in gaining a therapy-resistant phenotype by cancer cells, including alterations in intracellular drug accumulation, detoxification, and enhanced DNA damage repair.
+All these features are characteristic of stem cells, making them the major culprit of chemoresistance.
+This paper reviews the most recent evidence regarding the association between the stemness phenotype and chemoresistance in head and neck cancers.
+It also investigates the impact of pharmacologically targeting cancer stem cell populations in this subset of malignancies.
+This narrative review was prepared based on the search of the PubMed database for relevant papers.
+Head and neck cancer cells belonging to the stem cell population are distinguished by the high expression of certain surface proteins (e.g., CD10, CD44, CD133), pluripotency-related transcription factors (SOX2, OCT4, NANOG), and increased activity of aldehyde dehydrogenase (ALDH).
+Chemotherapy itself increases the percentage of stem-like cells.
+Importantly, the intratumor heterogeneity of stem cell subpopulations reflects cell plasticity which has great importance for chemoresistance induction.
+Evidence points to the advantage of combining classical chemotherapeutics with stemness modulators thanks to the joint targeting of the bulk of proliferating tumor cells and chemoresistant cancer stem cells, which could cause recurrence.

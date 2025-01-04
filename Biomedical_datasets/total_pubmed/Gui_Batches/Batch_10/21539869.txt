@@ -1,0 +1,8 @@
+Pathogen recognition receptors are essential for antiviral host immune responses.
+I interferons (IFN) and pro-inflammatory cytokines.
+Here we evaluated the contribution of RIG-I, MDA-5 and TLR3 to the recognition of classical swine fever (CSFV), foot-and-mouth disease virus (FMDV), vesicular stomatitis virus (VSV) and influenza A virus (IAV) to IFN-β responses in the porcine epithelial cell line PK-15.
+To this end, we identified porcine gene specific small interfering RNA sequences and employed a lentivirus (LV)-based system to deliver the corresponding short hairpin RNA.
+With this, gene knockdown cell lines were created and tested with regard to the knockdown levels over time and following IFN-β stimulation.
+During several passages of the transduced cells, the expression of both the reporter gene eGFP and the reduced RNA levels of the targeted gene were stable, although the latter was relatively variable.
+IFN-β induced IFN-responsive genes such as RIG-I, but the levels of the silenced cell line remained reduced compared to the control cells.
+Based on virus-induced IFN-β mRNA responses, our results indicate that in PK-15 cells FMDV-detection is solely mediated by MDA-5, whereas VSV and IAV are mainly detected by RIG-I with a minor contribution of MDA-5, and CSFV is sensed by MDA-5, RIG-I and TLR3.

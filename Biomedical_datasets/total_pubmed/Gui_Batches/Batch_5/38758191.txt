@@ -1,0 +1,10 @@
+The use of bictegravir/emtricitabine/tenofovir alafenamide (BIC/FTC/TAF) is based on the results of robust clinical trials.
+To assess the effectiveness and safety of BIC/FTC/TAF in treatment-naïve (TN) and treatment-experienced (TE) people with HIV using available real-world cohort studies.
+Systematic review and meta-analysis of publications and communications identified via Boolean search in Medline, PubMed and Embase, and conference abstracts reporting retrospective real-world use of BIC/FTC/TAF, published until 31 January 2024.
+The primary endpoint was the proportion of TN and TE people with HIV with viral load (VL) < 50 copies/mL at 48 weeks while on treatment.
+Of the 38 identified publications and conference abstracts, for the present analysis we included 12 publications (comprising 792 TN and 6732 TE individuals).
+For the three publications including 507 TN participants reporting the primary outcome, VL suppression was 97%
+For the nine publications including 4946 TE participants reporting the primary outcome, VL suppression was 95% (95% CI: 94-96), with suppression >93% in all studies.
+Total discontinuations at 48 weeks in TE individuals were 3% (95% CI: 2-5), 1% (95% CI: 0-2) due to side effects.
+A total of four publications with 151 TE individuals with previous presence of M184V substitution were identified, reporting a suppression rate at 48 weeks of 95% (95% CI: 88-100).
+Real-world studies demonstrate low discontinuation rates and high rates of virologic suppression in individuals treated with BIC/FTC/TAF, both TN and TE with and without previous detection of M184V substitution.

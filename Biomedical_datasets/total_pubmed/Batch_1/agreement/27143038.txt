@@ -1,0 +1,12 @@
+Gene expression connectivity mapping has proven to be a powerful and flexible tool for research.
+Its application has been shown in a broad range of research topics, most commonly as a means of identifying potential small molecule compounds, which may be further investigated as candidates for repurposing to treat diseases.
+The public release of voluminous data from the Library of Integrated Cellular Signatures (LINCS) programme further enhanced the utilities and potentials of gene expression connectivity mapping in biomedicine.
+We describe QUADrATiC ( http://go.qub.ac.uk/QUADrATiC ), a user-friendly tool for the exploration of gene expression connectivity on the subset of the LINCS data set corresponding to FDA-approved small molecule compounds.
+It enables the identification of compounds for repurposing therapeutic potentials.
+The software is designed to cope with the increased volume of data over existing tools, by taking advantage of multicore computing architectures to provide a scalable solution, which may be installed and operated on a range of computers, from laptops to servers.
+This scalability is provided by the use of the modern concurrent programming paradigm provided by the Akka framework.
+The QUADrATiC Graphical User Interface (GUI) has been developed using advanced Javascript frameworks, providing novel visualization capabilities for further analysis of connections.
+There is also a web services interface, allowing integration with other programs or scripts.
+QUADrATiC has been shown to provide an improvement over existing connectivity map software, in terms of scope (based on the LINCS data set), applicability (using FDA-approved compounds), usability and speed.
+It offers potential to biological researchers to analyze transcriptional data and generate potential therapeutics for focussed study in the lab.
+QUADrATiC represents a step change in the process of investigating gene expression connectivity and provides more biologically-relevant results than previous alternative solutions.

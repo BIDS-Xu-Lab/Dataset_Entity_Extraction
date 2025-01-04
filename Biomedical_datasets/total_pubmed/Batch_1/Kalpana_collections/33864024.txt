@@ -1,0 +1,8 @@
+Hepatoblastoma remains one of the most difficult childhood tumors to treat and is alarmingly understudied.
+We previously demonstrated that Proviral Insertion site in Maloney murine leukemia virus (PIM) kinases, specifically PIM3, are overexpressed in human hepatoblastoma cells and function to promote tumorigenesis.
+We aimed to use CRISPR/Cas9 gene editing with dual gRNAs to introduce large inactivating deletions in the PIM3 gene and achieve stable PIM3 knockout in the human hepatoblastoma cell line, HuH6.
+PIM3 knockout of hepatoblastoma cells led to significantly decreased proliferation, viability, and motility, inhibited cell-cycle progression, decreased tumor growth in a xenograft murine model, and increased animal survival.
+Analysis of RNA sequencing data revealed that PIM3 knockout downregulated expression of pro-migratory and pro-invasive genes and upregulated expression of genes involved in apoptosis and differentiation.
+Furthermore, PIM3 knockout decreased hepatoblastoma cancer cell stemness as evidenced by decreased tumorsphere formation, decreased mRNA abundance of stemness markers, and decreased cell surface expression of CD133, a marker of hepatoblastoma stem cell-like cancer cells.
+Reintroduction of PIM3 into PIM3 knockout cells rescued the malignant phenotype.
+Successful CRISPR/Cas9 knockout of PIM3 kinase in human hepatoblastoma cells confirmed the role of PIM3 in promoting hepatoblastoma tumorigenesis and cancer cell stemness.

@@ -1,0 +1,12 @@
+Epilepsy affects more than 0.5% of the world population and is known to be associated with a large genetic component eliciting an electrical hyperexcitability in the central nervous system.
+However, its pathogenic mechanisms remain poorly understood.
+In order to gain greater molecular incite in the pathogenesis in epilepsy, we analyzed proteomes of human cerebral cortices.
+Quantitative proteome analysis was used to compare signals corresponding to individual proteins between epileptic cerebral cortices from patients with temporal lobe epilepsy and age-matched non-epileptic subjects.
+To minimize individual variations, gender and age of the patients were matched.
+Changes of several spots were consistent among 6 pairs of epileptic patients and nonepileptic subjects.
+One of the spots was identified as the mitochondrial type Mn-superoxide dismutase (Mn-SOD) confirmed by Western blot analysis with Mn-SOD antibody and enzyme activity assay.
+Such results were agreeable with chemical and physical parameters given by the 2-dimensional electrophoresis (2-DE) gel.
+Mn-SOD was consistently down-regulated in epileptic cerebral cortices compared with those of nonepileptic subjects.
+Our results demonstrate a clear link between pathogenesis of epilepsy and SOD.
+Additionally, we identified four proteins that were consistently over-expressed in all epileptic temporal neocortices specimens and the other four proteins that were found to be expressed less than non-epileptic control subjects.
+These proteomic data provide cellular markers in the understanding mechanism of the epilepsy pathogenesis.

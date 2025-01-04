@@ -1,0 +1,13 @@
+Burn is the major cause of disability in developing countries, and most burn patients have burns involving the upper limbs.
+Upper limb burns can result in scarring, contractures, and weakness, leading to limitation of wide range of movements and social well-being, hence reducing the quality of life.
+General objective: To determine the quality of life among patients with burns of the upper limbs at KNRH.
+This cross-sectional study recruited 108 participants of 5 years and above during their first six months post-discharge from Kiruddu National Referral Hospital with burns to upper limbs.
+Recruitment was consecutive from the burns unit clinic following ethical approval from the School of Medicine Research and Ethics Committee (SOMREC).
+Participants were given a burn-related QOL questionnaire.
+Data were then entered into Epidata 4.2 and imported into STATA 15.1 for analysis.
+Factors associated with poor quality of life were determined by modified Poisson regression to generate prevalence ratios with 95% confidence intervals.
+A total of 108 participants were recruited for the study; 97 (89.8%) were adults and responded to the adult QOL questionnaire, while the rest were pediatrics.
+The mean age of the adults was 28 years (SD=8.6), while the median age of the pediatrics was eight years (IQR=6-10), and 61.1% were male.
+The upper extremity function (physical) quality of life was good, while the social relationship quality of life was poor.
+The factors associated with poor quality of life were degree (deep) of burns, multiple surgeries, age above 55 years, and being divorced.
+There is generally poor upper extremity function or physical QOL among adults and children, while there is generally good social relationship QOL among adults and children.

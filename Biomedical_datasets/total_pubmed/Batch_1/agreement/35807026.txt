@@ -1,0 +1,10 @@
+Psoriatic disease is a chronic inflammatory disease that is associated with morbidity and a poor quality of life.
+However, studies on the trends of psoriatic disease incidence are limited.
+We examined trends in psoriasis and psoriatic arthritis from 2002 to 2016 in Taiwan and distinguished the effects of age, period, and cohort on those trends.
+Data from the National Health Insurance Research Database were analyzed for the annual incidence of psoriasis and psoriatic arthritis.
+An age-period-cohort model was designed in order to investigate the effects of each age, period, and birth cohort on the incidence.
+From 2002 to 2016, the incidence of psoriasis significantly decreased from 43.33 to 23.14 per 100,000 persons.
+The incidence of psoriatic arthritis significantly increased from 3.57 to 5.22 per 100,000 persons.
+In the age-period-cohort analysis, the net age effect on the incidence of psoriasis and psoriatic arthritis increased with advancing age (6-fold and 7.7-fold difference, respectively).
+The age-period-cohort analysis revealed that the incidence of psoriasis and psoriatic arthritis is associated with older age and early birth cohorts.
+Elderly individuals in Taiwan may be at a higher risk of developing new-onset psoriasis and psoriatic arthritis.

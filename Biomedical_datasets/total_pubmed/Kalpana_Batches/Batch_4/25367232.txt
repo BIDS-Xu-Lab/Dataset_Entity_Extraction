@@ -1,0 +1,9 @@
+The left ventricle (LV) of the heart is composed of a complex organization of cardiac muscle fibers, which contract to generate force and pump blood into the body.
+It has been shown that both the orientation and contractile strength of these myofibers vary across the ventricular wall.
+The hypothesis of the current study is that the transmural distributions of myofiber orientation and contractile strength interdependently impact LV pump function.
+In order to quantify these interactions a finite element (FE) model of the LV was generated, which incorporated transmural variations.
+The influences of myofiber orientation and contractile strength on the Starling relationship and the end-systolic (ES) apex twist of the LV were assessed.
+The results suggest that reductions in contractile strength within a specific transmural layer amplified the effects of altered myofiber orientation in the same layer, causing greater changes in stroke volume (SV).
+Furthermore, when the epicardial myofibers contracted the strongest, the twist of the LV apex was greatest, regardless of myofiber orientation.
+These results demonstrate the important role of transmural distribution of myocardial contractile strength and its interplay with myofiber orientation.
+The coupling between these two physiologic parameters could play a critical role in the progression of heart failure.

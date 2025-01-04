@@ -1,0 +1,15 @@
+The prevalence of drug-resistant tuberculosis (TB) in Xinjiang is higher than in other regions of China, and Beijing/W lineage Mycobacterium tuberculosis (MTB) is the dominant strain of MTB in Xinjiang.
+However, information on multidrug-resistant (MDR) and extensively drug-resistant (XDR) TB, particularly the correlation between MDR and the Beijing/W lineage and the correlation between drug resistance and the Beijing/W sublineage strains, is limited.
+We conducted a prospective study to describe the prevalence of MDR/XDR TB, Beijing/W lineage and sublineage strains in Xinjiang in China from 2009 to 2013.
+All MTB underwent drug susceptibility testing to the first- and second-line anti-tuberculosis drugs.
+The Beijing/W lineages and sublineages were detected by large-sequence polymorphisms with polymerase chain reaction.
+A total of 410 clinical isolates were identified.
+The overall percentage of MDR and XDR cases in Xinjiang was 13.2% (54/410) and 13.0% (7/54), respectively.
+Overall, 9.8% (14/143) of the Beijing lineage MTB were MDR patients, and 15.6% (40/257) of the Non-Beijing lineage MTB were MDR patients.
+In the 143 Beijing MTB lineages, 11.2% isolates were in sublineage 105, 15.4% isolates were in sublineage 207, 69.2% isolates were in sublineage 181, and 4.2% isolates were in sublineage 150.
+None of the isolates were detected in sublineage 142.
+Significant differences between the Beijing/W and non-Beijing/W strains were observed regarding INH and EMB resistance, respectively.
+The prevalence of the MDR TB in Xinjiang remains high and imposes challenges for TB control.
+Four Beijing/W sublineage isolates were observed in Xinjiang.
+There was no correlation between MDR and the Beijing/W lineage and no correlation between drug resistance and the Beijing/W sublineage strains.
+Surveillance of the clinical isolates of MTB is recommended to strengthen the identification of MDR/XDR TB and sublineages of the Beijing/W strains.

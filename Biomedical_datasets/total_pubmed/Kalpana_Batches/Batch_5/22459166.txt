@@ -1,0 +1,4 @@
+In the present study, the coordination abilities of ubiquitin 50-59 fragment and its analog containing βAsp residue are discussed.
+The analysis is provided based on the results of potentiometric and spectroscopic measurements supported by quantum-chemical calculations.
+Interesting differences in the coordination of the metal cation by modified and unmodified peptides are reported.
+Moreover, in order to further characterize experimentally observed species, we performed quantum-chemical calculations for structures mimicking ubiquitin 50-59 fragment as a step toward a better understanding of structural and energetical aspects related to the coordination abilities of ubiquitin.

@@ -1,0 +1,8 @@
+To investigate the role of constitutively active internal tandem duplication (ITD) mutants of the Fms-like tyrosine kinase 3 (Flt3) receptor in leukemogenesis, we introduced the Flt3-ITD, W51, into human cord blood CD34+ cells and evaluated their phenotype in diverse hematopoietic assays.
+W51 expression resulted in a strong proliferative advantage and enhanced erythropoiesis as determined by immunophenotyping, colony assays, and molecular analyses.
+In MS-5 stromal cocultures, numerous early cobblestone areas (CAs) were generated within 10 to 14 days.
+Such W51-associated early CAs disappeared by 4 weeks, yet retained self-renewal properties as demonstrated by generation of secondary and tertiary CAs upon replating.
+This phenotype appears related to the expression of W51 since it was abolished by exposure to the FLT3 inhibitor, AG1295, but not to the c-kit inhibitor PD16.
+Wild-type Flt3-overexpressing CD34+ cells exposed to high levels of its physiologic ligand did not produce early CAs, highlighting differences in intracellular signaling between wild-type Flt3 and W51.
+W51-associated signal transducer and activator of transcription 5 (Stat5) activation plays a major role in this phenotype, although additional downstream targets of W51 may be relevant.
+Flt3-ITD+ acute myeloid leukemia (AML) blasts from patients invariably generated early AG1295-sensitive CAs in MS-5 cocultures, further validating the phenotype observed in transduced CD34+ cells.

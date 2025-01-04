@@ -1,0 +1,13 @@
+The effectiveness of afamelanotide treatment in patients with erythropoietic protoporphyria (EPP) in clinical practice who experience pain after light exposure that substantially impairs quality of life is unknown.
+To evaluate the association of afamelanotide treatment with outcomes in patients with EPP in regular practice during longer-term follow-up.
+This single-center, prospective postauthorization safety and efficacy cohort study was directed and approved by the European Medicines Agency.
+Data were collected from patients with EPP treated with afamelanotide at Erasmus MC between June 2016 and September 2018.
+Time spent outside during treatment, number of phototoxic reactions, disease-specific quality of life, usage of protective clothing, and adverse events.
+[SD] age, 43.0 [15.5] years) were treated with afamelanotide.
+[98%]) with a median (interquartile range) follow-up of 2.0 (1.3-2.1) years.
+Compared with baseline, mean time spent outside during treatment increased significantly by an added 6.1 hours per week (95% CI, 3.62-8.67; P < .001).
+Mean quality of life score improved significantly by 14.01% (95% CI, 4.53%-23.50%; P < .001).
+Phototoxic reactions were less painful (β, -0.85; 95% CI, -1.43 to -0.26; P < .001), but there was no significant difference in number or duration of reactions.
+Minor self-limiting adverse events occurred, such as nausea, fatigue, and headache.
+This cohort study found that afamelanotide treatment was associated with improved clinical outcomes and a good safety profile for patients with EPP.
+The treatment has clinically significant, sustained positive associations with quality of life, is associated with increased duration of sun exposure, and is associated with less severe phototoxic reactions.

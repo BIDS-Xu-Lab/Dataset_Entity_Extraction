@@ -1,0 +1,6 @@
+This study was designed to investigate the T cell costimulatory activity of ligands binding to different regions on the human CD4 molecule.
+We assayed the costimulatory properties of a panel of CD4 MAbs, intact HIV, and viral envelope glycoproteins in CD3-induced activation of resting T cell subpopulations.
+Our data using MAbs reveal epitope-specific variations in the functional activities of CD4 MAbs under specific conditions in which CD3 and CD4 molecules are co-cross-linked.
+We show that both naive and memory CD4+ T cell subsets are susceptible to CD4-mediated costimulation, which overcomes the functional differences between the two cell populations in responsiveness to CD3 MAbs.
+We show for the first time that, analogous to CD4 MAbs, preparations of HIV and viral envelope glycoprotein gp120 are also potent costimulators of T cell proliferation and IL-2 production.
+On the basis of these results we propose possible mechanisms for polyclonal cell activation in the course of HIV infection and suggest that viral inhibitory and costimulatory effects may together disrupt the normal balanced function of the immune system, leading to AIDS.

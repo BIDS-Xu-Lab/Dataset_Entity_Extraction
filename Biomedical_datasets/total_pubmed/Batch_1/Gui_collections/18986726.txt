@@ -1,0 +1,10 @@
+In this study, various mineral supplements, such as chloride salts (CaCl2, MgCl2, MnCl2, FeCl2 and KCl) supplying cations and calcium salts (CaCl2, CaCO3, CaSO4, Ca(OH)2 and CaHPO4) supplying anions, were tested if they could stimulate the sporulation of Clostridium sporogenes, a surrogate microorganism for C. botulinum.
+Of the cations tested, the addition of CaCl2 showed a slightly, but not significantly, greater increase in spore levels within 3 weeks of incubation, compared to that of the other cations.
+The optimum concentration of CaCl2 was 0.5%, which yielded nearly 10(4) CFU/ml of spores.
+Of the anions tested, CaCO3 promoted sporulation within one week, which was the most effective compound for promoting rapid sporulation among the minerals tested.
+CaSO4 produced a pattern of sporulation similar to that of CaCl2.
+While CaHPO4 resulted in the maximum production of spores after 4 weeks, Ca(OH)2 failed to induce sporulation.
+With an optimized concentration of 0.5% CaCO3, the spore yield was approximately 10(5) CFU/ml.
+The spores prepared in sporulation medium with CaCO3 (pH 5.0) had slightly, but not significantly, higher D values than those produced with CaCl2 (pH 5.0) at temperatures ranging from 113 to 121 degrees C. However, no significant differences were observed in Z values (both 10.76 degrees C).
+In a large scale spore production, D(121 degrees C) values of the spore crops prepared with CaCl2 and CaCO3 and resuspended in phosphate buffer (pH 7.0) were found to be both 0.92 min.
+In conclusion, our data suggest that CaCO3 is highly effective in reducing sporulation time as well as enhancing heat resistance.

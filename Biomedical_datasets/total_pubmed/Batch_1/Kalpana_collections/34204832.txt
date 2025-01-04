@@ -1,0 +1,8 @@
+In vitro models are often used for studying macrophage functions, including the process of phagocytosis.
+The application of primary macrophages has limitations associated with the individual characteristics of animals, which can lead to insufficient standardization and higher variability of the obtained results.
+Immortalized cell lines do not have these disadvantages, but their responses to various signals can differ from those of the living organism.
+In the present study, a comparative proteomic analysis of immortalized PMJ2-R cell line and primary peritoneal macrophages isolated from C57BL/6 mice was performed.
+A total of 4005 proteins were identified, of which 797 were quantified.
+Obtained results indicate significant differences in the abundances of many proteins, including essential proteins associated with the process of phagocytosis, such as Elmo1, Gsn, Hspa8, Itgb1, Ncf2, Rac2, Rack1, Sirpa, Sod1, C3, and Msr1.
+These findings indicate that outcomes of studies utilizing PMJ2-R cells as a model of peritoneal macrophages should be carefully validated.
+All MS data are deposited in ProteomeXchange with the identifier PXD022133.

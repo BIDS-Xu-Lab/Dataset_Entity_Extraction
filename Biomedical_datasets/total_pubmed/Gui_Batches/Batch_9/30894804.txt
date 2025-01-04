@@ -1,0 +1,12 @@
+Background: Due to its impairment in patients with schizophrenia, mismatch negativity (MMN) generation has been identified as a potential biomarker for identifying primary impairments in auditory sensory processing.
+This study aimed to investigate the dysfunctional differences in different MMN deviants and evoked theta power in patients with first-episode schizophrenia (FES) and chronic schizophrenia (CS).
+Methods: We measured frequency and duration MMN from 40 FES, 40 CS, and 40 healthy controls (HC).
+Evoked theta power was analyzed by event-related spectral perturbation (ERSP) approaches.
+Results: Deficits in duration MMN were observed in both FES (p = 0.048, Bonferroni-adjusted) and CS (p < 0.001, Bonferroni-adjusted).
+However, deficits in frequency MMN were restricted to the CS (p < 0.001, Bonferroni-adjusted).
+Evoked theta power deficits were observed in both patient groups when compared with the HC (p  = 0.001, p  < 0.001, Bonferroni-adjusted), yet no significant differences were found between FES and CS.
+Frequency MMN was correlated with the MATRICS consensus cognitive battery (MCCB) combined score (r = -0.327, p < 0.05) and MCCB verbal learning (r = -0.328, p < 0.05) in FES.
+Evoked theta power was correlated with MCCB working memory in both FES (r = 0.347, p < 0.05) and CS (r = 0.408, p < 0.01).
+Conclusion: These findings suggest that duration MMN and evoked theta power deficits may be more sensitive for detection of schizophrenia during its early stages.
+Moreover, frequency MMN and theta power could potentially linked to poor cognitive functioning in schizophrenic patients.
+The findings mentioned above indicated that the neural mechanisms of the three indexes may vary between people.

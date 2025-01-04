@@ -1,0 +1,8 @@
+Gas chromatography-mass spectrometry (GC-MS) is a rapid method that provides rich information on isotopomer distributions for metabolic flux analysis.
+First, we established a fast and reliable experimental protocol for GC-MS analysis of amino acids from total biomass hydrolyzates, and common experimental pitfalls are discussed.
+Second, a suitable interface for the use of mass isotopomer data is presented.
+For this purpose, a general, matrix-based correction procedure that accounts for naturally occurring isotopes is introduced.
+Simulated and experimentally determined mass distributions of unlabeled amino acids showed a deviation of less than 3% for 89% of the analyzed fragments.
+Third, to investigate general properties of GC-MS-based isotopomer balancing, altered flux ratios through glycolysis and pentose phosphate pathway and/or exchange fluxes were simulated.
+Different fluxes were found to exert specific and significant influence on the mass isotopomer distributions, thus indicating that GC-MS data contain valuable information for metabolic flux analysis.
+Fourth, comparison of different methods revealed that GC-MS analysis provides the largest number of independent constraints on amino acid isotopomer abundance, followed by correlation spectroscopy and fractional enrichment analysis by nuclear magnetic resonance.

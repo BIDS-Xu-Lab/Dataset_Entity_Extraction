@@ -1,0 +1,13 @@
+To systematically review the effectiveness of hypertonic dextrose prolotherapy (DPT) on pain intensity and physical functioning in patients with lateral elbow tendinosis (LET) compared with other active non-surgical treatments.
+Systematic search of Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, Web of Science, PubMed, Dimensions, Global Health, NHS Health Technology Assessment, Allied and Complementary Medicine, and OVID nursing database from inception to June 15, 2021, without language restrictions.
+Two reviewers independently identified parallel or crossover randomized controlled trials that evaluated the effectiveness of DPT in LET.
+The search identified 245 records; data from 8 studies (354 patients) were included.
+Two reviewers independently extracted data and assessed included studies.
+The Cochrane Risk of Bias 2 tool was used to evaluate risk of bias.
+The Grading of Recommendation Assessment, Development, and Evaluation approach was used to assess quality of the evidence.
+Pooled results favored the use of DPT in reducing tennis elbow pain intensity compared with active controls at 12 weeks postenrollment, with a standardized mean difference of -0.44 (95% confidence interval, -0.88 to -0.01, P=.04) and of moderate heterogeneity (I2=49%).
+Pooled results also favored the use of DPT on physical functioning compared with active controls at 12 weeks, with Disabilities of the Arm, Shoulder and Hand scores achieving a mean difference of -15.04 (95% confidence interval, -20.25 to -9.82, P<.001) and of low heterogeneity (I2=0.0%).
+No major related adverse events have been reported.
+DPT is superior to active controls at 12 weeks for decreasing pain intensity and functioning by margins that meet criteria for clinical relevance in the treatment of LET.
+Although existing studies are too small to assess rare adverse events, for patients with LET, especially those refractory to first-line treatments, DPT can be considered a nonsurgical treatment option in carefully selected patients.
+Further high-quality trials with comparison with other injection therapies are needed.

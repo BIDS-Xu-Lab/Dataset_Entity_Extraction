@@ -1,0 +1,6 @@
+Neurochemical concentrations determined by magnetic resonance spectroscopy (MRS) have been treated as statistically independent measurements in various clinical MRS studies.
+However, spectral overlap, independent of any biological effects, could lead to significant correlations between neurochemical concentrations extracted from spectral fitting of MRS data, confounding determination of correlations of biological origin.
+Short echo time (TE) proton MRS spectra are very crowded due to the relatively narrow chemical shift dispersion of proton nuclear spins.
+In this study, the complex neurochemical correlations of spectral origin in short-TE MRS spectra were quantified.
+The effects of macromolecules and the background spectral baseline on metabolite-metabolite correlations were also analyzed.
+These results demonstrate the importance of factoring in spectral correlations when correlating overlapping metabolite signals in short-TE spectra with clinical parameters.

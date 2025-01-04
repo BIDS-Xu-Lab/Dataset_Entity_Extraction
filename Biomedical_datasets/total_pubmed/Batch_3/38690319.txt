@@ -1,0 +1,6 @@
+This article presents data on farming operations traceability and associated performances, for winegrowing systems with low phytosanitary inputs.
+343 farms were sampled from the DEPHY network: a governmental initiative to produce references on phytosanitary-efficient cropping systems under real conditions of production.
+Data were collected every campaign between 2017 and 2020, by multiple extensionists who provide support to the voluntarily enlisted growers, in exchange for traceability of their practices and their commitment to reducing pesticide use.
+The dataset includes raw data of farming operations (date, machinery, inputs, products and doses, etc.), and performance indicators computed at farm level (Treatment Frequency Index, workload, expenses, greenhouse gas emissions, etc.).
+This information could be useful to researchers, policymakers and agricultural consultants.
+It provides leads to understand how winegrowers manage to successfully reduce their pesticide consumption, as well as assessing the triggers and entailments of such transitions.

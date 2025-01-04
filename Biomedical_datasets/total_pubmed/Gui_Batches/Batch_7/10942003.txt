@@ -1,0 +1,9 @@
+Issues surrounding the nature of the edema associated with traumatic brain injury in humans, and its evolution in the acute phase, remain unresolved.
+This study aimed to characterize the topographical nature of the pathophysiological changes in human traumatic brain injury with diffusion tensor magnetic resonance imaging.
+Multislice diffusion-weighted magnetic resonance imaging data were acquired from five patients undergoing elective ventilation for management of traumatic focal contusion or hematomas.
+The diffusion tensor and the T2-weighted intensity were then computed for every voxel in the image data set for each patient.
+The topographical distribution of abnormalities in the trace of the diffusion tensor and T2-weighted images were characterized by cluster analysis.
+In four patients with technically satisfactory data, a narrow band of tissue was observed in the periphery of focal lesions, which was characterized by selective reduction in the trace of the diffusion tensor, without any associated increase in the T2-weighted signal intensity.
+This change is interpreted as indicating either a partial redistribution of water from the extra- to intracellular compartment, or a reduction in the diffusivity of water in the intracellular or cytosolic environment.
+These diffusion and T2-weighted characteristics are also found in early ischemic change, hence, such regions may represent potentially salvageable tissue at risk of permanent damage.
+The study illustrates the advantage of using information contained within the diffusion tensor in addition to more conventional imaging sequences.

@@ -1,0 +1,12 @@
+Purpose: To examine the reliability of ADL interview (ADL-I) ability measures when administered by different health professionals (HPs).Materials and methods:Older adults with stable ADL ability were invited to participate in three ADL-I interviews, administered by occupational therapists (OTs), physical therapists (PTs), and nursing staff (NS), respectively.
+Methods based on classic and modern test theory were applied.
+Results:Overall, n = 36 older adults and n = 11 HPs participated.
+Intraclass Correlation Coefficients were acceptable for research purposes (> 0.7), but not for clinical use.
+Mean differences in ADL ability measures were significant when comparing measures based on interviews by OTs to measures based on interviews by PTs and NS.
+Further, in 25 to 47% of the individuals, ADL-I ability measures differed significantly across HPs.
+Limits of Agreement revealed that measures based on interviews by OTs were systematically lower compared to measures based on interviews by PTs and NS.
+Four ADL-I items displayed Differential Item Functioning based on HP.Conclusion:When using the ADL-I, it is recommended to only involve one profession, to increase the reliability of measures.
+Results highlight the importance of evaluating reliability of measures based on instruments administered across HPs before implementation in rehabilitation practice and research.
+Evaluations of activities of daily living (ADL) ability conducted in rehabilitation practice by different health professionals may not generate comparable results.
+When using the ADL-Interview, it is recommended to only involve one profession, to increase reliability of measures.
+The results of the present study highlight the importance of evaluating if ADL instruments can produce reliable measures in terms of both interrater reliability and measurement error.

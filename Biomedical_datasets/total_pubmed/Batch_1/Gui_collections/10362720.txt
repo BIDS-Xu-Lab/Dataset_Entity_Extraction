@@ -1,0 +1,12 @@
+Segmental microvascular permeabilities were measured using pre- and postalveolar vessel capillary filtration coefficient (Kfc) values (ml. min-1.
+cmH2O-1. 100 g-1) in isolated rat lungs subjected to ischemia-reperfusion (I/R).
+Total Kfc values measured in flowing and nonflowing lungs were highly correlated (r = 0.98, P < 0.0001).
+Kfc values were then measured in another group of lungs under no-flow conditions when airway pressure was increased to 20 cmH2O and either the arterial or venous pressure was elevated to 7-8 cmH2O to measure the prealveolar and postalveolar Kfc values.
+Control total and postalveolar Kfc values were 0.0225 +/- 0.001 and 0.0219 +/- 0.001 ml. min-1.
+cmH2O-1. 100 g-1, respectively, and the prealveolar permeability was extremely small (0.00003 +/- 0.00005 ml. min-1.
+Kfc values were again made in nonflowing lungs that had been subjected to 45 min of ischemia followed by 30 min of reperfusion.
+After I/R, the total membrane Kfc increased 10-fold to 0.2597 +/- 0.006 ml. min-1.
+cmH2O-1. 100 g-1, the prealveolar Kfc increased to 0.0677 +/- 0.003 ml. min-1.
+cmH2O-1. 100 g-1, and the postalveolar Kfc increased to 0.1354 +/- 0.008 ml. min-1.
+cmH2O-1. 100 g-1 (P < 0.05 for all I/R values).
+These data indicate that normal solvent microvascular permeability was predominantly postalveolar, and after I/R damage, the postalveolar (venular) permeability comprised 52% of the total, whereas the prealveolar and alveolar vessels comprised only 27 and 23%, respectively, of the total Kfc.

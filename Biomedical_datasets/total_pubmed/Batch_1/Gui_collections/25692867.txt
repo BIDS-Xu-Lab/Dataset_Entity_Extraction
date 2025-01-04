@@ -1,0 +1,9 @@
+To describe end-stage renal disease (ESRD) quality of care (receipt of pre-ESRD nephrology care, access to kidney transplantation, and placement of permanent vascular access for dialysis) in US patients with ESRD due to lupus nephritis (LN-ESRD) and to examine whether quality measures differ by patient sociodemographic characteristics or US region.
+National surveillance data on patients in the US in whom treatment for LN-ESRD was initiated between July 2005 and September 2011 (n = 6,594) were analyzed.
+Odds ratios (ORs) and hazard ratios (HRs) with 95% confidence intervals (95% CIs) were determined for each quality measure, according to sociodemographic factors and US region.
+Overall, 71% of the patients received nephrology care prior to ESRD.
+[95% CI 0.29-0.44]) were less likely than those with private insurance to be placed on the waitlist.
+ESRD quality-of-care measures varied 2-3-fold across regions of the US, with patients in the Northeast and Northwest generally having higher probabilities of adequate care.
+LN-ESRD patients have suboptimal ESRD care, particularly with regard to placement of dialysis vascular access.
+Minority race/ethnicity and lack of private insurance are associated with inadequate ESRD care.
+Further studies are warranted to examine multilevel barriers to, and develop targeted interventions to improve delivery of, care among patients with LN-ESRD.

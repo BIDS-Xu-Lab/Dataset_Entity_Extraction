@@ -1,0 +1,4 @@
+Currently, there is a growing interest in using entry inhibitors to treat HIV-2-infected patients because, among the available drugs, few are fully active against HIV-2.
+Recent studies indicate that maraviroc and other experimental entry inhibitors, including new CCR5 and CXCR4 antagonists, inhibit primary isolates of HIV-2 as well as HIV-1 and may, therefore, expand the existing therapeutic armamentarium against HIV-2.
+There are, however, significant differences between the evolution of HIV-1 and HIV-2 envelope glycoproteins during infection that can lead to differences in the response to therapy with entry inhibitors over the course of the infection.
+Here, we review the available data on the susceptibility of HIV-2 to entry inhibitors in the context of the evolution of the sequence, structure, and function of envelope glycoproteins during infection.

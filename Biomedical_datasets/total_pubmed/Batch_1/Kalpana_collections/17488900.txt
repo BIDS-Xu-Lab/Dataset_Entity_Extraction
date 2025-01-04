@@ -1,0 +1,6 @@
+Malaria is still one of the biggest health threats in the developing world, with an estimated 300 million episodes per year and one million deaths, most of which are in sub-Saharan Africa.
+Although the efficacy and cost-effectiveness of treated bed nets has been widely reported, little is known about the range, strength, or interaction between different factors that influence their demand at the household level.
+This study modeled the determinants of bed net ownership as well as the factors that influence the number of bed nets purchased.
+Data was collected from 1,700 randomly selected households in the Farafenni region of The Gambia.
+Interviews were also held with 129 community spokespersons to explore the extent to which community level factors such as the quality of roads and access to market centers also influence demand for bed nets.
+The results of each model of demand and their policy implications are discussed.

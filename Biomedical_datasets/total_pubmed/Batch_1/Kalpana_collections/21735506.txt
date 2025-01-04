@@ -1,0 +1,7 @@
+The potential use of negative electrospray ionisation mass spectrometry (ESI-MS) in the characterisation of the three polyacetylenes common in carrots (Daucus carota) has been assessed.
+The MS scans have demonstrated that the polyacetylenes undergo a modest degree of in-source decomposition in the negative ionisation mode while the positive ionisation mode has shown predominantly sodiated ions and no [M+H](+) ions.
+Tandem mass spectrometric (MS/MS) studies have shown that the polyacetylenes follow two distinct fragmentation pathways: one that involves cleavage of the C3-C4 bond and the other with cleavage of the C7-C8 bond.
+The cleavage of the C7-C8 bond generated product ions m/z 105.0 for falcarinol, m/z 105/107.0 for falcarindiol, m/z 147.0/149.1 for falcarindiol-3-acetate.
+In addition to these product ions, the transitions m/z 243.2 → 187.1 (falcarinol), m/z 259.2 → 203.1 (falcarindiol), m/z 301.2 → 255.2/203.1 (falcarindiol-3-acetate), mostly from the C3-C4 bond cleavage, can form the basis of multiple reaction monitoring (MRM)-quantitative methods which are poorly represented in the literature.
+The 'MS(3) ' experimental data confirmed a less pronounced homolytic cleavage site between the C11-C12 bond in the falcarinol-type polacetylenes.
+The optimised liquid chromatography (LC)/MS conditions have achieved a baseline chromatographic separation of the three polyacetylenes investigated within 40 min total run-time.

@@ -1,0 +1,5 @@
+Autophagy is a life-sustaining process by which cytoplasmic components are sequestered in double-membrane vesicles called autophagosomes, and degraded after fusion with a lytic compartment.
+This process can be triggered under cellular stress conditions in order to recycle damaged organelles or provide nutrients to the cell, but may also be involved in cell remodelling during normal development.
+This catabolic process is conserved among most eukaryotes and characterisation of its molecular machinery has benefited greatly from functional genetic studies in yeast and mammalian models.
+Until recently, not much was known about the functions of autophagy in Apicomplexa, but recent data obtained in Toxoplasma have shed light on a very important role for this machinery, potentially at the crossroads between life and death decisions for the parasite.
+The possible roles for autophagy during the life cycles of other medically important apicomplexan parasites and the perspectives for discovering new drug targets in this pathway for combating these parasites are discussed in this review.

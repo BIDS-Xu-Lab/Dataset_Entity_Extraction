@@ -1,0 +1,3 @@
+To support the development of miniaturized photoacoustic gas sensors, a fully coupled finite element model for a frequency response simulation of cantilever-based photoacoustic gas sensors is introduced in this paper.
+The model covers the whole photoacoustic process from radiation absorption to pressure transducer vibration, and considers viscous damping loss.
+After validation with experimental data, the model was further applied to evaluate the possibility of further optimization and miniaturization of a previously reported sensor design.

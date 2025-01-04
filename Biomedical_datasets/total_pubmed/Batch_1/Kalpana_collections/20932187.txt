@@ -1,0 +1,12 @@
+The aim of this study was to evaluate the effects of two different disinfection treatments--ozone and Nd:YAG laser application--on shear-bond strength (SBS) of self-etch adhesives to coronal and root dentin.
+Sixty extracted human canines were ground flat, exposing the coronal and root dentin surfaces, and randomly divided into three groups.
+The surfaces were untreated (Control) or treated with ozone (HealOzone, KaVo) or Nd:YAG laser (Fidelis III, Fotona).
+Coronal and root dentins of 10 teeth of each group were treated with a two-step self-etch adhesive (Clearfil SE Bond, Kuraray Medical; SE), whereas the remaining 10 teeth were treated with a one-step self-etch adhesive (Clearfil Tri-S Bond, Kuraray Medical; S3).
+A resin composite (Clearfil Majesty Esthetics, Kuraray Medical) was then placed, and SBS was tested with a universal testing machine.
+Failure modes were determined under a stereomicroscope.
+The mean SBS values of each group were calculated, and data were subjected to statistical analysis (p = 0.05).
+For the coronal dentin, Control/SE showed significantly higher values than Control/S3, Ozone/S3, and Nd:YAG/S3.
+Although Ozone/SE showed significantly higher values than Nd:YAG/S3 (p < 0.05), the differences within the other groups were not significant for the root dentin (p > 0.05).
+Comparison of two dentin substrates in each group did not show any significant difference except for Control/SE, in which coronal dentin showed higher SBS.
+The failure modes of all groups were mainly adhesive.
+Pretreatments with Ozone or Nd:YAG laser did not impair the SBS of both of the self-etch adhesives used to coronal and root dentin.

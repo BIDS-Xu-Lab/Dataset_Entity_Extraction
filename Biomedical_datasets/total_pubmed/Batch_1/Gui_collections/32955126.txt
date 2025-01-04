@@ -1,0 +1,10 @@
+Exclusion of nausea (N) and vomiting (V) from detailed consideration as symptoms of COVID-19 is surprising as N can be an early presenting symptom.
+We examined the incidence of NV during infection before defining potential mechanisms.
+We estimate that the overall incidence of nausea (median 10.5%), although variable, is comparable with diarrhea.
+Poor definition of N, confusion with appetite loss, and reporting of N and/or V as a single entity may contribute to reporting variability and likely underestimation.
+We propose that emetic mechanisms are activated by mediators released from the intestinal epithelium by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) modulate vagal afferents projecting to the brainstem and after entry into the blood, activate the area postrema (AP) also implicated in anorexia.
+The receptor for spike protein of SARS-CoV-2, angiotensin 2 converting enzyme (ACE2), and transmembrane protease serine (for viral entry) is expressed in upper gastrointestinal (GI) enterocytes, ACE2 is expressed on enteroendocrine cells (EECs), and SARS-CoV-2 infects enterocytes but not EECs (studies needed with native EECs).
+The resultant virus-induced release of epithelial mediators due to exocytosis, inflammation, and apoptosis provides the peripheral and central emetic drives.
+Additionally, data from SARS-CoV-2 show an increase in plasma angiotensin II (consequent on SARS-CoV-2/ACE2 interaction), a centrally (AP) acting emetic, providing a further potential mechanism in COVID-19.
+Viral invasion of the dorsal brainstem is also a possibility but more likely in delayed onset symptoms.
+Overall, greater attention must be given to nausea as an early symptom of COVID-19 and for the insights provided into the GI effects of SARS-CoV-2.

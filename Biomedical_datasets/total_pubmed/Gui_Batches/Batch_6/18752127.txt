@@ -1,0 +1,10 @@
+To evaluate Fourier transform infrared (FTIR) spectroscopy as new tool for screening of cervical cancer in comparison with cervical cytology.
+A total of 800 cervical scrapings were taken by cytobrush and placed in ThinPrep medium.
+The samples were dried over infrared transparent matrix.
+Beams of infrared light were directed at the dried samples at frequency of 4000 to 400 cm(-1).
+The absorption data were produced using a Spectrum BX II FTIR spectrometer.
+Data were compared with the reference absorption data of known samples using FTIR spectroscopy software.
+FTIR spectroscopy was compared with cytology (gold standard).
+FTIR spectroscopy could differentiate normal from abnormal cervical cells in the samples examined.
+The sensitivity was 85%, specificity 91%, positive predictive value 19.5% and negative predictive value of 99.5%.
+This study suggests that FTIR spectroscopy could be used as an alternative method for screening for cervical cancer.

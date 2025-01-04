@@ -1,0 +1,9 @@
+Endotracheal intubation is an integral part of general anaesthesia in children, and the choice of induction agents and technique may affect the ease of intubation and thus the outcome of paediatric patients.
+We compared the ease of endotracheal intubation following sevoflurane and propofol-suxamethonium induction using Helbo-Hansen score.
+A prospective, randomized double-blinded comparative study conducted on sixty-six children (two groups of 33 each) between the ages of 3-10 years undergoing different elective surgeries.
+Group I received intravenous propofol and intravenous suxamethonium while Group II had inhalational induction with sevoflurane in 60% nitrous oxide and oxygen.
+Data including intubating conditions, time to tracheal intubation and haemodynamic changes were analysed using SPSS version 18, with statistical significance set at P < 0.05.
+I whereas 15 (45.5%) scored 4, 16 (48.5%) scored 5 and 2 (6.1%) scored 6 in Group II with P = 0.002.
+The mean time taken from induction to laryngoscopy was 91.27 ± 29.96 s in Group I and 219.09 ± 63.88 s in Group II (with P < 0.0001); mean time taken from laryngoscopy to completion of intubation was 29.03 ± 10.61 s and 28.09 ± 9.48 s which was not statistically significant with P = 0.71.
+Sevoflurane provides clinically acceptable intubating conditions and can be a suitable alternative to propofol-suxamethonium for endotracheal intubation in children.
+We recommend the use of sevoflurane to facilitate intubation in elective procedures in children.

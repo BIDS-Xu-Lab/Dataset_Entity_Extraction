@@ -1,0 +1,12 @@
+To determine the indications and risk factors for needing midurethral sling revision in a cohort of women undergoing midurethral sling placement.
+This was a case-control study of all women undergoing midurethral sling placement for stress urinary incontinence (SUI) between January 2003 and December 2013.
+Cases were patients who underwent midurethral sling placement followed by sling revision (incision, partial or complete excision).
+Controls were patients who underwent sling placement only.
+Once all subjects had been identified, the electronic medical record was queried for demographic and perioperative and postoperative data.
+Of 3,307 women who underwent sling placement, 89 (2.7%, 95% CI 1.9 - 3.4) underwent sling revision for one or more of the following indications: urinary retention (43.8%), voiding dysfunction (42.7%), recurrent urinary tract infection (20.2%), mesh erosion (21.3%), vaginal pain/dyspareunia (7.9%), and groin pain (3.4%).
+The median time from the index to the revision surgery was 7.8 months (2.3 - 17.9 months), but was significantly shorter in patients with urinary retention.
+The type of sling placed (retropubic or transobturator) was not associated with indication for revision.
+Patients who underwent revision surgery were more likely to have had previous SUI surgery (adjusted odds ratio 4.4, 95% CI 1.7 - 6.5) and to have undergone concomitant vaginal apical suspension (adjusted odds ratio 2.4, 95% CI 1.4 - 4.5).
+The rate of sling revision after midurethral sling placement was 2.7%.
+Urinary retention and voiding dysfunction were the most common indications.
+Patients with a history of previous SUI surgery and concomitant apical suspension at the time of sling placement may be at higher risk of requiring revision surgery.

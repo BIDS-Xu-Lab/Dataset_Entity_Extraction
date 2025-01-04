@@ -1,0 +1,8 @@
+In this study was developed a natural process using a biological system for the biosynthesis of nanoparticles (NPs) and possible removal of copper from wastewater by dead biomass of the yeast Rhodotorula mucilaginosa.
+Dead and live biomass of Rhodotorula mucilaginosa was used to analyze the equilibrium and kinetics of copper biosorption by the yeast in function of the initial metal concentration, contact time, pH, temperature, agitation and inoculum volume.
+Dead biomass exhibited the highest biosorption capacity of copper, 26.2 mg g(-1), which was achieved within 60 min of contact, at pH 5.0, temperature of 30°C, and agitation speed of 150 rpm.
+The equilibrium data were best described by the Langmuir isotherm and Kinetic analysis indicated a pseudo-second-order model.
+The average size, morphology and location of NPs biosynthesized by the yeast were determined by scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and transmission electron microscopy (TEM).
+The shape of the intracellularly synthesized NPs was mainly spherical, with an average size of 10.5 nm.
+The X-ray photoelectron spectroscopy (XPS) analysis of the copper NPs confirmed the formation of metallic copper.
+The dead biomass of Rhodotorula mucilaginosa may be considered an efficiently bioprocess, being fast and low-cost to production of copper nanoparticles and also a probably nano-adsorbent of this metal ion in wastewater in bioremediation process.

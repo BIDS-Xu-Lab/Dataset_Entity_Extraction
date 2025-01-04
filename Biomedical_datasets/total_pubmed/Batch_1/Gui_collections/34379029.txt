@@ -1,0 +1,10 @@
+A novel Schiff base ligand, 4-fluoro-N-((3-hydroxy-5-(hydroxymethyl)-2-methylpyridin-4-yl)methylene)benzohydrazide (PLFBH) was synthesized by condensationof pyridoxal and 4-fluorobenzohydrazide.
+Its complexes with Ni(II), Cu(II), and Zn(II) metal ionswere prepared and characterized by spectroscopic IR, 1H-NMR, UV, LC-MS, ESR, and powder XRD studies and by elemental analysis and thermal analysis, molar conductance, and magnetic susceptibility measurements.
+The results indicate the geometry of the complexes to be hexa coordinate distorted octahedral.
+Based on the electronic absorption and fluorescence emission spectra and viscosity studies, an intercalative mode of binding of the complexes with CT-DNA was suggested, which was also supported by DNA docking studies.
+The docking studies of metal complexes with DNA were carried out using Autodock 4.2.
+The in vitro anticancer assay for the Cu(II)-PLFBH complex was performed to assess the ability of the complex to inhibit human cell proliferation on HeLa human cervical carcinoma cells, MCF-7 human breast carcinoma cells, and A549 human lung carcinoma cells.
+The Cu(II)-PLFBH complex exhibited moderate to good inhibitory effect on the cancer cell lines studied.
+The complexes showed good cleavageability toward plasmid pBR322 DNA.
+The metal complexes were found to show good antibacterial activity against gram positive bacteria, Staphylococcus aureus and Bacillus cereus and gram negative bacteria Escherichia coli and Pseudomonas aeruginosa cultures,while the ligand showed marginal activity.
+Supplemental data for this article is available online at https://doi.org/10.1080/15257770.2021.1961271 .

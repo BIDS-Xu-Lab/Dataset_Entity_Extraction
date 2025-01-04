@@ -1,0 +1,6 @@
+The purpose of this study was to demonstrate the bias in the Bland-Altman (BA) limits of agreement method when it is used to validate regression models.
+Data from 1,158 men were used to develop three regression equations to estimate maximum oxygen uptake (R2 = .40, .61, and .82, respectively).
+The equations were evaluated in a cross-validation sample of 581 men.
+The BA means and differences were correlated (p < .001) in the cross-validation sample for each model (r = .55, .39, and .26, respectively), thus demonstrating bias.
+The BA method is inappropriate for validation of regression models.
+Validation of regression equations is properly conducted by plotting the residuals against the estimated values and examining the magnitude of the estimation error.

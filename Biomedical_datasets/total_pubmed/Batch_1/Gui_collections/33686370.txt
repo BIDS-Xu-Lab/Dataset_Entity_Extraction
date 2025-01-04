@@ -1,0 +1,6 @@
+The COVID-19 pandemic has hit humanity, straining health care systems, economies, and governments worldwide.
+In one of the responses to the pandemic, a big global effort has been mounted to collect, analyze, and make data publicly available.
+However, many of the existing COVID-19 public datasets are (i) aggregated at country level, and (ii) tend not to bring the COVID-19-specific data coupled with socio-demographic, economic, public policy, health, pollution and environmental factors, all of which may be key elements to study the transmission of the SARS-CoV-2 and its severity.
+To aid the evaluation of the determinants and impact of the COVID-19 pandemic at a large scale, we present here a new dataset with socio-demographic, economic, public policy, health, pollution and environmental factors for the European Union at the small regions level (NUTS3).
+The database is freely accessible at http://dx.doi.org/10.17632/2ghxnrkr9p.4.
+This dataset can help to monitor the COVID-19 mortality and infections at the sub-national level and enable analysis that may inform future policymaking.

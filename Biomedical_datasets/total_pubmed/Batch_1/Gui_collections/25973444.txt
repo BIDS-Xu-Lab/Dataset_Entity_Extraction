@@ -1,0 +1,8 @@
+We present a novel approach to solve the cloud storage issues and provide a fast load balancing algorithm.
+Our approach is based on partitioning and concurrent dual direction download of the files from multiple cloud nodes.
+Partitions of the files are saved on the cloud rather than the full files, which provide a good optimization to the cloud storage usage.
+Only partial replication is used in this algorithm to ensure the reliability and availability of the data.
+Our focus is to improve the performance and optimize the storage usage by providing the DaaS on the cloud.
+This algorithm solves the problem of having to fully replicate large data sets, which uses up a lot of precious space on the cloud nodes.
+Reducing the space needed will help in reducing the cost of providing such space.
+Moreover, performance is also increased since multiple cloud servers will collaborate to provide the data to the cloud clients in a faster manner.

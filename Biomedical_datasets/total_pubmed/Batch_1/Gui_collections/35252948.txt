@@ -1,0 +1,13 @@
+Cardiac surgery-associated acute kidney injury (AKI) can increase the mortality and morbidity, and the incidence of chronic kidney disease, in critically ill survivors.
+The purpose of this research was to investigate possible links between urinary metabolic changes and cardiac surgery-associated AKI.
+Using ultra-high-performance liquid chromatography coupled with Q-Exactive Orbitrap mass spectrometry, non-targeted metabolomics was performed on urinary samples collected from groups of patients with cardiac surgery-associated AKI at different time points, including Before_AKI (uninjured kidney), AKI_Day1 (injured kidney) and AKI_Day14 (recovered kidney) groups.
+The data among the three groups were analyzed by combining multivariate and univariate statistical methods, and urine metabolites related to AKI in patients after cardiac surgery were screened.
+Altered metabolic pathways associated with cardiac surgery-induced AKI were identified by examining the Kyoto Encyclopedia of Genes and Genomes database.
+The secreted urinary metabolome of the injured kidney can be well separated from the urine metabolomes of uninjured or recovered patients using multivariate and univariate statistical analyses.
+However, urine samples from the AKI_Day14 and Before_AKI groups cannot be distinguished using either of the two statistical analyses.
+Nearly 4000 urinary metabolites were identified through bioinformatics methods at Annotation Levels 1-4.
+Several of these differential metabolites may also perform essential biological functions.
+Differential analysis of the urinary metabolome among groups was also performed to provide potential prognostic indicators and changes in signalling pathways.
+Compared with the uninjured kidney group, the patients with cardiac surgery-associated AKI displayed dramatic changes in renal metabolism, including sulphur metabolism and amino acid metabolism.
+Urinary metabolite disorder was observed in patients with cardiac surgery-associated AKI due to ischaemia and medical treatment, and the recovered patients' kidneys were able to return to normal.
+This work provides data on urine metabolite markers and essential resources for further research on AKI.

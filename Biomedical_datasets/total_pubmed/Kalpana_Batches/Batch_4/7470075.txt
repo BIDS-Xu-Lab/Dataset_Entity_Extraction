@@ -1,0 +1,9 @@
+Previous studies on L-cell cultures [Amenta & Sargus (1979) Biochem.
+J. 182, 847--859] have suggested: (a) that degradation of slow-turnover proteins occurs in a distinct cell state (D-state); (b) that cells randomly enter the D-state with a first-order transition constant, rapidly degrade cell protein, and return to a quiescent G0-state.
+In the present study we have tested the hypothesis that the putative D-state exists as a substate within A-state (non-replicating) fibroblasts.
+[3H]thymidine, 'chased' for 24 h, and then placed in fresh growth medium containing either vinblastine (10 microM) or colchicine (25 microM) for three successive 24 h periods.
+Cells trapped in mitosis were separated from the residual non-replicating cells and rates of protein synthesis, degradation and net accumulation were measured in both populations.
+We observed that significant protein degradation occurred only in the non-replicating population, although both populations showed equally high rates of protein synthesis induced by fresh growth medium.
+These data support the hypothesis that degradation of slow-turnover protein is heterogeneous, occurring only in A-state cells.
+[Amenta, Sargus & Baccino (1978) J. Cell.
+97, 267--283] showing no differences in degradation of the slow-turnover protein pool in growth-stimulated and stationary-phase fibroblast cultures.

@@ -1,0 +1,12 @@
+The aim was to review the efficacy of antimicrobial photodynamic therapy (PDT) in the treatment of oral fungal infections.
+To address the focused question "Should PDT be considered a possible treatment regimen for oral fungal infections?"
+PubMed/Medline and Google-Scholar databases were searched from 1997 up to March 2014 using various combinations of the following key words: "Candida albicans"; "Candidiasis"; "Candidosis"; "denture stomatitis"; "oral" and "photodynamic therapy".
+Original studies, experimental studies and articles published solely in English language were sought.
+Letters to the editor, historic reviews and unpublished data were excluded.
+Pattern of the present literature review was customized to mainly summarize the pertinent information.
+Fifteen studies (3 clinical and 12 experimental) were included.
+All studies reported antimicrobial PDT to be an effective antifungal treatment strategy.
+One study reported PDT and azole therapy to be equally effective in the treatment of oral fungal infections.
+Methylene blue, toluidine blue and porphyrin derivative were the most commonly used photosensitizers.
+The energy fluence ranged between 26-245 J cm(-2) and the duration or irradiation ranged between 10 seconds and 26 minutes.
+Clinical effectiveness of antimicrobial PDT as a potent therapeutic strategy for oral fungal infections requires further investigations.

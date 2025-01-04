@@ -1,0 +1,12 @@
+Antimicrobial resistance (AMR) is a global health problem.
+However, quantitative evaluation of its disease burden is challenging.
+This study aimed to estimate the disease burden of bloodstream infections (BSIs) caused by major antimicrobial-resistant bacteria in Japan between 2015 and 2018 in terms of disability-adjusted life-years (DALYs).
+DALYs of BSIs caused by nine major antimicrobial-resistant bacteria in Japan were estimated using comprehensive national surveillance data of all routine bacteriological test results from more than 1400 hospitals between 2015 and 2018.
+The methodology of Cassini et al. was modified to enable comparison of the present results with those in other countries.
+[95% uncertainty interval (UI) 130.7-145.2] DALYs per 100,000 population were attributable to BSIs caused by nine antimicrobial-resistant bacteria in 2018.
+Methicillin-resistant Staphylococcus aureus (MRSA), fluoroquinolone-resistant Escherichia coli (FQREC) and third-generation cephalosporin-resistant E. coli (3GREC) accounted for 87.2% overall.
+The burden did not decrease during the study period and was highest in people aged ≥65 years.
+The results revealed, for the first time, the disease burden of BSIs caused by nine major antimicrobial-resistant bacteria in Japan.
+The estimated disease burden associated with AMR in Japan is substantial and has not begun to decrease.
+Notably, the burden from FQREC and 3GREC has increased steadily, and that from MRSA is larger in Japan than in the European Union/European Economic Area, whereas the burden from other bacteria is comparatively small.
+These results are expected to provide useful information for healthcare policy makers for prioritizing interventions for AMR.

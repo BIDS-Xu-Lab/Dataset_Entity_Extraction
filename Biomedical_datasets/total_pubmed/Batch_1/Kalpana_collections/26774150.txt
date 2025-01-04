@@ -1,0 +1,8 @@
+An actin-binding protein filamin A connects the actin filament network to cell membrane receptors, and acts as a scaffold for various signaling pathways related to cancer growth and progression.
+Recently, it has been reported that filamin A is required for efficient regulation of early stages of DNA repair process.
+Moreover, some in vitro studies showed that the overexpression of filamin A determines resistance to various cytotoxic drugs, including cisplatin.
+We aimed to analyse the expression of filamin A protein in resected NSCLC (Non Small Cell Lung Cancer) specimens, to investigate the association of the level of filamin A protein expression and other clinicopathological features, and possible relationship between the expression of filamin A and survival outcome in NSCLC patients, treated with platinum-based combination chemotherapy.
+We performed filamin A protein immunohistochemistry on formalin-fixed and paraffin-embedded (FFPE) tissue sections from 135 NSCLC patients, using EP2405Y antibody against C-terminus of filamin A. Cytoplasmic, membranous and nuclear positivity of filamin A was evaluated semi-quantitatively and correlated with available clinicopathological data.
+Patients were divided into two groups for survival analysis (I group - patients treated with adjuvant platinum-based chemotherapy, II group - patients with surgical treatment only).
+We found significant positive correlation between filamin A protein expression and NSCLC stage (r=0.249; p<0,05), presence of lymph node (N)(r=0.205; p<0,05) and distant metastases (M) (r=0.332; P<0.01).
+Thus, filamin A expression might be a new prognostic marker in patients with NSCLC.

@@ -1,0 +1,10 @@
+Complex interrelationships exist between the right (RV) and the left ventricles (LV).
+Therefore, in 30 consecutive patients with reduced LV function (left ventricular ejection fraction [LVEF]) less than 40% undergoing myocardial revascularization, RV hemodynamics were studied from the beginning of anesthesia until the end of the operation.
+The data were compared with 30 consecutive patients with normal LVEF (greater than 70%).
+Ventricular function was assessed during left heart catheterization, which was carried out within 1 month of the operation.
+In addition to standard hemodynamic variables, RV ejection fraction (RVEF), RV end-diastolic volume (RVEDV), and RV end-systolic volume (RVESV) were monitored by the thermodilution technique.
+The two groups did not differ preoperatively with regard to RVEF, pressure (MAP, PAP, PCWP, RAP, RVPsyst, RVEDP), cardiac index (CI), and volume variables (RVESV, RVEDV).
+However, when the group with preoperatively reduced LVEF was subdivided into patients with severely reduced LVEF (less than 30%; n = 14; mean value 25.1%) and patients with moderately reduced LVEF (30%-40%; n = 16; mean value 37.3%), RVEF was significantly lower in the patients with a LVEF below 30% throughout the entire investigation period.
+RVEDV and RVESV were significantly higher in these patients.
+In conjunction with the lower RVEF and normal PAP, this suggests reduced RV function.
+It can be concluded that a severely reduced preoperative LVEF (less than 30%) may also be associated with impaired RV function.

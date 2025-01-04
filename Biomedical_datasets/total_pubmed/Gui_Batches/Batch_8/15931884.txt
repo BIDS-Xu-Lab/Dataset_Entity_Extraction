@@ -1,0 +1,15 @@
+To investigate the preparation and the encapsulation efficiency of 125I-oligonucleotide(ON)-long-circulation liposomes (LCL).
+(1) Oligonucleotide was labeled with 125I using thallium chloride tetrahydrate (TICl3) as an oxidizing agent.
+125I-oligonucleotide was separated from free 125I by Sephadex G25 column chromatography.
+The following radiolabeling efficiency, radiochemistry purity and specific radioactivity were obtained respectively.
+Subsequently, the stability of 125I-ON was observed.
+(2) 125I-ON-LCL were prepared by means of reverse-phase evaporation.
+The quality of 125I-ON-LCL was evaluated after the crude LCL were repeatedly extruded through 400 nm, 200 nm, 100 nm polycarbonate membranes consecutively.
+Results (1) The radiolabeling efficiency, radiochemistry purity and specific radioactivity of 125I-antisense oigonucleotide (ASON) were (72.80 +/-
++/- 0.39)% and (0.63 +/- 0.11) MBq/microg; of 125I-sense oigonucleotide (SON) were (72.21 +/-
+0.36)%, (0.63 +/- 0.14) MBq/microg; and of 125I-nonsense oligonucleotide (NON) were (72.77 +/-
+0.40)%, (0.62 +/- 0.11) MBq/microg, respectively.
+(2) The radiochemistry purity of 125I-ON, in 0.01 mol/L HEPES buffer and human serum at 1 h, 2 h and 4 h were all above 93%, 80%, respectively.
+(3) LCL formulations were 115 nm in mean diameter with a PDI (polydispersibility index) of 0.103 and Zeta potential of -29.23.
+The encapsulation efficiencies of 125I-ASON, 125I-SON and 125I-NON were (66.21 +/-
+LCL were prepared in high loading efficiency for 125I-ON with small particle sizes and symmetric distributions.

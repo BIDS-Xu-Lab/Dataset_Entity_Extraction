@@ -1,0 +1,11 @@
+Manganese (Mn) is widely used in modern industries.
+Occupational exposure to Mn is known to cause clinical syndromes similar, but not identical to, Parkinson's disease.
+This human cohort study was designed to investigate if workers exposed to Mn altered the PARK2 gene expression, leading to Mn-induced neurotoxicity.
+Workers (n=26) occupationally exposed to Mn were recruited from a Mn-iron (Fe) alloy smelter, and control workers (n=20) without Mn-exposure were from an Fe smelter from Zunyi City in China.
+Subjects were matched with socioeconomic status and background for environmental factors.
+Metal concentrations were determined by atomic absorption spectrophotometry (AAS).
+Total RNA from the blood samples was isolated and analyzed by RT-PCR to quantify PARK2.
+The data showed that Mn concentrations in plasma, red blood cell (RBC) and saliva, and the cumulative Mn-exposure were about 2.2, 2.0, 1.7 and 3.0 fold higher, respectively, in Mn-exposed workers than those in control subjects (p<0.01).
+The expression of PARK2 in Mn-exposed workers was significantly decreased by 42% as compared to controls (p<0.01).
+Linear regression analysis further established that the expression of PARK2 mRNA was inversely correlated with Mn levels in plasma, RBC and saliva, as well as the cumulative Mn exposure (p<0.01).
+Taken together, it seems likely that Mn exposure among smelters may lead to a reduced expression of PARK2, which may partly explain the Mn-induced Parkinsonian disorder.

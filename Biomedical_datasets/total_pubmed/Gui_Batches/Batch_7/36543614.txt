@@ -1,0 +1,9 @@
+In Brazil, scorpion stings are recorded in high numbers with an increasing epidemiological situation in most municipalities.
+In the present study, data between 1998 and 2018 in Americana, São Paulo, were analyzed.
+In total, 4122 records on scorpion stings were georeferenced using a Garmin eTREX 30X global positioning system device, with WGS84 datum projection and Universal Transverse Mercator zone 23S. Multiple Poisson regression was used to explore the relationship between the incidence rates of stings and urban planning areas (UPAs).
+Eight quantitative variables were used to establish the environmental and anthropic characterization of UPAs associated or not associated with scorpionism.
+A spatial analysis was performed for geoprocessing maps of Americana using spatial statistics tools (optimized hotspot analysis and kernel density function) from cartographic clusters in the ArcMap software, version 10.5.
+The optimized hotspot analysis tool identified spatial clusters with high values of the incidence of scorpion stings in the surroundings of all UPAs in the municipality.
+The estimation of the kernel function of event intensity showed a wide distribution of stings across the area of the entire municipal territory, with UPA-02 and UPA-06 exhibiting the highest occurrence of scorpion stings.
+Six significant hotspots were established as highest-event-density areas (with occurrences of 160-270) and were contiguous to 4 environmental protection areas, located in more peripheral regions, and to 2 municipal cemeteries, which were located in urban central areas.
+This analysis showed that the risk of scorpion stings in different Americana's UPAs has increased occurrence and incidence intensity.

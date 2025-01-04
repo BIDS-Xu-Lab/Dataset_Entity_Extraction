@@ -1,0 +1,14 @@
+Application of heat shock before an inflammatory stimulus often results in an attenuated response to that stimulus.
+As a result, it has become increasingly appreciated that heat shock may induce cross-tolerance to a variety of stimuli based on in vitro and in vivo models.
+Circulating peripheral blood monocytes are key mediators of cytokine release following endotoxin challenge.
+The mitogen-activated protein kinases play a key role in the transcriptional regulation of this response including expression of tumor necrosis factor.
+As such, counterregulatory phosphatases that target mitogen-activated protein kinase may play a role in this heat shock-mediated effect.
+We hypothesized that prior heat shock to monocytes would induce a phosphatase, MKP-1, that regulated mitogen-activated protein kinase activity and subsequently conferred cross-tolerance to lipopolysaccharide stimulation.
+THP-1 cells were exposed to either heat shock (43 degrees C, 1 hr) or normothermia (37 degrees C, 1 hr) and allowed to recover before stimulation with endotoxin (lipopolysaccharide).
+Induction of a heat shock response was determined by heat shock protein-70 expression.
+Tumor necrosis factor and interleukin-10 were measured by enzyme-linked immunosorbent assay to assess heat shock inhibition of lipopolysaccharide-induced gene expression.
+The effect of heat shock on lipopolysaccharide-mediated activation of the p38 and ERK kinases was examined by measuring phospho-specific isoforms of p38 and ERK1/2 and correlated to in vitro kinase activity.
+Confirmatory data were generated from experiments employing either pharmacologic inhibition or genetic deletion of MKP-1.
+Heat shock induced the nuclear localized phosphatase, MKP-1, that attenuated p38 and ERK kinase activity resulting in significantly diminished tumor necrosis factor expression in response to lipopolysaccharide.
+The effect of heat shock on decreasing the tumor necrosis factor response to lipopolysaccharide is conferred by induction of MKP-1, which negatively regulates p38 and ERK kinases.
+Modulation of phosphatase activity may be a potential strategy for attenuating acute inflammatory responses.

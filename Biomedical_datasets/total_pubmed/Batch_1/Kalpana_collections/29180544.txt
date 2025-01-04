@@ -1,0 +1,18 @@
+Cluttered documentation may contribute adversely to physician readers' cognitive load, inadvertently obscuring high-value information with less valuable information.
+We test the hypothesis that a novel, collapsible assessment, plan, subjective, objective (APSO) note design would be faster, more accurate, and more satisfying to use than a conventional electronic health record (EHR) subjective, objective, assessment, plan (SOAP) note for finding information needed for ambulatory chronic disease care.
+We iteratively developed physician clinic note prototypes with features designed to emphasize more important information and de-emphasize less clinically relevant information.
+Sixteen primary care physicians reviewed comparable clinic notes with the 4 note styles presented in random order to find key information in the notes during timed tasks.
+The 4 note styles were denoted A (traditional SOAP note), B (2-column APSO note), C (collapsible APSO note), and D (2-column collapsible APSO note).
+The 4 unique note styles were designed to have equal amounts of information in each section.
+We simulated their utility for clinical practice by imposing time limits and by interrupting 1 of the tasks with a typical clinical interruption.
+For each session, we recorded audio, computer-screen activity, eye tracking, and made field notes.
+We obtained usability ratings (System Usability Scale), new feature preference ratings, and performed semistructured post-task interviews with subsequent content analysis.
+We compared the effectiveness of the 4 note styles by measuring time on task, task success (accuracy), and effort as measured by NASA Task Load Index.
+Note styles C and D were significantly faster than A and B for the Review of Systems and Physical Examination tasks, as we expected.
+Notes B and C had the best success (finding requested data) scores.
+Users strongly endorsed all the new note features incorporated into the new note prototypes.
+Previously expressed concerns about temporarily hiding parts of the note (using the accordion display design pattern) were allayed.
+Usability ratings for note A were worst but comparably better for note styles B, C, and D.
+The new APSO note prototypes performed better than the traditional SOAP note format for speed, task success (accuracy), and usability for physician users acquiring information needed for a typical chronic disease visit in primary care.
+Moving Assessment and Plan to the top is 1 easily accomplished feature change.
+Innovative documentation displays of EHR data can safely improve information display without eliminating data from the record of the visit.

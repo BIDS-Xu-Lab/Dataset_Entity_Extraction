@@ -1,0 +1,9 @@
+Greek military recruits (993) were examined for carriage of meningococci during July 1990.
+Blood, saliva and throat swab specimens were obtained and each recruit answered a questionnaire providing information on age, education (a measure of socioeconomic level), place of residence, smoking habits and recent infections.
+The overall carriage rate was 25% but differed between the two camps:
+79/432 (18%) in Camp A and 168/561 (30%) in Camp B (P less than 0.0005).
+In Camp B, there were significantly higher proportions of recruits who were non-secretors (P less than 0.0005), and/or heavy smokers (P less than 0.0005).
+They were also younger (less than 19 years old) (P less than 0.001), and on the whole had fewer years of education (P less than 0.0005).
+By univariate analysis, carriage was significantly associated with smoking.
+By multiple logistic regression analysis, carriage was associated with smoking (P less than 0.001), age (P less than 0.01) and the camp in which the recruits were based (P less than 0.01).
+Among recruits in Camp B, 15/38 (40%) of those with recent viral infections were carriers compared with 30% for the camp in general.

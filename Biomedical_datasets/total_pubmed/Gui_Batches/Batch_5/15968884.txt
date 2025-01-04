@@ -1,0 +1,10 @@
+The purpose of this study was to compare the effect of insulin glargine (glargine) and NPH insulin (NPH) on long-term outcomes in type 2 diabetes patients using the Diabetes Mellitus Model (DMM).
+The DMM predicts short- and long-term complications over ten years using data in studies published previously.
+The main effect on outcome is the influence of the treatment on the HbA1c level which is simulated over time.
+The simulation was based on a cohort size of 10,000 type 2 diabetes patients taking either glargine or NPH.
+The best scenario, baseline scenario and worst case scenario were simulated based on differences of 0.13%, 0.44% and 0.85%, respectively, in HbA1c values and corresponding to potentially attainable improvements with comparable or lower hypoglycemia rates in glargine-treated patients and NPH-treated patients.
+Assumptions for scenarios 1, 2 and 3 were based on a regression analysis of clinical trial data (pooled data clinical trials comparing glargine and NPH) in which the effect of glargine on the HbA1c/hypoglycemia incidence ratio was superior to that of NPH.
+The relative risks (RR, glargine/NPH) obtained for scenarios 1, 2 and 3 were 0.97, 0.89 and 0.81, respectively, for long-term microvascular complications and 0.99, 0.95 and 0.91, respectively, for long-term macrovascular complications.
+RR reductions ranged from 1% in the less optimistic scenario to > 20% in the "best case" scenario.
+Sensitivity analyses showed that variations in the mean baseline HbA1c values and duration of the diabetes were without effect on these outcomes.
+Although there is a need to corroborate the results of these simulations with real, long-term clinical data, they have demonstrated that, assuming comparable or lower rates of hypoglycemia, a better glycemic control (HbA1c reduction) can be expected with glargine when compared to NPH together with a reduction in long-term complications, mortality and associated costs.

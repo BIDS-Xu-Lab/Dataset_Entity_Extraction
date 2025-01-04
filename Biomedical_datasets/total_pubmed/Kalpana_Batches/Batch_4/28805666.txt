@@ -1,0 +1,9 @@
+Cracks in oil and gas pipelines cause leakage which results in property damage, environmental pollution, and even personal injury or loss of lives.
+In this paper, an active-sensing approach was conducted to identify the crack damage in pipeline structure using a stress wave propagation approach with piezoceramic transducers.
+A pipeline segment instrumented with five distributed piezoceramic transducers was used as the testing specimen in this research.
+Four cracks were artificially cut on the specimen, and each crack had six damage cases corresponding to different crack depths.
+In this way, cracks at different locations with different damage degrees were simulated.
+In each damage case, one piezoceramic transducer was used as an actuator to generate a stress wave to propagate along the pipeline specimen, and the other piezoceramic transducers were used as sensors to detect the wave responses.
+To quantitatively evaluate the crack damage status, a wavelet packet-based damage index matrix was developed.
+Experimental results show that the proposed method can evaluate the crack severity and estimate the crack location in the pipeline structure based on the proposed damage index matrix.
+The sensitivity of the proposed method decreases with increasing distance between the crack and the mounted piezoceramic transducers.

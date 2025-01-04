@@ -1,0 +1,12 @@
+This study was conducted to evaluate whether antibacterial pretreatment irrigation with silver nanoparticles (SNPs) and silver diamine fluoride (SDF) has any effect on bond strength of fiber posts cemented with three types of resin cements in root canal space.
+Fifty-four endodontically treated maxillary central incisor roots were prepared for fiber post (FRC Postec Plus NO.3, Ivoclar Vivadent) cementation and divided into nine groups in terms of three cement types and two pretreatments with silver antibacterial agents.
+The cements were as follows: an etch-and-rinse cement (ER, Excite DSC/Variolink N), a self-etch cement (SE, ED Primer/Panavia F2.0), and a self-adhesive cement (SA, Panavia SA Luting Plus).
+For each cement, the control group was with no treatment and two experimental groups were with SNPs and SDF treatments that were used after acid-etching for ER cement and after EDTA treatment for SE and SA cements.
+After fiber post cementation, each bonded root was horizontally sectioned into 1-mm thickness microslices to create two slices for each root region (apical, middle and coronal) and underwent push-out bond strength (PBS) test.
+Data in MPa were analyzed with two-way ANOVA and Tukey test (p=0.05).
+The interaction of the pretreatment type and cement type was significant (p<0.001).
+SNPs and SDF significantly increased PBS with ER cement (p≤0.04).
+This positive effect was also marginally significant for SDF with SE cement (p=0.049).
+For SA cement, SNPs showed a significant positive effect, but SDF had a significant adverse effect on PBS (p<0.001).
+The effect of pretreatment with silver antibacterial agents prior to adhesive cementation of fiber posts depends on the resin cement used.
+Contrary to SNPs with beneficial or no significant effect on bonding for all cements, SDF exhibited a deleterious effect with self-adhesive cement.

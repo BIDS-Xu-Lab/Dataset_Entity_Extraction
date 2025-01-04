@@ -1,0 +1,7 @@
+However, whether fish acclimate in the laboratory similarly as they acclimatize in the field under comparable thermal variation is unclear.
+We used temperature data from a tidal salt marsh to design 21-day lab-acclimation treatments (static: 12, 17, 22, 27 °C; daily variation with mean 22 °C: i) range 17-27 °C, ii) range 17-27 °C with irregular extremes within 12-32 °C).
+We compared thermal limits in lab-acclimated and field-acclimatized eurythermal arrow goby (Clevelandia ios).
+Variable temperature-acclimated and acclimatized fish had similar CTmin and CTmax.
+Notably, arrow gobies showed rapid plasticity in their absolute thermal tolerance within one tidal cycle.
+The daily mean and max temperatures experienced were positively related to CTmax and CTmin, respectively.
+This study demonstrates that ecologically informed lab acclimation treatments can yield tolerance results that are applicable to wild fish.

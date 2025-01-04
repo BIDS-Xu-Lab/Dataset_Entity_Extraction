@@ -1,0 +1,9 @@
+Ensuring spectral quality is prerequisite to Raman spectroscopy applied to surgery.
+This is because the inclusion of poor-quality spectra in the training phase of Raman-based pathology detection models can compromise prediction robustness and generalizability to new data.
+Currently, there exists no quantitative spectral quality assessment technique that can be used to either reject low-quality data points in existing Raman datasets based on spectral morphology or, perhaps more importantly, to optimize the in vivo data acquisition process to ensure minimal spectral quality standards are met.
+To develop a quantitative method evaluating Raman signal quality based on the variance associated with stochastic noise in important tissue bands, including C─C stretch, CH2  /  CH3 deformation, and the amide bands.
+A single-point hand-held Raman spectroscopy probe system was used to acquire 315 spectra from 44 brain cancer patients.
+All measurements were classified as either high or low quality based on visual assessment (qualitative) and using a quantitative quality factor (QF) metric.
+Receiver-operator-characteristic (ROC) analyses were performed to evaluate the performance of the quantitative metric to assess spectral quality and improve cancer detection accuracy.
+The method can separate high- and low-quality spectra with a sensitivity of 89% and a specificity of 90% which is shown to increase cancer detection sensitivity and specificity by up to 20% and 12%, respectively.
+The QF threshold is effective in stratifying spectra in terms of spectral quality and the observed false negatives and false positives can be linked to limitations of qualitative spectral quality assessment.

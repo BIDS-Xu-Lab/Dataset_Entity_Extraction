@@ -1,0 +1,8 @@
+This review aimed to determine: whether EF is affected in children and adolescents (2-24-years-old) with perinatal HIV infection, perinatal HIV exposure without infection, and behaviourally acquired HIV.
+A systematic review (PROSPERO number: CRD42017067813) was conducted using 11 electronic databases (01.01.1981-09.07.2019) and 8 conference websites.
+Primary quantitative studies with EF scores on cognitive tasks and/or behavioural report measures were included.
+Meta-analyses were performed by EF subtype and subpopulations compared.
+Sixty-one studies were included in the narrative synthesis; 32 (N = 7884 participants) were included in meta-analyses.
+There was a distinct pattern of reduced EF in those with perinatal HIV infection on antiretroviral therapy compared to controls: pooled effect sizes were largest for verbal and visuospatial working memory, with smaller effects on planning, inhibitory control and set-shifting.
+Data were limited for other HIV-affected subpopulations.
+Perinatal HIV infection is associated with reduced EF with varying effect sizes for the different EF subtypes.

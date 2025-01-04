@@ -1,0 +1,12 @@
+The 13-item Patient Activation Measure (PAM-13) is the most widely used generic patient activation measure, but spinal cord injury (SCI) related psychometric evaluation of PAM-13 has not been explored globally.
+This study aimed to assess the validity of the Chinese version of the PAM-13 (PAM-13-C) for individuals with chronic spinal cord injury (CSCI).
+Shanghai Sunshine Rehabilitation Center, and some participants were recruited in a WeChat group (the most commonly used social media platform in China).
+284 individuals with spinal cord injury who had lived with the injury for ≥0.5 year.
+The PAM-13-C, global QoL, seven-item generalized anxiety disorder scale (GAD-7) and nine-item patient health questionnaire (PHQ-9), and General Self-Efficacy Scale (GSES) were used.
+The mean (SD) PAM-13-C score was 57.4 (16.5).
+The highest percentage of NA could be observed in item 9 (12.0%).
+Floor and ceiling effects of the total scores of PAM-13-C were small (0.7% and 6.7%), but a ceiling effect could be observed among all items.
+Exploratory Factor Analysis supported a one-factor model of the PAM-13-C (CFI = 0.97; RMSEA = 0.07).
+Construct validity was established through correlation analysis among the PAM-13-C, GAD-7/PHQ-9, global QoL, and GSES.
+The PAM-13-C demonstrated excellent internal consistency (Cronbach's α = 0.95) and acceptable test-retest reliability.
+The PAM-13-C is a reliable and valid measure of patient activation for individuals with CSCI in China.

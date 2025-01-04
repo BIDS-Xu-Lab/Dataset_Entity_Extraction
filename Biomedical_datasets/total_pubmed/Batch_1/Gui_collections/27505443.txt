@@ -1,0 +1,10 @@
+The 2013 American College of Cardiology/American Heart Association guidelines recommend statins for adults age ≤75 years who have clinical atherosclerotic cardiovascular disease (IA) and adults age 40 to 75 years with diabetes mellitus and LDL-C 70-189 mg/dl (IA).
+Our aim was to estimate the prevalence and likelihood of statin use among selected statin benefit groups.
+Using data from the National Health and Nutrition Examination Survey (NHANES) 2011-2012, we examined 5319 adults age ≥20 years.
+We estimated weighted frequencies and prevalence of statin use for adults with diabetes mellitus and dyslipidemia (or low-density lipoprotein cholesterol ≥70 mg/dL), defined as statin benefit group 1 (SBG1); and for adults with atherosclerotic cardiovascular disease, defined as statin benefit group 2 (SBG2).
+We constructed a logistic regression model to estimate odds of statin use in SBG1.
+Overall, an estimated 38.6 million Americans are on a statin.
+[CI]: 53.0-66.1) of all adults in SBG1, 58.8% (95% CI: 51.5-66.1) of adults age 40 to 75 in SBG1, and 63.5% (95% CI: 55.6-71.4) of all adults in SBG2 were on a statin.
+Although the prevalence of statin use has increased over time, Hispanic ethnicity and lack of insurance remain barriers to statin use.
+Black-white racial disparities were not significant.
+Our study provides a baseline estimate of statin use in the noninstitutionalized population just prior to introduction of the new guidelines and provides a reference for evaluating the impact of the new guidelines on statin utilization.

@@ -1,0 +1,11 @@
+Initial and early tissue injury associated with severe influenza virus infection is the result of both virus-mediated lysis of infected pulmonary cells coupled with an exuberant immune response generated against the virus.
+The excessive host immune response associated with influenza virus infection has been termed "cytokine storm."
+Therapies that target virus replication are available; however, the selective pressure by such antiviral drugs on the virus often results in mutation and the escape of virus progeny now resistant to the antiviral regimen, thereby rendering such treatments ineffective.
+This event highlights the necessity for developing novel methods to combat morbidity and mortality caused by influenza virus infection.
+One potential method is restricting the host's immune response.
+However, prior treatment regimens employing drugs like corticosteroids that globally suppress the host's immune response were found unsatisfactory in large part because they disrupted the host's ability to control virus replication.
+Here, we discuss a novel therapy that utilizes sphingosine-1-phosphate (S1P) receptor signaling that has the ability to significantly limit immunopathologic injury caused by the host's innate and adaptive immune response, thereby significantly aborting morbidity and mortality associated with influenza virus infection.
+Moreover, S1P analog therapy allows for sufficient anti-influenza T cell and antibody formation to control infection.
+We review the anti-inflammatory effects of S1P signaling pathways and how modulation of these pathways during influenza virus infection restricts immunopathology.
+Finally, we discuss that combinatorial administration of S1P simultaneously with a current antiviral enhances the treatment efficacy for virulent influenza virus infections above that of either drug treatment alone.
+Interestingly, the scope of S1P receptor therapy reported here is likely to extend beyond influenza virus infection and could prove useful for the treatment of multiple maladies like other viral infections and autoimmune diseases where the host's inflammatory response is a major component in the disease process.

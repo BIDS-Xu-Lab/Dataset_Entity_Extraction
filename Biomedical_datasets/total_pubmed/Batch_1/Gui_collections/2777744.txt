@@ -1,0 +1,7 @@
+Gangliosides seem to play an important role in the interaction of the neurotoxic pigment bilirubin with the synaptosomal plasma membrane (Vázquez et al.
+In this report, a further characterization of the bilirubin-ganglioside interaction is presented.
+The interaction is fast, and it is observed at any pH in the range 7.0-9.0.
+The characteristics of the interaction are different from those observed with other membrane lipids, including sphingomyelin.
+A model of binding to a single population of sites is able to adequately fit the experimental data.
+This model predicts a decrease in the tendency of bilirubin to interact with gangliosides and an increase in the binding capacity as the pH is decreased from 8.0 to 7.0.
+Our data would suggest a role for gangliosides in explaining the preferential accumulation of bilirubin in some areas of the brain and the toxic effect of this pigment in neuronal membrane-related functions.

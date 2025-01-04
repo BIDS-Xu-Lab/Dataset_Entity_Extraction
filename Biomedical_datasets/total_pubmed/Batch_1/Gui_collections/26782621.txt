@@ -1,0 +1,11 @@
+Shaping of the neural tube, the precursor of the brain and spinal cord, involves narrowing and elongation of the neural tissue, concomitantly with other morphogenetic changes that contribue to this process.
+In zebrafish, medial displacement of neural cells (neural convergence or NC), which drives the infolding and narrowing of the neural ectoderm, is mediated by polarized migration and cell elongation towards the dorsal midline.
+Failure to undergo proper NC results in severe neural tube defects, yet the molecular underpinnings of this process remain poorly understood.
+We investigated here the role of the microtubule (MT) cytoskeleton in mediating NC in zebrafish embryos using the MT destabilizing and hyperstabilizing drugs nocodazole and paclitaxel respectively.
+We found that MTs undergo major changes in organization and stability during neurulation and are required for the timely completion of NC by promoting cell elongation and polarity.
+We next examined the role of Microtubule-associated protein 1B (Map1b), previously shown to promote MT dynamicity in axons.
+map1b is expressed earlier than previously reported, in the developing neural tube and underlying mesoderm.
+Loss of Map1b function using morpholinos (MOs) or δMap1b (encoding a truncated Map1b protein product) resulted in delayed NC and duplication of the neural tube, a defect associated with impaired NC.
+We observed a loss of stable MTs in these embryos that is likely to contribute to the NC defect.
+Lastly, we found that Map1b mediates cell elongation in a cell autonomous manner and polarized protrusive activity, two cell behaviors that underlie NC and are MT-dependent.
+Together, these data highlight the importance of MTs in the early morphogenetic movements that shape the neural tube and reveal a novel role for the MT regulator Map1b in mediating cell elongation and polarized cell movement in neural progenitor cells.

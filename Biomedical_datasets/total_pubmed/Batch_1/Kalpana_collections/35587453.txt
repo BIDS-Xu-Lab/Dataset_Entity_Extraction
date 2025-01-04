@@ -1,0 +1,12 @@
+Assessment of bone health in young children has been hampered by limited reference values for bone mineral content (BMC) and areal bone mineral density (aBMD) by dual energy X-ray absorptiometry (DXA).
+To identify age, sex, and population ancestry effects on BMC and aBMD and develop smoothed reference ranges for BMC and aBMD in young children.
+To quantify precision of bone measurements and influence of height-for-age Z-scores on bone Z-scores.
+We recruited 484 healthy children ages 1 to 2 years or 4.5 to 5 years at 2 clinical centers, who were seen once or up to 7 times over a 3-year period.
+Lumbar spine, distal forearm, and whole-body subtotal (ages ≥ 3 years)
+BMC and aBMD were measured by DXA.
+These data were combined with data from the Bone Mineral Density in Childhood Study from children ages 5 to 8.9 years to create the smoothed reference curves.
+For 1- to 5-year-olds, BMC and aBMD at all skeletal sites increased with age.
+Age trends differed by sex for BMC and aBMD of the spine, distal one-third radius, ultradistal radius, and by ancestry (Black vs non-Black) for all measures.
+BMC and aBMD precision (% coefficient of variation) ranged from 1.0% to 4.4%.
+Height Z-scores were positively associated with bone Z-scores and accounted for 4% to 45% of the variance.
+We demonstrate the feasibility of bone density measurements in young children and provide robust reference ranges and stature adjustments for calculation of bone Z-scores at multiple skeletal sites to enable bone health assessments.

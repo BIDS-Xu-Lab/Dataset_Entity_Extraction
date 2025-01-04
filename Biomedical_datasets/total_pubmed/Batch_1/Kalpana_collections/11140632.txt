@@ -1,0 +1,8 @@
+By governmental mandate, Japanese school children are screened annually for proteinuria, hematuria, and glucosuria to identify children with possible renal disorders.
+We added urine dipstick tests for albumin and creatinine to the Japanese screening protocol, and used their dipstick results for blood, glucose and protein.
+The sulfosalicylic acid precipitation test was used to confirm "trace" positive protein dipsticks.
+The Japanese and our screening protocol have in common the same data for glucosuria and proteinuria.
+Their scheme has an algorithm for repeat testing of children with abnormal results, and further testing and medical evaluation for those showing persistently abnormal values.
+Out of the 23,121 students, we found seven with likely nephritis, one with confirmed nephritis, one with nephrotic syndrome, 170 with persistent unexplained hematuria, 19 with persistent unexplained proteinuria, 14 cases of urinary tract infection, and 20 cases of likely diabetes mellitus.
+We conclude that dipstick testing for albumin, protein, creatinine, glucose and occult blood has significant value in a multilevel testing scheme for identifying children with urinary tract abnormalities or diabetes.
+The assay of albumin increases the sensitivity of the screening, and dividing the albumin by the creatinine concentration reduces the potential errors arising from concentrated or dilute urines.

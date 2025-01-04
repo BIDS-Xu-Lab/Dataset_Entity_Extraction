@@ -1,0 +1,8 @@
+To identify risk factors for benign prostatic hyperplasia (BPH).
+Medical history data, including reported urological conditions and treatments, and risk factor data were collected from 34 694 participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO)
+Cancer Screening Trial, a randomized controlled trial designed to evaluate methods for the early detection of cancer.
+Asian men had the lowest risks (odds ratio, 95% confidence interval) for nocturia (0.7, 0.5-0.9), physician-diagnosed BPH (0.3, 0.2-0.5) and transurethral prostatectomy (TURP, 0.2, 0.1-0.6), while risks for Whites and Blacks were similar for most measures of BPH.
+Greater alcohol intake was associated with decreased nocturia (P trend = 0.002), BPH (P trend < 0.001) and TURP (P trend < 0.001).
+Current tobacco use was associated with decreased nocturia (0.8, 0.7-0.9), BPH (0.7, 0.6-0.8) and TURP (0.6, 0.4-0.8) but dose-response patterns were weak.
+Asian-Americans have the lowest risk of clinical BPH.
+Alcohol and possibly cigarettes are related to a lower risk for BPH.

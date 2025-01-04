@@ -1,0 +1,10 @@
+Administration of intravenous recombinant tissue plasminogen activator (rt-PA) and mechanical thrombectomy (MT) have become standard therapeutic approaches for acute internal carotid artery and middle cerebral artery M1 segment occlusion (ICA/M1O).
+However, clinical deterioration of the condition is still observed in some cases.
+We aimed to identify patients' factors associated with exacerbation.
+This was a single-center, retrospective study of 35 consecutive patients with acute ICA/M1O who underwent rt-PA/rt-PA and MT at our hospital between January 2016 and September 2019.
+We divided patients into two groups based on the total NIHSS score at discharge: the "improvement" and "exacerbation" groups.
+Clinical characteristics, laboratory data, and imaging findings were compared between the groups.
+The improvement group (13 patients [37%]) had a lower mean age (70 vs. 81 years, p = 0.02), National Institutes of Health Stroke Scale score (NIHSS, 13 vs. 19, p = 0.02), and C-reactive protein (CRP) levels (0.24 vs. 0.92 mg/dl, p < 0.01) than the exacerbation group (22 patients [63%]).
+Receiver operating characteristic curve analysis revealed the cut-off age to be 79 (sensitivity 76.9%, specificity 72.7%), NIHSS score to be 20 (sensitivity 92.3%, specificity 63.6%), and CRP to be 0.14 mg/dl (sensitivity 69.2%, specificity 81.8%).
+Multivariate analysis confirmed a CRP level of >0.14 mg/dl (odds ratio, 10.16; 95% confidence interval 1.38-75.13; p = 0.01) to be independently associated with clinical deterioration at discharge.
+A CRP level of >0.14 mg/dl is a strong predictor of clinical deterioration at discharge in patients with acute ICA/M1O undergoing recanalization therapy.

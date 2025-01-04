@@ -1,0 +1,11 @@
+Several technologies for rapid molecular identification of pathogens are currently available; jointly with monitoring tools (i.e., web-based surveillance tools, infectious diseases modelers, and epidemic intelligence methods), they represent important components for timely outbreak detection and identification of the involved pathogen.
+The application of these approaches is usually feasible and effective when performed by healthcare professionals with specific expertise and skills and when data and resources are easily accessible.
+Contrariwise, in the field situation where healthcare workers or first responders from heterogeneous competences can be asked to investigate an outbreak of unknown origin, a simple and suitable tool for rapid agent identification and appropriate outbreak management is highly needed.
+Most especially when time is limited, available data are incomplete, and accessible infrastructure and resources are inadequate.
+The use of a prompt, user-friendly, and accessible tool able to rapidly recognize an infectious disease outbreak and with high sensitivity and precision may be a game-changer to support emergency response and public health investigations.
+This paper presents the work performed to implement and test an innovative tool for prompt identification of infectious diseases during outbreaks, called Infectious Diseases Seeker (IDS).
+IDS is a standalone software that runs on the most common operative systems.
+It has been built by integrating a database containing an interim set of 60 different disease causative agents and COVID-19 data and is able to work in an off-line mode without requiring a network connection.
+IDS has been applied in a real and complex scenario in terms of concomitant infectious diseases (yellow fever, COVID-19, and Lassa fever), as can be in the second part of 2020 in Nigeria.
+The outcomes have allowed inferring that yellow fever (YF), and not Lassa fever, was affecting the area under investigation.
+Our result suggests that a tool like IDS could be valuable for the quick and easy identification and discrimination of infectious disease outbreaks even when concurrent outbreaks occur, like for the case study of YF and COVID-19 pandemic in Nigeria.

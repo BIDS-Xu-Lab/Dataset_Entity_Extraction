@@ -1,0 +1,9 @@
+The aim of the study was to evaluate the trend in the incidence of idiopathic pulmonary fibrosis (IPF) in a real-world setting of the Marche region, a region of Central Italy, between 2014 and 2019.
+This observational prospective study was based on administrative databases of hospital discharges and drug prescriptions.
+All adult residents in the Marche Region with a first prescription of antifibrotic drugs, or a first hospitalization with a diagnosis of IPF during the study period, were identified as incident cases of IPF.
+A multiple Poisson regression analysis was used to estimate the IPF incidence trend, adjusted for age, sex, and health conditions.
+The mean incidence rate was 9.8 cases per 100,000 person-years.
+A significant increasing trend of 6% per year was observed.
+The incidence rates were significantly higher in males than females, older subjects, and those with poorer health conditions.
+To our knowledge, this is the first study evaluating incidences of IPF over a 6-year period in Italy, combining hospital discharge and drug prescription databases.
+The study highlights that the combined use of two secondary sources is a reliable strategy to accurately identify new cases of IPF when the appropriate disease registry is lacking.

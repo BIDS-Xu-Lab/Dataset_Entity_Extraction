@@ -1,0 +1,6 @@
+Thermoluminescence (TL) properties of Ce(3+) and Yb(3+) co-doped in Y(3)Al(5)O(12) (YAG) were studied with the aim of determining the location of energy levels of Ce(3+) and Yb(2+) relative to the bottom of the conduction band (CB) and the top of the valence band (VB) of YAG.
+The TL glow peak at about 180 °C when heating rate β = 1°C s(-1) was assigned to electron release from Yb(2+), indicating that Yb(3+) acts as an electron trap.
+The trap depth, which is the depth of the ground-state level of Yb(2+) below the bottom of the CB, was derived from the temperatures of the maximum of the TL glow peak at different heating rates.
+The value is, within the experimental and theoretical uncertainties, in good agreement with that derived from the O(2-) --> Yb(3+) charge transfer energy.
+Thermoluminescence excitation spectroscopy (TLES) was used to establish the location of energy levels of Ce(3+).
+From the derived data the energy level diagram of YAG:Ce(3+), Yb(3+) is constructed and possible electron transfer processes are discussed.

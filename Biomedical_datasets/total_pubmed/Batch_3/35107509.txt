@@ -1,0 +1,13 @@
+The World Health Organization acknowledges vaccine hesitancy as one of the ten most serious global health threats.
+The study investigated the association between confidence, convenience, and complacency and influenza vaccine hesitancy among male and female health workers.
+The study included 453 workers in primary and medium-complexity health services in a medium-sized city in the state of Bahia, Brazil.
+Vaccine-hesitant individuals were defined as those who had not received an influenza vaccine in 2019.
+Structural equation models were used to assess interrelations between target predictive variables and vaccine hesitancy.
+One-fourth of the workers (25.4%) hesitated to be vaccinated for influenza.
+Lower confidence (standardized coefficient - SC = 0.261; p = 0.044) and higher complacency (SC = 0.256; p < 0.001) were significantly associated with vaccine hesitancy.
+Convenience was not associated with vaccine hesitancy.
+Workers not involved in patient care, workers in medium-complexity services, and male workers reported less receptiveness from the health professional administering the vaccines.
+Fear of needles was associated with both lower confidence and greater vaccine hesitancy.
+History of vaccine reactions was not associated directly with vaccine hesitancy, but it was associated with greater complacency, that is, less perception of risk from vaccine-preventable diseases.
+Since annual influenza vaccination is recommended, influenza vaccine hesitancy can increase the burden of this disease in the population.
+The data back the hypothesis that factors related to confidence and complacency produce harms in this vaccine´s acceptance and should be considered in the development of strategies and actions for greater adherence to vaccination.

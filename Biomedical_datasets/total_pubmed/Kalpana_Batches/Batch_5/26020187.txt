@@ -1,0 +1,13 @@
+A total of 400 1-d-old Arbor Acres broiler chicks were raised at a recommended environmental temperature from d 1 to 20 (experimental day [ED] = ED1 to ED20).
+On ED21, the chicks were weighed and reallocated into 5 treatment groups, with 8 replicates of 10 birds each.
+The 5 treatment groups were as follows: the control group, in which chicks were housed at 22 ± 1°C and fed the basal diet, and the HS, HS-CUR50, HS-CUR100, and HS-CUR200 groups, in which chicks were housed at 34 ± 1°C for 8 h (0900-1700 h) and 22 ± 1°C for the rest time and fed the basal diet with 0, 50, 100, and 200 mg/kg curcumin, respectively.
+From ED21 to ED42, the heat treatment lasted for 20 consecutive days.
+The results showed that heat-stressed broilers had greater (P < 0.05) average head surface and rectal temperature on ED21 and ED42 than the non-heat-stressed broilers.
+Diets supplied with 50 and 100 mg/kg curcumin increased (P < 0.05)
+the G:F compared to the heat-stressed groups.
+Mitochondrial malondialdehyde levels, an index of lipid peroxidation, in the breast muscle were 15.15 and 9.09% higher (P < 0.05) in 50 and 100 mg/kg curcumin supplemented groups than that of the heat-stressed group, respectively.
+Curcumin supplementation (50, 100, and 200 mg/kg) increased (P < 0.05) mitochondrial glutathione content and glutathione peroxidase, glutathione S-transferase, and manganese superoxide dismutase activities compared to heat-stressed broilers.
+Curcumin supplementation (50, 100, and 200 mg/kg) resulted in a decrease (P < 0.05) of heat shock protein 70 mRNA levels in the breast muscle.
+The breast muscle mRNA expression of peroxisome proliferator-activated receptor γ coactivator 1α and nuclear respiratory factor 1 and 2 in heat-stressed groups was increased (P < 0.05) in response to dietary 100 mg/kg curcumin treatment.
+Additionally, when compared to the heat-stressed group, mitochondrial transcription factor A mRNA levels were increased (P < 0.05) by 17.64% in the 200 mg/kg curcumin supplemented group.
+In conclusion, dietary curcumin supplementation prevented heat-stress-impaired growth performance, possibly through improving the antioxidant defense system and enhancing the mitochondrial biogenesis.

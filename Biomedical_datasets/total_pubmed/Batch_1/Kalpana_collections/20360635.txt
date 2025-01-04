@@ -1,0 +1,12 @@
+Micro-CT scanning has become an accepted standard for anatomical imaging in small animal disease and genome mutation models.
+Concurrently, perfusion imaging via tracking contrast dynamics after injection of an iodinated contrast agent is a well-established tool for clinical CT scanners.
+However, perfusion imaging is not yet commercially available on the micro-CT platform due to limitations in both radiation dose and temporal resolution.
+Recent hardware developments in micro-CT scanners enable continuous imaging of a given volume through the use of a slip-ring gantry.
+Now that dynamic CT imaging is feasible, data may be acquired to measure tissue perfusion using a micro-CT scanner (CT Imaging, Erlangen, Germany).
+However, rapid imaging using micro-CT scanners leads to high image noise in individual time frames.
+Using the standard filtered backprojection (FBP) image reconstruction, images are prohibitively noisy for calculation of voxel-by-voxel perfusion maps.
+In this study, we apply prior image constrained compressed sensing (PICCS) to reconstruct images with significantly lower noise variance.
+In perfusion phantom experiments performed on a micro-CT scanner, the PICCS reconstruction enabled a reduction to 1/16 of the noise variance of standard FBP reconstruction, without compromising the spatial or temporal resolution.
+This enables a significant increase in dose efficiency, and thus, significantly less exposure time is needed to acquire images amenable to perfusion processing.
+This reduction in required irradiation time enables voxel-by-voxel perfusion maps to be generated on micro-CT scanners.
+Sample perfusion maps using a deconvolution-based perfusion analysis are included to demonstrate the improvement in image quality using the PICCS algorithm.

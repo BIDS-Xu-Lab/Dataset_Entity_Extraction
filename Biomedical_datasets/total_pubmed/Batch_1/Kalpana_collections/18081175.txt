@@ -1,0 +1,11 @@
+Drug-eluting coronary stents (DESs) pose a challenge in the perioperative period.
+Sirolimus and paclitaxel may inhibit reendothelialization of the traumatized vessel, making it vulnerable to platelet-mediated thrombosis.
+Given the anecdotal evidence and case series suggesting that DESs may be more vulnerable to thrombosis on discontinuation of antiplatelet agents than are bare-metal stents, we sought to quantify this risk.
+We linked the Cleveland Clinic Heart Center database with the Cleveland Clinic Internal Medicine Preoperative Assessment Consultation and Treatment (IMPACT) Center database to identify all patients who had undergone DES placement at the Cleveland Clinic and subsequently were evaluated for noncardiac surgery between July 2003 and July 2005.
+Outcome measures included 30-day rate of postoperative myocardial infarction (MI), DES thrombosis, major bleeding, and all-cause mortality.
+We identified 114 patients who underwent noncardiac surgery a median of 236 days (IQR 125-354) after stent placement.
+Forty-five patients (40%) underwent surgery within 180 days of stenting, 15 of whom (13%) underwent surgery within 90 days of stenting.
+Eighty-eight patients (77%) discontinued all antiplatelet agents a median of 10 days before surgery.
+Two patients (1.8%, 95% CI 0.5%-6.2%) suffered postoperative MIs, but postoperative catheterization showed neither had DES thrombosis (0%, 95% CI 0%-3.3%).
+One patient developed major bleeding (0.9%, CI 0.2%-4.8%).
+These data suggest that the overall risk of stent thrombosis is low in low-risk noncardiac surgery patients with DESs, particularly those who have undergone at least 180 days of antiplatelet therapy, even after complete discontinuation of antiplatelet agents.

@@ -1,0 +1,15 @@
+Robotic partial nephrectomy with peritumoral radiofrequency ablation (RFA-RPN) is a novel clampless technique.
+We describe oncologic and functional outcomes in a prospective cohort.
+From May, 2007, to December, 2009, 49 consecutive patients with renal masses <7 cm underwent RFA-RPN.
+During this period, only the RFA-RPN technique was utilized for all cases of partial nephrectomy.
+Pre- and postoperative data were analyzed and compared to 36 consecutive patients who underwent LPN.
+In total, 49 tumors were treated in the RFA-RPN group and 36 tumors in the comparison group.
+Mean operative time was longer in the RFA-RPN group (370 min versus 293 min, p < 0.001).
+There were no significant differences in mean EBL (231 cc versus 250 cc, p = 0.42), transfusion rate (8.2% versus 11.1%, p = 0.7), or hospital stay (3.9 versus 4.4 days, p = 0.2).
+Two patients in the RFA-RPN (4.1%) and 1 (2.7%) patient in the comparison group had a positive surgical margin (p = 0.75).
+patients had a postoperative urine leak in the RFA-RPN group versus 2 (5.6%) patients in the comparison group (p = 0.001).
+Mean follow-up was 54 months versus 68.4 months in the comparison group.
+There was no significant difference between the two groups regarding change in GFR (p = 0.67).
+There were 3 recurrences (6.1%) in the RFA-RPN group and 0 recurrences in the RPN group (p = 0.23).
+There were 3 deaths (6.1%) in the RFA-RPN group (one cancer specific) and 4 deaths (11.1%) in the RPN group (non-cancer specific) over the follow-up period (p = 0.44).
+Our data suggests that this technique is associated with a similar degree of renal preservation but higher rates of postoperative urine leak and possibly higher rates of recurrence.

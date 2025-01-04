@@ -1,0 +1,6 @@
+Prostate cancer is the second most common male cancer affecting Western society.
+Despite substantial advances in the exploration of prostate cancer biomarkers and treatment strategies, men are over diagnosed with inert prostate cancer, while there is also a substantial mortality from the invasive disease.
+Precision medicine is the management of treatment profiles across different cancers predicting therapies for individual cancer patients.
+With strategies including individual genomic profiling and targeting specific cancer pathways, precision medicine for prostate cancer has the potential to impose changes in clinical practices.
+Some of the recent advances in prostate cancer precision medicine comprise targeting gene fusions, genome editing tools, non-coding RNA biomarkers, and the promise of liquid tumor profiling.
+In this review, we will discuss these recent scientific advances to scale up these approaches and endeavors to overcome clinical barriers for prostate cancer precision medicine.

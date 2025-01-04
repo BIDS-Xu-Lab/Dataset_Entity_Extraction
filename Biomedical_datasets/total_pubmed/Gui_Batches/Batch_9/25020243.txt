@@ -1,0 +1,8 @@
+The developing world faces dual crises of escalating energy demand and lack of urban sanitation infrastructure that pose significant burdens on the environment.
+This article presents results of a study evaluating the feasibility of using human feces-derived char as a solid fuel for heating and cooking and a potential way to address both crises.
+The study determined the energy content and the elemental composition of chars pyrolyzed at 300, 450, and 750 °C.
+Fecal chars made at 300 °C were found to be similar in energy content to wood chars and bituminous coal, having a heating value of 25.6 ± 0.08 MJ/kg, while fecal chars made at 750 °C had an energy content of 13.8 ± 0.48 MJ/kg.
+The higher heating values of the studied chars were evaluated using their elemental composition and a published predictive model; results found good agreement between the measured and predicted values.
+Fecal chars made at low temperatures were briquetted with molasses/lime and starch binders.
+Briquettes made with 10% starch had an average impact resistance index of 79 and a higher heating value of 25 MJ/kg.
+These values are comparable to those of commercial charcoal briquettes, making fecal char briquettes a potential substitute that also contributes to the preservation of the environment.

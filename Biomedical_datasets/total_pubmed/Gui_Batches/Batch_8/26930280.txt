@@ -1,0 +1,6 @@
+Propionibacterium acnes is an opportunistic pathogen which has become notorious owing to its ability to form a recalcitrant biofilm and to develop drug resistance.
+The current study aimed to develop anti-biofilm treatments against clinical isolates of P. acnes under in vitro and in vivo conditions.
+A combination of ellagic acid and tetracycline (ETC; 250 μg ml(-1) + 0.312 μg ml(-1)) was determined to effectively inhibit biofilm formation by P. acnes (80-91%) without affecting its growth, therefore potentially limiting the possibility of the bacterium attaining resistance.
+In addition, ETC reduced the production of extracellular polymeric substances (EPS) (20-26%), thereby making P. acnes more susceptible to the human immune system and antibiotics.
+The anti-biofilm potential of ETC was further substantiated under in vivo conditions using Caenorhabditis elegans.
+This study reports a novel anti-biofilm combination that could be developed as an ideal therapeutic agent with broad cosmeceutical and pharmaceutical applicability in the era of antibiotic resistance.

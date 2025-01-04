@@ -1,0 +1,9 @@
+This paper describes the steps of a protocol for developing and assessing a non-pharmacological intervention, specifically a Serious Game, with the goal of improving eight cognitive skills in adults with Intellectual Disabilities.
+Serious games that focus on one deficit and/or are restricted to one disorder have been developed to improve the cognitive skills of people with Intellectual Disabilities.
+There is a lack of a single tool that targets various cognitive skills as well as a broader spectrum of disorders.
+The presentation of the protocol which describes the steps of developing a new Serious Game that will be evaluated in a randomised control trial intervention.
+The protocol is divided into three stages: identification of cognitive deficits and development of the Serious Game, randomised control trial intervention- follow up assessment, and evaluation of the Serious Game by trainers and caregivers.
+The participants of the intervention are adults with Intellectual Disabilities.
+The protocol's results are expected to cover the development of a new Serious Game for specific cognitive functions of a mixed group of adults with Intellectual Disabilities, evaluating the structure and content of the game through neuropsychological assessments for participants and specific questionnaires for trainers and caregivers, evaluating the improvement of specific cognitive abilities in participants in the intervention; and measuring the possible improvement of the quality of life and social interaction of people with Intellectual Disabilities.
+This is the first study to develop a protocol and implement and assess this new Serious Game.
+This Serious Game is expected to assist people with Intellectual Disabilities in cognitive and social aspects.

@@ -1,0 +1,12 @@
+Ensuring that children have access to timely and appropriate surgical care is a vital component of comprehensive pediatric care.
+This study systematically reviews the existing evidence related to geographic barriers in children's surgery.
+Medline and Scopus databases were searched for any English language studies that examined associations between geographic burden (rural residence or distance to care) and a quantifiable outcome within pediatric surgical subspecialties.
+Two independent reviewers extracted data from each study.
+From 6331 studies screened, 22 studies met inclusion criteria.
+Most studies were retrospective analyses and conducted in the U.S. or Canada (14 and three studies, respectively); five were conducted outside North America.
+In transplant surgery (seven studies), greater distance from a transplant center was associated with higher waitlist mortality prior to kidney and liver transplantation, although graft outcomes were generally similar.
+In congenital cardiac surgery (five studies), greater travel was associated with higher neonatal mortality and older age at surgery but not with post-operative outcomes.
+In general surgery (eight studies), rural residence was associated with increased rates of perforated appendicitis, higher frequency of negative appendectomy, and increased length of stay after appendectomy.
+In orthopedic surgery (one study), rurality was associated with decreased post-operative satisfaction.
+No evidence for disparate outcomes based upon distance or rurality was identified in neurosurgery (one study).
+Substantial evidence suggests that geographic barriers impact the receipt of surgical care among children, particularly with regard to transplantation, congenital cardiac surgery, and appendicitis.

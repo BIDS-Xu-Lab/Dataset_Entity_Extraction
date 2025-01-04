@@ -1,0 +1,10 @@
+To retrospectively create a predictive score for estimating amputation-free survival (AFS) in patients with critical limb ischemia (CLI) operated on with the use of a heparin-bonded expanded polytetrafluoroethylene (ePTFE) bypass graft (Hb-ePTFE).
+Over a 13-year period, ending in March 2015, a Hb-ePTFE graft was implanted in 683 patients undergoing below-knee revascularization for CLI in seven Italian vascular hospitals.
+Data concerning these interventions were retrospectively collected in a multicenter registry with a dedicated database.
+Univariate and multivariable analyses with Kaplan-Meier estimates were used to identify potential significant predictors of AFS at 5 years, and then a predictive risk score was constructed.
+A qualitative assessment of the Kaplan-Meier survival estimates for each integer score was performed, and subgroups of risk were stratified on the basis of the primary end point.
+Overall, estimated 5-year AFS rate was 48.3 % (SE 0.024).
+At multivariate analysis, older age, coronary artery disease, end-stage renal disease, tissue loss and poor runoff score were predictors of AFS.
+The integer score ranged from 0 to 11; Kaplan-Meier analysis for AFS in each score group identified three subgroups with significant differences at 5 years: low-risk subgroup (scores from 0 to 2, 67.7 %), medium-risk subgroup (scores 3 and 4, 49.2 %, p < 0.001 in comparison with low-risk subgroup) and high-risk subgroup (scores from 5 to 11, 25.2 %, p < 0.001 in comparison with either low-risk subgroup or medium-risk subgroup).
+A category of low-risk patients with CLI treated with the indexed graft does exist, thus suggesting a primary role for Hb-ePTFE in such patients.
+A prospective validation of such a score is necessary.

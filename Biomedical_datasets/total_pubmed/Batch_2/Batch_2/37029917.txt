@@ -1,0 +1,8 @@
+Residential regions may impact the possibilities to achieve a sustainable working life (SWL, i.e. not having interruptions due to sickness absence, disability pension or unemployment) due to disparities in social security and labour market.
+We aimed to investigate concurrent trajectories of regions and SWL among Swedish twins.
+National register data were used for the degree of SWL in each year, old-age pension, emigration, death and residential regions classified in three categories (cities; towns and suburbs; or rural areas) of Swedish twins in 1998-2016 (n = 80 398).
+Group-based multi-trajectory modelling and multinomial regression for relative risks with 95% confidence intervals were calculated.
+The six-group solution had the best fit to data with trajectories: stable living in towns and suburbs with SWL (33.8%); stable living in cities with SWL (22.1%); stable living in towns and suburbs with increasing SWL (13.9%); stable living in towns and suburbs with lack of SWL (13.2%); stable living towns and suburbs with decreasing SWL (8.8%); and stable living towns and suburbs with decreasing and ultimately lack of SWL (8.3%).
+Age and being woman increased and being married and higher education decreased the likelihood of belonging to groups 2-6 (vs. 1).
+The simultaneous assessment of trajectories of three residential regions and SWL indicated that most people in Sweden seem to live continuously over time in towns and suburbs, but the degree of SWL may vary.
+More fine-grained assessment of residential regions would be needed to clarify the associations with SWL.

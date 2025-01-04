@@ -1,0 +1,13 @@
+Trifluoroiodomethane (CF3I) is a colorless and odorless gas used primarily as a fire suppressant.
+CF3I has low acute inhalation toxicity.
+The no-observed adverse effect level (NOAEL) of CF3I for cardiac sensitization in dogs was 2000 ppm.
+The potential effects of 4-week inhalation exposure in both rats and mice have been examined.
+In rats, the NOAEL was 10,000 ppm, and in mice, the NOAEL was 10,000 ppm.
+In a subchronic inhalation study in rats, the lowest observed adverse effect level (LOAEL) was 20,000 ppm for thyroid-related effects; the study NOAEL (for non-thyroid-related effects) was 20,000 ppm.
+In a reproductive/developmental inhalation toxicity study in rats, 20,000 ppm CF3I produced minimal general toxicity and no indication of reproductive or developmental toxicity.
+The LOAEL for parental toxicity (based on thyroid hormone effects) was 2000 ppm; excluding thyroid effects, the parental NOAEL was 7000 ppm CF3I. The observed effects on the thyroid in rats were considered of less relevance to human risk assessment than the other observed systemic effects because of known species-specific differences in sensitivity to thyroid hormone perturbations.
+There are no chronic toxicity or carcinogenicity studies available.
+CF3I had mixed results in various in vitro and in vivo genotoxicity assays.
+The NOAEL of 7000 ppm from the reproductive/developmental inhalation study was used as the point of departure (POD) for workplace environmental exposure level (WEEL) value development.
+This POD was adjusted to account for interindividual variability, duration of exposure, and database limitations.
+The resulting 8-h time-weighted average WEEL value of 500 ppm is expected to provide a significant margin of safety against any potential adverse health effects in workers exposed to CF3I. A 15-min short-term exposure limit of 1500 ppm was also established to protect workers from potential cardiac effects produced by acute, high-dose inhalation of CF3I.

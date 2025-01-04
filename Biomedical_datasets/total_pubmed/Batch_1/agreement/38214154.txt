@@ -1,0 +1,8 @@
+The increasing demand for rare earth elements (REEs) makes them a scarce strategic resource for technical developments.
+In that regard, harvesting REEs from coal ashes-a waste byproduct from coal power plants-offers an alternative solution to conventional ore-based extraction.
+However, this approach is bottlenecked by our ability to screen coal ashes bearing large concentrations of REEs from feedstocks-since measuring the REE content in ashes is a time-consuming and costly task requiring advanced analytical tools.
+Here, we propose a machine learning approach to predict the REE contents based on the bulk composition of coal ashes, easily measurable under the routine testing protocol.
+We introduce a multi-task neural network that simultaneously predicts the contents of different REEs.
+Compared to the single-task model, this model exhibits notably improved accuracy and reduced sensitivity to noise.
+Further model analyses reveal key data patterns for screening coal ashes with high REE concentrations.
+Additionally, we showcase the utilization of transfer learning to improve the adaptability of our model to coal ashes from a distinct source.

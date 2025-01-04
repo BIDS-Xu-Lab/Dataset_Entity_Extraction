@@ -1,0 +1,10 @@
+Neuronal necrosis occurs during early phase of ischemic insult.
+However, our knowledge of neuronal necrosis is still inadequate.
+To study the mechanism of neuronal necrosis, we previously established a Drosophila genetic model of neuronal necrosis by calcium overloading through expression of a constitutively opened cation channel mutant.
+Here, we performed further genetic screens and identified a suppressor of neuronal necrosis, CG17259, which encodes a seryl-tRNA synthetase.
+We found that loss-of-function (LOF) CG17259 activated eIF2α phosphorylation and subsequent up-regulation of chaperons (Hsp26 and Hsp27) and autophagy.
+Genetically, down-regulation of eIF2α phosphorylation, Hsp26/Hsp27 or autophagy reduced the protective effect of LOF CG17259, indicating they function downstream of CG17259.
+The protective effect of these protein degradation pathways indicated activation of a toxic protein during neuronal necrosis.
+Our data indicated that p53 was likely one such protein, because p53 was accumulated in the necrotic neurons and down-regulation of p53 rescued necrosis.
+In the SH-SY5Y human cells, tunicamycin (TM), a PERK activator, promoted transcription of hsp27; and necrosis induced by glutamate could be rescued by TM, associated with reduced p53 accumulation.
+In an ischemic stroke model in rats, p53 protein was also increased, and TM treatment could reduce the p53 accumulation and brain damage.

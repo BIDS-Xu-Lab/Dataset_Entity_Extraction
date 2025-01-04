@@ -1,0 +1,9 @@
+Cytochrome P450s (CYPs) play critical role in oxidative metabolism of numerous xenobiotics and endogenous compounds.
+The first CYP3A subfamily member in saltwater crocodile has been cloned and modelled for three-dimensional (3D) structure.
+The full-length cDNA was obtained employing reverse transcription polymerase chain reaction (RT-PCR) strategy and rapid amplification of cDNA ends (RACE).
+The cDNA sequence of 1659 nucleotides includes 132 nucleotides from 5' untranslated region (UTR), an open reading frame of 1527 nucleotides encoding 509 amino acids designated as CYP3A163.
+The alignment of CYP3A163 sequence with CYP3A subfamily across the lineages exhibit the loss of 1 residue in birds and 7 residues in mammals in comparison to reptiles suggesting the adaptation processes during evolution.
+The amino acid identity of CYP3A163 with Alligator mississippiensis CYP3A77 and Homo sapiens CYP3A4 is 91% and 62% respectively.
+The 3D structure of CYP3A163 modelled using human CYP3A4 structure as a template with Phyre2 software, represents high similarity with its functionally important motifs and catalytic domain.
+Both sequence and structure of CYP3A163 display the common and conserved features of CYP3A subfamily.
+Overall, this study provides primary molecular and structural data of CYP3A163 required to investigate the xenobiotic metabolism in saltwater crocodiles.

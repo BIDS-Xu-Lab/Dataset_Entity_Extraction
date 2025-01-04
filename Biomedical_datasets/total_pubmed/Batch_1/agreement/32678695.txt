@@ -1,0 +1,7 @@
+The novel coronavirus SARS-CoV-2 emerged in China in 2019 and quickly spread globally, causing a pandemic.
+There is an urgent need to develop vaccines against the virus, and both convalescent plasma and immune globulin are currently in clinical trials for treatment of patients with COVID-19.
+It is unclear whether antibodies induced by SARS-CoV-2 have neutralizing capacity and whether they can protect from future infection.
+Seasonal human coronaviruses (HCoV) have been circulating for decades.
+It is currently unknown whether antibodies against seasonal HCoV may cross-neutralize SARS-CoV-2.
+Data from neonates suggest that trans-placental antibodies against HCoV may have neutralizing capacity.
+Here we briefly review the epidemiologic observations on HCoV and discuss the potential implications for neutralizing and cross-neutralizing antibodies against SARS-CoV-2.

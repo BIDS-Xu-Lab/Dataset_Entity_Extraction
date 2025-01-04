@@ -1,0 +1,12 @@
+TGF-β plays a critical role in maintaining immune cells in a resting state by inhibiting cell activation and proliferation.
+Resting HIV-1 target cells represent the main cellular reservoir after long-term antiretroviral therapy (ART).
+We hypothesized that releasing cells from TGF-β-driven signaling would promote latency reversal.
+To test our hypothesis, we compared HIV-1 latency models with and without TGF-β and a TGF-β type 1 receptor inhibitor, galunisertib.
+We tested the effect of galunisertib in SIV-infected, ART-treated macaques by monitoring SIV-env expression via PET/CT using the 64Cu-DOTA-F(ab')2 p7D3 probe, along with plasma and tissue viral loads (VLs).
+Exogenous TGF-β reduced HIV-1 reactivation in U1 and ACH-2 models.
+Galunisertib increased HIV-1 latency reversal ex vivo and in PBMCs from HIV-1-infected, ART-treated, aviremic donors.
+In vivo, oral galunisertib promoted increased total standardized uptake values in PET/CT images in gut and lymph nodes of 5 out of 7 aviremic, long-term ART-treated, SIV-infected macaques.
+This increase correlated with an increase in SIV RNA in the gut.
+Two of the 7 animals also exhibited increases in plasma VLs.
+Higher anti-SIV T cell responses and antibody titers were detected after galunisertib treatment.
+In summary, our data suggest that blocking TGF-β signaling simultaneously increases retroviral reactivation events and enhances anti-SIV immune responses.

@@ -1,0 +1,9 @@
+A large body of literature suggests that asymmetric competition, where large individuals suppress the growth of smaller individuals by intercepting a disproportionate share of incoming light, is a dominant process in tree population development.
+This has not been examined extensively for long-lived tree species that accumulate growth over many years under varying growing conditions.
+Using dendrochronological techniques, we reconstructed annual growth and mortality rates at ten stands of jack pine (Pinus banksiana Lamb.)
+We used these data to calculate an annual index of the size asymmetry of growth for each stand for the last 50 years.
+Jack pine is a shade-intolerant species found in even-aged monoculture stands, so the simple hypothesis is that large trees should consistently perform relatively better than small trees.
+Inter-annual variation in the index of size-asymmetric growth was positively associated with interannual variation in stand productivity at eight of ten sites.
+The size asymmetry of growth also showed a positive trend with age at eight of ten sites, even though all sites were in a period of declining leaf area.
+This should have reduced the intensity of asymmetric competition for light and reduced the size asymmetry of growth over time.
+Alternate hypotheses for this trend are (1) that physical collisions between crowns result in asymmetric competition for growing space because they are more damaging to small trees, or (2) that a differential build up of diseases in susceptible trees suppresses their growth, even in the absence of competition.

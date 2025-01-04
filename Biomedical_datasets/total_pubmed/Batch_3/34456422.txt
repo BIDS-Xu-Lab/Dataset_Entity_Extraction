@@ -1,0 +1,11 @@
+Physiotherapists use observational movement analysis (OMA) to inform clinical reasoning.
+This study aimed to (1) determine the feasibility of characterizing eye gaze behaviour during OMA with eye-tracking technology, (2) characterize experienced neurological physiotherapists' and physiotherapy students' eye gaze behaviour during OMA, and (3) investigate differences in eye gaze behaviour during OMA between physiotherapy students and experienced physiotherapists.
+Eight students and eight physiotherapists wore an eye-tracking device while watching a video of a person with a history of stroke and subsequent concussion perform sit to stand.
+Feasibility criteria were (1) successful calibration of the eye tracker, and successful collection of data, for 80% of the participants and (2) moderate interrater reliability of the investigators, measured by intra-class correlation coefficients (ICCs).
+Three investigators independently recorded the participants' foveal fixations.
+Differences between physiotherapists and students in number of fixations, duration per fixation, and total duration of fixations were evaluated using unpaired t-tests, mean differences, and 95% CIs.
+Data were collected for all participants.
+ICCs ranged from 0.64 to 0.78.
+Measuring eye gaze behaviour during OMA using eye tracker technology is feasible.
+Physiotherapists made more fixations of shorter duration than students.
+Further investigation of how experienced therapists perform OMA and apply it to clinical reasoning may inform the instruction of OMA.

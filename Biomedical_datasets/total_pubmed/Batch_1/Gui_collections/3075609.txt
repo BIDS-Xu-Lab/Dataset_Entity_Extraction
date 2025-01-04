@@ -1,0 +1,11 @@
+Clinical investigations focused on finding characteristics of noninvasively obtained measurements of pulmonary blood velocity that can be used to quantitate pulmonary blood flow and/or pulmonary pressure have often yielded results whose imprecision has been attributed to flow pattern variability.
+To determine flow pattern variability in an in vivo animal model in varying hemodynamic states, main pulmonary artery blood velocity waveforms were recorded in 17 dogs at 2-mm intervals along an anterior to posterior wall-oriented axis using a 20-MHz pulsed Doppler needle probe.
+Control data were obtained before the animals were subjected to altered flow (atrial level shunts) and pressure (10% O2 inhalation) states.
+Instantaneous velocity profiles were computed throughout the cardiac cycle.
+Estimates of pulmonary blood flow were obtained assuming an elliptical model of the pulmonary artery which allowed computation of velocity at all points in the cross section, based on the measured values along the axis.
+Model-based estimates were compared to measured values and estimates obtained in the traditional fashion, i.e., the product of centerline velocity and cross-sectional area.
+Results clearly showed marked interanimal variability, even in control states.
+Reverse flow in the posterior half of the vessel, which tended to become more pronounced with increased pulmonary artery pressure, was observed during late systole and early diastole.
+Elevated pulmonary blood flow tended to increase the maximum velocities along the anterior wall relative to midline velocities.
+Neither estimate of cardiac output yielded consistently accurate results (r = 0.77 for model-based method, r = 0.80 for area times central velocity method).
+Findings of this study, which highlight the dependency of waveform characteristics on sampling site, the large degree of intersubject variability, and the need for large or multiple sample volumes for pulmonary blood flow determination, help clarify inconsistencies observed by clinicians and suggest that future work with animal models will facilitate a greater understanding of the determinants of human pulmonary velocity waveforms.

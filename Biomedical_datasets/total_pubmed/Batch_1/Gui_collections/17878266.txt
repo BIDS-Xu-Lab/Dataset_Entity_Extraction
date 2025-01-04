@@ -1,0 +1,8 @@
+The N-methyl-D-aspartate (NMDA) subtype of ionotropic glutamate receptors (iGluRs) is a tetrameric protein composed of homologous NR1 and NR2 subunits, which require the binding of glycine and glutamate, respectively, for efficient channel gating.
+The extracellular N-terminal domains (NTDs) of iGluR subunits show sequence homology to the bacterial periplasmic leucine/isoleucine/valine binding protein (LIVBP) and have been implicated in iGluR assembly, trafficking, and function.
+Here, we investigated how deletion of the NR1- and NR2-NTDs affects the expression and function of NMDA receptors.
+Both proteolytic cleavage of the NR1-NTD from assembled NR1/NR2 receptors and coexpression of the NTD-deleted NR1 subunit with wild-type or NTD-deleted NR2 subunits resulted in agonist-gated channels that closely resembled wild-type receptors.
+This indicates that the NTDs of both NMDA receptor subunits are not essential for receptor assembly and function.
+However, deletion of either the NR1 or the NR2 NTD eliminated high-affinity, allosteric inhibition of agonist-induced currents by Zn2+ and ifenprodil, consistent with the idea that interdomain interactions between these domains are important for allosteric receptor modulation.
+Furthermore, by replacing the NR2A-NTD with the NR2B NTD, and vice versa, the different glycine affinities of NR1/NR2A and NR1/NR2B receptors were found to be determined by their respective NR2-NTDs.
+Together, these data show that the NTDs of both the NR1 and NR2 subunits determine allosteric inhibition and glycine potency but are not required for NMDA receptor assembly.

@@ -1,0 +1,13 @@
+In neurons of the suprachiasmatic nucleus, spike frequency adaptation and membrane afterhyperpolarization occur during a train of action potentials.
+Extracellular Ca2+ may regulate neuronal excitability by several mechanisms, including activation of small conductance and large conductance Ca(2+)-activated K+ channels.
+The overall goal of this study was to examine the role of Ca(2+)-activated K+ currents in individual suprachiasmatic nucleus neurons.
+To this end, we used the nystatin-perforated patch technique to record currents from suprachiasmatic nucleus neurons.
+Iberiotoxin and tetraethylammonium, antagonists of large conductance Ca(2+)-activated K+ channels, had no effect on the membrane afterhyperpolarization.
+However, antagonists of small conductance Ca(2+)-activated K+ channels, apamin and d-tubocurarine, reduced the amplitude of the membrane afterhyperpolarization and inhibited the spike frequency adaptation that occurred during a train of action potentials.
+Although there was no significant difference in membrane AHP between different portions of the circadian day, apamin and d-tubocurarine increased the spontaneous firing frequency of suprachiasmatic nucleus neurons during the daytime.
+In voltage-clamp mode, membrane depolarization-activated currents were followed by an outward tail current reversing near the K+ equilibrium potential.
+The tail current decayed with a time constant of 220 ms at +20 mV and 149 ms at -40 mV. Apamin irreversibly and d-tubocurarine reversibly inhibited the tail current.
+The tail current amplitude was also reduced by the GABAA receptor antagonist, bicuculline methiodide, while picrotoxin (another GABAA receptor antagonist) was without effect.
+Removal of extracellular Ca2+ or the addition of Cd2+ reversibly inhibited the tail current.
+These results indicate that apamin- and d-tubocurarine-sensitive small conductance Ca(2+)-activated K+ channels have a modulatory function on the action potential firing frequency as well as the membrane afterhyperpolarization that follows a train of action potentials in suprachiasmatic nucleus neurons.
+Importantly, our data also indicate that a portion of the effects of bicuculline methiodide on suprachiasmatic nucleus neurons may be mediated by inhibition of small conductance Ca(2+)-activated K+ channels.

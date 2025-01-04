@@ -1,0 +1,11 @@
+TBC1 domain family, member 4 (TBC1D4; also known as AS160) is a cellular signalling intermediate to glucose transport regulated by insulin-dependent and -independent mechanisms.
+Skeletal muscle insulin sensitivity is increased after acute exercise by an unknown mechanism that does not involve modulation at proximal insulin signalling intermediates.
+We hypothesised that signalling through TBC1D4 is involved in this effect of exercise as it is a common signalling element for insulin and exercise.
+Insulin-regulated glucose metabolism was evaluated in 12 healthy moderately trained young men 4 h after one-legged exercise at basal and during a euglycaemic-hyperinsulinaemic clamp.
+Vastus lateralis biopsies were taken before and immediately after the clamp.
+Insulin stimulation increased glucose uptake in both legs, with greater effects (approximately 80%, p < 0.01) in the previously exercised leg.
+TBC1D4 phosphorylation, assessed using the phospho-AKT (protein kinase B)substrate antibody and phospho- and site-specific antibodies targeting six phosphorylation sites on TBC1D4, increased at similar degrees to insulin stimulation in the previously exercised and rested legs (p < 0.01).
+However, TBC1D4 phosphorylation on Ser-318, Ser-341, Ser-588 and Ser-751 was higher in the previously exercised leg, both in the absence and in the presence of insulin (p < 0.01; Ser-588, p = 0.09; observed power = 0.39).
+14-3-3 binding capacity for TBC1D4 increased equally (p < 0.01) in both legs during insulin stimulation.
+We provide evidence for site-specific phosphorylation of TBC1D4 in human skeletal muscle in response to physiological hyperinsulinaemia.
+The data support the idea that TBC1D4 is a nexus for insulin- and exercise-responsive signals that may mediate increased insulin action after exercise.

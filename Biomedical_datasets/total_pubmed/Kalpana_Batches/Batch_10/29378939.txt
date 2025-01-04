@@ -1,0 +1,12 @@
+Many studies report that mountain plant species are shifting upward in elevation.
+However, the majority of these reports focus on shifts of upper limits.
+Here, we expand the focus and simultaneously analyze changes of both range limits, optima, and abundances of 183 mountain plant species.
+We therefore resurveyed 1,576 vegetation plots first recorded before 1970 in the European Alps.
+We found that both range limits and optima shifted upward in elevation, but the most pronounced trend was a mean increase in species abundance.
+Despite huge species-specific variation, range dynamics showed a consistent trend along the elevational gradient: Both range limits and optima shifted upslope faster the lower they were situated historically, and species' abundance increased more for species from lower elevations.
+Traits affecting the species' dispersal and persistence capacity were not related to their range dynamics.
+Using indicator values to stratify species by their thermal and nutrient demands revealed that elevational ranges of thermophilic species tended to expand, while those of cold-adapted species tended to contract.
+Abundance increases were strongest for nutriphilous species.
+These results suggest that recent climate warming interacted with airborne nitrogen deposition in driving the observed dynamics.
+So far, the majority of species appear as "winners" of recent changes, yet "losers" are overrepresented among high-elevation, cold-adapted species with low nutrient demands.
+In the decades to come, high-alpine species may hence face the double pressure of climatic changes and novel, superior competitors that move up faster than they themselves can escape to even higher elevations.

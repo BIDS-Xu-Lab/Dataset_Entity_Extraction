@@ -1,0 +1,10 @@
+Monocyclic beta-lactam antibiotics (monobactams) are structurally unique from the traditional bicyclic beta-lactams because of their single ring configuration.
+Aztreonam, the first of these monobactams, has been studied extensively in order to determine its pharmacologic and pharmacokinetic profile in adults and children with bacterial infections.
+It has been established, for example, that with intramuscular or intravenous dosing (30 to 50 mg/kg in children and 1 to 2 g in adults), serum concentrations above the minimum inhibitory concentrations of most aerobic Gram-negative bacteria can be maintained for up to 8 hours.
+Against a less susceptible pathogen such as Pseudomonas aeruginosa, every-6-hour dosing allows for preservation of the bactericidal effect, although longer intervals may be practical in low birth weight infants.
+The drug is primarily (80%) excreted by renal mechanisms and serum clearance varies with postnatal age.
+Distribution into body fluids is similar to that of other beta-lactams.
+For example in the presence of meningeal inflammation, cerebrospinal fluid concentrations are 17 to 33% of serum values.
+Urinary concentrations are high and prolonged with greater than 80% appearing as the active drug.
+Preliminary data from cystic fibrosis patients suggest that there are very minor pharmacokinetic differences in this population.
+The pharmacologic profile indicates that aztreonam may provide an appropriate alternative to traditional therapy for serious Gram-negative aerobic infections in infants and children.

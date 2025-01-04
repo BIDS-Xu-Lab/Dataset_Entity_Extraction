@@ -1,0 +1,13 @@
+Chronic kidney disease (CKD) exposes to an increased incidence of fragility fractures.
+International guidelines recommend performing bone mineral density (BMD) if the results will impact treatment decisions.
+It remains unknown where bone loss occurs and what would preclude the longitudinal loss in patients with CKD.
+Here, we aimed to investigate factors influencing BMD and to analyze the longitudinal BMD changes.
+In the NephroTest cohort, we measured BMD at the femoral neck, total hip, lumbar spine, and proximal radius, together with circulating biomarkers and standardized measured glomerular filtration rate (mGFR) by 51Cr-EDTA in a subset of patients with CKD stage 1 to 5 followed during 4.3 ± 2.0 years.
+A linear mixed model explored the longitudinal bone loss and the relationship of associated factors with BMD changes.
+A total of 858 patients (mean age 58.9 ± 15.2 years) had at least 1 and 477 had at least 2 BMD measures.
+At baseline, cross-sectional analysis showed a significantly lower BMD at femoral neck and total hip and a significant higher serum parathyroid hormone (PTH) along with CKD stages.
+Baseline age, gender, tobacco, low body mass index (BMI), and high PTH levels were significantly associated with low BMD.
+Longitudinal analysis during the mean 4.3 years revealed a significant bone loss at the radius only.
+BMD changes at the femoral neck were associated with BMI, but not CKD stages or basal PTH levels.
+CKD is associated with low BMD and high PTH in the cross-sectional analysis.
+Longitudinal bone loss occurred at the proximal radius after 4.3 years.

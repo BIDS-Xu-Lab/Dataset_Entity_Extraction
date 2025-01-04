@@ -1,0 +1,15 @@
+The objective of this work was to study genetic diversity by comparing whole genome sequence data of Rutana, Gumuz and Washera sheep found in Amhara and Benishanguel gumuz regional states of Ethiopia.
+We employed variant calling format tools version 0.1.15 to calculate some genetic diversity indices such as observed heterozygosity, expected heterozygosity, inbreeding coefficient, and nucleotide diversity.
+The results revealed that, observed heterozygosity ranged from 0.33 in Gumuz to 0.34 in Rutana and Washera sheep.
+Expected heterozygosity ranged from 0.37 in Rutana to 0.38 in Gumuz and Washera sheep.
+Expected heterozygosity was found to be higher than observed heterozygosity.
+Higher inbreeding coefficient (0.12) was recorded for Gumuz sheep compared to 0.09 of Rutana and Washera sheep.
+Mean nucleotide diversity values were 0.0029, 0.0030 and 0.0028 for Gumuz, Rutana and Washera sheep, respectively.
+Higher values of nucleotide diversity were recorded.
+Population structure analysis using principal component analysis revealed no clear separation between Gumuz, Rutana and Washera sheep populations with possibility of gene flow attributed to geographical location proximity.
+The smaller population size, closed breeding system, genetic drift and uncontrolled (non-random) mating might lead to higher rate of inbreeding in Gumuz, Rutana and Washera sheep, requiring timely intervention.
+This intervention helps to prevent inbreeding depression and extinction of these valuable breeds of sheep, which helps in sustaining the livelihood of sheep keepers in lowlands and highlands.
+Nevertheless, the whole-genome analysis revealed high within-breed variation.
+Uncovered areas of studies like mapping quantitative trait loci, identifying genes underpinning productivity traits such as carcass quantity and meat quality could be carried out on diversified sheep resources identified by the current study.
+Identifying the genomic regions and biological pathways that contribute to explaining variability in these traits is of great importance for selection purposes.
+Designing conservation-based within-breed sheep selective breeding programs are recommended considering economically important traits into account.

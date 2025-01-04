@@ -1,0 +1,10 @@
+Foreign-accented speech recognition is typically tested with linguistically simple materials, which offer a limited window into realistic speech processing.
+The present study examined the relationship between linguistic structure and talker intelligibility in several sentence-in-noise recognition experiments.
+Listeners transcribed simple/short and more complex/longer sentences embedded in noise.
+The sentences were spoken by three talkers of varying intelligibility: one native, one high-, and one low-intelligibility non-native English speakers.
+The effect of linguistic structure on sentence recognition accuracy was modulated by talker intelligibility.
+Accuracy was disadvantaged by increasing complexity only for the native and high intelligibility foreign-accented talkers, whereas no such effect was found for the low intelligibility foreign-accented talker.
+This pattern emerged across conditions: low and high signal-to-noise ratios, mixed and blocked stimulus presentation, and in the absence of a major cue to prosodic structure, the natural pitch contour of the sentences.
+Moreover, the pattern generalized to a different set of three talkers that matched the intelligibility of the original talkers.
+Taken together, the results in this study suggest that listeners employ qualitatively different speech processing strategies for low- versus high-intelligibility foreign-accented talkers, with sentence-related linguistic factors only emerging for speech over a threshold of intelligibility.
+Findings are discussed in the context of alternative accounts.

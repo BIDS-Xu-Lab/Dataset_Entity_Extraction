@@ -1,0 +1,15 @@
+Estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor-2 (HER2) status provide clinical utility in guiding therapeutic decision-making in metastatic breast cancer (BC).
+Increasing data have shown substantial differences between the receptor profiles of primary BCs and their paired metastases.
+In this study, we provide a large single center cohort to assess the frequency of receptor conversion in metastatic BC.
+The overall discordant rates were 18.3%, 40.3%, and 13.7% for ER, PR, and HER2, respectively.
+The discordance was significantly higher for PR when compared with ER and HER2.
+The conversion occurred significantly as a switch from positive to negative receptor status when compared with that from negative to positive for all three receptors.
+Semiquantitative analyses revealed a significantly decreased expression of both ER (25%) and PR (57%) in the metastases.
+There was a higher rate of PR discordance in bone metastases when comparing to other common organs of relapse.
+Furthermore, in the subset of patients with a single primary and multiple distant metastases, the discordant rates among the distant sites were 27.5%, 39.4%, and 14.3% for ER, PR, and HER2, respectively.
+A positive ER status, be it in primary or metastatic BC, was associated with a prolonged metastasis-free survival when compared with ER-negative primary tumors without conversion.
+Furthermore, a positive ER status in metastatic BC regardless of primary was associated with a superior overall survival when compared with an ER-negative tumor without conversion.
+Thus, receptor conversion is a frequent event in the course of BC progression, and can also be seen between different metastatic sites.
+Moreover, some conversions are of prognostic significance.
+The findings may reflect tumor heterogeneity, sampling or treatment effect, but may also indicate alteration in tumor biology.
+Repeat biomarker testing is warranted in making appropriate treatment plans in the pursuit of precision medicine.

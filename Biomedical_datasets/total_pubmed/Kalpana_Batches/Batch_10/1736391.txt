@@ -1,0 +1,8 @@
+Postoperative serum interleukin-6 (SIL-6) and C-reactive protein (SCRP) levels were examined in 71 patients who underwent various types of abdominal surgery.
+Similar time-dependent changes in SIL-6 and SCRP levels were observed in 12 patients despite differences in surgical procedures and liver function among the patients.
+SIL-6 started to increase within 3 hours after the beginning of the operation and reached a peak after 24 hours.
+SCRP started to increase after 12 hours and was maximum at 48 to 72 hours.
+The increase in SIL-6 at 24 hours (delta IL-6) showed a close correlation with that of SCRP at 48 hours (delta CRP) in 53 patients without liver cirrhosis.
+In 18 patients with liver cirrhosis, delta CRP relative to delta IL-6 was less than that in patients without cirrhosis and was poorly correlated with the latter.
+delta IL-6 was correlated with the length of time of the operation and blood loss in both groups, but delta CRP showed no significant correlation with these factors in either group.
+These findings indicate that the increase in IL-6 triggered by a surgical procedure may function as a hepatocyte-stimulating factor and that monitoring of SIL-6 may be more helpful than monitoring of SCRP for estimation of inflammatory status and early detection of an acute-phase response.

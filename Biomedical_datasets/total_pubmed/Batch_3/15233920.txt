@@ -1,0 +1,7 @@
+The rhodopsin regulatory protein, visual arrestin, undergoes light-dependent trafficking in mammalian and Drosophila photoreceptor cells, though the mechanisms underlying these movements are poorly understood.
+In Drosophila, the movement of the visual arrestin, Arr2, functions in long-term adaptation and is dependent on interaction with phosphoinositides (PIs).
+However, the basis for the requirement for PIs for light-dependent shuttling was unclear.
+Here, we demonstrated that the dynamic trafficking of Arr2 into the phototransducing compartment, the rhabdomere, required the eye-enriched myosin III, NINAC.
+We showed that defects in ninaC resulted in a long-term adaptation phenotype similar to that which occurred in arr2 mutants.
+The interaction between Arr2 and NINAC was PI dependent and NINAC bound directly to PIs.
+These data demonstrate that the light-dependent translocation of Arr2 into the rhabdomeres requires PI-mediated interactions between Arr2 and the NINAC myosin III.

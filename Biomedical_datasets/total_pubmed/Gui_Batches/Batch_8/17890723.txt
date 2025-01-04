@@ -1,0 +1,9 @@
+Several medical, occupational and environmental paternal exposures have been suggested to be associated with low offspring sex ratios.
+The purpose of this study was to analyse trends and variations in the secondary sex ratio in Greece during the last 50 years and among different occupational groups of male employees of a shipyard.
+Data were retrieved from National Statistics Agency databases through the period 1955-2005, and linear regression was administered to examine the evolution of the sex ratio of newborns.
+In addition, 587 male shipyard employees with 1,012 children were included in the study.
+Binary logistic regression analysis was conducted to study the influence of father's job title on offspring sex ratio.
+Total births in Greece declined by ~30% between the mid 1950s and 1980, while little change in sex ratio occurred.
+In contrast, while between 1980 and 2000, the birth rate continued to decline at the same rate (by ~30%), there appeared to be a trend toward a decrease in sex ratio.
+The groups of sandblasters/painters and of ship carpenters showed a significantly lower proportion of boys among newborn children.
+Data from men working in a Greek shipyard suggest that the trend toward a decrease in secondary sex ratio observed in this country may be accounted for by a decrease in male births associated with specific workplace exposures of the father.

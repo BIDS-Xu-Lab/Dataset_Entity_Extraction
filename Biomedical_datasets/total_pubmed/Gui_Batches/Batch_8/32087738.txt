@@ -1,0 +1,15 @@
+The oncogene MYCN is critical for tumorigenesis of several types of cancers including neuroblastoma.
+We previously reported that miR-506-3p repressed MYCN expression in neuroblastoma cells.
+However, the mechanism underlying such regulation was undetermined since there is no miR-506-3p target site in MYCN 3'UTR.
+By a systematic investigation combining microarray, informatics and luciferase reporter assay, we identified that the transcriptional factor pleiomorphic adenoma gene-like 2 (PLAGL2) is a direct target of miR-506-3p that mediates its regulation on MYCN expression.
+Using CHIP-PCR and luciferase reporter assay, we validated the transcriptional regulation of MYCN by PLAGL2 and we further demonstrated the transcriptional regulation of PLAGL2 by MYCN.
+We examined the function of PLAGL2 in regulating neuroblastoma cell fate by cell viability assay, colony formation and Western blotting of differentiation markers.
+We examined the effect of retinoic acid, the differentiation agent used in neuroblastoma therapy, on miR-506-3p, PLAGL2 and MYCN expressions by quantitative PCR and Western blots.
+We investigated the clinical relevance of PLAGL2 expression by examining the correlation of tumor PLAGL2 mRNA levels with MYCN mRNA expression and patient survival using public neuroblastoma patient datasets.
+We found that miR-506-3p directly down-regulated PLAGL2 expression, and we validated a PLAGL2 binding site in the MYCN promoter region responsible for promoting MYCN transcription, thereby establishing a mechanism through which miR-506-3p regulates MYCN expression.
+Conversely, we discovered that MYCN regulated PLAGL2 transcription through five N-Myc-binding E-boxes in the PLAGL2 promoter region.
+We further confirmed the reciprocal regulation between endogenous PLAGL2 and MYCN in multiple neuroblastoma cell lines.
+Moreover, we found that PLAGL2 knockdown induced neuroblastoma cell differentiation and reduced cell proliferation, and combined knockdown of PLAGL2 and MYCN showed a synergistic effect.
+More strikingly, we found that high tumor PLAGL2 mRNA levels were significantly correlated with high MYCN mRNA levels and poor patient survival in neuroblastoma patients.
+Furthermore, we found that retinoic acid increased expression of miR-506-3p and repressed expression of MYCN and PLAGL2.
+Our findings altogether suggest that the interplay network formed by PLAGL2, MYCN and miR-506-3p is an important mechanism in regulating neuroblastoma cell fate, determining neuroblastoma prognosis, and mediating the therapeutic function of retinoic acid.

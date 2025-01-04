@@ -1,0 +1,8 @@
+The recent completion of the rose genome sequence is not the end of a process, but rather a starting point that opens up a whole set of new and exciting activities.
+Next to a high-quality genome sequence other genomic tools have also become available for rose, including transcriptomics data, a high-density single-nucleotide polymorphism array and software to perform linkage and quantitative trait locus mapping in polyploids.
+Rose cultivars are highly heterogeneous and diverse.
+This vast diversity in cultivated roses can be explained through the genetic potential of the genus, introgressions from wild species into commercial tetraploid germplasm and the inimitable efforts of historical breeders.
+We can now investigate how this diversity can best be exploited and refined in future breeding work, given the rich molecular toolbox now available to the rose breeding community.
+This paper presents possible lines of research now that rose has entered the genomics era, and attempts to partially answer the question that arises after the completion of any draft genome sequence: 'Now that we have "the" genome, what's next?'.
+Having access to a genome sequence will allow both (fundamental) scientific and (applied) breeding-orientated questions to be addressed.
+We outline possible approaches for a number of these questions.

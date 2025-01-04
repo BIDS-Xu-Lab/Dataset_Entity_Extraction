@@ -1,0 +1,17 @@
+Background: Clinical pharmacists have a vital role in intercepting prescribing errors (PEs) but their impact within a Jordanian hospital emergency department (ED) has never been studied.
+Objective: To evaluate the impact of clinical pharmacy services on PEs and assess predictors of physicians' acceptance of clinical pharmacists' interventions.
+Setting: This study was conducted in the ED of the largest governmental hospital in Jordan.
+Method: This was a pre-post study conducted in October and November 2019 using a disguised observational method.
+There were 2 phases: control phase (P0) with no clinical interventions, and active phase (P1) where clinical pharmacists prospectively intervened upon errors.
+The clinical significance of errors was determined by a multidisciplinary committee.
+The SPSS software version 24 was used for data analysis.
+Main Outcome Measure: PEs incidence, type, severity, and predictors for physicians' acceptance.
+Results: Of 18003 patients, 8732 were included in P0 and 9271 in P1.
+PEs incidence decreased from 24.6% to 5.4%.
+Contraindication, drug selection, and dosage form error types were significantly reduced from 32.6%, 9.1%, and 3.7% (P0) to 12.6%, 0.0%, and 0.0% (P1), respectively.
+Albeit not statistically significant, drug-drug interaction, drug frequency, and allergy error types were reduced from 4.9%, 3.1%, and 0.1% to 4.5%, 2.5%, and 0.0%, respectively.
+Significant and serious errors were significantly reduced from 68.7% and 3.0% (P0) to 8.9% and 1.8% (P1), respectively.
+During P1, most errors were minor (89.3%, 1574/1763), and lethal errors ceased.
+Predictors for physicians' acceptance were: significant errors (OR 3.1; 95% CI 2.6-4.3; P = 0.03) and non-busy physicians (OR 2.1; 95% CI 1.6-2.7; P = 0.04).
+Conclusion: Clinical pharmacists significantly reduced PEs in the ED by 76%; most of interventions were significant.
+Policymakers are advised to implement active clinical pharmacy in the ED.

@@ -1,0 +1,9 @@
+The lymph node ratio (LNR), defined as the relation of tumor-infiltrated to resected lymph nodes, has been identified as an independent prognostic factor for colorectal cancer (CRC) after radical surgery.
+Recently, new guidelines propose counting tumor deposits (TDs) as positive lymph nodes (pLNs).
+The aim of this study was to investigate whether a novel LNR (nLNR) that considers TDs as pLNs can be used to accurately predict the long-term outcome of CRC patients.
+In this multicenter retrospective study, clinicopathological and outcome data from 2,051 stage III CRC patients who underwent R0 resection were collected between January 2004 and December 2011.
+Disease-free survival (DFS) and overall survival (OS) according to the nLNR category were analyzed using Kaplan-Meier survival curves.
+Univariate and multivariate analyses were performed to determine significant prognostic factors, and ROC curves were computed to measure the predictive capacity of the nLNR category.
+The 5-year DFS rates of nLNR1-4 were 68.3%, 48.4%, 33.3% and 16.5%, respectively (P<0.0001), and the 5-year OS rate of nLNR1-4 were 71.8%, 60.1%, 42.7% and 21.8%, respectively (P<0.0001).
+The area of under curve (AUC) of the nLNR was 0.686 (95% CI 0.663-0.710) and 0.672 (95% CI 0.648-0.697) for predicting DFS and OS.
+Our results demonstrate that the nLNR predicted long-term outcomes better than the LNR, npN and pN, using the cutoff points 0.250, 0.500 and 0.750.

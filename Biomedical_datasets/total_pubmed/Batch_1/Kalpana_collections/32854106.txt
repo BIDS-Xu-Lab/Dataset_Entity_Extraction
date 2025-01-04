@@ -1,0 +1,14 @@
+The attenuation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, at least in Italy, allows a gradual resumption of diagnostic and therapeutic activities for sleep respiratory disorders.
+The knowledge on this new disorder is growing fast, but our experience is still limited and when a physician cannot rely on evidence-based medicine, the experience of his peers can support the decision-making and operational process of reopening sleep laboratories.
+The aim of this paper is to focus on the safety of patients and operators accessing hospitals and the practice of diagnosing and treating sleep-related respiratory disorders.
+The whole process requires a careful plan, starting with a triage preceding the access to the facility, to minimize the risk of infection.
+Preparation of the medical record can be performed through standard questionnaires administered over the phone or by e-mail, including an assessment of the COVID-19 risk.
+The home sleep test should include single-patient sensors or easy-to-sanitize material.
+The use of nasal cannulas is discouraged in view of the risk of the virus colonizing the internal reading chamber, since no filter has been tested and certified to be used extensively for coronavirus due to its small size.
+The adaptation to positive airway pressure (PAP) treatment can also be performed mainly using telemedicine procedures.
+In the adaptation session, the mask should be new or correctly sanitized and the PAP device, without a humidifier, should be protected by an antibacterial/antiviral filter, then sanitized and reassigned after at least 4 days since SARS-CoV-2 was detected on some surfaces up to 72 h after.
+Identification of pressure should preferably be performed by telemedicine.
+The patient should be informed of the risk of spreading the disease in the family environment through droplets and how to reduce this risk.
+The follow-up phase can again be performed mainly by telemedicine both for problem solving and the collection of data.
+Public access to hospital should be minimized and granted to patients only.
+Constant monitoring of institutional communications will help in implementing the necessary recommendations.

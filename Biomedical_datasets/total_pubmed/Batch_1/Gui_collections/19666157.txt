@@ -1,0 +1,17 @@
+Rock climbing is an increasingly popular sport in the U.S., with approximately nine million participants annually.
+The sport holds an inherent risk of falls and stress-related injuries.
+As indoor climbing facilities become more common, more people are participating in the sport.
+The objective of this study is to describe the prevalence, characteristics, and trends of rock climbing-related injuries treated in U.S. emergency departments from 1990 through 2007.
+A retrospective analysis was conducted using data from the National Electronic Injury Surveillance System (NEISS) of the U.S. Consumer Product Safety Commission for all ages from 1990 through 2007.
+Sample weights provided by NEISS were used to calculate national estimates of rock climbing-related injuries.
+Trend significance of the number of rock climbing-related injuries over time was analyzed using linear regression.
+An estimated 40,282 patients were treated in emergency departments for rock climbing-related injuries in the U.S. over the 18-year period.
+Patients aged 20-39 years accounted for more than half of all injuries.
+Fractures, sprains, and strains accounted for the largest portion of injuries (29.0% and 28.6%, respectively).
+The lower extremities were the most frequently injured body part, accounting for 46.3% of all injuries; ankle injuries accounted for 19.2%.
+Men were more likely to sustain lacerations (OR=1.65; 95% CI=1.03, 2.67) and fractures (OR=1.54; 95% CI=1.10, 2.17), whereas women were more likely to sustain a sprain or strain (OR=1.68; 95% CI=1.13, 2.51).
+Overexertion injuries were more likely to occur to the upper extremities (OR=5.32; 95% CI=1.99, 14.23).
+Falls were responsible for three quarters of all injuries (77.5%).
+Overall, 11.3% of patients were hospitalized.
+Our results indicate that the most common rock climbing-related injuries are to the lower extremities and are fractures, sprains, and strains.
+More research is needed to determine how rock-climbers' characteristics, climbing setting, style of climbing, and use of safety equipment and training may affect their risk for certain injury patterns.

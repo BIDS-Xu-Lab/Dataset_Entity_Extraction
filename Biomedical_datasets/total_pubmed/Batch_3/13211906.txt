@@ -1,0 +1,16 @@
+A detailed study of the cytological changes which are induced in HeLa cells by the Saukett strain of Type III poliomyelitis virus has been made.
+The observations were of cultures in which a single sequence of infection was induced.
+The cytological changes were examined in relation to the growth curve of the virus in the same type of culture.
+This curve showed a latent period of 4 to 5 hours, followed by a gradual release of virus over an interval of 6 to 7 hours.
+Changes in the staining character of the cells occurred before the major portion of the viral yield appeared.
+The infected cells exhibited a striking cytopathology with increased basophilia, nuclear pyknosis, and basophilic cytoplasmic granules.
+Individual cells showed characteristic differences in the rate at which the cytopathology progresses.
+The multiplication of the virus in HeLa cells was inhibited by fluorophenylalanine.
+The inhibitory effectiveness of the antimetabolite was related to the age of the infection.
+It apparently inhibits only an early stage of viral development.
+The inhibition is completely reversed by phenylalanine if the amino acid is added within 6 hours, not later, after the induction of virostasis.
+The data are interpreted in terms of the rate at which the ability of the infected cell to support viral synthesis was lost.
+Flurophenylalanine also inhibited the multiplication of HeLa cells; however, the effect upon the uninfected cell was reversible after 3 days, as indicated by viability after such treatment.
+While the fluoro derivative completely inhibited viral multiplication, it did not prevent the cytopathogenic effect of the virus.
+In the presence of fluorophenylalanine, the disintegration of an infected cell proceeded at what appeared to be the ordinary rate, without any increase of the infectious agent.
+Experimentally the processes leading to viral increase and to cellular injury have been shown to possess a significant degree of autonomy.

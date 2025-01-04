@@ -1,0 +1,15 @@
+To evaluate outcomes of dichorionic twin pregnancies undergoing early vs late selective termination of pregnancy (ST).
+MEDLINE, EMBASE, CINAHL and the Web of Science databases were searched electronically up to March 2022.
+The primary outcome of this study was pregnancy loss prior to 24 weeks' gestation.
+The secondary outcomes included preterm birth (PTB) before 37, 34, and 32 weeks, preterm prelabor rupture of membranes (PPROM), gestational age (GA) at delivery, Cesarean delivery, mean birth weight, 5-min Apgar score < 7, overall neonatal morbidity and neonatal survival.
+Only prospective or retrospective studies reporting data on the outcome of early (before 18 weeks) vs late (at or after 18 weeks)
+ST in dichorionic twin pregnancies were considered suitable for inclusion.
+Quality assessment of the included studies was performed using the Newcastle-Ottawa scale for cohort studies.
+Random-effects head-to-head meta-analysis was used to analyze the data.
+Seven studies reporting on 649 dichorionic twin pregnancies were included in this systematic review.
+The risk of pregnancy loss prior to 24 weeks was significantly lower in dichorionic twin pregnancies undergoing early compared with late ST (1% vs 8%; odds ratio (OR), 0.25 (95% CI, 0.10-0.65); P = 0.004).
+The risk of PTB was significantly lower in dichorionic twin pregnancies undergoing early compared with late ST when considering PTB before 37 weeks (19% vs 45%; OR, 0.36 (95% CI, 0.23-0.57); P < 0.00001), before 34 weeks (4% vs 19%; OR, 0.24 (95% CI, 0.11-0.54); P = 0.0005) and before 32 weeks (4% vs 20%; OR, 0.21 (95% CI, 0.05-0.85); P = 0.03).
+The mean birth weight was significantly greater in the early-ST group (mean difference (MD), 392.2 g (95% CI, 59.1-726.7 g); P = 0.02), as was the mean GA at delivery (MD, 2.47 weeks (95% CI, 0.04-4.91 weeks); P = 0.049).
+There was no significant difference between dichorionic twin pregnancies undergoing early compared with late ST in terms of PPROM (P = 0.27), Cesarean delivery (P = 0.38), 5-min Apgar score < 7 (P = 0.35) and neonatal survival of the non-reduced twin (P = 0.54).
+The risk of pregnancy loss prior to 24 weeks and the rate of PTB before 37, 34 and 32 weeks were significantly higher in dichorionic twin pregnancies undergoing late vs early ST, thus highlighting the importance of early diagnosis of fetal anomalies in twin pregnancies.
+© 2022 International Society of Ultrasound in Obstetrics and Gynecology.

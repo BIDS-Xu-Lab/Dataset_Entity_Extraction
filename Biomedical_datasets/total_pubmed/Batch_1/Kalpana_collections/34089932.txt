@@ -1,0 +1,11 @@
+Poultry house dust is composed of fine particles which likely originate from a diverse range of materials such as feed, litter, excreta, and feathers.
+Little is known about the contribution of these sources to broiler house airborne dust so the present study was designed to identify the relative contributions of these sources.
+Samples of feed, excreta, feather, and bedding, known mixtures of these and settled dust from 28 broiler chicken flocks were tested for the concentration of 18 chemical elements.
+A chemometrics approach (the application of multivariate statistical techniques to chemical analysis data) was used to identify the primary source material in broiler chicken house dust samples.
+Scanning electron microscopy (SEM) was also used to analyze dust sample particulates based on examination of source materials.
+Excreta was found to be the main component of broiler chicken house dust, both by SEM and chemometric analysis.
+SEM of experimental flock dust between 7 and 35 days of age (d) revealed that the contribution of excreta to dust increased with age from 60% at 7 d to 95% at 28 d (P < 0.001).
+The proportion of bedding and feed in dust declined with age while the contribution of feather material remained low throughout.
+This study demonstrates that excreta provides the bulk of the material in poultry dust samples with bedding material, feed and feather material providing lower proportions.
+The relative contributions of these materials to dust varies with age of birds at dust collection.
+Additional research is required to determine the health and diagnostic implications of this variation.

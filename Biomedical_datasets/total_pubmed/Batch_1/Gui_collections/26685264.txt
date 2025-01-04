@@ -1,0 +1,9 @@
+Recently, an attractive clustering approach named multiexemplar affinity propagation (MEAP) has been proposed as an extension to the single exemplar-based AP.
+MEAP is able to automatically identify multiple exemplars for each cluster associated with a superexemplar.
+However, if the cluster number is a prior knowledge and can be specified by the user, MEAP is unable to make use of such knowledge directly in its learning process.
+Instead, it has to rely on rerunning the process as many times as it takes by tuning parameters until it generates the desired number of clusters.
+The process of MEAP rerunning may be very time-consuming.
+In this paper, we propose a new clustering algorithm called Multiple Exemplars Affinity Propagation with Specified K Clusters which is able to generate specified K clusters directly while retaining the advantages of MEAP.
+Two kinds of new additional messages are introduced in K-MEAP in order to control the number of clusters in the process of message passing.
+Detailed problem formulation, derived messages, and in-depth analysis of the proposed K-MEAP are provided.
+Experimental studies on 11 real-world data sets with different kinds of applications demonstrate that K-MEAP not only generates K clusters directly and efficiently without tuning parameters but also outperforms related approaches in terms of clustering accuracy.

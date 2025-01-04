@@ -1,0 +1,14 @@
+To examine the association of age-related macular degeneration (AMD) with incident coronary heart disease (CHD) and all-cause mortality.
+From the Atherosclerosis Risk in Communities Study (n = 12 536; age range, 49-73 years).
+Participants had retinal photographs of one eye taken between 1993 and 1995.
+Photographs were evaluated for the presence of early and late AMD signs according to the Wisconsin grading system.
+Incident CHD events (acute myocardial infarction, silent myocardial infarction, fatal CHD, and cardiac revascularization procedures) and all-cause mortality were identified prospectively using standardized methods.
+Incident CHD events and all-cause mortality.
+Of 11,414 persons at risk of CHD, there were 555 (4.9%) with AMD at baseline, of whom 540 were early AMD and 15 were late AMD cases.
+Over a 10-year follow-up, 922 persons developed an incident CHD event.
+After controlling for age, gender, race, systolic and diastolic blood pressure, pack-years of cigarette smoking, and other variables, early AMD was not associated with incident CHD (relative risk, 1.08; 95% confidence interval, 0.82-1.42).
+However, individuals with late AMD were significantly more likely to have an incident CHD event, with 4 CHD events among the 15 participants with late AMD at baseline (10-year cumulative incidence, 30.9%) as compared with 918 CHD events among the 11 399 participants without late AMD (incidence of 10.0%; P = 0.049, Fisher exact test).
+In the full cohort (n = 12 536), early AMD was not significantly associated with all-cause mortality.
+However, individuals with late AMD were more likely to die (10-year cumulative mortality rate, 23.5%) than those without late AMD (mortality rate, 8.9%; P = 0.088, Fisher exact test).
+These data provide no evidence of an association between early AMD signs with incident CHD and all-cause mortality in middle-aged persons.
+Individuals with late AMD appear to have a higher rate of CHD events than those without late AMD, but due to a small number of late AMD cases, this finding should be interpreted cautiously.

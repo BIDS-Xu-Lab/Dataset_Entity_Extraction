@@ -1,0 +1,16 @@
+Epidemiological data support an association between age-related macular degeneration (AMD) and cataract surgery that may be attributed to post-operative blue light exposure.
+By limiting the retina's blue light exposure, new blue-light filtering intraocular lenses (BLF IOLs) have the potential to reduce the development of AMD following cataract surgery.
+In the current economic healthcare environment, there is increased interest in the cost impact of new medical technologies.
+The objective of this analysis was to evaluate the cost impact of a BLF IOL versus a non-BLF IOL in cataract surgery.
+An economic model was developed to emulate three age-specific cohorts and to assess the clinical and economic outcomes over 5 years.
+Data from the published literature was supplemented with clinical expert opinion.
+Key literature inputs involved the risk of AMD after cataract surgery as well as laboratory and animal data on the effectiveness of the BLF IOL in reducing the risk of AMD.
+Clinical experts provided information on the management of AMD.
+Direct medical costs including the cost of the IOL, monitoring, and AMD prophylaxis and treatment were incorporated into the model.
+All costs were standardized to 2004 US dollars.
+In the BLF IOL group, the 5-year age-stratified incidence of AMD ranged from 0.58 to 9.23 per 100 eyes, compared with 1.69 to 24.55 per 100 eyes in the non-BLF IOL group.
+The incremental cost of the BLF was offset by reduced costs associated with averted AMD treatment.
+Estimated savings with BLF IOLs per 100 eyes were $4275, $29 997, and $111 734 in the 55 to 64 year-old, 65 to 74 year-old, and >or= 75-year-old cohorts, respectively; these findings remained robust throughout the sensitivity analyses.
+Limitations of this analysis include the lack of prospective clinical trial data that definitively demonstrate the efficacy of a BLF IOL in preventing AMD.
+Moreover, the efficacy data used to populate the model were derived from laboratory and animal studies.
+Thus, based on preliminary data, this study suggests that the economic benefits of implanting BLF IOLs during cataract surgery are observed in all patients over a 5-year timeframe although cost savings are greatest in patients >or= 75 years.

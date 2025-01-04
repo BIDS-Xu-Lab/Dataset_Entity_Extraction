@@ -1,0 +1,11 @@
+To establish a dynamic nomogram based on preoperative clinical data for prediction of lateral lymph node metastasis (LLNM) of papillary thyroid carcinoma.
+The Sixth Affiliated Hospital of Sun Yat-Sen University.
+The data of 477 patients from 2 centers formed the training group and validation group and were retrospectively reviewed.
+Preoperative clinical factors influencing LLNM were identified by univariable and multivariable analysis and were to construct a predictive dynamic nomogram for LLNM.
+Receiver operating characteristic analysis and calibration curves were used to evaluate the predictive power of the nomogram.
+The following were identified as independent risk factors for LLNM:
+P = .04), tumor size ≥10.5 mm (OR = 7.9, P = .008), thyroid nodules (OR = 6.1, P = .013), irregular tumor shape (OR = 24.6, P = .001), rich lymph node vascularity (OR = 9.7, P = .004), and lymph node location.
+The dynamic nomogram constructed with these factors is available at https://zxh1119.shinyapps.io/DynNomapp/.
+The nomogram showed good performance, with an area under the curve of 0.956 (95% CI, 0.925-0.986), a sensitivity of 0.87, and a specificity of 0.91, if high-risk patients were defined as those with a predicted probability ≥0.3 or total score ≥200.
+The nomogram performed well in the external validation cohort (area under the curve, 0.915; 95% CI, 0.862-0.967).
+The dynamic nomogram for preoperative prediction of LLNM in papillary thyroid carcinoma can help surgeons identify high-risk patients and develop individualized treatment plans.

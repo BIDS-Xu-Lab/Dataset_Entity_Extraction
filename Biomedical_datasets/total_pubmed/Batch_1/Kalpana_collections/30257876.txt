@@ -1,0 +1,8 @@
+The difficulty in uncovering detailed information about protein glycosylation stems from the complexity of glycans and the large amount of material needed for the experiments.
+Here we report a method that gives information on the isomeric variants of glycans in a format compatible with analyzing low-abundance proteins.
+On-chip glycan modification and probing (on-chip gmap) uses sequential and parallel rounds of exoglycosidase cleavage and lectin profiling of microspots of proteins, together with algorithms that incorporate glycan-array analyses and information from mass spectrometry, when available, to computationally interpret the data.
+In tests on control proteins with simple or complex glycosylation, on-chip gmap accurately characterized the relative proportions of core types and terminal features of glycans.
+Subterminal features (monosaccharides and linkages under a terminal monosaccharide) were accurately probed using a rationally designed sequence of lectin and exoglycosidase incubations.
+The integration of mass information further improved accuracy in each case.
+An alternative use of on-chip gmap was to complement the mass spectrometry analysis of detached glycans by specifying the isomers that comprise the glycans identified by mass spectrometry.
+On-chip gmap provides the potential for detailed studies of glycosylation in a format compatible with clinical specimens or other low-abundance sources.

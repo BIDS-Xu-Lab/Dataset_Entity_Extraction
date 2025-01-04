@@ -1,0 +1,7 @@
+This systematic review and meta-analysis aimed to evaluate the impact of ovarian endometriomas (OMA) on indirect markers of oocyte quality in patients undergoing IVF, compared with women without anatomical or functional ovarian abnormalities.
+The search spanned original randomized controlled trials, case-control studies and cohort studies published in MEDLINE, the Cochrane Controlled Trials Register and the ClinicalTrials.gov database up to October 2023.
+Thirty-one studies were included in the meta-analysis, showing no significant differences in fertilization (OR 1.10, 95% CI 0.94-1.30), blastulation (OR 0.86, 95% CI 0.64-1.14) and cancellation (OR 1.06, 95% CI 0.78-1.44) rates.
+However, patients with OMA exhibited significantly lower numbers of total and mature (metaphase II) oocytes retrieved (mean difference -1.59, 95% CI -2.25 to -0.94; mean difference -1.86, 95% CI -2.46 to -1.26, respectively), and lower numbers of top-quality embryos (mean difference -0.49, 95% CI -0.92 to -0.06).
+The Ovarian Sensitivity Index was similar between the groups (mean difference -1.55, 95% CI -3.27 to 0.18).
+The lack of data published to date prevented meta-analysis on euploidy rate.
+In conclusion, although the presence of OMA could decrease the oocyte yield in patients undergoing IVF/intracytoplasmic sperm injection, it does not appear to have an adverse impact on oocyte quality.

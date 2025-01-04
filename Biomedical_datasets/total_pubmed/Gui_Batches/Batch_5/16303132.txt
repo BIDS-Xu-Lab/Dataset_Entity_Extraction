@@ -1,0 +1,8 @@
+Incidences of potential per os Cydia pomonella granulovirus (CpGV) transmission within a large codling moth colony were identified.
+CpGV was detected in the water which is used to wash egg sheets.
+When pre-neonates were extracted from eggs prior to emergence and tested for the presence of CpGV, 40% were found to carry amounts of CpGV detectable by a polymerase chain reaction (PCR) assay, suggesting possible transovarial transmission of the virus.
+Although symptoms typical of virus infection and larval death were found infrequently within communal rearing trays, the frequency with which CpGV DNA was detected by PCR assays increased from a mean of 31% of 10-day-old larvae to 94% of 25-day-old larvae.
+CpGV in codling moth cadavers remained virulent after being held at 60 degrees C for 3 days under conditions similar to the treatment of spent diet at the rearing facility before its disposal.
+PCR tests of surface samples taken from air filters and rearing rooms of the rearing facility were found to contain CpGV.
+Bioassays of surface samples from the diet trash bin and a filter through which outside air is passed before entering the rearing chambers resulted in significant codling moth neonate mortality.
+The virulence of CpGV in dust from the spent diet and the original inadvertent positioning of the diet trash bin directly below one of the air intake ducts are suggested as a possible additional source of CpGV contamination within the facility.

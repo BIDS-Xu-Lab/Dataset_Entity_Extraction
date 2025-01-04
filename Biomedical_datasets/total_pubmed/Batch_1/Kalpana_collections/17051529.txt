@@ -1,0 +1,8 @@
+The concentrations and magnetization transfer ratios (MTRs) in gray matter (GM) and white matter (WM) of N-acetyl aspartate (NAA), creatine (Cr), choline (Cho), myo-inositol (Ins), and glutamate plus glutamine (Glx) were investigated using magnetic resonance spectroscopic imaging (MRSI).
+The macromolecule (MM) baseline was studied separately using a metabolite-nulling inversion.
+Three data sets were collected from a point-resolved spectroscopy (PRESS)-selected volume (TE/TR = 30/3000 ms) of human frontal lobe in vivo: one with MT pulses applied, one with an inversion pulse to null small metabolites, and one with no inversion or MT pulses.
+The MM signal, which was analyzed by integrating the metabolite-nulled spectrum between 0 and 3 ppm, was estimated to be 38% higher in GM than in WM.
+MM subtraction decreased the signal-to-noise ratio (SNR) and also decreased the reliability of LCModel quantification of most metabolites, but may have improved the accuracy of quantification of Glx.
+Glx and Cr were both found to correlate strongly with the GM volume fraction of the voxels.
+Cr showed the highest MTR, but the other metabolites also showed some attenuation of signal when the MT pulses were applied.
+The MTRs did not correlate with the GM volume fraction, which implies that the local environment of metabolites does not differ markedly between GM and WM.

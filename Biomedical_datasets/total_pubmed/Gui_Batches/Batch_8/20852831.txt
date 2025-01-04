@@ -1,0 +1,9 @@
+Increased risk of ischemic heart disease (IHD) mortality from high physical work demands has been observed among men with low physical fitness and leisure time physical activity.
+We tested whether hypertensive men are at a particularly high risk of IHD mortality when exposed to high physical work demands.
+We carried out a 30-year follow-up of the Copenhagen Male Study of 5249 gainfully employed men aged 40-59 years.
+Of these, 274 men with a history of myocardial infarction or prevalent symptoms of angina pectoris or intermittent claudication were excluded from the follow-up.
+Physical work demands were determined by two self-reported questions.
+Of the eligible study population, 587 men (11.9%) died due to IHD.
+Hypertensive men had more than a doubled risk of IHD mortality [hazard ratio (HR) 2.16, 95% confidence interval (95% CI) 1.80-2.59].
+Cox analyses--adjusted for age, smoking, alcohol, body mass index, diabetes, physical fitness, leisure time physical activity, and social class--showed that high physical work demands were associated with an increased risk of IHD and all-cause mortality among normotensive men (N=4127, HR 1.36, 95% CI 0.96-1.92 and HR 1.24, 95% CI 1.06-1.44, respectively), but not among the hypertensive men (N=808, HR 1.07, 95% CI 0.63-1.81 and HR 1.07, 95% CI 0.80-1.42, respectively) using men with low physical work demands as the reference.
+Compared to normotensive men, hypertensive men did not have a higher risk of IHD or all-cause mortality from high physical work demands.

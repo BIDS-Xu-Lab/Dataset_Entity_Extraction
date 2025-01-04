@@ -1,0 +1,14 @@
+To examine the type of maternal dietary patterns during pregnancy and the distribution characteristics of children's birth weight and the association between dietary patterns and neonatal birth weight in China.
+Data were derived from a cross-sectional program named "The prevalence and risk factors of birth defects in Shaanxi Province" in July to November in 2013.
+A stratified multistage random sampling method was used to select women and their children.
+The mother's diet during pregnancy was investigated using semi-quantitative food frequency questionnaire (FFQ) to collect the frequency and amount of food consumption, and the newborn birth weight as well as related social demographic information was collected at the same time.
+In our study, 0-1 year old children and their mothers with complete dietary survey data were selected as research objects.
+The main dietary patterns were identified according to factor analysis, and latent class analysis (LCA) was used to investigate the social demographic factors affecting dietary patterns.
+The logistic regression model was used to assess the association between birth weight and maternal dietary patterns during pregnancy by establishing three adjusting models and the data were stratified for further analysis by urban-rural and regions.
+A total of 15,980 participants were involved in this study.
+Four dietary patterns were identified: "vegetarian pattern", "balance pattern", "traditional pattern" and "processing pattern".
+Compared with moderate tertile, women in the highest tertile of adherence to vegetarian pattern increased the risk of low birth weight in offspring in rural areas (OR = 1.61, 95%CI:1.06-2.93) and middle region (OR = 1.75, 95%CI:1.18-2.62), and the traditional pattern had greater odds of lower birth weight in the middle region (OR = 1.55, 95%CI:1.05-3.75).
+The processing pattern was found a protective factor for the occurrence of low birth weight in rural areas (OR = 0.98, 95%CI:0.43-0.99) but was a risk factor for low birth weight in the southern region (OR = 8.83, 95%CI:1.22-15.16).
+The balance pattern was a protective factor for the occurrence of low birth weight in the northern region(OR = 0.35, 95%CI:0.14-0.83).
+The vegetarian and traditional pattern may be positively related to a higher risk of low birth weight while the balanced pattern may keep birth weight of offspring within the appropriate range.
+Health education of balanced diet and individual nutrition guidance during pregnancy should be strengthened, to make the dietary structure during pregnancy are more reasonable, reduce the occurrence of adverse birth weight of newborns.

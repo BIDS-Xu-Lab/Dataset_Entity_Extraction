@@ -1,0 +1,10 @@
+Radiotherapy (RT) for prostate cancer (PC) has steadily evolved over the last decades, with improving biochemical disease-free survival.
+Recently population based research also revealed an association between overall survival and doses ≥ 75.6 Gray (Gy) in men with intermediate- and high-risk PC.
+Examples of improved RT techniques are image-guided RT, intensity-modulated RT, volumetric modulated arc therapy, and stereotactic ablative body RT, which could facilitate further dose escalation.
+Brachytherapy is an internal form of RT that also developed substantially.
+New devices such as rectum spacers and balloons have been developed to spare rectal structures.
+Newer techniques like protons and carbon ions have the intrinsic characteristics maximising the dose on the tumour while minimising the effect on the surrounding healthy tissue, but clinical data are needed for confirmation in randomised phase III trials.
+Furthermore, it provides an overview of an important discussion issue in PC treatment between urologists and radiation oncologists: the comparison between radical prostatectomy and RT.
+Current literature reveals that all possible treatment modalities have the same cure rate, but a different toxicity pattern.
+We recommend proposing the possible different treatment modalities with their own advantages and side-effects to the individual patient.
+Clinicians and patients should make treatment decisions together (shared decision-making) while using patient decision aids.

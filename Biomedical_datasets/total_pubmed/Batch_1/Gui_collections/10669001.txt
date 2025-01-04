@@ -1,0 +1,9 @@
+Female C57BL6 mice were exposed to 0 or 800 ppm carbon disulfide (CS2), 6 h/d, 5 d/wk for 20 weeks.
+The neurologic function of all mice was assessed once at the end of exposures using a functional observational battery.
+General health effects included a decrease in body weight gain, piloerection, hunched body posture, and ptosis.
+Treatment-related effects included altered gait (uncoordinated placement of hind limbs and ataxia) and impaired function on an inverted screen test.
+In addition, rearing and locomotor movement were decreased in treated mice.
+Focal to multifocal axonal swelling was seen predominantly in the muscular branch of the posterior tibial nerve, and occasionally giant axonal swelling was detected in the lumbar segment of the spinal cord.
+Electron microscopic examination revealed swollen axons with massive accumulation of neurofilament proteins within the axoplasm.
+Covalent cross-linking of erythrocyte spectrin (surrogate protein to neurofilament protein) was demonstrated in mice exposed to CS2 but not in mice receiving filtered air.
+These data provide supportive evidence that covalent cross-linking of neurofilament proteins is a significant feature of the axonal swellings in mice produced by inhalation exposure to CS2.

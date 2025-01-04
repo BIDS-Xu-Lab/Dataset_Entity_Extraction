@@ -1,0 +1,50 @@
+The objective of this analysis is to review the effectiveness, safety, and cost-effectiveness of phakic intraocular lenses (pIOLs) for the treatment of myopia, hyperopia, and astigmatism.
+CONDITION AND TARGET POPULATION  REFRACTIVE ERRORS:
+Refractive errors occur when the eye cannot focus light properly.
+In myopia (near- or short-sightedness), distant objects appear blurry because the axis of the eye is too long or the cornea is too steep, so light becomes focused in front of the retina.
+Hyperopia (far sightedness) occurs when light is focused behind the retina causing nearby objects to appear blurry.
+In astigmatism, blurred or distorted vision occurs when light is focused at two points rather than one due to an irregularly shaped cornea or lens.
+Refractive errors are common worldwide, but high refractive errors are less common.
+[CI], 6.5% - 8.3%), 7.8% (95% CI, 6.4% - 8.6%), and 3.1% (95% CI, 2.2% - 3.9%), respectively.
+The prevalence of high hyperopia (≥ 3 D) is 1.0% (95% CI, .6% - 1.4%), 2.4% (95% CI, 1.7% - 3.0%), and 10.0% (95% CI, 9.1% - 10.9%) for the same age groupings.
+Finally, the prevalence of astigmatism (≥ 1 D cylinder) is 23.1% (95% CI, 21.6% - 24.5%), 27.6% (95% CI, 25.8% - 29.3%) and 50.1% (48.2% - 52.0%).
+According to the Ontario Schedule of Benefits, low visual acuity is defined by a best spectacle corrected visual acuity (BSCVA) of 20/50 (6/15) or less in the better eye and not amenable to further medical and/or surgical treatment.
+Similarly, the Ontario Assistive Devices Program defines low vision as BSCVA in the better eye in the range of 20/70 or less that cannot be corrected medically, surgically, or with ordinary eyeglasses or contact lenses.
+Estimates of the prevalence of low vision vary.
+Using the criteria of BSCVA ranging from 20/70 to 20/160, one study estimated that 35.6 per 10,000 people in Canada have low vision.
+The 2001 Participation and Activity Limitation Survey (PALS) found that 594,350 (2.5%) Canadians had "difficulty seeing ordinary newsprint or clearly seeing the face of someone from 4 m," and the Canadian National Institute for the Blind (CNIB) registry classified 105,000 (.35%) Canadians as visually disabled.
+A phakic intraocular lens (pIOL) is a supplementary lens that is inserted into the anterior or posterior chamber of the eye to correct refractive errors (myopia, hyperopia, and astigmatism).
+Unlike in cataract surgery, the eye's natural crystalline lens is not removed when the pIOL is inserted, so the eye retains its accommodative ability.
+In Canada and the United States, iris-fixated (anterior chamber lenses that are anchored to the iris with a claw) and posterior chamber lenses are the only types of pIOLs that are licensed by Health Canada and the Food and Drug Administration, respectively.
+EVIDENCE-BASED ANALYSIS METHOD:  RESEARCH QUESTIONS #ENTITYSTARTX00026;
+What are the effectiveness, cost-effectiveness, and safety of pIOLs for the treatment of myopia, hyperopia, and astigmatism?Do certain subgroups (e.g. high myopia and low vision) benefit more from pIOLs?How do pIOLs compare with alternative surgical treatment options (LASIK, PRK, and CLE)?Using appropriate keywords, a literature search was conducted up to January 2009.
+Systematic reviews, meta-analyses, randomized controlled trials, and observational studies with more than 20 eyes receiving pIOLs were eligible for inclusion.
+The primary outcomes of interest were uncorrected visual acuity (UCVA), predictability of manifest refraction spherical equivalent (MRSE), and adverse events.
+The GRADE approach was used to systematically and explicitly evaluate the quality of evidence.
+The search identified 1,131 citations published between January 1, 2003, and January 16, 2009.
+Including a health technology assessment (HTA) identified in the bibliography review, 30 studies met the inclusion criteria: two HTAs; one systematic review; 20 pre-post observational studies; and seven comparative studies (five pIOL vs. LASIK, one pIOL vs. PRK, and one pIOL vs. CLE).
+Both HTAs concluded that there was good evidence of the short-term efficacy and safety of pIOLs, however, their conclusions regarding long-term safety differed.
+The 2006 HTA found convincing evidence of long-term safety, while the 2009 HTA found no long-term evidence about the risks of complications including cataract development, corneal damage, and retinal detachment.
+The systematic review of adverse events found that cataract development (incidence rate of 9.6% of eyes) is a substantial risk following posterior chamber pIOL implantation, while chronic endothelial cell loss is a safety concern after iris-fixated pIOL implantation.
+Adverse event rates varied by lens type, but they were more common in eyes that received posterior chamber pIOLs.
+The evidence of pIOL effectiveness is based on pre-post case series.
+These studies reported a variety of outcomes and different follow-up time points.
+It was difficult to combine the data into meaningful summary measures as many time points are based on a single study with a very small sample size.
+Overall, the efficacy evidence is low to very low quality based on the GRADE Working Group Criteria.
+For all refractive errors (low to high), most eyes experienced a substantial increase in uncorrected visual acuity (UCVA) with more than 75% of eyes achieving UCVA of 20/40 or better at all postoperative time points.
+The proportion of eyes that achieved postoperative UCVA 20/20 or better varied substantially according type of lens used and the type of refractive error being corrected, ranging from about 30% of eyes that received iris-fixated lenses for myopia to more than 78% of eyes that received posterior chamber toric lenses for myopic astigmatism.
+Predictability of manifest refraction spherical equivalent (MRSE) within ± 2.0 D was very high (≥ 90%) for all types of lenses and refractive error.
+At most time points, more than 50% of eyes achieved a MRSE within ± 0.5 D of emmetropia and at least 85% within ± 1.0 D. Predictability was lower for eyes with more severe preoperative refractive errors.
+The mean postoperative MRSE was less than 1.0 D in all but two studies.
+Safety, defined as a loss of two or more Snellen lines of best spectacle corrected visual acuity (BSCVA), was high for all refractive errors and lens types.
+Losses of two or more lines of BSCVA were uncommon, occurring in fewer than 2% of eyes that had received posterior chamber pIOLs for myopia, and less than 1% of eyes that received iris-fixated lens implantation for myopia.
+Most eyes did not experience a clinically significant change in BSCVA (i.e. loss of one line, no change, or gain of one line), but 10% to 20% of eyes gained two or more lines of BSCVA.
+The pIOL outcomes for UCVA, predictability, BSCVA, and adverse events were compared with FDA targets and safety values for refractive surgery and found to meet or exceed these targets at most follow-up time points.
+The results were then stratified to examine the efficacy of pIOLs for high refractive errors.
+There was limited data for many outcomes and time points, but overall the results were similar to those for all levels of refractive error severity.
+The studies that compared pIOLs with LASIK, PRK, and CLE for patients with moderate to high myopia and myopic astigmatism showed that pIOLs performed better than these alternative surgical options for the outcomes of: UCVA,predictability and stability of MRSE,postoperative MRSE,safety (measured as clinically significant loss of BSCVA), andgains in BSCVA.Correction of refractive cylinder (astigmatism) was the only outcome that favoured refractive surgery over pIOLs.
+This was observed for both toric and non-toric pIOLs (toric pIOLs correct for astigmatism, non-toric pIOLs do not).
+Common adverse events in the LASIK groups were diffuse lamellar keratitis and striae in the corneal flap.
+In the pIOL groups, lens repositioning and lens opacities (both asymptomatic and visually significant cataracts) were the most commonly observed adverse events.
+These studies were determined to be of low to very low evidence quality based on the GRADE Working Group Criteria.
+Eye, myopia, hyperopia, astigmatism, phakic intraocular lens, LASIK, PRK, uncorrected visual acuity, best corrected visual acuity, refractive errors, clear lens extraction.

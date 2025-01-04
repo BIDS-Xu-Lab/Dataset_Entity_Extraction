@@ -1,0 +1,5 @@
+Breast cancer is the leading cause of cancer mortality among women in developing countries.
+Timely and accurate histopathological diagnosis of breast cancer is critical to delivering high-quality breast cancer care to patients in low- and middle-income countries (LMIC).
+The most important prognostic factors in breast cancer along with tumor size and nodal status are tumor grade, estrogen receptor status, as well as HER2 status in countries where specific targeted therapies are available.
+In addition, detailed and complete cancer registry data are needed to assess a country's disease burden and guide disease prioritization and allocation of resources for breast cancer treatment.
+Innovations in leapfrog technology and low-cost point-of-care tests for molecular evaluations are needed to provide accurate and timely pathology, with the ultimate goal of improving survival outcomes for patients with breast cancer in LMIC.

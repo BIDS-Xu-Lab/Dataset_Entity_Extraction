@@ -1,0 +1,12 @@
+Intensive care units (ICUs) are often described as hotbeds of antimicrobial resistance, with high rates of extended-spectrum β-lactamase (ESBL)-producing and multidrug-resistant (MDR) Enterobacteriaceae.
+Data from the SMART study were used to examine differences between the susceptibility of Enterobacteriaceae from ICU and non-ICU wards in Europe and North America.
+In total, 21,470 Enterobacteriaceae isolates from intra-abdominal and urinary tract infections were collected at 90 sites in 20 European and North American countries in 2011-2013.
+Susceptibility and ESBL phenotypes were determined using the CLSI broth microdilution method and breakpoints.
+Susceptibility was lower and ESBL and MDR rates were higher in ICUs, with much greater ICU/non-ICU differences in Europe than North America.
+Susceptibility was lower and ESBL and MDR rates were higher in Europe than in North America in both patient locations.
+Resistance among Enterobacteriaceae in Europe was largely driven by Klebsiella pneumoniae, which had high rates of ESBLs (41.2% in ICUs; mostly CTX-M) and carbapenemases (13.2%; mostly KPC and OXA).
+For all Enterobacteriaceae combined, only ertapenem and amikacin inhibited >90% of isolates in ICUs in both regions.
+In North America, ertapenem, imipenem and amikacin inhibited >90% of K. pneumoniae from ICUs, whereas in Europe only amikacin did.
+ESBL and MDR rates varied considerably within Europe.
+Antimicrobial resistance was higher in Europe than North America, especially in ICUs.
+Further surveillance at the country, hospital and even patient ward level, and investigation of reasons for these findings, would be useful for the development of effective strategies to reduce antimicrobial resistance in ICUs.

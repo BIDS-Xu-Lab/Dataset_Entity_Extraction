@@ -1,0 +1,9 @@
+To identify sites of tuberculosis transmission and to determine the contribution of HIV-infected patients to tuberculosis morbidity in an urban area, we prospectively evaluated 249 patients with culture-proven tuberculosis in central Los Angeles.
+Restriction fragment length polymorphism (RFLP) analysis was performed on Mycobacterium tuberculosis isolates to identify patients infected with the same strain.
+Using RFLP and clinical and epidemiologic data, we identified the most likely source case and site of transmission for 79 patients.
+Homelessness, birth in the United States and Native American ethnicity were independent predictors of being a source case, but HIV infection was not.
+Three homeless shelters were sites of tuberculosis transmission for 55 (70%) of the 79 patients.
+HIV-infected patients constituted 27% (66/249) of the study population, but only 17% (13/79) of patients were infected by an HIV-infected source case.
+We conclude that transmission of tuberculosis in central Los Angeles was highly focal, and that the major transmission sites were three homeless shelters.
+HIV- infected tuberculosis patients did not play a major role in spread of tuberculosis.
+Tuberculosis control measures targeted at specific homeless shelters can reduce tuberculosis morbidity in urban areas where homelessness is common and the incidence of tuberculosis is high.

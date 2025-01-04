@@ -1,0 +1,8 @@
+In Alzheimer's disease (AD) models, AD risk variants in the microglial-expressed TREM2 gene decrease Aβ plaque-associated microgliosis and increase neuritic dystrophy as well as plaque-associated seeding and spreading of tau aggregates.
+Whether this Aβ-enhanced tau seeding/spreading is due to loss of microglial function or a toxic gain of function in TREM2-deficient microglia is unclear.
+Depletion of microglia in mice with established brain amyloid has no effect on amyloid but results in less spine and neuronal loss.
+Microglial repopulation in aged mice improved cognitive and neuronal deficits.
+In the context of AD pathology, we asked whether microglial removal and repopulation decreased Aβ-driven tau seeding and spreading.
+We show that both TREM2KO and microglial ablation dramatically enhance tau seeding and spreading around plaques.
+Interestingly, although repopulated microglia clustered around plaques, they had a reduction in disease-associated microglia (DAM) gene expression and elevated tau seeding/spreading.
+Together, these data suggest that TREM2-dependent activation of the DAM phenotype is essential in delaying Aβ-induced pathological tau propagation.

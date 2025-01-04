@@ -1,0 +1,6 @@
+Genome-wide association studies (GWASs) have identified over 100 loci associated with rheumatoid arthritis (RA); however, the functionally affected genes and the underlying molecular mechanisms contributing to these associations are often unknown.
+In this study, we conducted an integrative genomic analysis incorporating multiple "omics" data and identified a functional regulatory DNA variant, rs56199421, and a plausible mechanism by which it regulates the expression of a putative RA risk gene, ORMDL Sphingolipid Biosynthesis Regulator 3 (ORMDL3).
+The T allele of rs56199421, located in the enhancer region of ORMDL3, exhibited stronger direct binding ability than the other C allele of rs56199421 did in vitro with the transcription factor JunD and demonstrated higher transcriptional activity.
+Moreover, the T allele of rs56199421 is associated with elevated RA risk, and ORMDL3 expression is increased in RA patients.
+Thus, these findings suggest that the T allele of rs56199421 enhances JunD transcription factor binding, increases enhancer activity, and elevates the expression of the RA risk gene ORMDL3.
+The online version contains supplementary material available at 10.1007/s43657-023-00107-z.

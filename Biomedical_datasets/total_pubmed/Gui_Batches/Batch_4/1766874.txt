@@ -1,0 +1,9 @@
+DNA oligonucleotides with appropriate sequences can form a stable duplex in which the two strands are paired in a parallel orientation instead of as the conventional antiparallel double helix of B-DNA.
+In parallel-stranded DNA (ps-DNA) base pairing is noncanonical with the glycosidic bonds in a trans orientation.
+We have synthesized DNA duplexes consisting of a central parallel-stranded (dA)15.(dT)15 tract flanked by normal antiparallel regions, and ligated them into the pUC18 plasmid.
+The effect of negative supercoiling on the covalently closed circular molecules was studied by two-dimensional agarose gel electrophoresis and by chemical modification with OsO4-pyridine (Os,py) and diethylpyrocarbonate (DEPC).
+The following results were obtained: (i) The ps insert, and by inference ps-DNA in general, adopts a right handed helical form.
+(ii) Upon increasing the negative superhelix density (-sigma) to greater than 0.03 the 15 bp ps insert undergoes a major transition leading to a relaxation corresponding to a reduction in twist of approximately 2.5 helical turns.
+The transition free surgery is approximately kcal/mol.
+(iii) The chemical modification pattern of the resulting structure suggests that the purine strand folds back and associates with the pyrimidine strand, forming a novel intramolecular triplex structure consisting of d(A.A.T) base triplets.
+A model for the triplex conformation is proposed and its thermodynamic properties are analyzed by statistical mechanics.

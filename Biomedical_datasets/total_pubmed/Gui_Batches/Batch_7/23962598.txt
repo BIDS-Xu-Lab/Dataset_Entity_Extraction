@@ -1,0 +1,11 @@
+Childhood obesity is associated with psychological problems, but little is known about its association with emotional disturbance (ED) in the educational setting, especially by gender.
+In the population representative Elementary School Children's Nutrition and Health Survey in Taiwan 2001-2002 of children aged 6-13 (n=2283), we have considered whether ED is associated with obesity by gender.
+Schoolchildren were assessed with the modified scale for assessing emotional disturbance questionnaires.
+For some subscales, boys and girls had ED associations with obesity which were bidirectional.
+With normal weight as referent and relevant adjustments, the significant ED subscales predictable by obesity were relationship problems (RP) in boys (odds ratio, OR=1.89 with 95% CI: 1.08-3.30) and inappropriate behavior (IB) in girls (OR=2.88: 95% CI: 1.47-5.61).
+Conversely, with 'no-specific-ED' as referent, obesity was predictable by fully-adjusted specific-EDs in the same subscales, namely RP in boys (OR=1.88 with 95% CI: 1.13-3.13) and IB in girls (OR=3.03: 95% CI: 1.57-5.85).
+Child obesity prevalence showed no trend with school grade from 1 to 6, but for aggregate ED and most of its subscales the prevalence increased with grade (P for trend <0.01).
+Thus, there is some dissociation of obesity and ED as judged by their trend presence with school grade.
+Where obesity and ED occurred together (for inability-to-learn and unhappiness or depression), there were upward trends with grade (P<0.01).
+There are probably some selected bidirectional pathogenicities for obesity-ED associations with different expression in boys and girls and during elementary education.
+This provides some policy direction while mechanisms and causality require elucidation.

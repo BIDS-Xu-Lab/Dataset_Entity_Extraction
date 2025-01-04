@@ -1,0 +1,15 @@
+To assess whether the presence of human papilloma virus (HPV) DNA and/or several genotypes of HPV DNA in primary cervical cancer and cancer free pelvic lymph nodes are correlated with several clinicopathological parameters of well-defined prognostic significance and whether virological parameters are predictors of long-term survival in cancer patients.
+223 cases of cervical cancer patients included in this retrospective study underwent follow-up evaluation.
+Survival and cause of death were examined for 204 (91.4%) patients, with a mean follow-up time of 4.4 years.
+HPV DNA was detected using the high sensitive polymerase chain reaction (PCR) method followed by HPV DNA sequencing for HPV genotyping.
+These results were correlated with well-defined clinicopathological parameters and survival data.
+HPV DNA was detected by PCR in 150 of 203 (73.4%) tissue specimens of cervical cancer patients.
+DNA sequence analysis revealed the presence of HPV 16 (n = 68, 45.3%), HPV 18 (n = 49, 32.6%) and rare HPV types (n = 33, 22.1%).
+HPV genotypes correlated significantly with histological tumor types, node status, blood vessel invasion and lymph space involvement.
+The presence of HPV DNA in cervical cancer as well as the genotype of HPV 16 could also be confirmed as significant prognostic factors in the univariate Cox Regression Analysis (RR 2.856, p < 0.003 resp.
+The presence of HPV DNA in cancer free pelvic lymph nodes was significantly correlated to the concomitant manifestation of pelvic lymph node metastases (RR 3.1, p < 0.0001).
+In the multivariate analysis, however, HPV DNA in primary tumor and in negative pelvic lymph nodes failed to be of prognostic relevance.
+Exclusively, HPV 16 appears to impact independently on the overall survival in cervical cancer patients (RR 3.653, p < 0.002).
+The detection of HPV 16 genotype may play an important adjunct role in assessing prognosis of cervical cancer patients.
+The clinical impact of the presence of HPV DNA in primary tumors and cancer free pelvic lymph nodes remains to be investigated in further studies.
+The exact mechanisms by which HPV influence the prognosis of cervical cancer patients have to be defined.

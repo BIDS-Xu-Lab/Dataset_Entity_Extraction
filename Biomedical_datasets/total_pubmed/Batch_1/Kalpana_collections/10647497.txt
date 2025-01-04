@@ -1,0 +1,13 @@
+Recombinant human insulin-like growth factor I (rhIGF-I) has been reported to ameliorate vincristine-induced neuropathy, the dose-limiting side effect of this antimitotic anticancer drug.
+However, rhIGF-I also might have adverse effects, as has been shown in vitro, where it stimulates growth of cancer cells and protects them from cytotoxicity of anticancer drugs.
+The influence of rhIGF-I on the cytotoxicity of vincristine has not yet been studied.
+Furthermore, studies performed have been done under serum-free conditions, which are far from physiological.
+We studied the influence of rhIGF-I on the growth of two rhabdomyosarcoma cell lines (Rh30 and Rh1) and on the antitumor effects of vincristine, cisplatin, etoposide, doxorubicin, and topotecan under serum-free and serum-containing conditions.
+To extend the in vitro data, we grew Rh30 cells as xenografts in mice and determined the effects of vincristine.
+rhIGF-I or their combination on tumor growth.
+In vitro, both cell lines demonstrated a functional type I IGF receptor, as shown by the rapid activation of ribosomal p70 S6 kinase after stimulation with rhIGF-I. Under serum-free conditions, rhIGF-I stimulated growth of both cell lines.
+Exposure to cytotoxic drugs with and without rhIGF-I resulted in higher cell numbers in cultures exposed to rhIGF-I.
+However, relative to the appropriate control, fractional growth inhibition and or cell kill of the cytotoxic drugs was identical with and without rhIGF-I. Under serum-containing conditions, rhIGF-I had no effect on cell growth or drug cytotoxicity.
+In vivo we did not find a significant influence of rhIGF-I on HxRh30 cell growth, or on the antitumor activity of vincristine.
+These studies show that rhIGF-I has no adverse effects on human rhabdomyosarcoma growth or on the antitumor effect of cytotoxic drugs under serum-containing conditions in vitro or in tumor-bearing mice.
+Potentially, therefore, rhIGF-I may ameliorate vincristine-induced neuropathy without adversely influencing tumor growth or vincristine cytotoxicity in children.

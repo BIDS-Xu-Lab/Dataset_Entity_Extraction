@@ -1,0 +1,12 @@
+The role of the amygdala in the experience of emotional states and stress is well established.
+Connections from the amygdala to the hypothalamus activate the hypothalamic-pituitaryadrenal (HPA) axis and the cortisol response.
+Previous studies have failed to find consistent whole amygdala volume changes in Major Depressive Disorder (MDD), but differences may exist at the smaller substructural level of the amygdala nuclei.
+High-resolution T1 and T2-weighted-fluid-attenuated inversion recovery MRIs were compared between 80 patients with MDD and 83 healthy controls (HC) using the automated amygdala substructure module in FreeSurfer 6.0.
+Volumetric assessments were performed for individual nuclei and three anatomico-functional composite groups of nuclei.
+Salivary cortisol awakening response (CAR), as a measure of HPA responsivity, was measured in a subset of patients.
+The right medial nucleus volume was larger in MDD compared to HC (p = 0.002).
+Increased right-left volume ratios were found in MDD for the whole amygdala (p = 0.004), the laterobasal composite (p = 0.009) and in the central (p = 0.003) and medial (p = 0.014) nuclei.
+The CAR was not significantly different between MDD and HC.
+Within the MDD group the left corticoamygdaloid transition area was inversely correlated with the CAR, as measured by area under the curve (AUCg) (p ≤ 0.0001).
+In conclusion, our study found larger right medial nuclei volumes in MDD compared to HC and relatively increased right compared to left whole and substructure volume ratios in MDD.
+The results suggest that amygdala substructure volumes may be involved in the pathophysiology of depression.

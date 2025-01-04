@@ -1,0 +1,9 @@
+1. Endocardial endothelial (EE) cells, isolated by the enzymatic treatment of guinea-pig heart, were used for whole-cell voltage clamp experiments.
+The inward rectifier K+ current was observed in about half of the experiments.
+The contribution of Ca(2+)-dependent K+ current to the resting membrane conductance was also suggested.
+After the K+ conductances were suppressed, removal of external Na+ revealed an inward cation current (1.2 pA pF-1, at -45 mV), whose slope conductance was a saturable function of external Na+ concentration.
+When Na+ was totally replaced by various monovalent cations, the order of the membrane conductances was K+ >
+This basal non-selective cation current was blocked by either Gd3+ or La3+, and showed slight outward rectification.
+5. Addition of 20 mM Ca2+ or Ba2+, but not Mg2+ or Mn2+, to the Na(+)-free solution, induced an inward current, indicating that this current possesses a significant Ca2+ permeability.
+In approximately 15% of the experiments, ATP and histamine induced another type of non-selective cation current, which showed different ion selectivity (Na+ > K+, Cs+) and rectification (inward).
+The basal non-selective cation current is responsible for both the low resting potential and the leak Ca2+ influx of EE cells.

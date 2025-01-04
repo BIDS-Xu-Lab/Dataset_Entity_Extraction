@@ -1,0 +1,12 @@
+Relatively little is known about the management and outcomes of Aboriginal children with renal failure in Canada.
+We evaluated differences in dialysis modality, time spent on dialysis, rates of kidney transplantation, and patient and allograft survival between Aboriginal children and non-Aboriginal children.
+For this population-based cohort study, we used data from a national pediatric end-stage renal disease database.
+Patients less than 18 years old who started renal replacement treatment (dialysis or kidney transplantation) in nine Canadian provinces (Quebec data were not available) and all three territories between 1992 and 2007 were followed until death, loss to follow-up or end of the study period.
+We compared initial modality of dialysis and time to first kidney transplant between Aboriginal children, white children and children of other ethnicity.
+We examined the association between ethnicity and likelihood of kidney transplantation using adjusted Cox proportional hazard models for Aboriginal and white children (data for the children of other ethnicity did not meet the assumptions of proportional hazards).
+Among 843 pediatric patients included in the study, 104 (12.3%) were Aboriginal, 521 (61.8%) were white, and 218 (25.9%) were from other ethnic minorities.
+Hemodialysis was the initial modality of dialysis for 48.0% of the Aboriginal patients, 42.7% of the white patients and 62.6% of those of other ethnicity (p < 0.001).
+The time from start of dialysis to first kidney transplant was longer among the Aboriginal children (median 1.75 years, interquartile range 0.69-2.81) than among the children in the other two groups (p < 0.001).
+[CI] 0.21-0.61) or a transplant from any donor (HR 0.54, 95% CI 0.40-0.74) during the study period.
+The time from start of dialysis to first kidney transplant was longer among Aboriginal children than among white children.
+Further evaluation is needed to determine barriers to transplantation among Aboriginal children.

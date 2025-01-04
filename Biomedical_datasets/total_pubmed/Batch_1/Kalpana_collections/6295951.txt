@@ -1,0 +1,5 @@
+We investigated the ability of the calcium ionophore A23187 and phorbol myristate acetate to elicit a respiratory burst in human neutrophils.
+In general, the ionophore was considerably more potent than phorbol myristate acetate in generating a chemiluminescent response and slightly less active in generating superoxide anion.
+In contrast, the ionophore caused a much smaller stimulation of glucose oxidation via the hexose monophosphate shunt.
+This relative inability of the ionophore to stimulate the shunt could not be ascribed to an effect on glucose transport or to a direct inhibition of any of the enzymes involved in glucose metabolism.
+These data suggest that different stimuli may have markedly different effects on various activities associated with the respiratory burst and emphasize the necessity for measurement of more than one parameter to assess the oxidative metabolism of the neutrophil.

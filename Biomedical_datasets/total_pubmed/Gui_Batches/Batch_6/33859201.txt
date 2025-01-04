@@ -1,0 +1,9 @@
+Selenoproteins containing selenium in the form of selenocysteine are critical for bone remodeling.
+However, their underlying mechanism of action is not fully understood.
+Herein, we report the identification of selenoprotein W (SELENOW) through large-scale mRNA profiling of receptor activator of nuclear factor (NF)-κΒ ligand (RANKL)-induced osteoclast differentiation, as a protein that is downregulated via RANKL/RANK/tumour necrosis factor receptor-associated factor 6/p38 signaling.
+RNA-sequencing analysis revealed that SELENOW regulates osteoclastogenic genes.
+SELENOW overexpression enhances osteoclastogenesis in vitro via nuclear translocation of NF-κB and nuclear factor of activated T-cells cytoplasmic 1 mediated by 14-3-3γ, whereas its deficiency suppresses osteoclast formation.
+SELENOW-deficient and SELENOW-overexpressing mice exhibit high bone mass phenotype and osteoporosis, respectively.
+Ectopic SELENOW expression stimulates cell-cell fusion critical for osteoclast maturation as well as bone resorption.
+Thus, RANKL-dependent repression of SELENOW regulates osteoclast differentiation and blocks osteoporosis caused by overactive osteoclasts.
+These findings demonstrate a biological link between selenium and bone metabolism.

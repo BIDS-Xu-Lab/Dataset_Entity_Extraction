@@ -1,0 +1,12 @@
+The purpose of the study was to evaluate the effects of early Medicaid expansions on young adults, who also benefitted from a private dependent coverage expansion.
+We used the American Community Survey 2008-2013 to study three early expansion states-California, Connecticut, and Minnesota-using difference-in-differences.
+Control states are weighted combinations of other states and are similar to expansion states in the prepolicy periods.
+We analyze young adults and subgroups of women and men.
+Early Medicaid reduced uninsurance and improved public coverage among low- and moderate-income young adults beyond the private dependent coverage expansion, but results differed across states.
+California, which targeted up to 200 percent of the federal poverty level (FPL), reduced uninsurance 1.3 percentage points (4.2% relative to mean) and increased public insurance by 1.4 percentage points (14.0%).
+Connecticut, which targeted up to 56 percent of FPL, had no change to uninsurance but a 5.4 percentage point (42.5%) increase in public coverage.
+Minnesota's programs (up to 75 and 250 percent of FPL) produced a 4.2 percentage point (21.9%) decline in uninsurance for their lowest income group, but no measurable changes for their moderate-income group.
+Young men benefitted more than women.
+Their uninsurance declined as much as 6.0 percentage points (25.0%, in Minnesota) and their public coverage increased up to 9.1 percentage points (61.5%, in Connecticut).
+Medicaid expansion benefits young adults, even those with moderate incomes, and even following a private dependent expansion.
+Results were larger and concentrated among young men, who historically had little engagement with the program.

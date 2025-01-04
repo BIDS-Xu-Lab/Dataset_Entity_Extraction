@@ -1,0 +1,5 @@
+The env gene of three simian immunodeficiency virus (SIV) variants developed convergent mutations during disease progression in six rhesus macaques.
+The monkeys had been inoculated with supercoiled plasmids encoding infectious proviruses of SIVmac239 (a pathogenic, wild-type strain), SIVdelta3 (the live attenuated vaccine strain derived from SIVmac239), or SIVdelta3+ (a pathogenic progeny virus that had evolved from SIVdelta3).
+All six monkeys developed immunodeficiency and progressed to fatal disease.
+Although many divergent mutations arose in env among the different hosts, three regions consistently mutated in all monkeys studied; these similar mutations developed independently even though the animals had received only a single infectious molecular clone rather than standard viral inocula that contain viral quasispecies.
+Together, these data indicate that the env genes of SIVmac239, SIVdelta3, and SIVdelta3+, in the context of different proviral backbones, evolve similarly in different hosts during disease progression.

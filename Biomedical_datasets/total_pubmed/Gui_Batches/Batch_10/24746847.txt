@@ -1,0 +1,11 @@
+Emergency medical services (EMS) protocols, which route patients with suspected stroke to stroke centers, rely on the use of accurate stroke screening criteria.
+Our goal is to conduct a statewide EMS agency evaluation of the accuracies of the Cincinnati Prehospital Stroke Scale (CPSS) and the Los Angeles Prehospital Stroke Screen (LAPSS) for identifying acute stroke patients.
+We conducted a retrospective study in North Carolina by linking a statewide EMS database to a hospital database, using validated deterministic matching.
+We compared EMS CPSS or LAPSS results (positive or negative) to the emergency department diagnosis International Classification of Diseases, Ninth Revision codes.
+We calculated sensitivity, specificity, and positive and negative likelihood ratios for the EMS diagnosis of stroke, using each screening tool.
+We included 1,217 CPSS patients and 1,225 LAPSS patients evaluated by 117 EMS agencies from 94 North Carolina counties.
+Most EMS agencies contributing data had high annual patient volumes and were governmental agencies with nonvolunteer, emergency medical technician-paramedic service level providers.
+The CPSS had a sensitivity of 80% (95% confidence interval [CI] 77% to 83%) versus 74% (95% CI 71% to 77%) for the LAPSS.
+Each had a specificity of 48% (CPSS 95% CI 44% to 52%; LAPSS 95% CI 43% to 53%).
+The CPSS and LAPSS had similar test characteristics, with each having only limited specificity.
+Development of stroke screening scales that optimize both sensitivity and specificity is required if these are to be used to determine transport diversion to acute stroke centers.

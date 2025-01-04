@@ -1,0 +1,10 @@
+To evaluate how change in menopausal status related to spectral analysis and polysomnographic measures of sleep characteristics.
+The Study of Women's Health Across the Nation (SWAN)
+Ancillary Sleep Study evaluated sleep characteristics of 159 women who were initially pre- or early perimenopausal and repeated the assessment about 3½ years later when 38 were pre- or early perimenopausal, 31 late perimenopausal, and 90 postmenopausal.
+Participants underwent in-home ambulatory polysomnography for two to three nights.
+Average EEG power in the delta and beta frequency bands was calculated during NREM and REM sleep, and sleep duration, wake after sleep onset (WASO), and apnea hypopnea index (AHI) were based on visually-scored sleep.
+The women who transitioned to postmenopause had increased beta NREM EEG power at the second assessment, compared to women who remained pre-or early premenopausal; no other sleep measures varied by change in menopausal status.
+In multivariate models the associations remained; statistical controls for self-reported hot flashes did not explain findings.
+In secondary analysis, NREM beta power at the second assessment was greater among women who transitioned into the postmenopause after adjustments for initial NREM beta power.
+Sleep duration and WASO did not vary by menopause transition group across assessments.
+Consistent with prior cross-sectional analysis, elevated beta EEG power in NREM sleep was apparent among women who transitioned to postmenopause, suggesting that independent of self-reported hot flashes, the menopausal transition is associated with physiological hyperarousal during sleep.

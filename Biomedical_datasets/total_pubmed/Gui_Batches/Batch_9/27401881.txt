@@ -1,0 +1,10 @@
+A sample of 353 community adolescents (grades 9 to 12, 57.6 % female) participated in a 2-wave longitudinal study of eating behaviors (overeating, loss of control eating [LOC], and binge eating) and depression.
+(1) The prospective relations between eating behaviors and depressive symptoms will be reciprocal, with each predicting the other over time.
+(2) These relations will be stronger for girls than for boys.
+(3) These relations will be stronger for adolescents with high (not low) body mass index (BMI).
+(4) LOC will show incremental predictive utility in relation to depressive symptoms over and above overeating.
+Evidence supported reciprocal relations between binge eating and depressive symptoms and between overeating and depressive symptoms, but not between LOC and depressive symptoms.
+Sex and BMI did not substantially moderate these relations.
+Taken separately, overeating but not LOC predicted depressive symptoms.
+Taken together, neither predictor was significant controlling for the other.
+Results raise questions about the importance of LOC alone in predicting depressive symptoms in adolescence.

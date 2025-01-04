@@ -1,0 +1,11 @@
+Cilia and flagella are structurally and functionally conserved organelles present in basal as well as higher eukaryotes.
+The assembly of cilia requires a microtubule based scaffold called a basal body.
+The ninefold symmetry characteristic of basal bodies and the structurally similar centriole is organized around a hub and spoke structure termed the cartwheel.
+To date, SAS-6 is one of the two clearly conserved components of the cartwheel.
+In some organisms, overexpression of SAS-6 causes the formation of supernumerary centrioles.
+We questioned whether the centriole assembly initiation capacity of SAS-6 is separate from or directly related to its structural role at the cartwheel.
+To address this question we used Tetrahymena thermophila, which expresses two SAS-6 homologues, TtSAS6a and TtSAS6b.
+Cells lacking either TtSAS6a or TtSAS6b are defective in new basal body assembly.
+TtSas6a localizes to all basal bodies equally, whereas TtSas6b is enriched at unciliated and assembling basal bodies.
+Interestingly, overexpression of TtSAS6b but not TtSAS6a, led to the assembly of clusters of new basal bodies in abnormal locations.
+Our data suggest a model where TtSAS6a and TtSAS6b have diverged such that TtSAS6a acts as a structural component of basal bodies, whereas TtSAS6b influences the location of new basal body assembly.

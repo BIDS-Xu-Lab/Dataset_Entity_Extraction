@@ -1,0 +1,9 @@
+To analyze the association between risk factors and presence of overweight in adolescents from different socioeconomic levels.
+A cross-section analysis with 888 youths recruited from both genders with ages ranging from 11 to 17 years was carried out.
+The body mass index was calculated through body mass and height values, and was used as the overweight indicator.
+Physical activity, food intake, and socioeconomic levels (high and low) were obtained by questionnaires.
+Data were analyzed by chi-square test and binary logistic regression.
+[OR]= 4.59) and parent overweight (OR= 5.33) were associated to overweight.
+Among adolescents in the higher socioeconomic level, maternal education (OR= 0.57), study in private school (OR= 3.04), and parent overweight (OR= 3.47) were associated to development of overweight.
+In both socioeconomic levels, parent overweight was an important risk factor associated with overweight.
+The other risk factors were different among the socioeconomic levels.

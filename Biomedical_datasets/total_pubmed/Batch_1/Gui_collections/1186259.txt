@@ -1,0 +1,9 @@
+The absorption and elimination of alcohol and meprobamate from the blood during Experiments IV (E-IV) and V (E-V) of Carpenter et al.
+54-139, 1975] were studied by means of mathematical models representing the relation between doses, concentration in the blood and time elapsing since drug ingestion.
+The blood concentrations of samples taken 2 and 5.5 hr after beginning to drink in E-IV and 1, 1.5, 2, 2.5, 3.5 and 4.5 hr in E-V were analyzed.
+The presence of meprobamate did not affect blood alcohol concentration (BAC) in either experiment.
+At 2 hr the mean BACS after 0.25, 0.50, 0.75 and 1.00 g of alcohol per kg were 6.8, 20.9, 37.7 and 53.7 mg per 100 ml in E-IV; 5.0, 34.1, 42.0 and 72.0 mg per 100 ml in E-V; and 8.1, 32.6, 41.3 and 71.3 mg per 100 ml when calculated by regression from E-V data.
+The calculated elimination rate of the 2 highest doses of alcohol in E-IV was 6.0 and 7.1 mg per 100 ml per hr; in E-V the mean calculated rates after 0.25-0.75 and after 1.00 g of alcohol per kg were 6.6 and 11.0 mg per 100 ml per hr.
+The blood meprobamate concentrations (BMC) in E-IV were not affected by alcohol.
+In E-V, 2.5 and 5.5 hr after meprobamate administration, the combination of 28 mg of meprobamate per kg and 0.75 g of alcohol per kg resulted in significantly lower BMC (7.83 and 12.63 mug per 100 ml) than after same dose of meprobamate with the other doses of alcohol (14.23 and 20.02 mug per 100 ml).
+The differences between these results and the findings of Carpenter et al. are discussed.

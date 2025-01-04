@@ -1,0 +1,10 @@
+Permanent pacemaker implantation (PPMI) is one of the greatest disadvantages of transcatheter aortic valve implantation (TAVI).
+To seek the predictors and clinical impacts of PPMI and investigate the recovery rate from conduction disorders.
+We retrospectively analysed data from 745 consecutive patients who underwent TAVI for severe aortic stenosis from November 2013 to July 2022.
+The ventricular pacing (VP) rate was recorded at 1 and 6 months after PPMI and the recovery from conduction disorders was defined as the VP rate <1%.
+Postoperative PPMI was performed in 7.1% (53/745) of patients.
+Balloon predilatation was significantly frequent in the PPMI (-) group (52.8% (28/53) vs 80.6% (558/692); p<0.001) and the oversizing ratio was significantly greater in the PPMI (+) group (11.8%±10.1% vs 9.1%±9.7%; p=0.035).
+Freedom from rehospitalisation due to heart failure rate was significantly higher in the PPMI (-) group (p=0.032).
+In patients with postoperative PPMI, recovery from conduction disorders was observed in 17.0% and 27.9% of patients at 1 and 6 months, respectively.
+Recovery from conduction disorders occurred frequently.
+Avoidance of oversizing and extension of observation time may reduce the need for PPMI after TAVI.

@@ -1,0 +1,8 @@
+Dopamine systems have been implicated in the performance of avoidance behavior, and the dopaminergic innervation of medial prefrontal cortex is known to be responsive to stressful stimuli.
+In the present investigation, injections of 6-hydroxydopamine were used to produce moderate depletions of dopamine in the medial prefrontal cortex of rats trained to perform an active avoidance/escape task.
+In this task, 0.5 mA shock was presented for 5 s every 30 s, and the rat could escape shock presentation, or avoid the shock for 30 s, by pressing a lever.
+Depletion of dopamine in the medial prefrontal cortex did not affect total number of responses, and did not impair avoidance responding (i.e. responding when the shock was off), and in fact dopamine-depleted animals tended to make slightly more avoidance responses than control animals.
+Prefrontal dopamine depletions did result in a significant decrease in the number of escape responses (i.e. responding to terminate shock when the shock was on).
+Moreover, dopamine depletions significantly decreased response efficiency, which is an index of the reduction of shock time produced per lever pressing response.
+Previous work has indicated that dopamine antagonists and accumbens dopamine depletions have dramatic effects on avoidance behavior; thus, the present results indicate that prefrontal cortex dopamine depletions do not mimic the effects of interference with subcortical dopamine systems.
+The selective effects of dopamine depletions on escape behavior in the present study suggest that rats with medial prefrontal dopamine depletions have an impairment in the ability to respond appropriately to the direct presentation of footshock.(ABSTRACT TRUNCATED AT 250 WORDS)

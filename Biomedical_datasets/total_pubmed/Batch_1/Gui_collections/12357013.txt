@@ -1,0 +1,12 @@
+Iron deficiency anaemia (IDA) remains the most common cause of anaemia and is frequently secondary to occult gastrointestinal blood loss requiring further investigation.
+The study was designed to prospectively assess the adequacy of investigation of IDA and to establish whether a simple computerised prompt would increase the completeness of investigation of patients presenting to their general practitioners.
+All men aged >20 and women aged >50 newly found to have a probable IDA (n=431) in primary care were randomised according to general practice (n=89) to one of two computer generated prompts, by the haematology laboratories in two large district general hospitals.
+Data were collected 12 months after the index date.
+The primary outcome measure was the adequacy of investigation of the cause of anaemia.
+Multiple logistic regression was used to analyse each binary outcome.
+Two hundred and three (47%) of 431 patients presenting to their general practitioner with an IDA were adequately managed and 140/357 (39%) of patients who were otherwise fit for investigation had no tests at all.
+Twenty one (17%) of 125 patients who did have adequate investigation at the time of presentation were found to have colorectal cancer.
+Only 30% of patients had a confirmed diagnosis within 12 months.
+The prompt did not affect the level of investigation (odds ratio 0.88, 95% confidence interval (CI) 0.60 to 1.29, p=0.52).
+The initial prescribing of oral iron was improved (odds ratio 2.19, 95% CI 1.27 to 3.77, p=0.005), but not the documented prescribing of a full therapeutic course or the use of follow up blood counts.
+The investigation and management of IDA presenting in general practice remains inadequate and is not improved by a simple management prompt.

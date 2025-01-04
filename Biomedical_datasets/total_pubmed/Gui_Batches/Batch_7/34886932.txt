@@ -1,0 +1,8 @@
+BACKGROUND: There is a dearth of economic analysis required to support increased investment in TB in India.
+This study estimates the costs of TB services from a health systems´ perspective to facilitate the efficient allocation of resources by India´s National Tuberculosis Elimination Programme.
+Data were collected from a multi-stage, stratified random sample of 20 facilities delivering TB services in two purposively selected states in India as per Global Health Cost Consortium standards and using Value TB Data Collection Tool.
+Unit costs were estimated using the top-down (TD) and bottom-up (BU) methodology and are reported in 2018 US dollars.
+Cost of delivering 50 types of TB services and four interventions varied according to costing method.
+Key services included sputum smear microscopy, Xpert® MTB/RIF and X-ray with an average BU costs of respectively US$2.45, US$17.36 and US$2.85.
+Average BU cost for bacille Calmette-Guérin vaccination, passive case-finding, TB prevention in children under 5 years using isoniazid and first-line drug treatment in new pulmonary and extrapulmonary TB cases was respectively US$0.76, US$1.62, US$2.41, US$103 and US$98.CONCLUSION:
+The unit cost of TB services and outputs are now available to support investment decisions, as diagnosis algorithms are reviewed and prevention or treatment for TB are expanded or updated in India.

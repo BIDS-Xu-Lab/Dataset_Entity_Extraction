@@ -1,0 +1,3 @@
+A compelling hypothesis about attention-deficit/hyperactivity disorder (ADHD) etiopathogenesis is that the ADHD phenotype reflects a delay in cortical maturation.
+Slow-wave activity (SWA) of non-rapid eye movement (NREM) sleep electroencephalogram (EEG) is an electrophysiological index of sleep intensity reflecting cortical maturation.
+Available data on ADHD and SWA are conflicting, and developmental differences, or the effect of pharmacological treatment, are relatively unknown.

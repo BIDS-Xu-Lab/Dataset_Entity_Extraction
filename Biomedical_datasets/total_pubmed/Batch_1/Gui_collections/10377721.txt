@@ -1,0 +1,10 @@
+The variability in the diagnostic observations could be a problem both in the clinical and in the epidemiological field.
+Scarce data exist in the literature on this phenomenon, relatives to the field of the cerebrovascular illness, in their nosologic, semiologic and etiologic aspects.
+We pretend to study the interobserver variability in the diagnosis of the stroke, classifying it as absentee, present or possible in front of a given case.
+A questionnaire of 99 clinical cases has been elaborated, in order to be subjected to the evaluation of 10 neurologists (3 "junior", residents, 3 "senior" residents, and 4 "staff");
+The categories are: a) not stroke either transient ischaemic attack; b) probable stroke or transient ischaemic attack; c) transient ischaemic attack and d) stroke.
+by means of the statistic kappa of Fleiss (kappa) for several observers and several categories, determination of the standard error and 95% confidence intervals.
+In the diagnosis of the cerebrovascular illness: a) among all the observers: kappa = 0.49 (0.44-0.50); b) among staff: kappa = 0.51 (0.46-0.56); c) among residents: kappa = 0.47 (0.44-0.50).
+Global data in transient ischaemich attack diagnosis: kappa = 0.52 (0.49-0.55); in the diagnosis of the stroke: kappa = 0.57 (0.54-0.60); in the exclusion of stroke: kappa = 0.64 (0.62-0.67).
+With Fleiss' criteria, an acceptable to good agreement exists in the diagnosis of the stroke in base to the mere description of the clinical picture.
+This interobserver agreement is better if it is tried to exclude the stroke, and it could increase with the training of the neurologist.

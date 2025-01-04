@@ -1,0 +1,5 @@
+Much progress has been made in the treatment of metastatic renal cell carcinoma (RCC) over the last decade, with the development of agents that block the vascular endothelial growth factor (VEGF) pathway or the mammalian target of rapamycin (mTOR) pathway.
+The incorporation of these agents into treatment algorithms has been the result of carefully conducted clinical trials leading to Food and Drug Administration (FDA) approval and subsequent adoption as the current standard of care.
+These trials, however, were dominated by patients with clear cell renal cell carcinoma (ccRCC), and little data are currently available on the treatment of non-clear cell renal cell carcinoma (nccRCC).
+nccRCC encompasses a biologically heterogeneous group of kidney tumors that portend very diverse prognoses and responses to therapy.
+This review is a pathway based approach that highlights the current systemic treatment strategies for metastatic nccRCC.

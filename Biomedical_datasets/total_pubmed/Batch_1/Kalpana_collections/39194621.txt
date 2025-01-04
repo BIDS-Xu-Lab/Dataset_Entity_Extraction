@@ -1,0 +1,7 @@
+Three-dimensional (3D) spheroid models are crucial for cancer research, offering more accurate insights into tumour biology and drug responses than traditional 2D cell cultures.
+However, inconsistent and low-throughput spheroid production has hindered their application in drug screening.
+Here, we present an automated high-throughput platform for a spheroid selection, fabrication, and sorting system (SFSS) to produce uniform gelatine-encapsulated spheroids (GESs) with high efficiency.
+SFSS integrates advanced imaging, analysis, photo-triggered fabrication, and microfluidic sorting to precisely control spheroid size, shape, and viability.
+Our data demonstrate that our SFSS can produce over 50 GESs with consistent size and circularity in 30 min with over 97% sorting accuracy while maintaining cell viability and structural integrity.
+We demonstrated that the GESs can be used for drug screening and potentially for various assays.
+Thus, the SFSS could significantly enhance the efficiency of generating uniform spheroids, facilitating their application in drug development to investigate complex biological systems and drug responses in a more physiologically relevant context.

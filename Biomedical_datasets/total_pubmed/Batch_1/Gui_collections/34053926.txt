@@ -1,0 +1,9 @@
+Diabetes mellitus (DM) is a known risk factor for morbidity, length of hospital stay, or mortality after surgery, however, its impact on postoperative course and long-term survival after pancreaticoduodenectomy (PD) is not clear.
+This is a retrospective analysis of prospectively maintained database of 141 patients with periampullary and pancreatic head adenocarcinoma operated between January 2001 and March 2019.
+Clinico-pathological records and follow-up data were retrieved and analyzed.
+Cumulative hazard was computed for comparing the survival between DM and non-DM.
+DM was present in 31/141 (21.9%) patients, while 16/31 (51.6%).
+Tumor size, lymphovascular & perineural invasion, type of surgery, lymph node positivity and R0 resection rate were comparable between diabetic and non-diabetic.
+There was no significant difference in postoperative pancreatic fistula, delayed gastric emptying, infectious complication, hospital stay and mortality between DM and nondiabetics.
+On multivariate analysis, DM (3 year OS: HR, 2.61 [1.14-5.98] p=0.022, DFS: HR, 2.19; p=0.058) (5 year OS: HR, 2.55; p=0.04, DFS: HR, 2.25; p=0.068) and pylorus resecting surgery were significantly associated with worse survival at 3 and 5 years.
+Preoperative DM has no significant effect on postoperative course but has negative impact on 3-year and 5-year OS and DFS after PD for pancreatic and periampullary adenocarcinoma.

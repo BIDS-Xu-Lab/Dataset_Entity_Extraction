@@ -1,0 +1,7 @@
+Peptidoglycan recognition proteins (PGRPs) are a family of pattern recognition receptors (PRRs) involved in host antibacterial responses, and their functions have been characterized in most invertebrate and vertebrate animals.
+However, little information is available regarding the potential function of PGRPs in the giant triton snail Charonia tritonis.
+In this study, a short-type PGRP gene (termed Ct-PGRP-S1) was identified in C. tritonis.
+Ct-PGRP-S1 was predicted to contain several structural features known in PGRPs, including a typical PGRP domain (Amidase_2) and Src homology-3 (SH3) domain.
+The Ct-PGRP-S1 gene was constitutively expressed in all tissues examined except in proboscis, with the highest expression level observed in the liver.
+As a typical PRR, Ct-PGRP-S1 has an ability to degrade peptidoglycan (PGN) and was proven to have non-Zn2+-dependent amidase activity and antibacterial activity against Vibrioalginolyticus and Staphylococcus aureus.
+It is the first report to reveal the peptidoglycan recognition protein in C. tritonis, and these results suggest that peptidoglycan recognition protein Ct-PGRP-S1 is an important effector of C. tritonis that modulates bacterial infection resistance of V. alginolyticus and S. aureus, and this study may provide crucial basic data for the understanding of an innate immunity system of C. tritonis.

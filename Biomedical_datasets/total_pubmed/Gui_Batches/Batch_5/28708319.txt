@@ -1,0 +1,11 @@
+The aim of the current study was to investigate whether iodized oil (IO) enhances high-intensity focused ultrasound (HIFU) ablation of uterine leiomyoma and to determine the features of hyperechoic changes in the target region.
+Forty samples of uterine leiomyoma were randomly divided into an experimental group and a control group.
+In the experimental group, the leiomyoma was ablated by HIFU 30 min after 1 mL of iodized oil had been injected into the center of the myoma.
+The hyperechoic values and areas in the target region were observed by B-modal ultrasound after HIFU ablation.
+The samples were cut successively into slices and stained by triphenyltetrazolium chloride (TTC) solution within 1 h after HIFU ablation.
+The diameters of TTC-non-stained areas were measured and tissues in the borderline of the TTC-stained and -non-stained areas were observed pathologically.
+All procedures in the control group were the same as those in the experimental group except IO was replaced by physiological saline.
+The hyperechoic value in the target region in the experimental group was higher than that in the control group 4 min after HIFU ablation (P < 0.05).
+Hyperechoic areas in the target region as well as TTC-non-stained volumes in the experimental group were greater than those in the control group (P < 0.05).
+Routine pathologic observation showed that coagulation necrosis of leiomyoma occurred in the target region in both groups.
+IO causes coagulation necrosis, enlarges tissue damage, and postpones the attenuation of hyperechoic changes in the target region when HIFU ablation is carried out for leiomyoma in vitro.

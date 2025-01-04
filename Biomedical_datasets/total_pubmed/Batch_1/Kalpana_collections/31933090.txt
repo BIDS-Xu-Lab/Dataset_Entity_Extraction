@@ -1,0 +1,9 @@
+The importance of information and communication technologies (ICTs) in environmental resource management opens a new debate for the policy makers in order to promote green technologies to mitigate high mass carbon emissions across the globe.
+"Digital Pakistan" initiative is taken by the government that aimed to use technology for country's social welfare, which further be enhance for achieving environmental sustainability over a time horizon.
+This study examined the long-run relationship between ICTs, energy demand, and carbon emissions in a context of Pakistan by using a time series data from 1975 to 2017.
+The results show that energy demand increases economic growth in the short-run while it decreases economic growth in the long-run.
+The country's economic growth substantially increases along with an increase in trade openness and mobile-telephone subscription (ICTs) in the short-run; however, the result is changed in the long-run due to increase in carbon emissions in a given time period.
+The results provoke that continued economic growth and ICT penetration substantially decreases energy demand, whereas urbanization increases energy demand in a country.
+The results show that variations in emissions associated with proportionate changes in ICTs penetration, economic growth, energy demand, and population growth.
+Human capital, trade openness, and energy demand are the significant drivers of ICT penetration in a country.
+The study concludes that the use of green technology is imperative for achieving long-term sustainable growth in a country.

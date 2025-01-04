@@ -1,0 +1,16 @@
+The human population in the highlands of Nyanza Province, western Kenya, is subject to sporadic epidemics of Plasmodium falciparum.
+Indoor residual spraying (IRS) and long-lasting insecticide treated nets (LLINs) are used widely in this area.
+These interventions are most effective when Anopheles rest and feed indoors and when biting occurs at times when individuals use LLINs.
+It is therefore important to test the current assumption of vector feeding preferences, and late night feeding times, in order to estimate the extent to which LLINs protect the inhabitants from vector bites.
+Mosquito collections were made for six consecutive nights each month between June 2011 and May 2012.
+CDC light-traps were set next to occupied LLINs inside and outside randomly selected houses and emptied hourly.
+The net usage of residents, their hours of house entry and exit and times of sleeping were recorded and the individual hourly exposure to vectors indoors and outdoors was calculated.
+Using these data, the true protective efficacy of nets (P*), for this population was estimated, and compared between genders, age groups and from month to month.
+Primary vector species (Anopheles funestus s.l. and Anopheles arabiensis) were more likely to feed indoors but the secondary vector Anopheles coustani demonstrated exophagic behaviour (p < 0.05).
+A rise in vector biting activity was recorded at 19:30 outdoors and 18:30 indoors.
+Individuals using LLINs experienced a moderate reduction in their overall exposure to malaria vectors from 1.3 to 0.47 bites per night.
+The P* for the population over the study period was calculated as 51% and varied significantly with age and season (p < 0.01).
+In the present study, LLINs offered the local population partial protection against malaria vector bites.
+It is likely that P* would be estimated to be greater if the overall suppression of the local vector population due to widespread community net use could be taken into account.
+However, the overlap of early biting habit of vectors and human activity in this region indicates that additional methods of vector control are required to limit transmission.
+Regular surveillance of both vector behaviour and domestic human-behaviour patterns would assist the planning of future control interventions in this region.

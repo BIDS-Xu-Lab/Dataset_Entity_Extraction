@@ -1,0 +1,9 @@
+Heart rate turbulence (HRT), an ECG-based marker of autonomic cardiac regulation, has shown high prognostic value in patients with established cardiovascular diseases, while data in patients with acute ischemic stroke are scarce.
+The HRT parameters turbulence onset and turbulence slope were analyzed using Holter-ECG recordings from patients with acute ischemic stroke, consecutively enrolled in the prospective observational HEBRAS study.
+HRT was categorized as normal (category 0; both parameters normal), abnormal (category 1; one parameter abnormal), or severely abnormal (category 2; both parameters abnormal).
+Outcomes of interest were functional outcome according to modified Rankin Scale (mRS) score at 3 months, mortality at 1 year, newly detected atrial fibrillation (AF), and evidence of focal myocardial fibrosis on cardiovascular MRI.
+HRT was assessed in 335 patients in sinus rhythm (median age 69 years, 37% female, median NIHSS score 2 on admission), including 262 (78%) with normal HRT, 47 (14%) with abnormal and 26 (8%) with severely abnormal HRT.
+[CI]: 1.3-6.6), new AF (aOR: 3.5, 95% CI: 1.1-10.6), MRI-detected myocardial fibrosis (aOR: 5.8, 95% CI: 1.3-25.9), but not with mortality at 1 year after stroke (aOR: 3.0, 95% CI: 0.7-13.9).
+Abnormal HRT was not associated with the analyzed outcomes.
+Severely abnormal HRT was associated with increased disability and previously unknown cardiac comorbidities.
+The potential role of HRT in selecting patients for extended AF monitoring and cardiac imaging should be further investigated.

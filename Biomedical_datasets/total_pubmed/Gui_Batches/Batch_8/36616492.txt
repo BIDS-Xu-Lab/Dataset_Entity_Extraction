@@ -1,0 +1,9 @@
+The mechanochemical synthesis of polyanilines (PANIs), made by oxidative polymerization of anilines, is reviewed.
+First, previous knowledge of the polymerization reaction in solution is discussed to understand the effect of different parameters: oxidant/monomer ratio, added acid, oxidant, temperature and water content on the properties of the conducting polymers (molecular weight, degradation, doping/oxidation level, conductivity, and nanostructure).
+The work on mechanochemical polymerization (MCP) of anilines is analyzed in view of previous data in solution, and published data are critically reconsidered to clarify the interpretation of experimental results.
+A key factor is the production of acids during polymerization, which is often overlooked.
+The production of gaseous HCl during MCP of aniline hydrochloride is experimentally observed.
+Since some experiments involves the addition of small amounts of water, the kinetics and heat balance of the reaction with concentrated solutions were simulated.
+A simple experiment shows fast (&lt;2 min) heating of the reaction mixture to the boiling point of water and temperature increments are observed during MCP in a mortar.
+The form and sizes of PANI nanostructures made by MCP or solution are compared.
+The extensive work on the production of nanocomposites by MCP of anilines together with different nanomaterials (porous clays, graphene, carbon nanotubes, metal, and oxide nanoparticles) is also described.

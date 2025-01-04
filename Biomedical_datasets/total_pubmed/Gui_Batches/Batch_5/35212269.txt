@@ -1,0 +1,18 @@
+Pleural effusion is characterized by excessive fluid collection in the pleural cavity.
+Black pleural effusion (BPE) is a rare entity with only limited scientific data.
+We aimed to review the current literature on black pleural effusion to characterize demographics, etiology, clinical presentation, pathological findings, available treatment strategies, and prognosis of this rare condition.
+We performed a systematic review of case reports and series and synthesized data on demographics, manifestations, management, and outcomes of patients with BPE.
+We searched Cochrane Library, PubMed, SCOPUS, and Google Scholar for any date until January 10, 2021.
+All studies (n = 31) that reported black pleural effusion in patients were added to the review.
+Prospective Register of Systematic Reviews registration number: CRD42020213839.
+Summary and descriptive analysis was performed on Jamovi version 1.2.
+The mean age of 32 patients with BPE was 53 years, with male predominance (69%).
+The commonest risk factor was smoking (n = 9) followed by alcohol intake (n = 8).
+Dyspnea was the commonest symptom (n = 24, 75%).
+Pleural fluid was mostly exudative (n = 21).
+The commonest associated diagnosis was malignancy (n = 14), with 50% secondary to metastatic melanoma.
+The commonest intervention was therapeutic thoracocentesis (n = 25, 78%), and the effusion recurred in half of the cases where recurrence was reported (n = 13).
+In our review, we found the mortality rate to be at 20.8% (n = 20.8%).
+58.3% of the patients were successfully treated and discharged home (n = 14).
+Although rare, BPE appears to be a relevant symptom as it seems to be frequently associated with modifiable risk factors and underlying malignancy.
+Our systematic review substantiates a vital research gap as observational research is imperative to characterize BPE further and form a basis for designing tailored diagnostic, preventive, and therapeutic strategies for BPE.

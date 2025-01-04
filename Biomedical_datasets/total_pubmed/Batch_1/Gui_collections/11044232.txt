@@ -1,0 +1,23 @@
+Some patients develop proteinuria and progressive renal failure after unilateral nephrectomy, although the majority of patients maintain normal renal function.
+Reasons to explain this different evolution are not known.
+A cross-sectional study was performed in 73 patients who had undergone unilateral nephrectomy 13.6 +/- 8.6 years before.
+Patients with morphologic abnormalities in the remaining kidney, systemic disorders, or abnormal renal function at the time of nephrectomy were excluded.
+All of the 73 included patients showed normal renal function and negative proteinuria at nephrectomy.
+The patient's medical records were reviewed, and clinical and analytical data throughout follow-up were obtained.
+Fifty-three out of the 73 patients (group I) showed a normal renal function and negative proteinuria at the cross-sectional study.
+The remaining 20 patients (group II) showed proteinuria (3.4 +/- 3.1 g/day).
+The time elapsed between nephrectomy and proteinuria appearance was 10.1 +/- 6.1 years.
+Thirteen patients of group II had developed renal insufficiency (serum creatinine at the cross-sectional study of 3.9 + 3.2 mg/dL) in addition to proteinuria.
+The time elapsed between proteinuria appearance and the onset of renal insufficiency was 4.1 +/- 4.3 years.
+Renal insufficiency showed a slowly progressive course in most of these patients.
+There were no significant differences between group I and group II patients in age, gender, renal function, or blood pressure at the time of nephrectomy.
+In contrast, group II patients showed a body mass index (BMI) that was significantly higher than group I at nephrectomy (31.6 +/- 5.6 vs. 24.3 +/- 3.7 kg/m(2), P < 0.001), at cross-sectional study (33.3 +/- 6.6 vs. 25.1 +/- 3.5 kg/m(2), P < 0.001), and throughout follow-up.
+Among the 14 obese (BMI > 30 kg/m(2))
+patients at the time of nephrectomy, 13 (92%) developed proteinuria/renal insufficiency.
+In contrast, among the 59 patients with BMI < 30 kg/m(2), only 7 (12%) developed these complications (P < 0.001).
+Kaplan-Meier estimated probability of negative proteinuria and normal renal function 10 years after nephrectomy was 40 and 70%, respectively, in obese patients at nephrectomy.
+At 20 years after nephrectomy, these percentages were 8 and 35%, respectively.
+In contrast, in nonobese patients, the probability of negative proteinuria and normal renal function was 93 and 98%, respectively, at 10 years (P < 0.001) and 77 and 91%, respectively, at 20 years (P < 0.001).
+Multiple logistic regression analysis showed that the risk of developing renal disease was only statistically correlated with BMI at the time of unilateral nephrectomy (odds ratio 1.34, 1.03 to 1.76 CI).
+Obese patients are at risk for developing proteinuria and chronic renal failure after unilateral nephrectomy.
+Regular and long-term follow-up are recommended in these patients.

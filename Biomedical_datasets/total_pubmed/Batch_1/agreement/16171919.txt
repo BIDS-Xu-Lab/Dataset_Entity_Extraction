@@ -1,0 +1,11 @@
+Two studies were designed to examine amniotic fluid and maternal urine concentrations of the di(2-ethylhexyl) phthalate (DEHP) metabolite mono(2-ethylhexyl) phthalate (MEHP) and the di-n-butyl phthalate (DBP) metabolite monobutyl phthalate (MBP) after administration of DEHP and DBP during pregnancy.
+In the first study, pregnant Sprague-Dawley rats were administered 0, 11, 33, 100, or 300 mg DEHP/kg/day by oral gavage starting on gestational day (GD) 7.
+In the second study, DBP was administered by oral gavage to pregnant Sprague-Dawley rats at doses of 0, 100, or 250 mg/kg/day starting on GD 13.
+Maternal urine and amniotic fluid were collected and analyzed to determine the free and glucuronidated levels of MEHP and MBP.
+In urine, MEHP and MBP were mostly glucuronidated.
+By contrast, free MEHP and free MBP predominated in amniotic fluid.
+Statistically significant correlations were found between maternal DEHP dose and total maternal urinary MEHP (p=0.0117), and between maternal DEHP dose and total amniotic fluid MEHP levels (p=0.0021).
+Total maternal urinary MEHP and total amniotic fluid MEHP levels were correlated (Pearson correlation coefficient=0.968).
+Statistically significant differences were found in amniotic MBP levels between animals within the same DBP dose treatment group (p<0.0001) and between animals in different dose treatment groups (p<0.0001).
+Amniotic fluid MBP levels increased with increasing DBP doses, and high variability in maternal urinary levels of MBP between rats was observed.
+Although no firm conclusions could be drawn from the urinary MBP data, the MEHP results suggest that maternal urinary MEHP levels may be useful surrogate markers for fetal exposure to DEHP.

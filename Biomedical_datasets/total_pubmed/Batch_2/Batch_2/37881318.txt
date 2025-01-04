@@ -1,0 +1,2 @@
+Genome-wide association studies (GWASs) have identified over 100 loci associated with rheumatoid arthritis (RA); however, the functionally affected genes and the underlying molecular mechanisms contributing to these associations are often unknown.
+In this study, we conducted an integrative genomic analysis incorporating multiple "omics" data and identified a functional regulatory DNA variant, rs56199421, and a plausible mechanism by which it regulates the expression of a putative RA risk gene,

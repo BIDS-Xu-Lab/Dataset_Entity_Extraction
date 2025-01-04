@@ -1,0 +1,3 @@
+Using a database of open data policies for 199 journals in ecology and evolution, we found no detectable link between data sharing requirements and article retractions or corrections.
+Despite the potential for open data to facilitate error detection, poorly archived datasets, the absence of open code and the stigma associated with correcting or retracting articles probably stymie error correction.
+Requiring code alongside data and destigmatizing error correction among authors and journal editors could increase the effectiveness of open data policies at helping science self-correct.

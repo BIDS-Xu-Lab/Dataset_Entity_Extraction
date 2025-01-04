@@ -1,0 +1,9 @@
+Aggressive use of antiretroviral therapy has led to excellent viral suppression within the systemic circulation.
+However, despite these advances, HIV reservoirs still persist.
+The persistence of HIV within the brain can lead to the development of HIV-associated neurocognitive disorders (HAND).
+Although the causes of the development of neurocognitive disorders is likely multifactorial, the inability of antiretroviral therapy to achieve adequate concentrations within the brain is likely a major contributing factor.
+Information about antiretroviral drug exposure within the brain is limited.
+Clinically, drug concentrations within the cerebrospinal fluid (CSF) are used as markers for central nervous system (CNS) drug exposure.
+However, significant differences exist; CSF concentration is often a poor predictor of drug exposure within the brain.
+This article reviews the current information regarding antiretroviral exposure within the brain in humans as well as preclinical animals and discusses the impact of co-morbidities on antiretroviral efficacy within the brain.
+A more thorough understanding of antiretroviral penetration into the brain is an essential component to the development of better therapeutic strategies for neuroAIDS.

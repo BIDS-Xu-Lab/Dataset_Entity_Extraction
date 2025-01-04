@@ -1,0 +1,4 @@
+Reproducibility of nasal resistance recording is important if meaningful clinical and investigative data are to be assembled.
+The present study investigated by duplicate determination, reproducibility of anterior (unilateral) and posterior (bilateral) recordings of nasal respiratory resistance (NRR) for 12 subjects.
+Improved accuracy was achieved with frequent use of a calibration device and visual feedback for the patient.
+The results show that the recordings are reproducible with a small method error of between 13.6 Pascals/cc/sec x 10(3) and 41.5 Pascals/cc/sec x 10(3).

@@ -1,0 +1,13 @@
+The application of structural equation modeling (SEM), a statistical modeling tool for scale construction and development, is becoming increasingly popular in the health sciences librarianship and information science research.
+This study explores the application of SEM to health science libraries by describing the development and validation of a modified LibQUAL scale within an Iranian health sciences library setting.
+A literature search was performed across several information sources to identify candidate items to be included in the primary questionnaire.
+After translation, linguistic validation, and a pilot study, two cross-sectional studies were performed.
+SEM modeling framework was used for the assessment of the reliability and validity of the modified LibQUAL scale.
+The internal consistency of the scale was evaluated by measuring Cronbach's alpha coefficient and composite reliability.
+Exploratory and confirmatory factor analyses were used for the evaluation of the construct validity of the scale.
+Smart-PLS software was used for statistical modeling.
+Composite reliability and Cronbach's alpha coefficient for each scale ranged between 0.90 and 0.95, indicating adequate internal consistency with the LibQUAL scale.
+Confirmatory factor analysis confirmed the three-factor model of the LibQUAL scale.
+The convergent validity of the scale was supported, as the average variances extracted for all proposed factors were above 0.50.
+The discriminant validity was also confirmed using Fornel and Larcker and Heterotrait-Monotrait Ratio (HTMT) methods.
+Evaluation of psychometric properties of the translated and locally modified LibQUAL in the Persian language indicated adequate reliability, factorial validity, and stability of this instrument for Iranian health sciences libraries.

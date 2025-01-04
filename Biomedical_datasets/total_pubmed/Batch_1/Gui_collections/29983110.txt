@@ -1,0 +1,9 @@
+This study examined national patterns, predictors, and trends in depression screening among adults without a diagnosis of depression in the United States.
+A cross-sectional design utilizing pooled data from the National Ambulatory Medical Care Survey (2005-2015) was used.
+The study sample consisted of ambulatory care visits to nonpsychiatrists among adults (≥18 years) without a depression diagnosis.
+Depression screening was the dependent variable.
+Descriptive statistics, logistic regression, and piecewise regression analyses were conducted to achieve the study objectives.
+The national-level depression screening rate was 1.4% of all adult ambulatory care visits.
+Year, gender, physician specialty, geographic region, and time spent with physician were significantly associated with depression screening.
+Piecewise regression analysis revealed a statistically significant (p<.001) interaction between year and change in depression screening rate, where screening rates increased significantly after 2009.
+Although screening rates have increased significantly after 2009, screening remains low among adults without a depression diagnosis.

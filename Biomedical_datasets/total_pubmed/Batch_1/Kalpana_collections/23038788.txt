@@ -1,0 +1,11 @@
+Previous reports on the association between statin use and venous thromboembolism (VTE) did not examine patient adherence to medications, thus their applicability in a real life setting is questionable.
+Our objective was to investigate the association between the use of statins and incidence of first ever idiopathic VTE.
+Included were statin initiators aged 30 years or older since 2003 who did not have a statin prescription for at least 4 years before that and had at least 18 months follow-up.
+Excluded were patients with known risk factors for VTE.
+End of follow-up was defined as the first of the following: leaving Maccabi Healthcare Services, death, VTE or October 27, 2010.
+Prescription drug purchase data was analysed in order to evaluate the association between statin use and adherence and between VTE prevention.
+The study population included 127 822 subjects (53 618 females).
+The follow-up period was comprised of 594 190 patient years, and included 1375 VTE cases and 5-year cumulative incidence rate of 1.15%.
+Cox regression analysis demonstrated a significantly lower VTE risk of 19% and 22% in the more adherent patient groups, compared to the risk for the lowest adherence group.
+The simvastatin dose, the most frequently prescribed statin, was negatively associated with the risk of VTE.
+In a real life healthcare maintenance organisation setting, better adherence to statins is associated with a reduced risk of first ever idiopathic VTE events.

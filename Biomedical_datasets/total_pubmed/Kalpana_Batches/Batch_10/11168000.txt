@@ -1,0 +1,4 @@
+The role of HLA-A*6802-restricted CD8+ T cells in chlamydial disease was investigated in human ocular infections.
+Peptides with predicted binding motifs for HLA-A*6802 were synthesized using sequences based on chlamydial antigens, major outer membrane protein (MOMP), macrophage infectivity potentiator (MIP) and heat shock protein (hsp70).
+Peptides were pooled according to Chlamydia trachomatis protein type and serovar, and were tested in 51Cr-release cytotoxic T lymphocyte (CTL) and enzyme-linked immunospot (ELISPOT) assays, using peripheral blood mononuclear cells (PBMC) isolated from subjects living in trachoma-endemic communities in The Gambia.
+Significant CTL activity or interferon-gamma release was not detected in any of the subjects, suggesting either that HLA-A*6802 CD8+ T cells may not be important in ocular infections or that the peptides chosen did not represent epitopes.

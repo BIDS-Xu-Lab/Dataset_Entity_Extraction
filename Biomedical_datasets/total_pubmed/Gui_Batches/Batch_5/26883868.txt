@@ -1,0 +1,12 @@
+To evaluate, using anterior segment optical coherence tomography (AS-OCT) and in vivo confocal microscopy (IVCM), the uveo-scleral aqueous humour (AH) outflow pathways after ultrasonic circular cyclocoagulation (UCCC).
+Forty-four patients with refractory glaucoma underwent 4 or 6 s UCCC (group 1, 24 eyes; group 2, 20 eyes).
+UCCC was successful when the preoperative intraocular pressure (IOP) reduced by one-third.
+AS-OCT and IVCM were performed at baseline and at month 1 to evaluate the sclera and conjunctiva.
+The main outcomes were mean intra-scleral hyporeflective spaces area (MIHSA: mm2) at AS-OCT, mean density and area of conjunctival microcysts (MMD: cysts/mm2; MMA: µm2) at IVCM.
+The relations between MIHSA, MMA and MMD with IOP were analysed.
+Mean baseline IOP was 26.9±2.8 mm Hg in group 1 and 27.5±4.0 in group 2.
+Intra-scleral hyporeflective spaces and microcysts were observed in both groups, without significant differences in MIHSA, MMA and MMD.
+MIHSA showed a twofold and threefold increase in group 1 and 2 (p<0.05), with a significant difference between groups (p<0.05).
+MMA and MMD increased in both groups (p<0.05), with values higher in group 2 (p<0.05).
+Significant relations were found between MIHSA and IOP in both groups (p<0.01).
+UCCC induced anatomical modifications of sclera and conjunctiva, which suggested that the trans-scleral AH outflow enhancement is one of the possible mechanisms exploited by ultrasounds to reduce IOP.

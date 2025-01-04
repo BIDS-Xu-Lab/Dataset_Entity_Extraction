@@ -1,0 +1,14 @@
+We studied the inheritance of migraine and concomitant symptoms among 2690 monozygotic (1524 female and 1166 male) pairs and 5497 dizygotic (2951 female and 2546 male) twin pairs.
+Our material consists of a population-based questionnaire study among Finnish twins in 1981.
+The definition of migraine is based on a questionnaire method.
+Concordance was assessed using probandwise concordance rates and tetrachoric correlations for monozygotic (MZ) and dizygotic (DZ) twin pairs.
+For estimating the contribution of genetic factors to the susceptibility of migraine, a polygenic multifactorial model was used.
+Structural equation models were applied for estimating variance components and to compare different genetic models.
+Nearly one-half (40% to 50%) of the liability to migraine is attributable to genetic factors.
+In all structural analyses, the model with both additive genetic and unshared environmental component had the best goodness-of-fit value.
+The genetic component varied between 34% to 51% in different migraine types.
+There were no remarkable differences between sexes except in the effects due to dominance, where the proportion was 26% for men and 14% for women.
+Concomitant symptoms among subjects within pairs concordant for headache had genetic effects varying from 56% (subjects with unilaterality) and 56% (subjects with visual symptoms) to 45% (persons with nausea and vomiting).
+The two threshold model of headache points to the continuum model of headache, and the thresholds represent different levels of severity of the pain.
+Our results emphasize a multifactorial and higher than previously reported genetic pattern in the etiology of migraine.
+Also unshared environmental factors play an important role.

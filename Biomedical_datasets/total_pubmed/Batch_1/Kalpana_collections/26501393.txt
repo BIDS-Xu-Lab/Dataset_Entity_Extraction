@@ -1,0 +1,8 @@
+Oscillations are an important aspect of brain activity, but they often have a low signal-to-noise ratio (SNR) due to source-to-electrode mixing with competing brain activity and noise.
+Filtering can improve the SNR of narrowband signals, but it introduces ringing effects that may masquerade as genuine oscillations, leading to uncertainty as to the true oscillatory nature of the phenomena.
+Likewise, time-frequency analysis kernels have a temporal extent that blurs the time course of narrowband activity, introducing uncertainty as to timing and causal relations between events and/or frequency bands.
+Here, we propose a methodology that reveals narrowband activity within multichannel data such as electroencephalography, magnetoencephalography, electrocorticography or local field potential.
+The method exploits the between-channel correlation structure of the data to suppress competing sources by joint diagonalization of the covariance matrices of narrowband filtered and unfiltered data.
+Applied to synthetic and real data, the method effectively extracts narrowband components at unfavorable SNR.
+Oscillatory components of brain activity, including weak sources that are hard or impossible to observe using standard methods, can be detected and their time course plotted accurately.
+The method avoids the temporal artifacts of standard filtering and time-frequency analysis methods with which it remains complementary.

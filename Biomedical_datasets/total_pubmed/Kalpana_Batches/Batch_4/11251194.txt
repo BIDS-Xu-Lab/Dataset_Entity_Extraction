@@ -1,0 +1,10 @@
+Prior epileptic episodes have been shown to decrease markedly the neuronal damage induced by a second epileptic episode, similar to the tolerance following an episode of mild ischemia.
+Endogenous neuroprotective effects mediated by various mechanisms have been put forward.
+This study investigated whether neuroprotection against the excitotoxic damage induced by re-exposure to an epileptic challenge can reflect a change in epileptic susceptibility.
+Tolerance was elicited in rats by a preconditioning session using intrahippocampal kainic acid (KA) administration followed at 1, 7 and 15-day intervals by a subsequent intraventricular KA injection.
+The degree of pyramidal cell loss in the vulnerable CA3 subfield contralateral to the KA-injected hippocampus was extensively reduced in animals experiencing KA ventricular administration.
+This neuroprotection was highly significant 1 and 7 days after injection, but not 15 days after injection.
+In preconditioned animals, the after-discharge threshold was assessed as an index of epileptic susceptibility.
+It increased significantly from 1 to 15 days after intrahippocampal KA administration.
+Finally, an enhancement of neuropeptide Y expression in both non-principal cells and mossy fibers was detected, occurring at the same time as the decrease in epileptic susceptibility.
+These results provide further evidence of an 'epileptic tolerance' as shown by the substantial neuroprotective effect of a prior episode of epileptic activity upon subsequent epileptic insult and suggest that the prevention of excitotoxic damage after preconditioning results from an endogenous neuroprotective mechanism against hyperexcitability and seizures.

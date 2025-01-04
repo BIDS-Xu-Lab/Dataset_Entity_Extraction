@@ -1,0 +1,8 @@
+The genomes of RNA viruses are characterized by their extremely small size and extremely high mutation rates (typically 10 kb and 10(-4)/base/replication cycle, respectively), traits that are thought to be causally linked.
+One aspect of their small size is the genome compression caused by the use of overlapping genes (where some nucleotides code for two genes).
+Using a comparative analysis of all known RNA viral species, we show that viruses with larger genomes tend to have less gene overlap.
+We provide a numerical model to show how a high mutation rate could lead to gene overlap, and we discuss the factors that might explain the observed relationship between gene overlap and genome size.
+We also propose a model for the evolution of gene overlap based on the co-opting of previously unused ORFs, which gives rise to two types of overlap: (1) the creation of novel genes inside older genes, predominantly via +1 frameshifts, and (2) the incremental increase in overlap between originally contiguous genes, with no frameshift preference.
+Both types of overlap are viewed as the creation of genomic novelty under pressure for genome compression.
+Simulations based on our model generate the empirical size distributions of overlaps and explain the observed frameshift preferences.
+We suggest that RNA viruses are a good model system for the investigation of general evolutionary relationship between genome attributes such as mutational robustness, mutation rate, and size.

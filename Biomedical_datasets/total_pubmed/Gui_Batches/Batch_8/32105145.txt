@@ -1,0 +1,9 @@
+Many words are associated with more than a single meaning.
+Words are sometimes "ambiguous," applying to unrelated meanings, but the majority of frequent words are "polysemous" in that they apply to multiple related meanings.
+In a preregistered design that included 2 tasks, we tested adults' and 4.5- to 7-year-old children's ability to learn 4 novel polysemous words or 4 novel ambiguous words.
+Both children and adults demonstrated a polysemy over ambiguity learning advantage on each task after exposure, showing better learning of novel words with multiple related meanings than novel words with unrelated meanings.
+Stimuli in the polysemy condition were designed and then normed to guard against learners relying on a simple definition to distinguish the multiple target meanings for each word from foils.
+We retested available participants after a week-long delay without providing additional exposure and found that adults' performance remained strong in the polysemy condition in 1 task, and children's performance remained strong in the polysemy condition in both tasks.
+We conclude that participants are adept at learning polysemous words that vary along multiple dimensions.
+Current results are consistent with the idea that ambiguous meanings of a word compete, but polysemous meanings instead reinforce one another.
+(PsycInfo Database Record (c) 2021 APA, all rights reserved).

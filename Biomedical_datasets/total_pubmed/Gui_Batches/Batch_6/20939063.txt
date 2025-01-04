@@ -1,0 +1,11 @@
+Osteoblasts play a critical role in the maintenance of bone mass through bone formation and regulation of bone resorption.
+Targeted expression of a constitutively active engineered G(i)-coupled G protein-coupled receptor (GPCR) to osteoblasts in vivo leads to severe osteopenia.
+However, little is known about the role of endogenous receptor-mediated G(i) signaling in regulating osteoblast function.
+In this study, we investigated the skeletal effects of blocking G(i)-coupled signaling in osteoblasts in vivo.
+This was accomplished by transgenic expression of the catalytic subunit of pertussis toxin (PTX) under control of the collagen Iα 2.3-kb promoter.
+These mice, designated Col1(2.3)(+)/PTX(+), showed increased cortical thickness at the femoral midshaft at 12 weeks of age.
+This correlated with increased periosteal bone formation associated with expanded mineralizing surface observed in 8-week-old mice of both genders.
+The cancellous bone phenotype of the Col1(2.3)(+)/PTX(+) mice was sexually dimorphic, with increases in fractional bone volume at the distal femur seen only in females.
+Similarly, while cancellous bone-formation rates were unchanged in males, they could not be quantified for female Col1(2.3)(+)/PTX(+) mice owing to the disorganized nature of the labeling pattern, which was consistent with rapid formation of woven bone.
+Alterations in osteoclast activity did not appear to participate in the phenotype.
+These data demonstrate that G(i)-coupled signaling by GPCRs endogenous to osteoblasts plays a complex role in the regulation of bone formation in a manner that is dependent on both gender and the anatomic site within bone.

@@ -1,0 +1,9 @@
+Disentangling the influence of environmental drivers on community assembly is important to understand how multiple processes influence biodiversity patterns and can inform understanding of ecological responses to climate change.
+Phylogenetic Community Structure (PCS) is increasingly used in community assembly studies to incorporate evolutionary perspectives and as a proxy for trait (dis)similarity within communities.
+Studies often assume a stationary relationship between PCS and climate, though few studies have tested this assumption over long time periods with concurrent community data.
+We estimated two PCS metrics-Nearest Taxon Index (NTI) and Net Relatedness index (NRI)-of fossil pollen assemblages of Angiosperms in eastern North America over the last 21 ka BP at 1 ka intervals.
+We analyzed spatiotemporal relationships between PCS and seven climate variables, evaluated the potential impact of deglaciation on PCS, and tested for the stability of climate-PCS relationships through time.
+The broad scale geographic patterns of PCS remained largely stable across time, with overdispersion tending to be most prominent in the central and southern portion of the study area and clustering dominating at the longitudinal extremes.
+Most importantly, we found that significant relationships between climate variables and PCS (slope) were not constant as climate changed during the last deglaciation and new ice-free regions were colonized.
+We also found weak, but significant relationships between both PCS metrics (i.e., NTI and NRI) and climate and time-since-deglaciation that also varied through time.
+Overall, our results suggest that (1) PCS of fossil Angiosperm assemblages during the last 21ka BP have had largely constant spatial patterns, but (2) temporal variability in the relationships between PCS and climate brings into question their usefulness in predictive modeling of community assembly.

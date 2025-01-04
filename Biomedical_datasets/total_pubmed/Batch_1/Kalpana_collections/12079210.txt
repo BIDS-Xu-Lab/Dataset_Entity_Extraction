@@ -1,0 +1,8 @@
+The potent immunomodulatory, antiproliferative and antiviral properties of interferons (IFNs), together with their availability in large amounts thanks to the recombinant DNA technique, have resulted in their widespread clinical use in a variety of viral and nonviral proliferative disorders.
+In dermato-oncology, IFNs have been used primarily in melanoma, but also in nonmelanoma skin cancer, such as squamous and basal cell carcinomas, Kaposi sarcomas and lymphomas.
+Trials with IFNs have been performed in patients with melanoma in an adjuvant setting (stage II and III) and in metastatic disease (stage IV).
+While the response rates with IFNs as single agents in stage IV disease usually do not exceed 15%, the use of adjuvant IFNs has been claimed to increase disease-free survival (stage II), or even overall survival (stage III), in low- or high-dose regimens, respectively; the latter, however, involved numerous side-effects and were beset with lack of compliance and acceptance, as well as being very costly.
+Pegylated IFN (PEG-IFN) is a form of recombinant human IFN that has been chemically modified by the covalent attachment of a branched metoxpolyethylene glycol moiety.
+Pharmacogenetic and pharmacodynamic data obtained in animal and in phase I studies have indicated that PEG-IFN injected once a week has the potential to be superior in efficacy to human IFN injected three times a week.
+The safety profiles of PEG-IFN and IFN are comparable in healthy volunteers and in chronic hepatitis C (CHC) patients.
+PEG-IFN is currently being evaluated for the treatment of CHC, renal cell carcinoma, chronic myelogenous leukaemia, and malignant melanoma, the last in both stage IV and stage III disease.

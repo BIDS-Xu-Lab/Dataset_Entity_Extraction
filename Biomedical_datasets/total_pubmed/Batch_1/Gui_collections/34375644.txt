@@ -1,0 +1,11 @@
+An inherited deficiency of arylsulfatase A (ASA) causes the lysosomal storage disease metachromatic leukodystrophy (MLD) characterized by massive intralysosomal storage of the acidic glycosphingolipid sulfatide and progressive demyelination.
+Lyso-sulfatide, which differs from sulfatide by the lack of the N-linked fatty acid, also accumulates in MLD and is considered a key driver of pathology although its concentrations are far below sulfatide levels.
+However, the metabolic origin of lyso-sulfatide is unknown.
+We show here that ASA-deficient murine macrophages and microglial cells express an endo-N-deacylase that cleaves the N-linked fatty acid from sulfatide.
+An ASA-deficient astrocytoma cell line devoid of this activity was used to identify the enzyme by overexpressing 13 deacylases with potentially matching substrate specificities.
+Hydrolysis of sulfatide was detected only in cells overexpressing the enzyme fatty acid amide hydrolase (FAAH).
+A cell-free assay with recombinant FAAH confirmed the novel role of this enzyme in sulfatide hydrolysis.
+Consistent with the in vitro data, deletion of FAAH lowered lyso-sulfatide levels in a mouse model of MLD.
+Regardless of the established cytotoxicity of lyso-sulfatide and the anti-inflammatory effects of FAAH inhibition seen in mouse models of several neurological diseases, genetic inactivation of FAAH did not mitigate, but rather exacerbated the disease phenotype of MLD mice.
+This unexpected finding was reflected by worsening of rotarod performance, increase of anxiety-related exploratory activity, aggravation of peripheral neuropathy, and reduced life expectancy.
+Thus, we conclude that FAAH has a protective function in MLD and may represent a novel therapeutic target for treatment of this fatal condition.

@@ -1,0 +1,5 @@
+Medical three-dimensional (3D) printing has expanded dramatically over the past three decades with growth in both facility adoption and the variety of medical applications.
+Consideration for each step required to create accurate 3D printed models from medical imaging data impacts patient care and management.
+In this paper, a writing group representing the Radiological Society of North America Special Interest Group on 3D Printing (SIG) provides recommendations that have been vetted and voted on by the SIG active membership.
+This body of work includes appropriate clinical use of anatomic models 3D printed for diagnostic use in the care of patients with specific medical conditions.
+The recommendations provide guidance for approaches and tools in medical 3D printing, from image acquisition, segmentation of the desired anatomy intended for 3D printing, creation of a 3D-printable model, and post-processing of 3D printed anatomic models for patient care.

@@ -1,0 +1,6 @@
+In order to further assess the feasibility of monitoring the chlorophyll fluorescence parameter Fv/Fm in compact corn by hyperspectral remote sensing data, in the present study, hyperspectral vegetation indices from in-situ remote sensing measurements were utilized to monitor the chlorophyll fluorescence parameter Fv/Fm measured in the compact corn experiment.
+The relationships were analyzed between hyperspectral vegetation indices and Fv/Fm, and the monitoring models were established for Fv/Fm in the whole growth stages of compact corn.
+The results indicated that Fv/Fm was significantly correlated to the hyperspectral vegetation indices.
+Among them, structure-sensitive pigment index (SIPI) was the most sensitive remote sensing variable for monitoring Fv/Fm with correlation coefficient (r) of 0.88.
+The monitoring model of Fv/Fm was established on the base of SIPI, and the determination coefficients (r2) and the root mean square errors (RMSE) were 0.8126 and 0.082 respectively.
+The overall results suggest that hyperspectral vegetation indices can be potential indicators to monitor Fv/Fm during growth stages of compact corn.

@@ -1,0 +1,5 @@
+The transfer regions of different conjugative plasmids show significant similarities in the genetic organization and in the amino acid sequence of some gene products, especially of proteins from the traG or trbB family.
+These similarities are also evident on the level of the nucleotide sequences.
+On the basis of conserved DNA regions we designed degenerate PCR primer pairs to detect specifically tra regions within a collection of bacterial clones isolated from an agricultural soil.
+Most of the potential transfer-proficient indigenous bacterial isolates were able to mobilize a derivative of the nonconjugative IncQ plasmid RSF1010 into recipient strains.
+With the help of the primers it should be possible to evaluate the genetic potential for horizontal gene transfer carried out by conjugative plasmids.

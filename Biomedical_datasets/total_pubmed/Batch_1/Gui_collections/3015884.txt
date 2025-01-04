@@ -1,0 +1,7 @@
+[APH(2")] enzyme from the Streptococcus faecalis plasmid pIP800 was cloned in Escherichia coli.
+A single protein with an apparent molecular weight of 56,000 was specified by this cloned determinant as detected in minicell experiments.
+Nucleotide sequence analysis revealed the presence of an open reading frame capable of specifying a protein of 479 amino acids and with a molecular weight of 56,850.
+The deduced amino acid sequence of the bifunctional AAC(6')-APH(2") gene product possessed two regions of homology with other sequenced resistance proteins.
+The N-terminal region contained a sequence that was homologous to the chloramphenicol acetyltransferase of Bacillus pumilus, and the C-terminal region contained a sequence homologous to the aminoglycoside phosphotransferase of Streptomyces fradiae.
+Subcloning experiments were performed with the AAC(6')-APH(2") resistance determinant, and it was possible to obtain gene segments independently specifying the acetyltransferase and phosphotransferase activities.
+These data suggest that the gene specifying the AAC(6')-APH(2") resistance enzyme arose as a result of a gene fusion.

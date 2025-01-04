@@ -1,0 +1,12 @@
+Background Transcatheter aortic valve replacement (TAVR) has solidified the importance of a heart team and revolutionized patient selection for surgical aortic valve replacement (SAVR).
+It is unknown if hospital ability to offer TAVR impacts SAVR outcomes.
+We investigated outcomes after SAVR between TAVR and non-TAVR centers.
+Methods and Results Hospitalizations of patients aged ≥50 years, undergoing elective SAVR between January 2012 and September 2015, in the National Readmission Database (NRD) were included.
+Multivariable logistic, linear, and generalized logistic regression models were used to adjust for patient and hospital characteristics and estimate association between undergoing SAVR at a TAVR center, compared with a non-TAVR center.
+The association between TAVR volumes and these outcomes were also assessed.
+SAVR hospitalizations (n = 32 198) were identified; 22 066 (69%) at TAVR and 10 132 (31%) at non-TAVR centers.
+SAVRs at TAVR centers had lower odds of inpatient mortality (odds ratio 0.67, 95% CI 0.55-0.82) and discharge to skilled nursing facility (odds ratio 0.92, 95% CI 0.85-0.99), compared with non-TAVR centers.
+There was no difference in LOS (change in estimate -0.09, 95% CI -0.26 to 0.08) or 30-day re-admission (odds ratio 0.95, 95% CI 0.88-1.03).
+SAVRs performed at the highest TAVR volume centers had the lowest inpatient mortality, compared with non-TAVR centers (odds ratio 0.43 95% CI 0.29-0.63).
+Conclusions Patients undergoing SAVR at TAVR centers are more likely to survive and have better discharge disposition than patients undergoing SAVR at non-TAVR centers.
+Whether this represents benefits of a heart-team approach to care or differences in patient selection for SAVR when TAVR is unavailable requires further study.

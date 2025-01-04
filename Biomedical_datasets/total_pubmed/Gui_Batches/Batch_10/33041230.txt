@@ -1,0 +1,11 @@
+The aim of this work was to analyze the exposure rates measured in the proximity of patients who underwent prostate low-dose-rate brachytherapy with I-125 implant.
+Effective doses to relatives and to population were computed to estimate the time to reach radioprotection dose constraints.
+Measurements were obtained from 180 patients, whereas the body mass index was calculated and reported for 77 patients.
+The day after the implant, K˙ measurements were conducted at various skin distances and positions and converted to effective doses.
+A theoretical model was developed to estimate effective doses from total implanted activity.
+The latter was approximated with a 10-mL vial inside the patient.
+The K˙ measurements showed a low correlation with the total implanted activity, albeit an increasing trend of K˙ was observed on increasing the activity.
+A stronger correlation was found between body mass index and K˙ measurements.
+The effective dose to population is in general lower than dose constraints as well as the effective doses to relatives, with the exception of children and pregnant women, who command special precautions.
+We report differences between the experimental model- and theoretical model-based dose evaluation together with their comparison with previous studies found in literature.
+Based on the K˙ measurements and the results of the present analysis, it is possible to provide the patient with radiation safety instructions specifically tailored to his relatives' habits and working environment.

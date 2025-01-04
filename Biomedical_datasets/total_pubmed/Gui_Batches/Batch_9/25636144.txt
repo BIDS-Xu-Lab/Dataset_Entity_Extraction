@@ -1,0 +1,7 @@
+Novel oral anticoagulants (NOACs) including apixaban, dabigatran and rivaroxaban have been approved by international regulatory agencies to prevent venous thromboembolism as well as treat atrial fibrillation and venous thromboembolism in individuals with chronic kidney disease (CKD).
+However, alterations in their metabolism in the setting of CKD may impact their efficacy and lead to an increased risk of bleeding.
+This review summarizes the current literature on the efficacy and safety of these agents in individuals with moderate CKD.
+In clinical trials, the use of the NOACs in patients with moderate CKD has demonstrated efficacy and safety similar to those seen with vitamin K antagonists.
+However, no universal reversal agent for the anticoagulant effect of the NOACs exists in the setting of bleeding.
+Limited data have demonstrated that hemodialysis has been effectively used to aid in reversing the effects of dabigatran, and the use of prothrombin complex concentrate has also been used for serious and major adverse bleeding events with some success.
+As the use of the NOACs in patients with CKD increases, it will be important to monitor their safety, and clinicians who prescribe them should carefully monitor kidney function and recognize the potential for adverse effects.

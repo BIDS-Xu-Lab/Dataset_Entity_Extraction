@@ -1,0 +1,8 @@
+Boron (B) is an essential plant micronutrient that is toxic at higher levels.
+NIP5;1 is a boric acid channel required for B uptake and growth under B deficiency.
+Accumulation of the NIP5;1 transcript is upregulated under B deficiency in Arabidopsis thaliana roots.
+To elucidate the mechanism of regulation, the 5' untranslated region (UTR) of NIP5;1 was tested for its ability to confer B-dependent regulation using β-glucuronidase and green fluorescent protein as reporters.
+This analysis showed that the 5' UTR was involved in NIP5;1 transcript accumulation in response to B conditions.
+We also found that high-B conditions trigger NIP5;1 mRNA degradation and that the sequence from +182 to +200 bp in the 5' UTR is required for this mRNA destabilization.
+In the nip5;1-1 mutant background, a NIP5;1 complementation construct without the 5' UTR produced high levels of mRNA accumulation, increased B concentrations in tissues, and reduced growth under high-B conditions.
+These data suggest that the 5' UTR controls B-dependent NIP5;1 mRNA degradation and that NIP5;1 mRNA degradation is important for plant acclimation to high-B conditions.

@@ -1,0 +1,15 @@
+Large-scale generic studies offer detailed information on potential risk factors for refractive error across the life course, but ophthalmic examination in such cases to determine the refractive error phenotype is challenging and costly.
+Thus, refractive status is commonly assigned using questionnaires.
+In a population survey, often only a few condition-specific self-reported questions can be included, so the questions used must be effective in ruling in those who have the trait of interest and ruling out those who do not.
+To determine the accuracy of identification of refractive status using self-reported age at and/or reason for first use of glasses or contact lenses (optical correction).
+The UK Biobank study, a cross-sectional epidemiologic study, included 117 278 participants aged 40 to 69 years in 6 regional centers in England and Wales.
+Data for the present study were assessed from June 2009 to July 2010.
+Spherical equivalent in the more extreme eye was used to categorize myopia (-1.00 diopter [D] or more extreme) and hypermetropia (+1.00 D or more extreme).
+Sensitivity and specificity of the reason for optical correction were assessed using autorefraction as the gold standard.
+Receiver operating characteristic curves assessed the accuracy of self-reported age at first use of optical correction and incremental improvement with addition of the reason.
+Of the 95 240 participants who reported using optical correction (55.6% female; mean [SD] age, 57.7 [7.5] years), 92 121 (96.7%) provided their age at first use and 93 156 (97.8%) provided the reason.
+For myopia, sensitivity of the reason for optical correction was 89.1% (95% CI, 88.7%-89.4%), specificity was 83.7% (95% CI, 83.4%-84.0%), and positive and negative predictive values were 72.7% (95% CI, 72.2%-73.1%) and 94.0% (95% CI, 93.8%-94.2%), respectively.
+The area under the curve was 0.829 (95% CI, 0.826-0.831) and improved to 0.928 (95% CI, 0.926-0.930) with combined information.
+By contrast, self-report of the reason for optical correction of hypermetropia had low sensitivity (38.1%; 95% CI, 37.6%-38.6%), and the area under the curve with combined information was 0.713 (95% CI, 0.709-0.716).
+In combination, self-report of the reason for and age at first use of optical correction are accurate in identifying myopia.
+These findings indicate an agreed set of questions could be implemented effectively in large-scale generic population-based studies to increase opportunities for integrated research on refractive error leading to development of novel prevention or treatment strategies.

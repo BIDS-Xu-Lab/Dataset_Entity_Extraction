@@ -1,0 +1,9 @@
+Hypertrophic cardiomyopathy (HCM) represents one of the most common inherited heart diseases.
+To identify key molecules involved in the development of HCM, gene expression patterns of the heart tissue samples in HCM patients from multiple microarray and RNA-seq platforms were investigated.
+The significant genes were obtained through the intersection of two gene sets, corresponding to the identified differentially expressed genes (DEGs) within the microarray data and within the RNA-Seq data.
+Those genes were further ranked using minimum-Redundancy Maximum-Relevance feature selection algorithm.
+Moreover, the genes were assessed by three different machine learning methods for classification, including support vector machines, random forest and k-Nearest Neighbor.
+Outstanding results were achieved by taking exclusively the top eight genes of the ranking into consideration.
+Since the eight genes were identified as candidate HCM hallmark genes, the interactions between them and known HCM disease genes were explored through the protein-protein interaction (PPI) network.
+Most candidate HCM hallmark genes were found to have direct or indirect interactions with known HCM diseases genes in the PPI network, particularly the hub genes JAK2 and GADD45A.
+This study highlights the transcriptomic data integration, in combination with machine learning methods, in providing insight into the key hallmark genes in the genetic etiology of HCM.

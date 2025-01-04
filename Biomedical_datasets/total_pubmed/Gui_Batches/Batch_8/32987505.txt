@@ -1,0 +1,7 @@
+MicroRNAs are known to regulate gene expression either by repressing translation or by directing sequence-specific degradation of target mRNAs, and are therefore considered to be key regulators of gene expression.
+A gene-regulatory pathway involving heterochronic genes controls the temporal pattern of Caenorhabditis elegans postembryonic cell lineages.
+Based on experimental data, we propose and analyze a mathematical model of a gene-regulatory module in this nematode involving two heterochronic genes, lin-14 and lin-28, which are both regulated by lin-4, encoding a microRNA.
+The conditions under which the model experiences bifurcations are investigated.
+We determine the parameter regimes for which the system exhibits monostability and bistability, the latter associated with a biological switch.
+We observe in particular that bistability occurs without co-operativity, in keeping with knowledge about the regulatory behaviour of lin-14 and lin-28.
+The analytical results are confirmed by numerical simulations that illustrate how the microRNA lin-4 plays a crucial role in determining of the qualitative dynamics of the model.

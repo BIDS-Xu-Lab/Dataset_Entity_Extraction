@@ -1,0 +1,4 @@
+With increasing mpox cases in Maricopa County, Arizona, the county's health department launched a survey on July 11, 2022, to gather eligibility and contact data and provide clinic information to those interested in JYNNEOS as postexposure prophylaxis (PEP) or expanded postexposure prophylaxis(PEP++).
+Survey data were matched to case and vaccination data.
+Overall, 343 of the 513 respondents (66.9%) who reported close contact with an mpox case patient received PEP and 1712 of the 3379 respondents (50.7%) who were unsure of their contact status received PEP++.
+This outreach intervention connected potential close contacts unknown to MCDPH with PEP or PEP++.

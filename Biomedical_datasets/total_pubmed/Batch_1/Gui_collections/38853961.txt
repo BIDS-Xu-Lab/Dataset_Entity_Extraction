@@ -1,0 +1,6 @@
+Polygenic scores (PGS) have transformed human genetic research and have multiple potential clinical applications, including risk stratification for disease prevention and prediction of treatment response.
+Here, we present a series of recent enhancements to the PGS Catalog (www.PGSCatalog.org), the largest findable, accessible, interoperable, and reusable (FAIR) repository of PGS.
+These include expansions in data content and ancestral diversity as well as the addition of new features.
+We further present the PGS Catalog Calculator (pgsc_calc, https://github.com/PGScatalog/pgsc_calc), an open-source, scalable and portable pipeline to reproducibly calculate PGS that securely democratizes equitable PGS applications by implementing genetic ancestry estimation and score normalization using reference data.
+With the PGS Catalog & calculator users can now quantify an individual's genetic predisposition for hundreds of common diseases and clinically relevant traits.
+Taken together, these updates and tools facilitate the next generation of PGS, thus lowering barriers to the clinical studies necessary to identify where PGS may be integrated into clinical practice.

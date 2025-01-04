@@ -1,0 +1,6 @@
+The subfamily Phylinae (Heteroptera: Miridae) is one of the largest subfamilies of plant bugs and in the most recent classification comprised six tribes: Pilophorini, Hallodapini, Auricillocorini, Phylini, Pronotocrepini, and Leucophoropterini.
+Phylogenetic analyses of the subfamily using dynamic homology (POY), parsimony (TNT), and model-based (RAxML) methods are presented.
+A dataset comprising both morphological and molecular characters (16S, 18S, 28S, and COI-COII) was assembled for taxon samples of 164 ingroup and nine outgroup taxa.
+A reclassification of the subfamily based on the POY analysis is presented, recognizing nine tribes and nine subtribes.
+The Auricillocorini is synonymized with the Hallodapini and the Pronotocrepini with the Cremnorrhini; the Phylini was found to be polyphyletic and is redefined; the Semiini and Nasocorini are resurrected and redefined; and the Decomiini and Coatonocapsiniare presented as new tribes.
+The Hallodapini, rather than the Pilophorini, was found to be the sister-group to the remaining Phylinae.

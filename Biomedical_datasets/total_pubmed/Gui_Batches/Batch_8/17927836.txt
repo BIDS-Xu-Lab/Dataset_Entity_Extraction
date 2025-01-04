@@ -1,0 +1,11 @@
+The Australian government sponsored trials aimed at addressing problems in after hours primary medical care service use in five different parts of the country with different after hours care problems.
+The study's objective was to determine in four of the five trials where telephone triage was the sole innovation, if there was a reduction in emergency GP after hours service utilization (GP first call-out) as measured in Medicare Benefits Schedule claim data.
+Monthly MBS claim data in both the pre-trial and trial periods was monitored over a 3-year period in each trial area as well as in a national sample outside the trial areas (National comparator).
+Poisson regression analysis was used in analysis.
+There was significant reduction in first call out MBS claims in three of the four study areas where stand-alone call centre services existed.
+These were the Statewide Call Centre in both its Metropolitan and Non-metropolitan areas in which it operated - Relative Risk (RR) = 0.87 (95% Confidence interval: 0.86 - 0.88) and 0.60 (95% CI: 0.54 - 0.68) respectively.
+There was also a reduction in the Regional Call Centre in the non-Metropolitan area in which it operated (RR = 0.46 (95% CI: 0.35 - 0.61) though a small increase in its Metropolitan area (RR = 1.11 (95% CI: 1.06 - 1.17).
+For the two telephone triage services embedded in existing organisations, there was also a significant reduction for the Deputising Service - RR = 0.62 (95% CI: 0.61 - 0.64) but no change in the Local Triage centre area.
+The four telephone triage services were associated with reduced GP MBS claims for first callout after hours care in most study areas.
+It is possible that other factors could be responsible for some of this reduction, for example, MBS submitted claims for after hours GP services being reclassified from 'after hours' to 'in hours'.
+The goals of stand-alone call centres which are aimed principally at meeting population needs rather than managing demand may be being met only in part.

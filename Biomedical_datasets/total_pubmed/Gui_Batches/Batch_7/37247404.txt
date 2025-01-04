@@ -1,0 +1,11 @@
+potentially harmful polypharmacy is very common in older people living in aged care facilities.
+To date, there have been no double-blind randomised controlled studies of deprescribing multiple medications.
+three-arm (open intervention, blinded intervention and blinded control) randomised controlled trial enrolling people aged over 65 years (n = 303, noting pre-specified recruitment target of n = 954) living in residential aged care facilities.
+The blinded groups had medications targeted for deprescribing encapsulated while the medicines were deprescribed (blind intervention) or continued (blind control).
+A third open intervention arm had unblinded deprescribing of targeted medications.
+participants were 76% female with mean age 85.0 ± 7.5 years.
+Deprescribing was associated with a significant reduction in the total number of medicines used per participant over 12 months in both intervention groups (blind intervention group -2.7 medicines, 95% CI -3.5, -1.9, and open intervention group -2.3 medicines; 95% CI -3.1, -1.4) compared with the control group (-0.3, 95% CI -1.0, 0.4, P = 0.053).
+Deprescribing regular medicines was not associated with any significant increase in the number of 'when required' medicines administered.
+There were no significant differences in mortality in the blind intervention group (HR 0.93, 95% CI 0.50, 1.73, P = 0.83) or the open intervention group (HR 1.47, 95% CI 0.83, 2.61, P = 0.19) compared to the control group.
+deprescribing of two to three medicines per person was achieved with protocol-based deprescribing during this study.
+Pre-specified recruitment targets were not met, so the impact of deprescribing on survival and other clinical outcomes remains uncertain.

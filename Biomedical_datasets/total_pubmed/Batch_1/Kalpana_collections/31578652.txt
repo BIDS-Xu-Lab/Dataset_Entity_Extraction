@@ -1,0 +1,10 @@
+Lead is a known risk factor for amyotrophic lateral sclerosis (ALS).
+However, the results of studies exploring the relationship between lead exposure and the occurrence of ALS are inconsistent.
+To clarify this issue, we conducted a systematic review and meta-analysis of relevant published articles on the relationship between lead exposure and the occurrence of ALS.
+We searched the PubMed, MEDLINE, Embase, and Science Direct databases for relevant publications.
+The quality of the articles was judged according to the Newcastle-Ottawa scale, and the meta-analysis was conducted using a random effect model.
+A total of 583 items were retrieved of which 11 case-control studies were selected.
+The ratio of maximal/minimal lead exposure yielded a pooled odds ratio (OR) of 1.46 (95% confidence interval (CI) 1.16-1.83) with moderate heterogeneity (I2 = 51.8%; p = 0.019).
+Subgroup and sensitivity analyses showed stable results.
+There was evidence of publication bias, but the recalculated OR after employing the "fill and trim" method was 1.28 (95% CI 1.02-1.63).
+These results indicated that environmental/occupational lead exposure was positively proportional to the risk of ALS.

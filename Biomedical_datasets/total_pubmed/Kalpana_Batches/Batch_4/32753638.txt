@@ -1,0 +1,9 @@
+Individuals with spinal cord injury (SCI) develop systemic physiological changes that could increase the risk of severe evolution of coronavirus disease 2019 (COVID-19) and result in atypical clinical features of COVID-19 with possible delay in both diagnosis and treatment.
+We evaluated differences in clinical features and evolution of COVID-19 between people with SCI and able-bodied individuals.
+The study was conducted in an Italian inpatient rehabilitation referral center for individuals with SCI during the lockdown for the COVID-19 pandemic.
+We compared clinical information between patients with SCI and able-bodied healthcare workers of the same center who tested positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the nasopharyngeal swab polymerase chain reaction.
+Overall, 15 out of the 25 SCI patients admitted to the center and 17 out of the 69 healthcare workers tested positive for SARS-CoV-2.
+Patients with SCI exhibited a significantly more advanced age and a higher prevalence of comorbidities.
+Nevertheless, no significant differences in clinical expression of COVID-19 and treatment strategies were observed between the two groups.
+All hospitalized subjects were treated in nonintensive care units and no deaths occurred in either group.
+This study does not support the supposed notion that COVID-19 could exhibit atypical clinical features or a worse evolution in the frail population of people with SCI.

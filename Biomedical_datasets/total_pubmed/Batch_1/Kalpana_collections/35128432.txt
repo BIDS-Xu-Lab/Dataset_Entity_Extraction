@@ -1,0 +1,19 @@
+Endometriosis is a chronic neuroinflammatory pain condition affecting ~180 million women worldwide.
+Surgical removal or hormonal suppression of endometriosis lesions only relieves pain symptoms in some women and symptomatic relapse following treatment is common.
+Identifying factors that contribute to pain is key to developing new therapies.
+We collected peritoneal fluid samples and clinical data from a cohort of women receiving diagnostic laparoscopy for suspected endometriosis (n = 52).
+Peritoneal fluid immune cells were analysed by flow cytometry and data compared with pain scores determined using the pain domain of the Endometriosis Health Profile Questionnaire (EHP-30) in order to investigate the association between peritoneal immune cells and pain symptoms.
+Pain scores were not different between women with or without endometriosis, nor did they differ according to disease stage; consistent with a poor association between disease presentation and pain symptoms.
+However, linear regression and correlation analysis demonstrated that peritoneal macrophage abundance correlated with the severity of pelvic pain.
+CD14high peritoneal macrophages negatively correlated with pain scores whereas CD14low peritoneal macrophages were positively correlated, independent of diagnostic outcome at laparoscopy.
+Stratification by pain subtype, rather than endometriosis diagnosis, resulted in the most robust correlation between pain and macrophage adundance.
+Pain score strongly correlated with CD14high (P = 0.007) and CD14low (P = 0.008) macrophages in patients with non-menstrual pain and also in patients who reported dysmennorhea (CD14high P = 0.021, CD14low P = 0.019) or dysparunia (CD14high P = 0.027, CD14low P = 0.031).
+These results provide new insight into the association between peritoneal macrophages and pelvic pain which may aid the identification of future therapeutic targets.
+Endometriosis is a common condition where cells similar to those that line the womb are found elsewhere in the body.
+It is associated with inflammation and pain in the pelvis and affects ~180 million women worldwide.
+Current treatments are not effective for all patients and we, therefore, need to understand what causes pain in order to develop new treatments.
+We investigated the types of immune cells present within the pelvis of women undergoing investigation for suspected endometriosis.
+Disease diagnosis and stage (I-IV) was recorded along with pain score determined by questionnaire.
+We characterised the immune cells present and compared them to disease stage and pain score.
+We found that pelvic pain was linked to the abundance of immune cells but, surprisingly, not to disease stage.
+These findings suggest that immune cells are closely associated with pain severity in endometriosis and may be good targets for future endometriosis treatments.

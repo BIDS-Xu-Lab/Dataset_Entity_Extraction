@@ -1,0 +1,5 @@
+Phonology and syntax represent two layers of sound combination central to language's expressive power.
+Comparative animal studies represent one approach to understand the origins of these combinatorial layers.
+Traditionally, phonology, where meaningless sounds form words, has been considered a simpler combination than syntax, and thus should be more common in animals.
+A linguistically informed review of animal call sequences demonstrates that phonology in animal vocal systems is rare, whereas syntax is more widespread.
+In the light of this and the absence of phonology in some languages, we hypothesize that syntax, present in all languages, evolved before phonology.

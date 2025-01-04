@@ -1,0 +1,2 @@
+The potential utility of tumour-selective 5-fluorouracil treatment using attenuated Salmonella serovar typhimurium recombinant for cytosine deaminase (TAPET-CD) has been documented in experimental settings.
+The present data demonstrate that in vivo (19)F-magnetic resonance spectroscopy measurements allow the outcome prediction of this prokaryotic-based therapy, demonstrating the necessity of non-invasive real-time imaging techniques for treatment monitoring.

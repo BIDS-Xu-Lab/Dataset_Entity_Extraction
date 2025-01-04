@@ -1,0 +1,5 @@
+The effects of GTP gamma S on glucose transport activity reconstituted from adipocyte membrane fractions were studied in order to test the hypothesis that intrinsic activity changes of the insulin-sensitive glucose transporter may be mediated by guanine nucleotide-dependent mechanisms.
+GTP gamma S and GTP inhibited reconstituted glucose transport activity by 50% in membrane fractions from insulin-treated cells in a concentration-dependent manner; no inhibitory effect was observed in membrane fractions obtained from basal cells.
+GDP, GMP and guanosine were less effective than GTP, whereas the adenine nucleotides ATP gamma S and AMP failed to reduce the reconstituted transport activity.
+The data indicate that guanine nucleotides may modulate the activity of the adipocyte glucose transporter.
+Since the effect is dependent on treatment of cells with insulin, the hormone appears to induce a specific functional alteration of the glucose transporter.

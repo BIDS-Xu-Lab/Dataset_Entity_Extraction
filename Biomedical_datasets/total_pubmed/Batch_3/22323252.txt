@@ -1,0 +1,7 @@
+The development of melanoma and its precursor lesions has been associated with intense intermittent sun exposure and the deleterious effects of ultraviolet (UV) light (1).
+This is supported by epidemiologic data as well as several animal models in which melanoma could be induced or promoted by UV irradiation (Table 1).
+It remains to be elucidated what changes UV light induces in the human pigment cells at the molecular level that trigger malignant transformation.
+Experimental animal models established to date have helped us to understand the etiology and pathobiology of melanoma, but they do not necessarily mirror the biology of human melanoma development.
+The skin morphology in animals differs substantially from that in humans, and melanocytes show a different distribution pattern.
+In mice, melanocytes are mainly located in the hair follicles, whereas in humans, melanocytes are found epidermally at the basement membrane zone.
+The number of cell layers of the epidermis is, for the most part, markedly less in mice than in humans (Fig. 1).

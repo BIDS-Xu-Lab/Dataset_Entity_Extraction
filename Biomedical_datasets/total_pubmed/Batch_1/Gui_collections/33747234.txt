@@ -1,0 +1,7 @@
+Chemical modifications have been extensively used for therapeutic oligonucleotides because they strongly enhance the stability against nucleases, binding affinity to the targets, and efficacy.
+We previously reported that oligonucleotides modified with an N-methylguanidine-bridged nucleic acid (GuNA[Me]) bearing the thymine (T) nucleobase show excellent biophysical properties for applications in antisense technology.
+In this paper, we describe the synthesis of GuNA[Me] phosphoramidites bearing other typical nucleobases including adenine (A), guanine (G), and 5-methylcytosine (mC).
+The phosphoramidites were successfully incorporated into oligonucleotides following the method previously developed for the GuNA[Me]-T-modified oligonucleotides.
+The binding affinity of the oligonucleotides modified with GuNA[Me]-A, -G, or -mC toward the complementary single-stranded DNAs or RNAs was systematically evaluated.
+All of the GuNA[Me]-modified oligonucleotides were found to have a strong affinity for RNAs.
+These data indicate that GuNA[Me] could be a useful modification for therapeutic antisense oligonucleotides.

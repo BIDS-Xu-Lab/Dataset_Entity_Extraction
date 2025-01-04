@@ -1,0 +1,11 @@
+To analyze hospitalization patterns of persons with AIDS (PWAs) in a multi-state/multi-episode continuous time duration framework.
+PWAs on Medicaid identified through a match between the state's AIDS Registry and Medicaid eligibility files; hospital admission and discharge dates identified through Medicaid claims.
+Using a Weibull event history framework, we model the hazard of transition between hospitalized and community spells, incorporating the competing risk of death in each of these states.
+Simulations are used to translate these parameters into readily interpretable estimates of length of stay, the probability that a hospitalization will end in death, and the probability that a nonhospitalized person will be hospitalized within 90 days.
+In multivariate analyses, participation in a Medicaid waiver program offering case management and home care was associated with hospital stays 1.3 days shorter than for nonparticipants.
+African American race and Hispanic ethnicity were associated with hospital stays 1.2 days and 1.0 day longer than for non-Hispanic whites; African Americans also experienced more frequent hospital admissions.
+Residents of the high-HIV-prevalence area of the state had more frequent admissions and stays two days longer than those residing elsewhere in the state.
+Older PWAs experienced less frequent hospital admissions but longer stays, with hospitalizations of 55-year-olds lasting 8.25 days longer than those of 25-year-olds.
+Much socioeconomic and geographic variability exists both in the incidence and in the duration of hospitalization among persons with AIDS in New Jersey.
+Event history analysis provides a useful statistical framework for analysis of these variations, deals appropriately with data in which duration of observation varies from individual to individual, and permits the competing risk of death to be incorporated into the model.
+Transition models of this type have broad applicability in modeling the risk and duration of hospitalization in chronic illnesses.

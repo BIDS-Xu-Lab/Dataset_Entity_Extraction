@@ -1,0 +1,6 @@
+Reduced cyanide-bound cytochrome oxidase in the absence of any oxygen gives a resonance Raman spectrum consistent with that expected for low-spin heme a.
+Thus, in contrast to prior reports, ligand binding of cytochrome a3 to form a six-coordinate low-spin ferrous heme does not result in any unusual electronic structure, hydrogen bonding, environment, or conformation of the formyl group.
+It appears unlikely that there are any changes in this group in cytochrome a3 that control the ligand affinity or redox potential in physiological forms of the ferrous enzyme.
+With the use of our difference spectrometer and by appropriately selecting the laser excitation frequency, we are able to isolate spectrally cytochromes a2+, a3(2+), and a3(2+)(CN-).
+The addition of a small amount of oxygen to a preparation of the cyanide-bound reduced enzyme results in a complex with the same Raman spectrum as that previously reported to originate from the cyanide-bound reduced complex.
+The comparison between the data on the cyanide-bound reduced enzyme and the data on the CO-bound reduced enzyme illustrates that cyanide binding affects only the modes that respond to the spin state of the ferrous iron, while CO binding affects vibrational modes that respond to a pi-electron density change as well.

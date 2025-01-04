@@ -1,0 +1,9 @@
+Comparing health care parameters of acute ischemic stroke (AIS) patients with and without concurrent coronavirus disease 2019 (Covid-19, SARS-CoV-2 infection), may be helpful in terms of optimizing clinical and public health care during pandemic.
+We evaluated a nationwide administrative database of all hospitalized patients with main diagnosis of acute ischemic stroke with/without diagnosis of Covid-19 who were hospitalized during the time period from January 16th to May 15th, 2020.
+Data from a total of 1463 hospitals in Germany were included.
+We compared case numbers, treatment characteristics (intravenous thrombolysis, IVT; mechanical thrombectomy, MT; treated on an intensive care unit, stroke unit or regular ward) and in-hospital mortality of AIS with and without concurrent diagnosis of Covid-19.
+From a total of 30,864 hospitalized Covid-19 patients during the evaluation period in Germany, we identified a subgroup of 213 patients with primary diagnosis of AIS.
+Compared to the 68,700 AIS patients without Covid-19, this subgroup showed a similar rate of IVT (16.4% vs. 16.5%, p = 0.985) but a significantly lower rate of MT (3.8% vs. 7.9%, p = 0.017).
+In-hospital mortality rate was significantly higher in patients with AIS and concurrent Covid-19 compared to non-infected AIS patients (22.5% vs. 7.8%, p < 0.001).
+These nationwide data point out differences in mortality and medical treatment regime between AIS patients with and without concurrent Covid-19.
+Since the pandemic is still ongoing, these data draw attention to AIS as a less frequent but often fatal comorbidity in Covid-19 patients.

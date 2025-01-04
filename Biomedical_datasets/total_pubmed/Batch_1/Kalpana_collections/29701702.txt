@@ -1,0 +1,8 @@
+Photosynthetic species of the genus Dinophysis are obligate mixotrophs with temporary plastids (kleptoplastids) that are acquired from the ciliate Mesodinium rubrum, which feeds on cryptophytes of the Teleaulax-Plagioselmis-Geminigera clade.
+A metabolomic study of the three-species food chain Dinophysis-Mesodinium-Teleaulax was carried out using mass spectrometric analysis of extracts of batch-cultured cells of each level of that food chain.
+The main goal was to compare the metabolomic expression of Galician strains of Dinophysis acuminata and D. acuta that were subjected to different feeding regimes (well-fed and prey-limited) and feeding on two Mesodinium (Spanish and Danish) strains.
+Both Dinophysis species were able to grow while feeding on both Mesodinium strains, although differences in growth rates were observed.
+Toxin and metabolomic profiles of the two Dinophysis species were significantly different, and also varied between different feeding regimes and different prey organisms.
+Furthermore, significantly different metabolomes were expressed by a strain of D. acuminata that was feeding on different strains of the ciliate Mesodinium rubrum.
+Both species-specific metabolites and those common to D. acuminata and D. acuta were tentatively identified by screening of METLIN and Marine Natural Products Dictionary databases.
+This first metabolomic study applied to Dinophysis acuminata and D.acuta in culture establishes a basis for the chemical inventory of these species.

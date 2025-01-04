@@ -1,0 +1,9 @@
+Computerized prescreening of suspicious moles and lesions for malignancy is of great importance for assessing the need and the priority of the removal surgery.
+Detection can be done by images captured by standard cameras, which are more preferable due to low cost and availability.
+One important step in computerized evaluation is accurate detection of lesion's region, i.e., segmentation of an image into two regions as lesion and normal skin.
+In this paper, a new method based on deep neural networks is proposed for accurate extraction of a lesion region.
+The input image is preprocessed, and then, its patches are fed to a convolutional neural network.
+Local texture and global structure of the patches are processed in order to assign pixels to lesion or normal classes.
+A method for effective selection of training patches is proposed for more accurate detection of a lesion's border.
+Our results indicate that the proposed method could reach the accuracy of 98.7% and the sensitivity of 95.2% in segmentation of lesion regions over the dataset of clinical images.
+The experimental results of qualitative and quantitative evaluations demonstrate that our method can outperform other state-of-the-art algorithms exist in the literature.

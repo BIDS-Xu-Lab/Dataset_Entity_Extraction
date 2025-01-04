@@ -1,0 +1,13 @@
+Pyruvate kinase M2 (PKM2) has been shown to promote tumorigenesis by facilitating the Warburg effect and enhancing the activities of oncoproteins.
+However, this paradigm has recently been challenged by studies in which the absence of PKM2 failed to inhibit and instead accelerated tumorigenesis in mouse models.
+These results seem inconsistent with the fact that most human tumors overexpress PKM2.
+To further elucidate the role of PKM2 in tumorigenesis, we investigated the effect of PKM2 knockout in oncogenic HRAS-driven urothelial carcinoma.
+While PKM2 ablation in mouse urothelial cells did not affect tumor initiation, it impaired the growth and maintenance of HRAS-driven tumors.
+Chemical inhibition of PKM2 recapitulated these effects.
+Both conditions substantially reduced complex formation of PKM2 with STAT3, their nuclear translocation, and HIF1α- and VEGF-related angiogenesis.
+The reduction in nuclear STAT3 in the absence of PKM2 also correlated with decreased autophagy and increased apoptosis.
+Time-controlled, inducible PKM2 overexpression in simple urothelial hyperplasia did not trigger tumorigenesis, while overexpression of PKM2, but not PKM1, in nodular urothelial hyperplasia with angiogenesis strongly accelerated tumorigenesis.
+Finally, in human patients, PKM2 was overexpressed in low-grade nonmuscle-invasive and high-grade muscle-invasive bladder cancer.
+Based on these data, PKM2 is not required for tumor initiation but is essential for tumor growth and maintenance by enhancing angiogenesis and metabolic addiction.
+The PKM2-STAT3-HIF1α/VEGF signaling axis may play a critical role in bladder cancer and may serve as an actionable therapeutic target.
+Genetic manipulation and pharmacologic inhibition of PKM2 in mouse urothelial lesions highlight its essential role in promoting angiogenesis and metabolic addiction, events indispensable for tumor growth and maintenance.

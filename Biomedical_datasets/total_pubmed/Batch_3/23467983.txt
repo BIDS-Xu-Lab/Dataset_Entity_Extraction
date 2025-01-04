@@ -1,0 +1,7 @@
+Polycaprolactone (PCL) and its blended composites (chitosan, gelatin, and lecithin) are well-established biomaterials that can enrich cell growth and enable tissue engineering.
+However, their application in the recovery and proliferation of genetically modified cells has not been studied.
+In the study reported here, we fabricated PCL-biomaterial blended fiber membranes, characterized them using physicochemical techniques, and used them as templates for the growth of genetically modified HCT116-19 colon cancer cells.
+Our data show that the blended polymers are highly miscible and form homogenous electrospun fiber membranes of uniform texture.
+The aligned PCL nanofibers support robust cell growth, yielding a 2.5-fold higher proliferation rate than cells plated on standard plastic plate surfaces.
+PCL-lecithin fiber membranes yielded a 2.7-fold higher rate of proliferation, while PCL-chitosan supported a more modest growth rate (1.5-fold higher).
+Surprisingly, PCL-gelatin did not enhance cell proliferation when compared to the rate of cell growth on plastic surfaces.

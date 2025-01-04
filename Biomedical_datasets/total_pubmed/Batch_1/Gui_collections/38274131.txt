@@ -1,0 +1,10 @@
+With the global rise in type 2 diabetes, predictive modeling has become crucial for early detection, particularly in populations with low routine medical checkup profiles.
+This study aimed to develop a predictive model for type 2 diabetes using health check-up data focusing on clinical details, demographic features, biochemical markers, and diabetes knowledge.
+Data from 444 Nigerian patients were collected and analysed.
+We used 80% of this data set for training, and the remaining 20% for testing.
+Multivariable penalized logistic regression was employed to predict the disease onset, incorporating waist-hip ratio (WHR), triglycerides (TG), catalase, and atherogenic indices of plasma (AIP).
+The predictive model demonstrated high accuracy, with an area under the curve of 99% (95% CI = 97%-100%) for the training set and 94% (95% CI = 89%-99%) for the test set.
+Notably, an increase in WHR (adjusted odds ratio [AOR] = 70.35; 95% CI = 10.04-493.1, p-value < 0.001) and elevated AIP (AOR = 4.55; 95% CI = 1.48-13.95, p-value = 0.008) levels were significantly associated with a higher risk of type 2 diabetes, while higher catalase levels (AOR = 0.33; 95% CI = 0.22-0.49, p < 0.001) correlated with a decreased risk.
+In contrast, TG levels (AOR = 1.04; 95% CI = 0.40-2.71, p-value = 0.94) were not associated with the disease.
+This study emphasizes the importance of using distinct clinical and biochemical markers for early type 2 diabetes detection in Nigeria, reflecting global trends in diabetes modeling, and highlighting the need for context-specific methods.
+The development of a web application based on these results aims to facilitate the early identification of individuals at risk, potentially reducing health complications, and improving diabetes management strategies in diverse settings.

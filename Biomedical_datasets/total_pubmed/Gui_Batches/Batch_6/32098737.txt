@@ -1,0 +1,12 @@
+Tranexamic acid (TXA) has reduced blood transfusion following total hip arthroplasty (THA).
+However, non-human studies have linked TXA exposure with increased pain and decreased periarticular cell viability and cell death.
+A consecutive series of 213 THAs performed without TXA were compared to 169 THAs performed with topical TXA.
+A single surgeon using identical perioperative medical and pain control protocols performed procedures.
+Prospectively collected inpatient pain scores, time to first opioid, and opioid consumption in morphine milligram equivalents were evaluated in relation to TXA use and 10 additional covariates.
+Univariate relationships between independent and dependent variables with P ≤ .20 were entered into multivariate analysis using the General Linear Model.
+Patients who received topical TXA reported higher mean 24-hour pain scores compared to patients who did not receive TXA (P = .006).
+Patients with topical TXA requested opioids significantly sooner (means of 152 vs 246 minutes, P = .033).
+An average of 56.07 morphine milligram equivalents were consumed during the first 24 hours after post-acute care unit discharge by patients who received topical TXA compared to 31.26 by patients who did not receive TXA (P < .001).
+Topical TXA use was associated with greater early postoperative pain and opioid consumption in primary THA patients.
+Findings were supported by the magnitude of observed effects and the likelihood of clinical relevance.
+Replication and consideration of potential adverse consequences of TXA use in elective settings is encouraged.

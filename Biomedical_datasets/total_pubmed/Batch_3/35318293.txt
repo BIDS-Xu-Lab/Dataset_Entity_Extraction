@@ -1,0 +1,12 @@
+To assess factors associated with gender disparities in cataract surgery volume and evaluate how these differences have changed over time.
+Cataract surgeons in the 2012 to 2018 Medicare database.
+The association of provider gender with the number of cataract surgeries per office visit billed was assessed with negative binomial regression models, controlling for calendar year, years in practice, hospital affiliation, geographic region, rurality, density of ophthalmologists, and the national percentile of Area Deprivation Index (ADI) score for the practice location.
+There were 8480 cataract surgeons, most of whom were male (78%).
+Male surgeons worked in more deprived areas with a higher ADI (median: 40 vs 33, P < .001).
+[95% CI, 263-288], P < .001)
+[95% CI, 1484-1526], P < .001).
+In multivariate analysis, the number of cataract surgeries per office visit was greater for males compared with females in all years in the South (average incidence rate ratio 1.80), Midwest (1.50), and West (1.53), but not in the Northeast (1.16).
+The relative rate of cataract surgeries between male and female surgeons in each region did not change significantly over time from 2012 to 2018 ( P > .05 in each region).
+Gender disparities in cataract volume among male and female surgeons have remained unchanged over time from 2012 to 2018.
+The higher cataract volume among male surgeons may be explained in part by provider practice location.
+Further studies are needed to better understand and address gender disparities.

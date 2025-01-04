@@ -1,0 +1,11 @@
+To correlate the prevalence of dermatological diseases among HIV-infected patient with CD4-lymphocyte count.
+A case series study was carried out in the region of Caxias do Sul, state of Rio Grande do Sul State, Brazil.
+Data was collected by reviewing the records of HIV-infected patients admitted to a public hospital (198 patients from March 1998 to June 2002) or seen at the university outpatient clinic (40 patients from March to June 2002).
+The variables analyzed were: age, sex, CD4-lymphocyte count, viral load, and dermatological diseases.
+Statistical analyses were performed using Student's t-test, Spearman's and Chi-Square tests.
+The frequency of dermatological disease was 67.2% among hospitalized patients and 75.0% among outpatients.
+Oral candidiasis was the most prevalent dermatological disease.
+Among the hospital population, the average CD4 count was lower among patients with dermatological disease than among those with no disease (142.34 cells/mm3 vs 512.35 cells/mm3, respectively; p=0.018).
+The same phenomenon was observed in outpatient population (138.88 cells/mm3 and 336.21 cells/mm3, respectively; p=0.001).
+In both populations, a negative correlation was found between CD4 count and the total number of dermatological diseases by a patient (p=0.000, hospital population, p=0.000, outpatient population).
+Dermatological diseases are highly prevalent among HIV-infected patients and the frequency and number of these manifestations are well correlated to the patient's immune status and disease progression.

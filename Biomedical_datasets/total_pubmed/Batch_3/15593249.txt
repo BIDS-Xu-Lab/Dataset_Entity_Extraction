@@ -1,0 +1,14 @@
+To assess the feasibility and construct validity of the willingness-to-pay (WTP) technique for measuring health care preferences in families of children with juvenile idiopathic arthritis (JIA).
+Parents were asked to estimate the monthly US dollar amount they would be willing to pay to obtain for their child the following hypothetical drugs:
+ARTHRO, which guarantees complete clinical response; and NO-STOM-ACHE, a drug that eliminates gastrointestinal (GI) symptoms.
+A yes/no question was used with random assignment of the starting bids.
+Parents who agreed to pay the starting bid were then asked whether they would be willing to pay 200% and then 400% of this initial bid.
+Socioeconomic data and information on medications, disease activity, patient physical function, wellbeing, and health-related quality of life (HRQOL) were obtained.
+Sixty-two families of children with JIA were interviewed.
+GI symptoms were present in 54%, and 53% of the children had joints with active arthritis or limited range of motion.
+Four parents (7%) were unwilling to pay anything for any of the studied medications.
+The mean amount (median; mean percentage of available family income) families were willing to pay was $395 ($300; 15%) for ARTHRO and $109 ($80; 4%) for NO-STOM-ACHE.
+Correlation and regression analysis supported that, adjusted for the available family income, the WTP for ARTHRO was associated with disease activity, pain, and the HRQOL of the patients.
+After correction for the starting bids and the available family income, the WTP for NO-STOM-ACHE was associated with the patient's HRQOL, pain, and the amount of GI discomfort.
+The WTP technique is feasible and has construct validity for measuring health care preferences for children with JIA.
+Relatively large WTP estimates support a possible important negative impact of the disease on families of children with JIA.

@@ -1,0 +1,10 @@
+Bivalent epigenomic regulatory domains containing both activating histone 3 lysine 4 (H3K4me3) and repressive lysine 27 (H3K27me3) trimethylation are associated with key developmental genes.
+These bivalent domains repress transcription in the absence of differentiation signals but maintain regulatory genes in a poised state to allow for timely activation.
+Previous studies demonstrated that enhancer of zeste homolog 2 (Ezh2), a histone 3 lysine 27 (H3K27) methyltransferase, suppresses osteogenic differentiation and that inhibition of Ezh2 enhances commitment of osteoblast progenitors in vitro and bone formation in vivo.
+Here, we examined the mechanistic effects of Tazemetostat (EPZ6438), an FDA approved Ezh2 inhibitor for epithelioid sarcoma treatment, because this drug could potentially be repurposed to stimulate osteogenesis for clinical indications.
+We find that Tazemetostat reduces H3K27me3 marks in bivalent domains in enhancers required for bone formation and stimulates maturation of MC3T3 pre-osteoblasts.
+Furthermore, Tazemetostat activates bivalent genes associated with the Wingless/Integrated (WNT), Adenylyl cyclase (cAMP) and Hedgehog (Hh) signaling pathways based on transcriptomic (RNA-seq) and epigenomic (ChIP-seq) data.
+Functional analyses using selective pathway inhibitors and silencing RNAs demonstrate that the WNT and Hh pathways modulate osteogenic differentiation after Ezh2 inhibition.
+Strikingly, we show that loss of the Hh-responsive transcriptional regulator Gli1, but not Gli2, synergizes with Tazemetostat to accelerate osteoblast differentiation.
+These studies establish epigenetic cooperativity of Ezh2, Hh-Gli1 signaling, and bivalent regulatory genes in suppressing osteogenesis.
+Our findings may have important translational ramifications for anabolic applications requiring bone mass accrual and/or reverse bone loss.

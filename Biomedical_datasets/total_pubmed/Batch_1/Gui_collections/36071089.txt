@@ -1,0 +1,9 @@
+Cryo-imaging provided 3D whole-mouse microscopic color anatomy and fluorescence images that enables biotechnology applications (e.g., stem cells and metastatic cancer).
+In this report, we compared three methods of organ segmentation: 2D U-Net with 2D-slices and 3D U-Net with either 3D-whole-mouse or 3D-patches.
+We evaluated the brain, thymus, lung, heart, liver, stomach, spleen, left and right kidney, and bladder.
+Training with 63 mice, 2D-slices had the best performance, with median Dice scores of &gt; 0.9 and median Hausdorff distances of &lt; 1.2 mm in eightfold cross validation for all organs, except bladder, which is a problem organ due to variable filling and poor contrast.
+Results were comparable to those for a second analyst on the same data.
+Regression analyses were performed to fit learning curves, which showed that 2D-slices can succeed with fewer samples.
+Review and editing of 2D-slices segmentation results reduced human operator time from ~ 2-h to ~ 25-min, with reduced inter-observer variability.
+As demonstrations, we used organ segmentation to evaluate size changes in liver disease and to quantify the distribution of therapeutic mesenchymal stem cells in organs.
+With a 48-GB GPU, we determined that extra GPU RAM improved the performance of 3D deep learning because we could train at a higher resolution.

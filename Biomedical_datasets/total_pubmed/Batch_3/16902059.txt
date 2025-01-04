@@ -1,0 +1,9 @@
+The effects of acute hypoxia on motor cortex excitability, force production, and voluntary activation were studied using single- and double-pulse transcranial magnetic stimulation techniques in 14 healthy male subjects.
+Electrical supramaximal stimulations of the right ulnar nerve were performed, and transcranial magnetic stimulations were delivered to the first dorsal interosseus motor cortex area during short-term hypoxic (HX) and normoxic (NX) condition.
+M waves, voluntary activation, F waves, resting motor threshold (rMT), recruitment curves (100-140% of rMT), and short-interval intracortical inhibition and intracortical facilitation were measured.
+Moreover, motor-evoked potentials (MEPs) and cortical silent periods were determined during brief isometric maximum right index finger abductions.
+Hypoxia was induced by breathing a fraction of inspired oxygen of 12% via a face mask.
+M waves, voluntary activation, and F waves did not differ between NX and HX.
+The rMT was significantly lower in HX (55.79 +/- 9.40%) than in NX (57.50 +/- 10.48%) (P < 0.01), whereas MEP recruitment curve, short-interval intracortical inhibition, intracortical facilitation, maximum right index finger abduction, and MEPs were unaffected by HX.
+In contrast, the cortical silent periods in HX (158.21 +/- 33.96 ms) was significantly shortened compared with NX (169.42 +/- 39.69 ms) (P < 0.05).
+These data demonstrate that acute hypoxia results in increased cortical excitability and suggest that acute hypoxia alters motor cortical ion-channel function and GABAergic transmission.

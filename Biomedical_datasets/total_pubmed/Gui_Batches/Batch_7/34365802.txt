@@ -1,0 +1,11 @@
+Background Although methamphetamine abuse is associated with the development of heart failure (HF), nationwide data on methamphetamine-associated HF (MethHF) hospitalizations are limited.
+This study evaluates nationwide HF hospitalizations associated with substance abuse to better understand MethHF prevalence trends and the clinical characteristics of those patients.
+Methods and Results This cross-sectional period-prevalence study used hospital discharge data from the National Inpatient Sample to identify adult primary HF hospitalizations with a secondary diagnosis of abuse of methamphetamines, cocaine, or alcohol in the United States from 2002 to 2014.
+All 2014 MethHF admissions were separated by regional census division to evaluate geographical distribution.
+Demographics, payer information, and clinical characteristics of MethHF hospitalizations were compared with all other HF hospitalizations.
+Total nationwide MethHF hospitalizations increased from 547 in 2002 to 6625 in 2014 with a predominance on the West Coast.
+Methamphetamine abuse was slightly more common among primary HF hospitalizations compared with all-cause hospitalizations (7.4 versus 6.4 per 1000; Cohen h=0.012; P<0.001).
+Among HF hospitalizations, patients with MethHF were younger (mean age, 48.9 versus 72.4 years; Cohen d=1.93; P<0.001), more likely to be on Medicaid (59.4% versus 8.8%; Cohen h=1.16; P<0.001) or uninsured (12.0% versus 2.6%; Cohen h=0.36; P<0.001), and more likely to present to urban hospitals (43.8% versus 28.3%; Cohen h=0.32; P<0.001) than patients with non-methamphetamine associated HF.
+Patients with MethHF had higher rates of psychiatric comorbidities and were more likely to leave the hospital against medical advice.
+Conclusions MethHF hospitalizations have significantly increased in the United States, particularly on the West Coast.
+Coordinated public health policies and systems of care are needed to address this rising epidemic.

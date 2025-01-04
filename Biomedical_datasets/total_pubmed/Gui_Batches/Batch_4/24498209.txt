@@ -1,0 +1,12 @@
+Metabolomics is providing new dimensions into understanding the intracellular adaptive responses in plants to external stimuli.
+In this study, a multi-technology-metabolomic approach was used to investigate the effect of the fungal sterol, ergosterol, on the metabolome of cultured tobacco cells.
+Cell suspensions were treated with different concentrations (0-1000 nM) of ergosterol and incubated for different time periods (0-24 h).
+Intracellular metabolites were extracted with two methods: a selective dispersive liquid-liquid micro-extraction and a general methanol extraction.
+Chromatographic techniques (GC-FID, GC-MS, GC × GC-TOF-MS, UHPLC-MS) and (1)H NMR spectroscopy were used for quantitative and qualitative analyses.
+Multivariate data analyses (PCA and OPLS-DA models) were used to extract interpretable information from the multidimensional data generated from the analytical techniques.
+The results showed that ergosterol triggered differential changes in the metabolome of the cells, leading to variation in the biosynthesis of secondary metabolites.
+PCA scores plots revealed dose- and time-dependent metabolic variations, with optimal treatment conditions being found to be 300 nM ergosterol and an 18 h incubation period.
+The observed ergosterol-induced metabolic changes were correlated with changes in defence-related metabolites.
+The 'defensome' involved increases in terpenoid metabolites with five antimicrobial compounds (the bicyclic sesquiterpenoid phytoalexins: phytuberin, solavetivone, capsidiol, lubimin and rishitin) and other metabolites (abscisic acid and phytosterols) putatively identified.
+In addition, various phenylpropanoid precursors, cinnamic acid derivatives and - conjugates, coumarins and lignin monomers were annotated.
+These annotated metabolites revealed a dynamic reprogramming of metabolic networks that are functionally correlated, with a high complexity in their regulation.

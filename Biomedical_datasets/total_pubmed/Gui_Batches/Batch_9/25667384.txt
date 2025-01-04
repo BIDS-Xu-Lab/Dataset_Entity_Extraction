@@ -1,0 +1,4 @@
+Identification of protein complexes is crucial to understand principles of cellular organisation and predict protein functions.
+In this paper, a novel protein complex discovery algorithm IPCIPG is proposed based on the integration of Protein-Protein Interaction network (PPI network) and gene expression data.
+IPCIPG is a local search algorithm which has two versions: IPCIPG-n for identifying non-overlapping clusters and IPCIPG-o for detecting overlapping clusters.
+The experimental results on the yeast PPI network show that IPCIPG can identify protein complexes with specific biological meaning more effectively, precisely and comprehensively than six other algorithms: HUNTER, HC-PIN, CMC, SPICi, MOCDE and MCL.

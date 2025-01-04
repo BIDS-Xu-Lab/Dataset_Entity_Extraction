@@ -1,0 +1,6 @@
+The reciprocal mechanical interaction of engineered materials with biointerfaces have long been observed and exploited in biomedical applications.
+It contributes to the rise of biomechano-responsive materials and biomechano-stimulatory materials, constituting the biomechano-interactive interfaces.
+Here, endogenous and exogenous biomechanical stimuli available for mechanoresponsive interfaces are briefed and their mechanistic responses, including deformation and volume change, mechanomanipulation of physical and chemical bonds, dissociation of assemblies, and coupling with thermoresponsiveness are summarized.
+The mechanostimulatory materials, however, are capable of delivering mechanical cues, including stiffness, viscoelasticity, geometrical constraints, and mechanical loads, to modulate physiological and pathological behaviors of living tissues through the adaptive cellular mechanotransduction.
+The biomechano-interactive materials and interfaces are widely implemented in such fields as mechanotriggered therapeutics and diagnosis, adaptive biophysical sensors, biointegrated soft actuators, and mechanorobust tissue engineering, which have offered unprecedented opportunities for precision and personalized medicine.
+Pending challenges are also addressed to shed a light on future advances with respect to translational implementations.

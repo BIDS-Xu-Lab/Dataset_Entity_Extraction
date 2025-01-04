@@ -1,0 +1,8 @@
+Artificial scent screening systems, inspired by the mammalian olfactory system, hold promise for fruit ripeness detection, but their commercialization is limited by low sensitivity or pattern recognition inaccuracy.
+This study presents a portable fruit ripeness prediction system based on colorimetric sensing combinatorics and deep convolutional neural networks (DCNN) to accurately identify fruit ripeness.
+Using the gas chromatography-mass spectrometry (GC-MS) method, the study discerned the distinctive gases emitted by mango, peach, and banana across various ripening stages.
+The colorimetric sensing combinatorics utilized 25 dyes sensitive to fruit volatile gases, generating a distinct scent fingerprint through cross-reactivity to diverse concentrations and varieties of gases.
+The unique scent fingerprints can be identified using DCNN.
+After capturing colorimetric sensor image data, the densely connected convolutional network (DenseNet) was employed, achieving an impressive accuracy rate of 97.39% on the validation set and 82.20% on the test set in assessing fruit ripeness.
+This fruit ripeness prediction system, coupled with a DCNN, successfully addresses the issues of complex pattern recognition and low identification accuracy.
+Overall, this innovative tool exhibits high accuracy, non-destructiveness, practical applicability, convenience, and low cost, making it worth considering and developing for fruit ripeness detection.

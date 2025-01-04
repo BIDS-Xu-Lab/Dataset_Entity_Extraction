@@ -1,0 +1,9 @@
+Sepsis, a life-threatening condition arising from infection, often results in multi-organ failure, including cardiac dysfunction.
+This study investigated Xanthohumol, a natural compound, and its potential mechanism of action to enhance heart function following sepsis.
+A total of twenty-four adult male Swiss albino mice were allocated randomly to one of four equal groups (n=6): sham, CLP, vehicle Xanthohumol the same amount of DMSO injected IP 10 minutes before the CLP, and Xanthohumol group (0.4 mg/kg of Xanthohumol administered IP before the CLP process).
+serum cardiac damage biomarkers were measured in the cardiac tissue using ELISA.
+Data with normal distribution were analyzed using t-test and ANOVA tests (p<0.05).
+In comparison to the sham group, the sepsis group had significantly higher levels of TLR-4, IL-6, TNF-α, MIF, F2-isoprostane, caspase-3, cTn-I, and CK-MB, while the pre-treated group with Xanthohumol had significantly lower levels (p<0.05) of these markers than the sepsis group.
+Bcl-2 showed no significant difference in Xanthohumol pre-treated group relative to the sepsis group, while IL-10 was significantly elevated.
+Xanthohumol dramatically reduced cardiac tissue injury (p<0.05) relative to the CLP group.
+By blocking the downstream signal transduction pathways of TLR-4 and NF-kB, Xanthohumol was shown to lessen cardiac damage in male mice during CLP-induced polymicrobial sepsis.

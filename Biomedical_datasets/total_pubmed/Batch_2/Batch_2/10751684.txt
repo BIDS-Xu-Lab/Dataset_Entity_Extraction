@@ -1,0 +1,7 @@
+PPMdb is a proteome database dedicated to proteins from plant plasma membranes.
+It provides comprehensive two-dimensional polyacrylamide gel electrophoresis (2-D PAGE) maps, partial amino acid sequences and expression data.
+All this information is gathered and structured in a relational database, after being analyzed and annotated.
+PPMdb includes active links to related biological databases (EMBL, GenBank, GenPep, and SWISS-PROT and TrEMBL) as well as to MEDLINE abstracts.
+Information on specific protein spots can be displayed by clicking on the 2-D maps.
+In addition, users can query the database by accession number, protein name, pI and MW, and cellular location.
+Access to PPMdb is available at the following URL: http://sphinx.rug. ac.be:8080.

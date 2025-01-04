@@ -1,0 +1,9 @@
+Previously, we reported that infection of human macrophages with Mycobacterium tuberculosis (Mtb) results in massive alterations in the pattern of RNA splicing in the host.
+The finding gained significance since alternate spliced variants of a same gene may have substantially different structure, function, stability, interaction partners, localization, and so forth, owing to inclusion or exclusion of specific exons.
+To establish a proof-of-concept; on how infection-induced RNA splicing could impact protein functions, here we used RNA-seq data from THP-1 macrophages that were infected with clinical isolate of Mtb.
+In addition to re-establishing the fact that Mtb infection may cause strain specific alterations in RNA splicing, we also developed a new analysis pipeline resulting in characterization of domain maps of the transcriptome post-infection.
+For the sake of simplicity, we restricted our analysis to all the kinases in the human genome and considered only pfam classified protein domains and checked their frequency of inclusion or exclusion due to alternate splicing across the conditions and time points.
+We report massive alterations in the domain architecture of most regulated proteins across the entire kinases highlighting the physiological importance of such an understanding.
+This study paves way for more detailed analysis of different functional classes of proteins and perturbations to their domain architecture as a consequence of mycobacterial infections.
+Such analysis would yield unprecedented depth to our understanding of host-pathogen interaction and allow in a more systematic manner targeting of host pathways for controlling the infections.
+IUBMB Life published by Wiley Periodicals, Inc. on behalf of International Union of Biochemistry and Molecular Biology, 70(9):845-854, 2018.

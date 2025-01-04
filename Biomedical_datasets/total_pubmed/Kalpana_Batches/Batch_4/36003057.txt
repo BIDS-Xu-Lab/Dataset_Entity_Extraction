@@ -1,0 +1,9 @@
+Liver X receptors (LXRs) are master regulators of atherogenesis.
+Their anti-atherogenic potential has been attributed to their role in the inhibition of macrophage-mediated inflammation and promotion of reverse cholesterol transport.
+Owing to the significance of their anti-atherogenic potential, it is essential to develop and test new-generation LXR agonists, both synthetic and natural, to identify potential LXR-targeted therapeutics for the future.
+This review describes the role of LXRs in atherosclerotic development, and provides a summary of LXR agonists and future directions for atherosclerosis research.
+We searched PubMed, Scopus, and Google Scholar for relevant reports, from last 10 years, using atherosclerosis, liver X receptor, and LXR agonist as keywords.
+LXRα has gained widespread recognition as a regulator of cholesterol homeostasis and expression of inflammatory genes.
+Further research using models of cell type-specific knockout and specific agonist-targeted LXR isoforms is warranted.
+Enthusiasm for therapeutic value of LXR agonists has been tempered due to LXRα-mediated induction of hepatic lipogenesis.
+LXRα agonism and LXRβ targeting, gut-specific inverse LXR agonists, investigations combining LXR agonists with other lipogenesis-mitigating agents, like IDOL antagonists and synthetic HDL, and targeting ABCA1, M2 macrophages, and LXRα phosphorylation remain as promising possibilities.

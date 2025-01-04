@@ -1,0 +1,9 @@
+The purpose of our study was to evaluate the relationship between benign anal inflammatory diseases and anorectal cancer and assess its risk factors.
+A retrospective matched cohort study was conducted that included data from 2002 to 2013.
+The National Health Insurance Service National Sample Cohort data from 2002 to 2013 was used for the study.
+Of a total study population of 143,884 individuals, 28,110 individuals with anal fissures were assigned to the case group, while 115,774 individuals without anal fissures were assigned to the control group based on the 1:4 propensity score matching age, sex, and year (case: diagnosed year, control: health service received year).
+The risk of anorectal cancer was higher in the case group (hazard ratio [HR]: 1.95, 95% confidence interval [CI]: 1.51-2.53) compared to the control group.
+After grouping anorectal cancers into anal cancer and rectal cancer, the risk remained higher in the case group (anal cancer HR: 2.79, 95% CI: 1.48-5.27; rectal cancer HR: 1.82, 95% CI; 1.37-2.42).
+The case group was further categorized into patients with fissures and patients with fistulas; patients with fissures showed a higher risk of developing anorectal cancer than patients with fistulas (HR: 2.05, 95% CI: 1.53-2.73 vs. HR: 1.73, 95% CI: 1.13-2.66).
+Study participants in their 30s and 40s had a 4.19- and 7.39-times higher risk of anorectal cancer compared to those in the higher age groups (0.64-1.84), while patients who did not have inflammatory bowel disease (IBD) had a higher risk of developing anorectal cancer (HR: 2.09, 95% CI: 1.56-2.80).
+Patients with anal fistulas or fissures have an increased risk of being diagnosed with anorectal cancer, especially at a young age and even without IBD.

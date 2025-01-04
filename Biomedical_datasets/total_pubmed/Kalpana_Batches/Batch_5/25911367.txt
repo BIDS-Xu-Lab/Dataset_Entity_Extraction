@@ -1,0 +1,7 @@
+One major challenge for parasites with complex cycles consists to succeed in the transmission from one host to the next host.
+To maximize the probability of encountering the right host, numerous trematode species have selected various emergence rhythms occurring during the escape of the short-lived cercariae from the mollusc host.
+Cercarial shedding patterns are beautiful examples of adaptation of the parasite for a successful rendezvous with its subsequent host.
+In this review, after an analysis of the technical and statistical aspects specific to such studies, we compile the knowledge and unresolved issues we have about the synchronization of these rhythms, their genetic support and the role of the host physiology or activity.
+We are also interested on how cercarial rhythmicity influences cercarial densities in waters of transmission sites and then the risk of host infection in case of schistosomiasis.
+Ecological significance of the inter- and intra-specific diversity of these rhythms is emphasized as well as the evolutionary implication of new chronotypes resulting from the capture of new host species and promoting reproductive isolation and alloxenic speciation.
+Currently, genome sequence data now available for some trematodes such as the schistosomes provide an unprecedented resource for new research approaches that should contribute identification of the genes and mechanisms involved in determining the cercarial shedding rhythms observed.

@@ -1,0 +1,11 @@
+Unsupervised abnormality detection is an appealing approach to identify patterns that are not present in training data without specific annotations for such patterns.
+In the medical imaging field, methods taking this approach have been proposed to detect lesions.
+The appeal of this approach stems from the fact that it does not require lesion-specific supervision and can potentially generalize to any sort of abnormal patterns.
+The principle is to train a generative model on images from healthy individuals to estimate the distribution of images of the normal anatomy, i.e., a normative distribution, and detect lesions as out-of-distribution regions.
+Restoration-based techniques that modify a given image by taking gradient ascent steps with respect to a posterior distribution composed of a normative distribution and a likelihood term recently yielded state-of-the-art results.
+However, these methods do not explicitly model ascent directions with respect to the normative distribution, i.e. normative ascent direction, which is essential for successful restoration.
+In this work, we introduce a novel approach for unsupervised lesion detection by modeling normative ascent directions.
+We present different modelling options based on the defined ascent directions with local Gaussians.
+We further extend the proposed method to efficiently utilize 3D information, which has not been explored in most existing works.
+We experimentally show that the proposed method provides higher accuracy in detection and produces more realistic restored images.
+The performance of the proposed method is evaluated against baselines on publicly available BRATS and ATLAS stroke lesion datasets; the detection accuracy of the proposed method surpasses the current state-of-the-art results.

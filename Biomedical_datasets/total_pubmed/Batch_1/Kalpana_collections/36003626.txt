@@ -1,0 +1,15 @@
+Spinal cord injury (SCI) has devastating physical and social consequences for patients.
+Systemic administration of methylprednisolone (MP) at a higher dosage though can reduce neurological deficits following acute SCI.
+Still, this treatment regimen is controversial, owing to the apparent dose-related side effects and relatively minor improvement in neurological function.
+Therefore, this study aimed at the bibliometric analysis of published literature related to SCI treatment, which may lead to future research trends.
+The literature published relating to SCI and using glucocorticoids for its treatment between 1982 and 2022 was collected and scanned in the Web of Science collection database using the keywords glucocorticoid, dexamethasone, MP, corticosteroids, and SCI, followed by using VOSviewer for bibliometric analysis of these articles.
+A total of 1,848 published articles and 7,448 authors on SCI and glucocorticoid usage were identified.
+The SCI total link strength accounts for 1,341, and MP for 762 has a strong link to neuroprotection and inflammation.
+The mean citation count for the top 20 most-cited articles was 682 (range: 358-1,828), where most of these were descriptive studies having focused on clinical features.
+The Journal of Neurotrauma was the highest-ranked journal with 6,010 citations.
+A total of 69 articles were published by Michael G Fehlings from the University of Toronto with 6,092 citations.
+The University of Toronto has published 90-related manuscripts with 7,632 citations.
+In contrast, 800 articles were published in the United States, with 39,633 citations and total link strength of 5,714.
+The second-ranked country was China, with 241 published articles and 3,403 citations.
+The research published on applying MP in treating SCI has increased with time.
+Although the United States has made a significant global contribution to this important field of research, it requires rigorous clinical trials designed to verify the therapeutic role of MP in SCI and its appropriate dosage to find solutions for neurological recovery.

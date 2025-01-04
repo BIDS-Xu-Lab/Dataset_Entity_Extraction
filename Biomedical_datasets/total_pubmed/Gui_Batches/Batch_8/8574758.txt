@@ -1,0 +1,6 @@
+Group B (n = 7) also received rhG-CSF at 5 micrograms kg-1 d-1, the first dose being given 30 min before starting bacterial infusion.
+Two of the animals in Group A died from pulmonary failure, whereas all those treated with rh-GCSF survived.
+Fever, severe pulmonary hypertension and systemic hypotension--the latter accompanied at first by a transient hypodynamic, and later a hyperdynamic response--were observed in all of the animals.
+In Group B, however, the rise in temperature, mean pulmonary arterial pressure (at a later stage of the observation), plasma levels of tumor necrosis factor, and endotoxin were significantly less than in Group A.
+In the rhG-CSF-treated pigs, an initial leukopenia completely recovered within 24 h (p < .05 vs. Group A).
+These data suggest that rhG-CSF might be beneficial in the treatment of sepsis.

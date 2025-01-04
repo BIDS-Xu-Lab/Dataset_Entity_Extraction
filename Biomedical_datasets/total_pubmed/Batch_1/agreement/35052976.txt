@@ -1,0 +1,8 @@
+Commensal Neisseria provide a reservoir of resistance genes that can be transferred to the pathogens Neisseria gonorrhoeae and N. meningitidis in the human oropharynx.
+Surveillance programs are thus needed to monitor resistance in oropharyngeal commensal Neisseria, but currently the isolation and antimicrobial susceptibility testing of these commensals is laborious, complex and expensive.
+In addition, the posterior oropharyngeal/tonsillar swab, which is commonly used to sample oropharyngeal Neisseria, is poorly tolerated by many individuals.
+We evaluated an alternative non-invasive method to isolate oropharyngeal commensal Neisseria and to detect decreased susceptibility to azithromycin using selective media (LBVT.SNR) with and without azithromycin (2 µg/mL).
+In this pilot study, we compared paired posterior oropharyngeal/tonsillar swabs and oral rinse-and-gargle samples from 10 participants and demonstrated that a similar Neisseria species diversity and number of colonies were isolated from both sample types.
+Moreover, the proportion of Neisseria colonies that had a decreased susceptibility to azithromycin was similar in the rinse samples compared to the swabs.
+This pilot study has produced encouraging data that a simple protocol of oral rinse-and-gargle and culture on plates selective for commensal Neisseria with and without a target antimicrobial can be used as a surveillance tool to monitor antimicrobial susceptibility in commensal oropharyngeal Neisseria.
+Larger studies are required to validate these findings.

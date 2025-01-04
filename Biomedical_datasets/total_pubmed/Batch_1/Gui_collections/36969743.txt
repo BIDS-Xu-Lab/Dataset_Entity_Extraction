@@ -1,0 +1,10 @@
+Osimertinib is an EGFR tyrosine kinase inhibitor (TKI) with proven clinical efficacy; however, acquired resistance presents an obstacle to curing EGFR-driven disease.
+Recent studies have shown that drug-tolerant persister cells (DTP) have a distinct transcriptional profile that may confer specific vulnerabilities.
+By definition these cells avoid apoptosis, yet little is known about how their survival is regulated.
+We found that paradoxically, the proapoptotic gene BIM was upregulated in osimertinib DTPs, and cotreatment with BH3 mimetics could trigger DTP cell death.
+Furthermore, cIAP proteins, antiapoptotic members of the extrinsic pathway, were significantly elevated in DTPs.
+cIAP antagonists could block DTP formation as an up-front combination, and could eliminate preformed DTPs.
+Critically, when treated at the time of maximal osimertinib response, cIAP or MCL1 inhibitor treatment could significantly attenuate the regrowth of EGFRm cell line mouse xenografts.
+Finally, we show that apoptosis can be maximized in cell lines with acquired osimertinib resistance by combining BH3 or SMAC mimetics with agents that target the resistance driver in these models.
+Taken together, these data suggest novel therapeutic strategies at the point of minimal residual disease or full osimertinib resistance for patients in this critical area of unmet need.
+These studies uncover strategies to use targeted agents that activate apoptosis in non-small cell lung cancer cells that survive initial EGFR TKI treatment.

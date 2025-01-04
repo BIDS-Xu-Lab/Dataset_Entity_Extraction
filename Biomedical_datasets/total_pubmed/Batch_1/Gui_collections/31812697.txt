@@ -1,0 +1,11 @@
+Renal cell carcinoma (RCC) is a major cancer of the kidney.
+The 5-year survival rate is overall 74% and only 8% for Stage 4 cancers.
+Several agents including tyrosine kinase inhibitors, mTOR inhibitors, and immune checkpoint inhibitors are available as first- or second-line therapy for metastatic RCC.
+However, the survival benefits are limited.
+Recently, THZ1 has been identified as a cyclin-dependent kinase 7 (CDK7) inhibitor that interferes with the transcriptional machinery.
+Although it is apparently effective in various cancer models, the data for RCC has never been reported.
+In this study, we demonstrated the impact of CDK7 expression on tumor progression and patient survival in a clinical cohort.
+We found that THZ1 induced apoptosis and cell cycle arrest in RCC cells, thereby reducing cell viability.
+Furthermore, THZ1 acted synergistically with temsirolimus in vitro, probably by inhibiting autophagy.
+Moreover, compared to either THZ1 or temsirolimus used individually, the combination treatment further suppressed tumor growth in vivo.
+These results indicate that CDK7 is associated with the progression and prognosis of RCC, and is a potential therapeutic target for overcoming drug resistance in this cancer.

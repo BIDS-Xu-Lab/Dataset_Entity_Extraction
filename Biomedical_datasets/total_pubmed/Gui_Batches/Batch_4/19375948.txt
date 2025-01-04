@@ -1,0 +1,11 @@
+The aim of this study was to determine if patients who underwent partial-breast irradiation followed by segmental mastectomies had fewer mammographic changes on the first post-treatment mammogram than those who underwent segmental mastectomies followed by whole-breast irradiation.
+Subjects enrolled in a study of partial-breast irradiation therapy after segmental mastectomy (intraoperative radiation therapy) plus a random sample of patients who underwent segmental mastectomies followed by conventional whole-breast radiation therapy were identified through the institution's breast cancer database from March 2003 through February 2006.
+A radiologist specializing in breast imaging reviewed and recorded each patient's pretreatment mammogram for breast density and tumor location and the first post-treatment mammogram, obtained within the first year of treatment, for three common types of mammographic change seen after breast surgery and radiation treatment (breast edema, skin thickening, and surgical scarring), which when severe make it difficult to use mammography for continuing follow-up of the conserved breast.
+The extent of mammographic change was noted by the radiologist as minimal, moderate, or marked.
+The data were entered into a database, and statistical analysis was conducted using logistic regression models and chi(2) tests.
+The effect of breast density on mammographic change was also assessed.
+The severity of edema was lower with decreasing breast density (P < .006).
+There was no apparent effect of breast density on the severity of skin thickening.
+The extent of surgical scarring decreased as breast density increased (P < .026).
+Analysis of the data from the cumulative logistic regression models demonstrated that even after controlling for breast density, patients who underwent whole-breast radiation therapy had significantly more edema (P = .003), skin thickening (P = .003), and surgical scarring than those who underwent intraoperative radiation therapy (P < .001).
+Patients have a higher probability of having fewer post-treatment mammographic changes after partial-breast irradiation followed by segmental mastectomy than after breast conservation surgery followed by whole-breast irradiation.

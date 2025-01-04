@@ -1,0 +1,12 @@
+Marine waterbirds have shown variable trends in abundance over the past four decades with some species displaying steep declines along the Pacific coast from British Columbia through California.
+One of the most dramatic changes has been that of western grebes (Aechmophorus occidentalis) in the Salish Sea.
+This region was a former core of the species wintering distribution but they have become increasingly rare prompting calls for conservation action.
+A more thorough understanding of this situation requires the analysis of trends at broader geographic scales as well as a consideration of mechanisms that might have led to a change in abundance.
+We used hierarchical modeling with a Bayesian framework applied to 36 years of Audubon Christmas Bird Count data to assess continent-wide and regional population trends in western and Clark's grebes (A. clarkii) from 1975 to 2010.
+Our results show that the North American wintering population of Aechmophorus grebes decreased by ∼52% after 1975, but also that western grebes displayed strongly opposing regional patterns.
+Abundance decreased by about 95% over 36 years in the Salish Sea but increased by over 300% along coastal California.
+As a result, the mean centre of the species distribution shifted south by an estimated 895 km between 1980 and 2010.
+Mechanisms underlying this shift require further study but we hypothesize that it may be related to a change in the abundance and availability of their forage fish prey base.
+Since the mid-1980s, the Pacific sardine stock off the California coast increased from a few thousand metric tonnes to over two million.
+At the same time both the abundance and availability of Pacific herring declined in the Salish Sea.
+Studies are needed to examine this hypothesis further and additional consideration should be directed at other changes in the marine environment that may have contributed to a range shift.

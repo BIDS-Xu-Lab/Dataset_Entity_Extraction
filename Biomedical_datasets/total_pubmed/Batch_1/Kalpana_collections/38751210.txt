@@ -1,0 +1,8 @@
+As storage time increases, the quality of traditional Chinese medicines (TCMs) may change, and stability is an essential aspect of ensuring the safety and efficacy of TCMs.
+In this study, the effects of different storage times on the stability of 12 decoction pieces were evaluated.
+High-performance liquid chromatography was used to determine the contents of the active components in the 12 decoction pieces.
+The chemical composition data were analyzed using fingerprinting and clustering heatmap (CH).
+Results showed that during storage, significant variations (relative standard deviation > 10%) were observed in the levels of paeoniflorin in Paeoniae Radix Alba and Paeoniae Radix Rubra, hesperidin in Citri Reticulatae Pericarpium and Citri Reticulatae Pericarpium Viride, bufothionine in Siccus Bufo and chlorogenic acid in White Chrysanthemi Flos and Lonice Raejaponicae Caulis.
+However, calycosin-7-glucoside and calycosin in Astragali Radix Praeparata Cum Melle and chlorogenic acid in Lonicerae Japonicae Flos, Yellow Chrysanthemi Flos and Mori Folium were all <10%, which is consistent with the CH.
+Decoction pieces can be stored for up to six months, but it is recommended that volatile oil-containing and animal-based decoction pieces should not be stored for more than one month.
+This study provides new perspectives for the stability and quality control studies of TCM.

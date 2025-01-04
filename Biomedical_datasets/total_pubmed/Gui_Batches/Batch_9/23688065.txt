@@ -1,0 +1,5 @@
+The plasma levels of Vascular endothelial growth factor, macrophage-colony stimulating factor (M-CSF) and CA15-3 in breast cancer patients (BC) were investigated and compared with control groups: benign breast tumor patients and the healthy subjects.
+Our results have demonstrated significant differences in the concentration of cytokines and CA 15-3 between the groups of BC patients and two control groups.
+Cytokines have demonstrated equal to CA 15-3 or even higher values of the diagnostic sensitivity (SE), the predictive values of positive and negative test results (PV-PR, PV-NR), and the area under the ROC curve (AUC) in the studied groups.
+The combined use of tested parameters resulted in the increase of the SE, PV-PR and AUC.
+These findings suggest the usefulness of both cytokines in the diagnosis of BC, but only M-CSF in discrimination between cancer and non-carcinoma lesions, especially in combination with CA 15-3.

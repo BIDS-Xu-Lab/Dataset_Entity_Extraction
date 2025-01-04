@@ -1,0 +1,11 @@
+Cybervictimization has emerged as a potentially serious form of victimization and has been associated with negative mental health outcomes, including depression, anxiety, disordered eating, and suicidality.
+However, very little research has examined the prevalence and correlates of cybervictimization among diverse subpopulations of youth.
+Data from 13,602 adolescents aged 12 to 17 were drawn from the 2019 Canadian Health Survey on Children and Youth.
+Adolescents reported on their experiences of cybervictimization in the past 12 months, general mental health, and eating disorder symptoms; adolescents aged 15 to 17 reported on suicidal ideation and attempt; and parents reported on problems with depression and anxiety.
+Logistic regression was used to estimate the odds of experiencing cybervictimization according to characteristics, including gender identity, population group, same-gender attraction, low family income, and the presence of chronic conditions and digital media habits.
+Logistic regression models were also used to estimate the odds of experiencing each mental health difficulty by sociodemographic characteristics and experience of cybervictimization.
+The odds of experiencing cybervictimization were higher among transgender and non-binary youth, females attracted to the same gender or unsure of their attraction, and adolescents living with chronic conditions (particularly females and those living in low-income households).
+Cybervictimization was consistently associated with a greater risk of poor general mental health, depression or anxiety, eating disorder symptoms, suicidal ideation, and suicide attempt.
+These associations did not differ according to the sociodemographic characteristics assessed.
+In terms of digital media habits, lower frequencies of use were generally associated with a lower likelihood of experiencing cybervictimization.
+While certain population groups appear to be at a higher risk of experiencing cybervictimization, the experience of cybervictimization is associated with similar mental health indicators for all adolescents.

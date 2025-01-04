@@ -1,0 +1,8 @@
+Activity of the tyrosine-inhibitable 3-deoxy-d-arabino-heptulosonate-7-phosphate synthase (EC 4.1.2.15) from Saccharomyces cerevisiae that was encoded by the ARO4 gene cloned on a high-copy-number plasmid was enhanced 64-fold as compared to the wild-type.
+The enzyme was purified to apparent homogeneity from the strain that harbored this recombinant plasmid.
+The estimated molecular weight of 42,000 of the enzyme corresponded to the calculated molecular mass of 40 kDa deduced from the DNA sequence.
+The enzyme could be inactivated by EDTA in a reaction that was reversed by several bivalent metal ions; presumably a metal cofactor is required for enzymatic catalysis.
+The Michaelis constant of the enzyme was 125 microM for phosphoenolpyruvate and 500 microM for erythrose 4-phosphate.
+The rate constant was calculated as 6 s-1, and kinetic data indicated a sequential mechanism of the enzymatic reaction.
+Tyrosine was a competitive inhibitor with phosphoenolpyruvate as substrate of the enzyme (Ki of 0.9 microM) and a noncompetitive inhibitor with erythrose 4-phosphate as substrate.
+This is in contrast to the ARO3-encoded isoenzyme, where phenylalanine is a competitive inhibitor with erythrose 4-phosphate as a substrate of the enzyme and a noncompetitive inhibitor with phosphoenolpyruvate as substrate.

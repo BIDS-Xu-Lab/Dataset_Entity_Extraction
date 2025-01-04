@@ -1,0 +1,10 @@
+Peripheral artery disease (PAD) is caused by atherosclerosis, hardening and narrowing arteries over time due to buildup of fatty deposit in vascular bed called plaque.
+Severe blockage of an artery of the lower extremity markedly reduce blood flow, resulting in critical limb ischemia (CLI) manifested by a variety of clinical syndromes including rest pain in the feet or toes, ulcer and gangrene with infection.
+Despite significant advances in clinical care and interventions for revascularization, patients with CLI remain at high risk for amputation and cardiovascular death.
+To overcome this unmet need, therapeutic angiogenesis using angiogenic growth factors has evolved in an attempt to increase blood flow in ischemic limb.
+Initial animal studies and phase I clinical trials with vascular endothelial growth factor (VEGF) or fibroblast growth factor (FGF) demonstrated promising results, inspiring scientists to progress forward.
+However, more rigorous phase II and III clinical trials have failed to demonstrate beneficial effects of these angiogenic growth factors to date.
+Recently, two multicenter, double-blind, placebo-controlled clinical trials in Japan (phase III) and US (phase II) demonstrated that hepatocyte growth factor (HGF) gene therapy for CLI significant improved primary end points and tissue oxygenation up to two years in comparison to placebo.
+These clinical results implicate a distinct action of HGF on cellular processes involved in vascular remodeling under pathological condition.
+This review presents data from phase I-III clinical trials of therapeutic angiogenesis by gene therapy in patients with PAD.
+Further, we discuss the potential explanation for the success or failure of clinical trials in the context of the biological mechanisms underlying angiogenesis and vascular remodeling, including cellular senescence, inflammation, and tissue fibrosis.

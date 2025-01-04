@@ -1,0 +1,9 @@
+We previously reported that hypoxic stress enhanced osteoclast differentiation via increasing insulin-like growth factor 2 (IGF2) production.
+However, the mechanisms underlying IGF2 stimulation remains unknown.
+In this study, we investigated the molecular mechanisms of osteoclastogenesis by IGF2 treatment.
+Primary mouse bone marrow cells were cultured with IGF2.
+Total RNAs were applied to a DNA microarray analysis, and quantitative RT-PCR was then used to confirm the microarray data and clarify which cells expressed the relative genes.
+The most interesting findings were the upregulations of CXC chemokine ligand 7 (CXCL7) expression in stromal cells and stromal cell-derived factor 1 (SDF1) expression in osteoblastic cells with IGF2 treatment.
+The addition of exogenous SDF1 to CXCL7 increased the number of osteoclasts and promoted the formation of giant osteoclasts.
+These results suggest that IGF2 modulates the microenvironment around osteoclast precursor cells.
+SDF1 together with CXCL7 may promote the formation of giant osteoclasts.

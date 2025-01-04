@@ -1,0 +1,6 @@
+The emergence of conflicting reports on the natural occurrence of Alzheimer's disease (AD) in non-human primates has prompted research on the comparison of the role of diet-associated changes in gene expression between humans and non-human primates.
+This article analyzes the effects of different human and chimpanzee diets and their link with apolipoproteins, lipid, and iron (Fe) metabolism, starting from available data, to find out any gap in the existing knowledge.
+By using a system biology approach, we have re-analyzed the liver and brain RNA seq data of mice fed with either human or chimpanzee diet for 2 weeks to look for genetic differences that may explain the differences in AD occurrence between those two classes.
+In liver samples of mice fed with the chimpanzee diet in comparison to the human diet, apolipoprotein A-1, ceruloplasmin, and 10 other genes were upregulated while 21 genes were downregulated.
+However, brain apolipoprotein E4 gene expression was not changed upon diet.
+Genetic, structural, and functional differences in apolipoprotein E protein, along with differences in Fe metabolisms and a longer lifespan of humans during evolution may account for the observed disparity.

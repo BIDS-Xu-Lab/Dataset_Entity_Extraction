@@ -1,0 +1,8 @@
+To compare the outcomes of colonic splenic flexure tumours treated by extended right colectomy versus left colectomy.
+Stage I-III splenic flexure tumours, treated either by extended right colectomy or left colectomy between 1996 and 2011, were identified in a prospective database, and the short- and long-term outcomes compared.
+The survival analyses were performed using the Kaplan-Meier method and adjusted using a Cox-proportional hazard model.
+A total of 30 (44 %) splenic flexure tumours were resected by left colectomy and 38 (56 %) by right colectomy.
+Emergency operations were more common (74 versus 20 %, p < 0.001) in the right colectomy group.
+In the univariate analysis, the 5-year overall survival (55 % for right colectomy versus 60 % for left colectomy, p = 0.197) and 5-year recurrence-free survival (41 versus 54 %, p = 0.180, respectively) showed a trend towards a non-significant survival benefit for left colectomy.
+However, when adjusted for age, gender, ASA classification, tumour stage, urgency and year of surgery, this trend disappeared.
+Patients undergoing extended right or left colectomy for splenic flexure tumours seemed to have comparable short- and long-term outcomes.

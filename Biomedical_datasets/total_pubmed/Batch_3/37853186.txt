@@ -1,0 +1,11 @@
+Cancer is a leading cause of death globally.
+Immunotherapy has shown promise in treating various types of cancer, but its effectiveness varies among patients.
+The Controlling Nutritional Status (CONUT) score has been linked to the prognosis of different cancers.
+However, its predictive value for immunotherapy outcomes is not well understood.
+Our research represents the pioneering meta-study to examine the prognostic value of the CONUT score on cancer patients treated with an immune checkpoint inhibitor (ICI).
+A comprehensive literature search was conducted using various databases including PubMed, the Cochrane Library, EMBASE, and Google Scholar.
+The study was conducted until July 28, 2023.
+This analysis encompassed a comprehensive evaluation of various clinical outcomes, namely overall survival (OS), progression-free survival (PFS), objective response rate (ORR), and disease control rate (DCR).
+663 patients from 8 studies were included in this study.
+It showed that cancer patients with high CONUT score had poorer OS (HR: 1.94, 95% CI, 1.52-2.47, p < 0.001) and PFS (HR: 2.22, 95% CI, 1.48-3.31, p < 0.001), as well as worse ORR (OR: 0.46, 95% CI, 0.25-0.85, p = 0.013) and DCR (HR: 0.29, 95% CI, 0.14-0.59, p = 0.001).
+The CONUT score can predict the prognosis of tumor patients treated with ICIs.

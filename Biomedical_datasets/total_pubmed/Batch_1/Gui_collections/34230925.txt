@@ -1,0 +1,13 @@
+BackgroundHydroxychloroquine (HCQ) is a cornerstone therapy for systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA).
+However, reports of its use and subsequent fatal arrhythmias in patients with Coronavirus disease 19 (COVID-19) have raised concern regarding its cardiovascular (CV) safety.
+Therefore, we examined the relationship between HCQ use and corrected QT (QTc) length in SLE and RA patients without clinical CV disease (CVD).MethodsOne SLE (n=352) and two RA cohorts (n=178) with electrocardiograms (ECGs) collected as part of study data were analyzed.
+RA cohort participants were recruited from tertiary referral centers with additional referrals from community rheumatologists, while SLE subjects originated from the Columbia University Lupus Cohort.
+All patients met American College of Rheumatology (ACR) classification criteria for SLE or RA, and lacked known CVD.
+[continuous or categorical (≥440 ms and ≥500 ms)].
+ResultsOf the combined SLE and RA cohorts (n=530), 70% were HCQ users and 44% had a QTc≥ 440 ms.
+The adjusted mean QTc length was comparable between HCQ users vs non-users (438 ms vs 437 ms).
+In multivariable logistic models, HCQ use was not a significant predictor of a QTc≥440 ms for the entire cohort (OR 0.77; 95% CI 0.48-1.23; p=0.27).
+Importantly, a QTc≥500 ms was inversely associated with HCQ use and not associated with arrhythmias or deaths.
+A significant interaction was found between HCQ use and use of anti-psychotics.
+Ultimately, the use of HCQ combined with any QTc prolonging medication as a group was associated with a QTc length (434 ms; 95%CI 430, 439) which was comparable to that of use of HCQ alone (433 ms; 95% CI 429, 437).
+ConclusionIn a combined cohort of SLE and RA patients without clinical CVD, adjusted QTc length was comparable between HCQ and non-HCQ users, supporting its CV safety in patients with rheumatic diseases.

@@ -1,0 +1,15 @@
+The objective of this study was to assess the quality of online information on orthodontic treatment provided by orthodontic Web sites in the United States and investigate their claims.
+Three hundred and one American orthodontic Web sites were identified after an advanced Google search.
+Data collection included: the location of the clinic, treatment options offered, quality-of-information assessment using the DISCERN tool, and finally, claims when promoting 1 treatment option against another, as well as the presence of information on relapse risk and retention needs.
+All Web sites belonged to private clinics, with more than half (60.5%) in a single location.
+Invisalign (Align Technology, Santa Clara, Calif) was the most commonly promoted treatment option (94%), followed by the full fixed appliance (FFA) (92%).
+The mean DISCERN total score was poor (36.78 out of 80.00), whereas the mean reliability (questions 1-8) and quality-of-information (questions 9-15) scores were 17.06 out of 40.00 and 16.85 out of 35.00, respectively.
+Almost one-third (28%) of the Web sites compared aligners to FFA, whereas 25% claimed that aligners are less painful than FFA, faster than FFA (14%), or give better results than FFA (1%).
+Almost half of the Web sites (47%) failed to display information on relapse risk and retention needs after orthodontic treatment (41%).
+The Web sites that displayed such info had higher DISCERN total scores (P <0.001).
+Invisalign seems to be the treatment modality most commonly mentioned online.
+According to DISCERN, U.S. orthodontic Web sites display poor or fair quality information.
+On many Web sites, aligner treatment was compared with FFA, with some stating that aligners cause less pain than FFA or are more efficient/faster than FFA.
+Moreover, almost half of the American orthodontic Web sites failed to display information on the relapse risk or retention need.
+Display of such information can be an indicator of better-quality Web sites.
+There is ample room for improvement in the online information American orthodontists provide to potential patients.

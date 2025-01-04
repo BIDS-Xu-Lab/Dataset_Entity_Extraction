@@ -1,0 +1,9 @@
+To study the influence of gender features on the quality of life (QL) of the patient one year after coronary artery bypass grafting and to determine factors associated with low QL after surgery.
+The study included 408 patients (70 women and 338 men) whose QL was estimated 1 year after surgery based on the SF-36 questionnaire.
+The groups were compared in terms of QL parameters before and after surgery, clinical data, and peculiarities of surgical treatment.
+In addition, factors associated with clinical data of QL were assessed in each group by logistic regression analysis.
+[60, 75] and 67 [56.76] (p = 0.43].
+Multifactor analysis revealed association of multifocal atherosclerosis with the low level of physical and psychological components in women and depression in men.
+Diabetes mellitus had independent influence on the reduction of QL physical component in women.
+The absence of gender differences 1 year after surgery was due in the first place to the absence of differences between men and women in the number of affected coronary arteries, the number of shunts, the use of artficial circulation, and duration of surgery.
+Decreased frequency of depression, significant increase in the parameters of QL psychological and physical components one year after surgery are independent of the patients' sex due to the absence of differences in QL components between groups, severity of affection of the coronary bed and peculiarities of surgery.

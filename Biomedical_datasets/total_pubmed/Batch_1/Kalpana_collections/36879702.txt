@@ -1,0 +1,21 @@
+Meniscus tear is the most common type of injury to the meniscus and occurs more frequently on the medial compartments than the lateral compartments.
+Further, it is often caused by trauma or degenerative processes and can occur anywhere on either the meniscus, anterior horn, posterior horn, or midbody.
+Treatment of meniscus injuries is likely to greatly impact the evolution of osteoarthritis (OA) as meniscus injuries can gradually progress to knee OA.
+Hence, treatment of these injuries is important for managing the progression of OA.
+While the types of meniscus injuries and symptoms have been reported previously, the effectiveness of rehabilitation according to the degree of meniscus injury (e.g., vertical, longitudinal, radial, and posterior horn tears) remains unknown.
+In this review, we aimed to investigate whether rehabilitation for knee OA associated with isolated meniscus injuries varies with the degree of injury and determine the effects of rehabilitation on outcomes.
+We searched PubMed, Cumulative Index to Nursing and Allied Health Literature, Web of Science, and Physiotherapy Evidence Database for studies published before September 2021.
+Studies on ≥40-year-old patients with knee OA and isolated meniscus injury were included for analysis.
+The types of meniscus injury were classified as longitudinal, radial, transverse, flap, combined, or avulsion of the anterior and posterior roots of the medial meniscus, and assigned knee arthropathy grades of 0-4 according to the Kellgren-Lawrence classification.
+The exclusion criteria were meniscus injury, combined meniscus and ligament injury, and knee OA associated with combined injury in patients <40 years of age.
+There were no restrictions on the region, race, or gender of participants, or language or research format of the studies.
+The outcome measures were the Knee Osteoarthritis Outcome Score, Western Ontario and McMaster Universities Osteoarthritis Index Score, Visual Analog Scale or Numeric Rating Scale, Western Ontario Meniscal Evaluation Tool, International Knee Documentation Committee Score, Lysholm Score, 36-Item Short-Form Health Survey, one-leg hop test, timed up and go test, and re-injury and muscle strength.
+A total of 16 reports met these criteria.
+In studies that did not classify or distinguish degrees of meniscus injury, the effects of rehabilitation were generally favorable in the medium-to-long term.
+In cases where the intervention was not sufficiently effective, patients were recommended either arthroscopic partial meniscectomy or total knee replacement.
+Studies on medial meniscus posterior root tear did not confirm the effectiveness of rehabilitation due to the short intervention period.
+Further, Knee Osteoarthritis Outcome Score cut-offs, clinically important differences in Western Ontario and McMaster Universities Osteoarthritis Index, and minimum important changes in patient-specific functional scales were reported.
+Of the 16 studies reported in this review, nine met the definition.
+This scoping review has a few limitations such as the effect of rehabilitation alone could not be examined, and the intervention effectiveness differed at short-term follow-up.
+In conclusion, there was a gap in evidence regarding the rehabilitation of knee OA after isolated meniscus injury due to differences in intervention duration and methods.
+In addition, on short-term follow-up, intervention effects varied across studies.

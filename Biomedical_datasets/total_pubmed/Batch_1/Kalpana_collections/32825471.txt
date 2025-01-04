@@ -1,0 +1,6 @@
+With the development of artificial intelligence and big data analytics, an increasing number of researchers have tried to use deep-learning technology to train neural networks and achieved great success in the field of vehicle detection.
+However, as a special domain of object detection, vehicle detection in aerial images still has made limited progress because of low resolution, complex backgrounds and rotating objects.
+In this paper, an improved feature-balanced pyramid network (FBPN) has been proposed to enhance the network's ability to detect small objects.
+By combining FBPN with modified faster region convolutional neural network (faster-RCNN), a vehicle detection framework for aerial images is proposed.
+The focal loss function is adopted in the proposed framework to reduce the imbalance between easy and hard samples.
+The experimental results based on the VEDIA, USCAS-AOD, and DOTA datasets show that the proposed framework outperforms other state-of-the-art vehicle detection algorithms for aerial images.

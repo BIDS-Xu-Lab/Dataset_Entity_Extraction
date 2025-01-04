@@ -1,0 +1,28 @@
+To explore the effects of rapamycin on the migration of human epidermal cell line HaCaT, and to analyze its molecular mechanism.
+HaCaT cells were conventionally cultured with RPMI 1640 culture medium containing 10% fetal calf serum (hereinafter referred to as culture medium).
+(1) According to the random number table, HaCaT cells in logarithmic phase were divided into control group and 1, 5, 50, 100, 200 nmol/L rapamycin groups, with 6 wells in each group.
+The cells in rapamycin groups were cultured with culture medium containing rapamycin in corresponding mass concentration, and the cells in control group were cultured with culture medium containing dimethyl sulfoxide (DMSO) instead.
+After being conventionally cultured for 4 hours, proliferative activity of cells was determined with microplate reader (denoted as absorbance value).
+(2) HaCaT cells in logarithmic phase were grouped and cultured as that in experiment (1), with 1 well in each group.
+After being conventionally cultured for 4 hours, range of movement of cells in 3 hours was observed under live cell imaging workstation, and their curvilinear movement speeds were calculated.
+Then the suitable concentration of rapamycin was selected for experiments (3) and (4).
+(3) HaCaT cells in logarithmic phase were divided into control group and rapamycin group according to the random number table, with 1 well in each group.
+The cells in rapamycin group were cultured with culture medium containing 50 nmol/L rapamycin, and the cells in control group were cultured with culture medium containing DMSO.
+After being conventionally cultured for 4 hours, cells were collected for scratch assay.
+Wound area was observed at post scratching hour (PSH) 0, 5, 10, and 15, and the migration rates of cells at PSH 5, 10, and 15 were calculated respectively.
+(4) HaCaT cells in logarithmic phase were grouped and cultured as that in experiment (3), with 1 well in each group.
+Activity of focal adhesion kinase (FAK) was determined with Western blotting (denoted as the ratio of gray value of phosphorylated FAK to that of FAK).
+Above-mentioned experiments were independently repeated for three or five times.
+Data were processed with one-way analysis of variance, LSD test, and t test.
+(1) Proliferative activity of cells in control group and 1, 5, 50, 100, 200 nmol/L rapamycin groups was respectively 1.22±0.28, 1.29±0.38, 1.12±0.27, 1.20±0.29, 1.15±0.30, 1.39±0.40, without statistically significant differences among these groups (F=2.112, P=0.068).
+(2) The ranges of movement of cells in 1, 5 nmol/L rapamycin groups were similar to the range of movement of cells in control group, while those of cells in 50, 100, 200 nmol/L rapamycin groups were obviously smaller than the range of movement of cells in control group.
+There were statistically significant differences in cell curvilinear movement speeds among the 6 groups (F=3.525, P=0.004).
+[(0.9±0.5) μm/min, with P values above 0.05].
+The curvilinear movement speeds of cells in 50, 100, 200 nmol/L rapamycin groups were respectively (0.7±0.5), (0.7±0.4), (0.7±0.4) μm/min, and they were significantly lower than the curvilinear movement speed of cells in control group (with P values below 0.01).
+Thus, 50 nmol/L rapamycin was selected for experiments (3) and (4).
+(3) Compared with those of control group, wound areas of rapamycin group showed no obvious change at PSH 0 and 5, while they were obviously increased at PSH 10 and 15.
+At PSH 5, migration rate of cells in control group [(17.5±2.6)%] was similar to that in rapamycin group [(15.8±3.5)%, t=1.951, P>0.05].
+Migration rates of cells of rapamycin group at PSH 10 and 15 [(42.5±4.0)% and (71.3±9.2)%, respectively] were obviously decreased as compared with those of control group [(46.9±6.7)% and (88.0±7.7)%, with t values respectively 2.732 and 6.746, P values below 0.01].
+(4) Compared with that in control group (0.46±0.14), FAK activity of cells in rapamycin group (0.16±0.08) was significantly down-regulated (t=4.967, P<0.01).
+FAK signal pathway is sensitive to rapamycin in HaCaT cells.
+Inhibition effects of rapamycin on migration of HaCaT cells may be mediated by down-regulated activity of FAK.

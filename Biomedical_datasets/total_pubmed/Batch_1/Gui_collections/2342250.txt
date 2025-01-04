@@ -1,0 +1,7 @@
+Hypertension is associated with an accelerated rate of decline in renal function in patients with chronic renal disease.
+To identify factors that might alter the rate of decline in renal function, we reviewed records of 200 patients from the Nephrology Clinic of the Durham VA Medical Center who had chronic progressive renal insufficiency.
++/- 0.59 in 88 white patients.
+Multiple regression analysis indicates that the patient's age, level of diastolic blood pressure and type of antihypertensive treatment had a significant effect on the slope of reciprocal creatinine whereas the patient's race and diagnosis did not.
+In individual patients, addition of minoxidil or a calcium channel blocker to other medications significantly lowered blood pressure and slope of reciprocal creatinine.
+Some antihypertensive medications lowered blood pressure without significantly affecting the slope.
+These data suggest that specific medications may have a favorable effect on the progression of chronic renal disease by mechanisms in addition to reduction of blood pressure.

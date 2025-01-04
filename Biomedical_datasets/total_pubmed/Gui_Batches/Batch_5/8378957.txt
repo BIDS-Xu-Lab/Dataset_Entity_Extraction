@@ -1,0 +1,11 @@
+Platelet behavior of Sprague Dawley (SD), Wistar (WI), Wistar-Kyoto (WKY), spontaneously hypertensive (SHR), and stroke-prone spontaneously hypertensive rats (SHRSP) was studied in vivo to evaluate the importance of hypertension-related hemostatic disorders.
+The study was based on the model of stimulus-induced pulmonary microembolization of labeled platelets.
+After injection of 51Cr-labeled homologous platelets into urethane-anesthetized rats, the organ distribution of the platelets was continuously monitored by gamma detectors.
+Count rates of two detectors--one placed above the animals' thoraxes (C1), the other above their abdomens (C2)-and the ratio of C1:C2 were calculated.
+The following platelet activators were applied intravenously: adenosine diphosphate (ADP; 50 micrograms/kg), collagen (100 micrograms/kg), and thrombin (50 IU/kg).
+All three substances caused a reversible pulmonary accumulation of the labeled platelets and hence an increase in C1/C2 (delta C1/C2%).
+ADP induced a shift of 75% in SD, 52% in WI, 32% in WKY, 30% in SHR, and 31% in SHRSP.
+Thrombin-mediated shift was 79% in SD, 64% in WI, 58% in WKY, 48% in SHR, and 54% in SHRSP.
+Collagen induced a shift of 85% in SD, 96% in WI, 84% in WKY, 56% in SHR, and 62% in SHRSP.
+Because indistinguishable results were observed in both hypertensive strains, we conclude that impaired platelet aggregation is not specific for SHRSP.
+Hence, it may not primarily be responsible for the increased occurrence of stroke in these animals.

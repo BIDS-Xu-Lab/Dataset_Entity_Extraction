@@ -1,0 +1,6 @@
+The immunobiology of monotremes is poorly understood.
+In this paper, we describe the characterisation of the heavy chain of IgM from Tachyglossus aculeatus, the short-beaked echidna.
+The echidna heavy chain constant region of IgM (Cmu)was isolated from a spleen cDNA library using a Trichosurus vulpecula probe.
+It has approximately 46.5% amino acid identity to marsupial and eutherian Cmus, and approximately 30% amino acid identity with Cmu from birds and reptiles.
+Phylogenetic analysis of mammalian Cmu provides strong support for the Theria hypothesis, with a sister grouping of the eutherians and marsupials to the exclusion of the monotremes.
+Cmu sequences suggest that monotremes and therians separated approximately 170 million years ago (mya), marsupials and eutherians separated approximately 130mya, and Australian and American marsupials separated approximately 65mya.

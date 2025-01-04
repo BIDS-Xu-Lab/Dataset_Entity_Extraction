@@ -1,0 +1,15 @@
+Thrombolysis for stroke is still not widely used as current recommendations restrict treatment to selected patients.
+In general, these are patients who can be assessed quickly by specialised stroke teams, have intracranial haemorrhage excluded by appropriate brain imaging, and are treated with alteplase (recombinant tissue plasminogen activator; rt-PA) within 3 h of symptom onset.
+There is, however, still much debate regarding the scope of treatment and the reorganisation of services required to support an effective service.
+Two recent publications have helped clarify some issues.
+The first was an individual-patient data meta-analysis of the alteplase trials.
+These analyses suggest treatment effects beyond the usual 3 h time window, but other than time to treatment no other factors influenced the effects of treatment.
+The second publication was a reanalysis of the original National Institute of Neurological Disorders and Stroke (NINDS)
+alteplase trial, done after criticism of the original study.
+The reanalysis confirmed that there was significant baseline imbalance of stroke severity between treatment and control groups in the NINDS trial, but established that this did not materially affect the positive results of the trial.
+However, the recording of blood pressure in the study was found to be inconsistent and therefore unsuitable for reanalysis.
+The previously published data on recommendations for blood-pressure control, arising from the NINDS trial, needs to be reconsidered in this light.
+Both studies included too few patients to provide reliable data on which clinical and radiological features influence the response to alteplase.
+: The individual-patient data meta-analysis and reanalysis of the NINDS trial have probably exhausted the potential of previous trials to answer questions on the effects of thrombolysis.
+Further randomised trials comparing thrombolysis with control will be required to determine whether elderly people benefit from treatment or whether there are worthwhile benefits from alteplase beyond 3 h (and in such patients, whether advanced magnetic resonance imaging is an effective way to select those most likely to benefit).
+Various new approaches to reperfusion also require assessment in large-scale trials: new thrombolytic drugs, the combination of intravenous and intra-arterial thrombolytic drugs, combinations of thrombolytics with new antiplatelet agents, and augmentation of thrombolysis either with mechanical devices or with transcranial ultrasound.

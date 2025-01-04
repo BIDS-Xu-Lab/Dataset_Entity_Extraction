@@ -1,0 +1,12 @@
+The objective of this article was to undertake a systematic review of the literature to determine whether IOM is able to sensitively and specifically detect intraoperative neurologic injury during spine surgery and to assess whether IOM results in improved outcomes for patients during these procedures.
+Although relatively uncommon, perioperative neurologic injury, in particular spinal cord injury, is one of the most feared complications of spinal surgery.
+Intraoperative neuromonitoring (IOM) has been proposed as a method which could reduce perioperative neurologic complications after spine surgery.
+A systematic review of the English language literature was undertaken for articles published between 1990 and March 2009.
+MEDLINE, EMBASE, and Cochrane Collaborative Library databases were searched, as were the reference lists of published articles examining the use of IOM in spine surgery.
+Two independent reviewers assessed the level of evidence quality using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) criteria, and disagreements were resolved by consensus.
+A total of 103 articles were initially screened and 32 ultimately met the predetermined inclusion criteria.
+We determined that there is a high level of evidence that multimodal IOM is sensitive and specific for detecting intraoperative neurologic injury during spine surgery.
+There is a low level of evidence that IOM reduces the rate of new or worsened perioperative neurologic deficits.
+There is very low evidence that an intraoperative response to a neuromonitoring alert reduces the rate of perioperative neurologic deterioration.
+Based on strong evidence that multimodality intraoperative neuromonitoring (MIOM) is sensitive and specific for detecting intraoperative neurologic injury during spine surgery, it is recommended that the use of MIOM be considered in spine surgery where the spinal cord or nerve roots are deemed to be at risk, including procedures involving deformity correction and procedures that require the placement of instrumentation.
+There is a need to develop evidence-based protocols to deal with intraoperative changes in MIOM and to validate these prospectively.

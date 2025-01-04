@@ -1,0 +1,13 @@
+This study estimated the U.S. lifetime per-victim cost and economic burden of intimate partner violence.
+Data from previous studies were combined with 2012 U.S. National Intimate Partner and Sexual Violence Survey data in a mathematical model.
+Intimate partner violence was defined as contact sexual violence, physical violence, or stalking victimization with related impact (e.g., missed work days).
+Costs included attributable impaired health, lost productivity, and criminal justice costs from the societal perspective.
+Mean age at first victimization was assessed as 25 years.
+Future costs were discounted by 3%.
+The main outcome measures were the mean per-victim (female and male) and total population (or economic burden) lifetime cost of intimate partner violence.
+Secondary outcome measures were marginal outcome probabilities among victims (e.g., anxiety disorder) and associated costs.
+The estimated intimate partner violence lifetime cost was $103,767 per female victim and $23,414 per male victim, or a population economic burden of nearly $3.6 trillion (2014 US$) over victims' lifetimes, based on 43 million U.S. adults with victimization history.
+This estimate included $2.1 trillion (59% of total) in medical costs, $1.3 trillion (37%) in lost productivity among victims and perpetrators, $73 billion (2%) in criminal justice activities, and $62 billion (2%) in other costs, including victim property loss or damage.
+Government sources pay an estimated $1.3 trillion (37%) of the lifetime economic burden.
+Preventing intimate partner violence is possible and could avoid substantial costs.
+These findings can inform the potential benefit of prioritizing prevention, as well as evaluation of implemented prevention strategies.

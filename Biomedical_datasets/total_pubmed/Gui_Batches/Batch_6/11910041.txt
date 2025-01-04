@@ -1,0 +1,7 @@
+The left-handed polyproline II (PPII) helix gives rise to a circular dichroism spectrum that is remarkably similar to that of unfolded proteins.
+This similarity has been used as the basis for the hypothesis that unfolded proteins possess considerable PPII helical content.
+It has long been known that homopolymers of lysine adopt the PPII helical conformation at neutral pH, presumably a result of electrostatic repulsion between side chains.
+It is shown here that a seven-residue lysine peptide also adopts the PPII conformation.
+In contrast with homopolymers of lysine, this short peptide is shown to retain PPII helical character under conditions in which side-chain charges are heavily screened or even neutralized.
+The most plausible explanation for these observations is that the peptide backbone favors the PPII conformation to maximize favorable interactions with solvent.
+These data are evidence that unfolded proteins do indeed possess PPII content, indicating that the ensemble of unfolded states is significantly smaller than is commonly assumed.

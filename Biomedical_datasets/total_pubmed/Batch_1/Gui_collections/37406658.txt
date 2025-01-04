@@ -1,0 +1,12 @@
+Polycystic ovary syndrome (PCOS) is the most common endocrine disorder with complex pathophysiological mechanism.
+It is reported that even a modest weight loss of 5-10% substantially may improve the reproductive and metabolic profile.
+This study aims to assess the efficacy of the low dose of liraglutide (0.6 mg QD) combined with metformin (0.85 mg BID) in weight loss in Chinese Han women with PCOS.
+We included clinical data of 102 obese/overweight (≥18 years, body mass index ≥28 kg/m2 or ≥24 kg/m2) women who were diagnosed with PCOS from October 2016 to March 2018 in Wuhan Union Hospital initially.
+They were treated with dinae-35, low dose of liraglutide (0.6 mg QD) and metformin (0.85 mg BID) for 12 weeks.
+The demographic and clinical data were retrieved retrospectively, and weight loss was the main outcome measure.
+Student's paired t-test and Wilcoxon rank sum test were used to compare the differences before and after therapy, p < 0.05 was considered statistically significant.
+Participants(n = 102)had lost a mean of 7.20 ± 3.42 kg of body weight (95%CI: 6.55-7.86, p < 0.001), and the mean reduction of BMI was 2.87 ± 1.36 kg/m2 (95%CI: 0.02-0.27, p < 0.001).
+A total of 88.24% of participants lost more than 5% of their body weight.
+The combination of low dose of liraglutide and metformin was associated with significant reduction of body weight in Chinese Han women with PCOS.
+Additionally, a larger randomized double-blind multicenter controlled clinical trial is needed to confirm that.
+The study was registered on http://www.chictr.org.cn as ChiCTR1900024384.

@@ -1,0 +1,10 @@
+Coagulase-negative staphylococci (CoNS) are the main pathogens responsible for prosthetic joint infections (PJIs).
+As normal inhabitants of human skin, it is often difficult to define if they are contaminants, or if they have an active role in initiating infection.
+This study aims to evaluate differences in CoNS organisms (Staphylococcus hominis, Staphylococcus capitis, Staphylococcus haemolyticus, Staphylococcus warneri) and Staphylococcus aureus in terms of isolation rate and antimicrobial susceptibility from patients who met the International Consensus Meeting (ICM) criteria for PJIs and those who did not.
+Staphylococci isolates from January 2014 to December 2015 retrieved from patients undergoing revision joint arthroplasty were classified in accordance with criteria established by the ICM of Philadelphia.
+As per the consensus classification, 50 CoNS and 39 S. aureus infections were recognized as pathogens, while 16 CoNS and four S. aureus were considered as contaminants.
+Frequency of isolation of S. aureus was significantly higher in infected patients than in those without infection, while no significant differences were observed among CoNS.
+Resistance to levofloxacin, erythromycin, gentamicin trimethoprim/sulfamethoxazole, and rifampicin was significantly more frequent in S. haemolyticus than in the other species, as well as resistance to erythromycin and gentamicin in S. hominis.
+In comparison to S. aureus, CoNS were significantly more resistant to daptomycin and gentamicin and more susceptible to rifampicin.
+CoNS, other than Staphylococcus epidermidis, are frequently isolated from PJIs, and their infective role and antimicrobial susceptibility need to be assessed on an individual patient basis.
+S. haemolyticus seems to emerge as responsible for PJI in a large volume of patients, and its role needs to be further investigated, also considering its pattern of resistance.

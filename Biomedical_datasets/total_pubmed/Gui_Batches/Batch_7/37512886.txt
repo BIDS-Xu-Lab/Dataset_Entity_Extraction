@@ -1,0 +1,9 @@
+Rickettsia is an important pathogenic entity among tick-borne diseases (TBD), which are considered serious emerging public health problems globally.
+In India, though the widespread distribution of ticks and TBD has been documented, its real burden remains underreported.
+In a preliminary attempt, rickettsial surveillance was carried out in ticks collected from Sirumalai, Eastern Ghats in Tamil Nadu, India by using pathogen genome-based phylogenetic inferences generated through multi-locus sequence typing (MLST), targeting the genes 16s rRNA, OmpA, OmpB, and gltA by nested PCR.
+The laboratory evidence confirms the circulation of Rickettsia in Haemaphysalis intermedia species collected from this area.
+Analysis of the four gene sequences detected demonstrates their closest identity to the spotted fever group (SFG) available in the GenBank database.
+Further, multiple sequence alignment with other sequences derived from the GenBank database showed close relatedness to Rickettsia conorii subsp.
+raoultii (16s rDNA-99.32%, OmpA-93.38%, OmpB-97.39%, and gltA-98.57%) and Rickettsia felis (16s rDNA 99.54%, OmpA-100%, OmpB-100% and gltA-99.41%).
+With this genomic evidence, the circulation of rickettsial pathogens in the pools of H. intermedia ticks infesting livestock in the Sirumalai foothill area has been demonstrated and to complement the microscopic identification of the tick species, DNA barcodes were generated for H. intermedia using the mitochondrial cytochrome c oxidase subunit I gene (COI).
+Nevertheless, R. raoultii and R. felis were found to be the aetiological agents of tick-borne lymphadenopathy and flea-borne spotted fever in human cases, respectively, further study on the determination of their diversity, distribution, clinical relevance, and potential risk to the local community in these areas is highly warranted.

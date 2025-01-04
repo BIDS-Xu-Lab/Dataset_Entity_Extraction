@@ -1,0 +1,15 @@
+Chronic subdural hematoma (CSDH) is a frequently occurring neurological disease associated with older age and use of anticoagulants.
+Symptoms vary from headaches to coma, but cognitive deficits can also be present.
+However, exact prevalence and severity of cognitive deficits in CSDH are still unknown.
+In this systematic review, we aim to assess cognitive status of patients with CSDH, at presentation and after treatment.
+PubMed, Embase and PsycInfo were searched for articles concerning cognition in CSDH.
+Two reviewers independently selected studies for inclusion and subsequently extracted data.
+Quality assessment was done by means of the Newcastle-Ottawa Scale.
+Reported prevalence of CC and CI was pooled with random effects meta-analysis.
+Out of 799 identified references, 22 met inclusion criteria.
+Twenty-one articles reported on prevalence of CC/CI and one study reported solely on CSDH patients with cognitive deficit.
+Four studies concerned a prospective evaluation of the effect of surgical treatment on cognition.
+These proved to be of fair to good quality after quality assessment.
+The estimated pre-treatment prevalence of objectified cognitive impairment was 61% (95% CI: 51-70%) decreasing to 18% (95% CI: 8-32%) post-surgery.
+From this review it can be concluded that CC and CI are very common in CSDH, with a tendency to improve after treatment.
+Therefore, we underline the importance of increased attention to cognitive status of these patients, with proper testing methods and treatment-testing intervals.

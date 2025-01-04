@@ -1,0 +1,10 @@
+The European Medicines Agency (EMA), the Pharmaceutical and Medical Devices Agency (PMDA), and the Food and Drug Administration (FDA) have issued guidelines for the conduct of drug-drug interaction studies.
+To examine the applicability of these regulatory recommendations specifically for induction, a group of scientists, under the auspices of the Drug Metabolism Leadership Group of the Innovation and Quality (IQ) Consortium, formed the Induction Working Group (IWG).
+A team of 19 scientists, from 16 of the 39 pharmaceutical companies that are members of the IQ Consortium and two Contract Research Organizations reviewed the recommendations, focusing initially on the current EMA guidelines.
+Questions were collated from IQ member companies as to which aspects of the guidelines require further evaluation.
+The EMA was then approached to provide insights into their recommendations on the following: 1) evaluation of downregulation, 2) in vitro assessment of CYP2C induction, 3) the use of CITCO as the positive control for CYP2B6 induction by CAR, 4) data interpretation (a 2-fold increase in mRNA as evidence of induction), and 5) the duration of incubation of hepatocytes with test article.
+The IWG conducted an anonymous survey among IQ member companies to query current practices, focusing specifically on the aforementioned key points.
+Responses were received from 19 companies.
+All data and information were blinded before being shared with the IWG.
+The results of the survey are presented, together with consensus recommendations on downregulation, CYP2C induction, and CYP2B6 positive control.
+Results and recommendations related to data interpretation and induction time course will be reported in subsequent articles.

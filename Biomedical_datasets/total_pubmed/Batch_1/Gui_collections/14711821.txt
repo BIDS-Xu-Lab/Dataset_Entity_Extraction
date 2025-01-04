@@ -1,0 +1,8 @@
+Previous studies have demonstrated that the interaction of the angiotensin II type 1A receptor (AT(1A)R) carboxyl-terminal tail with Rab5a may modulate Rab5a activity, leading to the homotypic fusion of endocytic vesicles.
+Therefore, we have investigated whether AT(1A)R/Rab5a interactions mediate the retention of AT(1A)R.beta-arrestin complexes in early endosomes and whether the overexpression of Rab7 and Rab11 GTPases influences AT(1A)R lysosomal degradation and plasma membrane recycling.
+We found that internalized AT(1A)R was retained in Rab5a-positive early endosomes and was neither targeted to lysosomes nor recycled back to the cell surface, whereas a mutant defective in Rab5a binding, AT(1A)R-(1-349), was targeted to lysosomes for degradation.
+However, the loss of Rab5a binding to the AT(1A)R carboxyl-terminal tail did not promote AT(1A)R recycling.
+Rather, it was the stable binding of beta-arrestin to the AT(1A)R that prevented, at least in part, AT(1A)R recycling.
+The overexpression of wild-type Rab7 and Rab7-Q67L resulted in both increased AT(1A)R degradation and AT(1A)R targeting to lysosomes.
+The Rab7 expression-dependent transition of "putative" AT(1A)R.beta-arrestin complexes to late endosomes was blocked by the expression of dominant-negative Rab5a-S34N. Rab11 overexpression established AT(1A)R recycling and promoted the redistribution of AT(1A)R.beta-arrestin complexes from early to recycling endosomes.
+Taken together, our data suggest that Rab5, Rab7, and Rab11 work in concert with one another to regulate the intracellular trafficking patterns of the AT(1A)R.

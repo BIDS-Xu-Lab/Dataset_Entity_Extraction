@@ -1,0 +1,8 @@
+Genetic susceptibility to DNA oxidation, carcinogen metabolism, and altered DNA repair may increase non-Hodgkin lymphoma (NHL) risk, whereas vegetables- and antioxidant-related nutrients may decrease risk.
+We evaluated the interaction of a priori-defined dietary factors with 28 polymorphisms in these metabolic pathways.
+Incident cases (n = 1,141) were identified during 1998-2000 from four cancer registries and frequency-matched to population-based controls (n = 949).
+We estimated diet-gene joint effects using two-phase semi-parametric maximum-likelihood methods, which utilized genotype data from all subjects as well as 371 cases and 311 controls with available diet information.
+Adjusted odds ratios (95% confidence intervals) were lower among common allele carriers with higher dietary intakes.
+For the GSTM3 3-base insertion and higher total vegetable intake, the risk was 0.56 (0.35-0.92, p interaction = 0.03); for GSTP1 A114V and higher cruciferous vegetable intake, the risk was 0.52 (0.34-0.81, p interaction = 0.02); for OGG1 S326C and higher daily zinc intake, the risk was 0.71 (0.47-1.08, p interaction = 0.04) and for XRCC3 T241M and higher green leafy vegetable intake, the risk was 0.63 (0.41-0.97, p interaction = 0.03).
+Calculation of the false positive report probability determined a high likelihood of falsely positive associations.
+Although most associations have not been examined previously with NHL, our results suggest the examined polymorphisms are not modifiers of the association between vegetable and zinc intakes and NHL risk.

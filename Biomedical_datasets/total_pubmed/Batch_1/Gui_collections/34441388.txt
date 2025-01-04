@@ -1,0 +1,9 @@
+Radical hysterectomy is a recommended treatment for early-stage cervical cancer.
+However, the procedure is associated with significant morbidities resulting from the removal of the parametrium.
+Parametrial cancer invasion (PMI) is found in a minority of patients but the efficient system used to predict it is lacking.
+In this study, we develop a novel machine learning (ML)-based predictive model based on a random forest model (called iPMI) for the practical identification of PMI in women.
+Data of 1112 stage IA-IIA cervical cancer patients who underwent primary surgery were collected and considered as the training dataset, while data from an independent cohort of 116 consecutive patients were used as the independent test dataset.
+Based on these datasets, iPMI-Econ was then developed by using basic clinicopathological data available prior to surgery, while iPMI-Power was also introduced by adding pelvic node metastasis and uterine corpus invasion to the iPMI-Econ.
+Both 10-fold cross-validations and independent test results showed that iPMI-Power outperformed other well-known ML classifiers (e.g., logistic regression, decision tree, k-nearest neighbor, multi-layer perceptron, naive Bayes, support vector machine, and extreme gradient boosting).
+Upon comparison, it was found that iPMI-Power was effective and had a superior performance to other well-known ML classifiers in predicting PMI.
+It is anticipated that the proposed iPMI may serve as a cost-effective and rapid approach to guide important clinical decision-making.

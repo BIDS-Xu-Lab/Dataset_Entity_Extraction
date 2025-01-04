@@ -1,0 +1,13 @@
+Males show higher incidence and severity than females in hepatic injury and many liver diseases, but the mechanisms are not well understood.
+Ferroptosis, an iron-mediated lipid peroxidation-dependent death, plays an important role in the pathogenesis of liver diseases.
+We determined whether hepatocyte ferroptosis displays gender difference, accounting for sexual dimorphism in liver diseases.
+Compared to female hepatocytes, male hepatocytes were much more vulnerable to ferroptosis by iron and pharmacological inducers including RSL3 and iFSP1.
+Male but not female hepatocytes exhibited significant increases in mitochondrial Fe2+ and mitochondrial ROS (mtROS) contents.
+Female hepatocytes showed a lower expression of iron importer transferrin receptor 1 (TfR1) and mitochondrial iron importer mitoferrin 1 (Mfrn1), but a higher expression of iron storage protein ferritin heavy chain 1 (FTH1).
+It is well known that TfR1 expression is positively correlated with ferroptosis.
+Herein, we showed that silencing FTH1 enhanced while knockdown of Mfrn1 decreased ferroptosis in HepG2 cells.
+Removing female hormones by ovariectomy (OVX) did not dampen but rather enhanced hepatocyte resistance to ferroptosis.
+Mechanistically, OVX potentiated the decrease in TfR1 and increase in FTH1 expression.
+OVX also increased FSP1 expression in ERK-dependent manner.
+Elevation in FSP1 suppressed mitochondrial Fe2+ accumulation and mtROS production, constituting a novel mechanism of FSP1-mediated inhibition of ferroptosis.
+In conclusion, differences in hepatocellular iron handling between male and female account, at least in part, for sexual dimorphism in induced ferroptosis of the hepatocytes.

@@ -1,0 +1,11 @@
+Survival from in-hospital cardiac arrest (IHCA) due to pulseless electrical activity/asystole remains poor.
+We aimed to evaluate whether electrocardiographic changes provide predictive information for risk of IHCA from pulseless electrical activity/asystole.
+We conducted a retrospective case-control study, utilizing continuous electrocardiographic data from case and control patients.
+We selected 3 consecutive 3-hour blocks (block 3, 2, and 1 in that order); block 1 immediately preceded cardiac arrest in cases, whereas block 1 was chosen at random in controls.
+In each block, we measured dominant positive and negative trends in electrocardiographic parameters, evaluated for arrhythmias, and compared these between consecutive blocks.
+We created random forest and logistic regression models, and tested them on differentiating case versus control patients (case block 1 vs control block 1), and temporal relation to cardiac arrest (case block 2 vs case block 1).
+Ninety-one cases (age 63.0 ± 17.6, 58% male) and 1,783 control patients (age 63.5 ± 14.8, 67% male) were evaluated.
+We found significant differences in electrocardiographic trends between case and control block 1, particularly in QRS duration, QTc, RR, and ST.
+New episodes of atrial fibrillation and bradyarrhythmias were more common before IHCA.
+The optimal model was the random forest, achieving an area under the curve of 0.829, 63.2% sensitivity, 94.6% specificity at differentiating case versus control block 1 on a validation set, and area under the curve 0.954, 91.2% sensitivity, 83.5% specificity at differentiating case block 1 versus case block 2.
+In conclusion, trends in electrocardiographic parameters during the 3-hour window immediately preceding IHCA differ significantly from other time periods, and provide robust predictive information.

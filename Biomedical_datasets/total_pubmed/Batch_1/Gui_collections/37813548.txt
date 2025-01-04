@@ -1,0 +1,7 @@
+Combining materials science, artificial intelligence (AI), physical chemistry, and other disciplines, materials informatics is continuously accelerating the vigorous development of new materials.
+The emergence of "GPT (Generative Pre-trained Transformer) AI" shows that the scientific research field has entered the era of intelligent civilization with "data" as the basic factor and "algorithm + computing power" as the core productivity.
+The continuous innovation of AI will impact the cognitive laws and scientific methods, and reconstruct the knowledge and wisdom system.
+This leads to think more about materials informatics.
+Here, a comprehensive discussion of AI models and materials infrastructures is provided, and the advances in the discovery and design of new materials are reviewed.
+With the rise of new research paradigms triggered by "AI for Science", the vane of materials informatics: "MatGPT", is proposed and the technical path planning from the aspects of data, descriptors, generative models, pretraining models, directed design models, collaborative training, experimental robots, as well as the efforts and preparations needed to develop a new generation of materials informatics, is carried out.
+Finally, the challenges and constraints faced by materials informatics are discussed, in order to achieve a more digital, intelligent, and automated construction of materials informatics with the joint efforts of more interdisciplinary scientists.

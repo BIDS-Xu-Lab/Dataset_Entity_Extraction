@@ -1,0 +1,8 @@
+Central nervous system (CNS) lymphoma has traditionally had very poor outcomes however advances in management have resulted in dramatic improvements and long-term survival of patients.
+We describe the evidence for treatment strategies for these aggressive disorders.
+In primary CNS lymphoma there are randomized trial data to inform treatment decisions but these are lacking to guide management in secondary CNS lymphoma.
+Dynamic assessment of patient fitness and frailty is key throughout treatment, alongside delivery of CNS-bioavailable therapy and enrolment in clinical trials, at each stage of the disease.
+Intensive high-dose methotrexate-containing induction followed by consolidation with autologous stem cell transplantation with thiotepa-based conditioning is recommended for patients who are fit.
+Less intensive chemoimmunotherapy, novel agents (including Bruton tyrosine kinase inhibitors, cereblon targeting immunomodulatory agents, and checkpoint inhibitors in the context of clinical trials), and whole brain radiotherapy may be reserved for less fit patients or disease which is chemoresistant.
+Data regarding the efficacy of chimeric antigen receptor T-cells therapy is emerging, and concerns regarding greater toxicity have not been realized.
+Future areas of prospective studies include the identification of those at high risk of developing CNS lymphoma, management in elderly or frail patients as well as incorporating novel agents into regimens, particularly for those with chemoresistant disease.

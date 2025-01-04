@@ -1,0 +1,7 @@
+Cell cycle progression is linked to transcriptome dynamics and variations in the response of pluripotent cells to differentiation cues, mostly through unknown determinants.
+Here, we characterized the cell-cycle-associated transcriptome and proteome of mouse embryonic stem cells (mESCs) in naive ground state.
+We found that the thymine DNA glycosylase (TDG) is a cell-cycle-regulated co-factor of the tumor suppressor p53.
+Furthermore, TDG and p53 co-bind ESC-specific cis-regulatory elements and thereby control transcription of p53-dependent genes during self-renewal.
+We determined that the dynamic expression of TDG is required to promote the cell-cycle-associated transcriptional heterogeneity.
+Moreover, we demonstrated that transient depletion of TDG influences cell fate decisions during the early differentiation of mESCs.
+Our findings reveal an unanticipated role of TDG in promoting molecular heterogeneity during the cell cycle and highlight the central role of protein dynamics for the temporal control of cell fate during development.

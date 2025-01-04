@@ -1,0 +1,10 @@
+Spontaneous conformational transition of the prion protein from an alpha-helical isoform to a beta-sheet-rich isoform underlies the pathogenesis of sporadic prion diseases.
+To study the rate-limiting steps of spontaneous conversion, the formation of amyloid fibrils by the recombinant human PrP C-terminal fragment spanning residues 90-231 (recPrP) was monitored in the presence of urea.
+The kinetics of spontaneous fibril formation displayed sigmoidal behavior involving a lag phase.
+The shortest lag phase was observed at partially denaturing conditions, close to the concentration of urea corresponding to the middle point of unfolding.
+This result indicates that unfolding intermediates may be important for the conversion.
+To test whether unfolding intermediates are formed, we employed size-exclusion chromatography and circular dichroism spectroscopy to monitor urea denaturation of recPrP. Both techniques showed a single sigmoidal transition with very similar thermodynamic parameters of denaturation and that the transition can be described by a simple equilibrium between folded and denatured states.
+Detailed analyses of data, however, revealed that the dimensions of both the native and denatured species gradually increases with urea.
+Expansion of the native species is also accompanied by an increase in efficiency of the energy transfer from a single Trp residue to 1-anilinonaphthalene-8-sulfonate dye as measured by fluorescence.
+These data illustrate that thermodynamic character of the native ensemble changes gradually with environmental conditions.
+Such behavior is consistent with the thermodynamically variable model, and may be linked to the ability of PrP to adopt distinct abnormal conformations under pathologic conditions.

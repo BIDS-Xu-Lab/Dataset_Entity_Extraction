@@ -1,0 +1,15 @@
+Our paper describes the first provably-efficient algorithm for determining protein structures de novo, solely from experimental data.
+We show how the global nature of a certain kind of NMR data provides quantifiable complexity-theoretic benefits, allowing us to classify our algorithm as running in polynomial time.
+While our algorithm uses NMR data as input, it is the first polynomial-time algorithm to compute high-resolution structures de novo using any experimentally-recorded data, from either NMR spectroscopy or X-Ray crystallography.
+Improved algorithms for protein structure determination are needed, because currently, the process is expensive and time-consuming.
+For example, an area of intense research in NMR methodology is automated assignment of nuclear Overhauser effect (NOE) restraints, in which structure determination sits in a tight inner-loop (cycle) of assignment/refinement.
+These algorithms are very time-consuming, and typically require a large cluster.
+Thus, algorithms for protein structure determination that are known to run in polynomial time and provide guarantees on solution accuracy are likely to have great impact in the long-term.
+Methods stemming from a technique called "distance geometry embedding" do come with provable guarantees, but the NP-hardness of these problem formulations implies that in the worst case these techniques cannot run in polynomial time.
+We are able to avoid the NP-hardness by (a) some mild assumptions about the protein being studied, (b) the use of residual dipolar couplings (RDCs) instead of a dense network of NOEs, and (c) novel algorithms and proofs that exploit the biophysical geometry of (a) and (b), drawing on a variety of computer science, computational geometry, and computational algebra techniques.
+In our algorithm, RDC data, which gives global restraints on the orientation of internuclear bond vectors, is used in conjunction with very sparse NOE data to obtain a polynomial-time algorithm for protein structure determination.
+An implementation of our algorithm has been applied to 6 different real biological NMR data sets recorded for 3 proteins.
+Our algorithm is combinatorially precise, polynomial-time, and uses much less NMR data to produce results that are as good or better than previous approaches in terms of accuracy of the computed structure as well as running time.
+In practice approaches such as restrained molecular dynamics and simulated annealing, which lack both combinatorial precision and guarantees on running time and solution quality, are commonly used.
+Our results show that by using a different "slice" of the data, an algorithm that is polynomial time and that has guarantees about solution quality can be obtained.
+We believe that our techniques can be extended and generalized for other structure-determination problems such as computing side-chain conformations and the structure of nucleic acids from experimental data.

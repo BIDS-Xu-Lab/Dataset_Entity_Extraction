@@ -1,0 +1,8 @@
+The vasoconstrictors, norepinephrine at low dose ( < or = 0.1 microM; LDNE) and serotonin (5-HT), produce opposing metabolic effects in the constant-flow perfused rat hindlimb characterized by increased and decreased oxygen uptake, respectively.
+In the present study, the effects of each vasoconstrictor are compared in the red blood cell-free buffer-perfused hindlimb on postequilibration endogenous red blood cell efflux, vascular entrapment of fluorescein-labeled dextran (Fx), and vascular corrosion casting by use of 30-micron spheres of methyl methacrylate (MM).
+A marked transient washout of red blood cells occurred immediately in association with vasoconstriction induced by LDNE that was not apparent when a similar extent of vasoconstriction was induced by 5-HT.
+Fx perfusions indicated that LDNE recruited a new vascular space that was reaccessed by a second exposure to the vasoconstrictor.
+5-HT closed off a previously perfused vascular space that was reaccessed when the vasoconstrictor was removed.
+Corrosion casting of the arterial tree with MM showed no increase in cast weight, but more vessels filled because of LDNE.
+Higher doses of NE (2.5 microM) or 5-HT caused a marked decrease in cast weight with fewer vessels filled.
+The data suggest that LDNE and 5-HT, in association with vasoconstriction at different sites, control different capillary flow routes in the hindlimb that in turn may influence metabolism by increasing or decreasing nutrient access, respectively.

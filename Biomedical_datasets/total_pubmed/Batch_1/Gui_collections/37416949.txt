@@ -1,0 +1,11 @@
+The aim of this study was to investigate whether cataract disease is associated with the risk of developing dementia or cognitive impairment.
+A systematic search of the literature in PubMed, the Extracts Database (Embase), the Cochrane Library and the Web of Science databases was performed from the inception data of each database until 1 September 2022.
+Sensitivity analyses were performed to assess the robustness and reliability of the overall findings.
+All extracted data were statistically analyzed using Stata software v.16.0.
+Publication bias was assessed using funnel plots and the Egger test.
+There were 11 publications included in this study, which consisted of 489,211participants, spanning 10 countries from 2012 to 2022.
+Aggregation suggested that cataracts were associated with cognitive impairment (odds ratio [OR] = 1.32; 95% CI: 1.21-1.43; I 2 = 45.4.%; p = 0.000).
+[RR] = 1.17; 95% CI: 1.08-1.26; I2 = 0.0%; p = 0.000).
+In subgroup analyses, having cataracts may increase the risk of Alzheimer's disease (hazard ratio [HR] = 1.28; 95% CI: 1.13-1.45; I2 = 0.0%; p = 0.000) and vascular dementia (HR = 1.35; 95% CI = 1.06-1.73; I2 = 0.0%, p = 0.015).
+The data from the Egger's test showed no significant evidence of publication bias.
+Cataracts are associated with the risk of cognitive impairment and dementia, including Alzheimer's disease, and vascular dementia.

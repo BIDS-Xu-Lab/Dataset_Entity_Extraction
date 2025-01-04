@@ -1,0 +1,10 @@
+This review addresses the challenges of primary central nervous system (CNS) lymphoma diagnosis, assessment of treatment response, and detection of recurrence.
+Primary CNS lymphoma is a rare form of extra-nodal non-Hodgkin lymphoma that can involve brain, spinal cord, leptomeninges, and eyes.
+Primary CNS lymphoma lesions are most commonly confined to the white matter or deep cerebral structures such as basal ganglia and deep periventricular regions.
+Contrast-enhanced magnetic resonance imaging (MRI) is the standard diagnostic modality employed by neuro-oncologists.
+MRI often shows common morphological features such as a single or multiple uniformly well-enhancing lesions without necrosis but with moderate surrounding edema.
+Other brain tumors or inflammatory processes can show similar radiological patterns, making differential diagnosis difficult.
+[18F]-fluorodeoxyglucose (FDG) positron emission tomography (PET) has selected utility in cerebral lymphoma, especially in diagnosis.
+Primary CNS lymphoma can sometimes present with atypical findings on MRI and FDG PET, such as disseminated disease, non-enhancing or ring-like enhancing lesions.
+The complementary strengths of PET and MRI have led to the development of combined PET-MR systems, which in some cases may improve lesion characterization and detection.
+By highlighting active developments in this field, including advanced MRI sequences, novel radiotracers, and potential imaging biomarkers, we aim to spur interest in sophisticated imaging approaches.

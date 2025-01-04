@@ -1,0 +1,11 @@
+Intraventricular haemorrhage (IVH) and cerebral injury are major neurological disorders of premature infants.
+The effect of hyperoxic resuscitation on the occurrence of IVH and cerebral injury is elusive.
+Therefore, we asked whether hyperoxia during neonatal resuscitation increased the incidence and severity of IVH and cerebral injury in premature newborns.
+Premature rabbit pups, delivered by C-section, were sequentially assigned to receive 100%, 40% or 21% oxygen for 15 or 60 min at birth.
+The pups were treated with intraperitoneal glycerol at 24-h postnatal age to determine the incidence and severity of glycerol-induced IVH.
+Vascular endothelial growth factor and angiopoietin-2 genes and protein expression, endothelial proliferation as well as free radical levels and antioxidants were assessed in the germinal matrix, white matter and cortex of pups exposed to 100% oxygen and to 21% oxygen.
+Exposure with 100% oxygen for 1 h did not adversely exacerbate the incidence of glycerol-induced IVH in premature rabbit pups.
+Compared with room air, 100% oxygen enhanced mRNA expression of both vascular endothelial growth factor and angiopoietin-2 as well as reactive oxygen species levels in the germinal matrix.
+Hyperoxia did not affect endothelial proliferation, apoptosis or neuronal degeneration in the forebrain.
+Our data suggest that 100% oxygen exposure for 1 h does not increase the risk of IVH or cerebral injury in premature rabbit pups.
+Although extrapolating rabbit neural developmental data into humans has obvious limitations, we speculate that hyperoxia of short duration at birth in premature infants may not result in major neurological adverse effects.

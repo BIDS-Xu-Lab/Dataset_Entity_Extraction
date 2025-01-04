@@ -1,0 +1,14 @@
+Radiosurgery for multiple brain metastases has been more reported recently without using whole-brain radiotherapy.
+Nevertheless, the sparsity of the data still claims more information about toxicity and survival and their association with both dosimetric and geometric aspects of this treatment.
+To assess the toxicity and survival outcome of radiosurgery in patients with multiple (four or more lesions) brain metastases.
+In a single institution, data were collected retrospectively from patients who underwent radiosurgery to treat brain metastases from diverse primary sites.
+Patients with 4-21 brain metastases were treated with a single fraction with a dose of 18 Gy or 20 Gy.
+The clinical variables collected were relevant to toxicity, survival, treatment response, planning, and dosimetric variables.
+The Spearman's rank correlation coefficients, Mann-Whitney test, Kruskal-Wallis test, and Log-rank test were used according to the type of variable and outcomes.
+From August 2017 to February 2020, 55 patients were evaluated.
+Headache was the most common complaint (38.2%).
+The median overall survival (OS) for patients with karnofsky performance status (KPS) > 70 was 8.9 mo, and this was 3.6 mo for those with KPS ≤ 70 (P = 0.047).
+Patients with treated lesions had a median progression-free survival of 7.6 mo.
+There were no differences in OS (19.7 vs 9.5 mo) or progression-free survival (10.6 vs 6.3 mo) based on prior irradiation.
+There was no correlation found between reported toxicities and planning, dosimetric, and geometric variables, implying that no additional significant toxicity risks appear to be added to the treatment of multiple (four or more) lesions.
+No associations were found between the evaluated toxicities and the planning dosimetric parameters, and no differences in survival rates were detected based on previous treatment status.

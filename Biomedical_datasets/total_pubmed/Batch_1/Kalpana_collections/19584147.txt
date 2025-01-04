@@ -1,0 +1,13 @@
+The study aims to evaluate if human keratinocyte growth factor (hKGF), secreted after transduction of murine salivary glands with adenoviral vectors, can prevent oral mucositis resulting from radiation.
+Two serotype 5 adenoviral vectors encoding hKGF were constructed: AdEF1alpha-hKGF and AdLTR(2)EF1alpha-hKGF.
+Female C3H mice, 8 weeks old, were irradiated by single (22.5 Gy) or fractionated (5 x 8 Gy for 5 days) doses to induce oral mucositis (ulcers on tongue).
+One day before irradiation, the above viral vectors or an empty vector, Adcontrol, was given (10(10) particles per gland) to both submandibular glands by retrograde ductal instillation.
+Each experiment included five groups: no irradiation and irradiation (+/-Adcontrol, AdEF1alpha-hKGF, or AdLTR(2)EF1alpha-hKGF).
+Blood, saliva, submandibular glands, and tongue were collected on day 7 for single-dose studies or day 10 for fractionated dosing.
+hKGF levels were measured by ELISA.
+In three separate single-dose irradiation experiments, lingual ulcers were dramatically reduced after either KGF-expressing vector.
+Similarly, in two separate fractionated irradiation experiments, the hKGF-expressing vectors completely prevented ulcer formation.
+QPCR data indicated that approximately 10(7) to 10(8) particles of each vector remained in the targeted submandibular glands at the terminal time.
+Transgenic hKGF protein was found at high levels in saliva, serum, and submandibular gland extracts.
+hKGF gene transfer to salivary glands prevented radiation-induced oral mucositis in mice.
+This proof of concept study suggests that transgenic hKGF secreted from transduced salivary glands may be useful clinically to prevent oral mucositis caused by radiation.

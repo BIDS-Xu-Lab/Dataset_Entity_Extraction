@@ -1,0 +1,9 @@
+The interpretation of superposition rheology data is still a matter of debate due to lack of understanding of viscoelastic superposition response on a microscopic level.
+So far, only phenomenological approaches have been described, which do not capture the shear induced microstructural deformation, which is responsible for the viscoelastic behavior to the superimposed flow.
+Experimentally there are indications that there is a fundamental difference between the viscoelastic response to an orthogonally and a parallel superimposed shear flow.
+We present theoretical predictions, based on microscopic considerations, for both orthogonal and parallel viscoelastic response functions for a colloidal system of attractive particles near their gas-liquid critical point.
+These predictions extend to values of the stationary shear rate where the system is nonlinearly perturbed, and are based on considerations on the colloidal particle level.
+The difference in response to orthogonal and parallel superimposed shear flow can be understood entirely in terms of microstructural distortion, where the anisotropy of the microstructure under shear flow conditions is essential.
+In accordance with experimental observations we find pronounced negative values for response functions in case of parallel superposition for an intermediate range of frequencies, provided that microstructure is nonlinearly perturbed by the stationary shear component.
+For the critical colloidal systems considered here, the Kramers-Kronig relations for the superimposed response functions are found to be valid.
+It is argued, however, that the Kramers-Kronig relations may be violated for systems where the stationary shear flow induces a considerable amount of new microstructure.

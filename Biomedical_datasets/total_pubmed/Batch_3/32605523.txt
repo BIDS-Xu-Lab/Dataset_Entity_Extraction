@@ -1,0 +1,10 @@
+The objective of our study is to develop extended finite element method models of cancellous bone specimens that are capable of accurately predicting the onset and propagation of cracks under mechanical loading.
+In order to do so, previously published three-point bending test results of a single trabecula were replicated using two different extended finite element method approaches, namely, elastic-plastic-fracture and elastic-fracture that considered different configurations of the elasto-plastic properties of bone from which the best approach to fit the experimental data was identified.
+The behavior of a single trabecula was then used in 2D extended finite element method models to quantify the strength of the trabecular tissue of the forearm along three perpendicular anatomical axes.
+The results revealed that the elastic-plastic-fracture model better represented the experimental data in the model of a single trabecula.
+Considering the 2D trabecular specimens, the elastic fracture model predicted higher strength than the elastic-plastic-fracture model and there was no difference in stiffness between the two models.
+In general, the specimens exhibited higher failure strain and more ductile behavior in compression than in tension.
+In addition, strength and stiffness were found to be higher in tension than compression on average.
+It can be concluded that with proper parameters, extended finite element method is capable of simulating the ductile behavior of cancellous bone.
+The models are able to quantify the tensile strength of trabecular tissue in the various anatomical directions reporting an increased strength in the longitudinal direction of forearm cancellous bone tissue.
+Extended finite element method of cancellous bone proves to be a valuable tool to predict the mechanical characteristics of cancellous bones as a function of the microstructure.

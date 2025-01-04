@@ -1,0 +1,4 @@
+Nanostructured devices and nanoparticles have fundamentally reshaped the development of precision healthcare in recent decades.
+Meanwhile, mass spectrometry (MS)-based proteomics has evolved from simple protein sequencing to a powerful approach that identifies disease patterns and signatures, reveals molecular mechanisms of pathological processes, and develops therapeutic or preventive drugs.
+Significantly, the two distinct disciplines have synergized and expanded our knowledge about human health and disease, as evidenced by a variety of nanotechnology-assisted sample processing strategies, facilitating in-depth proteome profiling and post-translational modifications (PTMs) characterization.
+This review summarizes recent advances in nanoparticle design for better enrichment of marker proteins and their PTMs from various bio-specimens and emerging nanotechnologies that are applied to MS-based proteomics for precision medicine discovery.

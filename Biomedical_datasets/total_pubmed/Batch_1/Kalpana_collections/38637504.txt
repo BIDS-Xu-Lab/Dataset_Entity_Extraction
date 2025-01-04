@@ -1,0 +1,10 @@
+Cisplatin (DDP)-based chemoradiotherapy is one of the standard treatments for nasopharyngeal carcinoma (NPC).
+However, the sensitivity and side effects of DDP to patients remain major obstacles for NPC treatment.
+This research aimed to study DDP sensitivity regulated by cancer-associated fibroblasts (CAFs) through modulating ferroptosis.
+We demonstrated that DDP triggered ferroptosis in NPC cells, and it inhibited tumor growth via inducing ferroptosis in xenograft model.
+CAFs secreted high level of FGF5, thus inhibiting DDP-induced ferroptosis in NPC cells.
+Mechanistically, FGF5 secreted by CAFs directly bound to FGFR2 in NPC cells, leading to the activation of Keap1/Nrf2/HO-1 signaling.
+Rescued experiments indicated that FGFR2 overexpression inhibited DDP-induced ferroptosis, and CAFs protected against DDP-induced ferroptosis via FGF5/FGFR2 axis in NPC cells.
+In vivo data further showed the protective effects of FGF5 on DDP-triggered ferroptosis in NPC xenograft model.
+In conclusion, CAFs inhibited ferroptosis to decrease DDP sensitivity in NPC through secreting FGF5 and activating downstream FGFR2/Nrf2 signaling.
+The therapeutic strategy targeting FGF5/FGFR2 axis from CAFs might augment DDP sensitivity, thus decreasing the side effects of DDP in NPC treatment.

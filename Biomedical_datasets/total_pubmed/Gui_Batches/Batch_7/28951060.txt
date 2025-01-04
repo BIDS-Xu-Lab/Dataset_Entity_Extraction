@@ -1,0 +1,8 @@
+Pentatricopepetide repeat (PPR) proteins are a large family of RNA-binding proteins involved in RNA metabolism in plant organelles.
+Although many PPR proteins have been functionally studied, few of them are identified with a function in mitochondrial RNA stability.
+By using a reverse genetic approach, we characterized the role of the mitochondrion-targeted PPR78 protein in nad5 mature mRNA stability and maize (Zea mays) seed development.
+Loss of PPR78 function leads to a dramatic reduction in the steady-state level of mitochondrial nad5 mature mRNA, blocks the assembly of complex I in the electron transport chain, and causes an arrest in embryogenesis and endosperm development.
+Characterization of a second strong allele confirms the function of PPR78 in nad5 mRNA accumulation and maize seed development.
+The generation of mature nad5 requires the assembly of three distinct precursor RNAs via trans-splicing reactions, and the accumulation of nad5T1 precursor is reduced in the ppr78 mutants.
+However, it is the instability of mature nad5 rather than nad5T1 causing loss of the full-length nad5 transcript, and degradation of nad5 losing both translation start and stop codons is enriched in the mutant.
+Our data imply the assembly of mature nad5 mRNA precedes the protection of PPR78.

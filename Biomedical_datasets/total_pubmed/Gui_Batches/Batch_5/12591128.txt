@@ -1,0 +1,10 @@
+Nitric oxide (NO) is an important nonadrenergic, non-cholinergic (NANC) inhibitory neurotransmitter in the gastrointestinal tract.
+In previous studies, neuronal nitric oxide synthase (nNOS) in the jejunal myenteric plexus, a key enzyme responsible for the release of NO, has been demonstrated to increase after splanchinic ganglionectomy (sympathetic nerve transection).
+The alpha2-adrenoceptor is known to be one of the most important receptors which controls intestinal motility.
+In the present study, we examined the effect of application of the alpha2-adrenoceptor agonist, clonidine hydrochloride, on nNOS expression in the rat jejunal myenteric plexus after splanchinic ganglionectomy.
+Clonidine (0.1-1 mg/kg, i.p.) or saline was administered for 5 days after the splanchinic ganglionectomy.
+The nNOS expression and nNOS mRNA were detected by immunohistochemistry and in situ hybridization for nNOS mRNA, respectively.
+In the rats treated with vehicle after the splanchinic ganglionectomy, nNOS expression in the myenteric plexus significantly increased compared with sham-operated rats.
+The increases in nNOS protein and mRNA after splanchinic ganglionectomy were significantly reversed by clonidine treatment.
+Clonidine-treated naive rats showed no difference in nNOS expression compared with sham-operated rats.
+These data suggest that nNOS expression in the jejunal myenteric plexus after splanchinic ganglionectomy is regulated by the alpha2-adrenoceptor and that the alpha2-adrenoceptor may play an important role in abnormal intestinal motility following splanchinic ganglionectomy in rat jejunum.

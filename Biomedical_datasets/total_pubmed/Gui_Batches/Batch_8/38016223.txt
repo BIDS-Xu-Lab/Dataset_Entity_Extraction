@@ -1,0 +1,13 @@
+Understanding the long-term variations in basins that undergo large-scale hydroelectric projects is crucial for effective dam operation and watershed management.
+In this study, comprehensive analyses were conducted on a dataset spanning over 20 years (1998-2018) of hydrological regime and physicochemical parameters from the Yangtze River basin to evaluate the potential impacts of the Three Gorges Dam.
+Water level significantly increased from 128.75±58.18 m in 2002 to 136.78±55.05 m in 2005, and the mean flow velocity significantly decreased from 2004 to 2010.
+However, no significant change in the flow was observed in the basin.
+Meanwhile, remarkable fluctuations in physicochemical parameters, including dissolved oxygen, chemical oxygen demand, conductivity, hardness, and alkalinity, were mainly observed during impoundment (2003-2009).
+After that, the above parameters tended to stabilize, and some even returned to their original levels.
+The dam's retention effect significantly reduced the suspended solids (SS) in both up- and downstream, to only one-third of the pre-operation level.
+And total phosphorus and chemical oxygen demand also significantly decreased with the decline of SS.
+Particularly, ammonium also showed a significant downward trend, with the up- and downstream of the dam falling by 36.8 % and 26.1 %, respectively.
+However, the increasing total nitrogen (7.5 % and 20.0 % up-
+and downstream of the dam, respectively) still threatened the water quality of the basin, especially in the estuaries.
+Additionally, the significant decline in dissolved oxygen downstream (from 8.53±1.08 mg/L to 8.11±1.36 mg/L) also exacerbated the hypoxia in the Yangtze River estuary.
+The results demonstrated the long-term impact of the construction of the Three Gorges Dam on the environmental elements of the Yangtze River basin, which provides reference data and guidance for the construction of big dams in major rivers in the future.

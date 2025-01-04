@@ -1,0 +1,13 @@
+Sanguinarine has a history of use in both folk medicine and early dermatology for the treatment of cutaneous neoplasms.
+Applied indiscriminately, bloodroot is an escharotic agent with potential to cause extensive tissue necrosis.
+However, when used in a controlled fashion, sanguinarine imparts selective cytotoxic/anti-proliferative activity through multiple mechanisms against human/ murine melanoma.
+To exploit sanguinarine's observed activity against melanoma, a targeted delivery system is required.
+We present a sol-gel based nanoparticulate platform for encapsulating sanguinarine chloride(sang-np)-a targeted therapeutic capable of steady, reliable delivery of predictable quantities of drug over a sustained time period with minimal undesirable effects.
+Size and release kinetics of sang-np were characterized using dynamic light scattering and ultraviolet-visible spectroscopy respectively.
+In vitro efficacy of sang-np was assessed.
+At both 2 and 24 hours, free sanguinarine killed > 90% of B16 melanoma cells, assessed via MTT assay.
+At 2 hours, sang-np killed a portion of melanoma cells, increasing to percentages comparable to free sanguinarine by 24 hours.
+Control(empty) nanoparticles exerted minimal toxicity to melanoma cells at both time points.
+TUNEL assay revealed that treatment with both sanguinarine and sang-np induces apoptosis in B16 melanoma cells, suggesting that both treatments act via the same mechanism of action.
+These data confirm controlled release of sanguinarine from sang-np, as well as comparable efficacy and mechanism of action to sanguinarine alone.
+This suggests that nanoparticle delivery of sanguinarine may be a unique approach to capitalize on this potent agent's inherent anti-tumor activity and overcome many of the limitations with its current formulation.

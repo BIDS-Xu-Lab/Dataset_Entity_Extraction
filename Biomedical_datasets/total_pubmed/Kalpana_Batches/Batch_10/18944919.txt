@@ -1,0 +1,10 @@
+ABSTRACT Molecular markers linked to quantitative trait loci conditioning tolerance to barley yellow dwarf virus (BYDV) were identified in oat (Avena sativa) using amplified fragment length polymorphism (AFLP) analysis.
+Near-isogenic and recombinant inbred lines (NILs and RILs, respectively) derived from a cross of Clintland64 (BYDV-sensitive) and IL86-5698 (BYDV-tolerant) were evaluated for their responses to an Illinois isolate of the PAV strain of BYDV.
+Individual markers identified in the analysis of the NILs explained up to 35% of the variability seen in the tolerance response.
+Single-point analysis of the marker data from the RIL population identified 24 markers in three linkage groups that were associated with tolerance to BYDV infection at P </= 0.001.
+These markers defined three major loci, A, C, and E, that were contributed by the tolerant parent (IL86-5698) and explained 35.0, 20.6, and 17.0% of the variability, respectively.
+Three minor loci G, H(1), and R) were identified at P </= 0.01.
+These loci were contributed by the sensitive parent (Clintland64) and explained 5.8, 5.6, and 5.6% of the variability, respectively.
+Interval analysis showed that only the loci A, C, and E are associated significantly with BYDV tolerance at log of the likelihood ratio >/= 3.0.
+These loci explained about 50% total of the variation in BYDV tolerance in multimarker regression analysis in both years.
+The BYDV tolerance loci A, C, E, and R were mapped to hexaploid oat restriction fragment length polymorphism linkage groups 2, 8, 36, and 5, respectively, by analyzing the segregation of the AFLP markers in the Kanota x Ogle RIL population.

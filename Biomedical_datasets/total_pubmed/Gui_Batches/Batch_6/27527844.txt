@@ -1,0 +1,13 @@
+Perceived social support is associated with better mental health.
+There has been limited attention to how these relationships are modified by age and gender.
+We assessed this topic using 13 years of cohort data.
+The outcome was the Mental Health Inventory-5 (MHI-5), a reliable and valid screening instrument for mood disorders.
+The main exposure was a social support scale composed of 10 items.
+We used longitudinal fixed-effects regression modelling to investigate within-person changes in mental health.
+Analytic models controlled for within-person sources of bias.
+We controlled for time-related factors by including them into regression modelling.
+The provision of higher levels of social support was associated with greater improvements in mental health for people aged under 30 years than for older age groups.
+The mental health of females appeared to benefit slightly more from higher levels of social support than males.
+Improvements in the MHI-5 were on a scale that could be considered clinically significant.
+The benefits of social support for young people may be connected to age-related transitions in self-identity and peer friendship networks.
+Results for females may reflect their tendency to place greater emphasis on social networks than males.

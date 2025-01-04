@@ -1,0 +1,13 @@
+To study the effects of immunosuppressive therapy, in particular, corticosteroids, on morphologic signs of inflammation and expression of cytokines, adhesion molecules, and class I major histocompatibility complex (MHC) antigen in muscle tissue from patients with polymyositis (PM) and dermatomyositis (DM) and to correlate the molecular changes with changes in muscle function.
+Seven patients with PM and 4 patients with DM underwent muscle biopsy before and after 3-6 months of therapy.
+Ten of the 11 patients were initially treated with prednisolone 30-60 mg/day.
+The phenotypes of infiltrating inflammatory cells and the expression of interleukin-1alpha (IL-1alpha) and IL-1beta, adhesion molecules, and class I MHC antigen were studied by immunochemistry.
+Computerized image analysis was used for quantitation of staining.
+Muscle function was assessed with a muscle function index score.
+Pronounced improvement of muscle function during the treatment period was noted in 8 of the 11 patients.
+The changes in muscle function coincided with an almost complete disappearance of inflammatory cells, including CD3+ T cells, in the patients with clinical improvement.
+These patients also exhibited decreased expression of IL-1alpha, IL-1beta, intercellular adhesion molecule 1 (ICAM-1), vascular cell adhesion molecule 1 (VCAM-1), leukocyte function-associated antigen 1alpha, and very late activation antigen 4alpha.
+Of note, there was persistent expression of IL-1alpha, ICAM-1, and VCAM-1 in capillaries and of class I MHC antigens on muscle fibers in several of the patients who, after corticosteroid treatment, still had muscle weakness despite the disappearance of inflammatory infiltrates.
+Changes in the muscle expression of key molecules in the inflammatory process, such as IL-1alpha and IL-1beta, ICAM-1 and class I MHC antigens, showed a consistent but not complete concordance with changes in and status of muscle function in patients with myositis who received the current standard treatment for the disease.
+These data indicate that it is possible to further evaluate various therapies for myositis using molecular analysis of muscle biopsy specimens obtained on repeated occasions.
+In addition, the data demonstrate a dissociation between muscle function and degree of inflammatory infiltration in the affected muscles and suggest that the functional defects are more related to the expression of molecules such as IL-1alpha in muscle capillaries than to the mere presence of inflammatory cells in the affected muscles.

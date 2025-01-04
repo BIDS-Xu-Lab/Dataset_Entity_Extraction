@@ -1,0 +1,10 @@
+Burden of disease estimates are widely used for priority setting in public health and disability-adjusted life years are a powerful "currency" nowadays.
+However, disability weights, which capture the disability incurred by a typical patient of a certain condition, are fundamental to such burden calculation and their determination remains a widely debated issue.
+A cross-sectional epidemiological survey was conducted in the recently established Taabo health demographic surveillance system (HDSS) in south-central Côte d'Ivoire, to provide new, population-based evidence on the disability caused by schistosomiasis and soil-transmitted helminthiasis.
+Parasitological results from stool, urine, and blood examinations were juxtaposed to quality of life (QoL) questionnaire results from 187 adults.
+A multivariable linear regression model with stepwise backward elimination was used to identify significant associations, considering also sociodemographic characteristics obtained from the Taabo HDSS database.
+Prevalences for hookworm, Plasmodium spp., Trichuris trichiura, Schistosoma haematobium and Schistosoma mansoni were 39.0%, 18.2%, 2.7%, 2.1% and 2.1%, respectively.
+S. mansoni and T. trichiura infections of any intensity reduced the participants' self-rated QoL by 16 points (95% confidence interval (CI): 4-29 points) and 13 points (95% CI: 1-24 points), respectively, on a scale from 0 (worst QoL) to 100 points (best QoL).
+The only other statistically significant effect was a 1-point (95% CI: 0.1-2 points) increase on the QoL scale per one unit increase in a calculated wealth index.
+We found consistent and significant results on the negative effects of schistosomiasis and soil-transmitted helminthiasis on adults' self-rated QoL, also when taking sociodemographic characteristics into account.
+Our results warrant further investigation on the disability incurred by helmintic infections and the usefulness of generic QoL questionnaires in this endeavor.

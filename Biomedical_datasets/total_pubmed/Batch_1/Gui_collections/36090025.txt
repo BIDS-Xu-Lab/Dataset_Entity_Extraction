@@ -1,0 +1,8 @@
+Analyses of metabolic compounds inside cells or tissues provide high information content since they represent the endpoint of biological information flow and are a snapshot of the integration of many regulatory processes.
+However, quantification of the abundance of metabolites requires their careful extraction.
+We present a comprehensive study comparing ten extraction protocols in four human sample types (liver tissue, bone marrow, HL60, and HEK cells) aiming to detect and quantify up to 630 metabolites of different chemical classes.
+We show that the extraction efficiency and repeatability are highly variable across protocols, tissues, and chemical classes of metabolites.
+We used different quality metrics including the limit of detection and variability between replicates as well as the sum of concentrations as a global estimate of analytical repeatability of the extraction.
+The coverage of extracted metabolites depends on the used solvents, which has implications for the design of measurements of different sample types and metabolic compounds of interest.
+The benchmark dataset can be explored in an easy-to-use, interactive, and flexible online resource (R/shiny app MetaboExtract: http://www.metaboextract.shiny.dkfz.de) for context-specific selection of the optimal extraction method.
+Furthermore, data processing and conversion functionality underlying the shiny app are accessible as an R package: https://cran.r-project.org/package=MetAlyzer.

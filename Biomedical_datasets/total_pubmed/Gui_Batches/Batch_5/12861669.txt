@@ -1,0 +1,12 @@
+To describe the registration of adverse events and the use of the National Surgical Adverse Event Registration (LHCR) software, to analyse possible bottlenecks and to give possibilities for further implementation.
+A reply form was sent to all 134 surgical departments, followed by a telephone interview in case of unclear or missing information or non-response.
+The questionnaire asked whether adverse events were registered, how they were registered, and whether the LHCR software had been installed.
+In terms of the LHCR use, the form included questions on whether a file had been created to import available patient, admission and surgery data from the hospital information system (HIS), whether adverse event data had been entered into the database, and whether any bottlenecks had been encountered.
+After contact by telephone, the data from all 134 departments were retrieved.
+Adverse events were registered in 92.5% of the departments, but in 42.7% this was done only on paper.
+The LHCR was operational in 33 departments (24.6%).
+The most important limiting factor was the creation of an import file with HIS data.
+Given the fact that such problems can and have been resolved in hospitals where on-site support was provided, the LHCR could potentially be operational in 55-80% of teaching hospitals and in 60-86% of non-teaching hospitals.
+Adverse events were registered in almost all surgical departments, but often only on paper.
+The use of the LHCR was limited mainly by the creation of an import file.
+There appeared to be enough potential to ultimately achieve the initial goals of a nationwide automated registry of adverse events.

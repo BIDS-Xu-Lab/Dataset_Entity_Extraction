@@ -1,0 +1,6 @@
+The supplemented case-control design consists of a case-control sample and of an additional sample of disease-free subjects who arise from a given stratum of one of the measured exposures in the case-control study.
+The supplemental data might, for example, arise from a population survey conducted independently of the case-control study.
+This design improves precision of estimates of main effects and especially of joint exposures, particularly when joint exposures are uncommon and the prevalence of one of the exposures is low.
+We first present a pseudo-likelihood estimator (PLE) that is easy to compute.
+We further adapt two-phase design methods to find maximum likelihood estimates (MLEs) for the log odds ratios for this design and derive asymptotic variance estimators that appropriately account for the differences in sampling schemes of this design from that of the traditional two-phase design.
+As an illustration of our design we present a study that was conducted to assess the influence to joint exposure of hepatitis-B virus (HBV) and hepatitis-C virus (HCV) infection on the risk of hepatocellular carcinoma in data from Qidong County, Jiangsu Province, China.

@@ -1,0 +1,8 @@
+Adjustment in dose based on body size is not recommended currently for thrombolytic regimens, except for a reduction in alteplase (recombinant tissue-type plasminogen activator [rt-PA]) dose for safety reasons in patients with low body weight.
+It is unresolved how to dose thrombolytic agents in very heavy patients.
+The study objective was to assess whether patency of the infarct-related artery at 1 day after therapy with anistreplase (anisoylated plasminogen streptokinase activator complex [APSAC]) or rt-PA is adversely affected by increased body weight.
+Data were analyzed from a double-blind, randomized, comparative study of APSAC (30 U/5 min) versus rt-PA (100 mg/3 hours, adjusted downward for body weight <
+65 kg), together with heparin and aspirin, in patients with acute myocardial infarction presenting within 4 hours of symptom onset.
+Coronary patency, determined at 1 day, was assessed in a blinded fashion, and patency success was correlated with body weight, divided into quintiles.
+[p = 0.64]; and 82 and 74%, respectively, for grade 3 [p = 0.42]).
+The dose of heparin administered, adjusted to maintain a therapeutic partial thromboplastin time until the 1-day (mean 28 hours) angiogram, was greater in the heavy than in the low-normal weight group (mean +/- SE 39,680 +/- 4,818 vs 30,027 +/- 1,177 U; p = 0.007).(ABSTRACT TRUNCATED AT 250 WORDS)

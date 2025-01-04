@@ -1,0 +1,12 @@
+Bismuth telluride-based alloy materials are currently the best performing thermoelectric materials at near room temperature; however, their production and use generate waste (e.g., cutting waste and failed grains).
+There is also lack of efficient recycling strategies for the generated waste.
+In this study, a selective sulfidation-vacuum volatilization method is proposed for recovering bismuth telluride waste.
+The Gibbs free energies of the sulfidation reaction of bismuth telluride are calculated, the saturated vapor pressure of each substance is analyzed, and the composition of the products is predicted.
+Based on the differences among the sulfidation and volatile properties of bismuth and tellurium, by adding sulfur to bismuth telluride waste, the composition of the substances was regulated, and efficient separation of tellurium and bismuth was achieved.
+We combined theoretical calculations and experimental studies to investigate the effect of process conditions on the separation and recovery of tellurium and bismuth.
+The results show that bismuth was thoroughly sulfereted and tellurium was a pure metal when the mass ratio of sulfur to bismuth telluride was 0.168, the sulfidation temperature was 573 K, and the holding time was 60 min. After sulfidation of the bismuth telluride waste, the sulfides were telluride and bismuthous sulfide.
+The sulfides, that resulted from sulfureted bismuth telluride production, were treated via vacuum volatilization.
+The optimal vacuum volatilization condition was 873 K for 120 min.
+The purities of tellurium and bismuth sulfide obtained by the selective sulfidation-vacuum volatilization experiment were >99%.
+The distribution ratios of tellurium and bismuth were 98.46% and 99.59%, respectively.
+The method thoroughly separated tellurium and bismuth from bismuth telluride waste, considerably reducing the environmental and economic costs compared with those of the conventional processes.

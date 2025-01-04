@@ -1,0 +1,7 @@
+The aim of this study was to examine the monthly variation of the first service conception (FSC) and oestrus frequency (OF) from 8308 artificial inseminations (AI) of 2960 crossbred dual-purpose cows on three commercial farms with improved management located in the Maracaibo Lake Basin, Venezuela.
+The effects of month of the year, agroecological area (from dry tropical forest to sub-humid tropical forest on the three farms), predominant breed (BT, Bos taurus; BI, Bos indicus), and season (December-April; May-August; and September-November) were considered.
+Data were analysed using logistic regression (FSC) and GLM (OF) from SAS.
+The mean FSC was 55.4% overall and 48.7%, 57.0% and 58.3% for farms A, B and C, respectively (p < 0.01).
+Within the three agroecological areas (farms A, B and C), the FSC was highest during the cooler and drier months of the year (season 1), while the lowest FSC was obtained during the months of highest rainfall and humidity (season 3) (53.3% vs. 37.4%; 58.5% vs. 49.0% and 63.0% vs. 52.3% on farms A, B, C, respectively; p < 0.01).
+In the three studied farms, OF was higher during the first 4 months of the year; with a diminishing trend towards the end of the year (p < 0.05).
+In general, BI cows had a higher FSC than BT cows, especially during the second half of the year, when environmental conditions were characterized by higher rainfall and humidity with lower wind velocity (58.8%a, 55.5%b and 46.4%c in season 1, 2 and 3 respectively; a,b,c p < 0.01).

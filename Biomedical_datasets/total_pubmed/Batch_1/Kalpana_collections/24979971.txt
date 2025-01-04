@@ -1,0 +1,11 @@
+This report, following publication of the national life tables (1,2) for 1999-2001, presents state-specific life tables for the 50 states and District of Columbia by race (white and black) and sex.
+These tables are the most recent in a series of decennial life tables for the United States.
+Data used to prepare these state-specific life tables include population counts by age on the census date of April 1, 2000; deaths occurring in the 3-year period of 1999-2001; and counts of U.S. resident births during 1997-2001.
+Methods for calculating the life tables were modified from the previous decennial life tables to automate the smoothing of age-specific mortality data and to allow for the estimation of life tables for smaller population subgroups, which often had insufficient data available to estimate reliable life tables under the previous method.
+The current method allows for the estimation of life tables for the black population in six states, which were never previously published due to small numbers of deaths.
+Standard errors for estimating life expectancy and probability of dying are also presented in this report.
+Among the 50 states, Hawaii had the highest life expectancy at birth during the 1999-2001 period at 80.23 years, and Mississippi had the lowest life expectancy at 73.88 years.
+Life expectancy for the District of Columbia was even lower at 73.09 years.
+State-specific life expectancy at birth improved from the previous decennial period (1989-1991) for all states and the District of Columbia.
+Life expectancy at age 65 ranged from 20.42 years in Hawaii to 16.61 years in Kentucky.
+Life expectancy at age 65 also improved for all states except Kentucky.

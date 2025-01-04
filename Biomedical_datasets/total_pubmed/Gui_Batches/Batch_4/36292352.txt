@@ -1,0 +1,8 @@
+Age-related decline in skeletal muscle mass and function are risk factors for reduced walking ability.
+This study aimed to understand the characteristic gait parameters of presarcopenia (low muscle mass only), dynapenia (low muscle function only), and sarcopenia (low muscle mass and function), which have differing skeletal muscle characteristics.
+Skeletal muscle mass, grip strength, and gait parameters (walking speed, cadence, step length, step width, gait angle, foot angle, stance time, swing time, and double stance time) were evaluated in 307 older Japanese women.
+Low muscle function was determined by grip strength and normal walking speed.
+Participants were assessed and divided into the normal (60.9%, n = 187), presarcopenia (25.7%, n = 79), dynapenia (5.2%, n = 16), and sarcopenia (8.1%, n = 25) groups.
+When compared to the normal group, the sarcopenia group had significantly slower walking speed and shorter step length (p &lt; 0.05); the dynapenia group had significantly slower walking speed, smaller cadence, shorter step length, wider step width, and longer stance time (p &lt; 0.05); and the presarcopenia group showed no differences.
+Skeletal muscle function may therefore be more strongly related to reduced walking function in older adults than body composition factors.
+The decrease in walking function was most pronounced in older women with dynapenia.

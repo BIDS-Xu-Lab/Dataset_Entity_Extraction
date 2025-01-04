@@ -1,0 +1,9 @@
+Activation of peripheral T cells by foreign and self antigens is under stringent control by different mechanisms, both thymic and peripheral.
+Control of T cell reactivity is accomplished by three major types of mechanisms: 1) deletion, the physical elimination of T cells specific for a given antigen, 2) anergy, the functional incapacity of T cells to respond to antigen, 3) suppression, the inhibition of T cell function by a regulatory (suppressor) cell.
+Their failure may lead to autoimmune diseases.
+The progress in understanding T cell activation, inactivation and modulation is being translated into strategies able to induce selective immunosuppression to treat different pathological situations, notably autoimmune diseases, allergies, and allograft rejection.
+The medical need for selective immunosuppression is very high, as the available immunosuppressive drugs are substantially inadequate because of limited efficacy, modest selectivity, and considerable toxicity.
+Key attack points for selective immunointervention have been identified: modulation of antigen recognition, co-stimulation blockade, induction of regulatory cells, deviation to non-pathogenic or protective responses, neutralization of proinflammatory cytokines, induction or administration of anti-inflammatory cytokines, and modulation of leukocyte trafficking.
+All these forms of immunointervention have been successfully used to prevent and sometimes treat experimental autoimmune diseases.
+Based on these results, expectations have been raised for exploiting the same strategies to inhibit the activation of human autoreactive T cells.
+In this overview, we will examine recent advances towards immunointervention in multiple sclerosis (MS) as a paradigm for successes and failures of current immunotherapeutic approaches in human autoimmune diseases.

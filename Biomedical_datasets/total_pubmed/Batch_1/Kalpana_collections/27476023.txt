@@ -1,0 +1,10 @@
+The study investigates the association between level of long-term physical workload in middle age and disability pension (DP) before 61 years of age with adjustments made for early life factors, level of education, and psychosocial working conditions.
+Associations with DP overall, DP due to musculoskeletal disorders and DP due to psychiatric disorders were examined.
+The study is based on cohorts of 21,809 Swedish men and women born in 1948 and 1953, with data on physical workload estimated with a job exposure matrix based on occupational titles in 1985 and 1990 and follow-up data on diagnosis-specific DP in the years 1991-2009.
+Data on paternal education and intelligence were collected in primary school.
+Data on level of education were taken from administrative records.
+Data on psychosocial working conditions were estimated with a job exposure matrix based on occupational titles in 1990.
+Long-term exposure to high physical workload measured 5 years apart at around age 40 was strongly associated with DP due to musculoskeletal disorders up to the age of 61 among both men (HR 5.44, 95 % CI 3.35-8.84) and women (HR 3.82, CI 95 % 2.88-5.08).
+For women, the association between high physical load and overall DP was also significantly increased (HR 2.33, CI 95 % 1.92-2.82).
+The increased risks remained but were clearly attenuated after adjustments for fathers' education, IQ in childhood, achieved education and level of control at work.
+Exposure to high physical workload is associated with long-term risk of DP due to musculoskeletal disorders, even though adjustments for early life factors, level of education and psychosocial working conditions clearly attenuated the risks.

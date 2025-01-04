@@ -1,0 +1,13 @@
+Lung cancer is the second most common cancer worldwide, with over two million new cases per year.
+Early identification would allow healthcare practitioners to handle it more effectively.
+The advancement of computer-aided detection systems significantly impacted clinical analysis and decision-making on human disease.
+Towards this, machine learning and deep learning techniques are successfully being applied.
+Due to several advantages, transfer learning has become popular for disease detection based on image data.
+In this work, we build a novel transfer learning model (VER-Net) by stacking three different transfer learning models to detect lung cancer using lung CT scan images.
+The model is trained to map the CT scan images with four lung cancer classes.
+Various measures, such as image preprocessing, data augmentation, and hyperparameter tuning, are taken to improve the efficacy of VER-Net.
+All the models are trained and evaluated using multiclass classifications chest CT images.
+The experimental results confirm that VER-Net outperformed the other eight transfer learning models compared with.
+VER-Net scored 91%, 92%, 91%, and 91.3% when tested for accuracy, precision, recall, and F1-score, respectively.
+Compared to the state-of-the-art, VER-Net has better accuracy.
+VER-Net is not only effectively used for lung cancer detection but may also be useful for other diseases for which CT scan images are available.

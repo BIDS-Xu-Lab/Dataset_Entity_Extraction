@@ -1,0 +1,10 @@
+Studies have confirmed that anxiety, especially worry and rumination, are associated with increased risk for cognitive decline, including Alzheimer's disease and related dementias (ADRD).
+Hippocampal atrophy is a hallmark of ADRD.
+We investigated the association between hippocampus and its subfield volumes and late-life global anxiety, worry, and rumination, and emotion regulation strategies.
+We recruited 110 participants with varying worry severity who underwent magnetic resonance imaging and clinical interviews.
+We conducted cross-sectional regression analysis between each subfield and anxiety, worry, rumination, reappraisal, and suppression while adjusting for age, sex, race, education, cumulative illness burden, stress, neuroticism, and intracranial volume.
+We imputed missing data and corrected for multiple comparisons across regions.
+Greater worry was associated with smaller subiculum volume, whereas greater use of reappraisal was associated with larger subiculum and CA1 volume.
+Greater worry may be detrimental to the hippocampus and to subfields involved in early ADRD pathology.
+Use of reappraisal appears protective of hippocampal structure.
+Worry and reappraisal may be modifiable targets for ADRD prevention.

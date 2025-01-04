@@ -1,0 +1,15 @@
+Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder, and its specific pathogenesis is still unclear.
+We have previously reported that TTX-resistant (TTX-R) sodium channels in colon-specific dorsal root ganglion (DRG) neurons were sensitized in a rat model of visceral hypersensitivity induced by neonatal colonic inflammation (NCI).
+However, the detailed molecular mechanism for activation of sodium channels remains unknown.
+This study was designed to examine roles for Melatonin (MT) in sensitization of sodium channels in NCI rats.
+Colorectal distention (CRD) in adult male rats as a measure of visceral hypersensitivity.
+Colon-specific dorsal root ganglion (DRG) neurons were labeled with DiI and acutely dissociated for measuring excitability and sodium channel current under whole-cell patch clamp configurations.
+Western blot and Immunofluorescence were employed to detect changes in expression of Nav1.8 and MT2.
+The results showed that rats exhibited visceral hypersensitivity after NCI treatment.
+Intrathecal application of melatonin significantly increased the threshold of CRD in NCI rats with a dose-dependent manner, but has no role in the control group.
+Whole-cell patch clamp recording showed that melatonin remarkably decreased the excitability and the density of TTX-R sodium channel in DRG neurons from NCI rats.
+The expression of MT2 receptor at the protein level was markedly lower in NCI rats.
+8-MP, an agonist of MT2 receptor, enhanced the distention threshold in NCI rats.
+Application of 8-MP reversed the enhanced hypersensitivity of DRG neurons from NCI rats.
+8-MP also reduced TTX-R sodium current density and modulated dynamics of TTX-R sodium current activation.
+These data suggest that sensitization of sodium channels of colon DRG neurons in NCI rats is most likely mediated by MT2 receptor, thus identifying a potential target for treatment for chronic visceral pain in patients with IBS.

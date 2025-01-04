@@ -1,0 +1,13 @@
+Microsporidia are a group of pathogens that infect all kinds of animals, such as humans, silkworms, honeybees, and shrimp; they, therefore, pose a severe threat to public health and the economy.
+There are over 1500 species of microsporidia that have been reported, among which Encephalitozoon hellem and Nosema bombycis are the representative zoonotic and insect-infecting species, respectively.
+Investigating their cell infection patterns is of great significance for understanding their infection mechanisms.
+Specific probes were designed for the ribosomal RNA sequences of microsporidia.
+Fluorescence in situ hybridization (FISH) was used to trace the proliferation cycle of the pathogens in different cells.
+Here, two rRNA large subunit gene (LSUrRNA) probes specifically labeling N. bombycis were obtained.
+The life cycle of N. bombycis in silkworm cells and E. hellem in three kinds of host cells was graphically drawn.
+N. bombycis meronts were first observed at 30 hours post-infection (hpi), and they began merogony.
+Sporonts were observed at 42 hpi, and the first entire proliferation cycle was completed at 48 hpi.
+The proliferation cycle of E. hellem in RK13 and HEK293 epithelial cells was almost the same, completing the first life cycle after 24 hpi, but it was significantly delayed to 32 hpi in RAW264.7.
+Specific FISH probes were established for labeling microsporidia in multiple host cells.
+The proliferation characteristics of representative zoonotic and insect-infecting microsporidian species were clarified.
+This study provides an experimental pattern for future analyses of microsporidian infection mechanisms.

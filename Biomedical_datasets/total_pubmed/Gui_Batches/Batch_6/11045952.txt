@@ -1,0 +1,8 @@
+This study characterized the effects of fluid percussion brain injury (FPI) on N-methyl-D-aspartate (NMDA)-induced vasodilation and determined the role of nociceptin/orphanin FQ (NOC/oFQ) in such changes as a function of age and time postinsult.
+NOC/oFQ from 70 +/- 3 to 444 +/- 56 pg/ml ( approximately 10(-10) M) within 1 h and to 1,931 +/- 112 pg/ml within 8 h, whereas values returned to control levels within 168 h in the newborn pig.
+In contrast, FPI elevated CSF NOC/oFQ from 77 +/- 4 to 202 +/- 16 pg/ml within 1 h and values returned to control levels within 8 h in the juvenile pig.
+Topical NOC/oFQ (10(-10) M) had no effect on pial artery diameter but attenuated NMDA (10(-8), 10(-6) M)-induced dilation (9 +/- 1 and 16 +/- 1 vs. 5 +/- 1 and 10 +/- 1%) in both age groups.
++/- 1 and -3 +/- 1% for control, FPI, and FPI pretreated with the NOC/oFQ antagonist).
+In contrast, in the juvenile, NMDA-induced vasodilation was only attenuated within 1 h post-FPI and returned to control within 8 h. Such dilation was also partially restored by the NOC/oFQ antagonist.
+These data indicate that NOC/oFQ contributes to impaired NMDA pial artery dilation after FPI.
+These data suggest that the greater NOC/oFQ release in the newborn versus the juvenile may contribute to age-related differences in FPI effects on excitatory amino acid-induced pial dilation.

@@ -1,0 +1,8 @@
+comprising transcriptomic and proteomic analyses revealed clear evidence that glucose is transported by the N-acetylglucosamine-specific phosphotransferase system (PTS(Nag)), which is overexpressed in this mutant due to a derepression of the encoding nag operon by an identified insertion mutation in nagR (Raberg et al., Appl Environ Microbiol 77:2058-2070, 2011).
+The inability of the defined deletion mutant R. eutropha G⁺1∆nagFEC to utilize glucose confirms this finding.
+Furthermore, a missense mutation in nagE (membrane component comprising the cell membrane spanning EIIC(Nag) and the cytosolic domain EIIB(Nag)) was identified, which yields a substitution of an alanine by threonine at aa 153 of NagE and may affect glucose specificity of the mutated PTS(Nag) in R. eutropha G⁺1.
+The investigation of various generated deletion and substitution mutants of R. eutropha H16 and G⁺1 in this study was able to elucidate these phenomena.
+It could be shown that the porin NagC, encoded by nagC being part of the nag operon, is not necessary, while NagE is required and is probably responsible for glucose transport through the cell membrane.
+The intracellular phosphorylation of glucose is obviously mediated by the glucokinase GLK and not by NagF (cytosolic component comprising the three soluble domains EIIA(Nag), HPr(Nag), and EI(Nag)).
+Our data clearly indicate that the derepression of the nag operon is essential for glucose uptake.
+The point mutation in NagE is not an essential prerequisite for glucose transport although it increased glucose transport as observed in this study.

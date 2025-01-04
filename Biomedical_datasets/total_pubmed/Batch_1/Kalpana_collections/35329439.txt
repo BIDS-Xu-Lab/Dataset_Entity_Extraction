@@ -1,0 +1,13 @@
+The removal of dyes from industrial effluents is one of the most important industrial processes that is currently on academic demand.
+In this project, for the first time, Trachycarpus fortunei seeds are used as biosources for the synthesis of activated carbon (AC) using physical as well as acid-base chemical methods.
+The synthesized AC was initially characterized by different instrumental techniques, such as FTIR, BET isotherm, SEM, EDX and XRD.
+Then, the prepared activated carbon was used as an economical adsorbent for the removal of xylenol orange and thymol blue from an aqueous solution.
+Furthermore, the effect of different parameters, i.e., concentration of dye, contact time, pH, adsorbent amount, temperature, adsorbent size and agitation speed, were investigated in batch experiments at room temperature.
+The analysis of different techniques concluded that the pyrolysis method created a significant change in the chemical composition of the prepared AC and the acid-treated AC offered a high carbon/oxygen composite, which is graphitic in nature.
+The removal of both dyes (xylenol orange and thymol blue) was increased with the increase in the dye's initial concentration.
+Isothermal data suggested that the adsorption of both dyes follows the Langmuir model compared to the Freundlich model.
+The equilibrium time for AC biomass to achieve the removal of xylenol orange and thymol blue dyes was determined to be 60 min, and the kinetic data suggested that the adsorption of both dyes obeyed the pseudo-second order model.
+The optimal pH for thymol blue adsorption was pH 6, while it was pH 2 for xylenol orange.
+The adsorption of both dyes increased with the increase in the temperature.
+The influence of the adsorbent amount indicated that the adsorption capacity (mg/g) of both dyes reduced with the rise in the adsorbent amount.
+Thus, the current study suggests that AC prepared by an acid treatment from Trachycarpus fortunei seeds is a good, alternative, cost effective, and eco-friendly adsorbent for the effective removal of dyes from polluted water.

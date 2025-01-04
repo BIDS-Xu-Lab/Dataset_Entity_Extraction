@@ -1,0 +1,9 @@
+The Hardy-Weinberg principle, one of the most important principles in population genetics, was originally developed for the study of allele frequency changes in a population over generations.
+It is now, however, widely used in studies of human diseases to detect inbreeding, populations stratification, and genotyping errors.
+For assessment of deviation from the Hardy-Weinberg proportions in data, the most popular approaches include the asymptotic Pearson's chi-square goodness-of-fit test and the exact test.
+The Pearson's chi-square goodness-of-fit test is simple and straightforward, but it is very sensitive to small sample size or rare allele frequency.
+The exact test of Hardy-Weinberg proportions is preferable in these situations.
+The exact test can be performed through complete enumeration of heterozygote genotypes or on the basis of the Markov chain Monte Carlo procedure.
+In this chapter, we describe the Hardy-Weinberg principle and the commonly used Hardy-Weinberg proportions tests and their applications, and we demonstrate how the chi-square test and exact test of Hardy-Weinberg proportions can be performed step-by-step using the popular software programs SAS, R, and PLINK, which have been widely used in genetic association studies, along with numerical examples.
+We also discuss recent approaches for testing Hardy-Weinberg proportions in case-control study designs that are better than traditional approaches for testing Hardy-Weinberg proportions in controls only.
+Finally, we note that deviation from the Hardy-Weinberg proportions in affected individuals can provide evidence for an association between genetic variants and diseases.

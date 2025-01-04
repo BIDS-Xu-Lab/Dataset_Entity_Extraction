@@ -1,0 +1,8 @@
+fMRI data are commonly analyzed by testing the time course from each voxel against specific hypothesized waveforms, despite the fact that many components of fMRI signals are difficult to specify explicitly.
+In contrast, purely data-driven techniques, by focusing on the intrinsic structure of the data, lack a direct means to test hypotheses of interest to the examiner.
+Between these two extremes, there is a role for hybrid methods that use powerful data-driven techniques to fully characterize the data, but also use some a priori hypotheses to guide the analysis.
+Here we describe such a hybrid technique, HYBICA, which uses the initial characterization of the fMRI data from Independent Component Analysis and allows the experimenter to sequentially combine assumed task-related components so that one can gracefully navigate from a fully data-derived approach to a fully hypothesis-driven approach.
+We describe the results of testing the method with two artificial and two real data sets.
+A metric based on the diagnostic Predicted Sum of Squares statistic was used to select the best number of spatially independent components to combine and utilize in a standard regressional framework.
+The proposed metric provided an objective method to determine whether a more data-driven or a more hypothesis-driven approach was appropriate, depending on the degree of mismatch between the hypothesized reference function and the features in the data.
+HYBICA provides a robust way to combine the data-derived independent components into a data-derived activation waveform and suitable confounds so that standard statistical analysis can be performed.

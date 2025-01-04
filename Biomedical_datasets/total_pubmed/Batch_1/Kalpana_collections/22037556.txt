@@ -1,0 +1,8 @@
+Freezing-point and vapor-pressure osmometry data are reported for aqueous sodium decanoate (NaD) solutions and aqueous NaD + NaCl solutions.
+The derived osmotic coefficients are analyzed with a mass-action model based on the micelle formation reaction qNa(+)
++ nD(-) = (Na(q)D(n))(q-n) and Guggenheim equations for the micelle and ionic activity coefficients.
+Stoichiometric activity coefficients of the NaD and NaCl components and the equilibrium constant for micelle formation are evaluated.
+Illustrating the remarkable but not widely appreciated nonideal behavior of ionic surfactant solutions, the micelle activity coefficient drops to astonishingly low values, below 10(-7) (relative to unity for ideal solutions).
+The activity coefficients of the Na(+) and D(-) ions, raised to large powers of q and n, reduce calculated extents of micelle formation by up to 15 orders of magnitude.
+Activity coefficients, frequently omitted from the Gibbs equation, are found to increase the calculated surface excess concentration of NaD by up to an order of magnitude.
+Inflection points in the extent of micelle formation, used to calculate critical micelle concentration (cmc) lowering caused by added salt, provide unexpected thermodynamic evidence for the elusive second cmc.

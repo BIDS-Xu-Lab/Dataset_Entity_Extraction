@@ -1,0 +1,12 @@
+Dendritic cell (DC) subsets display different functional roles in regulating immune responses and lead to various outcomes, including T(H)1 versus T(H)2 or regulatory versus immunologic responses.
+Administration of Fms-like tyrosine kinase 3 (Flt3) ligand prevents and reverses allergic airway inflammation and airway hyperresponsiveness in a mouse model.
+However, the underlying mechanisms are unclear.
+We characterized and examined the role of lung DC subsets in the therapeutic effect of Flt3 ligand.
+DCs were isolated from the lungs of ovalbumin (OVA)-sensitized and OVA-challenged mice treated with recombinant human Flt3 ligand.
+Two populations of CD11c+ cells labeled with fluorochrome-conjugated antibodies were sorted.
+The ability of the purified cells to stimulate T-cell proliferation and cytokine secretion patterns by different DC subsets was examined.
+Also, DCs were adoptively transferred in mice to examine their effect on pulmonary function.
+Two DC populations, CD11c(high)CD11b(low) and CD11c(low)CD11b(high), were identified in the lungs of naive and OVA-sensitized and OVA-challenged mice with and without treatment with Flt3 ligand.
+The expression levels of CD8alpha, B220, CD19, F4/80, MHC II, CCR7, CD40, programmed death ligand 1, programmed death ligand 2, CD80, and CD86 were distinctly different between the 2 DC populations, which supports the notion that CD11c(high)CD11b(low) and CD11c(low)CD11b(high) DCs potentially have regulatory and immunogenic properties, respectively.
+Administration of Flt3 ligand increased the DCs with regulatory potential in the lungs of antigen-sensitized mice, and CD11c(high)CD11b(low) DCs acquired a maximum degree of regulatory capacity after Flt3 ligand treatment.
+These data suggest that Flt3 ligand reverses airway hyperresponsiveness by regulating the function of lung DCs in a mouse model of allergic airway inflammation.

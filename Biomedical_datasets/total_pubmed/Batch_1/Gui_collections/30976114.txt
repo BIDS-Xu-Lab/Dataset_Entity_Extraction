@@ -1,0 +1,11 @@
+Human leukocyte antigen (HLA) genes encode proteins with important roles in the regulation of the immune system.
+Many studies have also implicated HLA genes in psychiatric and neurodevelopmental disorders.
+However, these studies usually focus on one disorder and/or on one HLA candidate gene, often with small samples.
+Here, we access a large dataset of 65,534 genotyped individuals consisting of controls (N = 19,645) and cases having one or more of autism spectrum disorder (N = 12,331), attention deficit hyperactivity disorder (N = 14,397), schizophrenia (N = 2401), bipolar disorder (N = 1391), depression (N = 18,511), anorexia (N = 2551) or intellectual disability (N = 3175).
+We imputed participants' HLA alleles to investigate the involvement of HLA genes in these disorders using regression models.
+We found a pronounced protective effect of DPB1*1501 on susceptibility to autism (p = 0.0094, OR = 0.72) and intellectual disability (p = 0.00099, OR = 0.41), with an increased protective effect on a comorbid diagnosis of both disorders (p = 0.003, OR = 0.29).
+We also identified a risk allele for intellectual disability, B*5701 (p = 0.00016, OR = 1.33).
+Associations with both alleles survived FDR correction and a permutation procedure.
+We did not find significant evidence for replication of previously-reported associations for autism or schizophrenia.
+Our results support an implication of HLA genes in autism and intellectual disability, which requires replication by other studies.
+Our study also highlights the importance of large sample sizes in HLA association studies.

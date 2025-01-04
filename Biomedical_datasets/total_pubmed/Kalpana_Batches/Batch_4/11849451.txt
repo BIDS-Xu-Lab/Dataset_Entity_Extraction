@@ -1,0 +1,9 @@
+The ubiquitous Na+-pump (Na+,K+-ATPase) assembles as a heterodimer of composition alpha/beta in some nephron segments, while in other segments it may exist as a heterotrimer of composition alpha/beta/gamma.
+The gamma-subunit has been reported to increase the affinity of the Na+-pump for adenosine 5'-triphosphate (ATP), and decrease affinity for both Na+ and K+.
+The alpha-subunit of the colonic H+,K+-ATPase (cHK) shares 75% sequence similarity with alpha1-Na+,K+-ATPase (alpha1) and assembles with beta1-Na+,K+-ATPase (beta1) in distal colon and renal medulla.
+Differences in pharmacological properties have been ascribed to when heterologously expressed function has been compared to function in vitro.
+The purpose of this study was to determine if cHK might associate with the gamma-subunit of the Na+,K+-ATPase (gamma) as a possible explanation for these variations in function.
+An antibody specific for the gamma was used in coimmunoprecipitation experiments to determine if the gamma assembles stably in vitro with cHK and beta1 in rat renal medulla or distal colon.
+Our results demonstrate that the gamma-subunit assembles specifically with the Na+-pump, but not with cHK.
+Furthermore, the gamma-subunit assembly was specific for rat kidney and was not observed in distal colon.
+Since the gamma-subunit did not assemble with the cHK/beta1 complex, gamma-subunit assembly cannot explain those variations in ex vivo and in vitro pharmacologic properties ascribed to cHK.

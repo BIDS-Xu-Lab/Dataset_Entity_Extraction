@@ -1,0 +1,7 @@
+Multiaxial fatigue failure of metals, a common issue in industrial production, often leads to significant losses.
+Recently, many researchers have applied deep learning methods to predict the multiaxial fatigue life of metals, achieving promising results.
+Due to the high costs of fatigue testing, training data for deep learning is scarce and labor-intensive to collect.
+This study meets this need by creating a large-scale, high-quality dataset for multiaxial fatigue life prediction, consisting of 1167 samples from 40 materials collected from literature.
+The dataset includes key mechanical properties (elastic modulus, yield strength, tensile strength, Poisson's ratio) and 48 loading paths, along with additional relevant information (composition ratios, processing conditions).
+Common deep learning models validated the dataset's effectiveness.
+This dataset aims to support researchers applying deep learning to fatigue life prediction, addressing the long-standing issue of data scarcity, thereby advancing the intersection of artificial intelligence and metal fatigue research.

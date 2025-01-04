@@ -1,0 +1,4 @@
+Independent component analysis (ICA) of functional magnetic resonance imaging (fMRI) data is commonly carried out under the assumption that each source may be represented as a spatially fixed pattern of activation, which leads to the instantaneous mixing model.
+To allow modeling patterns of spatio-temporal dynamics, in particular, the flow of oxygenated blood, we have developed a convolutive ICA approach: spatial complex ICA applied to frequency-domain fMRI data.
+In several frequency-bands, we identify components pertaining to activity in primary visual cortex (V1) and blood supply vessels.
+One such component, obtained in the 0.10 Hz band, is analyzed in detail and found to likely reflect flow of oxygenated blood in V1.

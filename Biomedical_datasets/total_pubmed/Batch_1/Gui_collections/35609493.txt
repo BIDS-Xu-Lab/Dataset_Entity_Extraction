@@ -1,0 +1,10 @@
+The purpose of this investigation was to compare how key variables of the steady glide phase relate to performance in the two hill sizes used in World Cup and Olympic competitions, i.e, normal and large hills.
+In this study, 38 and 33 jumps of elite ski jumpers were measured with a differential global navigation satellite system (dGNSS) on a normal (HS106) and large hill (HS140), respectively.
+For the steady glide phase, the average aerodynamic forces, lift-to-drag-ratio (LD-ratio), vertical and horizontal acceleration and velocity were measured and related to the jump distance as a performance outcome.
+The aerial time difference between the two hill sizes was 1.1s, explained by the time spent in the steady glide phase.
+The results for HS106 were in line with the assumptions in recent literature, which propose that the performance is largely determined by the take-off and glide preparation.
+Hence for normal hills, skiers should aim to reduce vertical acceleration through high aerodynamic forces during the glide phase.
+Also, no correlation was observed between the LD-ratio and jump length.
+The data from the large hill indicate that the performance during the steady glide is very important for performance; hence clear differences were found compared to the normal hill.
+On a large hill, the aim should be to minimize the horizontal deceleration by reducing the aerodynamic drag.
+A high LD-ratio was correlated to jump length for HS140 and seen to be one of the most important performance factors.

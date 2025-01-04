@@ -1,0 +1,12 @@
+Cervical cancer (CC) is one of the most common cancers among females worldwide.
+Spindle and kinetochore-associated complex subunit 3 (SKA3), located on chromosome 13q, was identified as a novel gene involved in promoting malignant transformation in cancers.
+However, the function and underlying mechanisms of SKA3 in CC remain unknown.
+Using the Oncomine database, we found that expression of SKA3 mRNA is higher in CC tissues than in normal tissues and is linked with poor prognosis.
+In our study, immunohistochemistry showed increased expression of SKA3 in CC tissues.
+The effect of SKA3 on cell proliferation and migration was evaluated by CCK8, clone formation, Transwell and wound-healing assays in HeLa and SiHa cells with stable SKA3 overexpression and knockdown.
+In addition, we established a xenograft tumor model in vivo.
+SKA3 overexpression promoted cell proliferation and migration and accelerated tumor growth.
+We further identified that SKA3 is involved in regulating cell cycle progression and the PI3K/Akt signaling pathway via RNA-sequencing (RNA-Seq) and gene set enrichment analyses.
+Western blotting results revealed that SKA3 overexpression increased levels of p-Akt, cyclin E2, CDK2, cyclin D1, CDK4, E2F1 and p-Rb in HeLa cells.
+Additionally, the use of an Akt inhibitor (GSK690693) significantly reversed the cell proliferation capacity induced by SKA3 overexpression in HeLa cells.
+We suggest that SKA3 overexpression contributes to CC cell growth and migration by promoting cell cycle progression and activating the PI3K-Akt signaling pathway, which may provide potential novel therapeutic targets for CC treatment.

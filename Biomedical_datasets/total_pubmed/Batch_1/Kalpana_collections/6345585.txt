@@ -1,0 +1,12 @@
+To clarify the nature of the insulin resistance of aging we studied the dose response for insulin-induced glucose disposal and the binding of insulin to circulating monocytes in healthy young and old men.
+A total of 49 two-hour euglycemic insulin clamp studies were performed in 17 young and 10 old healthy nonobese subjects.
+While the old group had lower estimates of lean body mass and greater estimates of total body fat than the young group, these differences did not exceed 5% and did not reach statistical significance.
+Insulin was infused at 20 mU/m2 per min (young = 8, old = 5); 80 mU/m2 per min (young = 13, old = 9); 200 mU/m2 per min (young = 9, old = 5).
+Increasing levels of hyperinsulinemia were associated with dose-dependent increases in steady-state glucose infusion rates in young and old.
+The maximal glucose infusion rates (milligrams per kilogram body weight per minute) were the same for young and old.
+However, the dose-response curve was shifted to the right in the old subjects.
+In the four individuals in each age group in whom studies were performed at each dose level, the Km was 54 +/- 14 microU/ml in the young and 113 +/- 11 microU/ml in the old (P less than 0.02).
+Correction of glucose infusion rate for lean body mass had no effect on comparisons between age groups.
+These data indicate an age-associated decline in sensitivity of peripheral tissues to insulin without a change in maximal tissue responsiveness.
+Studies of insulin binding with 14 young and 9 old subjects indicated no effect of age on the insulin binding to receptors on circulating monocytes (young = 5.25 +/- 0.35; old = 6.22 +/- 0.53% of 125I-insulin bound/10(7) cells).
+These studies suggest that aging may be associated with a postreceptor defect in insulin action manifested by decreased whole-body tissue sensitivity to insulin without a change in tissue responsiveness.

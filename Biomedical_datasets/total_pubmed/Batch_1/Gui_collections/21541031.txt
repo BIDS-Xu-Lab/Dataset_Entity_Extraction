@@ -1,0 +1,9 @@
+Recently, techniques available for identifying clusters of individuals or boundaries between clusters using genetic data from natural populations have expanded rapidly.
+Consequently, there is a need to evaluate these different techniques.
+We used spatially-explicit simulation models to compare three spatial Bayesian clustering programs and two edge detection methods.
+Spatially-structured populations were simulated where a continuous population was subdivided by barriers.
+We evaluated the ability of each method to correctly identify boundary locations while varying: (i) time after divergence, (ii) strength of isolation by distance, (iii) level of genetic diversity, and (iv) amount of gene flow across barriers.
+To further evaluate the methods' effectiveness to detect genetic clusters in natural populations, we used previously published data on North American pumas and a European shrub.
+Our results show that with simulated and empirical data, the Bayesian spatial clustering algorithms outperformed direct edge detection methods.
+All methods incorrectly detected boundaries in the presence of strong patterns of isolation by distance.
+Based on this finding, we support the application of Bayesian spatial clustering algorithms for boundary detection in empirical datasets, with necessary tests for the influence of isolation by distance.

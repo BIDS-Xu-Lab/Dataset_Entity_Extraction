@@ -1,0 +1,10 @@
+While timely assessment of long-term survival in thyroid cancer patients is critical for assessing early detection and screening programs for thyroid cancer, those data are sorely lacking in China.
+We aimed to timely and accurately assess the long-term survival of thyroid cancer patients in eastern China.
+Patients diagnosed with thyroid cancer during 2004-2018 from four cancer registries in Taizhou, eastern China were included.
+The 5-year relative survival was estimated by period analysis and stratified by sex, age at diagnosis, and region.
+The 5-year RS of thyroid cancer patients during 2019-2023 was also predicted using the model-based period analysis.
+During 2014-2018, the overall 5-year relative survival of thyroid cancer patients was 87.7%, 91.2% for women and 79.4% for men.
+The 5-year RS decreased along with increasing age at diagnosis, decreasing from 94.9% for age <45 years to 81.3% for age >74 years, while 5-year RS was higher in urban areas than in rural areas (93.2% vs. 86.1%).
+The 5-year RS for thyroid cancer patients improved greatly between 2004-2008 to 2014-2018.
+The predicted overall 5-year RS could reach 91.4% over the upcoming 2019-2023 period.
+We provided, for the first time in China using period analysis, the most up-to-date 5-year RS for thyroid cancer patients from Taizhou, eastern China, which has important implications for timely evaluation on early detection and screening programs for patients with thyroid cancer in eastern China.

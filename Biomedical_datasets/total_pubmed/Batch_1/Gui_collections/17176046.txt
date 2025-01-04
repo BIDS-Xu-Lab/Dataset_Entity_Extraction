@@ -1,0 +1,8 @@
+UDP-3-O-(R-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase (LpxC) is a metal-dependent deacetylase that catalyzes the hydrolysis of UDP-3-O-myristoyl-N-acetyl-glucosamine to form UDP-3-O-myristoyl-glucosamine and acetate.
+This is the committed step in the biosynthesis of lipid A, and therefore, LpxC is a target for the development of antimicrobial agents in the treatment of Gram-negative infections.
+To facilitate the development of potent and specific inhibitors of LpxC, the molecular determinants of binding and specificity and the catalytic mechanism for this enzyme have been probed.
+The functions of active site residues have been classified on the basis of changes in steady-state turnover (kcat, KM, and kcat/KM) and product binding affinity (KDProduct).
+We have identified side chains that enhance product affinity and reactivity (F192, K239, D246, and H265), destabilize product affinity (E78 and D197), and preferentially enhance catalytic efficiency (H19, T19, K143, and N162).
+In addition, the affinity of LpxC for myrUDP-GlcNH2 is dependent on two ionizations, one deprotonation and one protonation, with apparent pKa values of 6.5 +/- 0.1 and 7.4 +/- 0.1, respectively.
+The UDP moiety of the product contributes significantly to recognition by LpxC, suggesting that this region can be targeted in drug development.
+These data provide a map of the active site features essential for catalysis and molecular recognition by LpxC that can be used for developing more potent LpxC inhibitors.

@@ -1,0 +1,10 @@
+Chronic intermittent hypobaric hypoxia (CIHH) exposure due to shift work occurs mainly in 4 × 4 or 7 × 7 days shifts in mining, astronomy, and customs activities, among other institutions.
+However, the long-lasting effects of CIHH on cardiovascular structure and function are not well characterized.
+We aimed to investigate the effects of CIHH on the cardiac and vascular response of adult rats simulating high-altitude (4600 m)
+We analyzed in vivo cardiac function through echocardiography, ex vivo vascular reactivity by wire myography, and in vitro cardiac morphology by histology and protein expression and immunolocalization by molecular biology and immunohistochemistry techniques in 12 rats, 6 exposed to CIHH in the hypoxic chamber, and respective normobaric normoxic controls (n = 6).
+CIHH induced cardiac dysfunction with left and right ventricle remodeling, associated with an increased collagen content in the right ventricle.
+In addition, CIHH increased HIF-1α levels in both ventricles.
+These changes are associated with decreased antioxidant capacity in cardiac tissue.
+Conversely, CIHH decreased contractile capacity with a marked decreased in nitric oxide-dependent vasodilation in both, carotid and femoral arteries.
+These data suggest that CIHH induces cardiac and vascular dysfunction by ventricular remodeling and impaired vascular vasodilator function.
+Our findings highlight the impact of CIHH in cardiovascular function and the importance of a periodic cardiovascular evaluation in high-altitude workers.

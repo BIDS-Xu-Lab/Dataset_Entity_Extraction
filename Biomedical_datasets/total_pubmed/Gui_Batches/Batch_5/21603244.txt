@@ -1,0 +1,5 @@
+The majority of patients with gastrointestinal cancers are over the age of 65.
+This age group comprises the minority of the patients enrolled in clinical trials, and it is unknown whether older patients achieve similar results as younger patients in terms of survival benefit and tolerability.
+In addition, there are few studies specifically designed for patients over 65 years.
+Subset analyses of individual trials and studies using pooled patient data from multiple trials provide some understanding on outcomes in older patients with gastrointestinal cancers.
+This article reviews the evidence on chemotherapeutic regimens in the elderly with colorectal, pancreatic, and gastroesophageal cancers, and discusses a practical approach to provide the best outcomes for older patients.

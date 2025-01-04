@@ -1,0 +1,11 @@
+The pathological abnormalities of the AIDS patients lie in the subcortical regions of the brain, specifically the deep white matter and basal ganglia, while the extent of pathology generally correlates with the severity of cognitive impairments in the white matter and basal ganglia.
+Brain metabolite changes of these lesions can reflect the pathological abnormalities.
+The purpose of this study was to assess the value of magnetic resonance spectroscopy (MRS) in the diagnosis of cognitive impairment in AIDS patients.
+3.0T MR was used to measure N-acetyl aspartate (NAA), choline (Cho), myo-inositol (MI) and creatinine (Cr) in the frontal white matter, basal ganglia and parietal cortex of 21 AIDS patients with dementia complex (ADC), 19 AIDS patients with neuroasymptomatic (NAS) and 20 seronegative (SN) controls.
+Then we compared the difference of metabolic rate between AIDS patients and SN groups.
+NAA/Cr (mean = 1.2502, SD = 0.1600) was significantly decreased and Cho/Cr (mean = 1.2028, SD = 1.1655) was increased in the frontal white matter in ADC group, while NAA/Cr (mean = 1.5334, SD = 0.0513) was reduced in NAS group when compared with SN group.
+NAA/Cr in the basal ganglia was decreased in both ADC and NAS groups (mean = 1.2625, SD = 0.1615 and mean = 1.5278, SD = 0.0380, respectively).
+Cho/Cr (mean = 1.1631, SD = 0.0981) was markedly increased in ADC group.
+Although NAA/Cr, Cho/Cr and MI/Cr in the parietal cortex had a certain change in both ADC and NAS groups compared with SN group, the differences were not statistically significant.
+The brain metabolite changes of AIDS patients are correlated with cognitive impairments.
+MRS can be used as a valuable inspection method to assess cognitive impairments in AIDS patients.

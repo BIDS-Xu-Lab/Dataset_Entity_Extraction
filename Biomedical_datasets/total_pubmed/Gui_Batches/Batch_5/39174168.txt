@@ -1,0 +1,15 @@
+To compile the evidence from systematic reviews (SRs) about the use of sealants for preventing and arresting pit and fissure occlusal caries in primary and permanent teeth.
+A search was performed in six databases and gray literature up to May 2023.
+Systematic reviews (SRs) that included randomized trials (RCTs) and nonrandomized clinical trials (n-RCTs) aiming to answer the PICO-based focused question "are pit and fissure sealants (I) more effective than other interventions, control or no treatment (C) in preventing and arresting occlusal caries (O) in primary and permanent teeth (P)?", were included.
+The methodological quality was assessed using the AMSTAR-2.
+The overlap between reviews was calculated (corrected covered, CCA).
+Among the 25 included SRs, 18 underwent meta-analysis.
+Eighteen SRs considered sealing enamel caries lesions, one considered sealing dentine caries, and six considered both.
+Seventeen SRs were devoted to preventive sealing (RCT only, n = 12; RCT and n-RCT, n = 5), while eight were devoted to prevention and arrest of dental caries (RCT only, n = 5; RCT and n-RCT, n = 3).
+Nine SRs showed positive results for the primary dentition, and the most frequent periods of follow-up were at least 6 (n = 5) and 12 months (n = 4).
+According to our meta-analysis, a significant association between resin-based sealants (RBS) and dental caries prevention was detected at 6 months (n = 1) and over longer follow-up periods (n = 4), and the DMFT and dmft indices decreased (n = 2).
+RBS was better than fluoride varnish at preventing dentine caries (n = 1).
+A lower caries incidence rate was observed in the resin-modified glass ionomer group at 6 months (n = 1).
+Overall, the sealants were superior (n = 11), similar (n = 21), or inferior (n = 1) to the other treatments.
+The AMSTAR-2 scores for studies on preventive sealing were critically low (n = 8), low (n = 6), moderate (n = 1) and high (n = 2) for studies on preventive sealing and critically low (n = 5), low (n = 2) and high (n = 1) for studies on the prevention and arrest of caries lesions.
+This overview suggests that pit and fissure sealants are not inferior to other interventions in preventing and arresting dental caries lesions in primary and permanent teeth.

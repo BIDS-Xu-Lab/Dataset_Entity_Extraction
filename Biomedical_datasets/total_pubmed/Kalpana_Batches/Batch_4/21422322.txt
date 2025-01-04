@@ -1,0 +1,10 @@
+During the past 3 decades in the United States, melanoma incidence among non-Hispanic white girls and women aged 15 to 39 years has more than doubled.
+To better understand which specific subpopulations of girls and women experienced this increase and thereby to target public health interventions, we assessed the relationship between melanoma incidence and small-area level measures of socioeconomic status (SES) and UV radiation (UV-R) exposure.
+Longitudinal study of California Cancer Registry, US Census, and National Oceanic and Atmospheric Administration data from pericensal periods January 1, 1988, through December 31, 1992, and January 1, 1998, through December 31, 2002.
+A total of 3800 non-Hispanic white girls and women aged 15 to 39 years, in whom 3842 melanomas were diagnosed.
+Incidence rates per 100 000 person-years and rate ratios according to SES quintiles and UV-R exposure tertiles.
+Whereas melanoma rates increased over time for all SES categories, only changes among the highest 3 categories achieved statistical significance.
+UV radiation was significantly and positively associated with melanoma incidence only among adolescent girls and young women in the 2 highest quintiles ranked by SES, which suggests that SES is not a proxy for UV-R exposure.
+Those living in neighborhoods with the highest SES and UV-R categories had 80.0% higher rates of melanoma than those in neighborhoods in the lowest categories (rate ratio, 1.80; 95% confidence interval, 1.13-3.01).
+Understanding the ways that SES and UV-R exposure work together to influence melanoma incidence is important for planning effective prevention and educational efforts.
+Interventions should target adolescent girls and young women living in high SES and high UV-R neighborhoods because they have experienced a significantly greater increase in disease burden.

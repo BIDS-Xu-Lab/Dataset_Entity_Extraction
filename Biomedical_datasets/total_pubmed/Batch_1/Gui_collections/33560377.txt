@@ -1,0 +1,10 @@
+Disseminated intravascular coagulation (DIC) is a pathological coagulopathy associated with infection that increases mortality.
+In DIC, excessive thrombin generation causes symptoms from formation of microthrombi to multiorgan failure; bleeding risks can also be a concern because of clotting factor consumption.
+Different clinical events lead to DIC, including sepsis, trauma, and shock.
+Treatments for thrombotic episodes or bleeding presentation in DIC oppose each other, thus creating therapeutic dilemmas in management.
+The objective of this study was to develop fibrin-specific core-shell nanogels (FSNs) loaded with tissue-type plasminogen activator (tPA) to treat the microcirculatory complications of DIC, which would facilitate targeted clot dissolution to manage microthrombi and the potential consumptive coagulopathy that causes bleeding.
+FSNs enhance formation of actively polymerizing clots by crosslinking fibrin fibers, but they can also target preexisting microthrombi and, when loaded with tPA, facilitate targeted delivery to lyse the microthrombi.
+We hypothesized that this dual action would simultaneously address bleeding and microthrombi with DIC to improve outcomes.
+In vivo, tPA-FSNs decreased the presentation of multiorgan microthrombi, recovered platelet counts, and improved bleeding outcomes in a DIC rodent model.
+When incorporated with human DIC patient plasma, tPA-FSNs restored clot structure and clot growth under flow.
+Together, these data demonstrate that a fibrinolytic agent loaded into fibrin-targeting nanogels could improve DIC outcomes.

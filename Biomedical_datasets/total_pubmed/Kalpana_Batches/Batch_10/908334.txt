@@ -1,0 +1,5 @@
+The structure of the abnormal lipoprotein X occurring in the plasma of patients with obstructive jaundice was investigated by X-ray small-angle scattering.
+The data were analyzed by discussing the distance distribution functions obtained directly from the experimental data by Fourier transformation, involving no a priori assumptions.
+The results provide evidence for lipoprotein X being essentially a random distribution of lamellae with a thickness of 5.1 nm and are consistent with hollow spherical (vesicular) structures of outer diameters greater than 30 nm with some overall size heterogeneity.
+Under the experimental conditions chosen, lipoprotein concentrations between 0.01 and 0.18 g/ml in in buffers of low ionic strength, lateral stacking as observed in negative-stain electron microscopy does not occur.
+The electron density profile perpendicular to the lamellar plane indicates that a lipid bilayer is the underlying structural principle, with the protein moieties partly bound within the polar head-group regions and partly occluded in soluble form in the vesicle interior.

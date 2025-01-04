@@ -1,0 +1,8 @@
+Light field imaging, originated from the availability of light field capture technology, offers a wide range of applications in the field of computational vision.
+The capability of predicting salient objects of light fields remains technologically challenging due to its complicated geometry structure.
+In this paper, we propose a light field salient object detection approach that formulates the geometric coherence among multiple views of light fields as graphs, where the angular/central views represent the nodes and their relations compose the edges.
+The spatial and disparity correlations between multiple views are effectively explored through multi-scale graph neural networks, enabling the more comprehensive understanding of light field content and more representative and discriminative saliency features generation.
+Moreover, a multi-scale saliency feature consistency learning module is embedded to enhance the saliency features.
+Finally, an accurate salient object map is produced for the light field based upon the extracted features.
+In addition, we establish a new light field salient object detection dataset (CITYU-Lytro) that contains 817 light fields with diverse contents and their corresponding annotations, aiming to further promote the research on light field salient object detection.
+Quantitative and qualitative experiments demonstrate that the proposed method performs favorably compared with the state-of-the-art methods on the benchmark datasets.

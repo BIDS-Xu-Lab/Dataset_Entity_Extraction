@@ -1,0 +1,10 @@
+The study design was an outcomes measure validation for overall patient success.
+The objective of this study was to validate an established lumbar spinal stenosis outcomes measure for individual patient success.
+The Brigham Spinal Stenosis (BSS) Questionnaire has been used to evaluate lumbar spinal stenosis patients since the early 1990s.
+The three-domain questionnaire has been previously validated for patient improvement in each domain, but criteria for overall patient success have not been established.
+The sample consisted of preoperative and 24-month postoperative BSS scores from 197 individuals who had undergone a lumbar decompressive procedure with or without an instrumented fusion.
+For each of the three BSS domains, we determined a threshold score that marked a successful outcome in that domain using receiver operator characteristic (ROC) curves.
+We combined these threshold scores in different ways to produce varying definitions of overall surgical success.
+The threshold for changes in the Symptom Severity and Physical Function domain scores were calculated as 0.46 and 0.42, respectively, while for Patient Satisfaction it was 2.42 based on the ROC analysis.
+The definition for individual patient success that requires the patient achieve threshold scores in each domain was less sensitive but more specific than alternative definitions of overall success that required the patient achieve at least two criteria or at least one criterion.
+The threshold values for each domain were similar to previously established values and the most balanced definition of overall success required that a patient achieve at least two criteria.

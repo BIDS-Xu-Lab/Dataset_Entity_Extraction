@@ -1,0 +1,11 @@
+In the early 1980s, an "atypical" beta-adrenergic receptor was discovered and subsequently called the beta (3)-adrenoceptor (beta(3)-AR).
+Agonists of the beta(3)-AR were observed to simultaneously increase lipolysis, fat oxidation, energy expenditure and insulin action leading to the belief that this receptor might serve as an attractive target for the treatment of diabetes and obesity.
+In vivo studies lent credence to this postulate with the finding that stimulation of this receptor by selective agonists lead to glycemic improvements and weight loss in rodent models of diabetes and obesity.
+This lead to intensive research efforts directed at developing beta(3)-AR selective agonists for the treatment of type 2 diabetes and obesity in humans.
+Unfortunately, endeavour been largely unsuccessful to date.
+Major obstacles have included the pharmacological differences between the rodent and human beta(3)-AR, the lack of selectivity of previous compounds for the beta(3)-AR over beta(1)-/beta(2)-ARs, and unsatisfactory oral bioavailability and pharmacokinetic properties.
+Cloning of the human beta(3)-AR has allowed for the development of novel compounds targeted specifically at the human receptor.
+Encouraging data has emerged from clinical studies wherein CL-316,243, a highly selective, albeit rodent specific beta(3)-AR agonist was observed to increase lipolysis, fat oxidation and insulin action in humans.
+More recently, beta(3)-AR agonists directed at the human receptor are showing promising results in their ability to increase energy expenditure in humans following a single dose.
+However, they do nor appear to be able to sustain their effects when administered chronically.
+Further clinical testing will be necessary, using compounds with improved oral bioavailability and potency, to help assess the physiology of the beta(3)-AR in humans and its attractiveness as a potential therapeutic for the treatment of type 2 diabetes and obesity.

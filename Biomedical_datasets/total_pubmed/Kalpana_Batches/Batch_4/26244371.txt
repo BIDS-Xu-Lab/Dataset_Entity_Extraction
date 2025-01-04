@@ -1,0 +1,13 @@
+While sexual segregation is expected in highly dimorphic species, the local environment is a major factor driving the degree of resource partitioning within a population.
+Sexual and individual niche segregation was investigated in the Australian fur seal (Arctocephalus pusillus doriferus), which is a benthic foraging species restricted to the shallow continental shelf region of south-eastern Australia.
+Tracking data and the isotopic values of plasma, red blood cells and whiskers were combined to document spatial and dietary niche segregation throughout the year.
+Tracking data indicated that, in winter, males and females overlapped in their foraging habitat.
+All individuals stayed within central Bass Strait, relatively close (< 220 km) to the breeding colony.
+Accordingly, both genders exhibited similar plasma and red cell δ13C values.
+However, males exhibited greater δ13C intra-individual variation along the length of their whisker than females.
+This suggests that males exploited a greater diversity of foraging habitats throughout the year than their female counterparts, which are restricted in their foraging grounds by the need to regularly return to the breeding colony to suckle their pup.
+The degree of dietary sexual segregation was also surprisingly low, both sexes exhibiting a great overlap in their δ15N values.
+Yet, males displayed higher δ15N values than females, suggesting they fed upon a higher proportion of higher trophic level prey.
+Given that males and females exploit different resources (mainly foraging habitats), the degree of individual specialisation might differ between the sexes.
+Higher degrees of individual specialisation would be expected in males which exploit a greater range of resources.
+However, comparable levels of inter-individual variation in δ15N whisker values were found in the sampled males and females, and, surprisingly, all males exhibited similar seasonal and inter-annual variation in their δ13C whisker values, suggesting they all followed the same general dispersion pattern throughout the year.

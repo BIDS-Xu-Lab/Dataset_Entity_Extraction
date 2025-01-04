@@ -1,0 +1,8 @@
+Solar-driven interface evaporation recently emerges as one of the most promising methods for seawater desalination and wastewater purification, mainly due to its low energy consumption.
+However, there still exist special issues in the present material system based on conventional noble metals or two-dimensional (2D) nanomaterials etc., such as high costs, low light-to-heat conversion efficiencies, and unideal channels for water transport.
+Herein, a composite photothermal membrane based on Ti3C2T MXene nanoflakes/copper indium selenide (CIS) nanoparticles is reported for highly efficient solar-driven interface evaporation toward water treatment applications.
+Results indicate that the introduction of CIS improves the spatial accessibility of the membrane by increasing the interlayer spacings and wettability of MXene nanoflakes and enhances light absorption capability as well as reduces reflection for the photothermal membrane.
+Simultaneously, utilization of the MXene/CIS composite membrane improves the efficiency of light-to-heat conversion probably due to formation of a Schottky junction between MXene and CIS.
+The highest water evaporation rate of 1.434 kgm-2 h-1 and a maximum water evaporation efficiency of 90.04% as well as a considerable cost-effectiveness of 62.35 g h-1/$ are achieved by using the MXene/CIS composite membrane for solar interface evaporation, which also exhibits excellent durability and light intensity adaptability.
+In addition, the composite photothermal membrane shows excellent impurity removal ability, e.g., >98% for salt ions, >99.8% for heavy metal ions, and ∼100% for dyes molecules.
+This work paves a promising avenue for the practical application of MXene in the field of water treatment.

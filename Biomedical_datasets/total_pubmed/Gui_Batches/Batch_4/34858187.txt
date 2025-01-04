@@ -1,0 +1,9 @@
+Osteoarthritis (OA) is the most prevalent joint disease worldwide, making it a major cause of pain and disability.
+Identified as a chronic and progressive disease, effective treatment at the early stages of OA has become critical to its management.
+Jintiange (Jtg) capsules are a traditional Chinese medicine produced from multiple organic components of various animal bones and routinely used to treat osteoporosis in China.
+However, the effect of Jtg on subchondral bone and cartilage degeneration in OA remains unknown.
+The purpose of the present study was to investigate the biomolecular role and underlying mechanisms of Jtg in OA progression.
+Herein, we found that Jtg inhibited receptor activator of nuclear factor-κB ligand (RANKL)-induced osteoclast formation and it functions through the NF-κB signaling pathway.
+Jtg also inhibited chondrocyte apoptosis via reducing the reactive oxygen species concentration in these cells.
+Moreover, in vivo evaluation revealed that Jtg significantly attenuates subchondral bone remodeling and cartilage destruction in anterior cruciate ligament transection (ACLT) mouse models.
+Taken together, our data demonstrate that Jtg inhibits osteoclast differentiation in subchondral bone and chondrocyte apoptosis in cartilage, supporting its potential therapeutic value for treating OA.

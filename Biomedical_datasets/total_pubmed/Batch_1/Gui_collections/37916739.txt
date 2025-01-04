@@ -1,0 +1,12 @@
+Negative life events (NLEs), e.g., poor academic performance (controllable) or being the victim of a crime (uncontrollable), can profoundly affect the trajectory of one's life.
+Yet, their impact on how the brain develops is still not well understood.
+This investigation examined the National Consortium on Alcohol and Neurodevelopment in Adolescence (NCANDA) dataset for the impact of NLEs on the initiation of alcohol and cannabis use, as well as underlying neural mechanisms.
+This study evaluated the impact of controllable and uncontrollable NLEs on substance use initiation in 207 youth who initiated alcohol use, 168 who initiated cannabis use, and compared it to 128 youth who remained substance-naïve, using generalised linear regression models.
+Mediation analyses were conducted to determine neural pathways of NLE impacting substance use trajectories.
+Dose-response relationships between controllable NLEs and substance use initiation were observed.
+Having one controllable NLE increased the odds of alcohol initiation by 50% (95%CI [1.18, 1.93]) and cannabis initiation by 73% (95%CI [1.36, 2.24]), respectively.
+Greater cortical thickness in left banks of the superior temporal sulcus mediated effects of controllable NLEs on alcohol and cannabis initiations.
+Greater left caudate gray-matter volumes mediated effects of controllable NLEs on cannabis initiation.
+Controllable but not uncontrollable NLEs increased the odds of alcohol and cannabis initiation.
+Moreover, those individuals with less mature brain structures at the time of the NLEs experienced a greater impact of NLEs on subsequent initiation of alcohol or cannabis use.
+Targeting youth experiencing controllable NLEs may help mitigate alcohol and cannabis initiation.

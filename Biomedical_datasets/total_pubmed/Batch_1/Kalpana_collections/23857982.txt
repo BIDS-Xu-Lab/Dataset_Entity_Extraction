@@ -1,0 +1,11 @@
+Oxidative stress plays an important role in cancer development and treatment.
+Recent data implicate the tumor suppressor BRCA1 in regulating oxidative stress, but the molecular mechanism and the impact in BRCA1-associated tumorigenesis remain unclear.
+Here, we show that BRCA1 regulates Nrf2-dependent antioxidant signaling by physically interacting with Nrf2 and promoting its stability and activation.
+BRCA1-deficient mouse primary mammary epithelial cells show low expression of Nrf2-regulated antioxidant enzymes and accumulate reactive oxygen species (ROS) that impair survival in vivo.
+Increased Nrf2 activation rescues survival and ROS levels in BRCA1-null cells.
+Interestingly, 53BP1 inactivation, which has been shown to alleviate several defects associated with BRCA1 loss, rescues survival of BRCA1-null cells without restoring ROS levels.
+We demonstrate that estrogen treatment partially restores Nrf2 levels in the absence of BRCA1.
+Our data suggest that Nrf2-regulated antioxidant response plays a crucial role in controlling survival downstream of BRCA1 loss.
+The ability of estrogen to induce Nrf2 posits an involvement of an estrogen-Nrf2 connection in BRCA1 tumor suppression.
+Lastly, BRCA1-mutated tumors retain a defective antioxidant response that increases the sensitivity to oxidative stress.
+In conclusion, the role of BRCA1 in regulating Nrf2 activity suggests important implications for both the etiology and treatment of BRCA1-related cancers.

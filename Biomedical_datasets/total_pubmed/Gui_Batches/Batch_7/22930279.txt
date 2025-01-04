@@ -1,0 +1,9 @@
+Although biological drugs in psoriasis treatment show clinical efficacy, there are still a proportion of patients in whom little treatment response is obtained.
+The aim of this study was to identify molecular biomarkers for treatment response and to investigate the molecular effects of ustekinumab treatment of psoriasis.
+The mRNA expression of various genes in skin biopsies was analysed by quantitative polymerase chain reaction (qPCR).
+At baseline, there was no significant clinical difference be-tween responders and non-responders.
+Ten patients were clinical responders, with a mean baseline Psoriasis Area and Severity Index (PASI) score of 15.4 and a mean percentage improvement of 89.6%.
+No significant reduction in PASI during treatment was seen among the 5 non-responders.
+In the responder group, ustekinumab therapy reduced the mRNA expression of the majority of the studied genes in lesional psoriatic skin.
+IL-20, IL-21 and p40 mRNA expression in lesional psoriatic skin at baseline were significantly upregulated by factors of 2.7, 2.4 and 2.3, respectively, among non-responders compared with responders.
+The mRNA levels of p40, IL-20 and IL-21 at baseline may serve as potential predictors of treatment response to ustekinumab treatment.

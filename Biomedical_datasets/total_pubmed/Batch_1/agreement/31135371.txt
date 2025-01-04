@@ -1,0 +1,8 @@
+This paper presents a mm-sized, free-floating, wirelessly powered, implantable optical stimulation (FF-WIOS) device for untethered optogenetic neuromodulation.
+A resonator-based three-coil inductive link creates a homogeneous magnetic field that continuously delivers sufficient power (>2.7 mW) at an optimal carrier frequency of 60 MHz to the FF-WIOS in the near field without surpassing the specific absorption rate limit, regardless of the position of the FF-WIOS in a large brain area.
+Forward data telemetry carries stimulation parameters by on-off-keying the power carrier at a data rate of 50 kb/s to selectively activate a 4 × 4 μLED array.
+Load-shift-keying back telemetry controls the wireless power transmission by reporting the FF-WIOS received power level in a closed-loop power control mechanism.
+LEDs typically require high instantaneous power to emit sufficient light for optical stimulation.
+Thus, a switched-capacitor-based stimulation architecture is used as an energy storage buffer with one off-chip capacitor to receive charge directly from the inductive link and deliver it to the selected μLED at the onset of stimulation.
+The FF-WIOS system-on-a-chip prototype, fabricated in a 0.35-μm standard CMOS process, charges a 10-μF capacitor up to 5 V with 37% efficiency and passes instantaneous current spikes up to 10 mA in the selected μLED, creating a bright exponentially decaying flash with minimal wasted power.
+An in vivo experiment was conducted to verify the efficacy of the FF-WIOS by observing light-evoked local field potentials and immunostained tissue response from the primary visual cortex (V1) of two anesthetized rats.

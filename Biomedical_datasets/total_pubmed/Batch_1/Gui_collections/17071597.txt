@@ -1,0 +1,8 @@
+Controlling metastases remains a critical problem in cancer biology.
+Within the peritoneal cavity, omental tissue is a common site for metastatic disease arising from intraperitoneal tumors; however, it is unknown why this tissue is so favorable for metastatic tumor growth.
+Using five different tumor cell lines in three different strains of mice, we found that the omentum was a major site of metastases growth for intraperitoneal tumors.
+Furthermore, initial attachment and subsequent growth were limited to specific sites within the omentum, consisting of organized aggregates of immune cells.
+These immune aggregates contained a complex network of capillaries exhibiting a high vascular density, which appear to contribute to the survival of metastatic cells.
+We found that the vasculature within these aggregates contained CD105+ vessels and vascular sprouts, both indicators of active angiogenesis.
+A subset of mesothelial cells situated atop the immune aggregates was found to be hypoxic, and a similar proportion was observed to secrete vascular endothelial growth factor-A. These data provide a physiological mechanism by which metastatic tumor cells preferentially grow at sites rich in proangiogenic vessels, apparently stimulated by angiogenic factors produced by mesothelial cells.
+These sites provide metastatic cells with a microenvironment highly conducive to survival and subsequent growth.

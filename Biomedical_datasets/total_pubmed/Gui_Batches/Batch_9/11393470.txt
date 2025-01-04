@@ -1,0 +1,10 @@
+The purpose of this work is to calculate the dose perturbations due to the presence of iodine contrast media in catheter-based intravascular brachytherapy (IVBT).
+The EGSnrc Monte Carlo system was used to perform the calculation for the two most commonly used beta and gamma sources (90Sr and 192Ir as well as for a variety of monoenergetic photon and electron sources.
+Various contrast media with cylindrical-shell shapes were considered.
+The dose perturbations due to the presence of iodine contrast media were found to be significant for IVBT.
+In the region outside of the contrast media (usually the treatment target region for IVBT), the dose is generally increased for the gamma source, while it is decreased for the beta source.
+In the presence of a 1.0-mm-thick common clinical contrast medium, the dose enhancement can be as high as 30% for the 192Ir source, while the dose can be reduced by up to 25% for the 90Sr source.
+The dose enhancement region for the gamma source extends approximately 1.0 mm away from the contrast medium, while the dose reduction for the beta source affects the entire target region.
+The dose perturbation depends on (1) the volume (thickness) of the contrast medium, (2) the iodine concentration in contrast media, and (3) the type and energy of radioactive source.
+The dose effects due to the contrast medium as well as the differences between beta and gamma sources, revealed in this study, should be recognized and may be considered in the dose prescription for intravascular brachytherapy.
+These effects should also be taken into account in analyzing the treatment outcome for those IVBT clinical trials involving a contrast medium.

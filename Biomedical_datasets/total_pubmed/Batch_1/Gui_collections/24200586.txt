@@ -1,0 +1,10 @@
+In shotgun proteomics, high-throughput mass spectrometry experiments and the subsequent data analysis produce thousands to millions of hypothetical peptide identifications.
+The common way to estimate the false discovery rate (FDR) of peptide identifications is the target-decoy database search strategy, which is efficient and accurate for large datasets.
+However, the legitimacy of the target-decoy strategy for protein-modification-centric studies has rarely been rigorously validated.
+It is often the case that a global FDR is estimated for all peptide identifications including both modified and unmodified peptides, but that only a subgroup of identifications with a certain type of modification is focused on.
+As revealed recently, the subgroup FDR of modified peptide identifications can differ dramatically from the global FDR at the same score threshold, and thus the former, when it is of interest, should be separately estimated.
+However, rare modifications often result in a very small number of modified peptide identifications, which makes the direct separate FDR estimation inaccurate because of the inadequate sample size.
+This paper presents a method called the transferred FDR for accurately estimating the FDR of an arbitrary number of modified peptide identifications.
+Through flexible use of the empirical data from a target-decoy database search, a theoretical relationship between the subgroup FDR and the global FDR is made computable.
+Through this relationship, the subgroup FDR can be predicted from the global FDR, allowing one to avoid an inaccurate direct estimation from a limited amount of data.
+The effectiveness of the method is demonstrated with both simulated and real mass spectra.

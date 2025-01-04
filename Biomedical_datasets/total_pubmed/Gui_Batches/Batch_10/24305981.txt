@@ -1,0 +1,12 @@
+This study was designed to undertake systematic review and meta-analysis of published comparative trials comparing embolic agents used in uterine artery embolisation (UAE) for uterine leiomyomata.
+Systematic literature searches were performed in MEDLINE, Embase, PubMed, and Cochrane Central databases from database inception to July 2012.
+Randomised and nonrandomised trials comparing two or more embolic agents used in UAE were included.
+Assessment included five widely used embolic agents: nonspherical polyvinyl alcohol (PVA) (Contour PVA, Boston Scientific or PVA Cook Medical); spherical PVA (Contour SE, Boston Scientific); acrylamido PVA (Beadblock, Biocompatibles, Terumo); tris-acryl gelatin microspheres (TAGM) (Embospheres, Merit Medical Inc); and polyzene-F hydrogel microspheres (Embozenes, CeloNova Biosciences).
+Outcomes assessed included: quality of life (QOL), assessment, magnetic resonance imaging (MRI), uterine and fibroid volumes and degrees of MRI fibroid enhancement and devascularisation.
+A total of 262 citations were reviewed with 5 randomised, controlled trials involving 295 women and 5 non-RCTs involving 617 women included.
+No evidence of superiority of any embolic agent was demonstrated.
+Meta-analysis was performed between TAGM (Embospheres) and spherical PVA microspheres.
+Two RCTs found a trend toward greater uterine and dominant fibroid volume reductions with Embospheres but the combined differences were not statistically significant (p = 0.78 and p = 0.94 respectively).
+Embospheres demonstrated greater percentage fibroid devascularisation than spherical PVA (p = 0.039).
+This study confirms that the current evidence demonstrates superiority of Embospheres over spherical PVA but no reported differences in outcomes between any of the other agents.
+Comparison of embolic agents was limited by lack of RCT data and further research is warranted.

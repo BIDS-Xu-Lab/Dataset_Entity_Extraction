@@ -1,0 +1,11 @@
+The purpose of this study was to develop a model to forecast market share before actual market share data become available to a hospital system.
+The typical data lag is about six to nine months, and market share information is often based on incomplete admissions data.
+Therefore, this exploratory analysis of admissions for all hospitals in a Texas hospital system was performed as an attempt to improve the accuracy and timeliness of market share data.
+We used four data sources: (1) Texas Health Care Information Council Public Use Data File, (2) Solucient, (3) internal data on admissions for three small nearby hospitals not reporting to the state, and (4) population growth data based on the U.S. census.
+Data analysis was performed using STATA 9 and SAS statistical software.
+Six prediction models were chosen and evaluated that best predicted present and future market share using historical market share data, historical and current admissions data, and population growth data.
+These included models for the total market area; the core cluster; and the eastern, western, northern, and southern market clusters.
+Only two of the six forecasting equations were useful, with a relatively high prediction value.
+Overall, the attempt to predict market share based on historical and current admissions data while controlling for demographic factors and seasonality was of limited success.
+Future research should consider additional factors associated with market share; these factors could include changes in physician referral patterns and third-party-payer contracts.
+The value of this type of research for management is explored here as well.

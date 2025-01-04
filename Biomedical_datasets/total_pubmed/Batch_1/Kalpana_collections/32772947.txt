@@ -1,0 +1,12 @@
+The Weigl Colour-Form Sorting Test is a brief, widely used test of executive function.
+So far, it is unknown whether this test is specific to frontal lobe damage.
+Our aim was to investigate Weigl performance in patients with focal, unilateral, left or right, frontal, or non-frontal lesions.
+We retrospectively analysed data from patients with focal, unilateral, left or right, frontal (n = 37), or non-frontal (n = 46) lesions who had completed the Weigl.
+Pass/failure (two correct solutions/less than two correct solutions) and errors were analysed.
+A greater proportion of frontal patients failed the Weigl than non-frontal patients, which was highly significant (p < 0.001).
+In patients who failed the test, a significantly greater proportion of frontal patients provided the same solution twice.
+No significant differences in Weigl performance were found between patients with left versus right hemisphere lesions or left versus right frontal lesions.
+There was no significant correlation between performance on the Weigl and tests tapping fluid intelligence.
+The Weigl is specific to frontal lobe lesions and not underpinned by fluid intelligence.
+Both pass/failure on this test and error types are informative.
+Hence, the Weigl is suitable for assessing frontal lobe dysfunction.

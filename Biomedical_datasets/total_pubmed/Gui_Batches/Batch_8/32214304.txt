@@ -1,0 +1,16 @@
+A method for assessing dynamic muscle hyperalgesia (dynamic pressure algometry) has been developed and applied in tension-type and migraine headaches.
+To investigate differences in dynamic pressure pain assessment over the trigeminal area between men with cluster headache (CH) and headache-free controls, and the association between dynamic and static pressure pain sensitivity.
+Forty men with episodic CH and 40 matched controls participated.
+Dynamic pressure pain sensitivity was assessed with a dynamic pressure algometry set consisting of 8 rollers with different fixed levels (500, 700, 850, 1,350, 1,550, 2,200, 3,850, and 5,300 g).
+Each roller was moved at a speed of 0.5 cm/sec over a diagonal line covering the temporalis muscle from an anterior to posterior direction.
+The dynamic pressure threshold (DPT; load level of the first painful roller) and the pain intensity perceived at the DPT level (roller-evoked pain) were assessed.
+Static pressure pain thresholds (PPT) were also assessed with a digital pressure algometer applied statically over the mid-muscle belly of the temporalis.
+Patients were assessed in a remission phase, at least 3 months from the last cluster attack, and without preventive medication.
+Side-to-side consistency between DPTs (r = 0.781, P < 0.001), roller-evoked pain on DPT (r = 0.586; P < 0.001), and PPTs (r = 0.874;
+P < 0.001) were found in men with CH.
+DPT was moderately, bilaterally, and side-to-side associated with PPTs (0.663 > r > 0.793, all P < 0.001).
+Men with CH had bilateral lower DPT and PPT and reported higher levels of roller-evoked pain (all P < 0.001) than headache-free controls.
+Only men with episodic CH were included.
+This study supports that a dynamic pressure algometry is as valid as a static pressure algometry for assessing pressure pain sensitivity in patients with CH.
+Assessing both dynamic and static pain sensitivity may provide new opportunities for differentiated diagnostics.
+Cluster headache, dynamic pressure pain, pressure pain threshold.

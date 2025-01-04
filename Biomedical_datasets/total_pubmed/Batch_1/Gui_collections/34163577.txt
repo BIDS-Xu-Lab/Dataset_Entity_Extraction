@@ -1,0 +1,14 @@
+There is no established correlation between 24-h esophageal pH-metry (Eso-pH) and the new laryngopharyngeal pH-monitoring system (Restech) as only small case series exist.
+Eso-pH was not designed to detect laryngopharyngeal reflux (LPR) and Restech may detect LPR better.
+We have previously published a dataset using the two techniques in a large patient collective with gastroesophageal reflux disease.
+Anatomically, patients after esophagectomy were reported to represent an ideal human reflux model as no reflux barrier exists.
+To use a human reflux model to examine our previously published correlation in these patients.
+Patients after Ivor Lewis esophagectomy underwent our routine follow-up program with surveillance endoscopies, computed tomography scans and further exams following surgery.
+Only patients with a complete check-up program and reflux symptoms were offered inclusion into this prospective study and evaluated using Restech and simultaneous Eso-pH. Subsequently, the relationship between the two techniques was evaluated.
+A total of 43 patients from May 2016 - November 2018 were included.
+All patients presented with mainly typical reflux symptoms such as heartburn (74%), regurgitation (84%), chest pain (58%), and dysphagia (47%).
+Extraesophageal symptoms such as cough, hoarseness, asthma symptoms, and globus sensation were also present.
+Restech evaluation was abnormal in 61% of cases in this highly selective patient cohort.
+All patients with abnormal supine LPR were also abnormal for supine esophageal reflux measured by conventional Eso-pH. Patients following esophagectomy and reconstruction with gastric interposition can ideally serve as a human reflux model.
+Interestingly, laryngopharyngeal reflux phases occur mainly in the upright position.
+In this human volume-reflux model, results of simultaneous esophageal and laryngopharyngeal (Restech) pH-metry showed 100% correlation as being explicable by one of our reflux scenarios.

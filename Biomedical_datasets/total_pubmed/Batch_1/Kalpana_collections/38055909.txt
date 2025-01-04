@@ -1,0 +1,12 @@
+Vocal production in birds has been the target of considerable research that mostly has focused on phylogenetically well-nested songbirds.
+Anatomical descriptions and recordings of many non-songbirds have often only focused on a single ontogenetic stage or sex.
+While basic morphology of the vocal organ (syrinx) of ostrich (Palaeognathae, Struthio camelus) has been known since the 1800s, descriptions of its vocal repertoire and syrinx anatomy since then have been incomplete or inconsistent.
+New toolkits now enable detailed qualitative description of internal anatomy and meristic data and allow it to be compared to vocal production.
+Here we describe the anatomy of the syrinx in Struthio camelus for three post-hatching ontogenetic stages and both an adult male and female utilizing dissection and contrast enhanced X-ray computed tomography (diceCT).
+We find changes in ring geometry and spacing through ontogeny as well as lateral labia thickness.
+We document a small unpaired, midline, cartilaginous structure, a "pessuliform process" at the tracheobronchial juncture present throughout ontogeny and in both males and females.
+Investigation of the vocal repertoire of ostriches across ontogeny using a new dataset of 77 recordings led to identification of four vocalizations not previously reported in the literature, including the simultaneous production of a hiss and tonal.
+We find syrinx morphology largely consistent across ontogeny and in male and female adults.
+Both are capable of producing long duration tonal calls, but these may be more frequent in male birds.
+Closed-mouth boom calls remain unique to males.
+A detailed understanding of diversity in parts of early diverging clades is pivotal in attempting to estimate features of the ancestral syrinx in birds and how avian vocalization evolved.

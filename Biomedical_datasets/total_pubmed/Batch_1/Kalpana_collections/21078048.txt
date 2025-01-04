@@ -1,0 +1,10 @@
+• To compare oncological outcomes in patients undergoing open radical nephroureterectomy (ONU) with those in patients undergoing laparoscopic radical nephroureterectomy (LNU).
+A total of 773 patients underwent radical nephroureterectomy at nine centres worldwide; 703 patients underwent ONU and 70 underwent LNU.
+Demographic, perioperative and oncological outcome data were collected retrospectively.
+• Statistical analysis of data was performed using chi-squared, Mann-Whitney U- and log-rank tests, and Cox regression analyses.
+The median (interquartile range) follow-up for the cohort was 34 (15-65) months.
+The two groups were well matched for tumour stage, presence of lymphovascular invasion (LVI) and concomitant carcinoma in situ (CIS).
+There were more high-grade tumours (77.1% vs. 56.3%; P < 0.001) but fewer lymph node positive patients (2.9% vs. 6.8%; P= 0.041) in the LNU group.
+Estimated 5-year recurrence-free survival (RFS) was 73.7% and 63.4% for the ONU and LNU groups, respectively (P= 0.124) and estimated 5-year cancer-specific survival (CSS) was 75.4% and 75.2% for the ONU and LNU groups, respectively (P= 0.897).
+On multivariable analyses, which included age, gender, race, previous endoscopic treatment for bladder cancer, technique for distal ureter management, tumour location, pathological stage, grade, lymph node status, LVI and concomitant CIS, the procedure type (LNU vs. ONU) was not predictive of RFS (Hazard ratio [HR] 0.80; P= 0.534) or CSS (HR 0.96; P= 0.907).
+The present study is the second large, independent, multicentre cohort to show oncological equivalence between ONU and LNU for well selected patients with upper urinary tract urothelial cancer, and the first to suggest parity for the techniques in patients with unfavourable disease.

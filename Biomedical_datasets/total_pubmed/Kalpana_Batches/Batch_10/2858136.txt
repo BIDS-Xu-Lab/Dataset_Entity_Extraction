@@ -1,0 +1,6 @@
+A new method for one-step and one-layer culture of T-lymphocyte colonies (TLCs) from murine thymocytes and peripheral T-cells in methylcellulose is described.
+TLCs are detected from day 4 of culture and may contain up to 10(4) cells per colony.
+As few as 1 X 10(3) cells per culture can be seeded, and presented data indicate that individual colonies are the progenies of single cells.
+The frequency of colony-forming cells (CFCs) is about one per 6 000 thymic or splenic cells and one per 3 000 lymph node cells.
+A series of experiments was performed to study the nature of the CFC and the colony-cells, and it is concluded that the CFC is a Thy-1.2. positive, non-adherent, relatively hydrocortisone resistant, radiosensitive T-cell, the vast majority being in G1 or G0 phase, while colony-cells are Thy-1.2. positive, predominantly Lyt-2 positive cells in rapid cell-cycle.
+This method for growing thymic cells makes it possible to study differentiation and functional restriction of subsets of thymocytes on a clonal basis, and the culture system may also be a valuable source of monoclonally expanded lymphoid cells for future immunological studies.

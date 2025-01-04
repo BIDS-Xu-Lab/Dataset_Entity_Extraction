@@ -1,0 +1,4 @@
+To analyze the time trend and analyze the determinants of stage at diagnosis of cervical cancer in Brazil.
+Time trend analysis and cross-sectional study using data from hospital-based cancer registries (2000-2012); multinomial and joinpoint regression statistical models were used.
+65.843 cases were analyzed; the median interval between diagnosis and treatment was 59 days; the percentage of advanced staging increased, annual percent change 1.10% (95%CI 0.80;1.50); women with higher education (compared to unlettered) had less odds of late stage diagnosis (OR=0.38; 95%CI 0.31;0.47); among indigenous (OR=2.38; 95%CI 1.06;5.33) and black women (OR=1.16; 95%CI 1.02;1.31), compared to white, and in the North region (OR=2.55; 95%CI 2.26;2.89), compared to the Southeast, the odds was higher; other factors positively related to advanced stage were 'age', 'histology', and marital status'.
+Conclusion Inequities affect the odds of late stage diagnosis of cervical cancer.

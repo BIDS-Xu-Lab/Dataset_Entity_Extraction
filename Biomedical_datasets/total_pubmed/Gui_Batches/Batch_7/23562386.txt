@@ -1,0 +1,4 @@
+Recent experiments indicate that in contrast to αβT cells, γδT cell effector functions are largely preprogrammed in the thymus during fetal life.
+However the thymus also exports juvenile γδT cells that can mature and be polarized in the periphery.
+How these developmental pathways are regulated and how much they contribute to the γδT cell effector pool is unclear.
+Here we discuss recent advances in the understanding of γδT cell subset development, with particular focus on IL-17-producing γδT cells and their beneficial and pathogenic roles in immunity.

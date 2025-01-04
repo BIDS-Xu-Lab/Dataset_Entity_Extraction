@@ -1,0 +1,10 @@
+The creation of precise clinical mutations by targeting is important in elucidating disease pathogenesis using mouse models.
+'Hit and run' gene targeting is an elegant method to achieve this goal.
+This uses first a positive selection to introduce the targeting vector carrying the required mutation and then a negative selection to identify clones which have removed vector and wild-type sequences by intrachromosomal recombination.
+However, this approach has only been successfully used in a handful of cases.
+We used this procedure to introduce precise clinical mutations into the exon 10 region of the cystic fibrosis transmembrane conductance regulator (Cftr) gene.
+Using a CMV promoter driven hygromycin/thymidine kinase (hyg/tk) fusion gene as both our dominant and negative selectable marker, we targeted the Cftr locus very efficiently but only identified false runs after the negative selection step.
+This defect in thymidine kinase induced toxicity to gancyclovir correlated with methylation of the transgene.
+Consequently we devised a stringent screening procedure to select only true 'run' clones.
+Unfortunately these 'run' clones had lost the mutation so we altered the vector design to bias the run step to retain the mutation and used a different tk selection cassette with a HSVtk promoter sequence.
+This new vector design allowed both efficient 'hit and run' for two cystic fibrosis (CF) mutations with no false positives and successful germline transmission of the novel G480C missense mutation.

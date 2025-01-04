@@ -1,0 +1,14 @@
+A key priority of transgender health research is the evaluation of long-term effects of gender affirmation treatment.
+Thus, accurate assessment of treatment receipt is critical.
+The data for this analysis came from an electronic medical records (EMR) based cohort of transgender individuals.
+A subset of cohort members were also asked to complete a self-administered survey.
+Information from the EMR was compared with survey responses to assess the extent of agreement regarding transmasculine (TM)/transfeminine (TF) status, hormone therapy receipt, and type of surgery performed.
+Logistic regression models were used to assess whether participant characteristics were associated with disagreement between data sources.
+Agreement between EMR and survey-derived information was high regarding TM/TF status (99%) and hormone therapy receipt (97%).
+Lower agreement was observed for chest reconstruction surgery (72%) and genital reconstruction surgery (84%).
+Using survey responses as the "gold standard", both chest and genital reconstruction surgeries had high specificity (95 and 93%, respectively), but the corresponding sensitivities were low (49 and 68%, respectively).
+A lower proportion of TM had concordant results for chest reconstruction surgery (64% versus 79% for TF) while genital reconstruction surgery concordance was lower among TF (79% versus 89% for TM).
+For both surgery types, agreement was highest among the youngest participants.
+Our findings offer assurance that EMR-based data appropriately classify cohort participants with respect to their TM/TF status or hormone therapy receipt.
+However, current EMR data may not capture the complete history of gender affirmation surgeries.
+This information is useful in future studies of outcomes related to gender affirming therapy.

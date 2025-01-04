@@ -1,0 +1,12 @@
+It remains unclear whether the American College of Surgeons Committee on Trauma (ACSCOT) "step 1" field physiologic criteria could be further restricted without substantially sacrificing sensitivity.
+We assessed whether more restrictive physiologic criteria would improve the specificity of this triage step without missing high-risk patients.
+We analyzed an out-of-hospital, consecutive patient, prospective cohort of injured adults >or=15 years collected from December 1, 2005, to February 28, 2007, by 237 emergency medical service agencies transporting to 207 acute care hospitals in 11 sites across the United States and Canada.
+Patients were included based on ACSCOT field decision scheme physiologic criteria systolic blood pressure <or=90, respiratory rate <10 or >29 breaths/min, Glasgow Coma Scale score <or=12, or field intubation.
+Seven field physiologic variables and four additional demographic and mechanism variables were included in the analysis.
+The composite outcome was mortality (field or in-hospital) or hospital length of stay >2 days.
+Of 7,127 injured persons, 6,259 had complete outcome information and were included in the analysis.
+There were 3,631 (58.0%) persons with death or LOS >2 days.
+Using only physiologic measures, the derived rule included advanced airway intervention, shock index >1.4, Glasgow Coma Scale <11, and pulse oximetry <93%.
+Rule validation demonstrated sensitivity 72% (95% confidence interval: 70%-74%) and specificity 69% (95% confidence interval: 67%-72%).
+Inclusion of demographic and mechanism variables did not significantly improve performance measures.
+We were unable to omit or further restrict any ACSCOT step 1 physiologic measures in a decision rule practical for field use without missing high-risk trauma patients.

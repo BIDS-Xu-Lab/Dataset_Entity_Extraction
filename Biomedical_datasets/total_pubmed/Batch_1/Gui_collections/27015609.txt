@@ -1,0 +1,8 @@
+The 3-keto functionality in ring A of myrrhanone C, a natural bicyclic triterpene has been chemically modified and synthesized 27 novel triazole hybrids belonging to two different series in very good to excellent yields (66-83%).
+The synthesized compounds were thoroughly characterized by their spectroscopic data (IR, (1)H&(13)C NMR, HRMS).
+All the synthesized compounds were evaluated for their cytotoxic potential against a panel of five human cancer cell lines by employing MTT assay using doxorubicin as the standard.
+In general the synthesized compounds showed anticancer activity against almost all the cell lines screened.
+Interestingly, the oxime based triazoles (4a-4n) showed higher activity than the benzylidene triazoles (6a-6m).
+Most significantly compound 4a showed potent activity against all the tested cell lines, especially against lung cancer (A-549) with an IC 50 of 6.16 μm.
+In view of their significant activity against lung cancer cell lines, compounds 4a and 4l were subjected to detailed biological studies, which revealed that they arrested cell cycle in G2/M phase and induced cell death by apoptosis that was further confirmed by Hoechst staining, measurement of mitochondrial membrane potential (ΔΨm) and Annexin V-FITC assay.
+These compounds will serve as lead molecules in the development of potent anticancer drug candidates especially for lung cancer.

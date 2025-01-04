@@ -1,0 +1,7 @@
+The poor conductivity of sulfur and the 'shuttle effect' of polysulfide intermediates have hindered the development of next generation lithium-sulfur (Li-S) batteries with high energy and low consumption.
+Herein, novel Co9S8-S composite nanotubes are developed to efficiently alleviate the above-mentioned problems.
+Experiments and theoretical calculations show that Co9S8 has strong adsorption on soluble polysulfides.
+This not only restrains polysulfides diffusion and ensures their utilization, but also enhances the intimate contact between the active materials and the conductive substrates to promote the kinetics of conversion reactions.
+The three-dimensional (3D) conductive network with a high surface area formed by interlinking Co9S8 nanotubes further improves the electronic conductivity of the composite cathode.
+As a result, the Co9S8-S cathode shows a high capacity of 1153 mAh g-1.
+After 500 cycles, a high capacity of 462 mAh g-1 (2 C) is demonstrated with a negligible capacity decay of ~0.04% per cycle.

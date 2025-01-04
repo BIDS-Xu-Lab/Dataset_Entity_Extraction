@@ -1,0 +1,7 @@
+Mitochondrial transcription factor A (TFAM) had previously been shown to act as a damage associated molecular pattern with the ability to enhance CpG-A phosphorothioate oligodeoxynucleotide (ODN)-mediated stimulation of IFNα production from human plasmacytoid dendritic cells.
+Examination of the mechanism by which TFAM might influence CpG ODN mediated innate immune responses revealed that TFAM binds directly, tightly and selectively to the structurally related CpG-A, -B, and -C ODN.
+TFAM also modulated the ability of the CpG-B or -C to stimulate the production of antibodies from human B cells.
+TFAM showed a dose-dependent modulation of CpG-B, and -C -induced antibody production from human B cells in vitro, with enhancement of high dose and inhibition of low doses of CpG stimulation.
+This effect was linked to the ability of TFAM to directly inhibit the binding of CpG ODNs to B cells, in a manner consistent with the relative binding affinities of TFAM for the ODNs.
+These data suggest that TFAM alters the free concentration of the CpG available to stimulate B cells by sequestering this ODN in a TFAM-CpG complex.
+Thus, TFAM has the potential to decrease the pathogenic consequences of exposure to natural CpG-like hypomethylated DNA in vivo, as well as such as that found in traumatic injury, infection, autoimmune disease and during pregnancy.

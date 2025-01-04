@@ -1,0 +1,7 @@
+Published in 1975, the Atlas of Cancer Mortality for U.S. Counties: 1950-1969 proved useful in identifying geographic patterns, especially clusters of high-rate areas, that have stimulated further epidemiologic study of specific cancer sites.
+These data have been updated to include population and mortality statistics through 1980.
+Our new atlas presents static maps of area-specific mortality rates for each decade from 1950 to 1980 among white males and females for 33 cancer sites, along with dynamic maps illustrating the trends in these rates over time.
+Although the geographic distribution of mortality rates has become more uniform for most cancer sites, clusters of high-rate areas have persisted for several common tumors.
+However, some new patterns have appeared, notably the emergence of several high-rate areas for lung cancer among women.
+Possible explanations for the geographic peculiarities of cancer are considered, based on the results of correlation and analytic studies prompted by the earlier maps.
+These successive studies indicate the value of monitoring mortality statistics on a small-area scale as a strategy for generating etiologic clues and targeting epidemiologic research, although one must be mindful of geographic fluctuations in diagnostic and reporting practices, survival rates, and migration patterns.

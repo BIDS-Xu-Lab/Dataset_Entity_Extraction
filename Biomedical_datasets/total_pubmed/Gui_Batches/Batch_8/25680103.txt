@@ -1,0 +1,13 @@
+How genetic diversity is maintained in philopatric colonial systems remains unclear, and understanding the dynamic balance of philopatry and dispersal at all spatial scales is essential to the study of the evolution of coloniality.
+In the King penguin, Aptenodytes patagonicus, return rates of post-fledging chicks to their natal sub-colony are remarkably high.
+Empirical studies have shown that adults return year after year to their previous breeding territories within a radius of a few meters.
+Yet, little reliable data are available on intra- and inter-colonial dispersal in this species.
+Here, we present the first fine-scale study of the genetic structure in a king penguin colony in the Crozet Archipelago.
+Samples were collected from individual chicks and analysed at 8 microsatellite loci.
+Precise geolocation data of hatching sites and selective pressures associated with habitat features were recorded for all sampling locations.
+We found that despite strong natal and breeding site fidelity, king penguins retain a high degree of panmixia and genetic diversity.
+Yet, genetic structure appears markedly heterogeneous across the colony, with higher-than-expected inbreeding levels, and local inbreeding and relatedness hotspots that overlap predicted higher-quality nesting locations.
+This points towards heterogeneous population structure at the sub-colony level, in which fine-scale environmental features drive local philopatric behaviour, while lower-quality patches may act as genetic mixing mechanisms at the colony level.
+These findings show how a lack of global genetic structuring can emerge from small-scale heterogeneity in ecological parameters, as opposed to the classical model of homogeneous dispersal.
+Our results also emphasize the importance of sampling design for estimation of population parameters in colonial seabirds, as at high spatial resolution, basic genetic features are shown to be location-dependent.
+Finally, this study stresses the importance of understanding intra-colonial dispersal and genetic mixing mechanisms in order to better estimate species-wide gene flows and population dynamics.

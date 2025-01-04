@@ -1,0 +1,8 @@
+Traffic sign detection and recognition plays an important role in expert systems, such as traffic assistance driving systems and automatic driving systems.
+It instantly assists drivers or automatic driving systems in detecting and recognizing traffic signs effectively.
+In this paper, a novel approach for real-time traffic sign detection and recognition in a real traffic situation was proposed.
+First, the images of the road scene were converted to grayscale images, and then we filtered the grayscale images with simplified Gabor wavelets (SGW), where the parameters were optimized.
+The edges of the traffic signs were strengthened, which was helpful for the next stage of the process.
+Second, we extracted the region of interest using the maximally stable extremal regions algorithm and classified the superclass of traffic signs using the support vector machine (SVM).
+Finally, we used convolution neural networks with input by simplified Gabor feature maps, where the parameters were the same as the detection stage, to classify the traffic signs into their subclasses.
+The experimental results based on Chinese and German traffic sign databases showed that the proposed method obtained a comparable performance with the state-of-the-art method, and furthermore, the processing efficiency of the whole process of detection and classification was improved and met the real-time processing demands.

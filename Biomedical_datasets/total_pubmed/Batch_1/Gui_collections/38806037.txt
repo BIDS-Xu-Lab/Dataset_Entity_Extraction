@@ -1,0 +1,15 @@
+&#xD;Motor-related brain-computer interface (BCI) have a broad range of applications, with the detection of premovement intentions being a prominent use case.
+However, the electroencephalography (EEG) features during the premovement phase are not distinctly evident and are susceptible to attentional influences.
+These limitations impede the enhancement of performance in motor-based BCI.
+The objective of this study is to establish a premovement BCI encoding paradigm that integrates the preparatory movement state and validates its feasibility in improving the detection of movement intentions.
+&#xD;Two button tasks were designed to induce subjects into a preparation state for two movement intentions (left and right) based on visual guidance, in contrast to spontaneous premovement.
+The low frequency movement-related cortical potentials (MRCPs) and high frequency event-related desynchronization (ERD) EEG data of 14 subjects were recorded.
+Extracted features were fused and classified using task‑related common spatial patterns (TR-CSP) and common spatial patterns (CSP) algorithms.
+Differences between prepared premovement and spontaneous premovement were compared in terms of time domain, frequency domain, and classification accuracy.
+&#xD;In the time domain, MRCPs features reveal that prepared premovement induce lower amplitude and earlier latency on both contralateral and ipsilateral motor cortex compared to spontaneous premovement, with susceptibility to the dominant hand's influence.
+Frequency domain ERD features indicate that prepared premovement induce lower ERD values bilaterally, and the ERD recovery speed after button press is the fastest.
+By using the fusion approach, the classification accuracy increased from 78.92% for spontaneous premovement to 83.59% for prepared premovement (p<0.05).
+Along with the 4.67% improvement in classification accuracy, the standard deviation decreased by 0.95.
+&#xD;The research findings confirm that incorporating a preparatory state into premovement enhances neural representations related to movement.
+This encoding enhancement paradigm effectively improves the performance of motor-based BCI.
+Additionally, this concept has the potential to broaden the range of decodable movement intentions and related information in motor-related BCI.

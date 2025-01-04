@@ -1,0 +1,7 @@
+Interleukin (IL) inhibitors achieve greater levels of efficacy than older systemic therapies.
+We calculated the number needed to treat (NNT) of ixekizumab compared with other IL inhibitors approved in Italy for the treatment of moderate-to-severe plaque psoriasis.
+The clinical efficacy was evaluated in terms of NNT, based on the results of a recent network meta--analysis (NMA) by the Cochrane Database of Systematic Reviews.
+The NMA investigated many systemic and biological treatments, but this analysis compared only the efficacy of the following IL inhibitors - brodalumab, guselkumab, ixekizumab, risankizumab, secukinumab, tildrakizumab and ustekinumab - for patients with moderate-to-severe plaque psoriasis.
+Drugs were compared and ranked according to effectiveness considering the PASI (Psoriasis Area and Severity Index) 90 score.
+One-hundred and forty trials (51,749 patients) were included in the NMA.
+The findings show that ixekizumab is the most effective option (NNT) for the treatment of moderate-to-severe plaque psoriasis.

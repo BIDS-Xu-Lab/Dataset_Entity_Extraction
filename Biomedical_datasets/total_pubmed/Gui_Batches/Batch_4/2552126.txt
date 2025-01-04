@@ -1,0 +1,10 @@
+Activation kinetics of single high-threshold inactivating (HTI or N-type) calcium channels of cultured dorsal root ganglion cells from mouse embryos was studied using a patch-clamp method.
+The open-time histogram was single exponential with an almost potential-independent mean open time tau op = 1.2 msec.
+The closed-time histogram was multicomponent; at least three of the components were associated with the activation process.
+The "fast" exponential component with the potential-independent time constant tau fcl = 0.9 msec included all intraburst gaps, while two "slower" ones with potential-dependent time constants tau scl and tau vscl described shut times between bursts and between clusters of bursts.
+The burst length histogram was biexponential.
+The "fast" component with a relatively potential-independent time constant tau fbur = 0.6 msec described short, isolated channel openings while the "slow" component characterized real bursts with a potential-dependent mean life time.
+The waiting-time histogram could be fitted by a difference of two exponentials with time constants being the same as tau scl and tau vscl.
+The data obtained were described in the frame of a 4-state sequential model of calcium channel activation, in which the first two stages are formally attributed to potential-dependent transmembrane transfer of two charged gating particles accompanying the channel transitions between three closed states, and the third one to fast conformational changes in channel protein leading to the opening of the channel.
+The rate constants for all transitions were defined.
+The validity of the proposed model for both low-threshold inactivating (LTI or T-type) and high-threshold noninactivating (HTN or L-type) calcium channels is discussed.

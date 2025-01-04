@@ -1,0 +1,7 @@
+Achieving high performances of ultra-low thermal expansion (ULTE) and high thermal conductivity remains challenging, due to the strong phonon/electron-lattice coupling in ULTE materials.
+In this study, the challenge has been solved via the construction of the core-shell structure in 0.5PbTiO3-0.5(Bi0.9La0.1)FeO3@Cu composites by the electroless plating, which can simultaneously combine the advantages of the negative thermal expansion material of 0.5PbTiO3-0.5(Bi0.9La0.1)FeO3 in controlling thermal expansion, and copper metal in high thermal conductivity.
+By changing the volume fraction of copper, the coefficient of thermal expansion of composites can be adjusted continuously from positive to negative.
+In particular, a ULTE (ΔT = 400 K) has been achieved in the composite of 35 vol % Cu.
+Intriguingly, a 3D thermal conductive network copper structure is formed for thermal conducting, which can double the thermal conductivity of the 35 vol %
+Cu composite from the methods by the traditional mixing (32 W·m-1·K-1) up to the core-shell structure (60 W·m-1·K-1).
+The present work not only provides a composite material with excellent comprehensive properties but also proposes a general chemical method to resolve the problem of low thermal conductivity in most ULTE materials.

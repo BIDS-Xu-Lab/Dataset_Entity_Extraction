@@ -1,0 +1,8 @@
+Previously, a DNA fingerprinting study based on Amplified Fragment Length Polymorphism (AFLP) analysis has revealed a possible genotypic resemblance of the species Aeromonas ichthiosmia and Aeromonas allosaccharophila to Aeromonas veronii (Huys et al., Int.
+Currently, two genotypically indistinguishable biovars are known to exist in the latter species, namely A. veronii biovar sobria and A. veronii biovar veronii.
+In the current study, new DNA-DNA hybridization experiments showed that the type strain of A. ichthiosmia, LMG 12645T (= DSM 6393T), and that of A. allosaccharophila, LMG 14059T (= CECT 4199T), were 84-96% and 78-82% related to A. veronii strain LMG 9075T (= ATCC 35624T), respectively.
+Based upon phenotypic characterization including a total of 151 tests, the type strain of A. ichthiosmia could be clearly allocated to A. veronii biovar sobria.
+On the other hand, the three strains constituting the species A. allosaccharophila were found to be phenotypically heterogeneous.
+None of these strains clearly fitted the biochemical description of either of the two A. veronii biovars or tightly clustered with any of the A. veronii reference strains.
+On the basis of published taxonomic evidence (including AFLP and phylogenetic data) and the newly reported results, there is compiling evidence to conclude that A. ichthiosmia Schubert et al. 1990 is a later synonym of A. veronii Hickman-Brenner et al. 1987.
+However, due to the lack of agreement encountered between the new DNA reassociation results and previously reported DNA homology and phylogenetic data, a conclusive proposal on the genotypic position of A. allosaccharophila should await further studies.

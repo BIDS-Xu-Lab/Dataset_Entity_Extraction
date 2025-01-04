@@ -1,0 +1,14 @@
+The poor prognosis of breast cancer in Sudan could be due to delayed treatment and diagnosis at an advanced stage.
+Our study aimed to assess the extent of delays from onset of symptoms to treatment in Sudanese women with breast cancer, as well as identify factors contributing to these delays.
+We conducted a multi-center cross sectional study between March and April 2023.
+Data were collected from the medical records and interviews with women with breast cancer in the two main oncology centers in Sudan.
+Linear regression was used to identify the predictors of delayed presentation.
+We interviewed 601 women with breast cancer.
+The majority of women (50.1%) were diagnosed at locally advanced or metastatic disease.
+The median interval from the onset of symptoms to receiving oncologic treatment was 221 days (IQR = 92, 496).
+The longest delay was the presentation delay 61 (31 244) days.
+The median duration for diagnosis delay and treatment delay was 21 (10.57) days and 27 (10.64) days, respectively.
+Predictors of early presentation included, being young (β = -5.3; 95% CI = 0.06 to 10), married (β = -264; 95% CI = -427 to -101), divorced (β = -306; 95% CI = -549 to -63), or widowed (β = -320; 95% CI = --543 to -97), urban residence (β = -107; 95% CI = -213 to -2.3), and seeking traditional healer (β = -204; 95% CI = -383 to -26).
+Most Sudanese women with breast cancer experience significant patient delays, often presenting at advanced stages.
+Factors like being single, older, and living in rural areas contribute to these delays.
+Increasing breast cancer education, improving healthcare access and addressing sociodemographic barriers can potentially expedite diagnosis and improve outcomes.

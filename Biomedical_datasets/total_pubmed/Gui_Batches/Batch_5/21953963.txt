@@ -1,0 +1,9 @@
+Tree-ring carbon and oxygen isotope ratios from live and recently dead trees may reveal important mechanisms of tree mortality.
+However, wood decay in dead trees may alter the δ(13)C and δ(18)O values of whole wood obscuring the isotopic signal associated with factors leading up to and including physiological death.
+We examined whole sapwood and α-cellulose from live and dead specimens of ponderosa pine (Pinus ponderosa), one-seed juniper (Juniperous monosperma), piñon pine (Pinus edulis) and white fir (Abies concolor), including those with fungal growth and beetle frass in the wood, to determine if α-cellulose extraction is necessary for the accurate interpretation of isotopic compositions in the dead trees.
+We found that the offset between the δ(13)C or δ(18)O values of α-cellulose and whole wood was the same for both live and dead trees across a large range of inter-annual and regional climate differences.
+The method of α-cellulose extraction, whether Leavitt-Danzer or Standard Brendel modified for small samples, imparts significant differences in the δ(13)C (up to 0.4‰) and δ(18)
+O (up to 1.2‰) of α-cellulose, as reported by other studies.
+There was no effect of beetle frass or blue-stain fungus (Ophiostoma) on the δ(13)C and δ(18)O of whole wood or α-cellulose.
+The relationships between whole wood and α-cellulose δ(13)C for ponderosa, piñon and juniper yielded slopes of ~1, while the relationship between δ(18)O of whole wood and α-cellulose was less clear.
+We conclude that there are few analytical or sampling obstacles to retrospective studies of isotopic patterns of tree mortality in forests of the western United States.

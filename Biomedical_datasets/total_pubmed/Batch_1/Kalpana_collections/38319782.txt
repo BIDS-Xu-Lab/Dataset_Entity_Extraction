@@ -1,0 +1,9 @@
+Survival analysis is employed to analyze the time before the event of interest occurs, which is broadly applied in many fields.
+The existence of censored data with incomplete supervision information about survival outcomes is one key challenge in survival analysis tasks.
+Although some progress has been made on this issue recently, the present methods generally treat the instances as separate ones while ignoring their potential correlations, thus rendering unsatisfactory performance.
+In this study, we propose a novel Deep Survival Analysis model with latent Clustering and Contrastive learning (DSACC).
+Specifically, we jointly optimize representation learning, latent clustering and survival prediction in a unified framework.
+In this way, the clusters distribution structure in latent representation space is revealed, and meanwhile the structure of the clusters is well incorporated to improve the ability of survival prediction.
+Besides, by virtue of the learned clusters, we further propose a contrastive loss function, where the uncensored data in each cluster are set as anchors, and the censored data are treated as positive/negative sample pairs according to whether they belong to the same cluster or not.
+This design enables the censored data to make full use of the supervision information of the uncensored samples.
+Through extensive experiments on four popular clinical datasets, we demonstrate that our proposed DSACC achieves advanced performance in terms of both C-index (0.6722, 0.6793, 0.6350, and 0.7943) and Integrated Brier Score (IBS) (0.1616, 0.1826, 0.2028, and 0.1120).

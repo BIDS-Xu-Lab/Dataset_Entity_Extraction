@@ -1,0 +1,8 @@
+The role of selective uptake and alkylation in the diabetogenic action of streptozotocin was investigated in bioengineered RINm5F insulin-producing cells, with different expression levels of the glucose transporter GLUT2, by comparing the toxicity of streptozotocin with that of four chemically related alkylating compounds, N-methyl-N-nitrosourea (MNU), N-ethyl-N nitrosourea (ENU), methyl methanesulphonate (MMS) and ethyl methanesulphonate (EMS).
+GLUT2 expressing RINm5F cells were generated through stable transfection of the rat glucose transporter GLUT2 cDNA under the control of the cytomegalovirus promoter in the pcDNA3 vector.
+Viability of the cells was determined using a microtitre plate-based 3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide (MTT) assay.
+Cells expressing the glucose transporter GLUT2 were much more susceptible to streptozotocin toxicity than control cells due to the uptake of streptozotocin by this specific glucose transporter.
+In contrast, the GLUT2 expression had no effect upon the toxicity of MNU, ENU, MMS or EMS.
+Although the latter substances are, like streptozotocin, cytotoxic through their ability to cause DNA alkylation, they are not diabetogenic because they are not taken up through the glucose transporter GLUT2.
+Our results are consistent with the central importance of selective uptake and alkylating activity in the mechanism of streptozotocin diabetogenicity.
+Alkylation of DNA leads to necrosis of pancreatic beta cells and thus to a state of insulin-dependent diabetes mellitus, well-known as streptozotocin diabetes in experimental diabetes research.

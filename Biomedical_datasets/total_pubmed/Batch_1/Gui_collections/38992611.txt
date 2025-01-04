@@ -1,0 +1,12 @@
+Sarcopenia is a common cause of disability in the aging population, and managing sarcopenia is an important step in building intrinsic capacity and promoting healthy aging.
+A growing body of evidence suggests that sleep deprivation may be a mediator of the development of sarcopenia.
+The purpose of this study was to explore the longitudinal association between sleep duration and possible sarcopenia using data from a national sample.
+Two waves of data from the CHARLS database for 2011 and 2015 were used in this study.
+All possible sarcopenia participants met the Asia Working Group for Sarcopenia 2019 (AWGS 2019) diagnostic criteria.
+Sleep duration was assessed using a self-report questionnaire, and sleep duration was categorized as short (≤ 6 h), medium (6-8 h), or long (> 8 h) based on previous studies.
+Longitudinal associations between sleep duration and possible sarcopenia will be calculated by univariate and multifactorial logistic regression analyses and expressed as odds ratios (ORs) and 95% confidence intervals (CIs).
+A total of 5654 individuals participated in the follow-up study, with a prevalence of possible sarcopenia of 53.72% (578) in the short sleep duration group, 38.29% (412) in the medium sleep duration group, and 7.99% (86) in the long sleep duration group.
+According to the crude model of the second-wave follow-up study, short sleep durations were significantly more strongly associated with possible sarcopenia than were medium and long sleep durations (OR: 1.35, 95% CI: 1.17-1.55, P = 0.000).
+The association between short sleep duration and possible sarcopenia was maintained even after adjustment for covariates such as age, gender, residence, education level, BMI, smoking status, alcohol consumption and comorbidities (OR: 1.18, 95% CI: 1.02-1.36, P = 0.029).
+In the subgroup analysis, short sleep duration was associated with low grip strength (OR: 1.20, 95% CI: 1.02-1.41, P = 0.031).
+Sleep deprivation may be closely associated with the development of possible sarcopenia in middle-aged and elderly people, which provides new insights and ideas for sarcopenia intervention, and further studies are needed to reveal the underlying mechanisms involved.

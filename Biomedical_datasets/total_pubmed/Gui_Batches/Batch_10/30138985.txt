@@ -1,0 +1,19 @@
+Objective: To study the role of chemerin in the development and progression of non-alcoholic fatty liver disease (NAFLD) rats complicated with prediabetes and explore the effect of sitagliptin on the expression of chemerin.
+Methods: The model of NAFLD and prediabetic rats was established.
+The rats were then randomly divided into normal group, model group and intervention group.
+Sitagliptin intervention was performed for 8 weeks after 8 weeks's feeding with high-fat diet.
+After that, the level of blood glucose, insulin and chemerin was measured.
+Cytological changes of liver, omentum and epididymal adipose tissue were observed by HE staining.
+The distribution of chemerin in the tissues was observed by immunohistochemistry.
+The mRNA and protein expression of chemerin and chemokine-like receptor 1 (chemR23) in liver and adipose tissue were detected by RT-PCR and Western blotting.
+After 8 weeks of sitagliptin treatment, compared with the normal group(n=8), serum chemerin in the model group (n=6) increased[(35.19±3.86) ng/L vs (29.90±2.17) ng/L, P=0.046)].
+Serum chemerin in the intervention group (n=6) was lower than that of the normal group[(23.20±1.89) ng/L vs (29.90±2.17) ng/L, P=0.013)].
+Compared with the normal group, the mRNA and protein expression of chemerin in the liver and omentum adipose tissue of the model group increased (P<0.05).
+The expression amount of the omental adipose tissue was more than that of the liver(P<0.05).
+The mRNA expression of chemR23 both in liver and omental adipose tissue increased (P<0.05), and the expression amount of the liver was more than that of omental adipose tissue.
+The levels of fasting blood glucose[(5.72 ±1.36)mmol/L vs(3.77±0.77)mmol/L, P=0.002], total cholesterol[(1.53±0.09)mmol/L vs (1.23±0.17)mmol/L, P=0.032], aspartate aminotransferase[(319.8±104.4)U/L vs (195.0±25.0) U/L, P=0.016]in the model group were significantly higher than those in the normal group.
+The differences between the intervention group and the normal group was not significant.
+But the level of fasting blood glucose[(4.33±0.39)mmol/L vs (5.72±1.36)mmol/L, P=0.019], total cholesterol[(1.23±0.17)mmol/L vs (1.53±0.09)mmol/L, P=0.047]and aspartate aminotransferase[(198.4±22.8)U/L vs (319.8±104.4)U/L, P=0.014)]of the intervention group was significantly lower than those of the model group.
+Conclusions: Increasing expression of serum chemerin is consistent with hepatic steatosis, suggesting that chemerin can serve as a serological warning indicator for NAFLD complicated with pre-diabetes.
+Sitagliptin affects the mRNA and protein expression of chemerin and its receptor chemR23 in steatosis liver.
+This may provide a research direction for the pathophysiology and treatment of NAFLD.

@@ -1,0 +1,9 @@
+The Handy Eye Chart™ is designed to assist in evaluating the visual acuity of patients with non-standard communication styles.
+The Handy Eye Chart™ has been previously validated against the early treatment diabetic retinopathy study (ETDRS) chart.
+The aim of this research is to compare visual acuity outcomes with The Handy Eye Chart™ against the international gold standard, the Landolt C chart, in a population of children.
+Sixty participants between the ages of 6 and 18 were recruited at the Pediatric Section of the Department of Ophthalmology at the Emory Eye Center.
+Visual acuity was evaluated using The Handy Eye Chart™ and the Landolt C Chart, altering the order of administration between charts.
+The visual acuity data were compared using t test, linear regression, and Bland-Altman analysis.
+The mean difference in visual acuity was 0.02 logMAR (CI 0.009-0.04, p = 0.002).
+The Bland-Altman analysis shows the 95% limits of agreement between the charts to be -0.14 to 0.09 logMAR.
+The Handy Eye Chart™ is a valid measure of visual acuity when compared with the international gold standard, the Landolt C Chart.

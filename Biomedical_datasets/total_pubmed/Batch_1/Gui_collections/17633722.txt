@@ -1,0 +1,4 @@
+We report on mathematical methods for the exploration of spatiotemporal dynamics of Magneto- and Electro-Encephalography (MEG / EEG) surface data and/or of the corresponding brain activity at the cortical level, with high temporal resolution.
+In this regard, we describe how the framework and numerical computation of the optical flow--a classical tool for motion analysis in computer vision--can be extended to non-flat 2-dimensional surfaces such as the scalp and the cortical mantle.
+We prove the concept and mathematical well-posedness of such an extension through regularizing constraints on the estimated velocity field, and discuss the quantitative evaluation of the optical flow.
+The method is illustrated by simulations and analysis of brain image sequences from a ball-catching paradigm.

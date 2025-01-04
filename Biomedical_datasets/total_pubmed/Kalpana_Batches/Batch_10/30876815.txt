@@ -1,0 +1,3 @@
+Several T cell-boosting anticancer therapies (including anti-CD19 CAR-T cells and bi-specific T cell engagers, BiTEs) have been approved by the FDA for specific clinical indications.
+Their potency has been demonstrated in various clinical trials, but some life-threatening complications such as neurotoxicity remain poorly understood.
+Thus, by conducting multifaceted investigations, a better understanding of T cell immunotherapy-associated neurotoxicity to bridge the gap between basic research and clinical practice is urgently needed.

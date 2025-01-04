@@ -1,0 +1,6 @@
+The current study is a meta-analysis of the effects of electrical stimulation (ES, n = 28 papers) with different voltages combined with different ageing periods (0-3, 4-7, and 8-14 days) on the meat quality of small ruminants.
+A comprehensive search for published studies on meat quality of small ruminants investigating the application of low, medium, and high voltage electrical stimulation, was performed using Google Scholar, ScienceDirect, PubMed, and Scopus databases.
+Forest plots, funnel plots, and other statistical tools and tests were used in the study to analyze the results.
+Electrical stimulation significantly reduced ultimate pH (p < 0.001), Warner-Bratzler shear force (WBSF) (p < 0.001), cooking loss (p < 0.05), and purge loss (p < 0.001).
+In addition, sarcomere length (p < 0.01), myofibrillar-fragmentation index (MFI) (p < 0.001), and color (L*, a*, b*) (p < 0.001) showed higher values in meat subjected to ES as compared with the control group.
+In conclusion, the meta-analysis revealed statistical proof of beneficial effects of ES on meat quality of small ruminants in terms of ultimate pH, tenderness, enhanced proteolysis, and higher colorimetric values.

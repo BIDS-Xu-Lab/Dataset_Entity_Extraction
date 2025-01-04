@@ -1,0 +1,6 @@
+Plasma membrane microdomains such as lipid rafts or caveolae play a major role in host-pathogen interactions.
+Although this field of research has been extensively studied, two important points have been poorly addressed: (i) the molecular basis of raft-pathogen interactions, and (ii) the effect of such interactions on nutrient absorption.
+The aim of this review was to propose a biochemical analysis of bacterial adhesion to lipid raft components exposed on the mucosal surface of the intestinal epithelium.
+A special attention has been given to CH-pi interactions that allow the sugar rings of glycosphingolipids (GSL) to stack against aromatic side chains of bacterial adhesins and toxins.
+These interactions are controlled by cholesterol molecules intercalated between membrane GSL and/or by the presence of an alpha-OH group in the acyl chain of the ceramide backbone of GSL.
+In the second part of the review, we analysed the experimental data suggesting the involvement of lipid rafts in the intestinal absorption of nutrients, the mechanisms by which bacteria could impair intestinal functions, and possible therapeutic strategies based on the biochemistry of raft-pathogen interactions.

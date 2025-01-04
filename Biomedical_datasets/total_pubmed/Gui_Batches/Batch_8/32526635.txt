@@ -1,0 +1,14 @@
+In natural and engineered settings, bacteria predominantly thrive in biofilms, which are complex microbial communities embedded in a self-produced extracellular polymeric substances (EPSs) matrix.
+Pellicles are complex macroscopic biofilms floating at air-water interface.
+Though pellicle formation has been studied in detail in Bacillus subtilis, a soil bacterium, it is not reported in aquatic bacteria, which may use pellicle-growth as survival-strategy.
+This study shows that Bacillus haynesii isolated from a marine environment forms robust pellicle biofilms at air-water interface.
+B. haynesii pellicles showed complex architecture, involving dense cell-aggregates with interconnecting thread-like structures in an extracellular matrix.
+In situ staining by Alcian blue, Concanavalin A and ThioflavinT (ThT), respectively, localized acidic polymers, glycoconjugates and amyloid-like fibers in the pellicle.
+The pellicle was rigid and not disrupted by common EPS extraction protocols.
+Hence, a set of reagents and conditions were evaluated for solubilizing the EPS and pellicle.
+Acetic acid was able to effectively solubilize the structural EPS and pellicle structure.
+Acid soluble structural EPS contained chemical signatures for both proteins and carbohydrates, as revealed by elemental analysis, Fourier Transform Infrared Spectroscopy and Raman Spectroscopy.
+Ex situ staining of acid soluble EPS by ThT showed recovery of amyloid-forming proteins from pellicle.
+Results show that structural stability of the pellicle is mainly conferred by amyloid-like fibers of the EPS matrix.
+The robust pellicle-growth reported here may represent a survival-strategy in the aquatic bacterium.
+The findings reported here can support future research on biofilm structure, EPS matrix and its formation, which are critical for understanding how microbes thrive in natural and engineered settings.

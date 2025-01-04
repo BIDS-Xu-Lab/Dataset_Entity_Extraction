@@ -1,0 +1,8 @@
+Acridone units were incorporated into the arylene-ethynylene structure as polar arene units.
+Cyclic trimers consisting of three acridone-2,7-diyl units and three 1,3-phenylene units were synthesized by Sonogashira couplings via stepwise or direct route.
+X-ray analysis revealed that the trimer had a nearly planar macrocyclic framework with a cavity surrounded by three carbonyl groups.
+In contrast, the corresponding tetramer had a nonplanar macrocyclic framework.
+1 H NMR measurements showed that the trimer formed a 1 : 1 complex as a macrocyclic host with dihydric phenol guests, and the association constants were determined to be ca.
+1.0×103  L mol-1 for hydroquinone or resorcinol guests in CDCl3 at 298 K.
+The calculated structures of these complexes by the DFT method supported the presence of two sets of OH⋅⋅⋅O=C hydrogen bonds between the host and guest molecules.
+The spectroscopic data of the cyclic trimers and tetramers are compared with those of reference acridone compounds.

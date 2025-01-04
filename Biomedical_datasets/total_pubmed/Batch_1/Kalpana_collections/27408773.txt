@@ -1,0 +1,7 @@
+Adipose depot mass is tightly regulated to maintain energy homeostasis.
+AKT is a critical kinase in the insulin-signaling cascade that is required for the process of adipogenesis in vitro.
+However, the role of AKT in the maintenance and/or function of mature adipocytes in vivo had not been examined.
+To study this, we deleted Akt1 and Akt2 in adipocytes of mice using the AdipoQ-Cre driver.
+Strikingly, mice lacking adipocyte AKT were severely lipodystrophic, having dramatically reduced gonadal adipose and no discernible subcutaneous or brown adipose tissue.
+As a result, these mice developed severe insulin resistance accompanied by fatty liver, hepatomegaly and with enlarged islets of Langerhans.
+These data reveal the critical role of adipocyte AKT and insulin signaling for maintaining adipose tissue mass.

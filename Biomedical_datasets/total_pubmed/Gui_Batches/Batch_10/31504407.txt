@@ -1,0 +1,12 @@
+Estrogen receptor α (ER) is the target of endocrine therapies in ER-positive breast cancer (BC), but their therapeutic effectiveness diminishes with disease progression.
+Most metastatic BCs retain an ER-positive status, but ER expression levels are reduced.
+We asked how the bone tumor microenvironment (TME) regulates ER expression.
+We observed ESR1 mRNA and ER protein downregulation in BC cells treated with conditioned media (CM) from patient-derived, cancer-activated bone marrow stromal cells (BMSCs) and the BMSC cell line HS5.
+Decreases in ESR1 mRNA were attributed to decreases in nascent transcripts as well as decreased RNA polymerase II occupancy and H3K27Ac levels on the ESR1 promoter and/or distal enhancer (ENH1).
+Repression extended to neighboring genes of ESR1, including ARMT1 and SYNE1.
+Although ERK/MAPK signaling pathway can repress ER expression by other TME cell types, MAPK inhibition did not reverse decreases in ER expression by BMSC-CM.
+ESR1 mRNA and ER protein half-lives in MCF7 cells were unchanged by BMSC-CM treatment.
+Whereas ER phosphorylation was induced, ER activity was repressed by BMSC-CM as neither ER occupancy at known binding sites nor estrogen response element-luciferase activity was detected.
+BMSC-CM also repressed expression of ER target genes.
+In cells expressing the Y537S and D538G ESR1 mutations, BMSC-CM reduced ESR1, but expression of target genes PGR and TFF1 remained significantly elevated compared with that of control wild-type cells.
+These studies demonstrate that BMSCs can transcriptionally corepress ESR1 with neighboring genes and inhibit receptor activity, but the functional consequences of the BMSC TME can be limited by metastasis-associated ESR1 mutations.

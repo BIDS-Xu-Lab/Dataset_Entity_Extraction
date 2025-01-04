@@ -1,0 +1,10 @@
+Glycosylation of proteins in eukaryote cells is an important and complicated post-translation modification due to its pivotal role and association with crucial physiological functions within most of the proteins.
+Identification of glycosylation sites in a polypeptide chain is not an easy task due to multiple impediments.
+Analytical identification of these sites is expensive and laborious.
+There is a dire need to develop a reliable computational method for precise determination of such sites which can help researchers to save time and effort.
+Herein, we propose a novel predictor namely iGlycoS-PseAAC by integrating the Chou's Pseudo Amino Acid Composition (PseAAC) and relative/absolute position-based features.
+The self-consistency results show that the accuracy revealed by the model using the benchmark dataset for prediction of O-linked glycosylation having serine sites is 98.8 percent.
+The overall accuracy of predictor achieved through 10-fold cross validation by combining the positive and negative results is 97.2 percent.
+The overall accuracy achieved through Jackknife test is 96.195 percent by aggregating of all the prediction results.
+Thus the proposed predictor can help in predicting the O-linked glycosylated serine sites in an efficient and accurate way.
+The overall results show that the accuracy of the iGlycoS-PseAAC is higher than the existing tools.

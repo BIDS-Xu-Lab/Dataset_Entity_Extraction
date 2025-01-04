@@ -1,0 +1,9 @@
+The cerebral white matter is vulnerable to injury in very preterm infants (born prior to 30 weeks gestation), resulting in a spectrum of lesions.
+These range from severe forms, including cystic periventricular leukomalacia and periventricular hemorrhagic infarction, to minor focal punctate lesions.
+Moderate to severe white matter injury in preterm infants has been shown to predict later neurodevelopmental disability, although outcomes can vary widely in infants with qualitatively comparable lesions.
+Resting state functional connectivity magnetic resonance imaging has been increasingly utilized in neurodevelopmental investigations and may provide complementary information regarding the impact of white matter injury on the developing brain.
+We performed resting state functional connectivity magnetic resonance imaging at term equivalent postmenstrual age in fourteen preterm infants with moderate to severe white matter injury secondary to periventricular hemorrhagic infarction.
+In these subjects, resting state networks were identifiable throughout the brain.
+Patterns of aberrant functional connectivity were observed and depended upon injury severity.
+Comparisons were performed against data obtained from prematurely-born infants with mild white matter injury and healthy, term-born infants and demonstrated group differences.
+These results reveal structural-functional correlates of preterm white matter injury and carry implications for future investigations of neurodevelopmental disability.

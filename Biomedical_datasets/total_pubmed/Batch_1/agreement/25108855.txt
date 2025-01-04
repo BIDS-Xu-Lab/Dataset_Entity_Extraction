@@ -1,0 +1,6 @@
+Based on an extensive data set for southern Germany, we compared the productive performance of dairy farms that operate solely on permanent grassland and dairy farms using fodder crops from arable land.
+We allowed for heterogeneous production technologies and identified more intensive and extensive production systems for both types of farms, whereby we based our notion of intensive versus extensive dairy production on differences in stocking density and milk yield per cow and year.
+To be able to compare the productivity levels and productivity developments of the various groups of farms, we developed a group- and chain-linked multilateral productivity index.
+We also analyzed how technical change, technical efficiency change, and a scale change effect contribute to productivity growth between the years 2000 and 2008.
+Our results revealed that permanent grassland farms can generally keep up with fodder-crop farms, even in an intensive production setting.
+However, extensively operating farms, especially those on permanent grassland, significantly lag behind in productivity and productivity change and run the risk of losing ground.

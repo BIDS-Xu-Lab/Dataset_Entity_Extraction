@@ -1,0 +1,6 @@
+Acute climate events like marine heatwaves have the potential to temporarily or permanently alter community structure with effects on biodiversity and ecosystem services.
+We aimed to quantify the magnitude and consistency of climate driven community shifts inside and outside Marine Protected Areas before and after a marine heatwave using a kelp forest fish community dataset in southern California, USA.
+Abundance, biomass, diversity and recruitment of warm-water affinity species during the marine heatwave were significantly greater compared with prior years yet cool-water affinity species did not show commensurate declines.
+Fish communities inside MPAs were not buffered from these community shifts.
+This result is likely because the particular species most responsible for the community response to environmental drivers, were not fisheries targets.
+Resource managers working to preserve biodiversity in a changing climate will need to consider additional management tools and strategies in combination with protected areas to mitigate the effect of warming on marine communities.

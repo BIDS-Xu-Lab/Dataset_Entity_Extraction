@@ -1,0 +1,11 @@
+Western corn rootworm, Diabrotica virgifera virgifera LeConte, is a serious pest of corn and is often managed with transgenic corn producing insecticidal toxins from the bacterium Bacillus thuringiensis (Bt).
+This pest has developed field-evolved resistance to all commercially available Bt traits, beginning with Cry3Bb1 in 2009.
+Fitness costs may accompany Bt resistance, where individuals with alleles for Bt resistance have reduced fitness on non-Bt corn compared to Bt-susceptible individuals.
+In conjunction with non-Bt refuges, fitness costs can delay the evolution of Bt resistance.
+Importantly, ecological factors may affect the presence and magnitude of fitness costs.
+For western corn rootworm, available data suggest that fitness costs of Bt resistance may be present in some cases.
+Using two Cry3Bb1-resistant western corn rootworm strains (Hopkinton and Cresco), a fitness-cost experiment was performed by rearing rootworm in the absence of Bt for six generations to test for fitness costs of Cry3Bb1 resistance and the effect of larval rearing density on fitness costs.
+Fitness costs were detected for both strains; however, strains were still resistant to Cry3Bb1 corn at the end of the experiment.
+Cresco experienced a greater loss of resistance at low versus high density, but no effect of density was detected in Hopkinton.
+Our study shows that fitness costs can accompany Bt resistance in western corn rootworm and may be more pronounced under low larval density.
+Even though fitness costs were present, it appears that rootworm populations may remain resistant to Cry3Bb1 corn for years after resistance has evolved.

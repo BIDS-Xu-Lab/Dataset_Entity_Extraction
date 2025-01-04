@@ -1,0 +1,12 @@
+Myocardial injury after noncardiac surgery is associated with mortality and major adverse postoperative cardiovascular events.
+The effect of postoperative troponin concentrations on patient-reported health-related quality of life (HRQoL) is unknown.
+The study examined the association between immediate postoperative troponin concentrations and self-reported HRQoL 1 year after surgery.
+Single-centre tertiary care hospital in the Netherlands between July 2012 and 2015.
+Patients aged at least 60 years undergoing moderate and major noncardiac surgery.
+HRQoL total score was assessed with the EuroQol five-dimensional questionnaire.
+Tobit regression analysis was used to determine the association between postoperative troponin concentrations and 1-year HRQoL. Peak high-sensitivity troponin T values were divided into four categories: less than 14, 14 to 49, 50 to 149 and at least 150 ng l.
+A total of 3085 patients with troponin measurements were included.
+patients were alive at 1-year follow-up of whom 1297 (49.2%) returned a completed questionnaire.
+The median score for HRQoL was 0.82 (0.85, 0.81, 0.77 and 0.71 per increasing troponin category).
+Multivariable analysis revealed betas of -0.06 [95% confidence interval (CI) -0.09 to -0.02], -0.11 (95% CI -0.18 to -0.04) and -0.18 (95% CI -0.29 to -0.07) for troponin levels of 14 to 49, 50 to 149 and at least 150 ng l when compared with values less than 14 ng l. Other independent predictors for lower HRQoL were chronic obstructive pulmonary disease, female sex, peripheral arterial disease and increasing age.
+Higher levels of postoperative troponin measured immediately after surgery were independently associated with lower self-reported HRQoL total score at 1-year follow-up.

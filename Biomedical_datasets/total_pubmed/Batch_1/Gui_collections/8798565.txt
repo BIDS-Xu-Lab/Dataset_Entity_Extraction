@@ -1,0 +1,10 @@
+Dissociated sponge cells quickly reaggregate in a species-specific manner, differentiate, and reconstruct tissue, providing a very handy system to investigate the molecular basis of more complex intercellular recognition processes.
+Species-specific cell adhesion in the marine sponge Microciona prolifera is mediated by a supramolecular complex with a Mr = 2 x 10(7), termed aggregation factor.
+Guanidinium hydrochloride/cesium chloride dissociative gradients and rhodamine B isothiocyanate staining indicated the presence of several proteins with different degrees of glycosylation.
+Hyaluronate has been found to be associated with the aggregation factor.
+Chemical deglycosylation revealed a main component accounting for nearly 90% of the total protein.
+The cDNA-deduced amino acid sequence predicts a 35-kDa protein (MAFp3), the first sponge aggregation factor core protein ever described.
+The open reading frame is uninterrupted upstream from the amino terminus of the mature protein, and the deduced amino acid sequence for this region has been found to contain a long stretch sharing homology with the Na+-Ca2+ exchanger protein.
+A putative hyaluronic acid binding domain and several putative N- and O-glycosylation signals are present in MAFp3, as well as eight cysteines, some of them involved in intermolecular disulfide bridges.
+Northern blot data suggest variable expression, and Southern blot analysis reveals the presence of other related gene sequences.
+According to the respective molecular masses, one aggregation factor molecule would contain about 300 MAFp3 units, suggesting that sponge cell adhesion might be based on the assembly of multiple small glycosylated protein subunits.

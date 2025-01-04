@@ -1,0 +1,13 @@
+Human papilloma virus-positive (HPV+) oropharyngeal squamous cell carcinoma (OPSCC), diagnosed with p16 immunohistochemistry, is associated with favorable prognosis; however, this connection was established using European American (EA)-skewed populations.
+The impact of p16/human papillomavirus status on outcomes in African American (AA) OPSCC patients remains to be settled.
+In this study, we determine the association between cancer disparity and p16 status in an OPSCC cohort controlling for time to treatment initiation (TTI), a surrogate for medical care access.
+We analyzed data from all patients diagnosed with OPSCC (N = 440) between 2010 and 2017, who received treatment at our academic medical center.
+Associations between age, disease stage, sex, p16 status, race, TTI, and overall survival (OS) were investigated.
+TTI was similar between AA and EA OPSCC patients in our p16+
+(P = .291) or p16- (P = .715) cohorts.
+Among p16+ OPSCC patients, the median OS was > 8.65 years for EA patients compared with 5.038 years (95% CI, 2.019 to 5.30;
+P = .003, log-rank) for AA patients.
+For p16- patients, the median OS was 5.74 years (95% CI, 3.32 to 6.99) for EA patients and 1.85 years (95% CI, 0.978 to 4.50; P = .03, log-rank) for AA patients.
+Multivariate Cox regression analysis showed that race was an independent prognostic biomarker and the most impactful co-variate for OS (hazard ratio, 0.40; 95% CI, 0.00 to 0.69; P = .001).
+Our work showed that AAs with p16+ OPSCC have surprisingly poor clinical outcomes and are thus poor candidates for treatment de-escalation regimens.
+Caution should be exercised when extending clinical guidelines based on EA-majority studies to non-EA populations.

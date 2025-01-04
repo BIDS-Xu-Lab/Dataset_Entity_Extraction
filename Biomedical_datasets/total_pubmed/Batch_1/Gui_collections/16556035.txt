@@ -1,0 +1,6 @@
+New therapeutic approaches are being developed for the treatment of cancer patients.
+Increasingly, drugs are being produced based on new insight into the intracellular processes in the cancer cell.
+Recently the typical epigenetic changes in the tumor cell have been considered as a therapeutic target.
+Several drugs have shown potential epigenetic activity.
+Decitabine (5-aza-2 -deoxycytidine, Dacogen) is one of the drugs that is able to induce changes in the methylation status of DNA.
+In this article the authors present an overview of this drug with regard to the chemistry, pharmacokinetics and the data that support its role as the new therapeutic agent in leukemia and myelodysplastic syndrome.

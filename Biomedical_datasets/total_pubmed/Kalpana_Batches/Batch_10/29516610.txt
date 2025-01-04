@@ -1,0 +1,10 @@
+The target detectability of cone beam computed tomography (CBCT) performed in image-guided radiation therapy (IGRT) was investigated to achieve sufficient image quality for patient positioning over a course of treatment session while maintaining radiation exposure from CBCT imaging as low as reasonably achievable (ALARA).
+Body CBCT scans operated in half-fan mode were acquired with three different protocols: CBCTlowD , CBCTmidD , and CBCThighD , which resulted in weighted CT dose index (CTDIw ) of 0.36, 1.43, and 2.78 cGy, respectively.
+An electron density phantom that is 18 cm in diameter was covered by four layers of 2.5-cm-thick bolus to simulate patients of different body sizes.
+Multivariate analysis was used to examine the impact of body size, radiation exposure, and tissue type on the target detectability of CBCT imaging, quantified as contrast-to-noise ratio (CNR).
+CBCTmidD allows sufficient target detection of adipose, breast, muscle, liver in a background of water for normal-weight adults with cross-sectional diameter less than 28 cm, while CBCThighD is suitable for adult patients with larger body sizes or body mass index over 25 kg/m2 .
+Once the cross-sectional diameter of adult patients is larger than 35 cm, the CTDIw of CBCT scans should be higher than 2.78 cGy to achieve required CNR.
+As for pediatric and adolescent patients with cross-sectional diameter less than 25 cm, CBCTlowD is able to produce images with sufficient target detection.
+The target detectability of soft tissues in default CBCT scans may not be sufficient for overweight or obese adults.
+Contrary, pediatric and adolescent patients would receive unnecessarily high radiation exposure from default CBCT scans.
+Therefore, the selection of acquisition parameters for CBCT scans optimized according to patient body size was proposed to ensure sufficient image quality for daily patient positioning in radiation therapy while achieving the ALARA principle.

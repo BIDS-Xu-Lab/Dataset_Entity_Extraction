@@ -1,0 +1,13 @@
+The current study aimed to determine the overall survival (OS) rates of patients diagnosed with pediatric gliomas in Brazil, accounting for the influence of age, treatment modalities, and tumor site, using a population-based national database.
+Patients diagnosed with pediatric gliomas of central nervous system (CNS) from 1999-2020 were identified from The Fundação Oncocentro de São Paulo public database.
+The Kaplan-Meier and the log-rank test were used for survival analysis.
+A total of 1296 patients were included.
+The most common histologic tumor types were glioblastomas (38.27%; n = 496), pilocytic astrocytoma (32.87%; n = 426), and astrocytoma grade II (20.76%; n = 269).
+A total of 379 (29.24%) had brainstem tumors.
+The 1-year, 3-year 5-year OS for pilocytic astrocytoma were 93.72%, 89.98%, and 88.97%; for grade II gliomas, 80.36%, 71.89%, and 68.60%; for grade III gliomas, 53.72%; 31.87%, and 28.33%; and for glioblastoma, 52.90%, 28.76%, 25.20%, respectively.
+Brainstem tumors had the worse OS compared to no brainstem tumors (p = 0.001).
+For high-grade glioma (grade III/IV), excluding brainstem tumors (n = 570), young patients had greater median OS (0 to 3 years:22 months; 4 to 18 years:13 months; p = 0.005).
+Regarding the treatment modalities, combined treatments were associated with higher median survival compared to less intensive therapy (surgery: 11 months; surgery and chemotherapy: 16 months; surgery, radiotherapy, and chemotherapy: 20 months; p = 0.005).
+In our cohort, low-grade gliomas had favorable prognoses and outcomes.
+Patients diagnosed with glioblastomas and brainstem gliomas had the worst OS.
+For high-grade gliomas, undergoing treatment de-intensification in the Brazilian pediatric population is associated with worse survival.

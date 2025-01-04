@@ -1,0 +1,8 @@
+Two genes, lipA and lipB, involved in lipoic acid biosynthesis or metabolism were characterized by DNA sequence analysis.
+The translational initiation site of the lipA gene was established, and the lipB gene product was identified as a 25-kDa protein.
+Overproduction of LipA resulted in the formation of inclusion bodies, from which the protein was readily purified.
+Cells grown under strictly anaerobic conditions required the lipA and lipB gene products for the synthesis of a functional glycine cleavage system.
+Mutants carrying a null mutation in the lipB gene retained a partial ability to synthesize lipoic acid and produced low levels of pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase activities.
+The lipA gene product failed to convert protein-bound octanoic acid moieties to lipoic acid moieties in vivo; however, the growth of both lipA and lipB mutants was supported by either 6-thiooctanoic acid or 8-thiooctanoic acid in place of lipoic acid.
+These data suggest that LipA is required for the insertion of the first sulfur into the octanoic acid backbone.
+LipB functions downstream of LipA, but its role in lipoic acid metabolism remains unclear.

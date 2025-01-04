@@ -1,0 +1,7 @@
+The study aimed to determine the relationship between left ventricular (LV) diastolic function and the heart's spontaneous baroreflex at rest and in response to orthostatic stress during a prospective follow-up of hypertensive patients with LV hypertrophy (LVH+).
+LV structure and function and baroreflex sensitivity (BRS) during tilt testing were evaluated in 24 LVH+ patients and compared with 25 age-matched healthy controls and 25 hypertensive patients without LVH (LVH-).
+Clinical status, diastolic function and BRS were then assessed in LVH+ patients during treatment with telmisartan (monotherapy or combined with hydrochlorothiazide and/or amlodipine) at 6- and 18-month follow-ups.
+LVH+ patients had significantly altered diastolic function indices and decreased BRS as compared with healthy controls and LVH- patients.
+During the 18-month follow-up, favorable changes in diastolic function were associated with improvement in BRS at rest and during tilting.
+In multivariate regression models, an index reflecting rate of LV myocardial relaxation (E'sept) where E'sept denotes peak early diastolic velocity at the septal mitral annulus and a surrogate for LV filling pressure (E/E'sept), independently from other clinical and echocardiographic variables related to the low-frequency component of BRS during tilting.
+In conclusion, the LV diastolic function indices have independent associations with BRS parameters obtained at rest and during orthostatic stress in LVH+ patients receiving long-term pharmacological intervention.

@@ -1,0 +1,12 @@
+Whether measures of central adiposity are more or less strongly associated with risk of albuminuria than body mass index (BMI), and by how much diabetes/levels of glycosylated haemoglobin (HbA1c) explain or modify these associations, is uncertain.
+Ordinal logistic regression was used to estimate associations between values of central adiposity (waist-to-hip ratio) and, separately, general adiposity (BMI) with categories of urinary albumin-to-creatinine ratio (uACR) in 408,527 UK Biobank participants.
+Separate central and general adiposity-based models were initially adjusted for potential confounders and measurement error, then sequentially, models were mutually adjusted (e.g. waist-to-hip ratio adjusted for BMI, and vice versa), and finally they were adjusted for potential mediators.
+Levels of albuminuria were generally low: 20,425 (5%) had a uACR ≥3 mg/mmol.
+After adjustment for confounders and measurement error, each 0.06 higher waist-to-hip ratio was associated with a 55% (95%CI 53-57%) increase in the odds of being in a higher uACR category.
+After adjustment for baseline BMI, this association was reduced to 32% (30-34%).
+Each 5 kg/m2 higher BMI was associated with a 47% (46-49%) increase in the odds of being in a higher uACR category.
+Adjustment for baseline waist-to-hip ratio reduced this association to 35% (33-37%).
+Those with higher HbA1c were at progressively higher odds of albuminuria, but positive associations between both waist-to-hip ratio and BMI were apparent irrespective of HbA1c.
+Altogether, about 40% of central adiposity associations appeared to be mediated by diabetes, vascular disease and blood pressure.
+Conventional epidemiological approaches suggest that higher waist-to-hip ratio and BMI are independently positively associated with albuminuria.
+Adiposity-albuminuria associations appear strong among people with normal HbA1c, as well as people with pre-diabetes or diabetes.

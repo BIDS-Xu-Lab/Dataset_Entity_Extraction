@@ -1,0 +1,11 @@
+DNA vaccines are a promising technology.
+Historically, however, the ability of DNA vaccines to induce high response rates and strong immune responses, especially antibody responses, in non-human primates and human clinical trials has proven suboptimal.
+Here, we performed a pilot study in rhesus macaques to evaluate whether we could improve the immunogenicity of DNA vaccines through the use of adjuvant technology and improved delivery systems.
+The study consisted of four groups of animals that received: DNA by intramuscular (IM) injection, DNA with plasmid-encoded IL-12 by IM injection, DNA by IM injection with in vivo electroporation (EP), and DNA with IL-12 by IM EP.
+Each group was immunized three times with optimized HIV gag and env constructs.
+Vaccine immunogenicity was assessed by IFNgamma ELISpot, CFSE proliferation, polyfunctional flow cytometry, and antibody ELISA.
+Similar to previous studies, use of IL-12 as an adjuvant increased the gag and env-specific cellular responses.
+The use of EP to enhance plasmid delivery resulted in dramatically higher cellular as well as humoral responses.
+Interestingly, the use of EP to administer the DNA and IL-12 adjuvant combination resulted in the induction of higher, more efficient responses such that a 10-fold increase in antigen-specific IFNgamma(+) cells compared to IM DNA immunization was observed after a single immunization.
+In addition to increases in the magnitude of IFNgamma production in the initial and memory responses, the combined approach resulted in enhancements in the proliferative capacity of antigen-specific CD8(+) T cells and the amount of polyfunctional cells capable of producing IL-2 and TNFalpha in addition to IFNgamma.
+These data suggest that adjuvant and improved delivery methods may be able to overcome previous immunogenicity limitations in DNA vaccine technology.

@@ -1,0 +1,12 @@
+DNA repair is one of the most essential systems for maintaining the inherited nucleotide sequence of genomic DNA over time.
+Repair of DNA damage would be particularly important in neurons, because these cells are among the longest-living cells in the body.
+MSH2 is one of the proteins which are involved in the recognition and repair of a specific type of DNA damage that is characterized by pair mismatches.
+We studied the distribution of MSH2 in rat brain by immunohistochemical analysis.
+We found the level of MSH2 expression in rat brain to be clearly heterogeneous.
+The highest intensity of staining was found in the pyramidal neurons of the hippocampus and in the entorhinal and frontoparietal cortices.
+Positive cells were observed in the substantia nigra pars compacta, in cerebellar granular and Purkinje cells, and in the motor neurons of the spinal cord.
+We investigated the possible modulation of MSH2 expression after injection of kainate.
+Systemic administration of kainate induces various behavioural alterations and a typical pattern of neuropathology, with cell death in the hippocampal pyramidal neurons of the CA3/CA4 fields.
+Kainate injection also resulted in a marked, dose-dependent increase of MSH2 immunoreactivity in the hippocampal neurons of the CA3/CA4 fields.
+The effect was specific, since no changes in immunoreactivity were detected in the dentate gyrus nor in other brain areas.
+In summary, our data suggest that a mismatch DNA repair system, of which MSH2 protein is a representative component, is heterogeneously expressed in the rat brain and specifically induced by an experimental paradigm of excitotoxicity.

@@ -1,0 +1,8 @@
+Accumulating evidence indicates that resting-state functional magnetic resonance imaging (rsfMRI) signals correspond to propagating electrophysiological infra-slow activity (<0.1 Hz).
+Thus, pairwise correlations (zero-lag functional connectivity (FC)) and temporal delays among regional rsfMRI signals provide useful, complementary descriptions of spatiotemporal structure in infra-slow activity.
+However, the slow nature of fMRI signals implies that practical scan durations cannot provide sufficient independent temporal samples to stabilize either of these measures.
+Here, we examine factors affecting sampling variability in both time delay estimation (TDE) and FC.
+Although both TDE and FC accuracy are highly sensitive to data quantity, we use surrogate fMRI time series to study how the former is additionally related to the magnitude of a given pairwise correlation and, to a lesser extent, the temporal sampling rate.
+These contingencies are further explored in real data comprising 30-min rsfMRI scans, where sampling error (i.e., limited accuracy owing to insufficient data quantity) emerges as a significant but underappreciated challenge to FC and, even more so, to TDE.
+Exclusion of high-motion epochs exacerbates sampling error; thus, both sides of the bias-variance (or data quality-quantity) tradeoff associated with data exclusion should be considered when analyzing rsfMRI data.
+Finally, we present strategies for TDE in motion-corrupted data, for characterizing sampling error in TDE and FC, and for mitigating the influence of sampling error on lag-based analyses.

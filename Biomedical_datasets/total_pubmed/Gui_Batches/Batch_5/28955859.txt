@@ -1,0 +1,4 @@
+Well-known epigenetic DNA modifications in mammals include the addition of a methyl group and a hydroxyl group to cytosine, resulting in 5-methylcytosine (5mC) and 5-hydroxymethylcytosine (5hmC) respectively.
+In contrast, the abundance and the functional implications of these modifications in invertebrate model organisms such as the honey bee (Apis mellifera) and the fruit fly (Drosophila melanogaster) are not well understood.
+Here we show that both adult honey bees and fruit flies contain 5mC and also 5hmC. Using a highly sensitive liquid chromatography/tandem mass spectrometry (LC/MS/MS) technique, we quantified 5mC and 5hmC in different tissues of adult honey bee worker castes and in adult fruit flies.
+A comparison of our data with reports from human and mouse shed light on notable differences in 5mC and 5hmC levels between tissues and species.

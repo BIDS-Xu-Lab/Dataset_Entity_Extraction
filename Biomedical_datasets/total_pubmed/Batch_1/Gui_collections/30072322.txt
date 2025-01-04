@@ -1,0 +1,8 @@
+Video-based person re-identification (re-id) is an important application in practice.
+Since large variations exist between different pedestrian videos, as well as within each video, it's challenging to conduct re-identification between pedestrian videos.
+In this paper, we propose a simultaneous intra-video and inter-video distance learning (SI2DL) approach for video-based person re-id.
+Specifically, SI2DL simultaneously learns an intravideo distance metric and an inter-video distance metric from the training videos.
+The intra-video distance metric is used to make each video more compact, and the inter-video one is used to ensure that the distance between truly matching videos is smaller than that between wrong matching videos.
+Considering that the goal of distance learning is to make truly matching video pairs from different persons be well separated with each other, we also propose a pair separation based SI2DL (P-SI2DL).
+P-SI2DL aims to learn a pair of distance metrics, under which any two truly matching video pairs can be well separated.
+Experiments on four public pedestrian image sequence datasets show that our approaches achieve the state-of-the-art performance.

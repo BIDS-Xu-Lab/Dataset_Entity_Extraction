@@ -1,0 +1,10 @@
+Due to the national blood supply crisis caused by the COVID-19 pandemic, the American Society of Hematology proposed guidance to decrease blood utilization for sickle cell patients on chronic transfusion therapy (CTT).
+Little evidence exists to support the efficacy and safety of these blood conservation strategies.
+Through retrospective analysis, we sought to describe outcomes following implementation of these recommendations in 58 adult sickle cell patients on chronic exchange transfusions.
+The strategies employed included: relaxing the goal fraction of cells remaining (FCR) to 30%-50%, utilizing depletion exchanges in select patients, and transitioning select patients to monthly simple transfusions.
+We compared hemoglobin S%, hemoglobin values, and other laboratory parameters, acute care visits, and red blood cell usage during the first year of the COVID-19 pandemic to the year prior using Wilcoxon signed rank test.
+Of 53 patients who remained on chronic exchanges during the pandemic, use of depletion exchange increased (15%-23%)
+and FCR increased (34.9 [SD 4.7] vs. 37.6 [SD 4.5], p < .05).
+These changes resulted in 854 units conserved without clinically significant changes to pre-exchange laboratory parameters, including hemoglobin S%, or number of acute care presentations.
+In contrast, five patients who transitioned to predominantly simple transfusions, experienced difficulty maintaining hemoglobin S% less than 30 and worsening anemia.
+Our data suggest that in a blood shortage crisis, optimizing the exchange procedure itself may be the safest means of conserving blood in a population of adult patients with sickle cell disease.

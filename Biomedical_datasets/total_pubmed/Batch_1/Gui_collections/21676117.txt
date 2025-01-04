@@ -1,0 +1,9 @@
+Dyslipidaemia is a poorly-controlled condition in clinical practice largely because of poor adherence to medication regimens by patients.
+This study evaluated the levels of and factors associated with adherence to lipid-lowering agents in a large Chinese population.
+From a validated clinical database, we included all patients who attended any public, primary care clinics in one large Territory of Hong Kong for medication refill at least twice during the study period January 2004 to June 2007.
+The major outcome variable was Medication Possession Ratio (MPR), an internationally-recognised metric to measure drug adherence.
+The factors associated with optimal drug adherence (MPR ≥ 0.8) were evaluated by multivariate regression analysis.
+From 11,042 eligible patients, 90% were adherent.
+After adjusting for patients' age, gender, socioeconomic status, service type, district of residence, visit type (new visits vs. follow-up visits), the number of comorbidities and the drug class (statin vs. fibrates), older patients [aged 50-59 years; adjusted odds ratio (AOR) 1.30, p = 0.009; 60-69 years; AOR 1.53, p < 0.001; ≥ 70 years; AOR 1.72, p < 0.001], attendance in family medicine specialist clinics (FMSC; AOR 1.56, p < 0.001), follow-up visits (AOR 2.93, p < 0.001) and the presence of comorbidities (one comorbidity; AOR 1.45, p < 0.001; ≥ 2 comorbidities; AOR 1.56, p < 0.001) were associated with optimal drug adherence.
+These findings carry an implication that younger subjects, new patients, visitors in clinics other than FMSC and those without comorbidities should receive more meticulous monitoring of their medication-taking behaviour.
+Future studies should evaluate the major reasons for non-adherence among them.

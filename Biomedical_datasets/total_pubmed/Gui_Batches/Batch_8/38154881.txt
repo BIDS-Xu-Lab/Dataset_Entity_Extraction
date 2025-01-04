@@ -1,0 +1,19 @@
+Speech problems in patients with a cleft palate are often complex and multifactorial.
+Finding the optimal way of monitoring these problems is challenging.
+The International Consortium of Health Outcomes Measurement (ICHOM) has developed a set of standardised outcome measures at specific ages for patients with a cleft lip and/or palate, including measures of speech assessment.
+This study evaluates the type and timing of speech outcome measures currently included in this ICHOM Standard Set.
+Additionally, speech assessments in other cleft protocols and initiatives are discussed.
+An international, multicentre study was set up including centres from the USA and the Netherlands.
+Outcomes of clinical measures and Patient Reported Outcome Measures (PROMs) were collected retrospectively according to the ICHOM set.
+PROM data from a field test of the CLEFT-Q, a questionnaire developed and validated for patients with a cleft, were collected, including participants from countries with all sorts of income statuses, to examine the value of additional moments of measurement that are used in other cleft initiatives.
+Data from 2500 patients were included.
+Measured outcomes contained univariate regression analyses, trend analyses, t-tests, correlations and floor and ceiling effects.
+PROMs correlated low to moderate with clinical outcome measures.
+Clinical outcome measures correlated low to moderate with each other too.
+In contrast, two CLEFT-Q Scales correlated strongly with each other.
+All PROMs and the Percent Consonants Correct (PCC) showed an effect of age.
+In patients with an isolated cleft palate, a ceiling effect was found in the Intelligibility in Context Scale.
+Recommendations for an optimal speech outcome assessment in cleft patients are made.
+Measurement moments of different cleft protocols and initiatives are considered in this proposition.
+Concerning the type of measures, adjustment of the current PCC score outcome seems appropriate.
+For centres with adequate resources and specific interest in research, translation and validation of an upcoming tool, the Cleft Audit Protocol for Speech Augmented, is recommended.

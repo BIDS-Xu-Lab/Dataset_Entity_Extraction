@@ -1,0 +1,7 @@
+The ability of a new multiple-dose non-linear regression analysis program to predict steady-state aminoglycoside peak and trough serum concentrations was evaluated.
+30 patients receiving either amikacin (7), gentamicin (10) or tobramycin (13) were studied.
+A standard method of prediction which requires the collection of 3 or 4 serum samples during a dosing interval and a predictive method which relies upon population-based estimates of pharmacokinetic parameters were compared with the new approach which requires the collection of 2 serum samples.
+There were no significant differences between the methods which utilised serum concentration data with regard to predictive precision (mean prediction error of about 10%).
+These methods were more precise than the population-based method (p less than 0.01, mean prediction error 29.1%).
+None of the methods produced biased estimates.
+These results indicate that when the regression program is employed, valid estimates of pharmacokinetic parameters and prediction of steady-state serum concentrations can be obtained with fewer serum samples than have been recommended.

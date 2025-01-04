@@ -1,0 +1,6 @@
+A model was developed using pentobarbital anesthetized pigs to study bilateral blood flow changes in the nasal mucosa by flow-probes on both sphenopalatine arteries.
+Unilateral mechanical stimulation of the nasal mucosa for 10s as well as close intra-arterial capsaicin infusion induced bilateral vasodilation.
+The magnitude of the vasodilator responses were similar on both sides, although the capsaicin effect (maximal increase in arterial blood flow by about 100 ml/min) was larger than that of the mechanical stimulation.
+Pretreatment with atropine (0.5 mg x kg-1) had no effect on the vascular responses to capsaicin or mechanical stimulation.
+However, when the pigs were pretreated with the ganglionic nicotinic receptor blocking agent, chlorisondamine (3 mg x kg-1), the vasodilatory responses to mechanical stimulation were abolished and the responses to capsaicin infusion markedly reduced (90-95%).
+These data indicate that unilateral mechanical stimulation as well as capsaicin infusion evoke bilateral nasal vasodilation which is probably mediated via a central reflex arch with a parasympathetic non-cholinergic final step.

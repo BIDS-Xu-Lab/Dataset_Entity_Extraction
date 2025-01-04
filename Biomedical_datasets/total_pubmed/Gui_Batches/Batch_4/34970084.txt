@@ -1,0 +1,8 @@
+We report radiatively coupled arrayed gold nanodisks on invisible substrate (AGNIS) as a cost-effective, high-performance platform for nanoplasmonic biosensing.
+By substrate undercut, the electric field distribution around the nanodisks has been restored to as if the nanodisks were surrounded by a single medium, thereby provides analyte accessibility to otherwise buried enhanced electric field.
+The AGNIS substrate has been fabricated by wafer-scale nanosphere lithography without the need for costly lithography.
+The LSPR blue-shifting behavior synergistically contributed by radiative coupling and substrate undercut have been investigated for the first time, which culminates in a remarkable refractive index sensitivity increase from 207 nm/RIU to 578 nm/RIU.
+The synergy also improves surface sensitivity to monolayer neutravidin-biotin binding from 7.4 nm to 20.3 nm with the limit of detection (LOD) of neutravidin at 50 fM, which is among the best label-free results reported to date on this specific surface binding reaction.
+As a potential cancer diagnostic application, extracellular vesicles such as exosomes excreted by cancer and normal cells were measured with a LOD within 112-600 (exosomes/μL), which would be sufficient in many clinical applications.
+Using CD9, CD63, and CD81 antibodies, label-free profiling has shown increased expression of all three surface antigens in cancer-derived exosomes.
+This work demonstrates, for the first time, strong synergy of arrayed radiative coupling and substrate undercut can enable economical, ultrasensitive biosensing in the visible light spectrum where high-quality, low-cost silicon detectors are readily available for point-of-care applications.

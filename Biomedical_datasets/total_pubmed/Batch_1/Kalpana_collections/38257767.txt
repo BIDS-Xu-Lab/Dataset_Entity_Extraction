@@ -1,0 +1,8 @@
+In 2007, an outbreak of African swine fever (ASF), a deadly disease of domestic swine and wild boar caused by the African swine fever virus (ASFV), occurred in Georgia and has since spread globally.
+Historically, ASFV was classified into 25 different genotypes.
+However, a newly proposed system recategorized all ASFV isolates into 6 genotypes exclusively using the predicted protein sequences of p72.
+However, ASFV has a large genome that encodes between 150-200 genes, and classifications using a single gene are insufficient and misleading, as strains encoding an identical p72 often have significant mutations in other areas of the genome.
+We present here a new classification of ASFV based on comparisons performed considering the entire encoded proteome.
+A curated database consisting of the protein sequences predicted to be encoded by 220 reannotated ASFV genomes was analyzed for similarity between homologous protein sequences.
+Weights were applied to the protein identity matrices and averaged to generate a genome-genome identity matrix that was then analyzed by an unsupervised machine learning algorithm, DBSCAN, to separate the genomes into distinct clusters.
+We conclude that all available ASFV genomes can be classified into 7 distinct biotypes.

@@ -1,0 +1,10 @@
+The bovine alphas2-, alphas3-, alphas4- and alphas6-caseins [1] were isolated.
+The 4 proteins had the same amino-acid composition and C-terminal sequence, but different phosphorus contents.
+From a mixture of these proteins (designated as 'alphas2-complex') and from alphas3-casein a single and identical N-terminal sequence was obtained by Edman degradation.
+It seems therefore that the 4 proteins have the same peptide chain and only differ in their phosphorus content.
+For this reason we propose to modify the nomenclature of Annan and Mason [1] and to use in future the single term alphas2 to designate the caseins which have been previously called alphas2,alphas3,alphas4 and alphas6 by these authors.
+The study of the primary structure of the peptide chain, which has confirmed these results, was undertaken on the S-carboxymethylated alphas2-complex.
+From a cyanogen bromide digest and from a tryptic hydrolyzate of the alphas2-complex, 5 and 25 peptides were obtained respectively, both sets of peptides accounting for the whole peptide chain.
+Examination of the tryptic peptides containing methionine combined with the N- and C-terminal sequences of the alphas2-complex and some CNBr peptides, gave the order of the CNBr peptides, H.CN4--CN2--CN5--CN1--CN3.OH, which contain 4, 22, 115, 49 and 17 residues respectively.
+A partial sequence accounting for half of the peptide chain of the alphas2-complex is given.
+This peptide chain is likely composed of 207 amino-acid residues.

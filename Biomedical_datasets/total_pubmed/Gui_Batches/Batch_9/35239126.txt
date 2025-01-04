@@ -1,0 +1,7 @@
+For high dimensional gene expression data, one important goal is to identify a small number of genes that are associated with progression of the disease or survival of the patients.
+In this paper, we consider the problem of variable selection for multivariate survival data.
+We propose an estimation procedure for high dimensional accelerated failure time (AFT) models with bivariate censored data.
+[Formula: see text] loss function with a penalty function induced from a bivariate spike-and-slab prior specification.
+In the proposed algorithm, censored observations are imputed using the Kaplan-Meier estimator, which avoids a parametric assumption on the error terms.
+Our empirical studies demonstrate that the proposed method provides better performance compared to the alternative procedures designed for univariate survival data regardless of whether the true events are correlated or not, and conceptualizes a formal way of handling bivariate survival data for AFT models.
+Findings from the analysis of a myeloma clinical trial using the proposed method are also presented.

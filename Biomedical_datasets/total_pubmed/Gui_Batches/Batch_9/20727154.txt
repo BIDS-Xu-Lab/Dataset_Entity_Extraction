@@ -1,0 +1,14 @@
+The Centers for Medicare and Medicaid Services (CMS) has implemented the CMS-Hierarchical Condition Category (CMS-HCC) model to risk adjust Medicare capitation payments.
+This study intends to assess the performance of the CMS-HCC risk adjustment method and to compare it to the Charlson and Elixhauser comorbidity measures in predicting in-hospital and six-month mortality in Medicare beneficiaries.
+The study used the 2005-2006 Chronic Condition Data Warehouse (CCW) 5% Medicare files.
+The primary study sample included all community-dwelling fee-for-service Medicare beneficiaries with a hospital admission between January 1st, 2006 and June 30th, 2006.
+Additionally, four disease-specific samples consisting of subgroups of patients with principal diagnoses of congestive heart failure (CHF), stroke, diabetes mellitus (DM), and acute myocardial infarction (AMI) were also selected.
+Four analytic files were generated for each sample by extracting inpatient and/or outpatient claims for each patient.
+Logistic regressions were used to compare the methods.
+Model performance was assessed using the c-statistic, the Akaike's information criterion (AIC), the Bayesian information criterion (BIC) and their 95% confidence intervals estimated using bootstrapping.
+The CMS-HCC had statistically significant higher c-statistic and lower AIC and BIC values than the Charlson and Elixhauser methods in predicting in-hospital and six-month mortality across all samples in analytic files that included claims from the index hospitalization.
+Exclusion of claims for the index hospitalization generally led to drops in model performance across all methods with the highest drops for the CMS-HCC method.
+However, the CMS-HCC still performed as well or better than the other two methods.
+The CMS-HCC method demonstrated better performance relative to the Charlson and Elixhauser methods in predicting in-hospital and six-month mortality.
+The CMS-HCC model is preferred over the Charlson and Elixhauser methods if information about the patient's diagnoses prior to the index hospitalization is available and used to code the risk adjusters.
+However, caution should be exercised in studies evaluating inpatient processes of care and where data on pre-index admission diagnoses are unavailable.

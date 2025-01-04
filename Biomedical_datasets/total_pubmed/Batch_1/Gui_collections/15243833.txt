@@ -1,0 +1,12 @@
+With the recent attention on quality of care and residency training, teaching hospitals are coming under greater scrutiny.
+Despite several studies, there is still no consensus on whether teaching hospitals deliver higher quality of care than nonteaching hospitals.
+This was a retrospective cross-sectional study, using national hospital data.
+The sample consisted of 3,818 acute care hospitals in the National Inpatient Sample from 1990-1996.
+The quality indicators were postoperative adverse events, including venous thrombosis/pulmonary embolism (DVT/PE), pulmonary compromise, pneumonia, and urinary tract infection (UTI).
+Hospitals were classified as major teaching, other teaching, and nonteaching.
+Quality indicator rates of hospital types were compared and multivariate regression performed to control for specific hospital characteristics.
+Teaching hospitals had higher rates of postoperative DVT/PE and pulmonary compromise but lower rates of UTI, compared with nonteaching hospitals.
+In the multivariate analysis, teaching hospitals were more likely to have higher postoperative DVT/PE rates, and other teaching hospitals had higher rates of pulmonary compromise and UTI.
+Postoperative pneumonia rates were higher in major teaching hospitals than nonteaching hospitals.
+Rates of postoperative adverse events were higher in teaching hospitals compared to nonteaching hospitals.
+These findings suggest that quality of care, as measured by postoperative adverse events, may not be higher in teaching hospitals.

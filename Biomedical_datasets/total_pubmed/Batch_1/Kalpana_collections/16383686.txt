@@ -1,0 +1,7 @@
+We report measurements of the Lorentz-Lorenz coefficient density dependence L(rho), the critical temperature Tc, and the critical density rho c of the fluid 1,1-difluoroethylene H2C2F2.
+Lorentz-Lorenz coefficient data were obtained by measuring refractive index n, and density rho of the same fluid sample independently of one another.
+Accurate determination of the Lorentz-Lorenz coefficient is necessary for the transformation of refractive index data into density data from optics-based experiments on critical phenomena of fluid systems done with different apparatuses, with which independent measurement of n and rho is not possible.
+Measurements were made along the coexistence curve of the fluid and span the density range 0.01 to 0.80 g cm(-3).
+The Lorentz-Lorenz coefficient results show a stronger density dependence along the coexistence curve than previously observed in other fluids, with a monotonic decrease from a density of about onward, and an overall variation of about 2.5% in the density range studied.
+No anomaly in the Lorentz-Lorenz function was observed near the critical density.
+The critical temperature is measured at Tc=(302.964+/-0.002) K (29.814 degrees C) and the measured critical density is rho c=(0.4195+/-0.0018) g cm(-3).

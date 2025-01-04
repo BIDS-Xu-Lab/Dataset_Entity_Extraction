@@ -1,0 +1,6 @@
+Two strains of marine, heterotrophic, alkaliphilic bacteria, designated A3F-7(T) and ssthio04PA2-7c, were isolated from hard coral and marine sand, respectively, collected in the Republic of Palau.
+A phylogenetic analysis based on 16S rRNA gene sequences showed that the isolates were related to members of the genus Moritella.
+However, the sequence similarities between the isolates and the type strains of the Moritella species were less than 93 %.
+The G+C contents of the isolates were around 57 mol%, the major respiratory quinone was Q-8 and the predominant cellular fatty acids were 16 : 1omega7c, 16 : 0, 18 : 1omega7c and 14 : 0.
+On the basis of the phylogenetic data, phenotypic characteristics and DNA-DNA hybridization results, strains A3F-7(T) and ssthio04PA2-7c represent a novel species of a novel genus, for which the name Paramoritella alkaliphila gen. nov., sp. nov. is proposed.
+The type strain of Paramoritella alkaliphila is A3F-7(T) (=MBIC06429(T) =DSM 19956(T)).

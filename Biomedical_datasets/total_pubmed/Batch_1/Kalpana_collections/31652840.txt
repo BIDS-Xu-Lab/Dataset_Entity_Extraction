@@ -1,0 +1,11 @@
+Accurate assessment of nodal metastasis in head and neck squamous cell carcinoma (SCC) is important, and diffusion-weighted imaging (DWI) has emerged as a potential technique in differentiating benign from malignant lymph nodes (LNs).
+This study aims to evaluate the diagnostic performance of texture analysis using apparent diffusion coefficient (ADC) data of multi-shot echo-planar imaging-based DWI (msEPI-DWI) in predicting metastatic LNs of head and neck SCC.
+36 patients with pathologically proven head and neck SCC were included in this study.
+A total of 204 MRI-detected LNs, including 176 subcentimeter-sized LNs, were assigned to metastatic or benign groups.
+Texture features of LNs were compared using independent t-test.
+Hierarchical cluster analysis was performed to exclude redundant features.
+Multivariate logistic regression and receiver operating characteristic analysis were performed to assess the diagnostic performance.
+The discriminative texture features for predicting metastatic LNs were complexity, energy and roundness.
+Areas under the curves (AUCs) for diagnosing metastasis in all/subcentimeter-sized LNs were 0.829/0.767 using complexity, 0.699/0.685 using energy and 0.671/0.638 using roundness, respectively.
+The combination of three features resulted in higher AUC values of 0.836/0.781.
+In conclusion, texture analysis of ADC data using msEPI-DWI could be a useful tool for nodal staging in head and neck SCC.

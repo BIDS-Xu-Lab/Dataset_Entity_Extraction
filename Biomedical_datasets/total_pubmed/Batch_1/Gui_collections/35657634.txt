@@ -1,0 +1,6 @@
+The manual detection, analysis and classification of animal vocalizations in acoustic recordings is laborious and requires expert knowledge.
+Hence, there is a need for objective, generalizable methods that detect underlying patterns in these data, categorize sounds into distinct groups and quantify similarities between them.
+Among all computational methods that have been proposed to accomplish this, neighbourhood-based dimensionality reduction of spectrograms to produce a latent space representation of calls stands out for its conceptual simplicity and effectiveness.
+Goal of the study/what was done: Using a dataset of manually annotated meerkat Suricata suricatta vocalizations, we demonstrate how this method can be used to obtain meaningful latent space representations that reflect the established taxonomy of call types.
+We analyse strengths and weaknesses of the proposed approach, give recommendations for its usage and show application examples, such as the classification of ambiguous calls and the detection of mislabelled calls.
+What this means: All analyses are accompanied by example code to help researchers realize the potential of this method for the study of animal vocalizations.

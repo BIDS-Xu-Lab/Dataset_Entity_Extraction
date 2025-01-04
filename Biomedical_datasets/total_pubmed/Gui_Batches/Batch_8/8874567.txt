@@ -1,0 +1,8 @@
+To determine whether discrepancies in views on the kinetics of nitrous oxide (N2O) may have a methodological basis, we compared its kinetics, simultaneously, in the respiratory system and systemic circulation.
+Six merino ewes (40-50 Kg) were previously prepared with catheters in the pulmonary artery and aorta.
+The animals were anaesthetised with thiopentone then ventilated on a mixture of 70% N2O, 1% halothane in oxygen for 4 h. Simultaneous serial arterial and pulmonary arterial blood samples were assayed for N2O by gas chromatography and respiratory gases were monitored continuously by mass spectrometry.
+Marked differences were observed between the respiratory and systemic kinetics of N2O uptake.
+While the expired/inspired N2O concentration ratio rose within 30 min to a value close to unity, the pulmonary arterial/arterial blood N2O concentration ratio did not reach unity during the 4 h of each study, but approached a constant rate of uptake shown by the mean ratio of 0.94 (SD 0.01) from about 2 h onward.
+Discrepancies in fluid flow between respiratory gas and the cardiovascular systems, a concentration effect of N2O in the lungs, the relative solubility of N2O in blood and tissues, and ventilation/perfusion inequalities all may contribute to the observed differences.
+The ongoing uptake is consistent with persistent extrapulmonary losses.
+There remains a need for experimental data on the pharmacokinetics of N2O. Unequivocal studies on the disposition of N2O can be undertaken only by using direct measurement of fluxes of N2O across relevant organs or tissues.

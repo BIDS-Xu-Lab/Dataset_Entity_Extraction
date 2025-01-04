@@ -1,0 +1,11 @@
+This study was undertaken to assess the effect of repeated video-training sessions on the adequacy of metered-dose inhaler (MDI) among individuals with COPD.
+MDI devices facilitate the use of inhalation drugs in COPD patients and have become ever more important over the years.
+However, this device requires a certain level of hand-to-mouth coordination and cognitive ability.
+Since it has a high risk of application errors, training in its use is important to treatment success.
+This study was carried out from 1 February to 1 July 2017 with the participation of 40 COPD patients.
+The data were collected using a 'Patient Information Request Form' and an 'MDI Skill Evaluation Form'.
+CONSORT checklist was used to report the current study.
+It was found that there was no significant difference between the experimental and control groups in terms of the mean scores of the 1st measurement (p > .05), though the mean scores of the 5th measurement were significantly higher in the experimental group (p < .001).
+In the 5th measurement, it was identified that the control group had 'moderate' adequacy (3.20 ± 1.6), while the experimental group had 'satisfactory' adequacy (8.70 ± 1.17), indicating that the patients in the experimental group made fewer mistakes and showed improved adequacy.
+It was found that repeated video-training sessions materially improved MDI skills.
+Supporting the training on inhaler drug therapy with visual technological tools and regular checking of drug use will contribute to COPD management.

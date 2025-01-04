@@ -1,0 +1,15 @@
+Adults with spinal deformity (ASD) are known to have postural malalignment affecting their quality of life.
+Classical evaluation and follow-up are usually based on full-body static radiographs and health related quality of life questionnaires.
+Despite being an essential daily life activity, formal gait assessment lacks in clinical practice.
+What are the main alterations in gait kinematics of ASD and their radiological determinants?
+52 ASD and 63 control subjects underwent full-body 3D gait analysis with calculation of joint kinematics and full-body biplanar X-rays with calculation of 3D postural parameters.
+Kinematics and postural parameters were compared between groups.
+Determinants of gait alterations among postural radiographic parameters were explored.
+ASD had increased sagittal vertical axis (SVA:34 ± 59 vs -5 ± 20 mm), pelvic tilt (PT:19 ± 13 vs 11 ± 6°) and frontal Cobb (25 ± 21 vs 4 ± 6°) compared to controls (all p < 0.001).
+ASD displayed decrease walking speed (0.9 ± 0.3 vs 1.2 ± 0.2 m/s), step length (0.58 ± 0.11 vs 0.64 ± 0.07 m) and increased single support (0.45 ± 0.05 vs 0.42 ± 0.04 s).
+ASD walked with decreased hip extension in stance (-3 ± 10 vs -7 ± 8°), increased knee flexion at initial contact and in stance (10 ± 11 vs 5 ± 10° and 19 ± 7 vs 16 ± 8° respectively), and decreased knee flexion/extension ROM (55 ± 9 vs 59 ± 7°).
+ASD had increased trunk flexion (12 ± 12 vs 6 ± 11°) and reduced dynamic lumbar lordosis (-11 ± 12 vs -15 ± 7°, all p < 0.001).
+Sagittal knee ROM, walking speed and step length were negatively determined by SVA; lack of lumbar lordosis during gait was negatively determined by radiological lumbar lordosis.
+Static compensations in ASD persist during gait, where they exhibit a flexed attitude at the trunk, hips and knees, reduced hip and knee mobility and loss of dynamic lordosis.
+ASD walked at a slower pace with increased single and double support times that might contribute to their gait stability.
+These dynamic discrepancies were strongly related to static sagittal malalignment.

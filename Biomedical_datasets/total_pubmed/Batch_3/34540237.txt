@@ -1,0 +1,20 @@
+The coronavirus disease 2019 (COVID-19) pandemic impacted transplant programs across Canada.
+We evaluated the implications of delays in transplantation among Canadian end-stage kidney disease (ESKD) patients to allow pretransplant vaccination.
+[QALY]) of living (LD) or deceased donor (DD) kidney transplantation followed by 2-dose SARS-CoV-2 vaccine versus delay in LD ("Delay LD") or refusal of DD offer ("Delay DD") to receive 2-dose SARS-CoV-2 vaccine pretransplant.
+We simulated a 10 000-waitlisted ESKD patient cohort, which was predictively modeled for a lifetime horizon in monthly cycles.
+Inputs on patient and graft survival estimates by patient, LD or DD characteristics, were extracted from the Treatment of End-Stage Organ Failure in Canada, Canadian Organ Replacement Register, 2009 to 2018.
+In addition, a literature review provided inputs on quality of life, SARS-CoV-2 transmissibility, new variants of concern, mortality risk, and antibody responses to 2-dose SARS-CoV-2 mRNA vaccines.
+We conducted base case, scenario, and sensitivity analyses to illustrate the impact of patient, donor, vaccine, and pandemic characteristics on the preferred strategy.
+In the average waitlisted Canadian patient, receiving 2-dose SARS-CoV-2 vaccine post-transplant provided an effectiveness of 22.32 (95% confidence interval: 22.00-22.7) for LD and 19.34 (19.02-19.67) QALYs for DD.
+Delaying transplants for 6 months to allow 2-dose SARS-CoV-2 vaccine before LD and DD transplant yielded effectiveness of 22.83 (21.51-23.14) and 20.65 (20.33-20.96) QALYs, respectively.
+Scenario analysis suggested a benefit to short delays in DD transplants to receive 2-dose SARS-CoV-2 vaccine in waitlisted patients ≥55 years.
+Two-way sensitivity analysis suggested decreased effectiveness of the strategy prioritizing 2-dose SARS-CoV-2 vaccine prior to DD transplant the longer the delay and the higher the Kidney Donor Risk Index of the eventual DD transplant.
+When assessing the impact of SARS-CoV-2 variants of concern (infection rates ≥10-fold and associated mortality ≥3-fold vs base case), we found short delays to allow 2-dose SARS-CoV-2 vaccine administration pretransplant to be preferable.
+Risks associated with nosocomial exposure of LDs were not considered.
+There was uncertainty regarding input parameters related to SARS-CoV-2 infection, new variants, and COVID-19 severity in ESKD patients.
+Given rollout of population-level SARS-CoV-2 vaccination, we assumed a linear decrease in infection rates over 1 year.
+Proportions of patients mounting an antibody response to 2-dose SARS-CoV-2 mRNA vaccines were considered in lieu of data on vaccine efficacy in dialysis and following transplantation.
+Non-age-stratified annual mortality rates were used for waitlisted candidates.
+Our analyses suggest that short delays allowing pretransplant vaccination offered comparable to greater effectiveness than pursuing transplantation without delay, proposing transplant candidates should be prioritized to receive at least 2 doses of SARS-CoV-2 vaccine.
+Our scenario and sensitivity analyses suggest that caution must be exercised when declining DD offers in patients offered low risk DD and who are likely to incur significant delays in access to transplantation.
+While population-level herd immunity may decrease infection risk in transplant patients, more data are required on vaccine efficacy against SARS-CoV-2 and variants of concern in ESKD, and how efficacy may be modified by a third vaccine dose, maintenance immunosuppression and timing of induction and rejection therapies.

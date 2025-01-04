@@ -1,0 +1,7 @@
+IgG4 is the least abundant IgG subclass in human serum, representing less than 5% of all IgG. Increases in IgG4 occur following chronic exposure to antigen and are generally associated with states of immune tolerance.
+In line with this, IgG4 is regarded as an anti-inflammatory antibody with a limited ability to elicit effective immune responses.
+Furthermore, IgG4 attenuates allergic responses by inhibiting the activity of IgE. The mechanism by which IgG4 inhibits IgE-mediated hypersensitivity has been investigated using a variety of model systems leading to two proposed mechanisms.
+First by sequestering antigen, IgG4 can function as a blocking antibody, preventing cross-linking of receptor bound IgE.
+Second IgG4 has been proposed to co-stimulate the inhibitory IgG receptor FcγRIIb, which can negatively regulate FcεRI signaling and in turn inhibit effector cell activation.
+Recent advances in our understanding of the structural features of human IgG4 have shed light on the unique functional and immunologic properties of IgG4.
+The aim of this review is to evaluate our current understanding of IgG4 biology and reassess the mechanisms by which IgG4 functions to inhibit IgE-mediated allergic responses.

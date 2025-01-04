@@ -1,0 +1,10 @@
+Capecitabine is an oral prodrug of 5-fluorouracil (FU).
+Since FU concentrations achieved in malignant lesions are an important determinant of efficacy, we investigated the intratumoral transcapillary transfer of capecitabine and its metabolites in vivo.
+A total of 10 patients with skin metastases from breast cancer received a daily dose of 2500 mg m(-2) capecitabine administered orally in two divided doses for 2 weeks.
+Microdialysis probes were inserted into a cutaneous metastasis and subcutaneous connective tissue to evaluate the interstitial tissue pharmacokinetics of capecitabine and its metabolites 5'-deoxy-5-fluorocytidine (DFCR), 5'-deoxy-5-fluorouridine (DFUR), and FU by capillary electrophoresis.
+As intended with the prodrug design of capecitabine, FU was present in low concentrations in tumour interstitium (median c(max): 0.26 microg ml(-1))
+when compared with capecitabine, DFCR, and DFUR (median c(max): 2.66, 4.22, and 2.13 microg ml(-1), respectively).
+Capecitabine and its metabolites easily penetrated malignant and healthy tissue and equilibrated within 45 min between plasma and tissue interstitium.
+Considering tissue exposure at the extracellular level, no significant differences between healthy and malignant tissues were observed.
+Our data show that absorption and metabolism determined the tissue pharmacokinetics of capecitabine.
+There was no evidence of drug tolerance, which may be attributed to impaired transcapillary transfer into tissue, even after repeated administration as shown for three patients.

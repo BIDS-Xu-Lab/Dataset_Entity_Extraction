@@ -1,0 +1,9 @@
+Ornithogalum dubium is a popular ornamental monocot native to South Africa with flower colors ranging from pure white to deep orange.
+Gene editing based on the CRISPR/Cas9 system has recently been shown to hold potential for color improvement in ornamental flower crops.
+To apply this approach to Ornithogalum color manipulation, genomic or transcriptomic data must first be collected.
+Here, cDNA libraries of O. dubium leaves and flowers were constructed and sequenced using the Illumina HiSeq 2500.
+Over 155 million 100-bp paired-end reads were assembled into a transcriptome database of 360,689 contigs, of which 18,660 contigs were differentially expressed between leaves and flowers.
+Carotenoids are the main pigment imparting spectrum of orange hues to O. dubium flowers.
+By querying our database, we identified a total of 16 unique transcripts (unigenes) predicted to be involved in the carotenoid biosynthesis pathway of Ornithogalum.
+Combining carotenoid profiles, we further inferred several key unigenes responsible for floral coloration and accumulation in O. dubium, of which the gene LCYB/comp146645_c0 was found as a suitable target to generate potentially red flower varieties of O. dubium.
+Our research thus provides a framework for the application of CRISPR/Cas9 technology to improve this ornamental crop.

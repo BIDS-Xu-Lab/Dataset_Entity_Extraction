@@ -1,0 +1,7 @@
+Infection with COVID-19 has resulted in over 276,000 deaths in the United States and over 1.5 million deaths globally, with upwards of 15% of patients requiring hospitalization.
+Severe COVID-19 infection is, in essence, a microvascular disease.
+This contention has been emphasized throughout the course of the pandemic, particularly due to the clinical manifestation of severe infection.
+In fact, it has been hypothesized and shown in particular instances that microvascular function is a significant prognosticator for morbidity and mortality.
+Initially thought to be isolated to the pulmonary system and resulting in ARDS, patients with COVID-19 have been observed to have acute cardiac, renal, and thrombolytic complications.
+Therefore, severe COVID-19 is a vascular disease that has systemic implications.
+The objective of this review is to provide a mechanistic background for the microvascular nature of severe COVID-19 infection, with a particular emphasis on dysfunction of the endothelial glycocalyx and nitric oxide mediated pathogenesis.

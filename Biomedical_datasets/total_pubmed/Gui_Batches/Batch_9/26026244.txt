@@ -1,0 +1,9 @@
+The recent discovery of soluble immune-regulatory molecules in invertebrates takes advantage of the rapid growth of next generation sequencing datasets.
+Following protein domain searches in the transcriptomes of 31 bivalve spp.
+and in few available mollusk genomes, we retrieved 59 domains uniquely identifying interleukin 17 (IL-17) and 96 SEFIR domains typical of IL-17 receptors and CIKS/ACT1 proteins acting downstream in the IL-17 signaling pathway.
+Compared to the Chordata IL-17 family members, we confirm a separate clustering of the bivalve domain sequences and a consistent conservation pattern of amino acid residues.
+Analysis performed at transcript and genome level allowed us to propose an updated view of the components outlining the IL-17 signaling pathway in Mytilus galloprovincialis and Crassostrea gigas (in both species, homology modeling reduced the variety of IL-17 domains to only two 3D structures).
+Digital expression analysis indicated more heterogeneous expression levels for the mussel and oyster IL-17 ligands than for IL-17 receptors and CIKS/CIKSL proteins.
+Besides, new qPCR analyses confirmed such gene expression trends in hemocytes and gills of mussels challenged with heat-killed bacteria.
+These results uphold the involvement of an ancient IL-17 signaling pathway in the bivalve immune responses and, likewise in humans, suggest the possibility of distinctive modulatory roles of individual IL-17s/IL-17 receptors.
+Overall, the common evidence of pro-inflammatory cytokines and inter-related intracellular signaling pathways in bivalves definitely adds complexity to the invertebrate immunity.

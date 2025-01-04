@@ -1,0 +1,8 @@
+This quantitative research study assesses the organizational characteristics, market factors, and profitability of US hospitals that operate joint ventures with other health care organizations.
+Data was obtained from the 2001 American Hospital Association annual survey, the Area Resource File, and the Center for Medicare and Medicaid Services Minimum Data Set.
+These data files provide essential information on individual acute care hospitals, the communities they serve, and the level of financial performance.
+Descriptive statistics were evaluated and a logistic regression model was utilized to examine hospitals operating joint ventures.
+The study found hospitals that operate joint ventures are located in communities with more elderly patients, lower unemployment, and lower HMO penetration.
+From an operating performance perspective, hospitals that operate joint ventures have a higher occupancy rate, a higher average length of stay, more clinical services, lower long-term debt, and a greater number of managed care contracts.
+The results also appear to indicate that joint ventures have a positive financial impact on US hospitals.
+The study has managerial implications supporting the use of joint ventures to improve hospital performance and policy implications on resource allocation.

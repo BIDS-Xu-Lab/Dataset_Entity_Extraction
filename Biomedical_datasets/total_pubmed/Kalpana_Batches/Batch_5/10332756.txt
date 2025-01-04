@@ -1,0 +1,9 @@
+Larval forms are highly conserved in evolution, and phylogeneticists have used shared larval features to link disparate phyla.
+Despite long-term conservation, early development has in some cases evolved radically.
+Analysis of evolutionary change depends on identification of homologues, and this concept of descent with modification applies to embryo cells and territories as well.
+Difficulties arise because evolutionary changes in development can obscure homologies.
+Even more difficult, threshold effects can yield changes in process whereby apparently homologous features can arise from new precursors or pathways.
+We have observed phenomena of this type in closely related sea urchins that differ in developmental mode.
+A species developing via a complex feeding larva and its congener, which develops directly, have different embryonic cell lineages and divergent patterns of early development, but converge on the adult sea urchin body plan.
+Despite differences in embryonic developmental pathways, conserved gene expression territories are evident, as are territories whose homologies are in doubt.
+The highly derived development of the direct developer evidently arises from an interplay of novel organization of the egg, loss of expression of regulatory gene involved in production of feeding larval features, and changes in site and timing of expression of a number of genes.

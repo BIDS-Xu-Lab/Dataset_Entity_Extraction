@@ -1,0 +1,6 @@
+Clinical trials and laboratory studies involving the administration of oral health treatments and foods have benefited from the observance of the so-called crossover study design.
+Field experience and a growing number of laboratory experiments have shown, however, that 'blind' reliance on crossover designs may in some instances lead to unexpected results and erroneous conclusions.
+Some dietary substances, antibiotic agents, and even fluoride applications may have long-term effects that call into question the appropriateness of the washout periods between treatments.
+Studies have also been conducted on compounds that have turned out to display synergistic effects.
+When long-term and synergistic effects are simultaneously present in trials involving a crossover design, difficulties may arise in the interpretation of results.
+This communication uses as an example the long-term clinical and microbiological effects of xylitol and suggests that inclusion of the crossover practice in clinical trials should be separately and carefully contemplated in each instance.

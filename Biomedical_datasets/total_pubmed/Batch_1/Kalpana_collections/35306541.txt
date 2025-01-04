@@ -1,0 +1,12 @@
+Despite great heterogeneity amongst Hispanic groups, prostate cancer studies often report Hispanic patients in aggregate.
+We sought to identify differences in prostate cancer risk group at presentation and treatment status among Hispanic subgroup populations.
+Patients with localized prostate adenocarcinoma diagnosed from 2004-2017 were identified in the National Cancer Database (NCDB) and disaggregated by racial subgroup and Hispanic country of origin.
+Ordinal logistic regression defined adjusted odds ratios (AORs) with 95% CI of (1) presenting at progressively higher risk group and (2) receiving treatment with intermediate-unfavorable or high-risk disease.
+In our sample (n = 895,087), Hispanic men had greater odds of presenting with higher-risk localized prostate cancer compared with non-Hispanic White men (AOR = 1.18 95% CI 1.16-1.21, p < 0.001).
+Additionally, Hispanic Black men were less likely to present with higher-risk disease than non-Hispanic Black men.
+Disparities also existed when disaggregated by country of origin, particularly for Mexican men.
+Amongst men with unfavorable-risk disease, Hispanic men were less likely to receive treatment than non-Hispanic White men (95% CI 0.57-0.67, p < 0.001).
+The odds of Hispanic Black patients receiving treatment was 2.00 times the odds (95% CI 1.17-3.41 p = 0.011) of non-Hispanic Black patients receiving treatment.
+Upon disaggregation by country of origin, disparities persisted, particularly for Mexican men.
+We found marked heterogeneity when risk group at presentation and treatment for higher-risk disease were disaggregated by racial subgroup and country of origin.
+Our findings support further collection of disaggregated data in Hispanic communities and study of potential mechanisms underlying the observed differences.

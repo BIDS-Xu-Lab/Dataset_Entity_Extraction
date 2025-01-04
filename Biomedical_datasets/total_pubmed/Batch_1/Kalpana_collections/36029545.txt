@@ -1,0 +1,15 @@
+It was recognised in the 1978 Alma-Ata Declaration that the integration of traditional medicine into modern health systems is a major lever for achieving universal health coverage.
+In several African countries, the integration of traditional medicine still faces constraints, despite the development of policies and regulations in favour of this integration.
+The objective of this study is to conduct a systematic review of the limitations of integrating traditional medicine in Africa.
+This is a systematic review protocol for qualitative studies.
+The aim will be to conduct a systematic review of qualitative studies according to PRISMA guidelines.
+Given the qualitative nature of the primary studies, the COREQ guidelines will also be used to complement PRISMA.
+The search for primary studies will be conducted in Medline, Science Direct, Hinari and Google Scholar databases, using search equations designed based on the keywords constituting the thesauri of the search question.
+This will be done independently by two authors.
+The screening steps of the identified articles will be presented in PRISMA 2009 flowchart.
+The assessment of the risk of bias of the primary studies and the strength of the conclusions or recommendations will be performed by the GRADE tool.
+The results of this systematic review will consist of the primary qualitative studies on the limitations of integrating traditional medicine into conventional health systems in African countries.
+These will be categorised into policy, legal, organisational and sociocultural limitations.
+They will be reported in accordance with the PRISMA and COREQ guidelines.
+A systematic qualitative study of the limitations of effective integration of traditional medicine into conventional health systems in Africa is needed to guide national policies and regulations on traditional medicine.
+The application of PRISMA and COREQ standards to this review will ensure its quality and reproducibility.

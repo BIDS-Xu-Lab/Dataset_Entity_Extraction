@@ -1,0 +1,6 @@
+The purpose of this study was to investigate the laterality of muscle fiber conduction velocity in biceps brachii for badminton players, who have stronger arm in the handedness side for long term training.
+The muscle fiber conduction velocity was calculated from the propagation time of the action potentials along the muscle fibers and the electrode separation using cross-correlation method.
+For badminton players, significant lateral differences (e.g. right side skillful) were observed in the upper arm girth (P < 0.01) and isokinetic peak torque at 0, 10, 20, 30, 40 rpm (P < 0.01).
+For control subjects, significant lateral differences were in upper arm girth (P < 0.05) and isokinetic peak torque at exactly 30 rpm (P < 0.05).
+As for muscle fiber conduction velocity, there were no statistically significant differences between right (4.16 +/- 0.34 m/sec) and left (4.08 +/- 0.34 m/sec) sides in badminton players, and the control group exhibited same tendency (right: 4.36 +/- 0.25 m/sec, left: 4.28 +/- 0.33 m/sec) as well.
+These results suggest no training-induced change in the muscle fiber conduction velocity.

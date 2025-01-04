@@ -1,0 +1,10 @@
+For adult spinal deformity (ASD) patients receiving operative (op) and non-operative (non-op) treatment, the relationship between HRQoL measures, complications and self-reported satisfaction remains unclear.
+The objective of this analysis is to study nonlinear association dynamics between ASD patient satisfaction, HRQoL, and complications over a two-year follow-up period.
+From a prospective multicenter international adult spinal deformity database, all patients with 2-year follow-up data on satisfaction (21st question of SRS-22r) were identified and included.
+A total of 12 LOESS (local polynomial fit) regressions were performed between patient satisfaction (SRS22 item 21) and HRQoL measures (ODI, SF36PCS and SRS22 subtotal) interacting with surgery at baseline, 6 months and 1 and 2 years of follow-up.
+A total of 856 patients (527 op and 329 non-op) were included.
+At baseline, satisfaction was lower for patients scheduled for surgery even when HRQL was similar to those elected for conservative treatment.
+The nonlinear correlations showed that for similar PROMs, op patients reached higher satisfaction levels during follow-up, especially at six months.
+In fact, at six months operated patients with a deterioration of their initial PROMs had some improvement in their satisfaction, which could not be further observed at the end of follow-up.
+Satisfaction does not correlate well with other PROMs, and it might be subject to other external factors not directly related to treatment.
+Even if patient satisfaction is important in evaluating well-being and patient's experience with medical care, it should not be considered as an isolated proxy to measure quality of treatment.

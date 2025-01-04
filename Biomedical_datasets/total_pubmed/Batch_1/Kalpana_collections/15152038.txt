@@ -1,0 +1,7 @@
+Transgenic models of neurodegenerative disease have proved uniquely powerful for delineating pathways of neuronal dysfunction and cell death.
+We have developed a transgenic model of the polyglutamine disease spinal and bulbar muscular atrophy (SBMA), an adult-onset, slowly progressive motor neuron disease caused by polyglutamine expansion in the androgen receptor (AR).
+Mice bearing a human AR with 112 glutamines reproduce many aspects of SBMA, including slowly progressive, gender-specific motor deficits, and neuronal intranuclear inclusions.
+Despite substantial motor deficits in male AR112Q mice, no motor neuron loss was observed, indicating that neuronal dysfunction, rather than neuronal death, is central to disease.
+Moreover, reduced levels of unphosphorylated neurofilament heavy chain (NF-H) were observed in motor neurons, suggesting a role for NF-H in SBMA neuronal dysfunction.
+The elimination of androgens by surgical castration of severely affected, aged 112Q male mice partially restored motor function as well as NF-H levels.
+These data suggest that hormone-based therapies designed to treat SBMA patients, even with advanced disease, are likely to be effective.

@@ -1,0 +1,10 @@
+Infection of human cells by human T cell leukemia virus type 1 (HTLV-1) is mediated by the viral envelope glycoproteins.
+The gp46 surface glycoprotein binds to cell surface receptors, including heparan sulfate proteoglycans, neuropilin 1, and glucose transporter 1, allowing the transmembrane glycoprotein to initiate fusion of the viral and cellular membranes.
+The envelope glycoproteins are recognized by neutralizing Abs and CTL following a protective immune response, and therefore, represent attractive components for a HTLV-1 vaccine.
+To begin to explore the immunological properties of potential envelope-based subunit vaccine candidates, we have used a soluble recombinant surface glycoprotein (gp46, SU) fused to the Fc region of human IgG (sRgp46-Fc) as an immunogen to vaccinate mice.
+The recombinant SU protein is highly immunogenic and induces high titer Ab responses, facilitating selection of hybridomas that secrete mAbs targeting SU.
+Many of these mAbs recognize envelope displayed on the surface of HTLV-1-infected cells and virions and several of the mAbs robustly antagonize envelope-mediated membrane fusion and neutralize pseudovirus infectivity.
+The most potently neutralizing mAbs recognize the N-terminal receptor-binding domain of SU, though there is considerable variation in neutralizing proficiency of the receptor-binding domain-targeted mAbs.
+By contrast, Abs targeting the C-terminal domain of SU tend to lack robust neutralizing activity.
+Importantly, we find that both neutralizing and poorly neutralizing Abs strongly stimulate neutrophil-mediated cytotoxic responses to HTLV-1-infected cells.
+Our data demonstrate that recombinant forms of SU possess immunological features that are of significant utility to subunit vaccine design.

@@ -1,0 +1,7 @@
+Increasingly large observational datasets from healthcare and social media may allow new types of causal inference.
+However, these data are often missing key variables, increasing the chance of finding spurious causal relationships due to confounding.
+While methods exist for causal inference with latent variables in static cases, temporal relationships are more challenging, as varying time lags make latent causes more difficult to uncover and approaches often have significantly higher computational complexity.
+To address this, we make the key observation that while a variable may be latent in one dataset, it may be observed in another, or we may have domain knowledge about its effects.
+We propose a computationally efficient method that overcomes latent variables by using prior knowledge to reconstruct data for unobserved variables, while remaining robust to cases when the knowledge is wrong or does not apply.
+On simulated data, our approach outperforms the state of the art with a lower false discovery rate for causal inference.
+On real-world data from individuals with Type 1 diabetes, we show that our approach can discover causal relationships involving unmeasured meals and exercise.

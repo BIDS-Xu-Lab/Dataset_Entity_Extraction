@@ -1,0 +1,16 @@
+Our objective was determine the status of National Institutes of Health (NIH) funding for cardiothoracic surgery research.
+(1) Funding from the NIH is critical if new procedures and devices are to be developed.
+(2) The success rate for NIH applications coming from cardiothoracic surgery faculty is thought to be inferior.
+(3) Per capita numbers of surgical NIH application and awards and application success rate have recently been found to be below the average for the NIH.
+Application and award data for full-time academic cardiothoracic surgeons were obtained by matching records in the NIH IMPAC II database with membership rosters of The Society of Thoracic Surgeons and The American Association for Thoracic Surgery.
+Manpower data were obtained from 1999, 2003, and 2005 reports of the STS/AATS Workforce committee.
+Society membership was used as a surrogate for investigator experience.
+The number of NIH applications has increased steeply in the past 7 years; however, the number of awards has remained constant.
+This pattern was observed for surgery and cardiothoracic surgery as well.
+Until 2003, the cardiothoracic surgery application success rate was actually higher than that of surgery and the NIH as a whole (between 25% and 40%).
+Since then, however, the cardiothoracic surgery application success rate has declined steeply and is now only 14%.
+NIH applications and awards per 100 cardiothoracic surgeons, although similar to those of surgery, are very much less than the NIH as a whole.
+Per capita NIH funding of cardiothoracic surgeons is very much less than that of the NIH as a whole.
+The primary cause is the low per capita number of applications submitted by cardiothoracic surgeons.
+Junior cardiothoracic faculty should be encouraged to apply for career development awards.
+However, since the ability to shift cost from clinical to academic faculty is declining, affirmative action from the NIH may be necessary.

@@ -1,0 +1,12 @@
+Hereditary angioedema due to C1 Inhibitor (C1Inh) deficiency (HAE types I and II) is a rare, life-threatening disease causing spontaneous edema of the submucosal layers.
+A cohort of 127 individuals with symptoms of recurrent familial angioedema from 59 non-related families was studied.
+All the patients included fulfilled the diagnostic and biochemical criteria of HAE, including low C1Inh function and/or concentration.
+Genetic studies were carried out by PCR and sequencing of the C1NH locus followed, in the negative cases, by MLPA, long-range PCR and restriction enzyme analysis of genomic DNA to detect potential large rearrangements.
+Mutations located in consensus splicing sequences or nearby positions were studied by RT-PCR.
+The study identified 52 different mutations (25 missense, 15 frameshift, 7 splicing defects and 5 large deletions) responsible for the disease in 56 HAE families.
+In the remaining three families no molecular alteration could be detected.
+Twenty-seven of the mutations in this cohort are novel and 10 are confirmed de novo cases.
+The pathologic effect of the 5 splicing defects first reported here was assessed at the RNA and protein levels.
+Large deletions affecting exons 4 and 7, ranging from approximately 1500 to 2500 bp, were partially characterized by their altered restriction patterns upon long-range amplification.
+These results highlight the heterogeneity of mutations in the C1NH gene causing C1Inh deficiency and HAE.
+An approach to the molecular effects associated to each of the mutations reported here was made when possible based on the available data of pathological variants of serpins.

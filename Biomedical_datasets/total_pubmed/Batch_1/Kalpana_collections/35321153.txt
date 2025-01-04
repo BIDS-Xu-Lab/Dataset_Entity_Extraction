@@ -1,0 +1,8 @@
+Quality control (QC) is a vital step for all scientific data analyses and is critically important in the biomedical sciences.
+Image segmentation is a common task in medical image analysis, and automated tools to segment many regions from human brain MRIs are now well established.
+However, these methods do not always give anatomically correct labels.
+Traditional methods for QC tend to reject statistical outliers, which may not necessarily be inaccurate.
+Here, we make use of a large database of over 12,000 brain images that contain 68 parcellations of the human cortex, each of which was assessed for anatomical accuracy by a human rater.
+We trained three machine learning models to determine if a region was anatomically accurate (as 'pass', or 'fail') and tested the performance on an independent dataset.
+We found good performance for the majority of labeled regions.
+This work will facilitate more anatomically accurate large-scale multi-site research.

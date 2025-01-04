@@ -1,0 +1,10 @@
+The perceptual stability of an object's color under different illuminants is called color constancy.
+We created a neural network to investigate this phenomenon.
+The net consisted of one input channel for the background and one for the test object.
+Each channel had a set of three (L, M, and S) receptors that were transmitting to three opponent neurons.
+The signals from the opponent neurons were passed to hidden neurons, which were connected to the output neurons.
+The output signal was generated from the three components of a color vector.
+The neural net was trained to identify the color of Munsell samples under various illuminants using the back-propagation algorithm.
+Our study investigated the properties of a successfully trained neural network.
+Based on the cross-neuron weight analysis, we report that the successfully trained neural net calculates color differences between the test object and the background.
+By comparing the human visual system to the neural net, we conclude that to satisfy the color constancy phenomenon, the human visual system has to contain two separate components: one to approximate the background color and the other to estimate the color difference between the object and the background.

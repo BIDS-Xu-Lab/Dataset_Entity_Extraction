@@ -1,0 +1,8 @@
+The ability to track CD4 T cells elicited in response to pathogen infection or vaccination is critical because of the role these cells play in protective immunity.
+Coupled with advances in genome sequencing of pathogenic organisms, there is considerable appeal for implementation of computer-based algorithms to predict peptides that bind to the class II molecules, forming the complex recognized by CD4 T cells.
+Despite recent progress in this area, there is a paucity of data regarding the success of these algorithms in identifying actual pathogen-derived epitopes.
+In this study, we sought to rigorously evaluate the performance of multiple Web-available algorithms by comparing their predictions with our results--obtained by purely empirical methods for epitope discovery in influenza that used overlapping peptides and cytokine ELISPOTs--for three independent class II molecules.
+We analyzed the data in different ways, trying to anticipate how an investigator might use these computational tools for epitope discovery.
+We come to the conclusion that currently available algorithms can indeed facilitate epitope discovery, but all shared a high degree of false-positive and false-negative predictions.
+We also found dramatic disparities among algorithms and between predicted IC(50) values and true dissociation rates of peptide-MHC class II complexes.
+We suggest that improved success of predictive algorithms will depend less on changes in computational methods or increased data sets and more on changes in parameters used to "train" the algorithms that factor in elements of T cell repertoire and peptide acquisition by class II molecules.

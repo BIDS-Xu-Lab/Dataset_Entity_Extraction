@@ -1,0 +1,11 @@
+Many cellular processes are carried out by large macromolecular assemblies.
+We systematically analyzed large macromolecular assemblies in the cytoplasm of mouse macrophages (RAW264.7 cell line), cells with crucial roles in immunity and inflammation.
+Fractionation of the cytoplasmic fraction was performed using sucrose density gradient centrifugation, and individual fractions were subjected in parallel to (i) identification of constituent proteins by mass spectrometry and (ii) structural visualization by electron microscopy.
+Macromolecular assemblies present in the fractions were analyzed by integrating available data using bioinformatic approaches.
+We identified 368 unique proteins in our sample.
+Among these are components of some well-characterized assemblies involved in diverse cellular processes and structures including translation, proteolysis, protein folding, metabolism, and the cytoskeleton, as well as less characterized proteins that may correspond to additional components of known assemblies or other homo- or hetero-oligomeric structures.
+Single-particle analysis of electron micrographs of negatively stained samples allowed the identification of clearly distinguishable two-dimensional projections of discrete protein assemblies.
+Among these, we can identify small ribosomal subunits and preribosomal particles, the 26S proteasome complex and small ringlike structures resembling the molecular chaperone complexes.
+In addition, a broad range of discrete and different complexes were seen at size ranges between 11 to 38 nm in diameter.
+Our procedure selects the assemblies on the basis of abundance and ease of isolation, and therefore provides an immediately useful starting point for further study of structure and function of large assemblies.
+Our results will also contribute toward building a molecular cell atlas.

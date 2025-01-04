@@ -1,0 +1,20 @@
+We have assessed the clinical observation that the angle of the contralateral lamina matches the angle required from the sagital plane for the placement of pedicle screws in the subaxial cervical spine.
+Fifty-four randomly chosen axial CT scans taken between December 2003 and December 2004 were examined.
+Subjects were excluded if the scan showed signs of fracture, tumour or gross abnormality.
+The digitised images were analysed on the Philips PACS system using SECTRA software.
+One hundred and sixty-eight individual vertebrae were assessed between C3 and C7.
+The following were measured; the angle of the pedicle relative to the sagital plane, the smallest internal and external diameter of the pedicles and the angle of the lamina.
+Angular measures had a CV% of 3.9%.
+The re-measurement error for distance was 0.5 mm.
+Three hundred and thirty-six pedicles were assessed in 25 females and 29 males.
+Average age was 48.2 years (range 17-85).
+Our morphologic data from live subjects was comparable to previous cadaveric data.
+Mean pedicle external diameter was 4.9 mm at C3 and 6.6 mm at C7.
+Females were marginally smaller than males.
+Left and right did not significantly differ.
+In no case was the pedicle narrower than 3.2 mm.
+Mean pedicle angle was 130 degrees at C3 and 140 degrees at C7.
+The contralateral laminar angle correlated well at C3, 4, 5 (R (2) = 0.9, C3 P = 0.002, C4 P = 0.06, C5 P = 0.0004) and was within 1 degrees of pedicle angle.
+At C6, 7 it was within 11 degrees .
+In all cases a line parallel to the lamina provided a safe corridor of 3 mm for a pedicle implant.
+The contralateral lamina provides a reliable intraoperative guide to the angle from the sagital plane for subaxial cervical pedicle instrumentation in adults.

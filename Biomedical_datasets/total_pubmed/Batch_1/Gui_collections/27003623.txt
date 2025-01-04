@@ -1,0 +1,12 @@
+Infectious complications remain one of the most challenging concerns for the burn team.
+The goal of this study was to evaluate the diagnostic and therapeutic approaches and prognosis in burn patients with septic shock.
+This retrospective study included patients with severe burn injury who were admitted to a burn intensive care unit (ICU).
+Demographic and clinical data were recorded for each patient.
+The diagnostic and prognostic value of a number of clinical and laboratory parameters and various treatment options were evaluated.
+Sixty-four of the 378 patients (16.9%) were identified as having experienced a septic shock during ICU stay.
+The mortality rate of patients with septic shock was 46.9%.
+The main bacterial strains responsible for infection were Gram-negative bacteria (78.1%).
+[1.06-3.84]; P = 0.019), and lactate levels > 4 mmol/L during the first 48 hours of shock (odds ratio 1.92; 95% confidence interval: 1.02-3.62; P = 0.043).
+Prognosis of septic shock remains poor in burn patients with septic shock.
+The main causative pathogens of septic shock identified in our burn ICU were Gram-negative species.
+The main prognostic factors identified in this study were the presence of AKI, stage III, and high lactate levels early after the onset of septic shock.

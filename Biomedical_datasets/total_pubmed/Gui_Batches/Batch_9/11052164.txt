@@ -1,0 +1,9 @@
+Many recent efforts to reduce unnecessary medical services have targeted care of upper respiratory infections (URIs).
+We tested whether patients who seek care very early in their illness differ from those who seek care later and whether they might require a different approach to care.
+We surveyed by telephone 257 adult patients and 249 parents of child patients who called or visited one of 3 primary care clinics within 10 days (adults) or 14 days (parents) of the onset of uncomplicated URI symptoms.
+Those who contacted the clinic within the first 2 days of illness were compared with those who made contact later.
+Although 28% of adults and 41% of parents contacted their clinic within the first 2 days of symptom onset, we found very few differences in the characteristics of the caller or patient between those who called early and later.
+The illnesses of those who called early were not more severe, and they did not have different beliefs, histories, approaches to medical care, or needs.
+The only clinician-relevant difference was that adult patients calling in the first 2 days had a greater desire to rule out complications (84.7% vs 64.1% calling in 3-5 days and 70.6% calling after 5 days of illness, P < or = .05).
+Those who seek medical care very early for a URI do not appear to be different in clinically important ways.
+If we are going to reduce overuse of medical care and antibiotics for URIs, clinical trials of more effective and efficient strategies are needed to encourage home care and self-management.

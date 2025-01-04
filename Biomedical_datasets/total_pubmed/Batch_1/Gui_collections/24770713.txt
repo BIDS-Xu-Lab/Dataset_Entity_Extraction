@@ -1,0 +1,9 @@
+Autism spectrum disorder (ASD) includes deficits in social cognition, communication, and executive function.
+Recent neuroimaging studies suggest that ASD disrupts the structural and functional organization of brain networks and, presumably, how they generate information.
+Here, we relate deficits in an aspect of cognitive control to network-level disturbances in information processing.
+We recorded magnetoencephalography while children with ASD and typically developing controls performed a set-shifting task designed to test mental flexibility.
+We used multiscale entropy (MSE) to estimate the rate at which information was generated in a set of sources distributed across the brain.
+Multivariate partial least-squares analysis revealed 2 distributed networks, operating at fast and slow time scales, that respond completely differently to set shifting in ASD compared with control children, indicating disrupted temporal organization within these networks.
+Moreover, when typically developing children engaged these networks, they achieved faster reaction times.
+When children with ASD engaged these networks, there was no improvement in performance, suggesting that the networks were ineffective in children with ASD.
+Our data demonstrate that the coordination and temporal organization of large-scale neural assemblies during the performance of cognitive control tasks is disrupted in children with ASD, contributing to executive function deficits in this group.

@@ -1,0 +1,8 @@
+The administration of therapeutic doses of recombinant cytokines to patients with malignant disease can be complicated by systemic toxicities, which in their most severe form may present as a systemic inflammatory response.
+The combination of interleukin (IL)-18 and IL-12 has synergistic antitumor activity in vivo yet has been associated with significant toxicity.
+The effects of IL-18 plus IL-12 were examined in a murine model, and it was found that the daily, simultaneous administration of IL-18 and IL-12 resulted in systemic inflammation and 100% mortality within 4 to 8 days depending on the strain employed.
+Mice treated with IL-18 plus IL-12 exhibited unique pathologic findings as well as elevated serum levels of proinflammatory cytokines and acute-phase reactants.
+The actions of tumor necrosis factor-alpha did not contribute to the observed toxicity, nor did T or B cells.
+However, toxicity and death from treatment with IL-18 plus IL-12 could be completely abrogated by elimination of natural killer (NK) cells or macrophages.
+Subsequent studies in genetically altered mice revealed that NK-cell interferon-gamma mediated the fatal toxicity via the signal transducer and activator of transcription pathway of signal transduction.
+These data may provide insights into methods of ameliorating cytokine-induced shock in humans.

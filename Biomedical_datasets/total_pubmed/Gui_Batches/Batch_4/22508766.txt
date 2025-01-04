@@ -1,0 +1,8 @@
+Understanding how the brain extracts and combines temporal structure (rhythm) information from events presented to different senses remains unresolved.
+Many neuroimaging beat perception studies have focused on the auditory domain and show the presence of a highly regular beat (isochrony) in "auditory" stimulus streams enhances neural responses in a distributed brain network and affects perceptual performance.
+Here, we acquired functional magnetic resonance imaging (fMRI) measurements of brain activity while healthy human participants performed a visual task on isochronous versus randomly timed "visual" streams, with or without concurrent task-irrelevant sounds.
+We found that visual detection of higher intensity oddball targets was better for isochronous than randomly timed streams, extending previous auditory findings to vision.
+The impact of isochrony on visual target sensitivity correlated positively with fMRI signal changes not only in visual cortex but also in auditory sensory cortex during audiovisual presentations.
+Visual isochrony activated a similar timing-related brain network to that previously found primarily in auditory beat perception work.
+Finally, activity in multisensory left posterior superior temporal sulcus increased specifically during concurrent isochronous audiovisual presentations.
+These results indicate that regular isochronous timing can modulate visual processing and this can also involve multisensory audiovisual brain mechanisms.

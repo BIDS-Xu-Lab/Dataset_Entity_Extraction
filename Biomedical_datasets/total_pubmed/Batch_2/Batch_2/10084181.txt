@@ -1,0 +1,15 @@
+Spinal reconstruction procedures for metastasis evaluated biomechanically using human cadaver specimens.
+To investigate the stiffness of anterior versus circumferential spinal reconstructions for different anatomic stages of tumor lesions.
+Metastatic tumors predominantly involve the vertebral bodies.
+Although anterior instrumentation and strut grafts provide excellent stability, it remains unclear to what extent vertebral destruction requires anterior reconstructions alone versus combined anterior and posterior procedures.
+Ten human cadaveric thoracolumbar spines were used.
+The L1 vertebral body and posterior elements were resected sequentially based on Weinstein's anatomic zone classification for tumor lesions.
+Anterior reconstruction was performed between T12 and L2 using an iliac strut graft and the Kaneda SR system (AcroMed, Cleveland, OH).
+For circumferential reconstruction, the Cotrel-Dubousset hook and rod system was combined with the anterior reconstruction procedure.
+Experimental groups included the intact condition and five reconstruction stages: anterior reconstructions for corpectomy, subtotal and total spondylectomies, and circumferential reconstructions for subtotal and total spondylectomies.
+Nondestructive biomechanical testing was performed under four different loading modes.
+All the reconstruction groups except anterior instrumentation alone for total spondylectomy returned stiffness to a level equivalent or higher to that of the intact spine.
+There were no statistical differences observed between anterior and circumferential reconstruction for subtotal spondylectomy.
+Anterior instrumentation alone for total spondylectomy did not restore stiffness to the intact level, and demonstrated significantly lower stiffness than that of circumferential reconstruction.
+For corpectomy or subtotal spondylectomy, anterior reconstruction alone can provide stiffness equivalent to circumferential reconstruction.
+However, total spondylectomy significantly reduces the anterior reconstruction stiffness, suggesting the need for combined anterior and posterior procedures.

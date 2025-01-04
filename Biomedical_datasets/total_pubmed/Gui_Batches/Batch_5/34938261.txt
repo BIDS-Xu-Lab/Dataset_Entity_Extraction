@@ -1,0 +1,13 @@
+Purpose: To describe the use of assistive devices and postural asymmetries in lying, sitting and standing positions in adults with cerebral palsy, and to analyze postural asymmetries and any associations with their ability to maintain or change position and time in these positions.
+Methods: A cross-sectional study based on data from the Swedish Cerebral Palsy follow-up program of 1,547 adults aged 16-76 years, at Gross Motor Function Classification System (GMFCS) levels I (n = 330), II (n = 323), III (n = 235), IV (n = 298), and V (n = 361).
+Assistive devices such as wheelchairs, seating systems, adjustable beds, standing equipment and time in each position were reported.
+The Posture and Postural Ability Scale was used to identify asymmetries and rate the ability to maintain or change position.
+Binary logistic regression models were used to estimate odds ratios (OR) for postural asymmetries in supine, sitting and standing.
+Assistive devices were used by 63% in sitting (range 5-100% GMFCS levels I-V), 42% in lying (4-92% levels I-V), and 32% in standing (2-70% levels II-V).
+Wheelchairs were used as seating systems by 57%.
+Most adults had postural asymmetries in supine (75%; range 35-100% levels I-V), sitting (81%; 50-99% levels I-V) and standing (88%; 65-100% levels I-V).
+Men were more likely than women to have postural asymmetries, and the likelihood of postural asymmetries increased with age, GMFCS levels and inability to change position.
+Inability to maintain position increased the probability of postural asymmetries in all positions from OR 2.6 in standing to OR 8.2 in lying and OR 13.1 in sitting.
+Conclusions: Almost twice as many adults used assistive devices in sitting than in lying or standing.
+Two thirds of the adults who used standing devices used it for <1 h per day, indicating that they might spend the remaining 23 out of 24 h per day either sitting or lying.
+Asymmetric postures were frequent across all ages and were highly associated with inability to change or maintain position.

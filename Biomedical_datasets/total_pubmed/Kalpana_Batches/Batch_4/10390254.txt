@@ -1,0 +1,12 @@
+Ventilator-dependent preterm infants are often treated with a prolonged tapering course of dexamethasone to decrease the risk and severity of chronic lung disease.
+The objective of this study was to assess the effect of this therapy on developmental outcome at 1 year of age.
+Study participants were 118 very low birth weight infants who, at 15 to 25 days of life, were not weaning from assisted ventilation and were then enrolled in a randomized, placebo-controlled, double-blind trial of a 42-day tapering course of dexamethasone.
+Infants were examined at 1 year of age, adjusted for prematurity, by a pediatrician and a child psychologist.
+A physical and neurologic examination was performed, and the Bayley Scales of Infant Development were administered.
+All examiners were blind to treatment group.
+Groups were similar in terms of birth weight, gestational age, gender, and race.
+A higher percentage of dexamethasone recipients had major intracranial abnormalities diagnosed by ultrasonography (21% vs 11%).
+More dexamethasone-treated infants had cerebral palsy (25% vs 7%) and abnormal neurologic examination findings (45% vs 16%).
+In stratified analyses, adjusted for major cranial ultrasound abnormalities, these associations persisted (OR values for cerebral palsy, 5.3; 95% CI: 1.3-21.4; OR values for neurologic abnormality 3.6; 95% CI: 1.2-11.0).
+A 42-day tapering course of dexamethasone was associated with an increased risk of cerebral palsy.
+Possible explanations include an adverse effect of this therapy on brain development and/or improved survival of infants who either already have neurologic injury or who are at increased risk for such injury.

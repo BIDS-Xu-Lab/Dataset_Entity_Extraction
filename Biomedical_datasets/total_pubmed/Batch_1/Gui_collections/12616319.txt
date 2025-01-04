@@ -1,0 +1,15 @@
+Cardiac imaging with fast computed tomography (CT) is a quickly evolving field starting to become established in the cardiac routine work-up.
+The exclusion of coronary calcification is the most accurate noninvasive method to exclude significant coronary stenosis whereas the detection of calcification identifies coronary arteriosclerosis.
+The total calcium load correlates with the risk of coronary stenosis, but there is not a 1 : 1 relationship.
+CT angiography with contrast enhancement offers promises to increase diagnostic accuracy.
+4-slice scanners acquire data with a slide width down to 1 mm.
+The spatial resolution of invasive coronary angiography cannot be achieved yet.
+Severe coronary stenosis may be excluded with 90% specificity if image quality is not impaired by artifacts, severe calcification, arrhythmia, and a heart rate > 70 beats/min. With present technology, about 26% of segments may not be adequately assessed.
+Despite these limitations CT angiography is a useful tool to reduce the number of invasive diagnostic angiography.
+In patients with known coronary artery disease (CAD), progression as well as stent occlusion can be assessed.
+Instent stenosis can only be diagnosed indirectly.
+The patency of arterial and venous grafts can be assessed very well including also the bypass insertion site.
+Actual studies on the significance of noncalcified plaques are in progress.
+A CT angiography should take place in order to avoid further exposure to radiation.
+Therefore, patients with typical angina or significant signs of coronary ischemia have to be investigated by invasive methods and do not profit from a CT scan.
+Preparation and implementation of this method should only be applied in cooperation with radiologists and cardiologists in an experienced center.

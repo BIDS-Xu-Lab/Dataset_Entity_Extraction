@@ -1,0 +1,7 @@
+Opioid-related mortality increased by nearly 400% between 2000 and 2018.
+In response, federal, state, and local governments have enacted a heterogeneous collection of opioid-related policies in an effort to reverse the opioid crisis, producing a policy landscape that is both complex and dynamic.
+Correspondingly, there has been a rise in opioid-policy related evaluation studies, as policymakers and other stakeholders seek to understand which policies are most effective.
+In this paper, we provide an overview of methodological challenges facing opioid policy researchers when evaluating the effects of opioid policies using observational data, as well as some potential solutions to those challenges.
+In particular, we discuss the following key challenges: (1) Obtaining high-quality opioid policy data; (2) Appropriately operationalizing and specifying opioid policies; (3) Obtaining high-quality opioid outcome data; (4) Addressing confounding due to systematic differences between policy and non-policy states; (5) Identifying heterogeneous policy effects across states, population subgroups, and time; (6) Disentangling effects of concurrent policies; and (7) Overcoming limited statistical power to detect policy effects afforded by commonly-used methods.
+We discuss each of these challenges and propose some ways forward to address them.
+Increasing the methodological rigor of opioid evaluation studies is imperative to identifying and implementing opioid policies that are most effective at reducing opioid-related harms.

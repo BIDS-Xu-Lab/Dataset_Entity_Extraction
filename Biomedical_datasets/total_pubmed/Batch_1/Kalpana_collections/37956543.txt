@@ -1,0 +1,9 @@
+Morning cannabis use is associated with heavier, frequent cannabis use and more cannabis-related negative consequences, yet little empirical research has examined its predictors.
+Using 24 months of longitudinal data, the present study tested demographic, psychosocial, and behavioral predictors of morning cannabis use among young adults at the monthly- and person-levels.
+Young adults (N = 778) were part of a larger study on substance use and social role transitions; participants completed a baseline survey and up to 24 consecutive monthly surveys.
+Hypotheses were tested using logistic multilevel models to estimate odds ratios for any vs. no morning use in a given month.
+At the monthly level, social anxiety motives and cannabis use frequency on a given month were positively associated with morning cannabis use.
+At the person level, typical coping motives, average cannabis use frequency, and male sex were positively associated with morning cannabis use.
+Findings advance our understanding of individual and psychosocial predictors of morning cannabis use among young adults.
+Notably, social anxiety motives may represent a malleable target for intervention efforts that could reduce risky use patterns associated with morning use.
+Such efforts may be especially prudent for young men, as our findings indicated morning cannabis use probabilities were much higher for men than women.

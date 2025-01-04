@@ -1,0 +1,14 @@
+To introduce a new method to select anatomically matched teeth using micro-computed tomographic (micro-CT) technology.
+Single-rooted mandibular incisors with a single root canal (n = 60) were selected and distributed into three experimental groups according to the method used for matching 10 pairs of teeth in each group.
+In group 1, the pairs of mandibular incisors were randomly selected from a pool of teeth.
+In group 2, teeth were paired based on the measurement of canal width 5 mm from the root apex using radiographs taken from buccolingual and mesiodistal directions.
+In group 3, teeth were scanned (pixel size of 14.25 μm) and pair-matched based on the anatomical aspects of the root canal, named aspect ratio (AR), volume and three-dimensional canal geometry.
+After allocating the specimens into groups 1 and 2, the teeth were scanned and the canal morphology evaluated as in group 3.
+A bivariate Pearson's regression analysis was performed correlating the individual AR values of each pair, and the correlation coefficient was used to estimate the strength of the pair-matching process.
+One-way anova post hoc Tukey's tests were applied for pairwise comparisons at a significance level of 5%.
+The micro-CT revealed that 100% of the samples had strong (80%) or very strong (20%) correlations with respect to AR values.
+Analysis of the radiographic method revealed strong correlation in two pairs (20%), but most of the samples had weak (30%) or negligible (30%) correlation coefficients.
+The randomization method resulted in three pairs (30%) with very strong correlations, whilst 50% had weak or negligible rates.
+A significant difference in correlation coefficients was observed in the micro-CT method compared to the other groups (P < 0.05), whilst no difference was detected between radiographic and randomized methods (P > 0.05).
+Eta-squared (η2 ) calculations demonstrated a very high effect size in the micro-CT group for selecting pairs (0.99) and lower effect sizes in the radiographic (0.67) and randomized (0.66) groups.
+Use of Micro-CT was able to provide better control of the confounding effect that anatomical variances in tooth morphology may have on the results in experiments with matched-pair design.

@@ -1,0 +1,9 @@
+Air pollution and noise are both ubiquitous environmental stressors that pose great threats to public health.
+Emerging evidence has noticed the combined health risks caused by the coexistence of traffic-related air pollutants and noise in the residential context.
+However, less is known about how mobile individuals are simultaneously exposed to multiple sources of air pollution and noise, and thus respond with more acute psychological responses beyond the residence.
+This study examines the co-exposures to fine particles (PM2.5) and noise across spatiotemporal contexts where the concurrent exposures are jointly associated with momentary psychological stress.
+An innovative research protocol, including GPS-equipped activity-travel diaries, air pollutant and noise sensors, and ecological momentary assessment, was adopted to collect real-time data from a sample of residents in Beijing, China.
+The results showed a minor correlation between PM2.5 and noise exposures after accounting for individual mobility and the spatiotemporal dynamics of these two environmental pollutants.
+Further, exposure to PM2.5 was more associated with momentary psychological stress given the insignificant independent effect and the weak moderating effect of noise exposure.
+Three specific spatiotemporal contexts involving the health risks of co-exposures were delineated, including morning rush hours and traveling by public transits with intensified stress risks caused by combined exposures to air pollution and noise, workplaces with counteracting stress effect of both exposures, and evening time at home with stress-induced air pollution and stress-relieving social noise.
+In conclusion, the mobility-based and context-aware analysis provides a more nuanced understanding of the associations of co-exposures to environmental pollution and synchronous psychological stress in space and time.

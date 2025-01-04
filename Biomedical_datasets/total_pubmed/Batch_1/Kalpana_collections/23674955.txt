@@ -1,0 +1,15 @@
+Health care professionals have recommended the use of age-related body mass index (BMI) to evaluate obesity in children.
+Until now, no age-related reference curves for BMI have been reported in China.
+Presented here are age-related BMI percentile curves for children aged 0~18 years in Shaanxi, China, 1995.
+The Third Nationwide Growth Survey was performed in 1995 and from this survey, data of the Shaanxi population were retrieved to construct the age-related BMI percentile curves.
+A total of 27,200 healthy children aged 0~18 years were examined for height and weight, using the standardized methods.
+The λ-median-coefficient of variation (LMS) method was used for curve fitting; all analyses were carried out on the basis of different sexes and areas through a special program for LMS method.
+Median BMI increased steeply in early life, with a peak at 8 months, then declined, and then leveled off at about 6 years.
+The age of adiposity rebound for urban children was about two years earlier than that for rural children and one year earlier for boys than for girls.
+After adiposity rebound, BMI increased more rapidly in girls than in boys, and the increase in urban children was more rapid than that in rural children.
+As the onset of puberty, female BMI became higher than that of males, and the difference between boys and girls was larger for rural children than for urban children.
+The 95th, 50th and 5th percentiles for Shaanxi children were lower than those of comparable American children.
+Cut-off points for obesity was lower than those of international averages, suggesting the nutrition status of Shaanxi children is lower than that of children in developed countries, and has not reached the international average level.
+Using the LMS method, we constructed age-related BMI percentile curves for Shaanxi children aged 0~18 years, the first for Chinese children.
+Percentile curves and cut-off points for obesity can be used as a reference for assessing the nutrition status of Shaanxi children aged 0~18 years.
+The identified gender and residency differences may serve as guides to an understanding of the cause and prevention of obesity.

@@ -1,0 +1,7 @@
+The neuropeptide Y (NPY)/peptide YY (PYY) system has been implicated in the physiology of obesity for several decades.
+More recently ignited enormous interest in PYY3-36, an endogenous Y2-receptor agonist, as a promising anti-obesity compound.
+Despite this interest, there have been remarkably few subsequent reports reproducing or extending the initial findings, while at the same time studies finding no anti-obesity effects have surfaced.
+Out of 41 different rodent studies conducted (in 16 independent labs worldwide), 33 (83%) were unable to reproduce the reported effects and obtained no change or sometimes increased food intake, despite use of the same experimental conditions (i.e. adaptation protocols, routes of drug administration and doses, rodent strains, diets, drug vendors, light cycles, room temperatures).
+Among studies by authors in the original study, procedural caveats are reported under which positive effects may be obtained.
+Currently, data speak against a sustained decrease in food intake, body fat, or body weight gain following PYY3-36 administration and make the previously suggested role of the hypothalamic melanocortin system unlikely as is the existence of PYY deficiency in human obesity.
+We review the studies that are in the public domain which support or challenge PYY3-36 as a potential anti-obesity target.

@@ -1,0 +1,10 @@
+Certain neurons of vertebrates are specialized for high-frequency firing.
+Interestingly, high-frequency firing is also seen in central neurons in basal bilateral metazoans.
+Recently, the role of potassium currents with rightward-shifted activation curves in producing high-frequency firing has come under scrutiny.
+We apply intracellular recording, patch-clamp techniques, and compartmental modeling to examine the roles of rightward-shifted potassium currents in repetitive firing and shaping of action potentials in central neurons of the flatworm, Notoplana atomata (Phylum Platyhelminthes).
+The kinetic properties of potassium and sodium currents were determined from patch-clamp experiments on dissociated brain cells.
+To predict the effects of changing the steady-state and kinetic properties of these potassium currents, these data were incorporated into a computer model of a 30-microm spherical cell with the levels of current adjusted to approximate the values recorded in voltage-clamp experiments.
+The model was able to support regenerative spikes at high frequencies in response to injected current.
+Current-clamp recordings of cultured cells and of neurons in situ also showed evidence of very-high-frequency firing.
+Adjusting the ratio of inactivating to non-inactivating potassium currents had little effect upon the firing pattern of the cell or its ability to fire at high frequencies, whereas the presence of the non-inactivating current was necessary for repetitive firing.
+Computer simulations suggested that the rightward shift in voltage sensitivity confers a raised firing threshold, while rapid channel kinetics underlie high frequency firing, and the large activation range enhances the coding range of the cell.

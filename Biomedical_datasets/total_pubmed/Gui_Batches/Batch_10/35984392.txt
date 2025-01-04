@@ -1,0 +1,24 @@
+Nanfeng tangerine (Citrus reticulata Blanco) is highly regarded for its nutritional and economic value.
+In January 2022, an unknown fruit rot was observed on Nanfeng tangerine fruits harvested from Nanfeng County (27.22 °N, 116.53 °E), Fuzhou City, Jiangxi Province after 70 days in storage (25 °C, 90% relative humidity).
+The disease mostly started from the pedicel or a wound.
+Symptoms initiated with dark brown lesions that rapidly expanded between the fruit center and pulp capsule causing total fruit rot.
+The surface of symptomatic fruit was sterilized with 75% ethanol for 30 s and 2% NaClO for 30 s. Small diseased tissue pieces (2 mm2) between diseased and healthy tissues were placed on potato dextrose agar (PDA) and put in an incubator (25 ± 1 °C) for 3 days.
+The representative isolate NFMJ-1 was subcultured onto PDA using single-spore purification.
+Colonies on PDA were light yellow to white, with abundant flocculent aerial hyphae.
+Microconidia were oval, obovoid to allantoid, 0 septate, occasionally 1 septate, 4.07 to 17.53 × 1.69 to 3.56 μm (average=7.40 μm × 2.55 μm, n=50).
+Macroconidia were slender, with a beaked apical cell and a foot-shaped basal cell, 3 to 5 septate, 22.99 to 81.12 × 2.34 to 3.81 μm (average=45.04 μm × 3.12 μm, n=50).
+According to morphological characteristics, the isolate was tentatively identified as Fusarium sp.
+To confirm the identification, the internal transcribed spacer (ITS), translation elongation factor 1-alpha (TEF), RNA polymerase II second largest subunit (RPB2), beta-tubulin gene (TUB2), and calmodulin gene (CaM) sequences were amplified with primers ITS1/ITS4 (Gardes et al. 1993)
+, TEF1/TEF2 (O'Donnell et al. 2010), RPB2-5f2/RPB2-7cr (Liu et al. 1999), Bt2a/Bt2b (Glass and Donaldson 1995), and CL1C/CL2C (Weir et al. 2012), respectively.
+The obtained sequences (ON184033, ON212051, ON212052, ON212053, ON212054) showed homology with F. concentricum ITS (MW016417.1; 514/514 bp),
+TEF (MK609902.1; 667/667 bp), RPB2 (LC631461.1; 941/972 bp), TUB2 (MT942588.1; 331/337 bp), and CaM (MK609916.1; 558/597 bp).
+A phylogenetic analysis of concatenated ITS-RPB2-TEF sequences was performed by MEGA7.0 with the maximum likelihood and Kimura 2-parameter model, revealing that the isolate was placed in the F. concentricum clade.
+To confirm pathogenicity, 36 healthy tangerine fruits were surface sterilized with 75% alcohol, then 18 disinfected fruits were wounded with sterile needles and 18 remained unwounded.
+Half of the wounded and un-wounded fruits were inoculated with 10 μL of a conidial suspension (1.0 × 106 conidia/ml) of isolate NFMJ-1 cultured for 7 days on PDA.
+Half of the wounded and un-wounded fruits were mock-inoculated with sterile water as controls.
+After incubation in an incubator (25 ± 1°C, 90% relative humidity) for 7 days, the wounded fruits inoculated with F. concentricum showed similar symptoms to the original diseased fruits, while the mock-inoculated fruits were asymptomatic.
+The pathogenicity test was repeated three times.
+The pathogen was re-isolated from the wound-inoculated fruits and identified as F. concentricum by morphological and molecular analysis, completing Koch's postulates.
+F. concentricum has been reported as a pathogen of Podocarpus macrophyllus (Dong et al. 2022), Capsicum annuum (Wang et al. 2013) and Zea mays (Du et al. 2020) in China.
+This is the first report of fruit rot caused by F. concentricum on Citrus reticulata in China.
+Appropriate prevention and control measure of the pathogen need to be developed to preserve marketability of this economically important citrus fruit.

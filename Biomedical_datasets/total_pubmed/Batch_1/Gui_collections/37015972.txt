@@ -1,0 +1,10 @@
+Serotonergic psychedelics are gaining increasing interest as potential therapeutics for a range of mental illnesses.
+Compounds with short-lived subjective effects may be clinically useful because dosing time would be reduced, which may improve patient access.
+One short-acting psychedelic is 5-MeO-DMT, which has been associated with improvement in depression and anxiety symptoms in early phase clinical studies.
+However, relatively little is known about the behavioral and neural mechanisms of 5-MeO-DMT, particularly the durability of its long-term effects.
+Here we characterized the effects of 5-MeO-DMT on innate behaviors and dendritic architecture in mice.
+We showed that 5-MeO-DMT induces a dose-dependent increase in head-twitch response that is shorter in duration than that induced by psilocybin at all doses tested.
+5-MeO-DMT also substantially suppresses social ultrasonic vocalizations produced during mating behavior.
+5-MeO-DMT produces long-lasting increases in dendritic spine density in the mouse medial frontal cortex that are driven by an elevated rate of spine formation.
+However, unlike psilocybin, 5-MeO-DMT did not affect the size of dendritic spines.
+These data provide insights into the behavioral and neural consequences underlying the action of 5-MeO-DMT and highlight similarities and differences with those of psilocybin.

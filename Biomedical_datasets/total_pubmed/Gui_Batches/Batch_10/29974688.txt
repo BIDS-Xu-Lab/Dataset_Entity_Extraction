@@ -1,0 +1,15 @@
+The SanJiang Plain is one of the most concentrated and contiGuous area of marshes, which plays an irreplaceable role in maintaining regional ecological security.
+Based on the 3S technology, we examined the changes in land use and landscape pattern of the SanJiang Plain from 1980 to 2010.
+The results showed that marshland area lost 7135 km2, with a loss rate of 59.1%.
+The paddy area increased 18010 km2, with a growth rate of 610.1%.
+The results of landscape indices analysis showed that the number of patches increased, the landscape fragmentation became stronger, the landscape heterogeneity increased, and the different landscape types became homogenized.
+The CLUE-S model was validated based on the five different periods of land use maps during 1980-2010.
+The Kappa index between the simulation and actual measurement at the time scale of 30 years was 0.71, indicating that the model was suitable for 30 years simulation in the study area.
+The future wetland changes in the SanJiang Plain from 2010 to 2030 was simulated with validated CLUE-S models, including historical development scenario, planning scenario, and ecological restoration scenario.
+The simulation results showed that the marsh land would decrease 2515.44 km2 and the paddy area would increase 19656.24 km2 in the historical development scenario.
+The marsh land would decrease 303.28 km2, but the paddy area would increase 1392.08 km2 in the planning scenario.
+The marsh land would increase 3585.61 km2 and the paddy area would increase 289.72 km2 in the ecological restoration scenario.
+The landscape patterns of the three scenarios were estimated using landscape indices.
+The results showed that the landscape pattern fragmentation would become more and more serious in the historical development scenario.
+The landscape pattern would have no signifi-cant changes in the planning scenario.
+The wetland area and connectivity would increase, the different landscape types would become balanced, and the landscape pattern would be gradually optimized in the ecological restoration scenario.

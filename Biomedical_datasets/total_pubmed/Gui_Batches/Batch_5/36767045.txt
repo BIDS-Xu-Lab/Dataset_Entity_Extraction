@@ -1,0 +1,11 @@
+Exposure to per- and polyfluoroalkyl substances (PFAS) during pregnancy has been suggested to be associated with neurobehavioral problems in offspring.
+However, current epidemiological studies on the association between prenatal PFAS exposure and neurobehavioral problems among offspring, especially attention deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD), are inconsistent.
+Therefore, we aimed to study the relationship between PFAS exposure during pregnancy and ADHD and ASD in offspring based on meta-analyses.
+Online databases, including PubMed, EMBASE, and Web of Science, were searched comprehensively for eligible studies conducted before July 2021.
+Eleven studies (up to 8493 participants) were included in this analysis.
+The pooled results demonstrated that exposure to perfluorooctanoate (PFOA) was positively associated with ADHD in the highest quartile group.
+Negative associations were observed between perfluorooctane sulfonate (PFOS) and ADHD/ASD, including between perfluorononanoate (PFNA) and ASD.
+There were no associations found between total PFAS concentration groups and neurobehavioral problems.
+The trial sequential analyses showed unstable results.
+Our findings indicated that PFOA and PFOS exposure during pregnancy might be associated with ADHD in offspring and that prenatal PFOS and PFNA exposure might be associated with ASD in offspring.
+According to the limited evidence obtained for most associations, additional studies are required to validate these findings.

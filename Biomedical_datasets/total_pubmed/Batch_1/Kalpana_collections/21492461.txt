@@ -1,0 +1,16 @@
+Exposure of the anterior or lateral lumbar via the retroperitoneal approach easily causes injuries to the lumbar plexus.
+Lumbar plexus injuries which occur during anterior or transpsoas lumbar spine exposure and placement of instruments have been reported.
+This study aims is to provide more anatomical data and surgical landmarks in operations concerning the lumbar plexus in order to prevent lumbar plexus injuries and to increase the possibility of safety in anterior approach lumbar surgery.
+To study the applied anatomy related to the lumbar plexus of fifteen formaldehyde-preserved cadavers, Five sets of Virtual Human (VH) data set were prepared and used in the study.
+Three-dimensional (3D) computerized reconstructions of the lumbar plexus and their adjacent structures were conducted from the VH female data set.
+The order of lumbar nerves is regular.
+From the anterior view, lumbar plexus nerves are arranged from medial at L5 to lateral at L2.
+From the lateral view, lumbar nerves are arranged from ventral at L2 to dorsal at L5.
+The angle of each nerve root exiting outward to the corresponding intervertebral foramen increases from L1 to L5.
+The lumbar plexus nerves are observed to be in close contact with transverse processes (TP).
+All parts of the lumbar plexus were located by sectional anatomy in the dorsal third of the psoas muscle.
+Thus, access to the psoas major muscle at the ventral 2/3 region can safely prevent nerve injuries.
+3D reconstruction of the lumbar plexus based on VCH data can clearly show the relationships between the lumbar plexus and the blood vessels, vertebral body, kidney, and psoas muscle.
+The psoas muscle can be considered as a surgical landmark since incision at the ventral 2/3 of the region can prevent lumbar plexus injuries for procedures requiring exposure of the lateral anterior of the lumbar.
+The transverse process can be considered as a landmark and reference in surgical operations by its relative position to the lumbar plexus.
+3D reconstructions of the lumbar plexus based on VCH data provide a virtual morphological basis for anterior lumbar surgery.

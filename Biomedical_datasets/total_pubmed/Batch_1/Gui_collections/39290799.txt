@@ -1,0 +1,6 @@
+Acute interstitial nephritis (AIN) is a common cause of hospital-acquired acute kidney injury (AKI)
+The most common cause of AIN is drug-induced AIN, which accounts for 60 - 70% of cases [2].
+Alirocumab, a proprotein convertase subtilisin/kexin type 9 inhibitor (PCSK9 inhibitor) is a monoclonal antibody that lowers low-density lipoprotein-C levels by inhibiting the PCSK9 protein [3].
+Common adverse events reported with alirocumab include injection-site reactions, myalgia, neurocognitive disorders, and ophthalmologic disorders [4].
+There is paucity of data, with few reported cases of AKI, mostly in the form of acute tubular necrosis (ATN) associated with alirocumab [5].
+In this article, we present a novel case of AIN associated with the use of alirocumab.

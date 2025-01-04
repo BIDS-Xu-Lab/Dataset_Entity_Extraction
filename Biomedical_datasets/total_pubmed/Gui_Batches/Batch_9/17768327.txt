@@ -1,0 +1,15 @@
+A preceding companion paper has reviewed the various factors which form the chain of assumptions that are necessary to support a suggested link between radon exposure and skin cancer in man.
+Overall, the balance of evidence was considered to be against a causal link between radon exposure and skin cancer.
+One factor against causality is evidence, particularly from animal studies, that some exposure of the hair follicles and/or the deeper dermis, as well as the inter-follicular epidermis, is required-beyond the range of naturally occurring alpha particles.
+On this basis any skin cancer risk due to radon progeny would be due only to beta and gamma components of equivalent dose, which are 10-100 times less than the alpha equivalent dose to the basal layer.
+Notwithstanding this conclusion against causality, calculations have been carried out of attributable risk (ATR, the proportion of cases occurring in the total population which can be explained by radon exposure) on the conservative basis that the target cells are, as is often assumed, in the basal layer of the epidermis.
+An excess relative risk figure is used which is based on variance weighting of the data sources.
+This is 2.5 times lower than the value generally used.
+A latent period of 20 years and an RBE of 10 are considered more justifiable than the often used values of 10 years and 20 respectively.
+These assumptions lead to an ATR of approximately 0.7% (0.5-5%) at the nominal UK indoor radon level of 20 Bq m(-3).
+The range reflects uncertainties in plate-out.
+Previous higher estimates by various authors have made more pessimistic assumptions.
+There are some indications that radon progeny plate-out may be elevated out of doors, particularly due to rainfall.
+Although average UK outdoor radon levels ( approximately 4 Bq m(-3)) are much less than average indoor levels, and outdoor residence time is on average about 10%, this might have the effect of increasing the ATR several-fold.
+Ecological epidemiology data for the South West of England provide no evidence for elevated skin cancer risks at radon levels <100 Bq m(-3).
+Case-control or cohort studies would be necessary to address the issue authoritatively.

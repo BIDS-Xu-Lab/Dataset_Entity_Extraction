@@ -1,0 +1,5 @@
+Statistics are the primary tools for assessing relationships and evaluating study questions.
+Unfortunately, these tools are often misused, either inadvertently because of ignorance or lack of planning, or conspicuously to achieve a specified result.
+Data abuses include the incorrect application of statistical tests, lack of transparency and disclosure about decisions that are made, incomplete or incorrect multivariate model building, or exclusion of outliers.
+Individually, each of these actions may completely invalidate a study, and often studies are victim to more than one offense.
+Increasingly there are tools and guidance for researchers to look to, including the development of an analysis plan and a series of study specific checklists, in order to prevent or mitigate these offenses.

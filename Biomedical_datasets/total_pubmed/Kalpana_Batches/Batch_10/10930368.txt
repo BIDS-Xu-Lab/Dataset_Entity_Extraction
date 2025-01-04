@@ -1,0 +1,16 @@
+The published risk of adenocarcinoma in the setting of Barrett's esophagus (BE) varies.
+Publication bias, the selective reporting of studies featuring positive or extreme results, may result in overestimation of this cancer risk in the literature.
+The aim of this study was to assess those publications reporting a cancer risk in BE for evidence of publication bias.
+A MEDLINE search for all published estimates between 1966 and 1998 of cancer risk in BE was performed.
+All studies reporting a cancer risk expressible in cancers per patient-year of follow-up were retrieved.
+Bibliographies of these studies were surveyed for additional estimates.
+All publications that required an initial endoscopy with histologic confirmation of BE and any cancer were included.
+The relationship of reported cancer risk to size of the study was assessed.
+Multivariable regression controlling for differences in definition of BE, as well as other study characteristics, was performed.
+The data were also analyzed by means of a funnel diagram, an epidemiologic method to assess publication bias.
+Five hundred fifty-four abstracts were reviewed.
+Twenty-seven publications met the stated criteria for inclusion.
+There was a strong correlation between cancer risk and the size of the study, with small studies reporting much higher risks of cancer than larger studies.
+This association persisted when differences in the definition of BE, retrospective vs. prospective nature of the study, surveillance interval, and the effect of cancer detected in the first year were considered.
+The funnel diagram analysis suggested publication bias.
+The cancer risk in BE may be overestimated in the literature due to publication bias.

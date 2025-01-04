@@ -1,0 +1,14 @@
+Nodo-paranodopathies are peripheral neuropathies with dysfunction of the node of Ranvier.
+Affected patients who are seropositive for antibodies against adhesion molecules like contactin-1 and neurofascin show distinct clinical features and a disruption of the paranodal complex.
+An axoglial dysjunction is also a characteristic finding of diabetic neuropathy.
+Here, we aim to investigate a possible association of antibody-mediated nodo-paranodopathy and diabetes mellitus (DM).
+We retrospectively analyzed clinical data of 227 patients with chronic inflammatory demyelinating polyradiculoneuropathy and Guillain-Barré syndrome from multiple centers in Germany who had undergone diagnostic testing for antiparanodal antibodies targeting neurofascin-155, pan-neurofascin, contactin-1-associated protein 1, and contactin-1.
+To study possible direct pathogenic effects of antiparanodal antibodies, we performed immunofluorescence binding assays on human pancreatic tissue sections.
+The frequency of DM was 33.3% in seropositive patients and thus higher compared with seronegative patients (14.1%, OR = 3.04, 95% CI = 1.31-6.80).
+The relative risk of DM in seropositive patients was 3.4-fold higher compared with the general German population.
+Seropositive patients with DM most frequently harbored anti-contactin-1 antibodies and had higher antibody titers than seropositive patients without DM.
+The diagnosis of DM preceded the onset of neuropathy in seropositive patients.
+No immunoreactivity of antiparanodal antibodies against pancreatic tissue was detected.
+We report an association of nodo-paranodopathy and DM.
+Our results suggest that DM may be a potential risk factor for predisposing to developing nodo-paranodopathy and argue against DM being induced by the autoantibodies.
+Our findings set the basis for further research investigating underlying immunopathogenetic connections.

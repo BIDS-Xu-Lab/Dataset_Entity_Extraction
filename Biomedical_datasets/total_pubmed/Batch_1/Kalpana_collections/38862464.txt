@@ -1,0 +1,6 @@
+As spaceflight becomes more common with commercial crews, blood-based measures of crew health can guide both astronaut biomedicine and countermeasures.
+By profiling plasma proteins, metabolites, and extracellular vesicles/particles (EVPs) from the SpaceX Inspiration4 crew, we generated "spaceflight secretome profiles," which showed significant differences in coagulation, oxidative stress, and brain-enriched proteins.
+While >93% of differentially abundant proteins (DAPs) in vesicles and metabolites recovered within six months, the majority (73%) of plasma DAPs were still perturbed post-flight.
+Moreover, these proteomic alterations correlated better with peripheral blood mononuclear cells than whole blood, suggesting that immune cells contribute more DAPs than erythrocytes.
+Finally, to discern possible mechanisms leading to brain-enriched protein detection and blood-brain barrier (BBB) disruption, we examined protein changes in dissected brains of spaceflight mice, which showed increases in PECAM-1, a marker of BBB integrity.
+These data highlight how even short-duration spaceflight can disrupt human and murine physiology and identify spaceflight biomarkers that can guide countermeasure development.

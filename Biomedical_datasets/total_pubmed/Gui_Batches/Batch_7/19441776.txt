@@ -1,0 +1,23 @@
+Furan is a liver toxicant and carcinogen in rodents.
+On the basis of these observations and the large potential for human exposure, furan has been classified as a possible human carcinogen.
+The mechanism of tumor induction by furan is unknown.
+However, the toxicity requires cytochrome P450-catalyzed oxidation of furan.
+The product of this oxidation, cis-2-butene-1,4-dial (BDA), reacts readily with glutathione, amino acids, and DNA and is a bacterial mutagen in Ames assay strain TA104.
+Characterization of the urinary metabolites of furan is expected to provide information regarding the structure(s) of the reactive metabolite(s).
+Recently, several urinary metabolites have been identified.
+We reported the presence of a monoglutathione-BDA reaction product, N-[4-carboxy-4-(3-mercapto-1H-pyrrol-1-yl)-1-oxobutyl]-l-cysteinylglycine cyclic sulfide.
+Three additional urinary metabolites of furan were also characterized as follows: R-2-acetylamino-6-(2,5-dihydro-2-oxo-1H-pyrrol-1-yl)-1-hexanoic acid, N-acetyl-S-[1-(5-acetylamino-5-carboxypentyl)-1H-pyrrol-3-yl]-l-cysteine, and its sulfoxide.
+It was postulated that these three metabolites are derived from degraded protein adducts.
+However, the possibility that these metabolites result from the reaction of BDA with free lysine and/or cysteine was not ruled out.
+In this latter case, one might predict that the reaction of thiol-BDA with free lysine would not occur exclusively on the epsilon-amino group.
+Reaction of BDA with N-acetylcysteine or GSH in the presence of lysine indicated that both the alpha- and the epsilon-amino groups of lysine can be modified by thiol-BDA.
+The N-acetylcysteine-BDA-N-acetyllysine urinary metabolites were solely linked through the epsilon-amino group of lysine.
+A GSH-BDA-lysine cross-link was a significant hepatocyte metabolite of furan.
+In this case, the major product resulted from reaction with the epsilon-amino group of lysine; however, small amounts of the alpha-amino reaction product were also observed.
+Western analysis of liver and hepatocyte protein extracts using anti-GSH antibody indicated that GSH was covalently linked to proteins in tissues or cells exposed to furan.
+Our data support the hypothesis that GSH-BDA can react with either free lysine or protein lysine groups.
+These data suggest that there are multiple pathways by which furan can modify cellular nucleophiles.
+In one pathway, BDA reacts directly with proteins to form cysteine-lysine reaction products.
+In another, BDA reacts with GSH to form GSH-BDA conjugates, which then react with cellular nucleophiles like free lysine or lysine moieties in proteins.
+Both pathways will give rise to N-acetyl-S-[1-(5-acetylamino-5-carboxypentyl)-1H-pyrrol-3-yl]-l-cysteine.
+Given the abundance of these metabolites in urine of furan-treated rats, these pathways appear to be major pathways of furan biotransformation in vivo.

@@ -1,0 +1,8 @@
+Ionic liquids (ILs) are used in various fields of chemistry.
+One of them is CO2 capture, a process that is quite well described.
+The solubility of CO2 in ILs can be used as a model to investigate gas absorption processes.
+The aim is to find the relationships between the solubility of CO2 and other variables-physicochemical properties and parameters related to greenness.
+In this study, 12 variables are used to describe a dataset consisting of 26 ILs and 16 molecular solvents.
+We used a cluster analysis, a principal component analysis, and a K-means hierarchical clustering to find the patterns in the dataset and the discriminators between the clusters of compounds.
+The results showed that ILs and molecular solvents form two well-separated groups, and the variables were well separated into greenness-related and physicochemical properties.
+Such patterns suggest that the modeling of greenness properties and of the solubility of CO2 on physicochemical properties can be difficult.

@@ -1,0 +1,13 @@
+To develop a new structural algorithm derived from optical coherence tomography (OCT) retinal nerve fiber layer (RNFL) thickness and asymmetry and validate it as a discriminate among normal, suspect, and early primary open-angle glaucoma (POAG).
+In total, 150 subjects (299 eyes) were selected, 61 normal, 46 suspect, and 43 early glaucoma, from Al-Azhar University Hospitals.
+They were in fifth decade and free from any ocular or systemic diseases affecting the retinal nerve fiber layer.
+They were investigated by two consecutive perimetry (1 month apart), and three scans of circumpapillary retinal nerve fiber layer (cpRNFL) by using Nidek spectral domain (SD)-OCT 3000 Lite.
+The cpRNFL thickness (cpRNFLT) and inter-eye asymmetry parameters were analyzed among the three groups.
+Then some selected parameters were selected and analyzed using a binary logistic regression analysis for developing the new algorithm.
+The new algorithm was tested for the best fitting, accuracy, and diagnostic ability among the three groups and was validated in the suspect group.
+The new algorithm model [early glaucoma discrimination index (EGDI)] works well with only four variables; whole cpRNFLT, inferior quadrant cpRNFLT, inferotemporal clock hour (CH) cpRNFLT, and absolute inter-eye inferior quadrants asymmetry.
+The highest area under the curve (AUC) obtained from the EGDI among the three groups was 0.854.
+The validation analysis in the suspect group revealed a higher diagnostic ability in discrimination of early glaucoma with AUC of 0.989 (0.976-1.003).
+The EGDI showed better diagnostic ability for diagnosis of glaucoma in the pre-perimetric stage.
+The new OCT algorithm is simple and can be run in any SD-OCT device without dependence on normative data.
+Safwat H, Nassar E, Rashwan A. Early Glaucoma Discrimination Index.

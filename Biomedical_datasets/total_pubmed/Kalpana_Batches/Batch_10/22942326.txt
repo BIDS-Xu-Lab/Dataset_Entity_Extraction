@@ -1,0 +1,16 @@
+To determine the efficacy and safety of neuromodulators for pain management in patients with inflammatory arthritis.
+A Cochrane systematic review was performed as part of the 3e Initiative on pain management in inflammatory arthritis.
+We searched Medline, Embase, and Cochrane Central for studies to November 2010, and American College of Rheumatology/European League Against Rheumatism meeting abstracts published in 2008-2009.
+Studies were included if they were randomized or quasirandomized controlled trials that compared any neuromodulator (excluding cannabis) to another therapy (active or placebo, including nonpharmacological therapies) for pain in patients with RA, psoriatic arthritis, ankylosing spondylitis, or spondyloarthritis.
+Primary outcomes of interest were patient-reported pain relief of 30% or greater and withdrawals due to adverse events.
+Two authors independently extracted data and assessed methodological quality.
+A risk of bias assessment was performed using the methods recommended by the Cochrane Collaboration.
+Three trials, all in RA and all at high risk of bias, were included in this review.
+Two placebo-controlled trials evaluated nefopam (52 participants) and one placebo-controlled trial evaluated topical capsaicin 0.025% (31 participants).
+Pooled analysis showed a significant reduction in pain levels favoring nefopam over placebo after 2 weeks [weighted mean difference -21.2, 95% CI -35.6 to -6.7;
+number needed to treat (NNT) 2, 95% CI 1.4 to 9.5].
+However, nefopam was associated with significantly more adverse events (RR 4.1, 95% CI 1.6 to 10.7; number needed to harm 9, 95% CI 2 to 367), predominantly nausea and sweating.
+In one trial, capsaicin reduced pain more than placebo at 1 and 2 weeks (MD -23.8, 95% CI -44.8 to -2.8; NNT 3, 95% CI 2-47, and -34.4, 95% CI -54.7 to -14.14; NNT 2, 95% CI 1.4 to 6, respectively).
+Of those who received capsaicin, 44% developed burning at the site of application and 2% withdrew as a result.
+Based on 3 small trials, which were all at high risk of bias, there is weak evidence that nefopam and capsaicin are superior to placebo in reducing pain in patients with RA, but both are associated with a significant side effect profile.
+There are no available data for other types of IA or for newer agents such as gabapentin or pregabalin.

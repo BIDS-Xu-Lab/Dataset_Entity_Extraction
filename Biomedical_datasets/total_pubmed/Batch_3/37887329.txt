@@ -1,0 +1,10 @@
+Multiple sclerosis (MS) is a chronic inflammatory disease of the central nervous system that presents a largely unknown etiopathology.
+The presence of reactive astrocytes in MS lesions has been described for a long time; however, the role that these cells play in the pathophysiology of MS is still not fully understood.
+Recently, we used an MS animal model to perform high-throughput sequencing of astrocytes' transcriptome during disease progression.
+Our data show that astrocytes isolated from the cerebellum (a brain region typically affected in MS) showed a strong alteration in the genes that encode for proteins related to several metabolic pathways.
+Specifically, we found a significant increase in glycogen degradation, glycolytic, and TCA cycle enzymes.
+Together with these alterations, we detected an upregulation of genes that characterize "astrocyte reactivity".
+Additionally, at each disease time point we also reconstructed the morphology of cerebellum astrocytes in non-induced controls and in EAE animals, near lesion regions and in the normal-appearing white mater (NAWM).
+We found that near lesions, astrocytes presented increased length and complexity compared to control astrocytes, while no significant alterations were observed in the NAWM.
+How these metabolic alterations are linked with disease progression is yet to be uncovered.
+Herein, we bring to the literature the hypothesis of performing metabolic reprogramming as a novel therapeutic approach in MS.

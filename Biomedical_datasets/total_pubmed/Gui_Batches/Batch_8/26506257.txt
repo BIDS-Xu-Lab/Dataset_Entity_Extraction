@@ -1,0 +1,7 @@
+The aim of this study is to compare the characteristics of stem cells derived from human exfoliated deciduous teeth (SHED) from cryopreserved intact deciduous teeth with those of fresh SHED.
+In total, 20 exfoliated deciduous teeth were randomly divided into a fresh group (f-SHED; n = 11) and cryopreserved group (c-SHED; n = 9; stored for 1-8 months).
+Following thawing and separation of the pulp, the SHED cells were cultured, and the characteristics as mesenchymal stem cells were investigated using proliferation assays, cell-cycle analysis, colony-forming unit-fibroblast (CFU-F) assays, and flow cytometry analyses.
+Furthermore, differentiation into adipogenic and osteogenic lineages was investigated in vitro as well as in vivo via transplantation in mice.
+We found no significant differences between the two groups in the proliferation analyses, in the expression of mesenchymal stem cell markers, or in the adipogenic and osteogenic differentiation in vitro (p < 0.05).
+Furthermore, the in vivo transplantation results showed no significant differences in the quantity of bone tissue that formed or in histochemistry performance (p < 0.05).
+In conclusion, cryopreservation of intact exfoliated deciduous teeth appears to be a useful method for preserving SHED.

@@ -1,0 +1,16 @@
+Psychometric studies with this confrontation- naming test have not been reported in Spanish speakers.
+To study the internal consistency (N = 304), test-retest (N = 33) and inter-scorer (N = 37) reliability on healthy subjects.
+To study the concurrent validity (preliminary data) in 46 patients with unilateral brain lesions (left: 18, right: 28) including healthy subjects (N = 101), and in 28 patients referred for suspected dementia.
+the test was based initially on the nouns used by Oldfield and Wingfield in English.
+Data were obtained from consecutive patients and healthy volunteers.
+Lateral lesions were confirmed by neuroimages and surgery.
+The three groups of the validity study with lateral lesions were matched by gender, age, education and manual preference.
+Both groups of the dementia validity study were matched by gender, age, education and presence of vascular lesion.
+Patients who scored < 24 points in the mini- mental test and>9 points in the Blessed behavioral rating scale were operationally defined as patients with dementia (N=15).
+For reliability studies: Cronbach's alpha, Pearson and intraclass correlation coefficients were used.
+Differences between scorers and between tests were analyzed by dependent sample Student's t tests.
+For the validity study with lateral lesions, ANOVA was employed.
+For the dementia validity study: independent sample Student's t test was used.
+All reliability coefficients were > 0.82 without differences in the t tests between scorers and tests.
+Validity was verified by the significant differences obtained between all the pairs of groups analyzed.
+The test demonstrated a suitable validity and reliability.

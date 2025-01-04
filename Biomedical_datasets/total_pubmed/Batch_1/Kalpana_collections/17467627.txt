@@ -1,0 +1,12 @@
+Recent reports suggest that the CartoMerge system is useful for guiding human posterior left atrial (PLA) endocardial ablation.
+To assess the accuracy of the CartoMerge system during PLA ablation.
+Sixteen patients undergoing PLA catheter ablation were studied.
+In each patient, registration of preoperative computed tomographic (CT) and intraoperative electroanatomic left atrial images was performed to create CartoMerge images.
+Encircling of right and left pulmonary venous vestibules with ablation points was then performed guided solely by intracardiac echocardiography, with point locations saved on a CartoMerge image to which the operator was blinded.
+The accuracy of the CartoMerge image was then assessed by measuring the distance from the location of each ablation point on the image to its actual anatomic location.
+In five patients, accuracy of registration of each of three left atrial CT images (just prior to mitral valve opening, at end-diastasis, at end-atrial contraction) with the electroanatomic image was compared.
+In two patients, accuracy of registration using left atrial image data alone was compared with that which used both left atrial and thoracic aorta image data.
+In each patient, inaccuracy of the CartoMerge image was apparent, the magnitude of which was similar for right- and left-vestibule ablation points.
+Accuracy was significantly improved when the end-atrial contraction CT image was used for registration.
+The inclusion of thoracic aorta image data did not improve accuracy.
+Inaccuracy may be reduced by using CT and electroanatomic images obtained at the same point in the atrial mechanical cycle.

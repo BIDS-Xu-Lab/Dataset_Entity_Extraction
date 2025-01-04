@@ -1,0 +1,9 @@
+Omega-3 polyunsaturated fatty acids (omega3-PUFAs) from fish oil reduce the risk of sudden death presumably by preventing life-threatening arrhythmias.
+Acutely administered omega3-PUFAs modulate the activity of several cardiac ion channels, but the chronic effects of a diet enriched with fish oil leading to omega3-PUFA-incorporation into the sarcolemma on membrane currents are unknown.
+Pigs received a diet either rich in omega3-PUFAs or in omega9-fatty acids for 8 weeks.
+Ventricular myocytes (VMs) were isolated and used for patch-clamp studies.
+omega3-VMs contained higher amounts of omega3-PUFAs and had a shorter action potential (AP) with a more negative plateau than control VM.
+In omega3 VMs, L-type Ca(2+) current (I(Ca,L)) and Na(+)-Ca(2+) exchange current (I(NCX)) were reduced by approximately 20% and 60%, respectively, and inward rectifier K(+) current (I(K1)) and slow delayed rectifier K(+) current (I(Ks)) were increased by approximately 50% and 70%, respectively, compared to control.
+Densities of rapid delayed rectifier K(+) current, Ca(2+)-activated Cl(-) current, and Na(+) current (I(Na)) were unchanged, although voltage-dependence of I(Na) inactivation was more negative in omega3 VMs.
+A fish oil diet increases omega3-PUFA content in the ventricular sarcolemma, decreases I(Ca,L) and I(NCX), and increases I(K1) and I(Ks), resulting in AP shortening.
+Incorporation of omega3-PUFAs in the sarcolemma may have consequences for arrhythmias independent of circulating omega3-PUFAs.

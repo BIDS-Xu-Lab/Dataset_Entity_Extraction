@@ -1,0 +1,10 @@
+Meconium aspiration syndrome (MAS) is a major cause of respiratory morbidity and mortality in term infants, and occasionally causes serious respiratory disturbance.
+Viscous meconium debris in the trachea interferes with ventilation, and chest physiotherapy (CPT) is effective for removing secretions from the trachea.
+The effects of conventional exogenous diluted surfactant lavage combined with CPT were evaluated in a MAS animal model in a randomized controlled study.
+Twenty-three MAS model adult Japanese rabbits were randomized into three groups and artificially ventilated for 3 h with the following treatments: group 1, suction only (n = 7); group 2, surfactant lavage (n = 7); group 3, surfactant lavage with CPT (n = 7).
+Surfactant lavage was performed by infusing 2 mL/kg of diluted Surfactant TA (Surfacten; 6 mg/mL) into the trachea over approximately 5 s, then performing gentle manual bagging six times, and aspirating the tracheal contents using a suction catheter.
+This procedure was performed four times in four different positions (total, 8 mL/kg).
+In group 3, CPT (squeezing) was performed during expiration of manual bagging in surfactant lavage.
+In group 3, PaO(2) improved significantly (P < 0.05) at all time points compared with those in the other groups.
+Oxygenation index (OI) in group 3 improved significantly (P < 0.05) at all time points except after 0.5 h compared with that in group 1, and at 2, 2.5, and 3 h compared with that in group 2.
+A combination of exogenous surfactant lavage and CPT (squeezing) improves respiratory disturbance in MAS.

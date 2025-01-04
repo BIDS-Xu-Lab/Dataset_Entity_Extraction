@@ -1,0 +1,9 @@
+Few studies have directly compared fricative development across languages.
+The current study examined voiceless fricative production in Icelandic- versus English-speaking preschoolers with protracted phonological development (PPD).
+Expected were: a low fricative match (with age effect), highest match levels for /f/ and non-word-initial fricatives, developmentally early mismatch (error) patterns including deletion, multiple feature category mismatches or stops, and developmentally later patterns affecting only one feature category.
+Crosslinguistic differences in phonetic inventories were predicted to provide different options for mismatch patterns, e.g. affricates in English, [+spread glottis] segments in Icelandic.
+For each language, native speakers audio-recorded and transcribed single-word speech samples for thirteen 3-year-olds and ten 4-year-olds.
+Predictions regarding mismatches were generally confirmed.
+Accuracy data were partially confirmed, /f/ having a lower match than /s/ overall for the Icelandic children.
+Other results reflected language or group differences.
+The data provide confirmation that phonological acquisition reflects crosslinguistic, language-specific and child-specific influences.

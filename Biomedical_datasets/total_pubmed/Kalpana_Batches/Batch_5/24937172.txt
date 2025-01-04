@@ -1,0 +1,11 @@
+Although underlying mechanisms have been described to account for the association between prediabetes and diabetes with breast cancer, reported results have been inconsistent.
+We undertook this study to determine whether prediabetes and diabetes are risk factors for breast cancer in Mexican women with no family history of breast cancer in the mother, daughters, or sisters.
+A case-control study was carried out during 2011-2013.
+"Case" referred to patients with a histopathological diagnosis of breast cancer (incident and primary cases) (n = 240); "controls" were those with a BI-RADS 1 or 2 mammography result (n = 406).
+Categorization of prediabetes and diabetes was based on self-reporting or fasting glucose and glycated hemoglobin blood sampling results.
+Reproductive and sociodemographic data were collected by interview.
+Odds ratios (ORs) and 95% confidence intervals (CI) were calculated using multivariate unconditional binary logistic regression analysis.
+Prediabetes increased the risk of breast cancer in postmenopausal women (adjusted OR 2.08, 95% CI 1.10-3.96) as did diabetes (adjusted OR 2.85, 95% CI 1.55-5.26).
+A history of diabetes preceding breast cancer by ≥7 years and <7 years were both associated with an increased risk for breast cancer (adjusted OR 2.80, 95% CI 1.40-5.60 and 3.00, 95% CI 1.50-5.90, respectively).
+This is the first study in Mexico evaluating prediabetes and diabetes as breast cancer risk factors in women with no first-degree relatives with breast cancer.
+Our findings suggest that women with prediabetes and diabetes should be considered a more vulnerable population for early breast cancer detection.

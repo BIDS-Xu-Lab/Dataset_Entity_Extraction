@@ -1,0 +1,4 @@
+Congestion is the most common reason for admissions and readmissions for heart failure (HF).
+The vast majority of hospitalized HF patients appear to respond readily to loop diuretics, but available data suggest that a significant proportion are being discharged with persistent evidence of congestion.
+Although novel therapies targeting congestion should continue to be developed, currently available agents may be utilized more optimally to facilitate complete decongestion.
+The combination of loop diuretics, natriuretic doses of mineralocorticoid receptor antagonists and vasopressin antagonists represents a regimen of currently available therapies that affects early and persistent decongestion, while limiting the associated risks of electrolyte disturbances, hemodynamic fluctuations, renal dysfunction and mortality.

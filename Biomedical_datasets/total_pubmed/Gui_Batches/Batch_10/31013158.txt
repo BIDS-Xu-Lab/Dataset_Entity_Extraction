@@ -1,0 +1,11 @@
+The aim of this study was to investigate the prognostic value of metabolic characteristics of metastatic lymph node (LN) using pretreatment F-18 fluorodeoxyglucose (FDG) positron emission tomography/computed tomography (PET/CT) for patients with papillary thyroid carcinoma (PTC) and metastatic lateral LN (N1b).
+Ninety-six PTC patients (female:male = 72:24; median age, 44.5 years) with pathologic N1b who underwent pretreatment FDG PET/CT, total thyroidectomy, and radioactive iodine ablation were retrospectively reviewed.
+To predict responses to initial therapy and recurrence, clinicopathologic factors and metabolic parameters were reviewed, such as sex, age, tumor size, extranodal extension, number and ratio of metastatic LNs, serum thyroglobulin, and maximum standardized uptake value (SUVmax).
+Among the 96 PTC patients, 81 (84.4%) were classified into the acceptable response (58 excellent; 23 indeterminate) and 15 (15.6%) into the incomplete response (8 biochemical incomplete; 7 structural incomplete) by the 2015 American Thyroid Association management guideline for differentiated thyroid carcinoma.
+The multivariate analysis showed that SUVmax of N1b (P = .018), pre-ablation stimulated thyroglobulin level (P = .006), and the ratio of metastatic LNs (P = .018) were related to incomplete response.
+The cutoff value of each variable was determined by receiver operating characteristic analysis.
+patients experienced recurrences (median follow-up: 50 months).
+The Kaplan-Meier analysis revealed that SUVmax of N1b (cutoff value: 2.3; P = .025) and ratio of metastatic LNs (cutoff value: 0.218; P = .037) were significant prognostic factors for recurrence.
+High SUVmax of N1b cervical LN on pretreatment FDG PET/CT could predict incomplete responses to initial therapy and recurrence in patients with N1b PTC.
+ATA = American Thyroid Association; DTC = well-differentiated thyroid carcinoma; FDG = F-18 fluorodeoxyglucose; IQR = interquartile range; LN = lymph node; N1b = metastatic lateral cervical lymph node; PET/CT = positron emission tomography/computed tomography; PTC = papillary thyroid carcinoma; RAI = radioactive iodine; ROC = receiver operating characteristic;
+SUVmax = maximum standardized uptake value; Tg = thyroglobulin; USG = ultrasonography.

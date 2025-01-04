@@ -1,0 +1,19 @@
+Postoperative nutrition support is an essential component of management in upper gastrointestinal (UGI) cancer resection, however there is limited knowledge of current clinical practice.
+This study aimed to describe the postoperative nutrition support received by patients undergoing UGI cancer resections, assess adherence with ESPEN surgical guideline recommendations, and to investigate differences between oesophageal, gastric and pancreatic surgeries.
+The secondary aim was to explore the association of adherence with ESPEN guidelines and provision of nutrition support, with surgical complications and length of stay (LOS).
+The NOURISH point prevalence study was conducted between September 2019-June 2020 across 27 Australian tertiary centres.
+Malnutrition was diagnosed using subjective global assessment.
+Data on postoperative diet codes, prescription of nutrition support (oral (ONS), enteral (EN), parenteral (PN)) and nutritional adequacy were collected by dietitians for the first 10 days of admission.
+Fisher's exact test was used to determine differences in nutritional management and adherence to ESPEN guidelines between surgery types.
+Multivariate regression analysed associations with surgical outcomes.
+Two-hundred participants were included (42% pancreatic, 33% oesophageal, 25% gastric surgery).
+Overall, only 34.9% (n = 53) met the guideline recommendations that were applicable to them.
+Early oral intake of fluids or solids (within 24 h post surgery) was initiated for 23.5% (n = 47), whilst ONS/EN/PN was initiated for 49.5% (n = 99).
+Only 25% of pancreatic surgeries had nutrition support initiated on the first postoperative day compared to 86.4% of oesophageal and 42.0% of gastric surgeries (p < 0.001).
+In those who were 'nil by mouth', EN/PN were commenced within 24 h for 51.0% (n = 78), with 18.5% and 45.2% for pancreatic and gastric surgeries compared to 86.0% in oesophageal surgeries (p < 0.001).
+In malnourished patients, 35.7% (n = 30) commenced EN within 24 h, with 11.1% and 31.8% for pancreatic and gastric compared to 73.1% in oesophageal surgeries (p < 0.001).
+For patients meeting <60% energy/protein requirements for ≥7 days, only 14.8% (n = 9) received EN/PN, with 2.5% and 16.7% of pancreatic and gastric compared to 75.0% of oesophageal surgeries (p < 0.001).
+The number of days spent 'nil by mouth' or 'clear fluids' without EN/PN, as well as number of days with <60% estimated requirements met were independently associated with increased LOS and complications.
+Overall, there was poor adherence to the majority of assessed ESPEN guidelines, and care for patients undergoing pancreatic and gastric surgeries was less compliant than oesophagectomy.
+Poor nutritional adequacy was associated with increased LOS and complications.
+There is a clear need for knowledge translation and implementation studies to increase adherence to evidence-based recommendations in the Australian setting supported by an understanding of barriers and enablers to optimal postoperative nutrition management.

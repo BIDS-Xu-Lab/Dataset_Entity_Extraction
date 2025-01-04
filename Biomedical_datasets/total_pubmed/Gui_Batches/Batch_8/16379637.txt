@@ -1,0 +1,9 @@
+To determine effects on production and risk of removal related to Mycobacterium avium subsp paratuberculosis (MAP) infection at the individual animal level in dairy cattle.
+7,879 dairy cows from 38 herds in 16 states.
+A subset of dairy cattle operations that participated in the National Animal Health Monitoring System Dairy 2002 study was evaluated via a serum ELISA for antibodies against MAP and categorized according to ELISA score.
+Dairy Herd Improvement Association records were obtained to collect current and historical lactation data and removal (ie, culling) information.
+Production variables were evaluated on the basis of serum ELISA category.
+Cows with strong positive results had mature equivalent (ME) 305-day milk production, ME 305-day maximum milk production, and total lifetime milk production that were significantly lower than cows in other categories.
+No differences were observed for ME 305-day fat and protein percentages, age, lactation, and lactation mean linear somatic cell count score between cows with strong positive results and those with negative results.
+After accounting for lactation number and relative herd-level milk production, cows with strong positive results were significantly more likely to have been removed by 1 year after testing.
+Without management changes designed to reduce the farm-level prevalence of MAP infection, paratuberculosis will continue to reduce farm income by decreasing milk production and potentially increasing premature removal from the herd.

@@ -1,0 +1,14 @@
+The involvement of subcortical deep gray matter and cortical thinning associated with mild Parkinson disease remains poorly understood.
+We assessed cortical thickness and subcortical volumes in patients with Parkinson disease without dementia and evaluated their associations with cognitive dysfunction.
+The study included 90 patients with mild Parkinson disease without dementia.
+Neuropsychological assessments classified the sample into patients with mild cognitive impairment (n = 25) and patients without cognitive impairment (n = 65).
+Volumetric data for subcortical structures were obtained by using the FMRIB Integrated Registration and Segmentation Tool while whole-brain, gray and white matter volumes were estimated by using Structural Image Evaluation, with Normalization of Atrophy.
+Vertex-based shape analyses were performed to investigate shape differences in subcortical structures.
+Vertex-wise group differences in cortical thickness were also assessed.
+Volumetric comparisons between Parkinson disease with mild cognitive impairment and Parkinson disease with no cognitive impairment were performed by using ANCOVA.
+Associations of subcortical structures with both cognitive function and disease severity were assessed by using linear regression models.
+Compared with Parkinson disease with no cognitive impairment, Parkinson disease with mild cognitive impairment demonstrated reduced volumes of the thalamus (P = .03) and the nucleus accumbens (P = .04).
+Significant associations were found for the nucleus accumbens and putamen with performances on the attention/working memory domains (P < .05) and nucleus accumbens and language domains (P = .04).
+The 2 groups did not differ in measures of subcortical shape or in cortical thickness.
+Patients with Parkinson disease with mild cognitive impairment demonstrated reduced subcortical volumes, which were associated with cognitive deficits.
+The thalamus, nucleus accumbens, and putamen may serve as potential biomarkers for Parkinson disease-mild cognitive impairment.

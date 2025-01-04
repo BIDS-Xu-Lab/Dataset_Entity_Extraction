@@ -1,0 +1,6 @@
+In this study, we analyzed the species in a model electrolyte consisting of a lithium salt, lithium bis(trifluoromethane sulfone)imide (LiTFSI), and a widely used neutral solvent propylene carbonate (PC) with excess infrared (IR) spectroscopy, ab initio molecular dynamics simulations (AIMD), and quantum chemical calculations.
+Complexing species including the charged ones [Li+(PC)4, TFSI-, TFSI-(PC), TFSI-(PC)2, and Li(TFSI)2-] are identified in the electrolyte.
+Quantum chemical calculations show strong Li+···O(PC) interaction, which suggests that Li+ would transport in the mode of solvation-carriage.
+However, the interaction energy of each hydrogen bond in TFSI-(PC) is very weak, suggesting that TFSI- would transport in hopping mode.
+In addition, the concentration dependences of the relative population of the species were also derived, providing a scenario for the dissolving process of the salt in PC.
+These in-depth studies provide physical insights into the structural and interactive properties of the electrolyte of lithium-ion batteries.

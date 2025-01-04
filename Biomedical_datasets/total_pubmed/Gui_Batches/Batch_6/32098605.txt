@@ -1,0 +1,8 @@
+Background: The aim of the study was to investigate changes in self-rated health (SRH) between different age groups and sexes over a 20-year period.
+Methods: Data were retrieved from the large longitudinal Health Survey of North Trøndelag, Norway, which includes data collected from more than 190,000 participants aged 20-70+ years between the years 1984 and 2008.
+Data were analysed using logistic regression and adjusted for sex.
+Results: From 1984 to 2008, the odds of scoring higher on SRH decreased by 46% in the youngest age group (20-29 years) and increased by approximately 35% in the middle-aged and older age groups (40-70+ years).
+When considering sex differences, women in most age groups scored lower than the men on their SRH.
+Conclusions: Our finding suggest a trending shift in SRH, with a reduction in the youngest age group (20-29 years) and an increase in the middle-aged and older age groups (40-70+ years).
+Despite the sex differences being small, our data indicate that in most age groups, women tend to score lower than men on their SRH.
+Future studies should focus on these trends to understand better the mechanisms underlying these changes in SRH and to follow future trends to see if the trend is reinforced or diminished.

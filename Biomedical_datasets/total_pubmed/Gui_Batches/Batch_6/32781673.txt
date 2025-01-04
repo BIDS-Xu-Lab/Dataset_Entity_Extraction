@@ -1,0 +1,9 @@
+Reports investigating the relationship between sarcopenic obesity and activities of daily living in older patients with stroke were limited.
+This study aimed to examine the prevalence of sarcopenic obesity and its association with activities of daily living in older post-stroke patients in convalescent rehabilitation wards.
+This study was performed in older post-stroke patients admitted to convalescent rehabilitation wards between January 2017 and March 2019.
+Sarcopenia was diagnosed based on the skeletal muscle mass index and hand grip strength according to the criteria of the 2019 Asian Working Group for Sarcopenia.
+Obesity was diagnosed according to the body fat percentage; ≥27% in men, ≥38% in women.
+The primary outcome was the Functional Independence Measure (FIM) score upon admission, which was analyzed using multiple linear regression.
+In total, 376 participants (women 44%; mean age 77.5 years) were analyzed and classified as normal (22%), simple obesity (17%), sarcopenia without obesity (32%), and sarcopenic obesity (28%).
+The presence of sarcopenic obesity was independently associated with the FIM score (95% CI, -16.157 to -5.353), whereas simple obesity and sarcopenia without obesity were not.
+In conclusion, sarcopenic obesity was independently associated with lower activities of daily living capability in older patients with stroke.

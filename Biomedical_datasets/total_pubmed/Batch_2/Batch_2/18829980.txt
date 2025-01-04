@@ -1,0 +1,11 @@
+Emerging evidence suggests that highly treatment-resistant tumour-initiating cells (TICs) play a central role in the pathogenesis of pancreatic cancer.
+Tumour necrosis factor-related apoptosis-inducing ligand (TRAIL) is considered to be a novel anticancer agent; however, recent studies have shown that many pancreatic cancer cells are resistant to apoptosis induction by TRAIL due to TRAIL-activated nuclear factor-kappaB (NF-kappaB) signalling.
+Several chemopreventive agents are able to inhibit NF-kappaB, and favourable results have been obtained--for example, for the broccoli compound sulforaphane-in preventing metastasis in clinical studies.
+The aim of the study was to identify TICs in pancreatic carcinoma for analysis of resistance mechanisms and for definition of sensitising agents.
+TICs were defined by expression patterns of a CD44(+)/CD24(-), CD44(+)/CD24(+) or CD44(+)/CD133(+) phenotype and correlation to growth in immunodeficient mice, differentiation grade, clonogenic growth, sphere formation, aldehyde dehydrogenase (ALDH) activity and therapy resistance.
+Mechanistically, specific binding of transcriptionally active cRel-containing NF-kappaB complexes in TICs was observed.
+Sulforaphane prevented NF-kappaB binding, downregulated apoptosis inhibitors and induced apoptosis, together with prevention of clonogenicity.
+Gemcitabine, the chemopreventive agents resveratrol and wogonin, and the death ligand TRAIL were less effective.
+In a xenograft model, sulforaphane strongly blocked tumour growth and angiogenesis, while combination with TRAIL had an additive effect without obvious cytotoxicity in normal cells.
+Freshly isolated patient tumour cells expressing markers for TICs could be sensitised by sulforaphane for TRAIL-induced cytotoxicity.
+The data provide new insights into resistance mechanisms of TICs and suggest the combination of sulforaphane with TRAIL as a promising strategy for targeting of pancreatic TICs.

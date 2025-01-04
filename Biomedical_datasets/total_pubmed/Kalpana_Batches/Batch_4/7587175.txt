@@ -1,0 +1,7 @@
+Many aspects of medical care can now be delivered at a distance using telemedicine technology.
+Rapid video and computer-based communication of medical information makes it possible for a physician to "examine" a patient located in another city, to view highly detailed medical images, to consult with distant subspecialists, or to supervise complex medical procedures.
+This same technology can bring scattered health-care workers together for joint teaching conferences.
+The Yale Telemedicine Center has initiated a number of such programs ranging from providing consultations in real time to physicians in Saudi Arabia, to interpreting medical images across town or across the state.
+Telemedicine will become a powerful tool for managed health-care organizations which are responsible for the medical needs of widely distributed patients in a vertically integrated health-care delivery system.
+This paper reviews the evolution of telemedicine, its technical fundamentals, specific medical applications, and the activities of the Yale Telemedicine Center.
+Evolving uses for telemedicine in Connecticut are described.

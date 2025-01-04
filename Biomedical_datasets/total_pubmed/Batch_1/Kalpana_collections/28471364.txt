@@ -1,0 +1,7 @@
+The laccase from Steccherinum murashkinskyi is a member of the large family of multicopper oxidases that catalyze the oxidation of a wide range of organic and inorganic substrates, accompanied by the reduction of dioxygen to water.
+The reducing properties of X-ray radiation and the high quality of the laccase crystals allow the study of the catalytic reduction of dioxygen to water directly in a crystal.
+A series of diffraction data sets with increasing absorbed radiation dose were collected from a single crystal of Steccherinum murashkinskyi laccase at 1.35 Å resolution.
+Changes in the active-site structure associated with the reduction of molecular oxygen to water on increasing the absorbed dose of ionizing radiation were detected.
+The structures in the series are mixtures of different states of the enzyme-substrate complex.
+Nevertheless, it was possible to interpret these structures as complexes of various oxygen ligands with copper ions in different oxidation states.
+The results allowed the mechanism of oxygen reduction catalyzed by laccases to be refined.

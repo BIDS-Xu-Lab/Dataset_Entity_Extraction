@@ -1,0 +1,7 @@
+Malaria and HIV are among the most important global health problems of our time and together are responsible for approximately 3 million deaths annually.
+These two diseases overlap in many regions of the world including sub-Saharan Africa, Southeast Asia and South America, leading to a higher risk of co-infection.
+In this study, we generated and characterized hybrid molecules to target Plasmodium falciparum and HIV simultaneously for a potential HIV/malaria combination therapy.
+Hybrid molecules were synthesized by the covalent fusion of azidothymidine (AZT) with dihydroartemisinin (DHA), a tetraoxane or a 4-aminoquinoline derivative; and the small library was tested for antiviral and antimalarial activity.
+Our data suggests that compound 7 is the most potent molecule in vitro, with antiplasmodial activity comparable to that of DHA (IC(50)=26 nM, SI>3000), a moderate activity against HIV (IC(50)=2.9 μM; SI>35) and not toxic to HeLa cells at concentrations used in the assay (CC(50)>100 μM).
+Pharmacokinetics studies further revealed that compound 7 is metabolically unstable and is cleaved via O-dealkylation.
+These studies account for the lack of in vivo efficacy of compound 7 against the CQ-sensitive Plasmodium berghei N strain in mice, when administered orally at 20mg/kg.

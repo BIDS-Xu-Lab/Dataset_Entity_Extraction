@@ -1,0 +1,5 @@
+The structural organization of excitatory inputs supporting spike-timing-dependent plasticity (STDP) remains unknown.
+We performed a spine STDP protocol using two-photon (2P) glutamate uncaging (pre) paired with postsynaptic spikes (post) in layer 5 pyramidal neurons from juvenile mice.
+Here we report that pre-post pairings that trigger timing-dependent LTP (t-LTP) produce shrinkage of the activated spine neck and increase in synaptic strength; and post-pre pairings that trigger timing-dependent LTD (t-LTD) decrease synaptic strength without affecting spine shape.
+Furthermore, the induction of t-LTP with 2P glutamate uncaging in clustered spines (<5 μm apart) enhances LTP through a NMDA receptor-mediated spine calcium accumulation and actin polymerization-dependent neck shrinkage, whereas t-LTD was dependent on NMDA receptors and disrupted by the activation of clustered spines but recovered when separated by >40 μm.
+These results indicate that synaptic cooperativity disrupts t-LTD and extends the temporal window for the induction of t-LTP, leading to STDP only encompassing LTP.

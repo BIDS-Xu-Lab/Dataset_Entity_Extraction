@@ -1,0 +1,8 @@
+Full ceramic bearings are considered the first step toward full ceramic, oil-free engines in the future.
+No research on full ceramic bearing fault diagnostics using acoustic emission (AE) sensors has been reported.
+Unlike their steel counterparts, signal processing methods to extract effective AE fault characteristic features and fault diagnostic systems for full ceramic bearings have not been developed.
+In this paper, a data mining based full ceramic bearing diagnostic system using AE based condition indicators (CIs) is presented.
+The system utilizes a new signal processing method based on Hilbert Huang transform to extract AE fault features for the computation of CIs.
+These CIs are used to build a data mining based fault classifier using a  k-nearest neighbor algorithm.
+Seeded fault tests on full ceramic bearing outer race, inner race, balls, and cage are conducted on a bearing diagnostic test rig and AE burst data are collected.
+The effectiveness of the developed fault diagnostic system is validated using real full ceramic bearing seeded fault test data.

@@ -1,0 +1,18 @@
+Disorders of cholesterol and lipoprotein metabolism are at the heart of atherosclerosis and coronary artery disease (CAD).
+CAD, however, is a metabolic disorder that involves a complex interaction between genetic susceptibility and environmental conditions.
+Despite considerable success in the treatment of hypercholesterolemia, atherosclerosis remains the leading cause of death in most Western countries.
+Although cholesterol-lowering trials have revealed a 25% to 30% reduction in clinical events, most patients continue to have events even when treated successfully with cholesterol-lowering medications (Fig. 1).
+This less-than-optimal result is partly because atherosclerosis is a multifactorial disease.
+Although disorders of lipoprotein metabolism are found in more than 80% of patients with CAD, these disorders are very heterogeneous, and single-drug therapy aimed at one disorder should not be expected to improve the disease status in most patients.
+Metabolic treatment still requires identification and treatment of patients with high cholesterol levels, but the focus has shifted to identifying high-risk patients in groups previously thought to be low risk, or to identifying disorders coexistent with high cholesterol levels that are not corrected by standard cholesterol-lowering medications (Table 1).
+The ability to detect high-risk CAD traits, which are often inherited, and to predict response to treatment has substantially improved in the past few years.
+These improvements allow identification of metabolic subgroups of patients, which can alter risk prediction and response to specific treatments.
+Sophisticated laboratory methods permit physicians to apply this knowledge to patient care and to enter a new era of CAD risk factor detection and treatment.
+These advances allow for a more scientific approach than did the previously standard epidemiologic risk factors and routine blood lipid profiles.
+The current state-of-the-art method of diagnosing and treating lipoprotein disorders has progressed beyond the standard "lipid profile," which includes total, low-density lipoprotein (LDL), and high-density lipoprotein (HDL) cholesterol along with fasting triglyceride levels.
+Incorporating aspects of the atherogenic lipid profile (ALP), LDL subclass distribution, HDL subclass distribution, apo E isoforms, and lipoprotein (a) provides the interested clinician with the tools to create a more detailed and accurate diagnosis of lipoprotein disorders.
+Sophisticated laboratory tests are available to clinicians through technology transfer programs, as exemplified by the Lawrence Berkeley National Laboratory/Berkeley HeartLab collaboration, and allow clinicians access to research-quality laboratory tools.
+This has significant clinical relevance because the presence of these disorders guides treatment specific to the disorder(s).
+Appropriate treatment is more beneficial in subgroups exhibiting the disorder that the therapy is most likely to correct.
+A single drug or lifestyle therapy is no longer appropriate for all patients.
+The treatment must match the disorder.

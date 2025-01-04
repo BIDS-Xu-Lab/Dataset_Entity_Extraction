@@ -1,0 +1,12 @@
+About 20-30% of patients with major depressive disorder (MDD) develop treatment-resistant depression (TRD) and finding new effective treatments for TRD has been a challenge.
+This study aimed to identify new possible pharmacological options for TRD.
+Genes in pathways included in predictive models of TRD in a previous whole exome sequence study were compared with those coding for targets of drugs in any phase of development, nutraceuticals, proteins and peptides from Drug repurposing Hub, Drug-Gene Interaction database and DrugBank database.
+We tested if known gene targets were enriched in TRD-associated genes by a hypergeometric test.
+Compounds enriched in TRD-associated genes after false-discovery rate (FDR) correction were annotated and compared with those showing enrichment in genes associated with MDD in the last Psychiatric Genomics Consortium genome-wide association study.
+Among a total of 15,475 compounds, 542 were enriched in TRD-associated genes (FDR p < .05).
+Significant results included drugs which are currently used in TRD (e.g. lithium and ketamine), confirming the rationale of this approach.
+Interesting molecules included modulators of inflammation, renin-angiotensin system, proliferator-activated receptor agonists, glycogen synthase kinase 3 beta inhibitors and the rho associated kinase inhibitor fasudil.
+Nutraceuticals, mostly antioxidant polyphenols, were also identified.
+Drugs showing enrichment for TRD-associated genes had a higher probability of enrichment for MDD-associated genes compared to those having no TRD-genes enrichment (p = 6.21e-55).
+This study suggested new potential treatments for TRD using a in silico approach.
+These analyses are exploratory only but can contribute to the identification of drugs to study in future clinical trials.

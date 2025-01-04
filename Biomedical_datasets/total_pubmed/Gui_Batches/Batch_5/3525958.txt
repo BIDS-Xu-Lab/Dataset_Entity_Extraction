@@ -1,0 +1,8 @@
+In F344 rats bearing transplantable 3-methylcholanthrene (CAS: 56-49-5)-induced sarcomas, plasma concentrations of immunoreactive insulin were decreased following the development of mild or severe anorexia.
+Plasma levels of immunoreactive glucagon and lactate were elevated in severely anorectic tumor-bearing (TB) rats, while plasma glucose concentrations remained normal.
+Both groups of TB rats exhibited decreased plasma levels of serine, glutamine, citrulline, and tryptophan and increased concentrations of alanine.
+Plasma levels of proline and phenylalanine were also elevated in the severely anorectic TB rats.
+In a second experiment, 7 daily treatments with insulin corrected the anorexia for 6 days and increased body weights of TB rats.
+Plasma concentrations of lactate and immunoreactive glucagon were decreased, and the abnormal plasma concentrations of glutamine, proline, analine, and phenylalanine were altered toward normal following the insulin treatments.
+Therefore, these data are consistent with insulin treatments benefiting the TB host by increasing feeding, increasing body weight, reducing tumor glycolysis and metabolism, reducing gluconeogenesis, and reducing host catabolism, while not stimulating tumor growth.
+Thus insulin therapy may have potential benefits in cancer treatment by shifting glucose metabolism toward the host and away from the tumor.

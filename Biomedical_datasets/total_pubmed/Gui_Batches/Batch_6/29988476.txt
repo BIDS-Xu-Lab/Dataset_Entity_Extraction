@@ -1,0 +1,15 @@
+Publications arguing against the null hypothesis significance testing (NHST) procedure and in favor of good statistical practices have increased.
+The most frequently mentioned alternatives to NHST are effect size statistics (ES), confidence intervals (CIs), and meta-analyses.
+A recent survey conducted in Spain found that academic psychologists have poor knowledge about effect size statistics, confidence intervals, and graphic displays for meta-analyses, which might lead to a misinterpretation of the results.
+In addition, it also found that, although the use of ES is becoming generalized, the same thing is not true for CIs.
+Finally, academics with greater knowledge about ES statistics presented a profile closer to good statistical practice and research design.
+Our main purpose was to analyze the extension of these results to a different geographical area through a replication study.
+Methods: For this purpose, we elaborated an on-line survey that included the same items as the original research, and we asked academic psychologists to indicate their level of knowledge about ES, their CIs, and meta-analyses, and how they use them.
+The sample consisted of 159 Italian academic psychologists (54.09% women, mean age of 47.65 years).
+The mean number of years in the position of professor was 12.90 (SD = 10.21).
+As in the original research, the results showed that, although the use of effect size estimates is becoming generalized, an under-reporting of CIs for ES persists.
+The most frequent ES statistics mentioned were Cohen's d and R2/η2, which can have outliers or show non-normality or violate statistical assumptions.
+In addition, academics showed poor knowledge about meta-analytic displays (e.g., forest plot and funnel plot) and quality checklists for studies.
+Finally, academics with higher-level knowledge about ES statistics seem to have a profile closer to good statistical practices.
+Conclusions: Changing statistical practice is not easy.
+This change requires statistical training programs for academics, both graduate and undergraduate.

@@ -1,0 +1,10 @@
+Oxidative stress status and morphological injuries in the brain of Wistar rats induced by repeated application of selected acetylcholinesterase reactivators - asoxime, obidoxime, K027, K048, K074, and K075 were evaluated.
+Each oxime in a dose of 0.1 of LD50/kg im was given 2x/week for 4 weeks.
+Markers of lipid peroxidation (malondialdehyde, MDA), and protein oxidation (advanced oxidation protein products, AOPP), as well as the activity of antioxidant enzymes (catalase, CAT, superoxide dismutase, SOD, glutathione reductase, GR, and glutathione peroxidase, GPx), were estimated in the brain tissue homogenates on day 35 of the study.
+Brain alterations were carefully quantified by semiquantitative grading scales - brain damage score (BDS).
+Oxidative stress parameters, MDA and AOPP were significantly highest in the asoxime-, obidoxime- and K075-treated groups (p < 0.001).
+The activity of SOD and CAT was significantly elevated in the obidoxime-, K048-, and K075-treated groups (p < 0.001).
+Besides, GR was markedly decreased in the obidoxime- and K074-treated groups (p < 0.01), while treatment with K048, K074 and K075 induced extremely high elevation in GPx levels (p ˂ 0.001).
+In the same groups of rats, brain alterations associated with polymorphonuclear cell infiltrate were significantly more severe than those observed in animals receiving only asoxime or K027 (p < 0.001).
+The presented results confirmed that treatment with different oximes significantly improved the oxidative status and attenuated signs of inflammation in rats' brains.
+Presented results, together with our previously published data can help to predict likely adverse systemic toxic effects, and target organ systems, which are crucial for establishing risk categories, as well as in dose selection of K-oximes as drug candidates.

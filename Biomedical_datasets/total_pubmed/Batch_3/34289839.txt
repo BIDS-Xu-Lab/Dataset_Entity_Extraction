@@ -1,0 +1,22 @@
+This paper compares the relationship between theoretically-driven mechanisms of change and clinical outcomes across two different interventions to improve oral hygiene of older adults participating in a group randomized trial.
+Six low-income senior residences were paired and randomized into two groups.
+The first received a face to face counseling intervention (AMI) and the second, a peer-facilitated health campaign (three oral health fairs).
+Both were based on Fishbein's Integrated Model.
+331 participants were recruited at baseline and 306 completed the post-assessment one month after intervention.
+Clinical outcomes were Gingival Index (GI) and Plaque score (PS), collected by calibrated dental hygienists.
+Surveys obtained data on patient background characteristics and ten mechanisms of change including oral health beliefs, attitudes, norms and behaviors.
+GLMM was used to assess the effects of time, intervention arm, participant characteristics, intervention mechanisms and differences between the two interventions over time in relation to outcomes.
+At baseline, both groups had similar background characteristics.
+Both groups improved significantly in outcomes.
+Overall GI scores changed from baseline mean of 0.38 (SD = .032) to .26 (SD = .025) and PS scores changed from baseline mean of 71.4 (SD = 18%) to 59.1% (SD = 21%).
+T-tests showed that fears of oral disease, oral health intentionality, oral health norms, worries about self-management of oral health, flossing frequency and sugar control improved significantly in both interventions from baseline to post intervention.
+Oral health self-efficacy, perceived risk of oral health problems, oral health locus of control and brushing frequency improved significantly only in the counseling intervention.
+GLMM models showed that the significant predictors of GI improvement were intentionality to perform oral hygiene, locus of control, and improvement in frequency of brushing and flossing in association with the counseling intervention.
+Predictors of PS improvement were worries about oral hygiene self-management and fear of oral diseases, in association with the counseling intervention.
+In the reduced final models, only oral health locus of control (predicting GI) and fears of oral diseases (predicting PS) were significant in association with the counseling intervention.
+Locus of control, a key concept in oral hygiene interventions including the IM was the main contributing mechanism for GI improvement.
+Fear, an emotional response, drove improvement in PS, reinforcing the importance of cognitive/emotional mechanisms in oral hygiene interventions.
+Though both groups improved in outcomes, GI and PS outcomes improved more in response to the counseling intervention than the campaign.
+The counseling intervention had an impact on more mechanisms of change than the campaign.
+Improvements in intervention mechanisms across both interventions however, suggest a closer examination of the campaign intervention impact on outcomes over time.
+Clinicaltrials.gov NCT02419144, first posted April 17, 2015.

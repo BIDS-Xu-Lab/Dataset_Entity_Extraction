@@ -1,0 +1,18 @@
+In clinical practice, a heterogeneous hepatic tissue microperfusion (MC) is often observed after liver resection or transplantation (LTx).
+Nevertheless this hepatic perfusion phenomenon has never been really quantified with respect to its anatomic distribution and time course in detail.
+The aim of the study was to characterize liver perfusion heterogeneity and local flow kinetics both in the physiological situation and after standardized ischemia and reperfusion using an established model of porcine LTx.
+Regional distribution of hepatic MC in healthy native porcine livers (control group; n = 8) was analyzed in comparison with data derived 60 min, 24 h, and 72 h after porcine LTx (transplantation group; n = 8 each subgroup; cold ischemia time: 5.7 +/- 1.2 h).
+MC was measured with implanted thermal diffusion electrodes (TD).
+Flow in hepatic artery and portal vein was continuously detected by ultrasonic probes.
+For standardization of measurement localizations, porcine liver lobes were divided anatomically into three horizontal layers (cranial, medial, caudal), defining 12 distinct hepatic measurement regions.
+In the control group, a homogenous liver MC with a mean flow of 81.6 +/- 13.9 ml/100 g/min was detected in all regions.
+After LTx, a marked MC heterogeneity was noted 60 min after reperfusion.
+MC rehomogenization was first documented within horizontal liver planes 24 h later.
+Comparison of MC between planes showed persisting heterogeneity with a significant intralober drop of mean MC in the cranio-caudal direction.
+Complete MC rehomogenization (both between horizontal and vertical liver planes) was detected 72 h after reperfusion.
+Still, an overall reduction of mean liver perfusion by about 15% was existent.
+A homogenous tissue perfusion was observed in healthy porcine livers.
+In contrast, marked heterogeneity of hepatic MC was detected after LTx.
+Heterogeneity presents as a very dynamic and temporary phenomenon.
+Early horizontal flow rehomogenization and reconstitution of normal blood flow, particularly primarily in the cranial liver layers, appear to be characteristic features during early flow reconstitution after postischemic reperfusion.
+Due to heterogeneity and time-dependent flow dynamics, measurement of MC volumes at single hepatic regions may not always allow a valid characterization of liver perfusion quality during the first 24 h after postischemic reperfusion.

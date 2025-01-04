@@ -1,0 +1,11 @@
+To evaluate the reliability and intersession agreement of measurements of retinal sensitivity as well as of the fixation pattern obtained in healthy eyes with a microperimeter integrating the mechanism of the scanning laser ophthalmoscope (SLO) with the static perimetry.
+This study included a sample of 44 healthy eyes of 44 subjects of a mean age of 27.0 ± 8.5 years.
+In all cases, microperimetric exams with the MAIA system (Centervue, Padova, Italy) were performed in three different sessions to evaluate the intersession repeatability.
+The consistency of measurements was analyzed by using the Friedman test and by analyzing the correlation between consecutive measurements.
+Agreement between the first and third sessions was assessed by using the Passing-Bablok regression analysis.
+The following parameters were analyzed: average threshold (AT), macular integrity (MI) index, fixation indexes P1 and P2, bivariate contour ellipse area (BCEA), major and minor axes of the ellipse and high preferred retinal locus position (PRLh).
+Not statistically significant differences were found in the evaluated parameters between the three sessions (p ≥ 0.193).
+The correlation between consecutive measurements was moderate to strong for all parameters evaluated (r ≥ 0.49, p < 0.01), except for the MI and the position of the PRLh (r ≤ 0.305, p ≥ 0.05).
+The Passing-Bablok regression analysis showed a good agreement between the first and third measurement for all parameters, except for the MI and the position of the PRLh.
+MAIA MP system is able to provide consistent measurements of AT and fixation in normal subjects.
+MI and the position of PRLh seem to be the least reliable parameters in this group of patients.

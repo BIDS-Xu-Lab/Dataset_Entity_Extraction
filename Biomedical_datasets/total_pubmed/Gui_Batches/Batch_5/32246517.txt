@@ -1,0 +1,10 @@
+Key advances in our understanding of immunobiology and the immunosuppressive mechanisms of the tumour microenvironment have led to significant breakthroughs in manipulating the immune system to successfully treat cancer.
+Remarkable therapeutic responses have occurred with tumours that carry a high mutational burden.
+In these cases, pre-existing tumour-specific T cells can be rejuvenated via checkpoint inhibition to eliminate tumours.
+Furthermore, durable remissions have been achieved in haematological malignancies following adoptive transfer of T cells that specifically target cell surface proteins where expression is restricted to the malignancy's cell of origin.
+Soft tissue sarcomas and bone sarcomas have a paucity of non-synonymous somatic mutations and do not commonly express known, targetable, tumour-specific antigens.
+Historically, soft tissue sarcomas have been considered immunologically 'cold' and as such, unlikely candidates for immune therapy.
+Here, we review the immune landscape of canine and feline sarcomas and the immunotherapeutic strategies that have been employed in veterinary clinical trials to improve patient outcome.
+We also provide insight into immunotherapeutic approaches being used to treat human sarcomas.
+Together, current data indicates that, rather than a barren immunological wasteland, sarcomas represent a field of opportunities for immunotherapies.
+Furthermore, we and others would suggest that strategic combinations of immunotherapeutic approaches may hold promise for more effective treatments for high grade soft tissue sarcomas and bone sarcomas.

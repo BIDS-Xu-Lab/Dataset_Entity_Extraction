@@ -1,0 +1,12 @@
+Iodoacetic acid (IAA) induces photoreceptor (PR) degeneration in small animal models, however, eye size and anatomic differences detract from the usefulness of these models for studying retinal rescue strategies intended for humans.
+Porcine eyes are closer in size to human eyes and have a rich supply of rod and cones.
+This study investigated whether IAA also produced PR degeneration in the porcine retina, whether the damage was preferential for rods or cones, and whether IAA induced remodeling of the inner retina.
+Pigs were given a single i.v. injection of IAA and were euthanized 2-5 weeks later.
+Eyes were enucleated and immersed in fixative.
+Forty-six eyes were studied: Control (n = 13), and from pigs that had received the following IAA doses: 5.0 mg/kg (n = 7); 7.5 mg/kg (n = 10); 10.0 mg/kg (n = 6); 12.0 mg/kg (n = 6).
+Tissue was retrieved from four retinal locations: 8 mm and 2 mm above the dorsal margin of the optic disc, and 2 mm and 8 mm below the disc, and was processed for conventional histology, immunohistochemistry, and transmission electron microscopy.
+At 5.0 mg/kg IAA produced mild, variable cell loss, but remaining cells exhibited normal features.
+At doses above 5.0 mg/kg, a dose-dependent reduction was observed in the length of PR inner and outer segments, and in the number of PR nuclei.
+Specific labeling revealed a massive dropout of rod cell bodies with relative sparing of cone cell bodies, and electron microscopy revealed a reduction in the number of PR synaptic terminals.
+Mild dendritic retraction of rod bipolar cells and hypertrophy of Müller cell stalks was also observed, although the inner nuclear layer appeared intact.
+The porcine IAA model may be useful for developing and testing retinal rescue strategies for human diseases in which rods are more susceptible than cones, or are affected earlier in the disease process.

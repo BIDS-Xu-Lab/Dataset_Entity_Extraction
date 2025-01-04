@@ -1,0 +1,13 @@
+Acute subdural hematoma (SDH) is a major cause of morbidity after severe traumatic brain injury.
+Surgical evacuation of the hematoma, either via craniotomy or craniectomy, is the mainstay of treatment in patients with progressive neurologic deficits or significant mass effect.
+However, the decision to perform either procedure remains controversial.
+A literature search using major online databases and a manual search of references on the topic of craniotomy and craniectomy for evacuation of subdural hematoma until September 2016 was performed.
+The outcome variables were analyzed which included residual SDH, revision rate, and clinical outcome.
+Six comparison studies, with a total number of 2006 craniotomy and 451 craniectomy patients, fulfilled the inclusion criteria.
+Patients who underwent craniectomy scored significantly lower on the Glasgow Coma Scale at the time of initial presentation.
+Postoperatively, the rate of residual SDH was significantly lower in the craniectomy group than the craniotomy group (P = 0.004), with no difference in the revision rate.
+The odds of a poor outcome at follow-up was found to be lower in the craniotomy group (50.1% vs. 60.1%, respectively; P = 0.004).
+Similarly, mortality rates was lower in the craniotomy group than the craniectomy group (P = 0.004).
+The safety and efficacy of craniotomy versus decompressive craniectomy in treatment of acute SDH remain controversial.
+In this study, craniectomy was associated with worse clinical presentation and postoperative outcome compared with craniotomy.
+However, craniectomy was associated with lower rate of residual SDH after treatment.

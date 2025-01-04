@@ -1,0 +1,8 @@
+The present study examined the role of PPARβ/δ in hepatocellular carcinoma (HCC).
+The effect of PPARβ/δ on HCC development was analyzed using PPARβ/δ-overexpressed liver cancer cells and PPARβ/δ-knockout mouse models.
+PPARβ/δ (-/-) mice were susceptible to diethylnitrosamine- (DEN-) induced HCC (87.5% vs. 37.5%, p < 0.05).
+In addition, PPARβ/δ-overexpressed HepG2 cells had reduced proliferation, migration, and invasion capabilities accompanied by increased apoptosis and cell cycle arrest at the G0/G1 phase.
+Moreover, differential gene expression profiling uncovered that the levels of serine/threonine-protein kinase (SGK-1) mRNA and its encoded protein were reduced in PPARβ/δ-overexpressed HepG2 cells.
+Consistently, elevated SGK-1 levels were found in PPARβ/δ (-/-) mouse livers as well as PPARβ/δ-knockdown human SMMC-7721 HCC cells.
+Chromatin immunoprecipitation (ChIP) assays followed by real-time quantitative polymerase chain reaction (qPCR) assays further revealed the binding of PPARβ/δ to the SGK-1 regulatory region in HepG2 cells.
+Due to the known tumor-promoting effect of SGK1, the present data suggest that PPARβ/δ-deactivated SGK1 is a novel pathway for inhibiting liver carcinogenesis.

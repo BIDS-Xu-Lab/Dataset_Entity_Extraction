@@ -1,0 +1,5 @@
+Fine-mapping to plausible causal variation may be more effective in multi-ancestry cohorts, particularly in the MHC, which has population-specific structure.
+To enable such studies, we constructed a large (n = 21,546) HLA reference panel spanning five global populations based on whole-genome sequences.
+Despite population-specific long-range haplotypes, we demonstrated accurate imputation at G-group resolution (94.2%, 93.7%, 97.8% and 93.7% in admixed African (AA), East Asian (EAS), European (EUR) and Latino (LAT) populations).
+Applying HLA imputation to genome-wide association study data for HIV-1 viral load in three populations (EUR, AA and LAT), we obviated effects of previously reported associations from population-specific HIV studies and discovered a novel association at position 156 in HLA-
+B. We pinpointed the MHC association to three amino acid positions (97, 67 and 156) marking three consecutive pockets (C, B and D) within the HLA-B peptide-binding groove, explaining 12.9% of trait variance.

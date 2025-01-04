@@ -1,0 +1,6 @@
+The large majority of prosthetic feet are aimed at low-heeled shoes, with a few models allowing a heel height of up to 5 cm.
+However, a survey by the American Podiatric Medical Association indicates that most women wear heels over 5 cm; thus, current prosthetic feet limit most female prosthesis users in their choice.
+Some prosthetic foot components are heel-height adjustable; however, their plantar surface shapes do not change to match the insole shapes of the shoes with different heel heights.
+The aims of the study were therefore (1) to develop a model that allows prediction of insole shape for various heel height shoes in combination with different shoe sizes and (2) to develop and field-test low-cost prototypes of prosthetic feet whose insole shapes were based on the new model.
+An equation was developed to calculate insole shapes independent of shoe size.
+Field testing of prototype prosthetic feet fabricated based on the equation was successful and demonstrated the utility of the equation.

@@ -1,0 +1,11 @@
+The present study investigated the significance of apical transport proteins for ruminal acetate absorption and their interaction with different anions.
+In anion competition experiments in the washed reticulorumen, chloride disappearance rate (initial concentration, 28 mM) was inhibited by the presence of a short-chain fatty acid mixture (15 or 30 mM of each acetate, propionate, and butyrate).
+Disappearance rates of acetate and propionate, but not butyrate (initial concentration, 25 mM each) were diminished by 40 or 80 mM chloride.
+In isolated ovine ruminal epithelia mounted in Ussing chambers, an increase in chloride concentration from 4.5 to 90 mM led to a decrease of apical acetate uptake at a concentration of 0.5 mM. Mucosal nitrate inhibited acetate uptake most potently whereas sulfate had no effect.
+Decreasing mucosal pH from 7.4 to 6.1 approximately doubled uptake of acetate both at 0.5 and 10 mM, but this doubling was almost abolished when HCO(3)(-) was absent.
+The stimulated uptake at mucosal pH 6.1 consisted of a bicarbonate-dependent, nitrate-inhibitable part (K(m) = 54 mM) and a bicarbonate-independent component (K(m) = 12 mM) that was also sensitive to nitrate inhibition.
+Maximal uptake was three times larger for bicarbonate-dependent vs. bicarbonate-independent uptake.
+Mucosal addition of 200 microM DIDS, 400 microM p-chloromercuribenzene sulfonic acid, 800 microM p-hydroxymercuribenzoic acid, or 100 microM phloretin had no effects on acetate uptake although the latter two inhibited l-lactate uptake.
+Our data conclusively show a dominant involvement of proteins in apical acetate uptake.
+Previously described pH effects on acetate absorption originate mainly from modulation of acetate/bicarbonate exchange.
+Additionally, there is bicarbonate-independent uptake of acetate anions that is protein coupled but not via monocarboxylate cotransporter.

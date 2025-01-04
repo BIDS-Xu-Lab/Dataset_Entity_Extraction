@@ -1,0 +1,11 @@
+To identify suitable end points and surrogates for pediatric pulmonary arterial hypertension (PAH) as the lack of developmentally appropriate end point and clinical trials contribute to the unmet medical need.
+Reviewed the efficacy end points and surrogates for all trials (1995 to 2013) that were submitted to the Food and Drug Administration (FDA) to support the approval of PAH therapy and conducted literature search.
+An increase in the 6 min walking distance (6MWD) was used as a primary end point in 8/9 adult PAH trials.
+This end point is not suitable for infants and young children because of performance limitations and lack of control data.
+One adult PAH trial used time to the first morbidity or mortality event as a primary end point, which could potentially be used in pediatric PAH trials.
+In the sildenafil pediatric PAH trial, the change in pulmonary vascular resistance index or mean pulmonary artery pressure was used as a surrogate for the 6MWD to assess exercise capacity.
+However, two deaths and three severe adverse events during the catheterizations made this an unacceptably high-risk surrogate.
+The INOmax persistent pulmonary hypertension of the newborn trial used a reduction in initiation of extracorporeal membrane oxygenation treatment as a primary end point, which is not feasible for other pediatric PAH trials.
+A Literature review revealed none of the existing noninvasive markers are fully validated as surrogates to assess PAH efficacy and long-term safety.
+For pediatric PAH trials, clinical end points are acceptable, and novel validated surrogates would be helpful.
+FDA seeks collaboration with academia, industry and parents to develop other suitable and possibly more efficient efficacy end points to facilitate pediatric PAH drug development.

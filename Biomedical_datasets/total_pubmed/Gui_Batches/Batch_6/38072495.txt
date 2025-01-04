@@ -1,0 +1,12 @@
+Despite advancement in vaccines and treatments for COVID-19 over the past 2 years, many concerns remain about reinfection and waning immunity against COVID-19 and its variants, especially among people with substance use disorder (SUD).
+The study assessed the risk of COVID-19 reinfection and severe illness among adults with SUD and their vaccination status to inform management in this vulnerable population as the pandemic continues.
+Nationwide electronic health records (TriNetX database) in the USA among adults with COVID-19 infection from January 2020 to June 2022.
+Adults (age ≥18 years) who were infected by COVID-19, excluding those who had cancer or lived in nursing homes or palliative care facilities.
+COVID-19 reinfection was defined as a new diagnosis after 45 days of the initial infection.
+Logistic regression was applied to assess the OR of COVID-19 reinfection and severe outcomes within 30 day of reinfection for adults with alcohol (AUD), opioid (OUD), cocaine (CUD), stimulant (STUD), cannabis (CAUD) and other use disorders, controlled for demographic and comorbid conditions.
+The SUD cohort was 13%-29% more likely to be reinfected by COVID-19 and had significantly higher 30-day mortality.
+Adults with AUD, STUD and OUD were at greater risks (adjusted ORs, AORs=1.69-1.86) of emergency department, hospital and intensive care admissions after 30 days of reinfection.
+Individuals with SUD and multiple vaccines doses were associated with decreased risks of worse COVID-19 outcomes.
+Lower COVID-19 reinfection rates (AORs=0.67-0.84) were only found among individuals with AUD, CUD or CAUD who had COVID-19 vaccination.
+Individuals with SUD had greater risks of COVID-19 reinfection and poor outcomes, especially those with OUD, STUD and AUD.
+Multiple vaccinations are recommended to reduce severe illness after COVID-19 reinfection in the SUD population.

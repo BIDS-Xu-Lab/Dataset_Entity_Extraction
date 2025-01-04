@@ -1,0 +1,9 @@
+Epidemiological data on green/jasmine tea and esophageal as well as gastric cancer are limited and inconclusive.
+In order to study the effect of jasmine tea in upper gastrointestinal (UGI) cancers, we evaluated 600 esophageal squamous cell carcinoma (ESCC), 598 gastric cardia cancer (GCA), and 316 gastric non-cardia cancer (GNCA) cases and 1,514 age-, gender-, and neighborhood-matched controls.
+Odds ratios (ORs) and 95% confidence intervals (CIs) were estimated from logistic regression adjusted for matching factors and potential confounders.
+Among controls, 35% of males and 8% of females reported consumption of jasmine tea; other tea consumption was rare.
+Consumption of jasmine tea (ever vs. never) was not associated with risk of ESCC (OR = 1.15, 95% CI 0.92–1.44), GCA (OR = 1.14, 95% CI 0.88–1.37), or GNCA (OR = 0.85, 95% CI 0.64–1.15) in males and females combined.
+Among males, cumulative lifetime consumption showed a significant positive dose–response relation with ESCC risk, but not for GCA and GNCA.
+In exploratory analyses, occupation affected the relation between tea and ESCC such that consumption in males was associated with increased risk only in non-office workers.
+Overall, we found no evidence for a protective effect of tea in esophageal or gastric cancer.
+Further studies of the potential effects of thermal damage, tea quality, and water quality on UGI cancers are suggested.

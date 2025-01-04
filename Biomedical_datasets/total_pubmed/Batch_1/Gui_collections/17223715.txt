@@ -1,0 +1,9 @@
+Diacylglycerol kinase modulates the levels of diacylglycerol and phosphatidic acid, two critical lipid second messengers, yet little is known about the effects of cellular stimulation on the kinetic behavior of this enzyme.
+We examined the effects of alpha-thrombin and activating phospholipids on the activity and substrate affinity of a soluble diacylglycerol kinase, DGKtheta.
+Our data demonstrate that the apparent binding parameters of DGKtheta increase following thrombin stimulation, suggesting that alpha-thrombin antagonizes DGKtheta activity.
+Interestingly, this effect is obscured in the presence of high bulk substrate concentrations.
+Given the known stimulatory effects of phosphatidylserine on many diacylglycerol kinases, we examined the effects of various phospholipids on DGKtheta and found that phosphatidic acid is a more effective activator than phosphatidylserine.
+Phosphatidic acid decreased the apparent surface K(M) (K(M(surf))app) of DGKtheta for dioleoylglycerol (DOG) and promoted binding to vesicles in a dose-dependent manner.
+Phosphatidylserine also lowered the K(M(surf))app of DGKtheta, though higher concentrations were required to achieve the same effect.
+Interestingly, PS promoted binding to vesicles only when present at levels beyond that required to saturate enzyme activity, suggesting that PS and PA activate DGKtheta through different mechanisms.
+The potential physiological implications of these findings are discussed.

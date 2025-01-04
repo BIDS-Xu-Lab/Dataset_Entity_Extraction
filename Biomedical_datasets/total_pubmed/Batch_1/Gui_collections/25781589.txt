@@ -1,0 +1,7 @@
+We describe a method, which uses already existent administrative data to identify individuals with a high risk of a large need of healthcare in the coming year.
+The model is based on the ACG (Adjusted Clinical Groups) system to identify the high-risk patients.
+We have set up a model where we combine the ACG system stratification analysis tool RUB (Resource Utilization Band) and Probability High Total Cost >0.5.
+We tested the method with historical data, using 2 endpoints, either >19 physical visits anywhere in the healthcare system in the coming 12 months or more than 2 hospital admissions in the coming 12 months.
+In the region of Västra Götaland with 1.6 million inhabitants, 5.6% of the population had >19 physical visits during a 12 month period and 1.2% more than 2 hospital admissions.
+Our model identified approximately 24,000 individuals of whom 25.7% had >19 physical visits and 11.6% had more than 2 hospital admissions in the coming 12 months.
+We now plan a small test in ten primary care centers to evaluate if the model should be introduced in the entire Västra Götaland region.

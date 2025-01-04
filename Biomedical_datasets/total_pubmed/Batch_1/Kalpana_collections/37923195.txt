@@ -1,0 +1,10 @@
+Cardiac muscle cells are terminally differentiated after birth and must beat continually throughout one's lifetime.
+This mechanical process is driven by the sliding of actin-based thin filaments along myosin-based thick filaments, organized within sarcomeres.
+Despite costly energetic demand, the half-life of the proteins that comprise the cardiac thick filaments is ~10 days, with individual molecules being replaced stochastically, by unknown mechanisms.
+To allow for the stochastic replacement of molecules, we hypothesized that the structure of thick filaments must be highly dynamic in vivo.
+To test this hypothesis in adult mouse hearts, we replaced a fraction of the endogenous myosin regulatory light chain (RLC), a component of thick filaments, with GFP-labeled RLC by adeno-associated viral (AAV) transduction.
+The RLC-GFP was properly localized to the heads of the myosin molecules within thick filaments in ex vivo heart preparations and had no effect on heart size or actin filament siding in vitro.
+However, the localization of the RLC-GFP molecules was highly mobile, changing its position within the sarcomere on the minute timescale, when quantified by fluorescence recovery after photobleaching (FRAP) using multiphoton microscopy.
+Interestingly, RLC-GFP mobility was restricted to within the boundaries of single sarcomeres.
+When cardiomyocytes were lysed, the RLC-GFP remained strongly bound to myosin heavy chain, and the intact myosin molecules adopted a folded, compact configuration, when disassociated from the filaments at physiological ionic conditions.
+These data demonstrate that the structure of the thick filament is highly dynamic in the intact heart, with a rate of molecular exchange into and out of thick filaments that is ~1500 times faster than that required for the replacement of molecules through protein synthesis or degradation.

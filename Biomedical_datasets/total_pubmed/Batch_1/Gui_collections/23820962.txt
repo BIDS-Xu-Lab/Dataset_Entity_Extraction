@@ -1,0 +1,13 @@
+Vorinostat is a histone deacetylase inhibitor that has demonstrated preclinical activity in numerous cancer models.
+Clinical activity has been demonstrated in patients with a variety of malignancies.
+Vorinostat is presently indicated for the treatment of patients with advanced cutaneous T cell lymphoma (CTCL).
+Clinical investigation is ongoing for therapy of other solid tumors and hematological malignancies either as monotherapy or in combination with other chemotherapeutic agents.
+This review summarizes the pharmacokinetic properties of vorinostat.
+Monotherapy pharmacokinetic data across a number of pharmacokinetic studies were reviewed, and data are presented.
+In addition, literature review was performed to obtain published Phase I and II pharmacokinetic combination therapy data to identify and characterize potential drug interactions with vorinostat.
+Pharmacokinetic data in special populations were also reviewed.
+The clinical pharmacology profile of vorinostat is favorable, exhibiting dose-proportional pharmacokinetics and modest food effect.
+There appear to be no major differences in the pharmacokinetics of vorinostat in special populations, including varying demographics and hepatic dysfunction.
+Combination therapy pharmacokinetic data indicate that vorinostat has a low propensity for drug interactions.
+Vorinostat's favorable clinical pharmacology and drug interaction profile aid in the ease of administration of vorinostat for the treatment of advanced CTCL and will be beneficial in continued assessment for other oncologic indications.
+Although a number of studies have been conducted to elucidate the detailed pharmacokinetic profile of vorinostat, more rigorous assessment of vorinostat pharmacokinetics, including clinical drug interaction studies, will be informative.

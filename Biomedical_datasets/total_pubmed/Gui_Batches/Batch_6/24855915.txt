@@ -1,0 +1,8 @@
+The study aimed to investigate the incidence of and associated factors with skin rashes among HIV-infected Taiwanese patients who received once-daily darunavir (DRV) boosted by ritonavir (RTV) (800/100 mg) plus 2 nucleoside reverse-transcriptase inhibitors (NRTIs).
+We reviewed the medical records of HIV-infected patients who switched to once-daily DRV/RTV-containing regimens between January 2012 and November 2013.
+Patients who switched from 2 NRTIs plus non-NRTI (nNRTI) or other protease inhibitor (PI) to 2 NRTIs plus PIs other than DRV were chosen as comparators.
+During the study period, 238 patients who switched to once-daily DRV/RTV-containing regimens (Group A) and 178 patients who switched from 2 NRTIs plus nNRTI or other PI to 2 NRTIs plus PI other than DRV/RTV (Group B) were included.
+There were no differences between Groups A and B in most of the baseline characteristics.
+Compared with Group B in which 7 (3.9%) developed rashes after switch to PI other than DRV, 26 patients (10.9%) in Group A developed rashes after a median interval of 14 days of starting DRV/RTV-containing regimens (P = 0.009).
+In multivariate analysis, patients with a history of rashes related to the previous nNRTI-containing regimens before starting DRV/RTV-containing regimens were more likely to develop rashes with an adjusted odds ratio of 3.53 (95% confidence interval, 1.45-8.62).
+Once-daily regimens containing DRV/RTV is associated with a higher rate of adverse cutaneous reactions than other PI-containing regimens in HIV-infected Taiwanese, especially in those who have a history of rashes to nNRTI-containing regimens before switch to DRV/RTV-containing regimens.

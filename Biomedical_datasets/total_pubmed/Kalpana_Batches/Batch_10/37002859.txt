@@ -1,0 +1,6 @@
+The vast majority of genomic sequences are automatically annotated using various software programs.
+The accuracy of these annotations depends heavily on the very few manual annotation efforts that combine verified experimental data with genomic sequences from model organisms.
+Here, we summarize the updated functional annotation of Bacillus subtilis strain 168, a quarter century after its genome sequence was first made public.
+Since the last such effort 5 years ago, 1168 genetic functions have been updated, allowing the construction of a new metabolic model of this organism of environmental and industrial interest.
+The emphasis in this review is on new metabolic insights, the role of metals in metabolism and macromolecule biosynthesis, functions involved in biofilm formation, features controlling cell growth, and finally, protein agents that allow class discrimination, thus allowing maintenance management, and accuracy of all cell processes.
+New 'genomic objects' and an extensive updated literature review have been included for the sequence, now available at the International Nucleotide Sequence Database Collaboration (INSDC: AccNum AL009126.4).

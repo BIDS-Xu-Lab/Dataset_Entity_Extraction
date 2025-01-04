@@ -1,0 +1,9 @@
+Infectious disease (ID) cohorts are key to advancing public health surveillance, public policies, and pandemic responses.
+Unfortunately, ID cohorts often lack funding to store and share clinical-epidemiological (CE) data and high-dimensional laboratory (HDL) data long term, which is evident when the link between these data elements is not kept up to date.
+This becomes particularly apparent when smaller cohorts fail to successfully address the initial scientific objectives due to limited case numbers, which also limits the potential to pool these studies to monitor long-term cross-disease interactions within and across populations.
+CE data from 9 arbovirus (arthropod-borne viruses) cohorts in Latin America were retrospectively harmonized using the Maelstrom Research methodology and standardized to Clinical Data Interchange Standards Consortium (CDISC).
+We created a harmonized and standardized meta-cohort that contains CE and HDL data from 9 arbovirus studies from Latin America.
+To facilitate advancements in cross-population inference and reuse of cohort data, the Reconciliation of Cohort Data for Infectious Diseases (ReCoDID) Consortium harmonized and standardized CE and HDL from 9 arbovirus cohorts into 1 meta-cohort.
+Interested parties will be able to access data dictionaries that include information on variables across the data sets via Bio Studies.
+After consultation with each cohort, linked harmonized and curated human cohort data (CE and HDL) will be made accessible through the European Genome-phenome Archive platform to data users after their requests are evaluated by the ReCoDID Data Access Committee.
+This meta-cohort can facilitate various joint research projects (eg, on immunological interactions between sequential flavivirus infections and for the evaluation of potential biomarkers for severe arboviral disease).

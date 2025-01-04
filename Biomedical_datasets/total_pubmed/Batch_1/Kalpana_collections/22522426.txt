@@ -1,0 +1,8 @@
+We present here data about trace elements in human scalp hair samples to test whether they are valuable to reflect environmental exposure and contamination by trace elements.
+The study compares contents of trace elements in scalp hair from a total of 336 children, aged 11-13 years old, living in various geographical areas of Sicily (southern Italy) characterized by differing environmental conditions.
+Nineteen elements (Al, As, Ba, Cd, Co, Cr, Cu, Li, Mn, Mo, Ni, Pb, Rb, Sb, Se, Sr, U, V and Zn) were determined by inductively coupled plasma mass spectrometry (ICP-MS).
+Coverage intervals (CI) formulated by the elemental composition of hair samples from the Palermo subjects were compared with the median content of hair from children living in the other study areas.
+Statistical analysis showed that Al, Ba, Sr and Zn concentrations differed significantly between gender, higher concentrations being observed in girls' hair.
+Children living close to the volcanic area had higher concentrations of As, Cr, Mn, Ni, Rb, Sb, U, V and Zn.
+Those living in an area with several old quarries had higher levels of Al, As, Pb, Rb and U. The hair of children living near the Pace del Mela industrial area contained higher levels of As, Ba, Mn, Pb, Rb, Sr and U. Linear discriminant analysis (LDA) between Palermo and the other sites allowed to better assess which variables contribute towards differentiating the groups.
+Our observations suggest that human hair can be used to monitor exposure to several metals, provided that sampling and analytical procedures, together with statistical treatment of data, are carried out according to standardized protocols.

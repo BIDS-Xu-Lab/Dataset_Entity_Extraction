@@ -1,0 +1,11 @@
+The detection of food allergens has been a challenge because of the increasing need to ensure the absence of undeclared allergens in foods.
+The current trend in the detection of some food allergens, like peanuts, is based on the detection of multiple allergenic and nonallergenic proteins, and this is the approach that kit manufacturers have adopted.
+Because commercial kits differ in their ability to detect allergens, regulatory agencies, the food industry, and kit manufacturers are working together to standardize the detection methods.
+Three kits for the detection of peanuts have been evaluated for performance by the AOAC Research Institute.
+For this evaluation, a peanut butter suspension was used as a reference material.
+Several kit components contribute to between-kit analytical variation, even when the same sample is used.
+One component of commercial kits, which may be contributing to this variability, is the sample extraction buffer.
+In this study, differences in extractability of 3 allergenic foods were evaluated by using 4 different extraction buffers.
+The conclusion is that optimum allergen extractability was buffer-dependent, and no single buffer is appropriate for use as a universal extraction solution for all allergenic foods.
+Therefore, a thorough evaluation of sample preparation buffers needs to be performed for every individual allergenic food.
+In light of the results obtained, the current approach used for detection of peanut allergens based on the detection of multiple allergenic and nonallergenic proteins is being analyzed.

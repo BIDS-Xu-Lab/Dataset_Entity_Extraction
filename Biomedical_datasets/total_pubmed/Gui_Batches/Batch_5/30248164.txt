@@ -1,0 +1,7 @@
+Diffuse large B-cell lymphoma (DLBCL) is curable in about two-thirds of patients.
+Research has focused on determining which patients have less favorable prognoses so that they can be considered for novel targeted-treatment strategies.
+In 2000, gene expression profiling was used to define two principal DLBCL molecular subtypes, germinal center B-cell-like (GCB) and activated B-cell-like (ABC).
+Patients with GCB DLBCL have more favorable outcomes than those with ABC DLBCL when treated with standard immunochemotherapy.
+Alternate strategies to characterize molecular subtype include approximation with immunohistochemistry algorithms, and more recently the NanoString gene expression platform.
+Numerous studies have investigated novel agents in DLBCL with respect to GCB and ABC (or non-GCB) subtypes, but R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) remains the standard of care for most patients.
+Here we review the methods of determining cell of origin (COO); use of COO in clinical practice; clinical trials in DLBCL according to COO; and future directions of tailoring treatment, including alternate categorization of genetic subtypes or clusters in DLBCL.

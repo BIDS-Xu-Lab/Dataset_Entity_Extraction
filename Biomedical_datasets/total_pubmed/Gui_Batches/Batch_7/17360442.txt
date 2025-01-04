@@ -1,0 +1,10 @@
+Pancreatic endocrine cell differentiation depends on transcription factors that also contribute in adult insulin and glucagon gene expression.
+Islet cell development was examined in mice lacking MafB, a transcription factor expressed in immature alpha (glucagon(+))
+cells and capable of activating insulin and glucagon expression in vitro.
+We observed that MafB(-/-) embryos had reduced numbers of insulin(+) and glucagon(+)
+cells throughout development, whereas the total number of endocrine cells was unchanged.
+Moreover, production of insulin(+) cells was delayed until embryonic day (E) 13.5 in mutant mice and coincided with the onset of MafA expression, a MafB-related activator of insulin transcription.
+MafA expression was only detected in the insulin(+) cell population in MafB mutants, whereas many important regulatory proteins continued to be expressed in insulin(-) beta cells.
+However, Pdx1, Nkx6.1, and GLUT2 were selectively lost in these insulin-deficient cells between E15.5 and E18.5.
+MafB appears to directly regulate transcription of these genes, because binding was observed within endogenous control region sequences.
+These results demonstrate that MafB plays a previously uncharacterized role by regulating transcription of key factors during development that are required for the production of mature alpha and beta cells.

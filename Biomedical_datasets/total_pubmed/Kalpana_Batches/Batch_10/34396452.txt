@@ -1,0 +1,5 @@
+There are several types of liver injury, including alcohol‑induced liver injury, drug‑induced liver injury, infectious liver injury, cirrhosis, liver ischemia/reperfusion injury and liver failure.
+In recent years, accumulated data have demonstrated that microRNAs (miRNAs/miRs) may be involved in the occurrence and development of a variety of systemic diseases, such as immune diseases, tumors and nervous system diseases.
+miR‑155 is a key miRNA, which has been studied extensively and has been shown to target different genes.
+In the present review, the potential effects and mechanisms of miR‑155 on the physiological and pathological processes of liver injury were reviewed from the perspective of cell stress, inflammation and activation of fibrosis.
+In addition, the potential benefits of miR‑155 as a therapeutic target and predictor of liver injury were summarized.

@@ -1,0 +1,11 @@
+About 13% of African Americans and 13% of Hispanics have diabetes, compared to 8% of non-Hispanic Whites (NHWs).
+This is more pronounced in the elderly where about 25-30% of those aged 65 and older have diabetes.
+Studies have found associations between social determinants of health (SDoH) and increased incidence, prevalence, and burden of diabetes; however, few interventions have accounted for the context in which the elderly live by addressing SDoH.
+Specifically, psychosocial factors (such as cognitive dysfunction, functional impairment, and social isolation) impacting this population may be under-addressed due to numerous medical concerns addressed during the clinical visit.
+The long-term goal of the project is to identify strategies to improve glycemic control and reduce diabetes complications and mortality in African Americans and Hispanics/Latinos with type 2 diabetes.
+This is a 5-year prospective, randomized clinical trial, which will test the effectiveness of a home-based diabetes-modified behavioral activation treatment for low-income, minority seniors with type 2 diabetes mellitus (T2DM) (HOME DM-BAT).
+Two hundred, aged 65 and older and with an HbA1c ≥8%, will be randomized into one of two groups: (1) an intervention using in-home, nurse telephone-delivered diabetes education, and behavioral activation or (2) a usual care group using in-home, nurse telephone-delivered, health education/supportive therapy.
+Participants will be followed for 12 months to ascertain the effect of the intervention on glycemic control, blood pressure, and low-density lipoprotein (LDL) cholesterol.
+The primary hypothesis is low-income, minority seniors with poorly controlled type 2 diabetes randomized to HOME DM-BAT will have significantly greater improvements in clinical outcomes at 12 months of follow-up compared to usual care.
+Results from this study will provide important insight into the effectiveness of a home-based diabetes-modified behavioral activation treatment for low-income, minority seniors with uncontrolled type 2 diabetes mellitus and inform strategies to improve glycemic control and reduce diabetes complications in minority elderly with T2DM.
+Registered on December 18, 2019, with the National Institutes of Health Clinical Trials Registry.

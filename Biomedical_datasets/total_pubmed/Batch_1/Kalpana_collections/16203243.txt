@@ -1,0 +1,10 @@
+Fugitive tetrachloroethylene (PCE, perc) emissions from dry cleaners operating in apartment buildings can contaminate residential indoor air.
+In 1997, New York State and New York City adopted regulations to reduce and contain perc emissions from dry cleaners located in residential and other buildings.
+As part of a New York State Department of Health (NYSDOH) study, indoor air perc levels were determined in 65 apartments located in 24 buildings in New York City where dry cleaners used perc on site.
+Sampling occurred during 2001-2003, and sampled buildings were dispersed across minority and nonminority as well as low-income and higher income neighborhoods.
+For the entire study area, the mean apartment perc level was 34 microg/m3, 10-fold lower than mean apartment levels of 340-360 microg/m3 documented before 1997.
+The maximum detected perc level was 5,000 microg/m3, 5-fold lower than the maximum of 25,000 microg/m3 documented before 1997.
+Despite these accomplishments, perc levels in 17 sampled apartments still exceeded the NYSDOH residential air guideline of 100 microg/m3, and perc levels in 4 sampled apartments exceeded 1,000 microg/m3.
+Moreover, mean indoor air perc levels in minority neighborhoods (75 microg/m3) were four times higher than in nonminority households (19 microg/m3) and were > 10 times higher in low-income neighborhoods (256 microg/m3) than in higher income neighborhoods (23 microg/m3).
+Logistic regression suitable for clustered data (apartments within buildings) indicated that perc levels on floors 1-4 were significantly more likely to exceed 100 microg/m3 in buildings located in minority neighborhoods (odds ratio = 6.7; 95% confidence interval, 1.5-30.5) than in nonminority neighborhoods.
+Factors that may be contributing to the elevated perc levels detected, especially in minority and low-income neighborhoods, are being explored.

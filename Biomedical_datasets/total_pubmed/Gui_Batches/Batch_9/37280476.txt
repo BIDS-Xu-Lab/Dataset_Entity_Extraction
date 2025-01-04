@@ -1,0 +1,10 @@
+Frailty is strongly associated with the clinical course of cognitive impairment and dementia, thus arguing for the need of its assessment in individuals affected by cognitive deficits.
+This study aimed to retrospectively evaluate frailty in patients aged 65 years and older referred to two Centers for Cognitive Decline and Dementia (CCDDs).
+A total of 1256 patients consecutively referred for a first visit to two CCDDs in Lombardy (Italy) between January 2021 to July 2022 were included.
+All patients were evaluated by an expert physician in diagnosis and care of dementia according to a standardized clinical protocol.
+Frailty was assessed using a 24-items Frailty Index (FI) based on routinely collected health records, excluding cognitive decline or dementia, and categorized as mild, moderate, and severe.
+Overall, 40% of patients were affected by mild frailty and 25% of the sample has moderate to severe frailty.
+The prevalence and severity of frailty increased with decreasing Mini Mental State Examination (MMSE) score and advancing age.
+Frailty was also detected in 60% of patients with mild cognitive impairment.
+Frailty is common in patients referring to CCDDs for cognitive deficits.
+Its systematic assessment using a FI generated with readily available medical information could help develop appropriate models of assistance and guide personalization of care.

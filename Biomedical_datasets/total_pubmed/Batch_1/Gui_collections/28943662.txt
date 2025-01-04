@@ -1,0 +1,6 @@
+An important problem within the social, behavioral, and health sciences is how to partition an exposure effect (e.g. treatment or risk factor) among specific pathway effects and to quantify the importance of each pathway.
+Mediation analysis based on the potential outcomes framework is an important tool to address this problem and we consider the estimation of mediation effects for the proportional hazards model in this paper.
+We give precise definitions of the total effect, natural indirect effect, and natural direct effect in terms of the survival probability, hazard function, and restricted mean survival time within the standard two-stage mediation framework.
+To estimate the mediation effects on different scales, we propose a mediation formula approach in which simple parametric models (fractional polynomials or restricted cubic splines) are utilized to approximate the baseline log cumulative hazard function.
+Simulation study results demonstrate low bias of the mediation effect estimators and close-to-nominal coverage probability of the confidence intervals for a wide range of complex hazard shapes.
+We apply this method to the Jackson Heart Study data and conduct sensitivity analysis to assess the impact on the mediation effects inference when the no unmeasured mediator-outcome confounding assumption is violated.

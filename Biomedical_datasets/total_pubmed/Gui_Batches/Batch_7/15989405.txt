@@ -1,0 +1,12 @@
+The purpose of this research was to evaluate the relation between self-reported cardiovascular disease (CVD) and cochlear function in older adults.
+The Epidemiology of Hearing Loss Study (EHLS) is an ongoing population-based study of hearing loss and its risk factors in Beaver Dam, Wisconsin.
+As part of the EHLS questionnaire, participants were asked about their cardiovascular medical history.
+CVD history was determined from questions regarding history of angina, myocardial infarction (MI), and stroke.
+Questions about the use of antihypertensive medication and blood pressure measurements determined the presence or absence of hypertension.
+Among the audiologic measures completed were distortion product otoacoustic emissions (DPOAEs).
+Cochlear function was measured using DPOAEs and participants were categorized as having (a) cochlear impairment, (b) possible cochlear impairment, or (c) no cochlear impairment.
+There were 1,501 participants with complete CVD and DPOAE data from the 1998-2000 examination phase.
+[CI] = 1.15-3.46) to have cochlear impairment than women without a history of MI.
+This association was not significant in men (age-adjusted OR = 0.98, 95% CI = 0.61-1.58).
+Additionally, no other CVD variables were associated with cochlear impairment.
+This study provides data on a possible sex-specific association between CVD and DPOAEs in older adults.

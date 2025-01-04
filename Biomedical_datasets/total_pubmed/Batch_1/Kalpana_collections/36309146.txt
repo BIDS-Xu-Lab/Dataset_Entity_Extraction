@@ -1,0 +1,14 @@
+Many prediction models for coronavirus disease 2019 (COVID-19) have been developed.
+External validation is mandatory before implementation in the intensive care unit (ICU).
+We selected and validated prognostic models in the Euregio Intensive Care COVID (EICC) cohort.
+In this multinational cohort study, routine data from COVID-19 patients admitted to ICUs within the Euregio Meuse-Rhine were collected from March to August 2020.
+COVID-19 models were selected based on model type, predictors, outcomes, and reporting.
+Furthermore, general ICU scores were assessed.
+Discrimination was assessed by area under the receiver operating characteristic curves (AUCs) and calibration by calibration-in-the-large and calibration plots.
+A random-effects meta-analysis was used to pool results.
+Mean age was 65.4 ± 11.2 years, 29% were female, and ICU mortality was 36%.
+Nine out of 238 published models were externally validated.
+Pooled AUCs were between 0.53 and 0.70 and calibration-in-the-large between -9% and 6%.
+Calibration plots showed generally poor but, for the 4C Mortality score and Spanish Society of Infectious Diseases and Clinical Microbiology (SEIMC) score, moderate calibration.
+Of the nine prognostic models that were externally validated in the EICC cohort, only two showed reasonable discrimination and moderate calibration.
+For future pandemics, better models based on routine data are needed to support admission decision-making.

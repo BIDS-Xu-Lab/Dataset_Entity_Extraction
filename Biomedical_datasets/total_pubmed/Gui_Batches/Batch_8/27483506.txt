@@ -1,0 +1,9 @@
+Compassion fatigue is a problem for many health care providers manifesting as physical, mental, and spiritual exhaustion.
+Our objective was to evaluate the association between prior combat deployment and compassion fatigue among military emergency medicine providers.
+We conducted a nonexperimental cross-sectional survey of health care providers assigned to the San Antonio Military Medical Center, Department of Emergency Medicine.
+We used the Professional Quality of Life Scale V survey instrument that evaluates provider burnout, secondary traumatic stress, and compassion satisfaction.
+Outcomes included burnout, secondary traumatic stress, and compassion satisfaction raw scores.
+Scores were compared between providers based on previous combat deployments using two-tailed independent sample t tests and multiple regression models.
+Surveys were completed by 105 respondents: 42 nurses (20 previously deployed), 30 technicians (11 previously deployed), and 33 physicians (16 previously deployed).
+No statistically significant differences in burnout, secondary traumatic stress, or compassion satisfaction scores were detected between previously deployed providers versus providers not previously deployed.
+There was no association between previous combat deployment and emergency department provider burnout, secondary traumatic stress, or compassion satisfaction scores.

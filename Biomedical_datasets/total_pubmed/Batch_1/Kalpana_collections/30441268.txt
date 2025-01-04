@@ -1,0 +1,6 @@
+Suturing is one of the most fundamental surgical skills, requiring careful and systematic instruction for skilled performance.
+In this paper, we evaluate the performance of attending surgeons and surgical residents on an open surgery suturing task to examine if the introduction of different depth levels affects their performance.
+A vision algorithm is used to extract metrics meaningful in the assessment of suturing skill.
+As subjects perform a suturing task on the platform, our vision algorithm computes metrics identified to be potentially useful in assessing suturing skill: distances from optimal entry and optimal exit points, stitch length, stitch time, idle time, needle swept area, needle tip trace distance, needle tip area, and needle sway length.
+Preliminary experimental data from a study with 5 attending surgeons and 7 surgical residents are presented.
+Results demonstrate that the metrics of distance from optimal exit points, idle time, needle swept area, needle tip trace distance, needle tip area, and needle sway length are useful in quantifying the effect of depth constraints on suturing performance.

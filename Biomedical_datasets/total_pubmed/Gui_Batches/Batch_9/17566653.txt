@@ -1,0 +1,8 @@
+Glial cells control the water homeostasis in the neural retina, in part via water transport through aquaporin (AQP) water channels.
+We investigated whether the immunolocalization of two water channels, AQP1 and AQP4, alters in the rat retina during experimental diabetes.
+Wistar rats were rendered diabetic by a single dose of streptozotocin, and retinal tissues were immunostained following 4 and 6 months.
+In control tissues, immunoreactive AQP4 was expressed by glial cells (Müller cells and astrocytes) predominantly in the inner retina, and AQP1 was expressed in the outer retina and by distinct amacrine cells.
+In diabetic retinas, additional strong expression of AQP1 was found in glial cells located in the innermost retinal layers.
+The superficial retinal vessels were surrounded by AQP4 in control retinas, and by AQP1 in diabetic retinas.
+A similar alteration in the localization of AQP1 and AQP4 has been described in the rat retina after transient ischemia.
+The data suggest that the glial cell-mediated water transport in the retina of diabetic animals is altered especially at the superficial vessel plexus.

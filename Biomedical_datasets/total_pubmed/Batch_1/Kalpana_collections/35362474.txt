@@ -1,0 +1,10 @@
+The breakthrough recently made in protein structure prediction by deep-learning programs such as AlphaFold and RoseTTAFold will certainly revolutionize biology over the coming decades.
+The scientific community is only starting to appreciate the various applications, benefits and limitations of these protein models.
+Yet, after the first thrills due to this revolution, it is important to evaluate the impact of the proposed models and their overall quality to avoid the misinterpretation or overinterpretation of these models by biologists.
+One of the first applications of these models is in solving the `phase problem' encountered in X-ray crystallography in calculating electron-density maps from diffraction data.
+Indeed, the most frequently used technique to derive electron-density maps is molecular replacement.
+As this technique relies on knowledge of the structure of a protein that shares strong structural similarity with the studied protein, the availability of high-accuracy models is then definitely critical for successful structure solution.
+After the collection of a 2.45 Å resolution data set, we struggled for two years in trying to solve the crystal structure of a protein involved in the nonsense-mediated mRNA decay pathway, an mRNA quality-control pathway dedicated to the elimination of eukaryotic mRNAs harboring premature stop codons.
+We used different methods (isomorphous replacement, anomalous diffraction and molecular replacement) to determine this structure, but all failed until we straightforwardly succeeded thanks to both AlphaFold and RoseTTAFold models.
+Here, we describe how these new models helped us to solve this structure and conclude that in our case the AlphaFold model largely outcompetes the other models.
+We also discuss the importance of search-model generation for successful molecular replacement.

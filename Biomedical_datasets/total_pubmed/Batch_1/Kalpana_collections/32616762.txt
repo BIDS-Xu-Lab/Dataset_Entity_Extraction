@@ -1,0 +1,10 @@
+This meta-analysis is aimed to investigate the association between the neutrophil-to-lymphocyte ratio (NLR) and obstructive sleep apnea (OSA).
+The PubMed, Web of Science, Google Scholar, and Cochrane Library databases were searched to collect all relevant articles.
+The pooled standardized mean difference (SMD) with a 95% confidence interval (CI) was calculated using the random effects model.
+In addition, subgroup analysis and meta-regression analysis were performed.
+Eleven eligible articles containing 2,259 patients with OSA were included in this study.
+Pooled outcomes revealed that the NLR was significantly higher in patients with OSA than in controls (SMD 0.62, 95% CI 0.29-0.94, P = 0.002).
+In subgroup analyses, differences in the NLR between patients and controls increased with worsening OSA grades.
+Furthermore, meta-regression analysis showed that differences in mean BMI exerted a significant effect on differences in the NLR (P = 0.0003).
+In summary, our meta-analysis demonstrated that the NLR in OSA patients was significantly higher than that in controls, and the difference was larger in patients with severe OSA.
+These results indicate that the NLR may be a reliable marker for detecting systemic inflammation and predicting disease severity in patients with OSA.

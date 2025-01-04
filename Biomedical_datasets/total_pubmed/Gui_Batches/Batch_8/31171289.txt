@@ -1,0 +1,5 @@
+The current scientific literature proposes that both the amount and type of dietary fat modulate homeostasis of the gut microbiota; disturbances in homeostasis may have metabolic consequences with potentially serious clinical manifestations.
+The evidence for interactions between dietary fat and gut microbiota has been mostly derived from animal studies, but there is now also evidence emerging from human studies.
+We will review the current literature on how dietary fat influences the gut microbiota, particularly focusing on the type of fat.
+Mechanisms detailing how this crosstalk may impact on host metabolism and health will also be discussed.
+Some studies have reported somewhat controversial findings and therefore we will evaluate critically which possible aspects should be considered when interpreting current and planning further studies to explore the diet-microbiota crosstalk and its metabolic and clinical implications for the host.

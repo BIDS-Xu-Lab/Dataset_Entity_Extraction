@@ -1,0 +1,13 @@
+Erythrocyte survival times were measured in healthy Thai controls and in patients following clearance of asexual P. falciparum or P. vivax parasitaemia.
+In five controls the mean cell life (MCL) of compatible donor erythrocytes was 89.6 d (mean range 73-101 d) compared with a mean MCL of 56.8 d (range 30-66 d) for autologous erythrocytes in 12 falciparum patients.
+In one of these patients the survival curve was biphasic with a rapid loss of some labelled cells.
+The survival of compatible donor erythrocytes was also studied in 10 patients and two types of survival curve could be distinguished.
+In five patients the cells had a mean MCL of 64.4 d (range 42-90 d).
+In the others survival curves were curvilinear, suggesting a complex mechanism of cell clearance or the presence of more than one cell population.
+There was initially a more rapid rate of destruction.
+In P. vivax malaria the MCL of autologous erythrocytes in seven patients was a mean of 67.2 d (range 34-74 d) and that of compatible donor cells in six patients was 66.8 d (range 54-76 d).
+In all except one of these patients both autologous and donor cell survival curves could be fitted to straight lines.
+No increase in cell-bound IgG or C3 was evident in 12 patients tested.
+The differences between the mean MCL in all the groups of patients and the controls were statistically significant at the 5% level.
+This indicates an increased rate of erythrocyte destruction following clearance of P. falciparum or P. vivax parasites which is not antibody or complement mediated.
+The mechanism is unknown, but appears to be extrinsic to the erythrocytes themselves and may result from nonspecific activation of the reticuloendothelial function associated with the parasitic infection.

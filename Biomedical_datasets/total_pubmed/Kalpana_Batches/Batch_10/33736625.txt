@@ -1,0 +1,14 @@
+A simple, non-quantitative, and cost-effective diagnostic tool would enable the diagnosis of flatfoot without need for specialized training.
+A simple footprint assessment board that investigates which toe the cord passes through from the centre point of the heel to the most lateral point of the medial contour of the footprint has been developed to assess flatfoot.
+The purpose of this study was to verify the validity of a simple footprint assessment board for flatfoot.
+Thirty-five consecutive patients with foot pain, foot injury, or any associated symptoms who underwent computed tomography (CT) were analysed prospectively.
+At the time of the CT scan, a footprint analysis using a simple footprint assessment board was performed.
+The navicular index, tibiocalcaneal angle, and calcaneal inclination angle were evaluated by CT to assess flat feet.
+These three criteria were compared to those evaluated with the simple footprint assessment board by regression analysis.
+In addition, the same analysis was conducted separately for young, middle-aged, and older patients in order to investigate each age group.
+The navicular index and tibiocalcaneal angle generally decreased as the score of the simple footprint assessment board increased.
+Calcaneal inclination angle generally increased as the score of the simple footprint assessment board increased.
+As the scores of the simple footprint assessment board decreased by approaching the great toe, the navicular index and tibiocalcaneal angle were higher and calcaneal inclination angle was lower, which is indicative of a higher likelihood of flatfoot.
+The scores derived from the simple footprint assessment board was correlated with these three criteria measured by CT, not only when the result of simple footprint assessment board was set as a non-continuous variable but also when the result was set as a continuous variable.
+The results of the age-stratified survey were similar for all groups.
+The findings of this study suggest that a simple footprint assessment board can be potentially useful to detect flatfoot.

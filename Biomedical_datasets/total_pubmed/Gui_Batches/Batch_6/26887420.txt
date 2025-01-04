@@ -1,0 +1,15 @@
+Of patients undergoing surgery, 22 to 57% have been reported to be using naturopathic medicines.
+Several of these medicines have been reported to increase bleeding or enhance the effect of other drugs that increase bleeding.
+The Swedish Medical Products Agency recommends cessation of the use of the naturopathic medicines echinacea, fish oil, ginkgo biloba, ginseng, St. John's wort, valeriana and garlic 2 weeks before surgery.
+The aim of this pilot study was to examine the effects of these 7 naturopathic medicines in healthy humans by utilising multiple electrode aggregometer (Multiplate) and viscoelastic rotational thromboelastometer (ROTEM) to obtain data for sample size calculation before a larger trial.
+Thirty-five healthy volunteers ingested one of the listed naturopathic medicines for 7 days.
+Each naturopathic medicine was taken in a recommended standard dose by 5 volunteers.
+ROTEM clot initiation (CT), clot formation (CFT), α-angle (AA) and clot structure (MCF) were analysed with tissue factor activated (EXTEM) and native (NATEM) assays.
+The Multiplate platelet aggregation area under curve (AUC) was measured with adenosine diphosphate (ADP), collagen (COL) and arachidonic acid (ASPI) assays.
+Multiplate with ADP agonist decreased from 73 ± 8.7 AUC to 60 ± 5.9 AUC (P = 0.003, 95% confidence interval (CI) -19.2 to -7.6) after medication with fish oil, but fish oil had no effect on COL or ASPI reagents.
+None of the other naturopathic medicines had any effect on Multiplate aggregometry.
+ROTEM NATEM-CFT increased from 217 ± 32 s to 283 ± 20 (P = 0.009, 95% CI 26.8 to 107), and NATEM-AA decreased from 52 ± 3.9° to 44 ± 2.3° (P = 0.009, 95 % CI -12.0 to -3.2) after medication with fish oil.
+There were no significant changes in the other NATEM or EXTEM parameters.
+The other naturopathic medicines had no significant effects on ROTEM or Multiplate aggregometry.
+We have demonstrated that a recommended standard intake of 1260 mg Ω-3 polyunsaturated fatty acids (fish oil) daily - but not echinacea, ginkgo biloba, ginseng, St. John's wort, valeriana or garlic - may decrease platelet aggregation and clot formation.
+A larger trial in this setting would be meaningful to perform.

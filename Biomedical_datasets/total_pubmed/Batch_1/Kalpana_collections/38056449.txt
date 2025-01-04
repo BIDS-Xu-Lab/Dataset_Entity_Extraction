@@ -1,0 +1,10 @@
+Urosaurus nigricaudus is a phrynosomatid lizard endemic to the Baja California Peninsula in Mexico.
+This work presents a chromosome-level genome assembly and annotation from a male individual.
+We used PacBio long reads and HiRise scaffolding to generate a high-quality genomic assembly of 1.87 Gb distributed in 327 scaffolds, with an N50 of 279 Mb and an L50 of 3.
+Approximately 98.4% of the genome is contained in 14 scaffolds, with 6 large scaffolds (334-127 Mb) representing macrochromosomes and 8 small scaffolds (63-22 Mb) representing microchromosomes.
+Using standard gene modeling and transcriptomic data, we predicted 17,902 protein-coding genes on the genome.
+The repeat content is characterized by a large proportion of long interspersed nuclear elements that are relatively old.
+Synteny analysis revealed some microchromosomes with high repeat content are more prone to rearrangements but that both macro- and microchromosomes are well conserved across reptiles.
+We identified scaffold 14 as the X chromosome.
+This microchromosome presents perfect dosage compensation where the single X of males has the same expression levels as two X chromosomes in females.
+Finally, we estimated the effective population size for U. nigricaudus was extremely low, which may reflect a reduction in polymorphism related to it becoming a peninsular endemic.

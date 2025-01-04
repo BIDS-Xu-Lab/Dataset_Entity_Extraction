@@ -1,0 +1,8 @@
+Focal adhesion kinase (FAK; encoded by PTK2) was discovered over 30 years ago as a cytoplasmic protein tyrosine kinase that is localized to cell adhesion sites, where it is activated by integrin receptor binding to extracellular matrix proteins.
+FAK is ubiquitously expressed and functions as a signaling scaffold for a variety of proteins at adhesions and in the cell cytoplasm, and with transcription factors in the nucleus.
+FAK expression and intrinsic activity are essential for mouse development, with molecular connections to cell motility, cell survival and gene expression.
+Notably, elevated FAK tyrosine phosphorylation is common in tumors, including pancreatic and ovarian cancers, where it is associated with decreased survival.
+Small molecule and orally available FAK inhibitors show on-target inhibition in tumor and stromal cells with effects on chemotherapy resistance, stromal fibrosis and tumor microenvironment immune function.
+Herein, we discuss recent insights regarding mechanisms of FAK activation and signaling, its roles as a cytoplasmic and nuclear scaffold, and the tumor-intrinsic and -extrinsic effects of FAK inhibitors.
+We also discuss results from ongoing and advanced clinical trials targeting FAK in low- and high-grade serous ovarian cancers, where FAK acts as a master regulator of drug resistance.
+Although FAK is not known to be mutationally activated, preventing FAK activity has revealed multiple tumor vulnerabilities that support expanding clinical combinatorial targeting possibilities.

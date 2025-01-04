@@ -1,0 +1,11 @@
+The non-destructive evaluation (NDE) of civil infrastructure has been an active area of research in recent decades.
+The traditional inspection of civil infrastructure mostly relies on visual inspection using human inspectors.
+To facilitate this process, different sensors for data collection and techniques for data analyses have been used to effectively carry out this task in an automated fashion.
+This review-based study will examine some of the recent developments in the field of autonomous robotic platforms for NDE and the structural health monitoring (SHM) of bridges.
+Some of the salient features of this review-based study will be discussed in the light of the existing surveys and reviews that have been published in the recent past, which will enable the clarification regarding the novelty of the present review-based study.
+The review methodology will be discussed in sufficient depth, which will provide insights regarding some of the primary aspects of the review methodology followed by this review-based study.
+In order to provide an in-depth examination of the state-of-the-art, the current research will examine the three major research streams.
+The first stream relates to technological robotic platforms developed for NDE of bridges.
+The second stream of literature examines myriad sensors used for the development of robotic platforms for the NDE of bridges.
+The third stream of literature highlights different algorithms for the surface- and sub-surface-level analysis of bridges that have been developed by studies in the past.
+A number of challenges towards the development of robotic platforms have also been discussed.

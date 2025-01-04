@@ -1,0 +1,14 @@
+We developed new composites consisting of comparatively high molecular weight poly(methyl methacrylate) (hPMMA) and delta-alumina powder or alpha-alumina powder (designated delta-APC and alpha-APC, respectively) that allowed direct bone formation on their surfaces in vivo.
+delta-Alumina powder was manufactured by the fusing and quenching of pulverized alumina powder.
+It was composed mainly of delta-crystal phases of alumina.
+The purpose of this study was to evaluate the static mechanical properties and biological properties of these composites.
+The hPMMA itself was used as a reference material.
+The bending strength and Young's modulus of both delta-APC and alpha-APC were significantly higher than those of hPMMA, and the alumina composites are believed to be strong enough for use under weight-bearing conditions.
+The three types of composites were packed into the intramedullary canals of rat tibiae to evaluate osteoconductivity, as determined by an affinity index.
+Rats were sacrificed 4 and 8 weeks after surgery.
+The affinity index, equal to the length of bone in direct contact with the composite surface and expressed as a percentage of the total length of the composite surface, was calculated for each composite at each interval.
+Histologically, new bone had formed along the surfaces of both delta-APC and alpha-APC within 4 weeks.
+The affinity indices for both delta-APC and alpha-APC increased significantly with time up to 8 weeks.
+At 8 weeks, the affinity index for delta-APC was significantly higher than the indices for alpha-APC and hPMMA.
+This study revealed that the excellent osteoconductivity of delta-APC was due to the delta-crystal phases of alumina and the high molecular weight of hPMMA.
+delta-APC shows promise as a base for developing a highly osteoconductive and mechanically strong biomaterial.

@@ -1,0 +1,9 @@
+The fatty acid elongation system FAS-II is involved in the biosynthesis of mycolic acids, which are very long-chain fatty acids of the cell envelope specific to Mycobacterium tuberculosis and other mycobacteria.
+A potential component of FAS-II, the protein MabA (FabG1), was overexpressed and purified.
+Sedimentation equilibrium analyses revealed that MabA undergoes a dimer to tetramer self-association with a dissociation constant of 22 microM.
+The protein was detected by Western blotting in a mycobacterial cell-wall extract that produces mycolic acids and in the FPLC FAS-II fraction.
+MabA was shown to catalyse the NADPH-specific reduction of beta-ketoacyl derivatives, equivalent to the second step of a FAS-II elongation round.
+Unlike the known homologous proteins, MabA preferentially metabolizes long-chain substrates (C(8)-C(20)) and has a poor affinity for the C(4) substrate, in agreement with FAS-II specificities.
+Molecular modelling of MabA structure suggested the presence of an unusually hydrophobic substrate-binding pocket holding a unique Trp residue, suitable for fluorescence spectroscopic analyses.
+In agreement with the enzyme kinetic data, the spectral properties of MabA were different in the presence of the C(8)-C(16) ligands as compared to the C(4) ligand.
+Altogether, these data bring out distinctive enzymic and structural properties of MabA, which correlate with its predilection for long-chain substrates, in contrast to most of the other known ketoacyl reductases.

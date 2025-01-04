@@ -1,0 +1,9 @@
+The assessment and validation of sewer deterioration models is difficult because reliable data are missing.
+This makes it hard to find the most suitable model for a particular application.
+A network condition simulator (NetCoS) is used to generate synthetic sewer data for defined test scenarios.
+Thereby, the deterioration and replacement of pipes, the expansion of the sewer network, and classification errors are considered.
+Based on such synthetic data, deterioration models are calibrated and their results compared with the predefined scenario.
+While this approach is not capable of proving that a model performs correctly on a real application, it highlights the strengths and weaknesses of a model.
+The influence of condition classification errors and the age of the sewer system is investigated for two deterioration models.
+The results show, that classification errors can introduce substantial biases in the parameter estimation of the Markov model while in comparison the applied cohort model is fairly robust.
+Young sewer systems with fewer pipes in bad condition states on the other hand, have a very strong influence on the parameter uncertainties of the cohort model while the Markov model proved to be less sensitive.

@@ -1,0 +1,6 @@
+A high-resolution map for the arrangement of histones along DNA in the nucleosome core particle has been determined by a sequencing procedure based on crosslinking histones to the 5'-terminal DNA fragments produced by scission of one DNA strand at the point of crosslinking.
+The position of histones on DNA has been identified by measuring the length of crosslinked DNA fragments.
+The results demonstrate that each of the histones is arranged within several adjacent or dispersed DNA segments of a little less than 10 nucleotides in length.
+Histone-free intervals are located between these segments at the regular distances of about (10)n nucleotides from the 5' end of the DNA and are likely to face one side of the DNA helix.
+Histones appear to be arranged in a similar manner on both DNA strands and do not form "locks" around DNA.
+A linearized model of the core particle is proposed.

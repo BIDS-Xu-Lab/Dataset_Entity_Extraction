@@ -1,0 +1,20 @@
+This clinical study compared four different cases of extensive scalp malignancies treated by intensity-modulated radiation therapy.
+The merits of coplanar and non-coplanar Step-and-shoot total scalp irradiation techniques were evaluated against the background of the literature.
+Four patients (angiosarcoma, n=2, cutaneous B-cell non-Hodgkin lymphoma, B-NHL, n=1, mycosis fungoides, n=1) treated between 2008 and 2012 at our institution were retrospectively analyzed.
+For every patient with executed coplanar plan, a non-coplanar plan and vice versa has been calculated additionally for direct comparison.
+Three patients underwent limited surgery before radiotherapy.
+Individual adapted bolus material was used for every patient (helmet).
+Total scalp dose was 30 Gy (B-NHL, mycosis fungoides) and 50 Gy (angiosarcoma) with fractional doses of 2.0-2.5 Gy (without sequential local boost in three patients).
+Conformity and homogeneity indexes and dose volume histograms were used for treatment plan comparison.
+Dose hot spots were higher in coplanar plans (110-128% Dmax).
+Non-coplanar plans showed a more homogeneous dose distribution (HI = .12 - .17) and superior PTV coverage (88 - 96%).
+Target dose coverage was 81-117% in non-coplanar and 30-128% in coplanar plans.
+Coplanar plans yielded a stronger dose gradient across the target (.7-1.6 Gy/mm) compared to non-coplanar plans (.8-1.3 Gy/mm).
+The most conformal plan was a non-coplanar plan (CI = .7).
+Mean and maximum brain doses were comparable and showed an almost linear decrease between min. and max. dose.
+The optic chiasm and brain stem was spared most with non-coplanar plans, mean doses to the lenses ranged between 4 and 8 Gy and were higher in non-coplanar plans as were doses to the optic nerves.
+Radiotherapy tolerance was acceptable and acute side effects included erythema, scalp pain, alopecia and radiodermatitis which all spontaneously resolved.
+Two patients accomplished partial response, two patients showed complete response after radiotherapy.
+Three patients had locally controlled tumors without recurrence until their deaths or at last follow up, one patient had local progression shortly after radiotherapy.
+Photon-IMRT is an effective and feasible approach to treat extensive scalp malignancies.
+Non-coplanar beams could increase dose homogeneity and PTV coverage and might reduce doses particularly to the optic chiasm.

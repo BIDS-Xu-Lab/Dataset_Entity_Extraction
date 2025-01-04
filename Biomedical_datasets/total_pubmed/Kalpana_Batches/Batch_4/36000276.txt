@@ -1,0 +1,11 @@
+Dual-energy X-ray absorptiometry (DXA) remains the cornerstone for osteoporosis evaluation in Thalassemia major.
+However, several drawbacks have been observed in this unique setting.
+We sought to determine the correlation between quantitative CT (QCT) and DXA-derived parameters; secondarily, we aimed to investigate the role of the two techniques in predicting the risk of fracture.
+We retrospectively included patients with β-thalassemia major who had undergone both lumbar and femoral DXA examinations, and CT scans including the lumbar spine, performed for disparate diagnostic issues, within 4 months from the DXA.
+CT data were examined employing a phantom-less QCT method for bone mineral density (BMD) assessment.
+We also retrieved any spontaneous or fragility fractures occurring from 1 year before up to 5 years after the date of DXA scans.
+QCT measures were significantly higher than those determined by DXA.
+The gap between QCT and DXA values was strongly associated with patient age.
+The most powerful predictive variable for risk of fracture was the ACR classification based on volumetric BMD obtained by QCT.
+DXA provided more negative measures than those determined by QCT.
+However, QCT seemed to evaluate thalassaemic osteopathy better than DXA, since volumetric BMD was a stronger predictor of fracture.

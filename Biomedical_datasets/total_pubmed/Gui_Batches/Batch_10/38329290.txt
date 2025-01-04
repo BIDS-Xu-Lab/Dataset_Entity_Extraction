@@ -1,0 +1,7 @@
+Herein, we propose a large-scale simulation approach to perform the stretch-induced crystallization of entangled polyethylene (PE) melts.
+Sufficiently long (1000 ns) united-atom molecular dynamics (UAMD) simulations for 16000 chains of 1000 consecutive CH2 united-atom particles under periodic boundary conditions were performed to achieve the crystallinity observed in experiments.
+Before the isothermal crystallization process, we applied uniaxial stretching as pre-elongation to the embedded strain memory on the entangled PE melts.
+We confirmed significant differences in the morphologies of crystal domains and scattering patterns for pre-elongation ratios of 400% and 800%.
+The obtained scattering patterns were consistent with the experimental results.
+Uniaxial stretching MD simulations revealed that the elastic modulus at 800% pre-elongation was stronger than that at 400% pre-elongation.
+From this observation, we can derive the structure-property relationship, wherein the magnitude of the pre-elongation governs the crystal domain structures and mechanical properties.

@@ -1,0 +1,8 @@
+Evaluations were made concerning the efficiency and location of the optimal index values of the e-OAE recording method of ILO88 on 10 normal hearing subjects and 10 subjects having inner ear hearing loss.
+Furthermore, noise from the surrounding environment, noise made during the time of measurement, and the depth of probe insertion into the external auditory meatus as well as the type of probe tip used, were also studied in relation to its effect on the e-OAE recording method in 5 other normal hearing subjects.
+The results were as follows; 1) Total echo power (TEP) and the highest peak between the 1-2kHz frequency range (HPP1-2) were considered to be the optimal index values for ILO88. 2)
+The surrounding noise did not cause any significant change in the TEP and HPP1-2 values.
+3) Noise during the actual measurement by the patient did not cause any significant change in the TEP and HPP1-2 values.
+4) The depth of probe insertion into the external auditory meatus had no significant effect upon the TEP and HPP1-2 values.
+5) Data reproducibility was difficult and e-OAE power was less for the pinch pump type ear cuff compared to the rubber and silicon probe tips.
+In conclusion, TEP and HPP1-2 were considered to be the optimal index values for ILO88, and with the use of an appropriate probe tip, it is possible to obtain accurate data with the application of the e-OAE recording method regardless of external noise from the surrounding environment or by patients such as infants.

@@ -1,0 +1,11 @@
+What has been missing from current assessment tools post knee arthroplasty is a means by which a patient's mobility and activity levels can be objectively measured over time in a real world setting.
+The Intelligent Device for Energy Expenditure and Activity (Minisun, Fresno, USA) (IDEEA) is one such device that meets these criteria.
+It quantifies activity by measuring energy expenditure and records the type of activity performed.
+The purposes of this study were to (i) determine if there were differences in energy expenditure in different groups of patients at various time points pre- and post-surgery and (ii) determine the correlations between energy expenditure and each of the subjective International Knee Documentation Committee (IKDC), Oxford and Tegner scoring systems.
+Sixty-five total knee arthroplasty (TKA) patients were recruited into a cross-sectional study to collect energy expenditure and activity data using the IDEEA.
+Data were collected preoperatively and post-operatively at 6-week, 3-month, 6-month and 12-month time intervals.
+Energy expenditure and type of activity did not significantly change over the five recording periods.
+The patients spent <5% of the recording time walking, stepping or in transitions between movements.
+Energy expenditure showed a low to moderate correlation with the subjective IKDC, Oxford and Tegner questionnaires.
+Current evaluation questionnaires may not accurately record activity levels and TKA patients spend less time walking than the normal population.
+We believe the IDEEA is an effective tool for objectively measuring activity and energy expenditure following knee arthroplasty.

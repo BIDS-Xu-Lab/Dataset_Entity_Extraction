@@ -1,0 +1,13 @@
+Lebrikizumab and dupilumab are monoclonal antibodies approved for treating moderate-to-severe atopic dermatitis (AD).
+Both have demonstrated efficacy and safety over the 16-week SOLOs and ADvocate trials.
+However, AD is a chronic and relapsing inflammatory disease, and the long-term maintenance of efficacy is critical for achieving disease control from the perspective of patients, physicians, and regulatory agencies.
+This study aims to compare the long-term efficacy and safety of lebrikizumab every 4 weeks (Q4W) and dupilumab every week or every 2 weeks (QW/Q2W) among adult patients who have achieved treatment efficacy following the induction period of 16 weeks.
+Lebrikizumab's efficacy was assessed using individual patient data (IPD) from the ADvocate 1 and 2 monotherapy trials.
+Dupilumab's efficacy was evaluated using aggregate data from the adult-exclusive SOLO-CONTINUE trial.
+Due to the absence of a common comparator trial arm, we employed an unanchored matching-adjusted indirect comparison (MAIC), a robust methodology widely accepted by health technology assessment (HTA) agencies.
+This re-weights ADvocate IPD to align with SOLO-CONTINUE's prognostic factors and effect modifiers.
+We compared lebrikizumab's adjusted outcomes with dupilumab outcomes at week 52, focusing on 75% improvement in the Eczema Area and Severity Index from baseline (EASI-75), Investigator's Global Assessment (IGA) score of 0 or 1, and overall adverse event (AE) rates.
+Sensitivity analyses were conducted to test various combinations of matching variables.
+[risk ratio (RR) 1.334; 95% confidence interval (CI) 1.02-1.74; p = 0.035].
+Both treatments demonstrated comparable efficacy in terms of EASI-75 maintenance (RR 0.937; 95% CI 0.78-1.13; p = 0.490) and similar AE rates (RR 1.052; 95% CI 0.90-1.23; p = 0.526).
+Our findings suggest that lebrikizumab Q4W may provide equal or superior long-term maintenance of efficacy measured with EASI-75 and IGA 0/1 compared with dupilumab QW/Q2W, with the advantage of requiring less frequent doses.

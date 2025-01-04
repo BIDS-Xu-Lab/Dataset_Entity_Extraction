@@ -1,0 +1,16 @@
+There is limited information on what clinical factors are associated with the development of pericardial effusion after leadless pacemaker implantation.
+We sought to determine predictors of and to develop a risk score for pericardial effusion in patients undergoing Micra leadless pacemaker implantation attempt.
+Patients (n = 2817) undergoing implant attempt from the Micra global trials were analysed.
+Characteristics were compared between patients with and without pericardial effusion (including cardiac perforation and tamponade).
+A risk score for pericardial effusion was developed from 18 pre-procedural clinical variables using lasso logistic regression.
+Internal validation and future prediction performance were estimated using bootstrap resampling.
+The scoring system was also externally validated using data from the Micra Acute Performance European and Middle East (MAP EMEA) registry.
+There were 32 patients with a pericardial effusion [1.1%, 95% confidence interval (CI): 0.8-1.6%].
+Following lasso logistic regression, 11 of 18 variables remained in the model from which point values were assigned.
+The C-index was 0.79 (95% CI: 0.71-0.88).
+Patient risk score profile ranged from -4 (lowest risk) to 5 (highest risk) with 71.8% patients considered low risk (risk score ≤0), 16.6% considered medium risk (risk score = 1), and 11.7% considered high risk (risk score ≥2) for effusion.
+The median C-index following bootstrap validation was 0.73 (interquartile range: 0.70-0.75).
+The C-index based on 9 pericardial effusions from the 928 patients in the MAP EMEA registry was 0.68 (95% CI: 0.52-0.83).
+The overall rate of pericardial effusion following Micra implantation attempt is 1.1% and has decreased over time.
+The risk of pericardial effusion after Micra implant attempt can be predicted using pre-procedural clinical characteristics with reasonable discrimination.
+The Micra Post-Approval Registry (ClinicalTrials.gov identifier: NCT02536118), Micra Continued Access Study (ClinicalTrials.gov identifier: NCT02488681), and Micra Transcatheter Pacing Study (ClinicalTrials.gov identifier: NCT02004873).

@@ -1,0 +1,12 @@
+Fetal alcohol spectrum disorder (FASD) is a lifelong condition.
+Early interventions targeting core neurocognitive deficits have the potential to confer long-term neurodevelopmental benefits.
+Time-targeted choline supplementation is one such intervention that has been shown to provide neurodevelopmental benefits that emerge with age during childhood.
+We present a long-term follow-up study evaluating the neurodevelopmental effects of early choline supplementation in children with FASD approximately 7 years on average after an initial efficacy trial.
+The initial study was a randomized, double-blind, placebo-controlled trial of choline vs. placebo in 2.5 to 5 year olds with FASD.
+Participants in this long-term follow-up study include 18 children (9 placebo; 9 choline) seen 7 years on average following initial trial completion.
+The mean age at follow-up was 11.0 years old.
+Diagnoses were 28% fetal alcohol syndrome (FAS), 28% partial FAS, and 44% alcohol-related neurodevelopmental disorder.
+The follow-up included measures of executive functioning and an MRI scan.
+Children who received choline had better performance on several tasks of lower-order executive function (e.g., processing speed) and showed higher white matter microstructure organization (i.e., greater axon coherence) in the splenium of the corpus callosum compared to the placebo group.
+These preliminary findings, although exploratory at this stage, highlight potential long-term benefits of choline as a neurodevelopmental intervention for FASD and suggest that choline may affect white matter development, representing a potential target of choline in this population.
+Prior to enrollment, this trial was registered with clinicaltrials.gov ( NCT01149538 ) on June 23, 2010.

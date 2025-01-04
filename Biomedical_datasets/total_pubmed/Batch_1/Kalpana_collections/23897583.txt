@@ -1,0 +1,13 @@
+Observational studies have suggested that antioxidant nutrients may reduce cancer and overall mortality risks.
+However, most randomized trials have failed to show survival benefits.
+Examining nonlinear associations between antioxidant levels and health outcomes may help to explain these discrepant findings.
+We evaluated all-cause, cancer, and cardiovascular mortality risks associated with quintiles (Q1-Q5) of serum antioxidant (vitamins C and E, β-carotene, and selenium) and vitamin A levels, in 16,008 adult participants of The Third National Health and Nutrition Examination Survey (NHANES III; 1988-1994).
+Over a median follow-up period of 14.2 years, there were 4,225 deaths, including 891 from cancer and 1,891 from cardiovascular disease.
+We observed a dose-response decrease in cancer and overall mortality risks with higher vitamin C levels.
+In contrast, for vitamin A, risk of cancer death decreased from Q1-Q2, with no further decline in risk at higher levels.
+For vitamin E, having levels in Q4 was associated with the lowest cancer mortality risk.
+Both vitamin A and E had U-shaped associations with all-cause mortality.
+Cancer mortality risks decreased from Q1-Q2 for β-carotene and from Q1-Q4 for selenium.
+However, for β-carotene and selenium, overall mortality risks decreased from Q1-Q2 but then did not change significantly with higher levels.
+Antioxidant supplement use should be studied in the context of overall mortality and other competing mortality risks.
+These data suggest the need for novel intervention studies where doses of these agents are individualized based on their serum levels, and possibly, markers of oxidative stress and systemic inflammatory response.

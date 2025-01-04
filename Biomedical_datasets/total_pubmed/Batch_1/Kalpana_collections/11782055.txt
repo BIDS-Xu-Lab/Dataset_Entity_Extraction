@@ -1,0 +1,8 @@
+A complication when assessing quality of life data longitudinally is that in many trials a substantial percentage of patients die before completing all of the assessments.
+Furthermore, a patient's risk of dying might be predicted by his current quality of life.
+This suggests jointly modelling quality of life and survival, and using this combined information to summarize the outcome.
+The aim of this paper is to address the complicated issues, such as death, present in analysing multiple-item ordinal quality of life data in clinical trials while recognizing the psychometric properties of the quality of life instrument being used.
+This is done by combining an item response model and Cox's proportional hazard model, where a latent variable process for quality of life determines the probability of selecting various options on quality of life items, and also serves as a time-dependent covariate in the survival model.
+We accomplish this by using Markov chain Monte Carlo methods to obtain parameter estimates.
+Then we compute a summary measure, area-under-QOL curve, to compare the efficacy of the treatments.
+The methods are illustrated with analysis of data from the Vesnarinone trial of patients with severe heart failure, in which quality of life was assessed with the Minnesota Living with Heart Failure Questionnaire.

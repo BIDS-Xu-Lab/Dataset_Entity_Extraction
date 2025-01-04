@@ -1,0 +1,6 @@
+Smac/DIABLO, a recently identified inhibitor of apoptosis protein (IAP)-binding protein, is released from the mitochondria during apoptosis and reportedly potentiates apoptosis by relieving the inhibition of IAPs on caspases.
+We now describe the molecular characterization of Smac beta, an alternatively spliced form of Smac, which lacks the mitochondrial-targeting sequence found in Smac and has a cortical distribution in both human embryonic kidney 293 and breast epithelial tumor MCF-7 cells.
+Smac beta, which binds IAPs in vitro, does not bind IAPs in intact cells due to cellular processing and removal of its NH(2)-terminal IAP-binding domain.
+Despite its inability to interact with IAPs in cells, processed Smac beta is proapoptotic, as demonstrated by its ability to potentiate apoptosis induced by both death receptor and chemical stimuli.
+Furthermore, expression of a NH(2)-terminally truncated Smac mutant (Delta75), which lacks the entire IAP-interacting domain, potentiates apoptosis to the same extent as Smac and Smac beta.
+Our data support the hypothesis that the main proapoptotic function of Smac and Smac beta is due to a mechanism other than IAP binding.

@@ -1,0 +1,13 @@
+There is conflicting data on the effect of vitamin K supplementation against vascular calcification in chronic kidney disease (CKD).
+We aimed to summarize current evidence from randomized controlled trials (RCTs) to determine whether vitamin K supplementation in CKD could attenuate vascular calcification.
+A systematic search was performed in MEDLINE, EMBASE, and Cochrane Central Library.
+RCTs assessing the effect of vitamin K supplementation on vascular calcification in CKD and reported measures relevant to vascular calcification were eligible for inclusion.
+Effect outcomes are changes of biochemical and imaging measures of vascular calcification, as well as vascular elasticity reflected by pulse wave velocity (PWV).
+Safety outcomes included any adverse event and death.
+The risk of bias was assessed according to Cochrane handbook guidelines.
+Mean differences or standardized mean differences (SMD) with 95% confidence intervals (CIs) of absolute and relative changes of each studied outcome between experimental and control groups were pooled using a random-effects model.
+In all, ten RCTs with 733 patients were included.
+Pooled results indicated a decrease in serum biomarkers relevant to vascular calcification to a certain extent, mild improvement in vascular elasticity reflected by PWV, yet, no significant change in calcification scores derived from radiology examinations.
+Half of the included studies had low risk of bias.
+Therefore, there is not yet solid evidence to support protective effects of vitamin K supplementation against vascular calcification in CKD.
+The results of ongoing RCTs are needed to further elucidate the value of vitamin K in this field.

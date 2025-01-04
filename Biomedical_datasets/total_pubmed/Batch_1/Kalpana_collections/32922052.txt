@@ -1,0 +1,12 @@
+Elagolix is an oral gonadotropin-releasing hormone antagonist approved in the United States for the management of moderate to severe pain associated with endometriosis.
+We performed a real-world evaluation of the demographic and clinical characteristics of women diagnosed with endometriosis who were initiating elagolix therapy in the United States.
+This retrospective cohort database analysis included women 18-49 years of age with ≥1 pharmacy claim for elagolix between August 2018 and December 2019 from the Copyright © 2020 Truven Health Analytics LLC.
+[617.x and N80.x]) on or before the index date.
+Baseline demographics, comorbidities, ICD code-based endometriosis anatomic site, endometriosis-related treatments, and pain symptoms were summarized descriptively.
+The study included 2083 patients with mean age at baseline of 33.2 ± 8.1 years.
+Comorbidities most commonly recorded were non-cancer, non-endometriosis pain (59.5%), including arthritis/joint pain (43.7%) and back/neck pain (31.7%), and mental disorder (40.7%), including anxiety (32.7%).
+The majority of endometriosis diagnosis codes recorded referred to unspecified location (52.3%) and pelvic peritoneum (23.0%); 61.0% of patients received a medical endometriosis-related treatment in the baseline period, with the most common treatments being contraceptives (various routes of administration, 40.2%) and progestins (31.7%).
+Additionally, 35.4% of the patients received an endometriosis-related surgery during baseline, with the most common being laparoscopy (33.2% of all patients).
+Opioids were used during the baseline period by 57.3% of the patients.
+For pain symptoms, 71.5%, 30.4%, and 19.3% of the patients had claims for pelvic pain, dysmenorrhea, and dyspareunia, respectively.
+Endometriosis therapies were used by a significant proportion of patients with endometriosis in the year immediately preceding elagolix initiation.

@@ -1,0 +1,15 @@
+Forward collision warning (FCW) and autonomous emergency braking (AEB) systems are increasingly available and prevent or mitigate collisions by alerting the driver or autonomously braking the vehicle.
+Threat-assessment and decision-making algorithms for FCW and AEB aim to find the best compromise for safety by intervening at the "right" time: neither too early, potentially upsetting the driver, nor too late, possibly missing opportunities to avoid the collision.
+Today, the extent to which activation times for FCW and AEB should depend on factors such as pedestrian speed and lane width is unknown.
+To guide the design of FCW and AEB intervention time, we employed a fractional factorial design, and determined how seven factors (crossing side, car speed, pedestrian speed, crossing angle, pedestrian size, zebra-crossing presence, and lane width) affect the driver's response process and comfort zone when negotiating an intersection with a pedestrian.
+Ninety-four volunteers drove through an intersection in a fixed-base driving simulator, which was based on open-source software (OpenDS).
+Several parameters, including pedestrian time-to-arrival and driver response time, were calculated to describe the driver response process and define driver comfort boundaries.
+Linear mixed-effect models showed that driver responses depended mainly on pedestrian time-to-arrival and visibility, whereas factors such as pedestrian size, zebra-crossing presence, and lane width did not significantly influence the driver response process.
+Drivers released the accelerator pedal in 99.8 % of the trials and braked in 89 % of the trials.
+Forty-six percent of the drivers changed their negotiation strategy (proportion of pedal braking to engine braking) to minimize driving effort over the course of the experiment.
+In fact, 51 % of the of the inexperienced drivers changed their response strategy whereas only 40 % of the experienced drivers did; nevertheless, all drivers behaved similarly, independent of driving experience.
+The flexible and customizable driving environment provided by OpenDS may be a viable platform for behavioural experiments in driving simulators.
+Results from this study suggest that visibility and pedestrian time-to-arrival are the most important variables for defining the earliest acceptable FCW and AEB activations.
+Fractional factorial design effectively compared the influence of seven factors on driver behaviour within a single experiment; however, this design did not allow in-depth data analysis.
+In the future, OpenDS might become a standard platform, enabling crowdsourcing and favouring repeatability across studies in traffic safety.
+Finally, this study advises future design and evaluation procedures (e.g. new car assessment programs) for FCW and AEB by highlighting which factors deserve further investigation and which ones do not.

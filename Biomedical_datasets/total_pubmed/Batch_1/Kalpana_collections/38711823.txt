@@ -1,0 +1,11 @@
+This study focuses on evaluating the prognostic value of the NDC80 kinetochore complex in ovarian cancer (OC) using the Gene Expression Omnibus (GEO) database and the Cancer Genome Atlas (TCGA) database and reveals the relationship between the NDC80 complex and immune infiltrates in OC.
+We collected data on NDC80 complex expression levels in both OC tissues and non-OC ovarian tissues from the University of California Santa Cruz Xena and GEO databases.
+The clinicopathological characteristics correlated with overall survival were analyzed using Cox regression and the Kaplan-Meier method.
+Gene Ontology analysis, Kyoto Encyclopedia of Genes and Genomes analysis, gene set enrichment analysis and CIBERSORT were performed using data from TCGA database.
+Immunohistochemical staining was used to verify the higher expression level of NUF2 protein in OC in vitro.
+Meanwhile, we utilized the Tumor Immune Estimation Resource to analyze the correlation between the NDC80 complex and immunocyte infiltration.
+The NDC80 complex expression level was prominently higher in OC tissues than in non-OC ovarian tissues and correlated with advanced histologic grade characteristics.
+Gene expression profiling interactive analysis and the Kaplan-Meier survival curve uncovered a close relationship between high expression of the NDC80 complex and poor overall survival in OC patients.
+The univariate Cox regression hazard model produced age, pathologic stage, tumor status, primary therapy outcome, SPC24 expression level, and Karnofsky performance score as prognostic factors for OC patients.
+NDC80 complex expression levels were highly associated with immune cell infiltration, showing NK CD56 bright cells and NK cells with a negative correlation and T helper 2 cells with a positive correlation (P<0.05).
+These findings provide evidence that an increased expression level of the NDC80 complex is closely associated with the progression of OC and could also serve as a novel target of immunotherapy in OC.

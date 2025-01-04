@@ -1,0 +1,15 @@
+Despite ongoing efforts aimed to improve treatment engagement for people with substance-related disorders, evidence shows modest rates of utilization as well as client-perceived barriers to care.
+Patient-centered care (PCC) is one widely recognized approach that has been recommended as an evidence-based practice to improve the quality of substance use disorder treatment.
+PCC includes four core principles: a holistic and individualized focus to care, shared decision-making and enhanced therapeutic alliance.
+This scoping review aimed to explore which PCC principles have been described and how they have defined and measured among people with substance-related disorders.
+Following the iterative stages of the Arksey and O'Malley scoping review methodology, empirical (from Medline, Embase, PsycINFO, CINAHL and ISI Web of Science) and grey literature references were eligible if they focused on people accessing treatment for substance-related disorders and described PCC.
+Two reviewers independently screened the title/abstract and full-texts of references.
+Descriptive analyses and a directed content analysis were performed on extracted data.
+One-hundred and forty-nine references met inclusion from the 2951 de-duplicated references screened.
+Therapeutic alliance was the most frequent principle of PCC described by references (72%); this was consistently defined by characteristics of empathy and non-judgment.
+Shared decision-making was identified in 36% of references and was primarily defined by client and provider strategies of negotiation in the treatment planning process.
+Individualized care was described by 30% of references and included individualized assessment and treatment delivery efforts.
+Holistic care was identified in 23% of references; it included an integrated delivery of substance use, health and psychosocial services via comprehensive care settings or coordination.
+Substance use and treatment engagement outcomes were most frequently described, regardless of PCC principle.
+This review represents a necessary first step to explore how PCC has been defined and measured for people accessing substance use disorder treatment.
+The directed content analysis revealed population and context-specific evidence regarding the defining characteristics of PCC-principles that can be used to further support the implementation of PCC.

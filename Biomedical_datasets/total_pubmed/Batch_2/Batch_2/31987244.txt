@@ -1,0 +1,9 @@
+Pomegranate contains remarkable amounts of phenolic ingredients and it has been related to the antioxidant capacity of this fruit.
+Several primary studies show that pomegranate intake can improve antioxidant status.
+The objective of this systematic review and meta-analysis consisted in investigating the effect of pomegranate on oxidative stress (OS) parameters.
+A comprehensive electronic database search in Scopus, Web of science, Embase, Cochrane library and Medline was performed to identify eligible randomized controlled trials (RCTs).
+A meta-analysis of included studies was performed on selected variables using a random-effects model.
+Quality assessment was conducted by means of Cochrane risk of bias assessment tool.
+A total of 11 RCTs reporting data from 484 participants included.
+Meta-analysis of data from 11 included RCTs did not support convincing evidence as to a significant increasing effect of pomegranate intake in TAC (SMD: 0.43 ; 95 %CI: -0.19, 1.06), Gpx (SMD: 0.18, 95 % CI: -0.25, 0.62, p = 0.4) and paraxonase (SMD: 0.36, 95 % CI: -0.50, 1.22, p= 0.41) as well as not significant decrease in Malondialdehyde (MDA) (SMD: -0.81, 95 % CI: -1.79, 0.09, P = 0.08).
+Future well-designed clinical trials are needed before definite conclusive claims can be made about the effect of pomegranate on OS parameters.

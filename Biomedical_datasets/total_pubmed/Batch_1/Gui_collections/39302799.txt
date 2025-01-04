@@ -1,0 +1,11 @@
+Offline reinforcement learning (RL) aims to learn the possible policy from a fixed dataset without real-time interactions with the environment.
+By avoiding the risky exploration of the robot, this approach is expected to significantly improve the robot's learning efficiency and safety.
+However, due to errors in value estimation from out-of-distribution actions, most offline RL algorithms constrain or regularize the policy to the actions contained within the dataset.
+The cost of such methods is the introduction of new hyperparameters and additional complexity.
+In this article, we aim to adapt offline RL to robotic manipulation with minimal changes and to avoid evaluating out-of-distribution actions as much as possible.
+Therefore, we improve offline RL with in-sample advantage regularization (ISAR).
+To mitigate the impact of unseen actions, the ISAR learns the state-value function only with the dataset sample to regress the optimal action-value function.
+Our method calculates the advantage function of action-state pairs based on in-sample value estimation and adds a behavior cloning (BC) regularization term in the policy update.
+This improves sample efficiency with minimal changes, resulting in a simple and easy-to-implement method.
+The experiments of the D4RL robot benchmark and multigoal sparse rewards robotic tasks show that the ISAR achieves excellent performance comparable to current state-of-the-art algorithms without the need for complex parameter tuning and too much training time.
+In addition, we demonstrate the effectiveness of our method on a real-world robot platform.

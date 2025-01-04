@@ -1,0 +1,13 @@
+Environmental pollutants containing halogenated organic compounds e.g. haloacid, can cause a plethora of health problems.
+The structural and functional analyses of the gene responsible of their degradation are an important aspect for environmental studies and are important to human well-being.
+It has been shown that some haloacids are toxic and mutagenic.
+Microorganisms capable of degrading these haloacids can be found in the natural environment.
+One of these, a soil-borne Burkholderia mallei posses the ability to grow on monobromoacetate (MBA).
+This bacterium produces a haloacid dehalogenase that allows the cell to grow on MBA, a highly toxic and mutagenic environmental pollutant.
+For the structural and functional analysis, a 346 amino acid encoding protein sequence of haloacid dehalogenase is retrieve from NCBI data base.
+Primary and secondary structure analysis suggested that the high percentage of helices in the structure makes the protein more flexible for folding, which might increase protein interactions.
+The consensus protein sub-cellular localization predictions suggest that dehalogenase protein is a periplasmic protein 3D2GO server, suggesting that it is mainly employed in metabolic process followed by hydrolase activity and catalytic activity.
+The tertiary structure of protein was predicted by homology modeling.
+The result suggests that the protein is an unstable protein which is also an important characteristic of active enzyme enabling them to bind various cofactors and substrate for proper functioning.
+Validation of 3D structure was done using Ramachandran plot ProsA-web and RMSD score.
+This predicted information will help in better understanding of mechanism underlying haloacid dehalogenase encoding protein and its evolutionary relationship.

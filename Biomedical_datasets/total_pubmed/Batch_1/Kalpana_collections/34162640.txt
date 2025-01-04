@@ -1,0 +1,10 @@
+Social deprivation is associated with worse asthma outcomes.
+The Social Deprivation Index is a composite measure of social determinants of health used to identify neighbourhood-level disadvantage in healthcare.
+Our objective was to determine if higher neighbourhood-level social deprivation is associated with documented asthma care quality measures among children treated at community health centres (CHCs).
+We used data from CHCs in 15 states in the Accelerating Data Value Across a National Community Health Center Network (ADVANCE).
+The sample included 34 266 children with asthma from 2008 to 2017, aged 3-17 living in neighbourhoods with differing levels of social deprivation measured using quartiles of the Social Deprivation Index score.
+We conducted logistic regression to examine the odds of problem list documentation of asthma and asthma severity, and negative binomial regression for rates of albuterol, inhaled steroid and oral steroid prescription adjusted for patient-level covariates.
+Children from the most deprived neighbourhoods had increased rates of albuterol (rate ratio (RR)=1.22, 95% CI 1.13 to 1.32) compared with those in the least deprived neighbourhoods, while the point estimate for inhaled steroids was higher, but fell just short of significance at the alpha=0.05 level (RR=1.16, 95% CI 0.99 to 1.34).
+We did not observe community-level differences in problem list documentation of asthma or asthma severity.
+Higher neighbourhood-level social deprivation was associated with more albuterol and inhaled steroid prescriptions among children with asthma, while problem list documentation of asthma and asthma severity varied little across neighbourhoods with differing deprivation scores.
+While the homogeneity of the CHC safety net setting studied may mitigate variation in diagnosis and documentation of asthma, enhanced clinician awareness of differences in community risk could help target paediatric patients at risk of lower quality asthma care.

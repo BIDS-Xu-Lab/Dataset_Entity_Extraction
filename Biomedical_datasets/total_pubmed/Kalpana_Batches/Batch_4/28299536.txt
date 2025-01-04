@@ -1,0 +1,11 @@
+Purpose To explore the usefulness of the Readiness for return to work scale in individuals participating in occupational rehabilitation, by assessing the association between the scale and return to work (RTW), and comparing the scale to a question assessing individuals' expectations about length of sick leave.
+Method Prospective cohort study with 9 months follow-up.
+Participants took part in one of two randomized clinical trials.
+Associations between the Readiness for RTW scale and RTW was analyzed using linear and logistic regression, with adjustment for age, gender and education.
+The Readiness for RTW scale was compared to a self-reported question assessing participants' expectations about length of sick leave using adjusted/pseudo R2.
+Results For participants not working (n = 96), high scores on two dimensions (Prepared for action-self-evaluative and Prepared for action-behavioral) were associated with a higher probability of sustainable RTW and more working days.
+For those working (n = 121), high scores on the Uncertain maintenance dimension was associated with a lower probability of sustainable RTW and less working days.
+Generally, models including the Readiness for RTW dimensions were not as good at explaining work outcomes as models including a single expectation question.
+Stage allocation, allocating participants to the dimension with the highest score, was problematic due to several tied scores between (not necessarily adjacent) dimensions.
+Conclusions Three of the Readiness for RTW dimensions were associated with RTW.
+However, several weaknesses with the Readiness for RTW scale were established and we particularly do not recommend the stage allocation approach for clinical use in its current form.

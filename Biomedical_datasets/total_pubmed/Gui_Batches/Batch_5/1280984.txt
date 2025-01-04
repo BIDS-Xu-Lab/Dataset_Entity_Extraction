@@ -1,0 +1,8 @@
+Zinc, cadmium, and copper are known to interact in many transport processes, but the mechanism of inhibition is widely debated, being either competitive or noncompetitive according to the experimental model employed.
+We investigated the mechanisms of inhibition of zinc transport by cadmium and copper using renal proximal cells isolated from rabbit kidney.
+Initial rates of 65Zn uptake were assessed after 0.5 min of incubation.
+The kinetics parameters of zinc uptake obtained at 20 degrees C were a Jmax of 208.0 +/- 8.4 pmol.min-1.(mg protein)-1, a Km of 15.0 +/- 1.5 microM and an unsaturable constant of 0.259 +/- 0.104 (n = 8).
+Cadmium at 15 microM competitively inhibited zinc uptake.
+In the presence of 50 microM cadmium, or copper at both 15 and 50 microM, there was evidence of noncompetitive inhibition.
+These data suggest that zinc and cadmium enter renal proximal cells via a common, saturable, carrier-mediated process.
+The mechanisms of the noncompetitive inhibition observed at higher concentrations of cadmium or with copper require further investigation, but may involve a toxic effect on the cytoskeleton.

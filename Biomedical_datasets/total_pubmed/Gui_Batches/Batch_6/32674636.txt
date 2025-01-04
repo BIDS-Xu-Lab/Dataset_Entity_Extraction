@@ -1,0 +1,14 @@
+To investigate the influence of cyclosporin A (CsA) pre-treatment and etomidate (ETO) post-treatment on lung injury induced by limb ischemia-reperfusion (I/R) in rats.
+Rats were randomly divided into five groups: sham, I/R, I/R+CsA, I/R+ETO, and I/R+CsA+ETO.
+Limb I/R lung injury was established by bilateral clamping of the femoral arteries for 2 hours.
+Following reperfusion for 3 hours, blood gas analysis was performed.
+Pathological changes were assessed using immunohistochemistry.
+The apoptosis index (AI) and wet/dry weight ratio (W/D) were calculated.
+Levels of Fas protein and FasL mRNA were assessed by western blotting and RT-PCR, respectively.
+Tumor necrosis factor (TNF)-α and interleukin (IL)-1β were detected by ELISA.
+I/R resulted in decreased PaO2 but increased AI, W/D, Fas, FasL mRNA, TNF-α and IL-1β.
+Scattered punctate apoptosis and necrosis were observed by immunohistochemistry.
+Compared with the I/R group, the I/R+ETO and I/R+CsA groups showed increased SpO2, decreased AI, W/D, Fas, FasL mRNA, TNF-α and IL-1β, and decreased numbers of apoptotic and necrotic cells.
+Combined treatment with CsA+ETO resulted in more dramatic changes in these parameters.
+ETO post-treatment and CsA pretreatment reduced lung injury induced by limb I/R in rats.
+The mechanism may be related to synergistic inhibition of Fas/FasL signaling.

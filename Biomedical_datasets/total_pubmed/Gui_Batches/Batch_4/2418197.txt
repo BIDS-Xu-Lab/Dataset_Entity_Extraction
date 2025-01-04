@@ -1,0 +1,10 @@
+Concentrations of monoamines and their metabolites as well as the activities of tyrosine hydroxylase (TH) and of choline acetyltransferase were investigated in various brain regions of control and streptozotocin-treated Sprague-Dawley rats.
+The animals were rendered diabetic by a single i.v. injection of streptozotocin (65 mg/kg) and killed 10, 30 and 90 days after the treatment.
+During the course of diabetes, progressive decreases in the activity of TH and a marked increase in the concentration of norepinephrine were observed in several brain regions, including thalamus, hypothalamus, medulla and midbrain.
+This inverse relationship between TH activity and norepinephrine content was also seen in the pons but only in the 90-day diabetic animals.
+Lower TH activity in the hypothalamus of 30-day diabetic rats reflected a decreased Vmax, but no difference in the Km.
+The number of alpha adrenergic receptors was increased significantly in the hypothalamus, medulla and midbrain of the 30-day diabetic rats.
+The concentrations of dopamine and serotonin in various brain regions of the 10- and 30-day diabetic rats were generally not significantly different from controls.
+Concentrations of the acidic metabolites of these neurotransmitters, dihydroxyphenylacetic acid and 5-hydroxyindolacetic acid, were, however, greatly reduced.
+The activity of choline acetyltransferase, a marker of presynaptic cholinergic neuron activity, remained unaltered during the course of diabetes.
+These data suggest that uncontrolled diabetes is associated with a significant disturbance of brain monoamine metabolism.

@@ -1,0 +1,12 @@
+To date, most large series of laparoscopic colorectal procedures have been descriptive reports that do not account for the potentially complex interaction of outcome predictors.
+The purpose of this study was to identify the preoperative factors that predict operative time, conversion to open surgery, and intraoperative and postoperative complications in laparoscopic colorectal surgery.
+Multiple regression techniques were used to analyze 416 laparoscopic resections from a prospective database of laparoscopic colorectal procedures performed between April 1991 and April 1998.
+The preoperative factors considered were patient-specific (age, gender, weight) or disease-specific (diagnosis of cancer, Crohn's disease, diverticulitis, fistula).
+Surgical experience of < or =50 cases was also considered.
+Finally, all resections were represented by a combination of the following five procedure components: resections of the (a) hepatic flexure, (b) splenic flexure, (c) sigmoid, and (d) rectum, or (e) a perineal dissection.
+Patient weight, Crohn's disease, and each of the five individual procedure components incrementally lengthened operative time.
+Conversion to open surgery was influenced by the patient's weight, malignancy, and early experience of the surgeon.
+The risk of a postoperative complication was increased by the patient's age, resection of the perineum, and the presence of a fistula.
+No factors significantly influenced the risk of an intraoperative complication.
+Several preoperative factors that significantly affect outcomes in laparoscopic colorectal resections have been identified.
+Consideration of these factors may help in case selection and estimation of operating time; they should also be valuable when patients are informed of their risk of conversion and complications.

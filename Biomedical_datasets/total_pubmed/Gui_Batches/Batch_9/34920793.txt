@@ -1,0 +1,5 @@
+Chimeric Antigen Receptor T (CAR-T) cells are currently approved for B cell malignancies only, in children and adults.
+Despite a lack of robust evidence to approve such cellular immunotherapy for pediatric solid tumors, there is a growing interest for this approach in the treatment of pediatric brain tumors.
+Following the identification of tumor antigens as targets, the first clinical trials demonstrated some degree of clinical and biological responses to CAR-T cells for such tumor types.
+Additionaly, several preclinical studies have recently identified new attractive targets and antigen combination strategies, along with a superior tumor trafficking following locoregional administration.
+We review here the preclinical and clinical knowledge at the basis of the current clinical development of CAR-T cells for pediatric brain tumors.

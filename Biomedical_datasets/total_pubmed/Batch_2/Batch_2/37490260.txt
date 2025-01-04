@@ -1,0 +1,14 @@
+To construct and validate an intraoperative hypothermia risk prediction model for elderly patients undergoing total hip arthroplasty (THA).
+We collected data from 718 patients undergoing THA in a tertiary hospital from January 2021 to December 2022.
+Of these patients, 512 were assigned to the modeling group from January 2021 to April 2022, and 206 participants were assigned to the validation group from May 2022 to December 2022.
+A logistic regression analysis was performed to construct the model.
+The area under the curve (AUC) was used to test the model's predictive ability.
+The incidence rate of intraoperative hypothermia was 51.67%.
+The risk factors entered into the risk prediction model were age, preoperative hemoglobin level, intraoperative blood loss, postoperative hemoglobin level, and postoperative systolic blood pressure.
+The model was constructed as follows: logit (P) = - 10.118 + 0.174 × age + 1.366 × 1 (preoperative hemoglobin level) + 0.555 × 1 (postoperative hemoglobin level) + 0.009 × 1 (intraoperative blood loss) + 0.066 × 1 (postoperative systolic blood pressure).
+Using the Hosmer-Lemeshow test, the P value was 0.676 (AUC, 0.867).
+The Youden index, sensitivity, and specificity were 0.602, 0.790, and 0.812, respectively.
+The incidence rates of intraoperative hypothermia in the modeling and validation groups were 53.15% and 48.06%, respectively.
+The correct practical application rate was 89.81%.
+This model had good application potential.
+This risk prediction model has good predictive value and can accurately predict the occurrence of intraoperative hypothermia in patients who undergo THA, which provides reliable guidance for clinical work and has good clinical application value.

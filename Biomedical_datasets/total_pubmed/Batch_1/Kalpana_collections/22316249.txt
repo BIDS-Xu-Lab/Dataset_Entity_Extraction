@@ -1,0 +1,10 @@
+Mouse lines are being selectively bred in replicate for high blood ethanol concentrations (BECs) achieved after a short period of ethanol (EtOH) drinking early in the circadian dark phase.
+High Drinking in the Dark-1 (HDID-1) mice were in selected generation S18, and the replicate HDID-2 line in generation S11.
+To determine other traits genetically correlated with high DID, we compared naïve animals from both lines with the unselected, segregating progenitor stock, HS/Npt.
+Differences between HDID-1 and HS would imply commonality of genetic influences on DID and these traits.
+HDID-1 mice showed less basal activity, greater EtOH stimulated activity, and greater sensitivity to EtOH-induced foot slips than HS.
+They showed lesser sensitivity to acute EtOH hypothermia and longer duration loss of righting reflex than HS.
+HDID-1 and control HS lines did not differ in sensitivity on 2 measures of intoxication, the balance beam and the accelerating rotarod.
+None of the acute response results could be explained by differences in EtOH metabolism.
+HDID-2 differed from HS on some, but not all, of the above responses.
+These results show that some EtOH responses share common genetic control with reaching high BECs after DID, a finding consistent with other data regarding genetic contributions to EtOH responses.

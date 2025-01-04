@@ -1,0 +1,10 @@
+To examine the effects of walking on a treadmill at varying gradients and speeds on ankle muscle activation in stroke survivors, and to compare the effect of increasing speed on plantarflexor muscle activity in participants grouped according to spasticity severity.
+Participants walked on a standard treadmill at 3 different inclines (0°, 3°, 6°) and speeds (self-selected, self-selected+20%, self selected+40%).
+A convenience sample of stroke survivors (N=19; 13 men, 6 women) available in university clinics.
+Electromyographic activity of medial gastrocnemius (MG) and tibialis anterior (TA) muscles at push-off phase of the gait.
+Paretic MG muscle activity increased (but TA did not change) at faster speeds irrespective of the incline (P<.05).
+In contrast, MG muscle activity increased at a higher incline in the nonparetic side (P<.05), but not in the paretic side (P>.05).
+In the high-spasticity subgroup (Tardieu Scale ≥ 2), paretic MG activity increased as walking speed increased (P=.004).
+Stroke survivors appear to use distinct muscle activation strategies on the paretic and nonparetic sides in response to different walking speeds and inclines.
+Our data indicates that individuals with stroke can be safely trained on a treadmill to walk 20% to 40% above the self-selected pace to improve MG output without adversely affecting TA output.
+The speed-dependent characteristic of spasticity may help generate greater MG activity during push-off.

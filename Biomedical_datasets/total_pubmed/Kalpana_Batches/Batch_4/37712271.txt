@@ -1,0 +1,13 @@
+To analyze the expression of TMEM64 in hepatocellular carcinoma (HCC) and investigate the effect of TMEM64 expression level on proliferation and invasion of HCC cells in vitro.
+We analyzed the expression level of TMEM64 in HCC and adjacent tissues based on data from TCGA and GTEx databases.
+The prognostic value of TMEM64 for HCC patients was examined using Kaplan-Meier survival analysis and a Cox regression model, and a nomogram was constructed based on TMEM64 expression and clinical characteristics of the patients.
+Functional enrichment analysis was performed to explore the potential signaling pathways, and immune cell infiltration was assessed using single sample gene set enrichment analysis.
+We also performed cell experiment to observe the changes in proliferation, migration, and invasion in HCCLM3 cells with TMEM64 knockdown and in Huh7 cells with TMEM64 overexpression using CCK-8, EdU, colony formation, Transwell, and wound healing assays.
+The expression level of TMEM64 was significantly higher in HCC than in the adjacent tissues (P < 0.05).
+Kaplan-Meier analysis suggested that a high expression of TMEM64 was associated with poor outcomes of the patients (P < 0.05).
+Multivariate Cox regression analysis indicated that a high TMEM64 expression was an independent risk factor for overall survival of HCC patients (P < 0.05).
+TMEM64 expression level was negatively correlated with the levels of immune cell infiltration by NK cells, CD8 + T cells, and plasma pDCs cells (P < 0.05).
+GO, KEGG, and GSEA enrichment analyses showed that TMEM64 was significantly enriched with tumor invasion and metastasis pathways.
+The nomogram and calibration curves indicated a moderate prediction reliability of the model.
+In the cell experiment, TMEM64 knockdown obviously suppressed and TMEM64 overexpression markedly promoted the proliferation, migration, and invasion of HCC cells (P < 0.01).
+A high TMEM64 expression may serve as an independent risk factor for poor prognosis of HCC and promotes proliferation, migration, and invasion of HCC cells in vitro.

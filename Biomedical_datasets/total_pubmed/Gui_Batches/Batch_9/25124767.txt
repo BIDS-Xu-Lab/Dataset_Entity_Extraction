@@ -1,0 +1,7 @@
+It has been reported in the literature that both adults and children can, to a different degree, modify and regularize the often-inconsistent linguistic input they receive.
+We present a new algorithm to model and investigate the learning process of a learner mastering a set of (grammatical or lexical) forms from an inconsistent source.
+The algorithm is related to reinforcement learning and drift-diffusion models of decision making, and possesses several psychologically relevant properties such as fidelity, robustness, discounting, and computational simplicity.
+It demonstrates how a learner can successfully learn from or even surpass its imperfect source.
+We use the data collected by Singleton and Newport (Cognit Psychol 49(4):370-407, 2004) on the performance of a 7-year-boy Simon, who mastered the American Sign Language (ASL) by learning it from his parents, both of whom were imperfect speakers of ASL.
+We show that the algorithm possesses a frequency boosting property, whereby the frequency of the most common form of the source is increased by the learner.
+We also explain several key features of Simon's ASL.

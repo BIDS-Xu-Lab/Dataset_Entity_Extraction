@@ -1,0 +1,12 @@
+Stereocilia on auditory sensory cells are actin-based protrusions that mechanotransduce sound into an electrical signal.
+These stereocilia are arranged into a bundle with three rows of increasing length to form a staircase-like morphology that is required for hearing.
+Stereocilia in the shorter rows, but not the tallest row, are mechanotransducing because they have force-sensitive channels localized at their tips.
+The onset of mechanotransduction during mouse postnatal development refines stereocilia length and width.
+However, it is unclear how actin is differentially regulated between stereocilia in the tallest row of the bundle and the shorter, mechanotransducing rows.
+Here, we show actin turnover is increased at the tips of mechanotransducing stereocilia during bundle maturation.
+Correspondingly, from birth to postnatal day 6, these stereocilia had increasing amounts of available actin barbed ends, where monomers can be added or lost readily, as compared with the non-mechanotransducing stereocilia in the tallest row.
+The increase in available barbed ends depended on both mechanotransduction and MYO15 or EPS8, which are required for the normal specification and elongation of the tallest row of stereocilia.
+We also found that loss of the F-actin-severing proteins ADF and cofilin-1 decreased barbed end availability at stereocilia tips.
+These proteins enriched at mechanotransducing stereocilia tips, and their localization was perturbed by the loss of mechanotransduction, MYO15, or EPS8.
+Finally, stereocilia lengths and widths were dysregulated in Adf and Cfl1 mutants.
+Together, these data show that actin is remodeled, likely by a severing mechanism, in response to mechanotransduction.

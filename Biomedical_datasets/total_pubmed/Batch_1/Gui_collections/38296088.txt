@@ -1,0 +1,11 @@
+Exposure to indoor air pollution (IAP) is a leading environmental risk for respiratory diseases.
+We investigated the relationship between respiratory symptoms and polluting indoor activities such as smoking, cooking and contact with pets among children in Ho Chi Minh City (HCMC), Vietnam.
+A cross-sectional survey applied a multistage sampling method in 24 randomly selected secondary schools across the city.
+Approximately 15,000 students completed self-administrated questionnaires on risk factors and respiratory health outcomes within the preceding 12 months.
+Data were analyzed using a multivariable logistic regression model with robust standard errors.
+Wheeze was the most common respiratory symptom (39.5 %) reported, followed by sneezing and runny nose (28.3 %).
+A small percentage of students self-reported asthma (8.6 %).
+Approximately 56 % of participants lived with family members who smoked.
+A positive association between exposure to indoor secondhand smoke and respiratory symptoms was observed, with adjusted odds ratios (aOR) of 1.41 (95 % CI: 1.25-1.60, p < 0.001) for wheezing and 1.64 (95 % CI: 1.43-1.87, p < 0.001) for sneezing and runny nose, respectively.
+Using an open stove fuelled by coal, wood, or kerosene for cooking was associated with wheeze (aOR: 1.36, CI 95 %: 1.10-1.68, p = 0.01) and sneezing and runny nose (aOR: 1.36, CI 95 %: 1.09-1.69, p = 0.01).
+In the present study, IAP was associated with adverse health outcomes, as evidenced by an increase in respiratory symptoms reported within the previous 12 months.

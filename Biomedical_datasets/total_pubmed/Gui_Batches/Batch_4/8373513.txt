@@ -1,0 +1,8 @@
+The GH receptor (GHR) in regenerating rat liver following partial hepatectomy has been characterized in terms of mRNA levels, size of receptor variants, ligand binding, endocytosis and degradation.
+The GHR mRNA level, quantitated by solution hybridization, was found to be unchanged during the first 3 days of regeneration.
+The specific binding of 125I-labelled bovine GH to a GHR-enriched low density membrane fraction was, in contrast to the mRNA level, reduced to 10-35% between 12 and 24 h after partial hepatectomy, and remained low until 48 h. Removal of endogenous GH by MgCl2 treatment did not further increase the binding of 125I-labelled bovine GH.
+Affinity crosslinking experiments revealed reduced labelling of a specific receptor binder at 95 kDa, assuming a 1:1 stoichiometric binding of the ligand, in regenerating liver.
+Additional evidence for a decrease in the amount of functional GHR was provided by the finding of decreased levels of IGF-I mRNA in the liver remnant, with a nadir at 50% between 24 and 48 h after hepatectomy.
+GH binding was reduced to a similar extent in hypophysectomized animals subjected to partial hepatectomy, implying that pituitary GH is not involved in the mechanism of GHR down-regulation.
+The in-vivo uptake of 125I-labelled bovine GH, which is correlated with the number of GHRs available for binding in the plasma membrane, was decreased to 23% in an endosome-enriched membrane fraction from regenerating liver at 24 h.
+No qualitative differences in the size distribution of endocytosed receptor-ligand complexes in normal and regenerating liver were noted.(ABSTRACT TRUNCATED AT 250 WORDS)

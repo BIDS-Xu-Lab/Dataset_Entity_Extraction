@@ -1,0 +1,14 @@
+This study described the patterns of accelerometer-determined physical activity and sedentary behavior among adults using a nationally representative sample from the United States.
+Using 2003-2006 National Health and Nutrition Examination Survey (NHANES) data, 7931 adults at least 18 years old wore an ActiGraph accelerometer for one week, providing at least 3 days of wear for >=8 hours/day.
+Cutpoints defined moderate to vigorous physical activity (MVPA; >= 2020 and >=760 counts/minute), vigorous physical activity (> = 5999 counts/minute), and sedentary behavior (<100 counts/minute).
+Latent class analysis (LCA) was used to estimate patterns of physical activity and sedentary behavior.
+All estimates were weighted to reflect the United States population.
+For weighted percent of MVPA out of total wearing time, 5 classes were identified from least to most active: 65.3% of population (weighted mean 9.3 minutes/day), 24.9% (32.1 minutes/day), 3.2% that was low on the weekdays but much higher on the weekends (52.0 minutes/day), 5.9% (59.9 minutes/day), and 0.7% in the highest class (113.6 minutes/day).
+Using the lower MVPA threshold, 6 classes emerged with each class ranging in population from 1.2% to 43.6%.
+A vigorous activity class could not be derived due to low prevalence.
+For weighted percent of sedentary behavior out of total wearing time, 5 classes were identified from most to least sedentary: 6.3% of population (weighted mean 660.2 minutes/day), 25.1% (546.8 minutes/day), 37.7% (453.9 minutes/day), 24.0% (354.8 minutes/day), and 7.0% (256.3 minutes/day).
+Four of the classes showed generally similar results across every day of the week, with the absolute percents differing across classes.
+In contrast, the least sedentary class showing a marked rise in percent of time spent in sedentary behavior on the weekend (weighted mean 336.7-346.5 minutes/day) compared to weekdays (weighted mean 255.2-292.4 minutes/day).
+The LCA models provided a data reduction process to identify patterns using minute-by-minute accelerometry data in order to explore meaningful contrasts.
+The models supported 5 or 6 distinct patterns for MVPA and sedentary behavior.
+These physical activity and sedentary behavior patterns can be used as intervention targets and as independent or dependent variables in future studies of correlates, determinants, or outcomes.

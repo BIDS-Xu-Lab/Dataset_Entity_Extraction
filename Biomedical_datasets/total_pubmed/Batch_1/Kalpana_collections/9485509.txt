@@ -1,0 +1,8 @@
+Structure predictions for two targets from the CASP2 meeting are presented and compared with the experimental structure.
+These predictions were made using a novel simplified flexible geometry representation of protein structure.
+The method uses potentials which mimic the physical forces involved in protein folding in a simplified representation of protein structure, and not by directly using data derived from statistical analyses of known protein structures.
+Additionally, the method is designed to work with a single protein sequence.
+The method was successful in generating reasonable protein-like structures, with mainly buried hydrophobic residues, exposed charges, and a good fraction of secondary structure.
+Specific details of the structure were remarkably close to the experimental structure.
+However, the overall fold in both cases was totally wrong.
+Some specific causes of this incorrect folding are suggested and a major improvement to the algorithm proposed.

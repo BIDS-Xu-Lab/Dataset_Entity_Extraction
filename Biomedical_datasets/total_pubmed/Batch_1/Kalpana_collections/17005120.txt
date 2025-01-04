@@ -1,0 +1,9 @@
+The self-association of Escherichia coli alpha-ketoglutarate dehydrogenase complex (KGDC) purified by a column Chromatographic technique, was characterized by light-scattering photometry.
+The complex adopts a solution conformation somewhat larger than that observed in the electron microscope.
+The evidence suggests a nonideal indefinite self-association model for KGDC in KCl, phosphate buffer.
+The KGDC monomer has a molecular charge of about -3 x 10(2) at neutral pH. The self-association is promoted by increasing KCl concentrations, pH (in the range from 6.3 to 7.4) and temperature (from 20 to 30 degrees C).
+The effects of pH changes suggest a release of protons during the self-association and a minor 'preferential' interaction of phosphate ions.
+For the association of one monomer to the aggregate at neutral pH and 25 degrees C. DeltaG degrees = -7.8 kcal mol(-1).
+DeltaH degrees = 24 kcal mol(-1) and DeltaS degrees = 1.1 x 10(2) cal mol(-1) K(-1).
+These data indicate that hydrophobic interactions drive the association.
+Thermodynamically, the self-association of KGDC is a complex phenomenon and may serve to stabilize the enzyme complex in solution.

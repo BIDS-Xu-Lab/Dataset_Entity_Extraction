@@ -1,0 +1,6 @@
+A large proportion of children with autism spectrum disorder (ASD) have speech and/or language difficulties.
+While a number of structural and functional neuroimaging methods have been used to explore the brain differences in ASD with regards to speech and language comprehension and production, the neurobiology of basic speech function in ASD has not been examined.
+Magnetoencephalography (MEG) is a neuroimaging modality with high spatial and temporal resolution that can be applied to the examination of brain dynamics underlying speech as it can capture the fast responses fundamental to this function.
+We acquired MEG from 21 children with high-functioning autism (mean age: 11.43 years) and 21 age- and sex-matched controls as they performed a simple oromotor task, a phoneme production task and a phonemic sequencing task.
+Results showed significant differences in activation magnitude and peak latencies in primary motor cortex (Brodmann Area 4), motor planning areas (BA 6), temporal sequencing and sensorimotor integration areas (BA 22/13) and executive control areas (BA 9).
+Our findings of significant functional brain differences between these two groups on these simple oromotor and phonemic tasks suggest that these deficits may be foundational and could underlie the language deficits seen in ASD.

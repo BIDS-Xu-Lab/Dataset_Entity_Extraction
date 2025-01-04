@@ -1,0 +1,7 @@
+Targeting the PD-1/PD-L1 axis with small-molecular inhibitors is a promising approach for immunotherapy.
+Here, we identify a natural pentacyclic triterpenoid, Pygenic Acid A (PA), as a PD-1 signaling inhibitor.
+PA exerts anti-tumor activity in hPD-1 knock-in C57BL/6 mice and enhances effector functions of T cells to promote immune responses by disrupting the PD-1 signaling transduction.
+Furthermore, we identify SHP-2 as the direct molecular target of PA for inhibiting the PD-1 signaling transduction.
+Subsequently, mechanistic studies suggest that PA binds to a new druggable site in the phosphorylated PD-1 ITSM recognition site of SHP-2, inhibiting the recruitment of SHP-2 by PD-1.
+Taken together, our findings demonstrate that PA has a potential application in cancer immunotherapy and occupying the phosphorylated ITSM recognition site of SHP-2 may serve as an alternative strategy to develop PD-1 signaling inhibitors.
+In addition, our success in target recognition provides a paradigm of target identification and confirmation for natural products.

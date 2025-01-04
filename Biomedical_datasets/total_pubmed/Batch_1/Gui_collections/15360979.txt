@@ -1,0 +1,9 @@
+The deployment of sophisticated software tools and electronic health records offers many new opportunities and challenges to support care delivery.
+One of the key opportunities is to enhance the quality of care with evidence-based medicine (EBM).
+One of the key challenges is to embed EBM in tools that directly facilitate the process of documentation and care delivery.
+Since clinicians typically have the option of using free text for most of their documentation, the tools that provide embedded EBM must be at least as efficient as free text.
+There are many requirements that must be met in order to effectively embed EBM within clinical content tools and enhance both the usability and the actual use of such tools and clinical content: (1) Facilitate the documentation process; (2) Facilitate the care delivery process, e.g. make order entry faster; (3) Contain recommendations that are highly relevant to the clinical context of an encounter; (4) Aid in the capture of discrete coded data.
+Support for local variation is often key to meeting these objectives and becomes a central factor in helping clinicians shift from unstructured free text, to the use of these tools, which support the delivery of EBM.
+This document describes the central tension between the objective of national standardization and delivery of EBM and the need for regional localization of clinical content.
+This tension must be thoughtfully managed to maximize the quality of care delivery and associated workflow practices.
+The key elements of legitimate local variation that must be recognized in order to achieve these goals are described in this document, and the key principles for managing the tensions between generalization and localization are identified.

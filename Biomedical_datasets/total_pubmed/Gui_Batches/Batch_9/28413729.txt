@@ -1,0 +1,11 @@
+There is an urgent need to identify and understand the ecosystem services of pollination and seed dispersal provided by threatened mammals such as flying foxes.
+The first step towards this is to obtain comprehensive data on their diet.
+However, the volant and nocturnal nature of bats presents a particularly challenging situation, and conventional microhistological approaches to studying their diet can be laborious and time-consuming, and provide incomplete information.
+We used Illumina Next-Generation Sequencing (NGS) as a novel, non-invasive method for analysing the diet of the island flying fox (Pteropus hypomelanus) on Tioman Island, Peninsular Malaysia.
+Through DNA metabarcoding of plants in flying fox droppings, using primers targeting the rbcL gene, we identified at least 29 Operationally Taxonomic Units (OTUs) comprising the diet of this giant pteropodid.
+OTU sequences matched at least four genera and 14 plant families from online reference databases based on a conservative Least Common Ancestor approach, and eight species from our site-specific plant reference collection.
+NGS was just as successful as conventional microhistological analysis in detecting plant taxa from droppings, but also uncovered six additional plant taxa.
+The island flying fox's diet appeared to be dominated by figs (Ficus sp.), which was the most abundant plant taxon detected in the droppings every single month.
+Our study has shown that NGS can add value to the conventional microhistological approach in identifying food plant species from flying fox droppings.
+At this point in time, more accurate genus- and species-level identification of OTUs not only requires support from databases with more representative sequences of relevant plant DNA, but probably necessitates in situ collection of plant specimens to create a reference collection.
+Although this method cannot be used to quantify true abundance or proportion of plant species, nor plant parts consumed, it ultimately provides a very important first step towards identifying plant taxa and spatio-temporal patterns in flying fox diets.

@@ -1,0 +1,12 @@
+Cardiac involvement is among the leading causes of mortality in patients with systemic sclerosis (SSc).
+Previously, we demonstrated in a single-center, cross-sectional study the frequent coexistence of different forms of cardiac involvement in systemic sclerosis including pulmonary arterial hypertension (PAH), coronary artery disease (CAD), and microvascular dysfunction (MVD).
+The aim of the present study was to investigate the prognostic significance of cardiac involvement.
+One hundred twenty patients with SSc were enrolled.
+All cases underwent a non-invasive cardiovascular protocol.
+In 30 patients with suspected cardiac involvement, right heart catheterization and intra-coronary pressure-wire-supplemented coronary angiography were performed.
+Patients with CAD at the baseline showed a trend for higher cardiovascular mortality while in patients with MVD this difference was significant (26.7 % versus 9.5 %, p = 0.077 and 30 % versus 10.1 %, p < 0.05, respectively).
+Cardiovascular mortality of PAH cases was higher but, however, did not reach statistical significance 21.4 % versus 10.4 %, p = 0.261.
+Cardiovascular event-free survival was significantly lower among patients with combinations of two or three disorders (p < 0.05).
+Multivariate analysis of organ involvements and comorbidities showed that the diffuse cutaneous subset, the presence of kidney involvement, the velocity of the tricuspid regurgitation, as well as diabetes mellitus were independent predictors of overall mortality.
+MVD and CAD alone or in combination with PAH significantly affected the 5-year cardiovascular mortality.
+These findings highlight the prognostic importance of coronary disease in patients with SSc [ www.clinicaltrials.gov (Reg. Nr.: NCT00843102)].

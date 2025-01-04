@@ -1,0 +1,5 @@
+Sulfur hexafluoride, ethane, cyclopropane, enflurane, diethyl ether and acetone are six gases commonly used in the measurement of the distribution of ventilation-perfusion ratios.
+In order to obtain reference data, their liquid/gas partition coefficients (K) have been determined in water at three different temperatures and in several inorganic, organic and biologic media at 37 degrees C, by a headspace-gas chromatographic method.
+As expected, an increase in temperature and concentration of solutes in the liquid matrix reduces the solubility of the gases.
+All gases, except acetone, are more soluble in olive oil than in water.
+The solubility of SF6, ethane, cyclopropane and enflurane in human and rat blood is greater than in water, the solubility of ether remains practically unchanged, and that of acetone is lower in blood than in water.

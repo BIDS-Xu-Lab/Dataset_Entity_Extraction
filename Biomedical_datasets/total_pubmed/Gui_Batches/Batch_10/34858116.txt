@@ -1,0 +1,25 @@
+The availability of accurate, reliable, and timely clinical data is crucial for clinicians, researchers, and policymakers so that they can respond effectively to emerging public health threats.
+This was typified by the recent SARS-CoV-2 pandemic and the critical knowledge and data gaps associated with novel Coronavirus 2019 disease (COVID-19).We sought to create an adaptive, living data mart containing detailed clinical, epidemiologic, and outcome data from COVID-19 patients in our healthcare system.
+If successful, the approach could then be used for any future outbreak or disease.
+From 3/13/2020 onward, demographics, comorbidities, outpatient medications, along with 75 laboratory, 2 imaging, 19 therapeutic, and 4 outcome-related parameters, were manually extracted from the electronic medical record (EMR) of SARS-CoV-2 positive patients.
+These parameters were entered on a registry featuring calculation, graphing tools, pivot tables, and a macro programming language.
+Initially, two internal medicine residents populated the database, then professional data abstractors populated the registry.
+Clinical parameters were developed with input from infectious diseases and critical care physicians and using a modified COVID-19 worksheet from the U.S. Centers for Disease Control and Prevention (CDC).
+Registry contents were migrated to a browser-based, metadata-driven electronic data capture software platform.
+Eventually, we developed queries and used various business intelligence (BI) tools which enabled us to semi-automate data ingestion of 147 clinical and outcome parameters from the EMR, via a large U.S. hospital-based, service-level, all-payer database.
+Statistics were performed in R and Minitab.
+From March 13, 2020 to May 17, 2021, 549,691 SARS-CoV-2 test results on 236,144 distinct patients, along with location, admission status, and other epidemiologic details are stored on the cloud-based BI platform.
+From March 2020 until May 2021, extraction of clinical-epidemiologic parameter had to be performed manually.
+Of those, 543 have had >/=75 parameters fully entered in the registry.
+Ten clinical characteristics were significantly associated with the need for hospital admission.
+Only one characteristic was associated with a need for ICU admission.
+Use of supplemental oxygen, vasopressors and outpatient statin were associated with increased mortality.
+Initially, 0.5hrs -1.5 hours per patient chart (approximately 450-575 person hours) were required to manually extract the parameters and populate the registry.
+As of May 17, 2021, semi-automated data ingestion from the U.S. hospital all-payer database, employing user-defined queries, was implemented.
+That process can ingest and populate the registry with 147 clinical, epidemiologic, and outcome parameters at a rate of 2 hours per 100 patient charts.
+A living COVID-19 registry represents a mechanism to facilitate optimal sharing of data between providers, consumers, health information networks, and health plans through technology-enabled, secure-access electronic health information.
+Our approach also involves a diversity of new roles in the field, such as using residents, staff, and the quality department, in addition to professional data extractors and the health informatics team.
+Initially, due to the overwhelming number of infections that continues to accelerate, and the labor/time intense nature of the project, only a small fraction of all patients with COVID-19 had all parameters entered in the registry.
+Therefore, this report also offers lessons learned and discusses sustainability issues, should others wish to establish a registry.
+It also highlights the registry's local and broader public health significance.
+Beginning in June 2021, whole-genome sequencing results such as lineages harboring important viral mutations, or variants of concern will be linked to the clinical meta-data.

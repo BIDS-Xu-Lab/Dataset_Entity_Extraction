@@ -1,0 +1,13 @@
+Lactobacillus crispatus and Lactobacillus iners are common inhabitants of the healthy human vagina.
+These two species are closely related and are thought to perform similar ecological functions in the vaginal environment.
+Temporal data on the vaginal microbiome have shown that nontransient instances of cooccurrence are uncommon, while transitions from an L. iners-dominated community to one dominated by L. crispatus, and vice versa, occur often.
+This suggests that there is substantial overlap in the fundamental niches of these species.
+Given this apparent niche overlap, it is unclear how they have been maintained as common inhabitants of the human vagina.
+In this study, we characterized and compared the genomes of L. iners and L. crispatus to gain insight into possible mechanisms driving the maintenance of this species diversity.
+Our results highlight differences in the genomes of these two species that may facilitate the partitioning of their shared niche space.
+Many of the identified differences may impact the protective benefits provided to the host by these two species.
+The microbial communities that inhabit the human vagina play a critical role in the maintenance of vaginal health through the production of lactic acid and lowering the environmental pH. This precludes the growth of nonindigenous organisms and protects against infectious disease.
+The two most common types of vaginal communities are dominated by either Lactobacillus iners or Lactobacillus crispatus, while some communities alternate between the two over time.
+We combined ecological theory with state-of-the-art genome analyses to characterize how these two species might partition their shared niche space in the vagina.
+We show that the genomes of L. iners and L. crispatus differ in many respects, several of which may drive differences in their competitive abilities in the vagina.
+Our results provide insight into factors that drive the complicated temporal dynamics of the vaginal microbiome and demonstrate how closely related microbial species partition shared fundamental niche space.

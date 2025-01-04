@@ -1,0 +1,10 @@
+Thyroid cancer is the most common endocrine malignancy, and the characterization of the genetic alterations in coding-genes that drive thyroid cancer are well consolidated in MAPK signaling.
+In the context of non-coding RNAs, microRNAs (miRNAs) are small non-coding RNAs that, when deregulated, cooperate to promote tumorigenesis by targeting mRNAs, many of which are proto-oncogenes and tumor suppressors.
+In thyroid cancer, miR-146b-5p is the most overexpressed miRNA associated with tumor aggressiveness and progression, while the antisense blocking of miR-146b-5p results in anti-tumoral effect.
+Therefore, inactivating miR-146b has been considered as a promising strategy in thyroid cancer therapy.
+Here, we applied the CRISPR/Cas9n editing system to target the MIR146B gene in an aggressive anaplastic thyroid cancer (ATC) cell line.
+For that, we designed two single-guide RNAs cloned into plasmids to direct Cas9 nickase (Cas9n) to the genomic region of the pre-mir-146b structure to target miR-146b-5p and miR-146b-3p sequences.
+In this plasmidial strategy, we cotransfected pSp-Cas9n-miR-146b-GuideA-puromycin and pSp-Cas9n-miR-146b-GuideB-GFP plasmids in KTC2 cells and selected the puromycin resistant + GFP positive clones (KTC2-Cl).
+As a result, we observed that the ATC cell line KTC2-Cl1 showed a 60% decrease in the expression of miR-146b-5p compared to the control, also showing reduced cell viability, migration, colony formation, and blockage of tumor development in immunocompromised mice.
+The analysis of the MIR146B edited sequence shows a 5 nt deletion in the miR-146b-5p region and a 1 nt deletion in the miR-146b-3p region in KTC2-Cl1.
+Thus, we developed an effective CRISPR/Cas9n system to edit the MIR146B miRNA gene and reduce miR-146b-5p expression which constitutes a potential molecular tool for the investigation of miRNAs function in thyroid cancer.

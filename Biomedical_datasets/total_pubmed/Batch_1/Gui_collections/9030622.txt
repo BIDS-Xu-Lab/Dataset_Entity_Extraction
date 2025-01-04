@@ -1,0 +1,7 @@
+Voltage-dependent inhibition of high voltage-activated (HVA) calcium currents by G-proteins can be transiently relieved (facilitated) by strong depolarizing prepulses.
+However, with respect to the physiological significance of facilitation, it remains to be established if it can be induced by action potentials (AP) in central neurons.
+With the use of whole-cell recordings of dissociated cholinergic basal forebrain neurons of the guinea pig, it is shown that the GTPgammaS-inhibited HVA currents that occur through N-ethylmaleimide (NEM)-sensitive Gi-Go subtypes of G-proteins can be facilitated.
+Furthermore, although different types of HVA channels are present in these neurons, facilitation occurred mostly through disinhibition of the N-type current.
+On the basis of data indicating that the recovery from facilitation was relatively slow, we tested if more physiological stimuli that crudely mimicked APs (2 msec long depolarizations to 40 mV from a holding of -50 mV) potentially could induce facilitation of HVA currents inhibited by GTPgammaS and cholinergic agonists.
+Indeed, evidence is provided that the extent of facilitation is dependent on both the number and frequency of AP-like depolarizations.
+These results suggest that firing rates and patterns of discharge of neurons could influence their responsiveness to transmitters acting on N-type HVA calcium channels.

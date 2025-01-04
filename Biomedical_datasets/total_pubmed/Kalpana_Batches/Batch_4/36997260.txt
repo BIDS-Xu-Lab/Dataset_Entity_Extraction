@@ -1,0 +1,13 @@
+To investigate the association between prestroke physical activity and depressive symptoms up to 6 months after stroke and examine if citalopram treatment modified the association.
+A secondary analysis of data from the multicentre randomised controlled trial The Efficacy of Citalopram Treatment in Acute Ischemic Stroke (TALOS).
+TALOS was conducted at multiple stroke centres in Denmark from 2013 to 2016.
+It enrolled 642 non-depressed patients with first-ever acute ischaemic stroke.
+Patients were eligible for this study if a prestroke physical activity level was assessed by the Physical Activity Scale for the Elderly (PASE).
+All patients were randomised to citalopram or placebo for 6 months.
+Depressive symptoms 1 and 6 months after stroke measured on the Major Depression Inventory (MDI) ranging from 0 to 50.
+A total of 625 patients were included.
+Median (IQR) age was 69 (60-77) years, 410 (65.6%) were men, 309 (49.4 %) received citalopram and median (IQR) prestroke PASE score was 132.5 (76-197).
+Higher prestroke PASE quartile, compared with the lowest PASE quartile, was associated with fewer depressive symptoms both after 1 month (mean difference third quartile -2.3 (-4.2, -0.5), p=0.013, mean difference fourth quartile -2.4 (-4.3, -0.5), p=0.015) and 6 months after stroke (mean difference third quartile -3.3 (-5.5, -1.2), p=0.002, mean difference fourth quartile -2.8 (-5.2, -0.3), p=0.027).
+There was no interaction between citalopram treatment and prestroke PASE score on poststroke MDI scores (p=0.86).
+A higher prestroke physical activity level was associated with fewer depressive symptoms 1 and 6 months after stroke.
+Citalopram treatment did not seem to modify this association.

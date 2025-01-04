@@ -1,0 +1,8 @@
+The volatile anaesthetics isoflurane and sevoflurane induce both negative and positive inotropic effects in ventricular myocytes, the mechanisms of which are not fully understood.
+Previous data suggest that changes in myofilament Ca(2+) sensitivity contribute to their sustained negative inotropic effects.
+In this study, the role of changes in myofilament Ca(2+) sensitivity in both positive and negative inotropic effects of these agents was examined in intact ventricular myocytes.
+C. Myofilament Ca(2+) sensitivity was assessed from plots of cell length against fura-2 fluorescence ratio (Fr) from individual twitches at various points before, during and after a 1 or 4 min exposure to 0.6 mM anaesthetic.
+Isoflurane reduced mean (sd) myofilament Ca(2+) sensitivity from 10.3 (1.9) to 5.9 (1.6) microm Fr(-1) (P<0.001) throughout a 1 min exposure, which returned to control on removal.
+In contrast, on initial exposure to sevoflurane, Ca(2+) sensitivity was reduced from 10.8 (1.3) to 4.3 (0.9) microm Fr(-1) (P<0.001) but this recovered partially towards control over 3 min. On removal, sensitivity was increased above control (to 17.7 (2.2) microm Fr(-1); P<0.001) before preanaesthetic levels were restored.
+These data show that both isoflurane and sevoflurane reduce apparent myofilament Ca(2+) sensitivity at steady state.
+However, sevoflurane (but not isoflurane) induced transient changes in apparent myofilament Ca(2+) sensitivity, which would contribute to its inotropic profile.

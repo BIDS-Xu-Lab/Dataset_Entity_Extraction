@@ -1,0 +1,10 @@
+Certain strains of Bradyrhizobium japonicum produce large quantities of polysaccharide in soybean (Glycine max (L.) Merr.)
+nodules, and nodule polysaccharide (NPS) is different from that produced in culture.
+A previous survey of field-grown plants showed highly variable levels of NPS among field sites.
+To obtain clues about the possible function of NPS, we conducted two additional surveys of field-grown plants.
+The amount of polysaccharide in bulk samples of nodules was not associated with soil type, texture, slope, drainage, or any of the measured soil chemical properties except pH and [Ca].
+Correlations with pH and [Ca] were positive and highly significant for two independent surveys involving a total of 77 sites in two years.
+In a preliminary comparison of high and low levels of Ca supplied to soybean plants grown in silica sand in a greenhouse, a high level of Ca (200 mg of Ca liter) increased the NPS level and increased the Ca content of the polysaccharide fraction.
+B. japonicum isolates from 450 nodules collected at 10 field sites in 1993 were used to form nodules on soybean plants grown in sand culture in a greenhouse in order to examine bacterial phenotype under controlled conditions.
+Results showed that the NPS level in the bulk nodule sample from any given site was a function of the proportion of nodule occupants that were capable of NPS synthesis.
+[Ca] may positively influence the survival of B. japonicum capable of synthesis of the nodule-specific polysaccharide.

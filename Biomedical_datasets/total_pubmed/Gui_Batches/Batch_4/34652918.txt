@@ -1,0 +1,5 @@
+Small-molecule-induced protein depletion technologies, also called inducible degrons, allow degradation of genetically engineered target proteins within cells and animals.
+Here, we design and develop the BromoTag, a new inducible degron system comprising a Brd4 bromodomain L387A variant as a degron tag that allows direct recruitment by heterobifunctional bumped proteolysis targeting chimeras (PROTACs) to hijack the VHL E3 ligase.
+We describe extensive optimization and structure-activity relationships of our bump-and-hole-PROTACs using a CRISPR knock-in cell line expressing model target BromoTag-Brd2 at endogenous levels.
+Collectively, our cellular and mechanistic data qualifies bumped PROTAC AGB1 as a potent, fast, and selective degrader of BromoTagged proteins, with a favorable pharmacokinetic profile in mice.
+The BromoTag adds to the arsenal of chemical genetic degradation tools allowing us to manipulate protein levels to interrogate the biological function and therapeutic potential in cells and in vivo.

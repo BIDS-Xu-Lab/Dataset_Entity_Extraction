@@ -1,0 +1,9 @@
+Acquiring pulmonary circulation parameters as a potential marker of cardiopulmonary function is not new.
+Methods to obtain these parameters have been developed over time, with the latest being first-pass perfusion sequences in cardiovascular magnetic resonance (CMR).
+Even though more data on these parameters has been recently published, different nomenclature and acquisition methods are used across studies; some works even reported conflicting data.
+The most commonly used circulation parameters obtained using CMR include pulmonary transit time (PTT) and pulmonary transit beats (PTB).
+PTT is the time needed for a contrast agent (typically gadolinium-based) to circulate from the right ventricle (RV) to the left ventricle (LV).
+PTB is the number of cardiac cycles the process takes.
+Some authors also include corrected heart rate (HR) versions along with standard PTT.
+Besides other methods, CMR offers an option to assess stress circulation parameters, but data are minimal.
+This review aims to summarize the up-to-date findings and provide an overview of the latest progress on this promising, dynamically evolving topic.

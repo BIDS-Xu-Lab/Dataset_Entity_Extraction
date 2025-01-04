@@ -1,0 +1,10 @@
+Liver gamma-cystathionase activity increases in rats during lactation; its inhibition due to propargylglycine is followed by a significant decrease in lactation.
+This is reversible by N-acetylcysteine administration.
+To study the role of liver gamma-cystathionase and the intertissue flux of glutathione during lactation, we used lactating and virgin rats fed liquid diets.
+Virgin rats were divided into two groups as follows: one group was fed daily a diet containing the same amount of protein that was consumed the previous day by lactating rats (high protein diet-fed rats); the other virgin group was fed the normal liquid diet (control).
+The expression and activity of liver gamma-cystathionase were significantly greater in lactating rats and in high protein diet-fed virgin rats compared with control rats.
+The total glutathione [reduced glutathione (GSH) + oxidized glutathione (GSSG)] released per gram of liver did not differ in lactating rats or in high protein diet-fed rats, but it was significantly higher in these two groups than in control virgin rats.
+Liver size and the GSH + GSSG released by total liver were significantly higher in lactating rats than in high protein diet-fed virgin rats, and this difference was similar to the amount of glutathione taken up by the mammary gland (454.2 +/- 36.0 nmol/min).
+The uptake of total glutathione by the lactating mammary gland was much higher than the uptakes of free L-cysteine and L-cystine, which were negligible.
+These data suggest that the intertissue flux of glutathione is an important mechanism of L-cysteine delivery to the lactating mammary gland, which lacks gamma-cystathionase activity.
+This emphasizes the physiologic importance of the increased expression and activity of liver gamma-cystathionase during lactation.

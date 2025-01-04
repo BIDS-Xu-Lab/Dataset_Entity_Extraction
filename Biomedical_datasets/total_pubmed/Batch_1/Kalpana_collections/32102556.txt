@@ -1,0 +1,14 @@
+Background: Management of distal radius fractures in patients over 65 is a topic of significant study, but there are variations within this group in terms of independence and activity level.
+This study compares the outcomes of operative distal radius fracture treatment in patients over 75 with those aged 65 to 74, to evaluate the effects of patient demand and advanced age on outcome.
+Methods: A retrospective review of a single-institution distal radius fracture database was performed.
+All patients over age 65 were evaluated for inclusion.
+Patient factors including activity, independence level, and quick disabilities of the arm, shoulder and hand (QuickDASH) score were recorded.
+Patients were selected for open reduction and internal fixation (ORIF) based on a discussion between the patient and the treating surgeon.
+Outcome measures including QuickDASH were recorded at 1-year post-injury.
+Patients aged 65 to 74 and 75 and over were compared to evaluate for demographic, functional, and outcome differences.
+In all, 75 patients were included in the study.
+Fifty-one patients were aged 65 to 74, and 24 patients were aged over 75.
+The majority of patients rated themselves as "completely independent" and "active," the highest levels of each.
+There was no difference in QuickDASH scores between those patients who rated themselves as completely partially independent, or active versus moderately active.
+There was no statistically significant difference in QuickDASH or range of motion parameters at final follow-up.
+Conclusions: This study demonstrates that, in a group of patients with high levels of independence and activity, outcomes are similar in patients aged 65 to 74 and over 75 at 1 year following distal radius ORIF.

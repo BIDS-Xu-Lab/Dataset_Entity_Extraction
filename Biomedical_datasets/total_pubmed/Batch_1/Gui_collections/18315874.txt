@@ -1,0 +1,12 @@
+Comparative methods have been the standard techniques for in silico protein structure prediction.
+The prediction is based on a multiple alignment that contains both reference sequences with known structures and the sequence whose unknown structure is predicted.
+Intensive research has been made to improve the quality of multiple alignments, since misaligned parts of the multiple alignment yield misleading predictions.
+However, sometimes all methods fail to predict the correct alignment, because the evolutionary signal is too weak to find the homologous parts due to the large number of mutations that separate the sequences.
+Stochastic sequence alignment methods define a posterior distribution of possible multiple alignments.
+They can highlight the most likely alignment, and above that, they can give posterior probabilities for each alignment column.
+We made a comprehensive study on the HOMSTRAD database of structural alignments, predicting secondary structures in four different ways.
+We showed that alignment posterior probabilities correlate with the reliability of secondary structure predictions, though the strength of the correlation is different for different protocols.
+The correspondence between the reliability of secondary structure predictions and alignment posterior probabilities is the closest to the identity function when the secondary structure posterior probabilities are calculated from the posterior distribution of multiple alignments.
+The largest deviation from the identity function has been obtained in the case of predicting secondary structures from a single optimal pairwise alignment.
+We also showed that alignment posterior probabilities correlate with the 3D distances between C alpha amino acids in superimposed tertiary structures.
+Alignment posterior probabilities can be used to a priori detect errors in comparative models on the sequence alignment level.

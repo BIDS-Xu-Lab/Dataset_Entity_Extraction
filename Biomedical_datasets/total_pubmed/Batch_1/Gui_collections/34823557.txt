@@ -1,0 +1,15 @@
+Heterotopic ossification (HO) is a common complication after cervical disc replacement (CDR).
+Biomechanical factors including endplate coverage and intervertebral disc height change may be related to HO formation.
+However, there is a dearth of quantitative analysis for endplate coverage, intervertebral height change and their combined effects on HO.
+Patients who underwent single-level or two-level CDR with Prestige-LP were retrospectively reviewed.
+Clinical outcomes were evaluated through Japanese Orthopaedic Association (JOA) score, Neck Disability Index (NDI) score, and visual analogue scale (VAS) score.
+Radiological data, including the prosthesis-endplate depth ratio, intervertebral height change, posterior heterotopic ossification (PHO) and angular parameters, were collected.
+Logistic regression analysis was used to identify the potential risk factors.
+Receiver operating characteristic curves were plotted and the cut-off values of each potential factors were calculated.
+A total of 138 patients with 174 surgical segments were evaluated.
+Both the prosthesis-endplate depth ratio (P < 0.001) and post-operative disc height change (P < 0.001) were predictive factors for PHO formation.
+The area under the curve (AUC) of the prosthesis-endplate depth ratio, disc height change and their combined effects represented by the combined parameter (CP) were 0.728, 0.712 and 0.793, respectively.
+The risk of PHO significantly increased when the prosthesis-endplate depth ratio < 93.77% (P < 0.001, OR = 6.909, 95% CI 3.521-13.557), the intervertebral height change ≥ 1.8 mm (P < 0.001, OR = 5.303, 95% CI 2.592-10.849), or the CP representing the combined effect < 84.88 (P < 0.001, OR = 10.879, 95% CI 5.142-23.019).
+Inadequate endplate coverage and excessive change of intervertebral height are both potential risk factors for the PHO after CDR.
+Endplate coverage less than 93.8% or intervertebral height change more than 1.8 mm would increase the risk of PHO.
+The combination of these two factors may exacerbate the non-uniform distribution of stress in the bone-implant interface and promote HO development.

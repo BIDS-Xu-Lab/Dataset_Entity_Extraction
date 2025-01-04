@@ -1,0 +1,5 @@
+Analysis of the data of annual (1980-2005) monitorings of influenza A viruses in the North Caspian Sea basin and the Volga river delta, as well as the primary hemagglutinin structure of isolates of different years revealed the circulation of A/H13 and A/H16 viruses among gulls since 1976.
+Phylogenetic analysis revealed 3 significantly different evolutionary lines: an American line, a European line, and a line comprising the isolates from America and Eurasia.
+The H13N6 and H16N3 viruses isolated in Russia replicated in the respiratory and intestinal tracts of ducks and induced the production of antibodies; the H16N3 viruses induced the antibodies neutralizing viruses of subtype H16 only.
+The use of glycoconjugate polymers showed that the receptor phenotype of the study H16 viruses differed from that of the H13 viruses in its capacity to bind to 3'SL with a higher affinity than alphaNANA.
+The comparative phylogenetic analysis suggests the existence of the common precursor of H13 and H16 viruses and their further evolution in relation to environmental conditions, including their adaptation to a new host.

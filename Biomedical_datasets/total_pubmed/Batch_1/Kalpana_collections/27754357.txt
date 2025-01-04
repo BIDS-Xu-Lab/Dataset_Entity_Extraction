@@ -1,0 +1,9 @@
+The finding that small non-coding RNAs (ncRNAs) are able to control gene expression in a sequence specific manner has had a massive impact on biology.
+Recent improvements in high throughput sequencing and computational prediction methods have allowed the discovery and classification of several types of ncRNAs.
+Based on their precursor structures, biogenesis pathways and modes of action, ncRNAs are classified as small interfering RNAs (siRNAs), microRNAs (miRNAs), PIWI-interacting RNAs (piRNAs), endogenous small interfering RNAs (endo-siRNAs or esiRNAs), promoter associate RNAs (pRNAs), small nucleolar RNAs (snoRNAs) and sno-derived RNAs.
+Among these, miRNAs appear as important cytoplasmic regulators of gene expression.
+miRNAs act as post-transcriptional regulators of their messenger RNA (mRNA) targets via mRNA degradation and/or translational repression.
+However, it is becoming evident that miRNAs also have specific nuclear functions.
+Among these, the most studied and debated activity is the miRNA-guided transcriptional control of gene expression.
+Although available data detail quite precisely the effectors of this activity, the mechanisms by which miRNAs identify their gene targets to control transcription are still a matter of debate.
+Here, we focus on nuclear functions of miRNAs and on alternative mechanisms of target recognition, at the promoter lavel, by miRNAs in carrying out transcriptional gene silencing.

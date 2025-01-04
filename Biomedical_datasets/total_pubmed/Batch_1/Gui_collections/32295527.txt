@@ -1,0 +1,13 @@
+The incidence of female stroke has increased gradually and has begun occurring at a younger age in recent years.
+Given that women live longer than men, stroke would cause more negative and longer-term impacts on the rest of the lives of women.
+There are few related studies on Asian women.
+We aimed to evaluate stroke risk in Asian women following hypertensive pregnancy disorders.
+Using the Taiwan National Health Insurance database, we designed a retrospective study that included pregnant women between 2000 and 2013.
+We selected an age-matched control group of women without hypertensive pregnancy disorders at a 1:3 ratio.
+The endpoint was any episode of stroke; otherwise, the patients were tracked until December 31, 2013.
+After the index date until the end of 2013, Cox proportional hazards analysis was used to compare the risk of incident stroke.
+The risk factors for stroke were determined using Cox proportional regression to calculate the hazard ratio (HR) compared with the control group.
+During the follow-up period, the Kaplan-Meier analysis indicated that patients with hypertensive pregnancy disorders had a significantly higher risk of developing stroke than did patients without hypertensive pregnancy disorders (log-rank test P < 0.001).
+Multivariate Cox regression analysis demonstrated that the case group had a 2.134-fold increased risk of stroke (HR = 2.134; 95% CI = 1.817-2.505; P < 0.001).
+Our study provided evidence of an increased risk of stroke in patients with hypertensive pregnancy disorders.
+Compared with those without such disorders, the patients who had experienced the disorders had a 2.134-fold (P < 0.001) higher risk of developing stroke in the future.

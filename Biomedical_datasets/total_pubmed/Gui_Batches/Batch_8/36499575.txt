@@ -1,0 +1,13 @@
+In order to sustain motility and prepare for fertilization, sperm require energy.
+The characterization of sperm ATP production and usage in mouse species revealed substantial differences in metabolic pathways that can be differentially affected by capacitation.
+Moreover, spermatozoa encounter different environments with varying viscoelastic properties in the female reproductive tract.
+Here, we examine whether viscosity affects sperm ATP levels and kinematics during capacitation in vitro.
+Sperm from three mouse species (Mus musculus, M. spretus, M. spicilegus) were incubated under capacitating conditions in a modified Tyrode's medium containing bicarbonate, glucose, pyruvate, lactate, and bovine serum albumin (mT-BH) or in a bicarbonate-free medium as a non-capacitating control.
+Viscosity was increased with the inclusion of polyvinylpyrrolidone.
+ATP was measured with a bioluminescence kit, and kinematics were examined with a computer-aided sperm analysis system.
+In M. musculus sperm, ATP declined during capacitation, but no differences were found between non-capacitating and capacitating sperm.
+In contrast, in M. spretus and M. spicilegus, ATP levels decreased in capacitating sperm.
+Increasing viscosity in the medium did not modify the timing or proportion of cells undergoing capacitation but did result in additional time- and concentration-dependent decreases in ATP in M. spretus and M. spicilegus under capacitating conditions.
+Additionally, increased viscosity altered both velocity and trajectory descriptors.
+The limited impact of capacitation and higher viscosity on M. musculus sperm ATP and kinematics could be related to the low intensity of postcopulatory sexual selection in this species.
+Responses seen in the other two species could be linked to the ability of their sperm to perform better under enhanced selective pressures.

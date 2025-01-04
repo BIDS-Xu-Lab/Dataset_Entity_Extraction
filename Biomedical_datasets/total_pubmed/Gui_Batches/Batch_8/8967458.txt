@@ -1,0 +1,9 @@
+Important among the responses of endothelial cells are cytosolic free calcium transients.
+These transients are mediated by several factors, including blood-borne agonists, extracellular calcium, and fluid-imposed shear forces.
+The transients are characterized by a rapid rise followed by a plateau phase.
+A base mathematical model is presented that reasonably reproduces the measured calcium transient in cultured human umbilical vein endothelial cells responding to thrombin.
+Kinetic equations for receptor activation and calcium mobilization comprise the model.
+A graded response of intracellular free calcium to increasing concentrations of agonist is predicted.
+Also predicted is the elevation of the peak value and the plateau level by steady nonspecific leak of calcium across the plasma membrane.
+The influences of capacitative calcium entry, calcium-induced calcium release, and buffering by cytosolic proteins are investigated parametrically.
+The model predicts significant depletion of cellular calcium in response to agonist stimulation.

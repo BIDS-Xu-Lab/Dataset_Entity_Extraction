@@ -1,0 +1,14 @@
+Influenza surveillance is important to identify circulating, emerging/reemerging strains and unusual epidemiological trends.
+With these objectives, a multisite human influenza surveillance network was initiated in India in 2004.
+Epidemiologic data and throat swabs for laboratory testing were collected from patients with influenza-like illness (ILI) and severe acute respiratory infections (SARI).
+Virus isolation was carried out in Madin-Darby canine kidney cells and strains identified by hemagglutination inhibition assay.
+From September 2004 to December 2008, 617 (4·43%) of 13928 cases yielded isolates: 27·8% were influenza A(H1N1), 29·8% were type A(H3N2), and 42·3% were type B.
+The yearly type and subtype distribution varied significantly from site to site.
+Peak influenza activity was observed from June to August in Delhi, Pune, and Kolkata and October to December in Chennai.
+Maximum influenza activity was seen during the rains in Delhi, Pune, Chennai, and Kolkata in correlation with virus isolations.
+Multivariate analysis of ILI cases showed chill/rigors, cough, fatigue, and ILI in family, correlated positively with isolation.
+Genetic analysis of Indian isolates revealed that viruses matched with vaccine strains by and large.
+Overlapping between circulating and vaccine component strains of consecutive years was also observed.
+Seasonal influenza A(H1N1), H3N2, and type B co-circulated in all regions without any particular pattern of movement of any subtype.
+Year-round limited influenza activity with peaks during rains was observed.
+Genetic drifts and varying seasonality in different parts of the country suggest that a staggered timing of vaccination may be appropriate for India.

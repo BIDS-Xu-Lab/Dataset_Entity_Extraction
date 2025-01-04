@@ -1,0 +1,8 @@
+We aimed to assess the association between postpartum weight retention (PPWR) in the fourth week after delivery and the risk of gestational diabetes mellitus (GDM) in a subsequent pregnancy.
+We performed a retrospective cohort study of the obstetric records of women who gave birth to their second singleton between 32 and 41 weeks of gestation at the National Hospital Organization Kofu National Hospital between January 2013 and September 2019.
+The exclusion criteria were missing data, twin pregnancy, diabetes in pregnancy, and delivery before 22 weeks in the first pregnancy.
+We calculated PPWR as the BMI 4 weeks after the first birth minus the BMI before the first pregnancy and grouped the subjects into the stable PPWR (gain of <1 BMI unit) and non-stable PPWR groups (gain of ≥1 BMI units).
+We used the χ2 test and multivariable logistic regression analysis to investigate the association between weight retention at the postpartum checkup and GDM.
+The overall prevalence of GDM during the second pregnancy was 7.4% (42/566), and 33.9% (192/566) of women had stable PPWR.
+Non-stable PPWR was not significantly associated with GDM in the second pregnancy (adjusted odds ratio, 1.93; 95% confidence interval, 0.84-4.46) after controlling for each variable.
+PPWR measured in the fourth week after delivery was not associated with an increased risk of GDM in the second pregnancy.

@@ -1,0 +1,10 @@
+Predator functional responses describe predator feeding rates and are central to predator-prey theory.
+Originally defined as the relationship between predator feeding rates and prey densities, it is now well known that functional responses are shaped by a multitude of factors.
+However, much of our knowledge about how these factors influence functional responses is based on laboratory studies that are generally logistically constrained to examining only a few factors simultaneously and that have unclear links to the conditions organisms experience in the field.
+We apply an observational approach for measuring functional responses to understand how sex/stage differences, temperature and predator densities interact to influence the functional response of zebra jumping spiders on midges under natural conditions.
+We used field surveys of jumping spiders to infer their feeding rates and examine the relationships between feeding rates, sex/stage, midge density, predator density and temperature using generalized additive models.
+We then used the relationships supported by the models to fit parametric functional responses to the data.
+We find that feeding rates of zebra jumping spiders follow some expectations from previous laboratory studies such as increasing feeding rates with body size and decreasing feeding rates with predator densities.
+However, in contrast to previous results, our results also show a lack of temperature response in spider feeding rates and differential decreases in the feeding rates of females and juveniles with densities of different spider sexes/stages.
+Our results illustrate the multidimensional nature of functional responses in natural settings and reveal how factors influencing functional responses can interact with one another through behaviour and morphology.
+Further studies investigating the influence of multiple mechanisms on predator functional responses under field conditions will increase our understanding of the drivers of predator-prey interaction strengths and their consequences for communities and ecosystems.

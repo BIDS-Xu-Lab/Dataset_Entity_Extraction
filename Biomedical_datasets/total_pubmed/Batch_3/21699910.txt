@@ -1,0 +1,8 @@
+A solid-phase extraction (SPE)-liquid chromatography (LC)-mass spectrometry (MS) method was developed to concentrate and detect nine cyanotoxins simultaneously, including six microcystins (MCs) congeners, nodularin (NOD), anatoxin-a (ATX) and cylindrospermopsin (CYN), in pure and natural waters.
+A dual cartridge SPE assembly was tested for the operating parameters of cyanotoxin extraction.
+A surrogate standard (SS), 1,9-diaminononane, was spiked in all the samples before the SPE extraction, and an internal standard (IS), 2,3,5-trimethylphenyl methyl carbamate, was spiked before LC/MS analysis.
+The method detection limit (MDL) was 2-100 ng/L for nine cyanotoxins in pure water and was increased by a factor of three to ten in a more complicated water matrix.
+The recoveries based on SS were between 83 and 104%, while those based on IS were 80-120%.
+The developed method was successfully employed in analyzing 33 water samples collected from eutrophic lakes, water treatment plants and distribution taps.
+MCs, NOD, and CYN were detected in the reservoir water, with concentrations as high as 36 μg/L.
+In addition, for the first time in Taiwan's tap water, CYN was detected at concentrations as high as 8.6 μg/L. Quality control data for the field samples shows that the analytical scheme developed is appropriate for monitoring cyanotoxins.

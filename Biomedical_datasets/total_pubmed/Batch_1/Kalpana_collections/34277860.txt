@@ -1,0 +1,12 @@
+Malaria is the third most important infectious disease in the world.
+WHO propose programs for controlling and elimination of the disease.
+Malaria elimination program has begun in first phase in Iran from 2010.
+Climate factors play an important role in transmission and occurrence of malaria infection.
+The main goal is to investigate the spatial distribution of incidence of malaria during April 2011 to March 2018 in Hormozgan Province and its association with climate covariates.
+The data included 882 confirmed cases gathered from CDC in Hormozgan University of Medical Sciences.
+A Poisson-Gamma Random field model with Bayesian approach was used for modeling the data and produces the smoothed standardized incidence rate (SIR).
+The SIR for malaria ranged from 0 (Abu Musa and Haji Abad districts) to 280.57 (Bandar-e-Jask).
+Based on model, temperature (RR= 2.29; 95% credible interval: (1.92-2.78)) and humidity (RR= 1.04; 95% credible interval: (1.03-1.06)) had positive effect on malaria incidence, but rainfall (RR= 0.92; 95% credible interval: (0.90-0.95)) had negative impact.
+Also, smoothed map represent hot spots in the east of the province and in Qeshm Island.
+Based on the analysis of the study results, it was found that the ecological conditions of the region (temperature, humidity and rainfall) and population displacement play an important role in the incidence of malaria.
+Therefore, the malaria surveillance system should continue to be active in the region, focusing on high-risk areas of malaria.

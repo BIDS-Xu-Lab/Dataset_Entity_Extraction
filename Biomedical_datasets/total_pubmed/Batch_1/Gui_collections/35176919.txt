@@ -1,0 +1,11 @@
+Adverse childhood experiences (ACEs) have negative impacts on individuals' subjective well-being (SWB) in later life.
+This article investigates the relationships between the ACEs and SWB of Chinese older adults and examines how elder abuse victimization mediates the pathways in these relationships.
+We used retrospective cross-sectional survey data collected in Beijing, China, in 2019.
+The study sample consists of 1002 older adults aged 65 years and over.
+The survey measured individual types, number, and various categories of ACEs of older adults and their elder abuse victimization experiences, along with their SWB (i.e. depression and life satisfaction).
+We tested the potential mediating role of elder abuse victimization in the relationships between ACEs and SWB.
+After controlling for socio-demographic factors and self-rated health, the results suggest a full mediating effect of elder abuse on the relationship between both several individual types and multiple categories of ACEs (i.e. childhood victimization, the family's economic difficulties, and a family member's episodes of illness) and depression, in addition to a partial mediating effect of elder abuse between number of ACEs and depression.
+A full mediating effect of elder abuse was found in regard to the relationship between a family's economic difficulties and life satisfaction.
+This study provides evidence for a long-term impact of ACEs on the SWB of older adults in China.
+In analyzing and understanding elder abuse victimization as a pathway linking ACEs and SWB, we stress the importance of the prevention of interpersonal violence across the life course.
+Supplemental data for this article is available online at https://doi.org/10.1080/13607863.2022.2040427 .

@@ -1,0 +1,12 @@
+To describe the design of a telephone follow-up protocol and to evaluate the feasibility of this protocol for advanced cancer pain patients.
+A series of nine telephone follow-up calls was implemented with 40 advanced cancer pain patients within 3 months after their discharge from the Department of Chemotherapy.
+Cancer pain information and the pain-related knowledge of the patients were collected by nurses using pain follow-up information sheets and the Patient Pain Questionnaire (PPQ); pain self-efficacy and the quality of life were reported by patients using the Chronic Pain Self-Efficacy Scale (CPSS) Chinese version and the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC-QLQ-C30) Chinese version.
+The average score assessed by advanced cancer pain patients of the need for pain care from nurses was 24.28 (SD = 4.90).
+Twenty-one and eight patients completed all nine telephone follow-up calls and seven self-reported questionnaires, respectively.
+The pain intensity of patients at the time of follow-up was mild, but there had been breakthrough pain in the previous week.
+All patients were satisfied with the nurses' pain follow-up practices.
+There was a highly positive correlation between the time of follow-up and the patients' pain-related knowledge scores (r = 0.963**, p < 0.01).
+Patients' pain self-efficacy scores and quality of life scores varied across different dimensions.
+The baseline pain self-efficacy subscales were associated with all dimensions of quality of life (p < 0.05 or p < 0.01).
+Telephone follow-up can be an effective method of transitional care.
+For advanced cancer pain patients, it is still necessary to further explore the cost effectiveness of this method, including the appropriate follow-up duration, endpoints, and outcome measures based on government requirements and policies.

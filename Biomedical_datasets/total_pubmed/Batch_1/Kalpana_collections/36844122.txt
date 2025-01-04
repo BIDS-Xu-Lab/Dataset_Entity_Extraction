@@ -1,0 +1,17 @@
+Total hip replacement (THR) is mostly performed in patients above 65 years of age.
+Patients of this age group typically have comorbidities, therefore safe techniques for anaesthesia and analgesia with minimal side effects should be chosen and should allow early mobilisation.
+Lumbar paravertebral block is less explored in this domain.
+The primary objective of this study is to compare the efficacy of ultrasound-guided lumbar paravertebral and epidural block using ropivacaine (0.25%) with fentanyl as adjuvant for postoperative pain in patients undergoing unilateral THR.
+Randomised, controlled, double-blind, prospective study carried out in the Department of Anaesthesiology at Banaras Hindu University.
+After receiving institutional ethical committee clearance and written informed consent from patients, this study was carried out from February 2019 to February 2020.
+Sixty adult patients who required THR and fulfilled the inclusion criteria were randomised into two groups.
+The thirty patients in Group A received a continuous infusion of 5 ml/hr (0.25%) ropivacaine + 2 mcg/ml fentanyl via lumbar epidural catheter.
+The thirty patients in Group B received a continuous infusion of 5 ml/hr (0.25%) ropivacaine + 2 mcg/ml fentanyl via lumbar paravertebral catheter.
+Visual analogue scale (VAS) was used to evaluate pain scores.
+Rescue analgesia use and duration of hospital stay was calculated and compared in postoperative period.
+The statistical analysis of data was done by using software Statistical Package for Social Sciences SPSS for Windows (Version 23.0), and chi-square test was used for categorical variables.
+To compare the two groups of mean Student's t-test and for more than two groups one-way analysis of variance, the ANOVA test was used.
+In Group A, 16.7% patients required rescue analgesic, and in Group B, 26.7% required rescue analgesia which is comparable and non-significant.
+The mean duration of hospital stay in Group A is 7.50 days.
+Compared to 6.47 days in Group B, this difference is statistically significant (p-0.000).
+Analgesia provided by paravertebral block is not superior to epidural block, but paravertebral block did reduce the duration of hospital stay and provided better haemodynamic stability.

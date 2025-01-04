@@ -1,0 +1,11 @@
+Factor I (FI) is one of the main inhibitors of complement activity, and numerous rare coding variants have been reported in patients with age-related macular degeneration, atypical hemolytic uremic syndrome and C3 glomerulopathy.
+Since many of these variants are of unknown clinical significance, this study aimed to determine the effect of rare coding variants in the complement factor I (CFI) gene on FI expression.
+We measured FI levels in plasma samples of carriers of rare coding variants and in vitro in the supernatants of epithelial cells expressing recombinant FI.
+FI levels were measured in 177 plasma samples of 155 individuals, carrying 24 different rare coding variants in CFI.
+In carriers of the variants p.Gly119Arg, p.Leu131Arg, p.Gly188Ala and c.772G>A (r.685_773del), significantly reduced FI plasma levels were detected.
+Furthermore, recombinant FI expression levels were determined for 126 rare coding variants.
+Of these variants 68 (54%) resulted in significantly reduced FI expression in supernatant compared to wildtype (WT).
+The recombinant protein expression levels correlated significantly with the FI level in plasma of carriers of CFI variants.
+In this study, we performed the most comprehensive FI expression level analysis of rare coding variants in CFI to date.
+More than half of CFI variants lead to reduced FI expression, which might impair complement regulation in vivo.
+Our study will aid the interpretation of rare coding CFI variants identified in clinical practice, which is in particular important in light of patient inclusion in ongoing clinical trials for CFI gene supplementation in AMD.

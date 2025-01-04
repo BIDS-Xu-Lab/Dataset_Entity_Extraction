@@ -1,0 +1,9 @@
+The calcitonin peptides [calcitonin (CT), calcitonin gene-related peptide (CGRP), amylin] share many biological actions, including activity on bone cells.
+In the present study, CT (10(-11) to 10(-9) M) stimulated [(3)H]thymidine incorporation in primary cultures of human osteoblasts (hOB), as already demonstrated for CGRP and amylin.
+RT-PCR analysis showed that the calcitonin receptor and the calcitonin receptor-like receptor are both expressed in hOB.
+In these cells, CT (10(-10) M) and amylin (10(-9) M), in contrast to CGRP (10(-8) M), did not increase cAMP production.
+All three peptides stimulated protein kinase C (PKC) activity.
+To evaluate PKC involvement in hOB proliferation, cells were incubated with phorbol 12,13-dibutyrate, a stimulator of PKC activity; cell proliferation was increased in a dose-dependent manner (EC(50) = 3.4 x 10(-8) M).
+Staurosporine (10(-9) M), a PKC inhibitor, blocked phorbol 12,13-dibutyrate-induced PKC activity and cell proliferation.
+Inhibition of PKC by staurosporine also counteracted the stimulatory effect of CT, CGRP, and amylin on hOB proliferation.
+From these data, it is deduced that the activation of PKC is important for hOB proliferation and that it is involved in the anabolic effect of CT peptides on bone.

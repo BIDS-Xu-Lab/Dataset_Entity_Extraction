@@ -1,0 +1,7 @@
+To provide effectiveness metrics for the clinical utility of an interactive, neural network-assisted (INNA) system by compiling results from clinical studies, classifying them according to a systematic protocol and pooling data from comparably designed studies.
+This investigation synthesized evidence from published and recently completed, unpublished clinical reports evaluating INNA screening.
+Using a taxonomy developed to classify study results, effectiveness estimates were derived by pooling results according to similarity of study design and effectiveness metric.
+INNA sensitivity estimates range from 89% to 100%, assuming an 85% baseline sensitivity for unassisted screening.
+Relative yield metrics for INNA rescreening effectiveness range from 1.08 to 1.49, resulting in overall sensitivity estimates of 92-100% when applied to a baseline sensitivity of 85%.
+Estimates for another relative yield metric, representing INNA use in a primary screening mode (non-United States studies), show 18-40% increases in the yield of abnormality with INNA screening when compared with unassisted screening alone.
+The findings of this investigation indicate that a relatively extensive evidence base exists for INNA screening, and the effectiveness estimates suggest that INNA screening can provide sensitivity for cervical epithelial abnormality that exceeds that of unassisted screening when INNA is used in either a substitutive or augmentative role.

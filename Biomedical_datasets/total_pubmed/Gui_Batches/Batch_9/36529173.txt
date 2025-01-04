@@ -1,0 +1,11 @@
+As(III) is highly toxic, and its adsorption and oxidation to As(V) by minerals represent two effective approaches to remediate As(III)-contaminated sites.
+Gibbsite, one of the most abundant natural minerals, shows decent adsorption for As(III), and in this study, mechanisms of As(III) immobilization and oxidation by gibbsite with different dopants (M = Fe(III), Mn(III), Mn(IV)) are addressed by periodic DFT calculations.
+Influences of Fe(III) content and Mn oxidation state are also inspected.
+Although a majority remain structurally similar to those of pristine gibbsite, new adsorption configurations emerge due to doping: Inner-sphere complexes with M -
+As bonds for all doping, bidentate binuclear complexes for double Fe(III) doping, and physisorption with weak OMn-As interactions for Mn(IV) doping.
+As(III) adsorption affinities are significantly altered by doping and rely on dopants, while inner-sphere complexes with M-OAs bonds are always lowest-energy except doping Mn(III) that prefers trigonal bipyramidal coordination and impedes As(III) chemisorption.
+Doping causes strong M-3d and OAs-2p orbital interactions that facilitate As(III) adsorption whereas disappear for pristine gibbsite.
+Double Fe(III)- and Mn(IV)-doped gibbsite materials are effective for As(III) oxidation to As(V), and mechanisms differ significantly although all are characterized by dual electron transfers.
+Activation barriers for the most favorable reaction paths amount to 1.02 and 1.26-1.31 eV, respectively.
+Physisorbed and outer-sphere As(III) complexes exhibit comparable reactivities as chemisorbed complexes that become focus of literature reports, and may also be involved during interfacial and environmental reactions.
+Results rationalize experimental observations available, and provide significantly new insights that conduce to manage As-associated pollution and design efficient As(III) scavengers and oxidation catalysts.

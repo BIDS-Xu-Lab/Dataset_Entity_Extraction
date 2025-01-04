@@ -1,0 +1,10 @@
+Individuals living with cancer and survivors of cancer who self-identify as Hispanic experience higher pain burden and greater barriers to pain management compared with their non-Hispanic counterparts.
+The Society for Integrative Oncology-ASCO guideline recommends acupuncture and massage for cancer pain management.
+However, Hispanic individuals' expectations about these modalities remain under-studied and highlight a potential barrier to treatment utilization in this population.
+We conducted a subgroup analysis of baseline data from two randomized clinical trials to evaluate ethnic differences in treatment expectations about integrative pain treatment modalities among Hispanic and non-Hispanic cancer patients and survivors of cancer.
+The Mao Expectancy of Treatment Effects (METE) instrument was used to measure treatment expectancy for electro-acupuncture, auricular acupuncture, and massage therapy.
+Results of this study demonstrated that Hispanic participants reported greater expectation of benefit from electroacupuncture, auricular acupuncture, and massage (all P < 0.01).
+After controlling for age, gender, race, and education, Hispanic ethnicity remained significantly associated with greater expectation of benefit from integrative therapies for pain (coef.=1.47, 95% CI, 0.67-2.27).
+Non-white race (coef.=1.04, 95% CI, 0.42-1.65), no college education (coef.=1.16, 95% CI, 0.59-1.74), and female gender (coef.=0.94, 95% CI, 0.38-1.50) were also associated with a greater expectation of benefit from integrative therapies.
+Pain management should be informed by a shared decision-making approach that aligns treatment expectancy with treatment selections to optimize outcomes.
+Compared with non-Hispanic participants, Hispanic individuals reported higher expectation of benefit from acupuncture and massage, highlighting the potential role for integrative therapies in addressing ethnic pain disparities.

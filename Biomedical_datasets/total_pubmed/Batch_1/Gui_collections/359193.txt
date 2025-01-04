@@ -1,0 +1,3 @@
+The quantitative metabolic profiles of volatilizable components of human biological fluids, particularly urinary organic acids, is reviewed, with emphasis on the use of gas-chromatography/mass spectrometer/computer systems.
+Various definitions of metabolic profiling are considered and techniques for obtaining such profiles are discussed.
+The role of computer processing of such data is examined, and statistical techniques for treating quantitative metabolic profiles are suggested.

@@ -1,0 +1,4 @@
+The DOSY Toolbox is a free programme for processing PFG NMR diffusion data (sometimes loosely referred to as DOSY data), distributed under the GNU General Public License.
+NMR data from three major manufacturers can be imported and all processing is done in a user-friendly graphical user interface.
+The Toolbox is completely free-standing in the sense that all necessary basic processing of NMR data (e.g., Fourier transformation and phasing) is catered for within the programme, as well as a number of methods specific to DOSY data (e.g., DOSY and SCORE).
+The programme is written in MATLAB and as such can be run on any platform, but can also run independent of MATLAB in a free-standing compiled version for Windows, Mac, and Linux.

@@ -1,0 +1,9 @@
+The antitumorigenic effects of endogenous opioid peptides and their presence in extracerebral tumors are well documented.
+In this study, methionine-enkephaline (met-enkephalin) was measured by radioimmunoassay in 108 glial and nonglial brain tumors and in 44 associated cyst fluids.
+By immunohistochemistry, the distribution of the peptide and its precursor, preproenkephalin A, was also analyzed.
+Met-enkephalin and preproenkephalin were detected in the cytoplasm and cell processes of all tumors.
+Moreover, for neuroectodermal tumors (i.e., gliomas, gangliogliomas, and dysembryoplastic neuroepithelial tumors), a strong inverse correlation (P < 0.0001) was observed between the met-enkephalin levels and the degree of malignancy (242.9, 148.3, 55.3, and 30.3 pg/mg protein for grade 1, 2, 3, and 4, respectively).
+When compared to normal tissue, this differential expression mainly results from a decrease in the opioid peptide content in high-grade neuroectodermal tumors.
+Meningiomas and cerebral metastases displayed low met-enkephalin levels, similar to those of grade 4 neuroectodermal tumors.
+Large amounts of met-enkephalin were found in all cyst fluids.
+These data suggest that the endogenous opioid system is an integral component of brain tumors and that met-enkephalin may represent a useful malignancy marker in neuroectodermal tumors.

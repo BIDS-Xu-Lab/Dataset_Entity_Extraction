@@ -1,0 +1,7 @@
+The purpose of this study is to evaluate the performance of dose calculation algorithms used in radiotherapy treatment planning systems (TPSs) in comparison with Monte Carlo (MC) simulations in nonelectronic equilibrium conditions.
+MC simulations with PENELOPE package were performed for comparison of doses calculated by pencil beam convolution (PBC), analytical anisotropy algorithm (AAA), and Acuros XB TPS algorithms.
+Relative depth dose curves were calculated in heterogeneous water phantoms with layers of bone (1.8 g/cm3) and lung (0.3 g/cm3) equivalent materials for radiation fields between 1 × 1 cm2 and 10 × 10 cm2.
+Analysis of relative depth dose curves at the water-bone interface shows that PBC and AAA algorithms present the largest differences to MC calculations (uMC = 0.5%), with maximum differences of up to 4.3% of maximum dose.
+For the lung-equivalent material and 1 × 1 cm2 field, differences can be up to 24.3% for PBC, 11.5% for AAA, and 7.5% for Acuros.
+Results show that Acurus presents the best agreement with MC simulation data with equivalent accuracy for modeling radiotherapy dose deposition especially in regions where electronic equilibrium does not hold.
+For typical (nonsmall) fields used in radiotherapy, AAA and PBC can exhibit reasonable agreement with MC results even in regions of heterogeneities.

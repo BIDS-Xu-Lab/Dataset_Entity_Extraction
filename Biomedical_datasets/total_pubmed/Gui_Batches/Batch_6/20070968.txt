@@ -1,0 +1,9 @@
+Cherniss's pioneering research on burnout, based on grounded theory, focused specifically on competence crisis among new graduates, and identified negative attitude changes as the core phenomenon in the progression from competence crisis into early career burnout.
+In this model, the two main burnout dimensions of exhaustion and dysfunctional coping are ordered sequentially; i.e., initial exhaustion develops, due to dysfunctional coping (cynicism and disengagement), into burnout.
+To test the sequential-developmental model of burnout originally proposed by Cherniss, using a psychometric approach.
+A sample of 933 early-career nursing professionals, recruited from a Swedish population-based cohort (response rate 81%), were assessed three years after graduation, using items from a burnout inventory.
+Data were analysed using the Rasch measurement model.
+The psychometric tests showed that data adhere to a sequential-developmental model when examined using the one-parameter item response approach.
+When tested against external variables, the prevalence of low mood, low levels of job performance and health problems increased monotonically along this sequential-developmental model of early career burnout.
+Among early-career nursing professionals burnout may be operationalized as a one-dimensional sequential-developmental model.
+This model resembles the results found in the literature on transition and socialization, and the association between these psychometric results and studies on nursing students' transition and socialization into working life are discussed.

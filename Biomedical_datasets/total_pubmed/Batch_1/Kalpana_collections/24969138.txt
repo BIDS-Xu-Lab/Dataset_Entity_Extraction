@@ -1,0 +1,7 @@
+Nucleocytoplasmic large DNA viruses (NCLDVs) are eukaryotic viruses with large genomes (100 kb-2.5 Mb), which include giant Mimivirus, Megavirus and Pandoravirus.
+NCLDVs are known to infect animals, protists and phytoplankton but were never described as pathogens of land plants.
+Here, we show that the bryophyte Physcomitrella patens and the lycophyte Selaginella moellendorffii have open reading frames (ORFs) with high phylogenetic affinities to NCLDV homologues.
+The P. patens genes are clustered in DNA stretches (up to 13 kb) containing up to 16 NCLDV-like ORFs.
+Molecular evolution analysis suggests that the NCLDV-like regions were acquired by horizontal gene transfer from distinct but closely related viruses that possibly define a new family of NCLDVs.
+Transcriptomics and DNA methylation data indicate that the NCLDV-like regions are transcriptionally inactive and are highly cytosine methylated through a mechanism not relying on small RNAs.
+Altogether, our data show that members of NCLDV have infected land plants.

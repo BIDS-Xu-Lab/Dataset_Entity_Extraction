@@ -1,0 +1,9 @@
+Plastic pollution has been recognized as a serious environmental problem, and microbial degradation of plastics is a potential, environmentally friendly solution to this.
+Here, we analyzed and compared microbial communities on waste plastic films (WPFs) buried for long periods at four landfill sites with those in nearby soils to identify microbes with the potential to degrade plastics.
+Fourier-transform infrared spectroscopy spectra of these WPFs showed that most were polyethylene and had signs of oxidation, such as carbon-carbon double bonds, carbon-oxygen single bonds, or hydrogen-oxygen single bonds, but the presence of carbonyl groups was rare.
+The species richness and diversity of the bacterial and fungal communities on the films were generally lower than those in nearby soils.
+Principal coordinate analysis of the bacterial and fungal communities showed that their overall structures were determined by their geographical locations; however, the microbial communities on the films were generally different from those in the soils.
+For the pulled data from the four landfill sites, the relative abundances of Bradyrhizobiaceae, Pseudarthrobacter, Myxococcales, Sphingomonas, and Spartobacteria were higher on films than in soils at the bacterial genus level.
+At the species level, operational taxonomic units classified as Bradyrhizobiaceae and Pseudarthrobacter in bacteria and Mortierella in fungi were enriched on the films.
+PICRUSt analysis showed that the predicted functions related to amino acid and carbohydrate metabolism and xenobiotic degradation were more abundant on films than in soils.
+These results suggest that specific microbial groups were enriched on the WPFs and may be involved in plastic degradation.

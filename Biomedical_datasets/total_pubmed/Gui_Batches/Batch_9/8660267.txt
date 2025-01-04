@@ -1,0 +1,8 @@
+A mathematical model of left ventricular pressure (LVP) during isovolumic contraction in the time domain shows the following predictions: 1) td, the time from onset of contraction to dP/dtmax and (dP/dt)/P, reflect only the time-dependent aspects of contraction, and are independent of preload; 2) dP/dtmax depends on both preload and the time-dependent aspects of contraction.
+To test preload independence we reduced filling volume (FV) by the method of ventricular volume clamps with a remote-controlled mitral valve in 7 anesthetized open-chest dogs.
+A decrease in FV of 80 +/- 15% produced a 29 +/- 12% (p < 0.001) decrease in LVP, 34 +/- 13% (p < 0.001) decrease in dP/dtmax, 13 +/- 4% (p < 0.001) decrease in t-dP/dtneg, and no change in td (-3 +/- 5%, NS).
+The heart rate (HR) dependence on td was assessed in other 5 anesthetized open-chest dogs.
+HR was changed with atrial pacing (50-240 bpm).
+td was linearly and inversely related to HR in each dog, and at each HR: dobutamine lowered and propranolol elevated this relation when compared to control (p < .001, both).
+Since dP/dtmax occurs usually before the opening of the aortic valve, td is, thus, also afterload-independent.
+This study supports the theoretical predictions that td is independent of preload and that it can serve, at any given HR, as a reliable index of contractility, provided that dP/dtmax occurs before the opening of the aortic valve.

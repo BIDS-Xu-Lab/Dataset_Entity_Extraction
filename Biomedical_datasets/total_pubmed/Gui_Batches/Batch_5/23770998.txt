@@ -1,0 +1,6 @@
+The study investigated the growth characteristics of environmental algal strain, Chlorella, in the modified Zarrouk medium and its anaerobic co-digestion with waste activated sludge (WAS).
+Analysis of extracellular polymeric substances (EPS) in algal culture and WAS indicated that Chlorella secreted more EPS into the surrounding liquid than formed floc-associated EPS as in activated sludge.
+Mesophilic anaerobic digestion of algae alone required extended digestion period to produce methane, with biogas yield at 262 mL/gVSfed after 45 days of digestion.
+When algae was co-digested with varying amounts of WAS, 59-96% in mass, not only biogas yield of microalgae improved but the gas phase was reached more quickly.
+The dewaterability of co-digestion products were also better than two controls digesting WAS or algae only.
+These results suggest that anaerobic co-digestion of algae and sludge improves the digestibility of microalgae and could also bring synergistic effects on the dewaterability of digested products for existing anaerobic digesters.

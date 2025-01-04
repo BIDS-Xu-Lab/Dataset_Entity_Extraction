@@ -1,0 +1,11 @@
+Conducting, boron doped diamond (BDD), in addition to its superior material properties, offers several notable attributes to the electrochemist making it an intriguing material for electrochemical research.
+These include the widest solvent window of all electrode materials; low background and capacitive currents; reduced fouling compared to other electrodes and; the ability to withstand extreme potentials, corrosive and high temperature/pressure environments.
+However, BDD is not your typical electrode material, it is a semi-conductor doped degenerately with boron to present semi-metallic characteristics.
+Input from materials scientists, chemists and physicists has been required to aid understanding of how to work with this material from an electrochemical viewpoint and improve electrode quality.
+Importantly, depending on how the BDD has been grown and then subsequently treated, prior to electrochemical measurement, the resulting material properties can vary quite significantly from one electrode to the next.
+This likely explains the variability seen by different researchers working on the same experimental systems.
+The aim of this "protocols" article is not to provide a state-of-the-art review of diamond electrochemistry, suitable references are provided to the interested reader, but instead serves as a reference point for any researcher wishing to commence work with diamond electrodes and interpret electrochemical data.
+It provides information on how best to characterise the material properties of the electrode before use and outlines the interplay between boron dopant density, non-diamond-carbon content, grain morphology, surface chemistry and redox couple identity.
+All should ideally be considered when interpretating electrochemical data arising from the diamond electrode.
+This will aid the reader in making meaningful comparisons between data obtained by different researchers using different diamond electrodes.
+The guide also aims to help educate the researcher in choosing which form of BDD is best suited to their research application.

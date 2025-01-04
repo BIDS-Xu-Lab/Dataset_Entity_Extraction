@@ -1,0 +1,9 @@
+The regulation of activity in the subthalamic nucleus (STN) by GABAergic inhibition from the reciprocally connected globus pallidus (GP) plays an important role in normal movement and disorders of movement.
++/- 7.0 mV. Single IPSPs disrupted the spontaneous oscillation that underlies rhythmic single-spike firing in STN neurons.
+As the magnitude of IPSPs increased, the effectiveness of prolonging the interspike interval was related more strongly to the phase of the oscillation at which the IPSP was evoked.
+Thus the largest IPSPs tended to reset the oscillatory cycle, whereas the smallest IPSPs tended to produce relatively phase-independent delays in firing.
+Multiple IPSPs were evoked at various frequencies and over different periods and their impact was studied on STN neurons held at different levels of polarization.
+Multiple IPSPs reduced and/or prevented action potential generation and/or produced sufficient hyperpolarization to activate a rebound depolarization, which generated a single spike or restored rhythmic spiking and/or generated a burst of activity.
+The pattern of IPSPs and the level of polarization of STN neurons were critical in determining the nature of the response.
+The duration of bursts varied from 20 ms to several hundred milliseconds, depending on the intrinsic rebound properties of the postsynaptic neuron.
+These data demonstrate that inhibitory input from the GP can produce a range of firing patterns in STN neurons, depending on the number and frequencies of IPSPs and the membrane properties and voltage of the postsynaptic neuron.

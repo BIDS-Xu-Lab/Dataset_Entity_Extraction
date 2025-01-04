@@ -1,0 +1,16 @@
+N-Nitrosamines as carcinogens in general pose a potential health risk.
+Since 1992, legal guidelines that restrict the occurrence of N-nitrosamines in cosmetics have been operational in the European Union.
+Problem issues are NDELA (N-nitrosodiethanolamine) and NMPABAO (2-ethylhexyl 4-(N-nitroso-N-methylamino)benzoate).
+Data available on the NDELA content of Dutch samples date back to the early 1980s and those for NMPABAO are lacking.
+For the determination of NDELA in cosmetics, a method based on capillary gas chromatography (GC) without derivatization and online chemiluminescence detection with a Thermal Energy Analyser (TEA) has been developed and validated.
+The sample is diluted with water, adsorbed onto a kieselgur column and eluted with n-butanol.
+The extract is transferred to a silica gel column which is eluted with acetone.
+The eluate is dried and re-dissolved in dichloromethane.
+The final extract is analysed for NDELA by GC-TEA.
+The average recovery for NDELA is 99%, range 86-112% (n = 4) and the limit of quantification is 5.3 mug kg(-1).
+The GC-TEA method was used to determine the NDELA content of 48 cosmetics including gels, shampoos, cremes, milks, conditioners and foams.
+All determinations were done in duplicate, and for every 10 cosmetics a recovery experiment and a blank determination were performed.
+The results of these quality assurance experiments were within the performance characteristics of the method developed.
+In 1996, a content of NDELA above the limit of quantification of 5.3 mug kg(-1) was measured in four out of the 48 cosmetics.
+Based on these results, a more selective survey was carried out.
+Now a NDELA content above the limit of quantification was measured in seven out of 25 sampled and analysed cosmetics.

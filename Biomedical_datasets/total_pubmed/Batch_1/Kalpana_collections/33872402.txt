@@ -1,0 +1,11 @@
+Antimicrobial photodynamic therapy (aPDT) is promising for oral decontamination.
+Curcumin has been used as photosensitizer; however, the hydrophobic properties can negatively affect aPDT.
+This study evaluated the aPDT efficacy using Cur-loaded Pluronic® F-127 micelles against Streptococcus mutans and Candida albicans biofilms.
+Micelles characterization was performed by zeta potential, dynamic light scattering, transmission electron microscopy, absorption and fluorescence spectroscopy.
+Cur concentrations, cell viability by CFU mL-1 and confocal microscopy were determined.
+Data were analyzed by parametric and nonparametric tests under 5%.
+Cur-loaded Pluronic® F-127 exhibited spherical shape, suitable particle size (≤100 nm), adequate polydispersity index, best stability, lower photodegradation and autoaggregation compared to unloaded-Cur.
+Both microorganisms were sensitive to Cur-loaded Pluronic® F-127 micelles aPDT, with minimum inhibitory concentration (MIC) of 270 μm and 2.1093 μm for S. mutans and C. albicans suspended culture, respectively.
+Cur-loaded Pluronic® F-127 aPDT exhibited antibacterial/antifungal effect against the biofilms (~3 log10 reduction; P ≤ 0.05); however, similar to unloaded (P ≥ 0.05).
+Cur-loaded Pluronic® F-127 micelles exhibited good photo-chemical properties and may be a viable alternative to deliver Cur and to improve aPDT effect during the treatment of dental caries.
+Moreover, Pluronic® micelles can enhance the solubility, stability, permeability and control the release of Cur.

@@ -1,0 +1,6 @@
+This study uses data from a population-based survey to examine the fertility schedules of 704 women in a rural district of Malawi.
+The main objective is to assess self-reported fecundity status as a measure of fertility impairment.
+Life tables are used to examine the timing and tempo of births for women reporting difficulty getting pregnant as compared to women with no reported fecundity difficulties.
+Results of the analysis indicate that women with self-reported fecundity difficulties are older at each birth and have longer median birth intervals than do women with no reported difficulties.
+Cox proportional hazards models show that the report of a difficulty getting pregnant is significantly associated with at least a 30% lower likelihood of a first, second, or third birth.
+The relationships are not modified when accounting for demographic characteristics, previous sexual behaviors, or STI status.

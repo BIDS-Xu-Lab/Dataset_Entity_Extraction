@@ -1,0 +1,15 @@
+Altered gut microbiota has been connected to hepatocellular carcinoma (HCC) occurrence and advancement.
+This study was conducted to identify a gut microbiota signature in differentiating between viral-related HCC (Viral-HCC) and non-hepatitis B-, non-hepatitis C-related HCC (NBNC-HCC).
+Fecal specimens were obtained from 16 healthy controls, 33 patients with viral-HCC (17 and 16 cases with hepatitis B virus (HBV) and hepatitis C virus (HCV) infection, respectively), and 18 patients with NBNC-HCC.
+Compositions of fecal microbiota were assessed by 16S rRNA sequencing.
+Bioinformatic analysis was performed by the DADA2 pipeline in the R program.
+Significantly different genera from the top 50 relative abundance were used to classify between subgroups of HCC by the Random Forest algorithm.
+Our data demonstrated that the HCC group had a significantly decreased alpha-diversity and changed microbial composition in comparison with healthy controls.
+Within the top 50 relative abundance, there were 11 genera including Faecalibacterium, Agathobacter, and Coprococcus that were significantly enhanced in Viral-HCC, while 5 genera such as Bacteroides, Streptococcus, Ruminococcus gnavus group, Parabacteroides, and Erysipelatoclostridium were enhanced in NBNC-HCC.
+Compared to Viral-HCC, the NBNC-HCC subgroup significantly reduced various short-chain fatty acid-producing bacteria, as well as declined fecal butyrate but elevated plasma surrogate markers of microbial translocation.
+Based on the machine learning algorithm, a high diagnostic accuracy to classify HCC subgroups was achieved with an area under the receiver-operating characteristic (ROC) curve (AUC) of 0.94.
+Collectively, these data revealed that gut dysbiosis was distinct according to etiological factors of HCC, which might play an essential role in hepatocarcinogenesis.
+These findings underscore the possible use of a gut microbiota signature for the diagnosis and therapeutic approaches regarding different subgroups of HCC.
+KEY POINTS: • Gut dysbiosis is connected to hepatocarcinogenesis and can be used as a novel biomarker.
+Gut microbiota composition is significantly altered in different etiological factors of HCC.
+• Microbiota-based signature can accurately distinguish between Viral-HCC and NBNC-HCC.

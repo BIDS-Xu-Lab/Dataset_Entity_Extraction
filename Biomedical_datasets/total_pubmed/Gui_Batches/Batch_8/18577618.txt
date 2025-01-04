@@ -1,0 +1,10 @@
+An experiment was conducted to determine the effects of different doses of liquid dl-2-hydroxy-4-methylthio butanoic acid (LMA) on growth performance and immune response in broiler chickens.
+In an arrangement with 4 graded levels of LMA to meet 80, 100, 120, and 140% of methionine requirements of broilers recommended by Chinese feeding standards for chickens, 256 one-day-old Arbor Acres male broiler chickens were randomly divided into 4 treatments with 8 replicates of 8 birds each.
+Growth performance, cellular immunity, and humoral immunity were determined.
+Results from increasing LMA levels were as follows.
+There were no significant differences (P > 0.05) in body weight gain and feed intake among the treatments, but the ratio of feed to gain was linearly decreased and significantly greatest (P < 0.05) in the group fed at 80% of methionine requirement.
+Serum globulin levels on d 21 and 42 were linearly increased significantly (P < 0.05); phagocytosis of neutral red of peripheral blood lymphocyte was quadratic and was lowest in the deficient group (P < 0.05).
+The proliferation of peripheral blood lymphocytes in response to lipopolysaccharide was quadratically influenced, and that of the 120% group on d 21 and the 100% group on d 42 was significantly greater than in the other groups (P < 0.05).
+Antibody titers to Newcastle disease virus on d 4 after the first inoculation of the vaccine were quadratically increased, anti-bovine serum albumin antibody production on d 13 after the second immunization was quadratic, and antibody titers were greatest in the groups fed at 100 or 120% of methionine requirement.
+In conclusion, methionine deficiency resulted in decreased feed utilization and decreased humoral and nonspecific immuno-competence of broiler chickens.
+The use of LMA to correct a methionine deficiency corrected these problems.

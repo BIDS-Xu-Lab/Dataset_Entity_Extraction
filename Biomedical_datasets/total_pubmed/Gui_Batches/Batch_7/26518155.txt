@@ -1,0 +1,7 @@
+To evaluate de performances of noninvasive prenatal testing using cell free circulating fetal DNA (cffDNA) for the detection of fetal trisomy 21, 18 and 13 in a French population.
+cffDNA analysis was performed by massive parallel sequencing during a multicenter, non interventional, prospective study and the results were compared with a standard fetal karyotype.
+Results were available for 886 patients who have been classified as high- or moderate-risk depending on the presence of fetal abnormalities on ultrasound examination.
+For the high-risk group (n=376), the sensitivity and specificity of the test were 100% and 99.9% for trisomy 21, 88% and 99.9% for trisomy 18 and 100% and 99.9% for trisomy 13.
+The rate of other pathogenic chromosomal abnormalities with a negative NIPT was 7.9%.
+In the low-risk group (n=510), the sensitivity was 100% and the specificity 99.8% for trisomy 21, and only 0.4% of pathogenic chromosomal abnormalities were revealed by fetal karyotyping but not detected by cffDNA analysis.
+Noninvasive prenatal testing using cffDNA for high risk patients without fetal anomalies at ultrasound could be recommended in France after counseling on the possible risk of undiagnosed anomalies.

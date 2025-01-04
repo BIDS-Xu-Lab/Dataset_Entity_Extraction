@@ -1,0 +1,7 @@
+To examine the association between six facets of conscientiousness (self-control, order, industriousness, traditionalism, virtue, responsibility) and objective markers of health status, including adiposity, blood markers and physical performance.
+Cross-sectional analysis of participants from the health and retirement study (N = 12,188).
+Adiposity (body mass index, waist circumference), blood markers (A1c, HDL cholesterol, total cholesterol, cystatin c, c-reactive protein) and physical performance (lung function, grip strength, walking speed).
+Four of the six facets of conscientiousness were associated with nearly all of the health markers: Self-control, organisation, industriousness and responsibility were related to lower adiposity, healthier metabolic, cardiovascular and inflammatory markers, and better performance on physical assessments.
+Traditionalism and virtue had fewer associations with these objective markers.
+This research took a facet-level approach to the association between conscientiousness and objective markers of health status.
+This research builds on models of conscientiousness and health to suggest that, in addition to health-risk behaviours, facets of conscientiousness are associated with more favourable biomedical markers of health status.

@@ -1,0 +1,10 @@
+To assess the value of paddlewheel multi-slice helical CT techniques in the detection of pulmonary embolism (PE).
+A prospective study was conducted from December 2011 to February 2013 at the Radiology Department, Dallah Hospital, Riyadh, Kingdom of Saudi Arabia.
+The CT scans of 71 patients presented for CT pulmonary angiography were selected and interpreted by 2 radiologists using reformatted paddlewheel technique besides coronal multiplanar volume reconstruction (MPVR).
+Paddlewheel reconstruction was carried out using inbuilt software on sagittal and axial images, setting 5 and 2 mm slab thickness with 5 and 2 degree angle rotation.
+Reference standard was overall interpretation of coronal MPVR and paddlewheel reformatted images by both radiologists.
+In 71 patients (44 were females and 27 were male) with suspected PE, 43 were found to be positive, and 28 were found to be negative.
+The youngest patient was 15 years old, and the oldest was 99 years of age.
+Paddlewheel reformatted images display significantly high sensitivity and specificity in eliciting total number of pulmonary emboli compared to coronal MPVR by detecting 51 additional emboli.
+Decreasing slab thickness and rotation angle enhanced sensitivity of paddlewheel reformatted images by detecting another 11 emboli.
+The paddlewheel CT angiography technique with fine slice thickness and less rotational angle enhances PE imaging.

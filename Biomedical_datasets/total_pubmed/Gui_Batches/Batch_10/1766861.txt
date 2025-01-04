@@ -1,0 +1,10 @@
+From a fundamental research point of view, malignancies may be viewed as opportunities that deregulate cell growth and differentiation, thus providing the possibility to find new genes and understand how these genes act.
+Acute lymphoblastic leukemia (ALL) is one of the best examples of malignant proliferation that has benefited by considerable advances of molecular cytogenetics for the ten past years.
+Three types of chromosome abnormalities may be considered in ALL.
+Clonal anomalies may be more or less specific for a cellular type of leukemia, such as the t(8;14)(q24;q32) and t(9;22)(q34;q11) translocations related with Burkitt type of leukemia and Philadelphia-positive ALL (Ph1+ ALL) respectively, and for this reason are often designated as recurrent abnormalities.
+They are mainly structural chromosomal abnormalities, often translocations.
+A second type of clonal abnormalities consists of nonrandom alterations which are not apparently related with the differentiation type.
+They are the solely detected chromosomal changes (trisomy for instance) or may be associated with other anomalies and have been often considered as "secondary" abnormalities.
+Finally, nonclonal cytogenetic anomalies are the third type of anomalies.
+They may be present even prior any treatment and characterize a minority of ALL.
+This aspect of chromosomal instability of unknown mechanism will not be discussed here.

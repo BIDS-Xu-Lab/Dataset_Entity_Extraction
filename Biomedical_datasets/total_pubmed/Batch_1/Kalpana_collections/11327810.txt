@@ -1,0 +1,8 @@
+The concept of using a dynamic base-pairing nucleobase as a mode for degenerate recognition presents a unique challenge to analysis of DNA structure.
+Proton and phosphorus NMR studies are reported for two nine-residue DNA oligodeoxyribonucleotides, d(CATGGGTAC).d(GTACNCATG) (1) and d(CATGTGTAC).(GTACNCATG) (2), which contained 1-(2'-deoxy-beta-D-ribofuranosyl)-1,2,4-triazole-3-carboxamide (N) in the center of the helix at position 14.
+The duplexes were compared to the canonical Watson-Crick duplexes, d(CATGGGTAC).d(GTACCCATG) (3) and d(CATGTGTAC).d(GTACACATG) (4).
+Two-dimensional NOESY spectra of 1-4 in H(2)O and D(2)O solutions collected at 5 degrees C allowed assignment of the exchangeable and nonexchangeable protons for all four oligodeoxyribonucleotides.
+Thermodynamic and circular dichroism data indicated that 1-4 formed stable, B-form duplexes at 5 degrees C. Two-dimensional (1)H-(31)P correlation spectra indicated that there were minor perturbations in the backbone only near the site of the triazole base.
+Strong NOESY cross-peaks were observed between the H5 and H1' of N14 in 1 and, unexpectedly, 2, which indicated that, in both duplexes, N14 was in the syn(chi)() conformation about the glycosidic bond.
+NOESY spectra of 1 and 2 recorded in 95% H(2)O, 5% D(2)O indicated that the imino proton of the base opposite N14, G5, or T5, formed a weak hydrogen bond with N14.
+These conformations place the polar carboxamide functional group in the major groove with motional averaging on the intermediate time scale.

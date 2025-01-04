@@ -1,0 +1,23 @@
+To evaluate response of cardiovascular system in laparoscopic surgery.
+The main aim was: 1--comparison of healthy subjects and morbid obese population, 2--comparison of healthy subjects and cohort of patients with organic cardiopathy.
+Secondly we compared the influence of the operation position.
++/- 11.2 years; BMI 25.33 +/- 3.62; BSA 1.84 +/- 0.21 m2; two men and four women; op.
+diagnosis: 3x cholecystectomy, 1x appendectomy, 1x inguinal herniotomy, 1x hiatal hernia operation.
+--Group of patients with morbid obesity: mean age 38 +/- 8.1 years; BMI 45.82 +/- 7.54!;
+BSA 2.66 +/- 0.32 m2; one man and five women; all of them were operated for obesity (laparoscopic gastric banding).--Group of patients with severe cardiopathy: mean age 64.0 +/- 11.55; BMI 26.4 +/- 4.09; BSA 1.89 +/- 0.23; three men and two women; card.
+diagnosis: 2x aortic stenosis, 1x combined aortic valvulopathy, 1x aortic stenosis with secondary mitral regurgitation, 1x secondary mitral regurgitation (both caused by coronary artery disease); op.
+diagnosis: 4x cholecystectomy; 1x extraction of catheter for peritoneal dialysis.
+The method of our examination was transesophageal echocardiography with use of omni planar sond with continual monitoring of each patient.
+Our data are based on repeated measurements (3x minimal for each state and each patient) before and after peritoneal cavity insufflation and third after positioning of patient (in Trendelenburg or Fowler position).
+Examinations were recorded and data analysed off-line.
+Following parameters were analysed: mean age, BMI, BSA, heart rate, mean arterial pressure (MAP), ejection fraction of left ventricle (EF), E/A ratio of transmitral flow, cardiac output (CO), cardiac index (CI), systemic (peripheral) vascular resistance (SVR) and pressure-rate-product (PRP).
+For statistical analysis were used: ANOVA tests, t-tests with Benforroni correction and Friedman's tests.
+In comparison of normal and obese patients statistically significant differences were found (after exclusion of BMI and BSA) in cardiac output values, after recalculation on body surface (cardiac index) remained only non-significant trend to fall.
+Differences between control group and group of cardiacs were also non significant with exclusion of E/A ratio of transmitral flow.
+This result we explain by pseudonormalization.
+All 17 operations were successfully done without any complication.
+Our data were obtained on relatively small cohort of patients but the number of patients was respected by statistics and results might be borderline but significant.
+Laparoscopic gastric band (operation is done in semi-sitting position) in morbid obese patients is well tolerated without any differences in comparison to healthy population.
+The population of patients with severe organic cardiopathy needs careful approach.
+Our data are favourable but significant change in the left ventricle filling together with non-significant hemodynamic disadvantageous trends in EF, CI and MAP requires care.
+Further investigations are needed and with intraoperative monitoring (transesophageal echocardiography is preferred) can be considered as safe.

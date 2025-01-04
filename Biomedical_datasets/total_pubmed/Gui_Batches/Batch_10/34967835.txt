@@ -1,0 +1,9 @@
+To investigate the longitudinal changes in choroidal vascularity index (CVI) in eyes with active and quiescent intermediate uveitis using enhanced depth imaging optical coherence tomography (EDI-OCT).
+EDI-OCT images of eyes with active and quiescent intermediate uveitis were retrospectively reviewed and binarized using ImageJ software.
+Choroidal parameters including CVI, total choroidal area (TCA), luminal area (LA), stromal area (SA), and subfoveal choroidal thickness (SCT) were measured and compared between baseline and follow-up visits among eyes with active and quiescent intermediate uveitis.
+Thirty-eight eyes from 21 patients with active intermediate uveitis and 30 eyes from 17 patients with quiescent intermediate uveitis were included.
+CVI in eyes with active intermediate uveitis significantly increased from baseline (66.50% ± 3.40%) with resolution of inflammation on follow-up (68.82% ± 3.90%; P < 0.001).
+In eyes with quiescent intermediate uveitis at baseline eyes, CVI did not significantly change after follow-up (66.34% ± 3.19% to 66.25% ± 3.13%; P = 0.850).
+CVI significantly increased when active inflammation in intermediate uveitis resolved while CVI remained unchanged at follow-up in quiescent intermediate uveitis.
+CVI may be a useful noninvasive tool to monitor treatment response in intermediate uveitis.
+Our findings also highlight the involvement of choroidal vasculature in uveitic eyes without any clinical evidence of choroiditis.

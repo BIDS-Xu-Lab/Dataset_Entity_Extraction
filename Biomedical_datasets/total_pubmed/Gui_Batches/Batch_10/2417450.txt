@@ -1,0 +1,10 @@
+The origin and functional role of capsaicin-sensitive substance P-(SP-) immunoreactive (IR) nerve fibres in the lower airways were studied in the guinea-pig.
+Stellatectomy caused a significant reduction of SP-IR in the lung and pulmonary artery.
+Immunohistochemical analysis, however, did not reveal any clear-cut change in the number and distribution of SP-IR fibres in the lung of these animals.
+After combined stellatectomy plus local capsaicin treatment of the vagal nerves, most SP-IR nerves disappeared in the lower airways.
+The bronchoconstriction induced by capsaicin was significantly reduced after stellatectomy and abolished after stellatectomy plus capsaicin pretreatment of the vagal nerves.
+Ether inhalation caused bronchoconstriction, which was not influenced by stellatectomy but markedly reduced by combined capsaicin treatment of vagal nerves and stellatectomy.
+Stellate ganglion stimulation in animals that had been chemically sympathectomized by 6-OH-dopamine caused bronchoconstriction, which was resistant to cholinergic or adrenergic receptor blockade.
+This response was absent after systemic capsaicin pretreatment, suggesting that it was due to antidromic stimulation of afferent fibres traversing the stellate ganglion.
+In conclusion, the present data suggest that the lower airways receive SP-IR capsaicin-sensitive C-fibre afferents of both vagal and spinal origin.
+These sensory fibres seem to have branches both within the bronchial smooth muscle and around blood vessels.

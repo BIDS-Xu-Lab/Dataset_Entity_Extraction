@@ -1,0 +1,5 @@
+In DNA replication, the leading strand is synthesized continuously, but lagging strand synthesis requires the complex, discontinuous synthesis of Okazaki fragments, and their subsequent joining.
+We have used a combination of in situ extraction and dual color photobleaching to compare the dynamic properties of three proteins essential for lagging strand synthesis: the polymerase clamp proliferating cell nuclear antigen (PCNA) and two proteins that bind to it, DNA Ligase I and Fen1.
+All three proteins are localized at replication foci (RF), but in contrast to PCNA, Ligase and Fen1 were readily extracted.
+Dual photobleaching combined with time overlays revealed a rapid exchange of Ligase and Fen1 at RF, which is consistent with de novo loading at every Okazaki fragment, while the slow recovery of PCNA mostly occurred at adjacent, newly assembled RF.
+These data indicate that PCNA works as a stationary loading platform that is reused for multiple Okazaki fragments, while PCNA binding proteins only transiently associate and are not stable components of the replication machinery.

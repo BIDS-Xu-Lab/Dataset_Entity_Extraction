@@ -1,0 +1,13 @@
+Neuromonitoring is performed to prevent further (secondary) brain damage by detecting low brain blood flow following a head injury, stroke or neurosurgery.
+This comparative neuromonitoring study is part of an ongoing investigation of brain bioimpedance (rheoencephalography-REG) as a measuring modality for use in both civilian and military medical settings, such as patient transport, emergency care and neurosurgery intensive care.
+In a previous animal study, we validated that REG detects cerebral blood flow autoregulation (CBF AR), the body's physiological mechanism that protects the brain from adverse effects of low brain blood flow (hypoxia/ischemia).
+In the current descriptive pig study, the primary goal was to compare measurements of CBF AR made with REG to measurements made with other neuromonitoring modalities: laser Doppler flow (LDF); intracranial pressure (ICP); absolute CBF; carotid flow (CF); and systemic arterial pressure (SAP).
+Challenges administered to anesthetized pigs were severe induced hemorrhage (bleeding) and resuscitation; CO2 inhalation; and positive end expiratory pressure (PEEP).
+Data were stored on a computer and processed offline.
+After hemorrhage, the loss of CBF AR was detected by REG, ICP, and CF, all of which passively followed systemic arterial SAP after bleeding.
+Loss of CBF AR was the earliest indicator of low brain blood flow: loss of CBF AR occurred before a decrease in cardiac output, which is the cardiovascular response to hemorrhage.
+A secondary goal of this study was to validate the usefulness of new automated data processing software developed to detect the status of CBF AR.
+Both the new automated software and the traditional (observational) evaluation indicated the status of CBF AR.
+REG indicates the earliest breakdown of CBF AR; cessation of EEG for 2 seconds and respiration would be used as additional indicators of loss of CBF AR.
+The clinical significance of this animal study is that REG shows potential for use as a noninvasive, continuous and non-operator dependent neuromonitor of CBF AR in both civilian and military medical settings.
+Human validation studies of neuromonitoring with REG are currently in progress.

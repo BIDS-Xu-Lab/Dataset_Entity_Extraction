@@ -1,0 +1,12 @@
+Although cancer incidence over time is well documented in Canada, trends by birth cohort and age group are less well known.
+We analyzed age- and sex-standardized incidence trends in Canada for 16 major cancer sites and all cancers combined.
+We obtained nationally representative population-based cancer incidence data in Canada between 1971 and 2015 from the National Cancer Incidence Reporting System (1969-1992) and the Canadian Cancer Registry (1992-2015).
+We analyzed cancer-incidence trends, reported as annual percent change (APC) for each 10-year group from age 20 to 89 years.
+We also estimated age-adjusted incidence rate ratios from fitted birth cohort models.
+Across most age categories, the most recent trends show significant decreases in the incidence of cervical (APC -8.8% to -0.33%), lung (men: -7.42% to -0.36%; women: -6.27% to 1.07%), bladder (women: -4.12% to -0.07%; men: -5.13% to -0.38%) and prostate cancer (-11.11% to -1.11%).
+Significant increasing trends were observed for kidney, thyroid and uterine cancers.
+Overall incidence has increased among both sexes younger than 50 years of age, with recent increases in pancreatic cancer among men, breast cancer among women and colorectal cancer among both sexes.
+From the birth cohort analysis, we observed increasing trends in colorectal, liver and prostate cancers among men; kidney cancer and melanoma among women; and thyroid cancer among both sexes.
+We observed decreasing trends in cervical and ovarian cancers, and in bladder and lung cancers among men.
+Cancer incidence is decreasing at many sites targeted by primary-prevention efforts, such as smoking cessation and screening programs.
+Substantial increases in incidence among younger populations are driven by cancers possibly associated with obesity.

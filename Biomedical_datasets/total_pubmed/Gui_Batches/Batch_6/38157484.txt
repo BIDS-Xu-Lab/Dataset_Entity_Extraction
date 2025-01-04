@@ -1,0 +1,7 @@
+We develop a DNA origami-based internal kinetic referencing system with a colocalized reference and target molecule to provide increased sensitivity and robustness for transient binding kinetics.
+To showcase this, we investigate the subtle changes in binding strength of DNA oligonucleotide hybrids induced by cytosine modifications.
+These cytosine modifications, especially 5-methylcytosine but also its oxidized derivatives, have been increasingly studied in the context of epigenetics.
+Recently revealed correlations of epigenetic modifications and disease also render them interesting biomarkers for early diagnosis.
+Internal kinetic referencing allows us to probe and compare the influence of the different epigenetic cytosine modifications on the strengths of 7-nucleotide long DNA hybrids with one or two modified nucleotides by single-molecule imaging of their transient binding, revealing subtle differences in binding times.
+Interestingly, the influence of epigenetic modifications depends on their position in the DNA strand, and in the case of two modifications, effects are additive.
+The sensitivity of the assay indicates its potential for the direct detection of epigenetic disease markers.

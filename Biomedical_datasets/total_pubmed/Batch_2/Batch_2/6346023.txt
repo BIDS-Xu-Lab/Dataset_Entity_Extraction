@@ -1,0 +1,9 @@
+The preparation, properties, and immunogenicity of the dialyzable factor from a ribosomal fraction of Salmonella typhimurium are described.
+The ribosomal fraction was purified to eliminate O-antigenic components, by affinity chromatography (Sepharose-anti-O antibody conjugates used as immunoadsorbent).
+The dialyzable factor was obtained in the concentrated dialysate of the purified ribosomal fraction which was alternately frozen in dry-ice acetone and thawed in an 80 C water bath, for a total of five or six cycles.
+When this preparation was tested for its ability to protect mice against challenge with 1,000 LD50 of the homologous bacteria, it afforded 100% protection at a dose equivalent to 5.0 micrograms of RNA.
+The protection conferred by this factor was mainly cell mediated but immune serum enhanced this immunity despite the fact that no antibodies were detected in it.
+The protective activity of this factor was sensitive to RNase digestion but resistant to proteolytic enzymes.
+Ion exchange chromatography of this factor with DEAE-Sephadex A-25 (in 7 M Urea-0.02 M Tris-HCl buffer, pH 7.5) resulted in a single A260 peak which was found to be immunogenic.
+Chemical analysis of this peak after it was concentrated and desalted revealed that this immunogenic fraction was composed mainly of mixed nucleotides.
+The data indicate that protective immunity conferred by a ribosomal vaccine is associated with RNA but may not require the intact RNA molecule.

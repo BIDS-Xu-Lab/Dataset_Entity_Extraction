@@ -1,0 +1,14 @@
+Several reviews have reported an increased risk of obstructive respiratory diseases in workers exposed to cleaning or disinfection agents, but they have focused mainly on professional cleaners.
+Cleaning and disinfecting are frequently performed activities by healthcare workers.
+We conducted a systematic review with meta-analysis to quantify the risk of obstructive respiratory diseases in healthcare workers exposed to cleaning and disinfection agents.
+We searched the Medline and Embase databases until 4 February 2021 to find adequate primary studies.
+Two independent reviewers screened the titles/abstracts and the full texts of the studies, as well as performing data extraction and quality assessment.
+The literature search yielded 9432 records, and 8 studies were found through a hand search.
+After screening, 14 studies were included in the review.
+All had a high risk of bias, and most studies dealt with nurses, asthma, and hyperresponsiveness (BHR)-related symptoms.
+The meta-analysis estimated an increased risk of new-onset asthma for nurses (Effect size (ES) = 1.67; 95% CI 1.11-2.50) compared with other occupations and found an increase in the risk of new-onset asthma for nurses exposed to cleaning and disinfecting surfaces (ES = 1.43; 95% CI 1.09-1.89) and instruments (ES = 1.34; 95% CI 1.09-1.65).
+Exposure to specific chemicals such as bleach and glutaraldehyde (GA) increased the risk of asthma in nurses (bleach ES = 2.44; 95% CI 1.56-3.82; GA ES = 1.91, 95% CI 1.35-2.70).
+A higher risk for BHR-related symptoms was observed for nurses exposed to cleaning surfaces (ES = 1.44; 95% CI 1.18-1.78).
+Although the overall evidence was rated as low, the limitations found in this review hint at a potential underestimation of the real risk.
+These findings highlight the need for reinforced prevention practices with regard to healthcare workers.
+Similar research investigating these associations among other healthcare workers such as rescue service and nursing home personnel is needed.

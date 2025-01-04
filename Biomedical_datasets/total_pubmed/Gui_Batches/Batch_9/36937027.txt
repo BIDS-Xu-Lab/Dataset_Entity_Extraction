@@ -1,0 +1,23 @@
+Basic biological science research deals with nucleic acid isolation.
+Post-isolation nucleic acid integrity has a pivotal role in further elucidating gene expression and other molecular mechanisms.
+RNA (ribonucleic acid), cDNA (complementary deoxyribonucleic acid), and PCR (Polymerase chain reaction) products' integrity and quality are affected by several factors in biochemical and biophysical degradation modes.
+Inadequate evidence was noted about the direct effects of sodium hypochlorite and L-ascorbic acid.
+This study aims to test the effects of sodium hypochlorite (SHC) and L-ascorbic acid (LAA) in total RNA and PCR products, respectively, in an acellular condition.
+The study was categorized into three steps total RNA, cDNA, and PCR product evaluations.
+mBM-MSCs were used to extract RNA and then treated with SHC.
+Crude total RNA and, after DNase 1 treatment, the bands of total RNA samples were visualized by agarose gel electrophoresis.
+cDNAs were synthesized from SHC-treated (0.25%) and untreated RNAs, which were also expressed on the gel.
+LAA (5 µM, 15 µM, 25 µM, and 50 µM) were added to cDNAs synthesized from SHC- and non-SHC-treated samples.
+Housekeeping genes, Gapdh (Glyceraldehyde 3-phosphate dehydrogenase), and 18S rRNA (18S Ribosomal ribonucleic acid) were amplified in both groups.
+SHC-treated samples produced clearer bands on an agarose gel.
+Its treatment did not affect the integrated densities of agarose bands which revealed non-significant (P ≤ 0.05) differences in SHC-treated, untreated RNA, and cDNA.
+However, significant variations were observed at the PCR level.
+SHC-treated samples expressed decreased housekeeping gene expression in amplified products (Gapdh and 18S rRNA) and slightly but non-significantly high band intensities appeared in the presence of LAA.
+Significant variable differences (*P ≤ 0.05) were observed between SHC-treated and non-treated groups after LAA treatment.
+SHC (0.25%) is favorable in removing RNases and maintaining the integrity of RNA.
+cDNA synthesis did not affect by SHC treatment, and it follows the same as untreated samples after DNase 1 treatment.
+LAA drew a positive impact to improve the quality of PCR products in terms of band intensities, which is insignificant in SHC-treated RNA.
+Interestingly, it was revealed from our study that 5-25 µM LAA has the most beneficial role in the acquisition of PCR products, i.e. gene expression.
+These concentrations can be safely used to improve the quality of gene expression.
+This phenomenon can be used to achieve other, rarer, desired gene expressions.
+Further research is needed to explore the effects of SHC on the acquisition of PCR products using other solutions.

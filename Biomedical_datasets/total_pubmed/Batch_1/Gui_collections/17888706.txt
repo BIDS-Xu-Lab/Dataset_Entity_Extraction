@@ -1,0 +1,10 @@
+Although radical prostatectomy is an effective treatment for clinically localized prostate cancer, it fails in up to 20 to 40% of the cases.
+Local failure represents one of the possible patterns of relapse and is announced by detectable serum PSA levels.
+Patients at high risk for local relapse have extraprostatic disease, positive surgical margins or seminal vesicles infiltration at pathology.
+Three recently published phase III randomized clinical trials have clearly shown that, for these patients, immediate adjuvant irradiation reduces the risk of progression.
+For patients undergoing postoperative irradiation the standardisation of the target volume definition and delineation is required because no general consensus exists on "prostate bed" definition.
+The Genito-Urinary Working Party of the Radiation Oncology Group of the European Organization for the Research and treatment of cancer (ROG-EORTC) has developed a set of Guidelines to assist radiotherapists in the contouring of target volumes for postoperative irradiation: a consensus has been reached on a set of recommendations that are proposed to the radiation oncologist community.
+Emphasis has been put on the optimal cooperation between the surgeon, the pathologist and the radiotherapist in the frame of a multidisciplinary approach.
+Data on the presence and on the localization of extraprostaic extension and on positive surgical margins must be used.
+Placement of metallic clips in the tumor bed is of great help in localizing fixed anatomical sites as the anastomosis.
+The goal of such a document is to reduce inter-observer variability in target delineation in the framework of future clinical trials.

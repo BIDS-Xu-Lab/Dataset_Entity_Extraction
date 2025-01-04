@@ -1,0 +1,10 @@
+The aim of this study was to perform a systematic review and meta-analysis to examine the effect of systemic antibiotics in the periodontal treatment of smokers.
+The selection criteria were as follows: controlled randomized clinical trials; studies published in English; studies with smoker patients diagnosed with chronic periodontitis; patients without systemic diseases; studies that used systemic antibiotic therapy associated with periodontal treatment; studies that presented results for the test and control groups and assessments of clinical periodontal parameters, such as probing depth (PD), bleeding on probing (BOP), and clinical attachment level (CAL).
+The differences in average weights were calculated with a confidence interval (CI) of 95% for PD reduction, CAL gain and BOP.
+The means of the periodontal clinical parameters were compared between the baseline and post-treatment periods between the test groups and the control groups.
+The heterogeneity was assessed using the Cochran Q test (Q (df = 3), α = 5%).
+A total of 67 articles were found, and after the selection process, three randomized controlled trials were included in the meta-analysis.
+The results indicate that SRP associated with systemic antibiotics promoted additional benefits when compared to SRP alone, with a greater reduction of PD (p = 0.0359, CI = -0.42, -0.01) and a gain of CAL (p = 0.0161, CI = -0.39, -0.04).
+There was a modest PD reduction (PD, DM -0.21) and a modest CAL gain (CAL, DM -0.22).
+The results of our meta-analysis reveal the clinical benefits of systemic antibiotics as an adjunct to the non-surgical periodontal treatment of smokers.
+These clinical improvements, although statistically significant, appeared to be of little clinical relevance.

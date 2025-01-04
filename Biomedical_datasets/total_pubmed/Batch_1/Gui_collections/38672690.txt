@@ -1,0 +1,14 @@
+Immunotherapy with PD-1/PD-L1 inhibitors has significantly improved the survival rates of patients with metastatic non-small-cell lung cancer (NSCLC).
+Results of a real-world data study investigating add-on VA (Viscum album L.) to chemotherapy have shown an association with the improved overall survival of patients with NSCLC.
+We sought to investigate whether the addition of VA to PD-1/PD-L1 inhibitors in patients with advanced or metastasised NSCLC would have an additional survival benefit.
+In the present real-world data study, we enrolled patients from the accredited national registry, Network Oncology, with advanced or metastasised NSCLC.
+The reporting of data was performed in accordance with the ESMO-GROW criteria for the optimal reporting of oncological real-world evidence (RWE) studies.
+Overall survival was compared between patients receiving PD-1/PD-L1 inhibitor therapy (control, CTRL group) versus the combination of anti-PD-1/PD-L1 therapy and VA (combination, COMB group).
+An adjusted multivariate Cox proportional hazard analysis was performed to investigate variables associated with survival.
+From 31 July 2015 to 9 May 2023, 415 patients with a median age of 68 years and a male/female ratio of 1.2 were treated with anti-PD-1/PD-L1 therapy with or without add-on VA.
+Survival analyses included 222 (53.5%) patients within the CRTL group and 193 (46.5%) in the COMB group.
+Patients in the COMB group revealed a median survival of 13.8 months and patients in the CRTL group a median survival of 6.8 months (adjusted hazard ratio, aHR: 0.60, 95% CI: 0.43-0.85, p = 0.004) after adjustment for age, gender, tumour stage, BMI, ECOG status, oncological treatment, and PD-L1 tumour proportion score.
+A reduction in the adjusted hazard of death by 56% was seen with the addition of VA (aHR 0.44, 95% CI: 0.26-0.74, p = 0.002) in patients with PD-L1-positive tumours (tumour proportion score > 1%) treated with first-line anti-PD-1/PD-L1 therapy.
+Our findings suggest that add-on VA correlates with improved survival in patients with advanced or metastasised NSCLC who were treated with PD-1/PD-L1 inhibitors irrespective of age, gender, tumour stage, or oncological treatment.
+The underlying mechanisms may include the synergistic modulation of the immune response.
+A limitation of this study is the observational non-randomised study design, which only allows limited conclusions to be drawn and prospective randomised trials are warranted.

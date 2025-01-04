@@ -1,0 +1,8 @@
+In previous studies, replicated and multiple types of speech data have been used for Parkinson's disease (PD) detection.
+However, two main problems in these studies are lower PD detection accuracy and inappropriate validation methodologies leading to unreliable results.
+This study discusses the effects of inappropriate validation methodologies used in previous studies and highlights the use of appropriate alternative validation methods that would ensure generalization.
+To enhance PD detection accuracy, we propose a two-stage diagnostic system that refines the extracted set of features through [Formula: see text] regularized linear support vector machine and classifies the refined subset of features through a deep neural network.
+To rigorously evaluate the effectiveness of the proposed diagnostic system, experiments are performed on two different voice recording-based benchmark datasets.
+For both datasets, the proposed diagnostic system achieves 100% accuracy under leave-one-subject-out (LOSO) cross-validation (CV) and 97.5% accuracy under k-fold CV.
+The results show that the proposed system outperforms the existing methods regarding PD detection accuracy.
+The results suggest that the proposed diagnostic system is essential to improving non-invasive diagnostic decision support in PD.

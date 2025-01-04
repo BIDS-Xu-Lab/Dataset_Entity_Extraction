@@ -1,0 +1,6 @@
+Schizophrenia is a debilitating psychiatric condition often associated with poor quality of life and decreased life expectancy.
+Lack of progress in improving treatment outcomes has been attributed to limited knowledge of the underlying biology, although large-scale genomic studies have begun to provide insights.
+We report a new genome-wide association study of schizophrenia (11,260 cases and 24,542 controls), and through meta-analysis with existing data we identify 50 novel associated loci and 145 loci in total.
+Through integrating genomic fine-mapping with brain expression and chromosome conformation data, we identify candidate causal genes within 33 loci.
+We also show for the first time that the common variant association signal is highly enriched among genes that are under strong selective pressures.
+These findings provide new insights into the biology and genetic architecture of schizophrenia, highlight the importance of mutation-intolerant genes and suggest a mechanism by which common risk variants persist in the population.

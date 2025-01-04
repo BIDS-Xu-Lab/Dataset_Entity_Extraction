@@ -1,0 +1,13 @@
+Objectives: The purpose of this review is to explore the effects of chocolate consumption during pregnancy on fetus and mother herself.
+Methods: Randomized controlled trials/quasi-experimental/observational/controlled before and after studies involving chocolate/cocoa/cacao consumption (irrespective of type or dose, composition, exposure period, and method of administration) among pregnant women/animals; and measuring any outcome (beneficial or harmful) related to fetus or mother after chocolate exposure were included.
+Databases searched were PubMed, Web of Science and Scopus; between April and May 2017.
+Risk of bias within each human randomized controlled trial (RCT) and animals' experimental studies was evaluated by "The Cochrane Collaboration's tool" and SYRCLE's tool respectively.
+Fourteen human studies including a total of 6639 participants and nine animal studies were selected.
+Outcome variables investigated in human studies were maternal blood pressure, fetal heart rate, and striae gravidarum.
+Animal studies explored chocolate-induced teratogenicity and fetal metabolic derangements.
+Ten out of these 23 studies reported chocolate to be "beneficial"; five studies reported adverse effects, whereas eight studies declared chocolate as "neutral".
+Conclusions: Maternal chocolate intake has acute stimulatory effects on fetal reactivity and chronic blood pressure reducing effect in mothers.
+Chocolate is nonteratogenic and does not affect reproductive indices.
+Metabolic derangements in offsprings born to chocolate fed dams have been reported.
+Pregnant females must be careful about consumption of cocoa and chocolate.
+Future studies should be planned, keeping in view heterogeneities identified across the selected studies in this review.

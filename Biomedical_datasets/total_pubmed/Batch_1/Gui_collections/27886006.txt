@@ -1,0 +1,14 @@
+The stem cell rich Stromal Vascular Fraction (SVF) can be harvested by processing lipo-aspirate or fat tissue with an enzymatic digestion followed by centrifugation.
+To date neither a standardised extraction method for SVF nor a generally admitted protocol for cell application in patients exists.
+A novel commercially available semi-automated device for the extraction of SVF promises sterility, consistent results and usability in the clinical routine.
+The aim of this work was to compare the quantity and quality of the SVF between the new system and an established manual laboratory method.
+SVF was extracted from lipo-aspirate both by a prototype of the semi-automated UNiStation™ (NeoGenesis, Seoul, Korea) and by hand preparation with common laboratory equipment.
+Cell composition of the SVF was characterized by multi-parametric flow-cytometry (FACSCanto-II, BD Biosciences).
+The total cell number (quantity) of the SVF was determined as well the percentage of cells expressing the stem cell marker CD34, the leucocyte marker CD45 and the marker CD271 for highly proliferative stem cells (quality).
+Lipo-aspirate obtained from six patients was processed with both the novel device (d) and the hand preparation (h) which always resulted in a macroscopically visible SVF.
+However, there was a tendency of a fewer cell yield per gram of used lipo-aspirate with the device (d: 1.1×105±1.1×105 vs. h: 2.0×105±1.7×105; p = 0.06).
+Noteworthy, the percentage of CD34+ cells was significantly lower when using the device (d: 57.3% ±23.8% vs. h: 74.1% ±13.4%; p = 0.02) and CD45+ leukocyte counts tend to be higher when compared to the hand preparation (d: 20.7% ±15.8% vs. h: 9.8%
+The percentage of highly proliferative CD271+ cells was similar for both methods (d:12.9% ±9.6% vs. h: 13.4% ±11.6%; p = 0.74) and no differences were found for double positive cells of CD34+/CD45+ (d: 5.9% ±1.7% vs. h: 1.7% ±1.1%; p = 0.13), CD34+/CD271+ (d: 24.1% ±12.0% vs. h: 14.2% ±8.5%; p = 0.07).
+The semi-automated closed system provides a considerable amount of sterile SVF with high reproducibility.
+Furthermore, the SVF extracted by both methods showed a similar cell composition which is in accordance with the data from literature.
+This semi-automated device offers an opportunity to take research and application of the SVF one step further to the clinic.

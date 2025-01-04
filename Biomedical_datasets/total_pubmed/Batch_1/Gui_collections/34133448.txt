@@ -1,0 +1,12 @@
+Underwater video monitoring systems are being widely used in fisheries to investigate fish behavior in relation to fishing gear and fishing gear performance during fishing.
+Such systems can be useful to evaluate the catch composition as well.
+In demersal trawl fisheries, however, their applicability can be challenged by low light conditions, mobilized sediment and scattering in murky waters.
+In this study, we introduce a novel observation system (called NepCon) which aims at reducing current limitations by combining an optimized image acquisition setup and tailored image analyses software.
+The NepCon system includes a high-contrast background to enhance the visibility of the target objects, a compact camera and an artificial light source.
+The image analysis software includes a machine learning algorithm which is evaluated here to test automatic detection and count of Norway lobster (Nephrops norvegicus).
+NepCon is specifically designed for applications in demersal trawls and this first phase aims at increasing the accuracy of N. norvegicus detection at the data acquisition level.
+To find the best contrasting background for the purpose we compared the output of four image segmentation methods applied to static images of N. norvegicus fixed in front of four test background colors.
+The background color with the best performance was then used to evaluate computer vision and deep learning approaches for automatic detection, tracking and counting of N. norvegicus in the videos.
+In this initial phase we tested the system in an experimental setting to understand the feasibility of the system for future implementation in real demersal fishing conditions.
+The N. norvegicus directed trawl fishery typically has no assistance from underwater observation technology and therefore are largely conducted blindly.
+The demonstrated perception system achieves 76% accuracy (F-score) in automatic detection and count of N. norvegicus, which provides a significant elevation of the current benchmark.

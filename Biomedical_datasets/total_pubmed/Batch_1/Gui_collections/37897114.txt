@@ -1,0 +1,14 @@
+Length of stay (LOS) after colorectal surgery (CRS) is a significant driver of healthcare utilization and adverse patient outcomes.
+To date, there is little high-quality evidence in the literature examining how individual surgeon and hospital factors independently impact LOS.
+We aimed to identify and quantify the independent impact of surgeon and hospital factors on LOS after CRS.
+A retrospective population-based cohort study was conducted using validated health administrative databases, encompassing all patients from the province of Ontario, Canada.
+All patients from 121 hospitals in Ontario who underwent elective CRS between 2008 and 2019 in Ontario were included, and factors pertaining to these patients and their treating surgeon and hospital were assessed.
+A negative binomial regression model was used to assess the independent effect of surgeon and hospital factors on LOS, accounting for a comprehensive collection of determinants of LOS.
+To minimize unmeasured confounding, the analysis was repeated in a subgroup comprising patients undergoing lower-complexity CRS without postoperative complications.
+A total of 90,517 CRS patients were analysed.
+Independent of patient and procedural factors, low surgeon volume (lowest volume quartile) was associated with a 20% increase in LOS (95% CI: 12-29, p < 0.0001) compared to high surgeon volume (highest volume quartile).
+In the 22,639 patients undergoing uncomplicated lower-complexity surgeries, a 43% longer LOS was seen in the lowest volume surgeon quartile (95% CI: 26-61, p < 0.0001).
+In both models, more years-in-practice was associated with a small increase in LOS (RR 1.02, 95% CI: 1.02-1.03, p < 0.0001).
+Hospital factors were not significantly associated with increased LOS.
+Surgeon factors, including low surgeon volume and increasing years-in-practice, were strongly and independently associated with longer LOS, whereas hospital factors did not have an independent impact.
+This suggests that LOS is driven primarily by surgeon-mediated care processes and may provide actionable targets for provider-level interventions to reduce LOS after CRS.

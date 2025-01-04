@@ -1,0 +1,7 @@
+High-density lipoprotein cholesterol (HDL-C) concentrations decrease during adolescence in males in association with increasing pubertal maturation and free testosterone (F-T).
+To determine whether F-T effects lower HDL-C levels by decreasing the amount of cholesterol associated with the major protein moeities associated with HDL-C (apolipoprotein [apo]AI and AII) or by decreasing the concentrations of these proteins, we studied 251 black and 285 white boys, ages 10 to 15 years.
+In cross-sectional analysis, advancing puberty associated with decreasing HDL-C, apoAI, and apoAII in boys of each ethnic group.
+The decreases were greater in white (1.49 to 1.24 mmol/L) than black boys (1.68 to 1.53 mmol/L).
+Backward stepwise regression analyses indicated that F-T was a significant negative predictor of all 3 lipid parameters--HDL-C, apoAI, and apoAII.
+Ethnic group was associated with HDL-C (blacks higher) and apoAII (whites higher), but not apoAI.
+The ratio of HDL-C to apo (AI+AII) varied significantly (and negatively) with body mass index (BMI; kg/m(2)), but not with pubertal stage or F-T. Thus, increased F-T appears to explain decreased HDL-C via decreased apoAI and apoAII, not decreases in the amount of cholesterol associated with these proteins.

@@ -1,0 +1,12 @@
+Schizophrenia is a severe, chronic and disabling mental illness.
+Non-adherence to medication and relapse may lead to poorer patient function.
+This randomised controlled study, under the acronym LEAN (Lay health supporter, e-platform, award, and iNtegration), is designed to improve medication adherence and high relapse among people with schizophrenia in resource poor settings.
+The community-based LEAN has four parts: (1) Lay health supporters (LHSs), mostly family members who will help supervise patient medication, monitor relapse and side effects, and facilitate access to care, (2) an E-platform to support two-way mobile text and voice messaging to remind patients to take medication; and alert LHSs when patients are non-adherent, (3) an Award system to motivate patients and strengthen LHS support, and (4) iNtegration of the efforts of patients and LHSs with those of village doctors, township mental health administrators and psychiatrists via the e-platform.
+A random sample of 258 villagers with schizophrenia will be drawn from the schizophrenic '686' Program registry for the 9 Xiang dialect towns of the Liuyang municipality in China.
+The sample will be further randomised into a control group and a treatment group of equal sizes, and each group will be followed for 6 months after launch of the intervention.
+The primary outcome will be medication adherence as measured by pill counts and supplemented by pharmacy records.
+Other outcomes include symptoms and level of function.
+Outcomes will be assessed primarily when patients present for medication refill visits scheduled every 2 months over the 6-month follow-up period.
+Data from the study will be analysed using analysis of covariance for the programme effect and an intent-to-treat approach.
+University of Washington: 49464 G; Central South University: CTXY-150002-6.
+Results will be published in peer-reviewed journals with deidentified data made available on FigShare.

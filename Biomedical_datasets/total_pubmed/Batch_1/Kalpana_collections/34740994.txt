@@ -1,0 +1,10 @@
+Genomic instability (GIN) is pivotal in regulating tumor drug resistance, which blocked the treatment of triple negative breast cancer (TNBC).
+Although recent studies implied that non-coding RNA (ncRNA)-mediated autophagy abolishment promoted tumorigenesis by up-regulation of GIN, autophagy was known as a risk factor in tumor drug resistance.
+However, previous study also pointed that up-regulation of autophagy promoted GIN.
+Therefore, the relationship between autophagy and GIN is not clear, and more work is needed.
+And, if an ncRNA is identified to be a co-regulator of autophagy and GIN, it will be a potential therapy target of chemotherapy resistance in TNBC.
+In our study, we recognized both autophagy-GIN-associated microRNA (mi-26a-5p) by big data analysis, which was prognosis-correlated in breast cancer.
+Next, we identified the up-stream regulators (long non-coding RNA, lncRNA) and down-stream targets of miR-26a-5p by bioinformatics analysis (online public databases).
+Finally, we established lncRNA OTUD6B-AS1/miR-26a-5p/MTDH signaling pathway, and verified their functions by cytological, molecular biological and zoological experiments.
+In general, our study found (1) miR-26a-5p was a protective factor of breast cancer, while OTUD6B-AS1 and MTDH were risk factors; (2) OTUD6B-AS1 was the up-stream regulator of miR-26a-5p verified by luciferase; (3) up-regulation of miR-26a-5p and down-regulation of MTDH promoted cellular cytotoxicity of paclitaxel (PTX) in vitro and in vivo.
+(4) down-regulation of miR-26a-5p, overexpression of MTDH and OTUD6B-AS1 promoted autophagy and DNA damage; (5) up-regulation of OTUD6B-AS1 and MTDH inhibited DNA damage response (DDR) by inhibiting the phosphorylated activation of RAD51, ATR and ATM.

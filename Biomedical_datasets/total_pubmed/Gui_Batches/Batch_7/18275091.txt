@@ -1,0 +1,12 @@
+To establish reference curves for ductus venosus blood flow velocities during the first trimester and compare them with previously published curves.
+This was a cross-sectional and retrospective study performed between January 1998 and January 2003.
+The following inclusion criteria were used: singleton pregnancy, velocity measurements taken when the crown-rump length (CRL) was between 34 and 84 mm, absence of fetal anomalies, full-term pregnancy and newborn birth weight appropriate for gestational age.
+The following variables of the ductus venosus were measured: peak velocity during ventricular systole (S-wave) and diastole (D-wave), nadir during atrial contraction in late diastole (A-wave), time-averaged maximum velocity (TAMXV) and pulsatility index for veins (PIV).
+A total of 843 fetuses were included.
+The mean CRL was 62 (range, 34-84) mm.
+The S-wave, D-wave, TAMXV and PIV were normally distributed, and logarithmic transformation was performed to achieve a normal distribution for the A-wave.
+S-wave, D-wave and A-wave and TAMXV increased with CRL.
+PIV increased up to a CRL of 63 mm and decreased thereafter.
+Regression analysis revealed a significant quadratic relationship between PIV and CRL.
+S-wave, D-wave, A-wave velocities and TAMXV in the ductus venosus increase with CRL between 34 and 84 mm.
+The reference range for PIV has a biphasic pattern, with an initial non-significant increase up to a CRL of 63 mm and a fall thereafter.

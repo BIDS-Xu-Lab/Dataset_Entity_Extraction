@@ -1,0 +1,12 @@
+Although CA 19-9 is the primary marker used in the diagnosis and treatment of pancreatic cancer, other serum tumor markers have also been utilized in the follow-up of pancreatic cancer.
+We investigated the clinical utility of CYFRA 21-1, AFP, CEA, CA 19-9, CA 125, NSE, and combinations of these markers in patients with pancreatic cancer.
+We enrolled patients with primary pancreatic cancer and benign pancreatic cystic disease (n = 163).
+We performed sensitivity tests for multiple tumor markers, plotted receiver operating characteristic curves, and conducted multivariate analysis using the Cox proportional hazard method.
+Survival data were evaluated using Kaplan-Meier analysis of overall survival.
+Among multiple tumor markers assessed in this study, CA 19-9 showed good diagnostic performance, with an area under the curve of 0.86 ± 0.04 in ROC analysis.
+Based on two different cutoff values, CYFRA 21-1 (≥ 2.0 and 1.83 ng/mL) had a respective sensitivity of 80.4% and 82.3% and was also more significant than the other tumor markers in a parallel test.
+There was a weak significant relationship between tumoral fluorodeoxyglucose uptake and CYFRA 21-1 or CA 19-9.
+Initial CA 125, CYFRA 21-1, and CEA could be utilized to categorize subgroups with different overall survival.
+In multivariate analyses, CA 125 (HR 18.8, p < 0.001) and CYFRA 21-1 levels (HR 0.962, p = 0.006) demonstrated independent prognostic significance for predicting overall survival.
+In addition to CA 19-9, the present study suggested that various tumor markers could be used in the diagnosis and prognosis of pancreatic cancer.
+Further studies are warranted to confirm the clinical usefulness of diverse biological markers in pancreatic cancer.

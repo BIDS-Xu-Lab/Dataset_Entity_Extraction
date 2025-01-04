@@ -1,0 +1,15 @@
+Antimicrobial resistance is a worldwide concern due to the inappropriate and irrational use of antibiotics.
+Thus, this study was aimed at determining the knowledge and attitude of graduating health science students of Wollega University towards antimicrobial resistance.
+An institution-based cross-sectional study design was employed from June to July 2019.
+Epi-data version 3.1 was used to receive data and exported to SPSS version 25 for further analysis.
+Both bivariable and multivariable logistic regression analysis were done to find factors associated with attitudes of students towards antibiotic consumption and resistance at a 95% confidence level.
+The strength of association was measured with the odds ratio.
+Variables with a p-value of <0.05 at multivariable analysis were considered to be a significant variable.
+Finally, texts and simple frequency tables were used to present the findings.
+Out of 249, 232 students were included in this survey yielding a response rate of 93.6%.
+Hundred fifty-eight (68.1%) of them had adequate knowledge about antibiotic identification, role, side effects, and resistance.
+Students with a family member who works in health and related professions had a lower probability of stopping antibiotics when they feel better (AOR = 0.50, 95% CI: 0.28-0.90) and using leftover antibiotics (AOR = 0.51, 95% CI: 0.28-0.92) compared to their counterparts.
+Students' knowledge on antibiotic identification, role, side effects, and resistance was suboptimal, and the attitude of students towards antibiotic consumption was unfavorable.
+Respondents having a family member in a health-related field showed a good attitude.
+Respondents with three years of study also had a good attitude, female gender showed good attitude, and urban residence were independent predictors of attitude toward antibiotic consumption.
+Training on antimicrobial resistance should be arranged for graduating class nursing and medical students, as they are the future prescribers.

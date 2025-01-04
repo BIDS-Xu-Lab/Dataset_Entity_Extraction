@@ -1,0 +1,8 @@
+Although several previous studies have found benefits for amino acid supplementation in terms of muscle function, the role of plasma amino acid concentrations on sarcopenia are not well addressed yet.
+The aim of this study was to compare the amino acid concentrations at each stage of sarcopenia (normal, pre-sarcopenia, dynapenia, and sarcopenia) in community-dwelling older Japanese adults.
+Community-dwelling older Japanese women (n=232, 79.4±7.0 years) participated in this study.
+We measured plasma amino acid concentrations, 5-m walking speed, grip strength, and skeletal muscle mass using a bioelectrical impedance data acquisition system and compared them among participants at each stage of sarcopenia.
+The proportions of normal, pre-sarcopenia, dynapenia, and sarcopenia patients were 40.5% (n=94), 12.1% (n=28), 26.3% (n=61), and 21.1% (n=49), respectively.
+Significant differences were observed for concentrations of leucine, branched-chain amino acid (BCAAs), and essential amino acid (EAAs) among the four groups (p<0.05), and the dynapenia and sarcopenia groups showed significantly lower concentrations of leucine than the normal group (p<0.05).
+This study indicated a positive relationship between plasma leucine, BCAA and EAA concentrations and muscle function.
+A longitudinal study is needed to determine the causal relationship between leucine/BCAA concentrations and muscle function.

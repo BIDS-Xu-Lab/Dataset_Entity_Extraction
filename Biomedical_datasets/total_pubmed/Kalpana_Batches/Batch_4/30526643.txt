@@ -1,0 +1,13 @@
+The application of artificial intelligence techniques for processing electronic health records data plays increasingly significant role in advancing clinical decision support.
+This study conducts a quantitative comparison on the research of utilizing artificial intelligence on electronic health records between the USA and China to discovery their research similarities and differences.
+Publications from both Web of Science and PubMed are retrieved to explore the research status and academic performances of the two countries quantitatively.
+Bibliometrics, geographic visualization, collaboration degree calculation, social network analysis, latent dirichlet allocation, and affinity propagation clustering are applied to analyze research quantity, collaboration relations, and hot research topics.
+There are 1031 publications from the USA and 173 publications from China during 2008-2017 period.
+The annual numbers of publications from the USA and China increase polynomially.
+JAMIA with 135 publications and JBI with 13 publications are the top prolific journals for the USA and China, respectively.
+Harvard University with 101 publications and Zhejiang University with 12 publications are the top prolific affiliations for the USA and China, respectively.
+Massachusetts is the most prolific region with 211 publications for the USA, while for China, Taiwan is the top 1 with 47 publications.
+China has relatively higher institutional and international collaborations.
+Nine main research areas for the USA are identified, differentiating 7 for China.
+There is a steadily growing presence and increasing visibility of utilizing artificial intelligence on electronic health records for the USA and China over the years.
+The results of the study demonstrate the research similarities and differences, as well as strengths and weaknesses of the two countries.

@@ -1,0 +1,6 @@
+We used data from the Surveillance, Epidemiology, and End Results Program to examine trends in breast cancer treatment and survival among a large sample of American Indian and Alaska Native women diagnosed from 2000-2015.
+Kaplan-Meier and Cox proportional hazard models were used to estimate survival.
+Alaska Natives were more likely to undergo mastectomy (48% compared with 39% of American Indians and 36% of non-Hispanic Whites) and were less likely to receive breast reconstruction following mastectomy (9% compared with 17% of American Indians and 28% of non-Hispanic Whites).
+Alaska Natives had both lower overall (HR: 1.40 95% CI: 1.19-1.65) and breast-cancer specific (HR: 1.29, 95% CI: 1.03, 1.63) survival compared with non-Hispanic Whites.
+Survival differences across the three racial groups varied significantly by age.
+Efforts to improve survival among American Indian and Alaska Native populations will need to address barriers to access among these vulnerable populations.

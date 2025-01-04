@@ -1,0 +1,10 @@
+This study aimed to evaluate the association between baseline results of the Timed Up and Go (TUG) test and subsequent functional dependency occurrence.
+From the National Health Insurance Service-Senior Cohort database, we identified 39,519 people who participated in the National Screening Program for Transitional Ages at the age of 66 during 2007-2008.
+Impaired mobility was defined as taking 10 seconds or longer to perform the TUG test.
+Functional dependency occurrence was defined as the initiation of receiving national Long-Term Care Insurance services-home care or admission to long-term care facilities.
+Cox proportional hazard regression models were used to assess the hazard ratios (HRs) for dependency occurrence according to baseline TUG test results.
+The mean follow-up period was 5.7 years.
+Occurrence rates of dependency were 2.0 and 3.4 cases per 1,000 person-years in the normal and impaired TUG groups, respectively.
+Additionally, in the subgroup analysis for the participants with intact baseline activities of daily living, impaired mobility was associated with a higher risk of dependency occurrence (aHR, 1.65; 95% CI, 1.33-2.04; P < 0.001).
+The TUG test might be a useful predictive marker of subsequent functional dependency occurrence.
+Intervention to prevent functional dependency may be helpful for older adults with impairment on the TUG test.

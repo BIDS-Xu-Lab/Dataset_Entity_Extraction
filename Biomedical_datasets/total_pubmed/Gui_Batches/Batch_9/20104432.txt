@@ -1,0 +1,5 @@
+Progesterone is a key hormone in the endometrium that opposes estrogen-driven growth.
+Insufficient progesterone will result in unopposed estrogen action that could lead to the development of endometrial hyperplasia and adenocarcinoma.
+Although these endometrial neoplasias can regress in response to progestin treatment, this does not occur in all instances.
+To understand this resistance to progesterone and to improve on existing hormonal therapies, it is imperative that the molecular mechanisms of progesterone action through its receptor be deciphered in endometrial cancer.
+This review highlights what is known thus far regarding the efficacy of progestin therapy in the clinic and the role of progesterone in endometrial cancer cell behavior and gene regulation.

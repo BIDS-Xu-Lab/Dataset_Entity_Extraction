@@ -1,0 +1,9 @@
+We examined the association between intimate partner violence and unmet need for modern contraception in post-conflict Liberia.
+This is a secondary analysis of data collected using the Priorities for Local AIDS Control Efforts (PLACE) method.
+Data from 499 sexually experienced young women (aged 14-25) in Montserrado County, Liberia were examined.
+Intimate partner violence (55.7%), unintended pregnancy (83.2%), and abortion (45.3%) were pervasive in the study population.
+An estimated 35.9% of respondents had an unmet need for modern contraception.
+However, multivariate logistic regression results did not reveal an association between intimate partner violence and unmet need (OR 1.11; 95% CI 0.70-1.75).
+Among covariates examined, only contraceptive use at sexual debut (26.1%) was significantly associated with unmet need (OR 0.27; 95% CI 0.14-0.52).
+Liberian youth need information about and access to modern contraceptive methods besides condoms.
+Interventions to identify and treat victims of violence are also needed.

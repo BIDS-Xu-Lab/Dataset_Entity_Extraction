@@ -1,0 +1,8 @@
+This paper is based on data using similar methods collected from patients at 30 emergency rooms (ERs) in six countries.
+These data were analyzed with the goal of determining whether alcohol is a likely cause of violence through an application of criteria outlined by Bradford Hill.
+Analyses were conducted by comparing various measures of alcohol involvement in violent versus accidental injuries.
+The results supported temporal sequence of events and specificity.
+The odds ratios of violent versus accidental injury for a blood alcohol concentration (BAC) over 80 mg% were significant for each country, ranging from 2.77 for Mexico to 9.45 for Canada, which supports both the strength of associations and the consistency of findings.
+No third variables were found from the logistic regression analysis that better explain the relationships between alcohol and violence.
+A significant dose-response relationship between BAC level and violence was also found.
+All analyses conducted point to a causal role of alcohol in injuries related to violence.

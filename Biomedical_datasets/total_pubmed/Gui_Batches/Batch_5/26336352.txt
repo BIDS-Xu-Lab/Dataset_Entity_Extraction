@@ -1,0 +1,15 @@
+The purpose of this study was to examine the effect of minimalist running shoes on oxygen uptake during running before and after a 10-week transition from traditional to minimalist running shoes.
+Twenty-five recreational runners (no previous experience in minimalist running shoes) participated in submaximal VO2 testing at a self-selected pace while wearing traditional and minimalist running shoes.
+Ten of the 25 runners gradually transitioned to minimalist running shoes over 10 weeks (experimental group), while the other 15 maintained their typical training regimen (control group).
+All participants repeated submaximal VO2 testing at the end of 10 weeks.
+Testing included a 3 minute warm-up, 3 minutes of running in the first pair of shoes, and 3 minutes of running in the second pair of shoes.
+Average oxygen uptake was calculated during the last minute of running in each condition.
+The average change from pre- to post-training for the control group during testing in traditional and minimalist shoes was an improvement of 3.1 ± 15.2% and 2.8 ± 16.2%, respectively.
+The average change from pre- to post-training for the experimental group during testing in traditional and minimalist shoes was an improvement of 8.4 ± 7.2% and 10.4 ± 6.9%, respectively.
+Data were analyzed using a 2-way repeated measures ANOVA.
+There were no significant interaction effects, but the overall improvement in running economy across time (6.15%) was significant (p = 0.015).
+Running in minimalist running shoes improves running economy in experienced, traditionally shod runners, but not significantly more than when running in traditional running shoes.
+Improvement in running economy in both groups, regardless of shoe type, may have been due to compliance with training over the 10-week study period and/or familiarity with testing procedures.
+Key pointsRunning in minimalist footwear did not result in a change in running economy compared to running in traditional footwear prior to 10 weeks of training.
+Both groups (control and experimental) showed an improvement in running economy in both types of shoes after 10 weeks of training.
+After transitioning to minimalist running shoes, running economy was not significantly different while running in traditional or minimalist footwear.

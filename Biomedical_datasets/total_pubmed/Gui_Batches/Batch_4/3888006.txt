@@ -1,0 +1,11 @@
+Using 6- to 8-month-old beef calves, 3 experiments were conducted to compare the effect of vaccination with live or killed Pasteurella haemolytica on resistance to a transthoracic challenge exposure with the organism and to correlate serum antibody response with resistance.
+In each experiment, calves were vaccinated twice at 1-week intervals and were challenge exposed 21 days after the first inoculation.
+Lung lesions were evaluated by a system, such that higher scores indicated the more severe lesions.
+In each experiment, calves immunized with live P haemolytica had lower lesion scores than calves vaccinated with saline solution or bacterin.
+In 2 of the experiments, the differences were significant (P less than 0.05).
+In all experiments, calves vaccinated parenterally with a commercial P haemolytica/P multocida bacterin or with a formalin-killed P haemolytica bacterin had lesion scores that were not significantly different (P greater than 0.05) than for control calves vaccinated with saline solution.
+Live and killed bacterial preparations induced a significant serum antibody response to P haemolytica as measured by a quantitative fluorometric immunoassay.
+The antibody response to vaccination was not affected by preexisting titers to P haemolytica.
+Serum antibody titers were not consistently as high for calves vaccinated with bacterins as for calves vaccinated with live organisms.
+Although high antibody titers correlated with low lesion scores when calves vaccinated with saline solution or live organisms were analyzed collectively, there was not a significant correlation between the 2 variables when calves, vaccinated with saline solution or with bacterin, were analyzed collectively.
+These data indicate that, although bacterins may induce a detectable serum antibody response, they do not induce protection against transthoracic challenge exposure to P haemolytica.

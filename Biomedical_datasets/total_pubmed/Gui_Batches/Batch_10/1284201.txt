@@ -1,0 +1,9 @@
+Eight squamous cell carcinomas from the head and neck region were established as xenograft lines in nude mice and tested for their sensitivity to the antineoplastic drugs bleomycin and cisplatin.
+Tumor volume, histology, DNA flow cytometry and mitotic activity were used as parameters.
+One out of the 8 tumours appeared to be highly sensitive to bleomycin, while three other tumours were sensitive to both bleomycin and cisplatin.
+These observations are in good correlation with the reported data in patients.
+All chemosensitive tumours showed regrowth after the cytotoxic drug treatment had been completed.
+No change was seen in the chemosensitivity of other features of the regrown tumours, not even after repeated exposure to the drugs.
+Comparison of the tumour volume with the other parameters applied indicated that the tumour volume of squamous cell carcinomas was not always a reliable parameter for testing chemosensitivity, because of the important contribution of keratin to the tumour volume.
+It is concluded that additional parameters such as histological examination, DNA flow cytometry or mitotic activity are necessary in order to draw reliable conclusion on xenografts with a large avital component.
+In addition, DNA flow cytometry has proved to be very useful for the rapid screening of drug sensitivity.

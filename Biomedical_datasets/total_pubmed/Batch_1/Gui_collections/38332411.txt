@@ -1,0 +1,10 @@
+This article reviews available evidence regarding hypertension management in the Asia-Pacific region, focussing on five research questions that deal with specific aspects: blood pressure (BP) control, guideline recommendations, role of renin-angiotensin-aldosterone system (RAAS) inhibitors in clinical practice, pharmacological management and real-world adherence to guideline recommendations.
+A PubMed search identified 2537 articles, of which 94 were considered relevant.
+Compared with Europeans, Asians have higher systolic/diastolic/mean arterial BP, with a stronger association between BP and stroke.
+Calcium channel blockers are the most-commonly prescribed monotherapy in Asia, with significant variability between countries in the rates of angiotensin-converting enzyme inhibitors (ACEis)/angiotensin-receptor blockers (ARBs) and single-pill combination (SPC) use.
+In clinical practice, ARBs are used more commonly than ACEis, despite the absence of recommendation from guidelines and clinical evidence supporting the use of one class of drug over the other.
+Ideally, antihypertensive treatment should be tailored to the individual patient, but currently there are limited data on the characteristics of hypertension in Asia-Pacific individuals.
+Large outcome studies assessing RAAS inhibitor efficacy and safety in multi-national Asian populations are lacking.
+Among treated patients, BP control rates were ~ 35 to 40%; BP control in Asia-Pacific is suboptimal, and disproportionately so compared with Western nations.
+Strategies to improve the management of hypertension include wider access/availability of affordable treatments, particularly SPCs (which improve adherence), effective public health screening programs targeting patients to drive health-seeking behaviours, an increase in physician/patient awareness and early implementation of lifestyle changes.
+A unified Asia-Pacific guideline on hypertension management with pragmatic recommendations, particularly in resource-limited settings, is essential.

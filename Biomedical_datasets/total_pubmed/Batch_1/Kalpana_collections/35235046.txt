@@ -1,0 +1,11 @@
+The glycerol channel AQP7 facilitates glycerol efflux from adipose tissue (AT), and AQP7 deficiency has been suggested to promote obesity.
+However, the release of glycerol from AT is not fully blocked in AQP7-deficient mice, which suggests that either alternative glycerol channels are present in AT or significant simple diffusion of glycerol occurs.
+Previous investigations of the expression of other aquaglyceroporins (AQP3, AQP9, AQP10) than AQP7 in AT are contradictory.
+Therefore, we here aim at determining the cellular localization of AQP3 and AQP9 in addition to AQP7 in human and mouse AT using well-characterized antibodies for immunohistochemistry (IHC) and immunoblotting as well as available single-cell transcriptomic data from human and mouse AT.
+We confirm that AQP7 is expressed in endothelial cells and adipocytes in human AT and find ex vivo evidence for interaction between AQP7 and perilipin-1 in adipocytes.
+In addition, labeling for AQP7 in human AT also includes CD68-positive cells.
+No labeling for AQP3 or AQP9 was identified in endothelial cells or adipocytes in human or mouse AT using IHC.
+Instead, in human AT, AQP3 was predominantly found in erythrocytes, whereas AQP9 expression was observed in a small number of CD15-positive cells.
+The transcriptomic data revealed that AQP3 mRNA was found in a low number of cells in most of the identified cell clusters, whereas AQP9 mRNA was found in myeloid cell clusters as well as in clusters likely representing mesothelial progenitor cells.
+No AQP10 mRNA was identified in human AT.
+In conclusion, the presented results do not suggest a functional overlap between AQP3/AQP9/AQP10 and AQP7 in human or mouse white AT.

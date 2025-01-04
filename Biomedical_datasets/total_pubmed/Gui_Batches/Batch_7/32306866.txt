@@ -1,0 +1,6 @@
+This study employs machine learning algorithms to examine the causes for engaging in violent offending in individuals with schizophrenia spectrum disorders.
+Data were collected from 370 inpatients at the Centre for Inpatient Forensic Therapy, Zurich University Hospital of Psychiatry, Switzerland.
+Based on findings of the general strain theory and using logistic regression and machine learning algorithms, it was analyzed whether accumulation and type of stressors in the inpatients' history influenced the severity of an offense.
+A higher number of stressors led to more violent offenses, and five types of stressors were identified as being highly influential regarding violent offenses.
+Our findings suggest that an accumulation of stressful experiences in the course of life and certain types of stressors might be particularly important in the development of violent offending in individuals suffering from schizophrenia spectrum disorders.
+A better understanding of risk factors that lead to violent offenses should be helpful for the development of preventive and therapeutic strategies for patients at risk and could thus potentially reduce the prevalence of violent offenses.

@@ -1,0 +1,10 @@
+Li-rich oxides continue to be of immense interest as potential next generation Li-ion battery positive electrodes, and yet the role of oxygen during cycling is still poorly understood.
+Here, the complex electrochemical behavior of Li4FeSbO6 materials is studied thoroughly with a variety of methods.
+Herein, we show that oxygen release occurs at a distinct voltage plateau from the peroxo/superoxo formation making this material ideal for revealing new aspects of oxygen redox processes in Li-rich oxides.
+Moreover, we directly demonstrate the limited reversibility of the oxygenated species (O2(n-); n = 1, 2, 3) for the first time.
+We also find that during charge to 4.2 V iron is oxidized from +3 to an unusual +4 state with the concomitant formation of oxygenated species.
+Upon further charge to 5.0 V, an oxygen release process associated with the reduction of iron +4 to +3 is present, indicative of the reductive coupling mechanism between oxygen and metals previously reported.
+Thus, in full state of charge, lithium removal is fully compensated by oxygen only, as the iron and antimony are both very close to their pristine states.
+Besides, this charging step results in complex phase transformations that are ultimately destructive to the crystallinity of the material.
+Such findings again demonstrate the vital importance of fully understanding the behavior of oxygen in such systems.
+The consequences of these new aspects of the electrochemical behavior of lithium-rich oxides are discussed in detail.

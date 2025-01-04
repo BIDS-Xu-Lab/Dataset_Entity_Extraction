@@ -1,0 +1,7 @@
+A "transplason" mutagenesis procedure was developed for the dual purposes of low resolution mapping of antigenic coding regions (using transposons) and constructing insertion mutations in yeast genes (by transplacement).
+Mini-Tn10 transposon derivatives containing both Escherichia coli and yeast selectable markers have been constructed.
+These elements are used to mutagenize lambda gt11 clones that express foreign antigens in E. coli.
+The transposition events are first selected in E. coli, and the effect of these insertions on antigen expression is used to locate the antigenic coding regions on the cloned DNA.
+Insertion mutations located within a desired yeast sequence are then substituted for the genomic copies by one-step gene transplacement.
+This provides a powerful method for rapidly mapping antigenic coding sequences of cloned genes and inactivating these genes in yeast to help determine their function.
+Several examples using this technique are presented.

@@ -1,0 +1,9 @@
+Genome-wide association studies (GWAS) have proven highly successful in identifying single nucleotide polymorphisms (SNPs) associated with breast cancer (BC) risk.
+The majority of these studies are on European populations, with limited SNP association data in other populations.
+We genotyped 51 GWAS-identified SNPs in two independent cohorts of Singaporean Chinese.
+Cohort 1 comprised 1294 BC cases and 885 controls and was used to determine odds ratios (ORs); Cohort 2 had 301 BC cases and 243 controls for deriving polygenic risk scores (PRS).
+After age-adjustment, 11 SNPs were found to be significantly associated with BC risk.
+Five SNPs were present in <1% of Cohort 1 and were excluded from further PRS analysis.
+To assess the cumulative effect of the remaining 46 SNPs on BC risk, we generated three PRS models: Model-1 included 46 SNPs; Model-2 included 11 statistically significant SNPs; and Model-3 included the SNPs in Model-2 but excluded SNPs that were in strong linkage disequilibrium with the others.
+Across Models-1, -2 and -3, women in the highest PRS quartile had the greatest ORs of 1.894 (95% CI = 1.157-3.100), 2.013 (95% CI = 1.227-3.302) and 1.751 (95% CI = 1.073-2.856) respectively, suggesting a direct correlation between PRS and BC risk.
+Given the potential of PRS in BC risk stratification, our findings suggest the need to tailor the selection of SNPs to be included in an ethnic-specific PRS model.

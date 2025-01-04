@@ -1,0 +1,13 @@
+Recent advances in immunological research regarding the differentiation between the type-1 and type-2 immune response are discussed.
+Increased levels of Interleukin-6 (IL-6) and the activation of the IL-6 system in schizophrenia might be the result of the activation of type-2 monocytes/macrophages, too.
+On the contrary, several parameters of the specific cellular immune system are blunted, e. g.
+the decreased type-1 related immune parameters in schizophrenic patients.
+This study was performed as a double-blind, placebo-controlled, randomized evaluation of risperidone and celecoxib versus risperidone and placebo.
+Fifty schizophrenic patients were included in the study: 25 patients received risperidone and placebo, and 25 patients received risperidone and celecoxib for 5 weeks after the wash-out period.
+The treatment effect was calculated by ANCOVA.
+In parallel, serum levels of sTNF-R1 and sIL- 2R, and the percentages of CD3(+)-, CD4(+)-, and CD19(+) lymphocytes were estimated.
+As expected, both groups of schizophrenic patients showed significant improvement.
+However, the celecoxib add-on therapy group showed a significant group effect in the PANSS total score.
+The cytokines and lymphocytes reflected the type-1/type-2 balancing effects of COX-2 inhibitors.
+Additional treatment with celecoxib has significant positive effects on the therapeutic action of risperidone with regard to the total schizophrenia psychopathology.
+Moreover, the fact that treatment with an immunomodulatory drug shows beneficial effects on the symptomatology of schizophrenia indicates that immune dysfunction in schizophrenia is not just an epiphenomenon, but related to the pathomechanism of the disorder.

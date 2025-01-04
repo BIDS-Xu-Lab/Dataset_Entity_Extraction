@@ -1,0 +1,6 @@
+Protein dynamics of human adult hemoglobin and its mutants restricted in R and T quaternary states following ligand photolysis were studied by time-resolved resonance Raman spectroscopy.
+In the time-resolved spectra, we observed spectral changes of in-plane stretching modes of heme and the iron-histidine stretching mode of the Fe-His bond for all the hemoglobin samples.
+The βD99N mutant, which adopts the R state in both the ligand-bound and the deoxy forms, showed similar temporal behaviors in time-resolved resonance Raman spectra as wild-type recombinant hemoglobin until 10 μs, consistent with the fact that the mutant undergoes only the tertiary structural changes in the R state.
+The βN102T mutant, which adopts the T state in both the ligand-bound and the deoxy forms, showed much slower tertiary structural changes, suggesting that the EF helical motion is decelerated by the change of the intersubunit interactions.
+The present data indicate that the allosteric kinetic response between the interhelical hydrogen bonds of the EF helices and the intersubunit hydrogen bonds is bidirectional.
+The implications of these results for understanding the allosteric pathway of Hb are discussed in detail.

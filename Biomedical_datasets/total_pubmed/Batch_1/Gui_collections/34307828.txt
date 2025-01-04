@@ -1,0 +1,11 @@
+Mental health problems are associated with a greater risk of being Not in Employment, Education or Training (NEET) during young adulthood.
+Yet evidence on the extent to which self-reported mental health problems precede males' and females' NEET status and on the potential pathways linking mental health problems to NEET is lacking.
+This study examines the longitudinal associations that internalising and externalising problems during adolescence share with the risk of being NEET in young adulthood, with a focus on the mediating role of school performance.
+Data comes from a representative sample of 4,452 Swedish youth (51% females) who provided information on internalising and externalising problems at age 14-15 years.
+Information on secondary school grades (age 15-16 years), completion of upper secondary school (age 20-21 years) and NEET status at 21-22 years were drawn from administrative registers.
+Overall, 6% of participants were NEET at 21-22 years of age and rates were higher for those who had internalising and externalising problems at age 14-15 years.
+A series of gender-stratified multivariate regression models showed that for both genders, greater internalising and externalising problems predicted lower school grades and a reduced likelihood of upper secondary school completion.
+However, externalising problems were associated with an increased risk of being NEET for males, while internalising problems were associated with a higher likelihood of being NEET for females.
+The effects of externalising and internalising problems for males and females, respectively, were partially mediated by school performance.
+The findings indicate that mental health problems in adolescence are associated with exclusion from the labour market and education in early adulthood, but that internalising and externalising problems represent different risks for males and females.
+Furthermore, school performance in comprehensive and upper secondary school helps explain links between mental health problems and subsequent NEET status.

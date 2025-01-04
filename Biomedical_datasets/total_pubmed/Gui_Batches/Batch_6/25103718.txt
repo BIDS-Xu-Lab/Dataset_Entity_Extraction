@@ -1,0 +1,19 @@
+Cognitive interventions increasingly complement psychopharmacological treatment to enhance symptomatic and functional outcome in schizophrenia.
+Metacognitive training (MCT) is targeted at cognitive biases involved in the pathogenesis of delusions.
+To examine the long-term efficacy of group MCT for schizophrenia in order to explore whether previously established effects were sustained.
+A 2-center, randomized, controlled, assessor-blind, parallel group trial was conducted.
+A total of 150 inpatients or outpatients with DSM-IV diagnoses of schizophrenia spectrum disorders were enrolled.
+All patients were prescribed antipsychotic medication.
+The second follow-up assessment took place 3 years later after the intervention phase was terminated.
+Group MCT targeting cognitive biases vs neuropsychological training (COGPACK).
+Patients received a maximum of 16 sessions.
+The primary outcome measure was a delusion score derived from the Positive and Negative Syndrome Scale (PANSS).
+The PANSS positive syndrome and total scores, the Psychotic Symptom Rating Scales, the jumping to conclusions bias, self-esteem, and quality of life served as secondary outcome measures.
+The intention-to-treat analyses demonstrated that patients in the MCT group had significantly greater reductions in the core PANSS delusion score, after 3 years compared with the control group (η2partial = .037; P = .05).
+Among the secondary outcomes, the intention-to-treat analyses also demonstrated that patients in the MCT group had significantly greater reductions in the PANSS positive syndrome score (η2partial = .055; P = .02) and the Psychotic Symptom Rating Scales delusion score (η2partial = .109; P = .001).
+Significant group differences at the 3-year follow-up were also found on measures of self-esteem and quality of life, which did not distinguish groups at earlier assessment points.
+Attention was improved in the neuropsychological training group relative to the MCT group.
+The completion rate was 61.3% after 3 years.
+Metacognitive training demonstrated sustained effects in the reduction of delusions, which were over and above the effects of antipsychotic medication.
+Moreover, there were some unanticipated ("sleeper") effects as both self-esteem and quality of life were improved after 3 years.
+Effects on self-esteem and well-being were found even in the absence of an improvement on the jumping to conclusions bias.

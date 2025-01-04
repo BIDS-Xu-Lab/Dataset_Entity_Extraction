@@ -1,0 +1,14 @@
+The objective for the study was to analysis the epidemiology of adenosarcoma, and independent prognostic factors and impact of lymph node dissection (LND) of uterine adenosarcoma.
+Cases of patients with primary adenosarcoma were obtained from the Surveillance, Epidemiology, and End Results (SEER) database from 2000 to 2016.
+Overall survival was analyzed by the Kaplan-Meier method and log-rank test.
+The differences in baseline covariates between the 2 groups were adjusted by inverse probability of treatment weighting method.
+The prognostic factors were identified by univariate and multivariate Cox regression analysis and hazard ratio and 95% confidence interval (CI) of covariates were also estimated.
+1129 patients with pathological primary adenosarcoma between 2000 and 2016 were identified from the surveillance, epidemiology, and end results database.
+The only 4 patients were male.
+1027 patients with primary uterine adenosarcoma, and 53.1% underwent LND and only 3.5% patients were with positive lymph node.
+Age, marital status, largest tumor size, tumor grade, T stage and chemotherapy were significantly correlated with survival.
+Race, tumor number, LND, and radiotherapy did not affect overall survival in patients.
+Inverse probability of treatment weighting-adjusted K-M curve showed that LND did not improve survival and lymph node metastasis (LNM) did not affect survival.
+The majority of primary adenosarcoma patients are female with high incidence of uterus and rare incidence of distant metastasis.
+Age, marital status, tumor size, T stage, grade, and chemotherapy are independent prognostic factors of uterine adenosarcoma.
+LNM was not a significant prognostic risk factor, and LND did not benefit survival.

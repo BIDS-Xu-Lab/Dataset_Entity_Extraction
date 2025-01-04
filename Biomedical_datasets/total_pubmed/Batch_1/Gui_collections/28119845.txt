@@ -1,0 +1,9 @@
+Next-generation sequencing, such as whole-genome sequencing, whole-exome sequencing, and targeted panel sequencing have been applied for diagnosis of many genetic diseases, and are in the process of replacing the traditional methods of genetic analysis.
+Clinical exome sequencing (CES), which provides not only sequence variation data but also clinical interpretation, aids in reaching a final conclusion with regards to genetic diagnosis.
+Sequencing of genes with clinical relevance rather than whole exome sequencing might be more suitable for the diagnosis of known hereditary disease with genetic heterogeneity.
+Here, we present the clinical usefulness of CES for the diagnosis of hereditary spastic paraplegia (HSP).
+We report a case of patient who was strongly suspected of having HSP based on her clinical manifestations.
+HSP is one of the diseases with high genetic heterogeneity, the 72 different loci and 59 discovered genes identified so far.
+Therefore, traditional approach for diagnosis of HSP with genetic analysis is very challenging and time-consuming.
+CES with TruSight One Sequencing Panel, which enriches about 4,800 genes with clinical relevance, revealed compound heterozygous mutations in SPG11.
+One workflow and one procedure can provide the results of genetic analysis, and CES with enrichment of clinically relevant genes is a cost-effective and time-saving diagnostic tool for diseases with genetic heterogeneity, including HSP.

@@ -1,0 +1,10 @@
+The primary aim of the study was to estimate costs of treatment for the first year after renal transplantation from the perspective of health insurance organizations in Iran.
+An Excel-based and a Monte Carlo model were developed to determine the treatment costs of current clinical practice in renal transplantation therapy (RTT).
+Inputs were derived from Ministry of Health and insurance organizations database, hospital and pharmacy records, clinical trials and local and international literature.
+According to the model, there were almost 17,000 patients receiving RTT in Iran, out of which about 2,200 patients underwent the operation within the study year (2011 - 2012; n = 2,200)
+The estimated first year total treatment cost after renal transplantation was almost $14,000,000.
+These costs corresponded to annual total cost per patient of almost $6500 for the payers.
+Renal transplantation therapy is almost fully reimbursed by government in Iran.
+However, regarding new expensive medicines, cost of medical expenditure is rapidly growing and becoming quite unaffordable for the government; therefore, out-of-pocket (OOP) payments are dramatically increasing over time.
+In order to improve reimbursement policy making under pressure of current budget constraints, the present study is providing decision makers with practical tools make it possible for them to easily compare budgetary impact of the current therapy strategy with the future financial consequences of purchasing newly proposed medicines.
+In other words having estimation of the current budget spending on RTT would help policy makers in making efficient resource allocation and decrease quite high OOP expenditures.

@@ -1,0 +1,10 @@
+In the present study we focused on the improvisation of islet survival in hypoxia.
+The Islet like cell aggregates (ICAs) derived from wharton's jelly mesenchymal stem cells (WJ MSC) were cultured with and without WJ MSC for 48 h in hypoxia and normoxia and tested for their direct trophic effect on β cell survival.
+The WJ MSCs themselves secreted insulin upon glucose challenge and expressed the pancreatic markers at both transcription and translational level (C-peptide, Insulin, Glucagon, and Glut 2).
+Direct contact of MSCs with ICAs facilitated highest viability under hypoxia as evidenced by fluorescein diacetate/propidium iodide and 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay.
+The cytokine analysis of the co-cultured ICAs revealed amplification of anti-inflammatory cytokine like TGFβ and TNFα accompanied by depletion of pro-inflammatory cytokines.
+The increment in VEGF and PDGFa was also seen showing their ability to vascularize upon transplantation.
+This was further accompanied by reduction in total reactive oxygen species, nitric oxide, and super oxide ions and down regulation of Caspase3, Caspase8, p53, and up regulation of Bcl2 confirming prevention of apoptosis in ICAs.
+The western blot analysis confirmed the cytoprotective effect of WJ MSC on ICAs as they enhanced the anti-apoptotic marker BCL2 and reduced the expression of apoptotic markers, Annexin 5 and Caspase 3.
+There was a significant reduction in the expression of p38 protein in the presence of MSCs making the ICAs responsive to glucose.
+Taken together our data demonstrate for the first time that the WJ MSC expressed pancreatic markers and their supplementation protected engineered islets against hypoxia and oxidative stress.

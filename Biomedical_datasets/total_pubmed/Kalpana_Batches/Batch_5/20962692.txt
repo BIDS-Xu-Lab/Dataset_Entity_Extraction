@@ -1,0 +1,10 @@
+The objectives of this study were 1) to validate a new test to determine maximal oxygen uptake (V˙O2max) in kayakers, 2) to calculate the energy cost (Ck) of high-level kayakers and canoeists at submaximal and race speeds, and 3) to correlate individual best performances achieved in practice with those theoretically calculated.
+These were obtained from the individual relationships Ėr=f(t) and Ėmax=f(t), where Ėr is the metabolic power required to cover the distance in question and Ėmax is the maximal metabolic power.
+The time yielding Ėr=Ėmax was assumed to yield the best performance time.
+Seventy-four male and female athletes from the Italian national canoe kayak teams participated in this study.
+A portable metabolic unit was used to determine V˙O2max during an incremental exercise test on the boat.
+Peak oxygen uptake (V˙O2peak) was also measured in a 2-min test at 100% race speed over 1000 m. Individual Ck values were evaluated in tests of 6, 5, and 2 min at average speeds of 84%, 90%, and 100% of the 1000-m race speed.
+The V˙O2max values determined during the incremental or the 2-min test were not significantly different (4613 ± 619 vs 4582 ± 598 mL·min).
+The Ck (J·kg·m) of male kayakers increased from approximately 4 (at 3.23 m·s) to approximately 6 (at 4.63 m·s) and was approximately 30.7% smaller than that of male canoeists (P<0.001).
+Over the same speed range, male kayakers were approximately 14.2% more economical than female kayakers (P=0.044).
+Individual theoretical best times and speeds were essentially equal to those measured during actual competitions.

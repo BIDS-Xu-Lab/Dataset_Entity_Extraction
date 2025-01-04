@@ -1,0 +1,8 @@
+In recent years, preoperative planning has undergone significant advancements, with a dual focus: improving the accuracy of implant placement and enhancing the prediction of functional outcomes.
+These breakthroughs have been made possible through the development of advanced processing methods for 3D preoperative images.
+These methods not only offer novel visualization techniques but can also be seamlessly integrated into computer-aided design models.
+Additionally, the refinement of motion capture systems has played a pivotal role in this progress.
+These "markerless" systems are more straightforward to implement and facilitate easier data analysis.
+Simultaneously, the emergence of machine learning algorithms, utilizing artificial intelligence, has enabled the amalgamation of anatomical and functional data, leading to highly personalized preoperative plans for patients.
+The shift in preoperative planning from 2D towards 3D, from static to dynamic, is closely linked to technological advances, which will be described in this instructional review.
+Finally, the concept of 4D planning, encompassing periarticular soft tissues, will be introduced as a forward-looking development in the field of orthopedic surgery.

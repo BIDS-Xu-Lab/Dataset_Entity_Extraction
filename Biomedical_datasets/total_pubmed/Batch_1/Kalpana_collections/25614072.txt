@@ -1,0 +1,14 @@
+Autosomal dominant spinocerebellar ataxias (SCA) are a group of inherited neurodegenerative disorders that typically show peripheral neuropathy.
+SCA7 is one of the rarest forms of SCA (<1/100,000 individuals).
+However, the disease shows a prevalence of ∼800/100,000 inhabitants in certain regions of Mexico.
+This low global prevalence may explain, at least in part, the isolated anecdotal and limited clinical data regarding peripheral neuropathy in SCA7 patients.
+To assess sensory and motor peripheral nerve action potentials in an SCA7 patients group and in healthy volunteers, and subsequently correlate the electrophysiological findings with clinical and genetic features.
+We enrolled in our study, 13 symptomatic SCA7 patients with a confirmed molecular and clinical diagnosis, and 19 healthy volunteers as the control group.
+Nerve conduction studies were carried out using standard electromyography recording methods.
+The sensory and motor latency, amplitude and conduction velocity were recorded in both experimental groups and analyzed using the Student's t-test.
+SCA7 patients showed a significant prolongation of sensory nerve conduction latencies, as well as a decrease in sensory amplitudes.
+Decreases in motor amplitudes and peroneal conduction velocity were also observed.
+Finally, we found an association between CAG repeats and the severity of cerebellar and non-cerebellar symptoms with electrophysiological signs of demyelinization.
+Our results reveal the existence of a critical sensorimotor peripheral neuropathy in SCA7 patients.
+Moreover, we show that using sensitive electrophysiological tools to evaluate nerve conduction can improve the diagnosis and design of therapeutic options based on pharmacological and rehabilitative strategies.
+These findings demonstrate that SCA7 is a disease that globally affects the peripheral nervous system.

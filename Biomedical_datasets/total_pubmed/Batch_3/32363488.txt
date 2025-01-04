@@ -1,0 +1,9 @@
+Assessment of nigrostriatal degeneration is a key element to discriminate between dementia with Lewy bodies (DLB) and Alzheimer disease (AD), and it is often evaluated using ioflupane (123I-FP-CIT) single-photon emission computed tomography (SPECT).
+Given the limited availability of 123I-FP-CIT SPECT, we evaluated if a mask-based approach to nigroputaminal magnetic resonance imaging (MRI) diffusion-weighted tractography could be able to capture microstructural changes reflecting nigroputaminal degeneration in DLB.
+A nigroputaminal bundle mask was delineated on 12 healthy volunteers (HV) and applied to MRI diffusion-weighted data of 18 subjects with DLB, 21 subjects with AD and another group of 12 HV.
+The correlation between nigroputaminal fractional anisotropy (FA) values and 123I-FP-CIT SPECT findings was investigated.
+Shapiro-Wilk, ANOVA, ANCOVA, and parametric correlation statistics as well as receiver operating characteristic (ROC) analysis were used.
+DLB patients showed a higher nigroputaminal FA values compared with both AD and HV-controls groups (p = 0.001 for both comparisons), while no difference was observed between HV-controls and AD groups (p = 0.450); at ROC analysis, the area under the curve for the discriminating DLB and AD subjects was 0.820; FA values correlated with 123I-FP-CIT values (on the left, r = -0.670; on the right, r = -720).
+No significant differences were observed for the FA of the corticospinal tract across the three groups (p = 0.740).
+In DLB, nigroputaminal degeneration could be reliably assessed on MRI diffusion scans using a mask of nigroputaminal bundle trajectory.
+Nigroputaminal FA in DLB patients correlated with 123I-FP-CIT values data may allow to differentiate these patients from AD patients and HV-controls.

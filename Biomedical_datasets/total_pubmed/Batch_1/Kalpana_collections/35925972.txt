@@ -1,0 +1,13 @@
+This study examined factors associated with TB among persons living with HIV (PLWH) in Florida and the agreement between self-reported and medically documented history of tuberculosis (TB) in assessing the risk factors.
+Self-reported and medically documented data of 655 PLWH in Florida were analyzed.
+Data on sociodemographic factors such as age, race/ethnicity, place of birth, current marital status, education, employment, homelessness in the past year and 'ever been jailed' and behavioural factors such as excessive alcohol use, marijuana, injection drug use (IDU), substance and current cigarette use were obtained.
+Health status information such as health insurance status, adherence to HIV antiretroviral therapy (ART), most recent CD4 count, HIV viral load and comorbid conditions were also obtained.
+The associations between these selected factors with self-reported TB and medically documented TB diagnosis were compared using Chi-square and logistic regression analyses.
+Additionally, the agreement between self-reports and medical records was assessed.
+TB prevalence according to self-reports and medical records was 16.6% and 7.5% respectively.
+Being age ≥55 years, African American and homeless in the past 12 months were statistically significantly associated with self-reported TB, while being African American homeless in the past 12 months and not on antiretroviral therapy (ART) were statistically significantly associated with medically documented TB.
+African Americans compared to Whites had odds ratios of 3.04 and 4.89 for self-reported and medically documented TB, respectively.
+There was moderate agreement between self-reported and medically documented TB (Kappa = 0.41).
+TB prevalence was higher based on self-reports than medical records.
+There was moderate agreement between the two data sources, showing the importance of self-reports.
+Establishing the true prevalence of TB and associated risk factors in PLWH for developing policies may therefore require the use of self-reports and confirmation by screening tests, clinical signs and/or microbiologic data.

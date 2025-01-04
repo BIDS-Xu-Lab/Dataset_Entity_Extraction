@@ -1,0 +1,11 @@
+Proteins on gamete surfaces are major determinants of fertilization success, particularly in free-spawning animals.
+Molecular analyses of these simple genetic systems show rapid evolution, positive selection, accelerated coalescence and, sometimes, extensive polymorphism.
+Careful analysis of the behavior of sperm produced by males with different gamete alleles shows that these alleles can deliver significant functional differences.
+Three forms of allele-specific fertilization advantage have been shown: assortative mating based on gamete type, rare allele advantage and heterozygote superiority.
+Models suggest that sperm and egg proteins may be coevolutionary partners that can alternate between directional selection for high fertilization ability and cyclic adaptation of eggs and sperm driven by sexual conflict.
+These processes act within allopatric populations and may accelerate their divergence if gamete adaptations in separate demes reduce cross-fertilization.
+Reproductive character displacement by reinforcement may play a diversifying role when previously allopatric populations rejoin.
+In circumstance that might prove to be common, divergence in sympatry can be driven by sexual conflict or by association of mating types with ecological differences.
+The ecology of fertilization, especially the degree of sperm competition and egg death via polyspermy, are important determinants of the strength and direction of selection on gametes.
+Free-spawning animals allow careful analysis of gamete recognition -from the behavior of adults and interactions of gametes, to molecular patterns of allele divergence.
+Future research efforts on the evolutionary consequences of fertilization ecology, and the interaction between extensive variation in egg surface proteins and sperm fertilization ability, are particularly needed.

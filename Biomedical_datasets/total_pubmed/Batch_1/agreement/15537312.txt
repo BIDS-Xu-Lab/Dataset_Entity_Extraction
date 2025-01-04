@@ -1,0 +1,10 @@
+Different washing treatments applying chlorinated, ozonated, and tap water were examined for their effect on the phenolic metabolism of minimally processed iceberg lettuce (Lactuca sativa L.) during storage in consumer-sized bags at 4 degrees C for up to 9 days.
+To eliminate problems associated with raw material inhomogeneity, processing was conducted on a pilot-plant scale under operating conditions of industrial practice.
+Inherent product heterogeneity caused by diverse lettuce leaf tissues was compensated for by pooling large-sized samples, and frequent sampling ensured significant data about the activities of phenylalanine ammonia-lyase (PAL), polyphenol oxidase (PPO), and peroxidase (POD), as well as the contents of caffeic acid derivatives over storage time.
+In the homogeneous lettuce samples, specific responses caused by different washing procedures were detectable.
+PAL activity in the samples increased for up to 5-8 days of storage.
+Compared to tap and ozonated water, the use of chlorinated water (100-200 mg/L free chlorine) for washing trimmed heads or shredded lettuce significantly reduced PAL activity and the concomitant rise of 3,5-di-O-caffeoylquinic acid (isochlorogenic acid isomer) concentrations.
+The phenolic acids O-caffeoyltartaric (caftaric acid), di-O-caffeoyltartaric (chicoric acid), 5-O-caffeoylquinic (chlorogenic acid isomer), and O-caffeoylmalic were less influenced by different washing treatments.
+Individual contents either were constant or decreased during storage.
+Additionally, the novel finding of a further caffeic acid isomer, tentatively identified as meso-di-O-caffeoyltartaric acid, is reported.
+PPO and POD activities were less affected by different washing treatments and thus were less suitable physiological indicators of stress reactions triggered by alternative processing.

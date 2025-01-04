@@ -1,0 +1,8 @@
+To determine the relationship between glomerular filtration rate (GFR) and free prostate-specific antigen (fPSA), percent-free PSA (%fPSA), and total PSA (tPSA) in patients with diminished kidney function not on dialysis, using nationally representative data.
+A total of 3782 men aged ≥ 40 years who participated in the National Health and Nutrition Examination Survey 2001-2006, and who met eligibility criteria for PSA testing were included in the final study population.
+GFR (mL/min/1.73 m(2)) was calculated using the Modification of Diet in Renal Disease equation 7 and categorized as ≥ 90, 60 to < 90, and 15 to < 60.
+Distribution of tPSA, fPSA, and %fPSA were estimated by GFR category and by age and race.
+Multivariate linear regression models were fit to determine the adjusted relationship between GFR and tPSA and %fPSA after adjusting for age, race, and body mass index.
+= -2.67 (95% CI -3.56, -1.77) for a GFR of 85 as compared with 65; P < .001].
+The decline in %fPSA with increasing GFR was nonsignificant for GFR levels above 90.
+Our finding that renal function as measured by GFR is negatively associated with %fPSA has potential implications for use of this test in men with renal disease.

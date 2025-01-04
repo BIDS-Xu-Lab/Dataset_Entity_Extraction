@@ -1,0 +1,15 @@
+The present study aimed at investigating the weak cation magnetic separation technology and matrix-assisted laser desorption ionization-time of flight-mass spectrometry (MALDI-TOF-MS) in screening serum protein markers of osteopenia from ten postmenopausal women and ten postmenopausal women without osteopenia as control group, to find a new method for screening biomarkers and establishing a diagnostic model for primary type I osteoporosis.
+Serum samples were collected from postmenopausal women with osteopenia and postmenopausal women with normal bone mass.
+Proteins were extracted from serum samples by weak cation exchange magnetic beads technology, and mass spectra acquisition was done by MALDI-TOF-MS.
+The visualization and comparison of data sets, statistical peak evaluation, model recognition, and discovery of biomarker candidates were handled by the proteinchip data analysis system software(ZJU-PDAS).
+The diagnostic models were established using genetic arithmetic based support vector machine (SVM).
+The SVM result with the highest Youden Index was selected as the model.
+Combinatorial Peaks having the highest accuracy in distinguishing different samples were selected as potential biomarker.
+From the two group serum samples, a total of 133 differential features were selected.
+Ten features with significant intensity differences were screened.
+In the pair-wise comparisons, processing of MALDI-TOF spectra resulted in the identification of ten differential features between postmenopausal women with osteopenia and postmenopausal women with normal bone mass.
+The difference of features by Youden index showed that the highest features had a mass to charge ratio of 1699 and 3038 Da.
+A diagnosis model was established with these two peaks as the candidate marker, and the specificity of the model is 100 %, the sensitivity was 90 % by leave-one-out cross validation test.
+The two groups of specimens in SVM results on the scatter plot could be clearly distinguished.
+The peak with m/z 3038 in the SVM model was suggested as Secretin by TagIdent tool.
+To provide further validation, the secretin levels in serum were analyzed using enzyme-linked immunosorbent assays that is a competitive inhibition enzyme immunoassay technique for the in vitro quantitative measurement of secretin in human serum.

@@ -1,0 +1,11 @@
+The pH dependence of the steady-state kinetic parameters for the dialkylglycine decarboxylase-catalyzed decarboxylation-dependent transamination between 2-aminoisobutyrate (AIB) and pyruvate is presented.
+The pH dependence of methylation and DTNB modification reactions, and spectroscopic properties, is used to augment the assignment of the kinetic pKa's to specific ionizations.
+The coincidence of pKa values (approximately 7.4) observed in kcat/KAIB, 1/KAIB, Kis for pyruvate, KPLP, and in absorbance and fluorescence titrations demonstrates that AIB is not a sticky substrate.
+It furthermore suggests that the decarboxylation step, or a conformational isomerization preceding it, limits the rate of the overall catalytic cycle.
+Coexisting, kinetically distinguishable conformers of DGD-PLP, originating from an alkali metal ion binding site, were previously demonstrated at pH 8.2 for DGD-PLP (Zhou, X., Toney, M. D. Biochemistry 37, 5761-5769).
+The pKa value of approximately 8.8 observed in kcat, kcat/KAIB, Kd for K+, spectrometric titrations, and the reaction of DGD-PLP with DTNB is tentatively assigned to the conformational change interconverting the two enzyme forms previously characterized.
+Three pKa's are observed in pH titrations of the DGD-PLP coenzyme absorbance.
+Individual spectra for the four ionization states are deconvoluted by fitting log-normal curves.
+All four ionization states have both ketoenamine and enolimine tautomers present.
+This and a review of spectral data in the literature lead to the conclusion that the pKa of approximately 7.4, which gives the largest spectral changes and controls kcat/KAIB, is not deprotonation of the aldimine nitrogen.
+Rather, it must be an active site residue whose ionization alters the ratio between ketoenamine and enolimine tautomers.

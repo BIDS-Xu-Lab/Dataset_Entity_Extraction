@@ -1,0 +1,5 @@
+To estimate the frequency of an early-morning glucose rise (EMR) in relatively unselected children with insulin-dependent diabetes mellitus (IDDM), we assessed capillary blood glucose (CBG) at midsleep (0200-0430) and prebreakfast (0700-0800) in 97 children with diabetes at camp.
+The EMR (prebreakfast CBG-midsleep CGB) was inversely related to the midsleep CBG level (r = -.45, P less than .001).
+Of the 49 children with midsleep CBG less than 200 mg/dl, the mean EMR was 34 +/- 60 mg/dl, and 18 of these children had rises of greater than 40 mg/dl.
+In conclusion, when midsleep glycemia is less than 200 mg/dl, a rise in blood glucose from midsleep to prebreakfast, often greater than 40 mg/dl, is a common element of glycemic control among children with IDDM.
+The relative importance of the Somogyi phenomenon, the dawn phenomenon, and mere insulin insufficiency in the early-morning hours cannot be determined from these data.

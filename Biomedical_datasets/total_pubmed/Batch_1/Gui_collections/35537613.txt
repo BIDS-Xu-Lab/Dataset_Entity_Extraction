@@ -1,0 +1,12 @@
+Surgeons are increasingly performing total hip arthroplasty (THA) in the outpatient setting.
+Lower lengths of stay (LOS) could result in fewer lower extremity ultrasounds for deep vein thromboses (DVT).
+The objective of this study was to evaluate the incidence of lower extremity ultrasounds ordered and positive DVT results in the immediate postoperative period.
+All patients undergoing elective primary THA at an academic tertiary care center from January 2010 to February 2020 were included.
+Primary outcome of interest was incidence of postoperative DVT ultrasounds while inpatient and within 2 weeks following THA.
+Statistical analysis, including descriptive statistics and significance testing, was performed.
+A total of 3,665 patients were included, of which, 2.0% (N = 72) of patients received a lower extremity ultrasound while inpatient, with only 2 being positive (2.8%), for an overall positivity rate of 0.05% of the entire cohort.
+The incidence of postoperative inpatient ultrasounds decreased from 7.0% in 2010 to 0.3% in 2020 (P < .001)
+whereas, the incidence of ultrasounds at 2 weeks and 2-week positivity rate remained stable.
+LOS was identified as a risk factor for postoperative inpatient ultrasound (P < .001).
+Postoperative ultrasounds to evaluate for DVT are associated with a low yield and appear to be a consequence of reduced LOS in the hospital.
+Given the stable diagnosis rate of DVT at 2 weeks, our data suggests that the increasing trend toward outpatient arthroplasty will not result in missed opportunities to diagnose postoperative DVTs or lead to adverse outcomes and may provide benefit to patients by eliminating unnecessary testing.

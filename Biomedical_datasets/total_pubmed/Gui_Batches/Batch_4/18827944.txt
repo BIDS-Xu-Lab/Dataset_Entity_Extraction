@@ -1,0 +1,10 @@
+The interaction between metal ions and nucleotides is well characterized, as is their importance for metabolic processes, e.g. in the synthesis of nucleic acids.
+Hence, it is surprising to find that no detailed comparison is available of the metal ion-binding properties between nucleoside 5'-phosphates and 2'-deoxynucleoside 5'-phosphates.
+Therefore, we have measured here by potentiometric pH titrations the stabilities of several metal ion complexes formed with 2'-deoxyadenosine 5'-monophosphate (dAMP2-), 2'-deoxyadenosine 5'-diphosphate (dADP3-) and 2'-deoxyadenosine 5'-triphosphate (dATP4-).
+These results are compared with previous data measured under the same conditions and available in the literature for the adenosine 5'-phosphates, AMP(2-), ADP(3-) and ATP(4-), as well as guanosine 5'-monophosphate (GMP(2-)) and 2'-deoxyguanosine 5'-monophosphate (dGMP(2-)).
+Hence, in total four nucleotide pairs, GMP(2-)/dGMP(2-), AMP(2-)/dAMP(2-), ADP(3-)/dADP(3-) and ATP(4-)/dATP(4-) (= NP/dNP), could be compared for the four metal ions Mg2+, Ni2+, Cu2+ and Zn2+ (= M2+).
+The comparisons show that complex stability and extent of macrochelate formation between the phosphate-coordinated metal ion and N7 of the purine residue is very similar (or even identical) for the AMP(2-)/dAMP(2-) and ADP(3-)/dADP(3-) pairs.
+In the case of the complexes formed with ATP(4-)/dATP(4-) the 2'-deoxy complexes are somewhat more stable and show also a slightly enhanced tendency for macrochelate formation.
+This is different for guanine nucleotides: the stabilities of the M(dGMP) complexes are clearly higher, as are the formation degrees of their macrochelates, than is the case with the M(GMP) complexes.
+This enhanced complex stability and greater tendency to form macrochelates can be attributed to the enhanced basicity (DeltapKaca. 0.2) of N7 in the 2'-deoxy compound.
+These results allow general conclusions regarding nucleic acids to be made.

@@ -1,0 +1,13 @@
+Since children have different activity patterns and exercise responses, uncertainty exists as to whether minute ventilation (MV) sensors designed for adults provide adequate chronotropic response in pediatrics.
+In particular, high respiratory rates (RR > 48 breaths/min), which are characteristic of the ventilatory response to exercise in children, cannot be sensed by MV rate responsive pacemakers.
+The purpose of this study was to evaluate the MV sensor rate response of the Medtronic Kappa 400 using exercise data from healthy children in a computer simulation of its rate response algorithm.
+Thirty-eight healthy children, ages 6-14, underwent a treadmill maximal exercise test.
+Subjects were divided based on body surface area (BSA) and MV rate response parameters were selected.
+Respiratory rates and tidal volumes were entered into the Kappa 400 rate response algorithm to calculate sensor-driven rates.
+Intrinsic heart rate (HR), oxygen uptake, and sensor-driven rates were normalized to HR reserve (HRR), metabolic reserve (MR), and sensor-driven reserve to compare across groups.
+Linear regression analysis among sensor-driven rate reserve, HRR, and MR was performed as described by Wilkoff.
+The mean slopes (+/- SD) of the relationships between the sensor-driven rate reserve and HRR were 1.06 +/- 0.34, 1.07 +/- 0.28, and 1.01 +/- 0.19 for children with BSA < 1.10 m2, 1.10 <
+BSA < 1.40 m2, and BSA > 1.40 m2, respectively.
+High correlations were found between sensor-drive rates and HR responses and between sensor-drive rates and MV throughout exercise.
+No significant differences were noted between sensor-drive rates and HR using the Wilkoff model.
+From this study the authors conclude that: (1) MV is a good physiological parameter to control heart rate and (2) simulated sensor-driven rates closely match intrinsic HRs during exercise in healthy children, which supports the appropriateness of clinical validation in pediatric pacemaker patients.

@@ -1,0 +1,11 @@
+The disease COVID-19 has had an impact on the lives of all people in the world.
+It also had a great impact on the world economies themselves.
+There are several scientific publications on the impact of the COVID-19 disease on the work performance of employees, while researchers have focused on less traditional factors such as corporate culture, leadership, or work engagement as well.
+Corporate culture influences the shared values or behavior of employees at the workplace and creates an environment in which employees work.
+Through leadership, managers should be able to motivate their employees and thereby ensure their better work performance.
+It can be assumed that if employees are more engaged, their work performance will be higher.
+The main goal of the paper is to examine whether corporate culture has an impact on the work performance of employees through the mediators of leadership and work engagement.
+The data necessary for the goal set in this way were obtained through a questionnaire survey, which was attended by 489 respondents during the year 2022.
+After the data reliability analysis, by using serial mediation with two mediators, the influence of corporate culture on work performance was verified independently, but also through the mediators of leadership and work engagement.
+Based on the results, it can be claimed that individual factors have a significant impact on work performance, while the influence of corporate culture mediated by leadership and work engagement was also confirmed.
+The influence of corporate culture, mediated only by leadership, and the independent influence of corporate culture through work engagement on work performance were also confirmed.

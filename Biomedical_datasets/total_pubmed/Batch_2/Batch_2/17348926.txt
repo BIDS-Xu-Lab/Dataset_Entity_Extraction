@@ -1,0 +1,4 @@
+Recently published evidence based on cytological staining indicates that sperm die rapidly after being stored in female Drosophila melanogaster.
+However, measuring sperm death in this way has a potential artifact: the death of sperm owing to the extraction, mounting, and staining of sperm.
+Here we use a protocol that bypasses all of these potential extraneous mortality factors to test the hypothesis that there is high mortality of stored sperm in D. melanogaster.
+Contrary to the findings from cytological staining, our data indicates that mortality of stored sperm is quite low.

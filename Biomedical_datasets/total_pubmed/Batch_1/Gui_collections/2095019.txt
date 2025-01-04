@@ -1,0 +1,10 @@
+Sunlight exposure has been suggested as a cause of AMD.
+To examine this, we collected detailed histories of ocular sun exposure in 838 watermen who work on the Chesapeake Bay.
+The presence and severity of AMD was assessed in stereo macular photographs.
+Macular changes were classified into four grades of increasing severity ranging from the presence of 5 or more drusen (AMD-1) to extensive geographic atrophy or disciform scars (AMD-4).
+Previously, we found no association between AMD and ocular exposure to either UV-B (290 to 320 nm) or two bands of UV-A (320 to 340 nm and 340 to 400 nm).
+We have undertaken further analysis to determine whether ocular exposure to violet light (400 to 450 nm), blue light (400 to 500 nm), or all visible light (400 to 700 nm) was associated with AMD.
+Ocular exposure was estimated using model computations of ambient irradiance and estimates of the ratio of ocular to ambient exposure.
+Compared to age-matched controls, established cases (AMD-4), but not milder cases, had significantly higher exposure to both blue and visible light over the preceding 20 years (Wilcoxon sign rank test, P = 0.027).
+There was no difference in exposure at younger ages.
+These data suggest that high levels of exposure to blue and visible light late in life may be important in causing AMD.

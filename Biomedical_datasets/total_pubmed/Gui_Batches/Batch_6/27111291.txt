@@ -1,0 +1,10 @@
+This study aimed to determine whether intraoral photographic assessment by mid-level dental providers (MLDPs) offers a valid and reliable means of dental caries screening.
+A mobile teledentistry model was developed to facilitate the acquisition of dental images, and transmission and reviewing of data.
+One hundred regularly attending patients at a dental clinic participated in the study.
+Following an on-site clinical examination by a senior dentist, photographs of participants' teeth were taken by a teledental assistant, using a smartphone camera.
+These intraoral photographs were directly uploaded from an Android App to a cloud-based server, 'Remote-i', using an encrypted store-and-forward telemedicine technology.
+The photographic assessment carried out by two independent screeners (MLDPs), was compared to the visual oral examination scores of a benchmark examiner.
+The sensitivity and specificity values for the photographic assessment method (assessed by screeners) as compared to the direct visual examination ranged from 60% to 68%, and 97% to 98%, respectively.
+The intra-rater reliability for the photographic assessment was almost perfect, with a kappa score of 0.89.
+The inter-rater reliability between the photographic and visual oral assessments ranged from moderate to substantial agreement, with kappa scores ranging from 0.57 to 0.61.
+A new smartphone-based mobile teledentistry model used by mid-level dental providers shows potential for remote screening of dental caries.

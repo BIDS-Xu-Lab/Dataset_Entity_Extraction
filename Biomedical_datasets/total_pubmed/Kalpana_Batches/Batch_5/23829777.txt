@@ -1,0 +1,15 @@
+Deltamethrin is a synthetic pyrethroid insecticide used extensively in pest control.
+Although deltamethrin has been shown to induce cytosolic free Ca(2+) concentration ([Ca(2+)]i) rises and apoptosis in different cancer cells, there is no information concerning the effects of deltamethrin on oral cancer.
+This study explored the effects of deltamethrin on [Ca(2+)]i and viability in OC2 human oral cancer cells.
+Deltamethrin, at concentrations of 5-10 μM, increased [Ca(2+)]i in a concentration-dependent manner.
+The Ca(2+) signal was reduced partly by removing extracellular Ca(2+).
+Deltamethrin-induced [Ca(2+)]i rise was not inhibited by econazole, SK&F96365, phorbol 12-myristate 13 acetate (PMA) or GF109203X, but was inhibited by nifedipine.
+In Ca(2+)-free medium, 10-μM deltamethrin pretreatment inhibited the [Ca(2+)]i rise induced by the endoplasmic reticulum Ca(2+) pump inhibitor, 2,5-di-tert-butylhydroquinone (BHQ).
+Conversely, pretreatment with BHQ inhibited deltamethrin-induced [Ca(2+)]i rise.
+Inhibition of inositol 1,4,5-trisphosphate formation with phospholipase C (PLC) inhibitor U73122 did not suppress deltamethrin-induced Ca(2+) release.
+At concentrations between 20 and 100 μM, deltamethrin killed cells in a concentration-dependent manner.
+The cytotoxic effect of deltamethrin was not reversed by prechelating cytosolic Ca(2+) with 1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid/acetoxymethyl.
+Deltamethrin-induced cell death was not caused by a preceding [Ca(2+)]i rise.
+Annexin V/propidium iodide staining data suggest that deltamethrin (40-60 μM) induced apoptosis in a concentration-dependent manner.
+To conclude, in OC2 cells, deltamethrin evoked a [Ca(2+)]i rise by inducing PLC-independent Ca(2+) release from the endoplasmic reticulum and Ca(2+) entry by nifedipine-sensitive Ca(2+) channels.
+Further, deltamethrin induced Ca(2+)-independent cell death might involve apoptosis.

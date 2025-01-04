@@ -1,0 +1,8 @@
+The Pediatric Risk of Mortality (PRISM) score was developed from the Physiologic Stability Index (PSI) to reduce the number of physiologic variables required for pediatric ICU (PICU) mortality risk assessment and to obtain an objective weighting of the remaining variables.
+Univariate and multivariate statistical techniques were applied to admission day PSI data (1,415 patients, 116 deaths) from four PICUs.
+The resulting PRISM score consists of 14 routinely measured, physiologic variables, and 23 variable ranges.
+The performance of a logistic function estimating PICU mortality risk from the PRISM score, age, and operative status was tested in a different sample from six PICUs (1,227 patients, 105 deaths), each PICU separately, and in diagnostic groups using chi-square goodness-of-fit tests and receiver operating characteristic (ROC) analysis.
+In all groups, the number and distribution of survivors and nonsurvivors in adjacent mortality risk intervals were accurately predicted: total validation group (chi 2(5) = 0.80; p greater than .95), each PICU separately (chi 2(5) range 0.83 to 7.38; all p greater than .10), operative patients (chi 2(5)
+= 2.03; p greater than .75), nonoperative patients (chi 2(5) = 2.80, p greater than .50), cardiovascular disease patients (chi 2(5) = 4.72;
+p greater than .25), respiratory disease patients (chi 2(5) = 5.82; p greater than .25), and neurologic disease patients (chi 2(5) = 7.15; p greater than .10).
+ROC analysis also demonstrated excellent predictor performance (area index = 0.92 +/- 0.02).

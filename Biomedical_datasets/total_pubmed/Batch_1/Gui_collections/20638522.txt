@@ -1,0 +1,12 @@
+Pulmonary hypoplasia and persistent pulmonary hypertension are the main causes of mortality and morbidity in newborns with congenital diaphragmatic hernia (CDH).
+Nitrofen is well known to induce CDH and lung hypoplasia in a rat model, but the mechanism remains unknown.
+To increase the understanding of the underlying pathogenesis of CDH, we performed a global gene expression analysis using microarray technology.
+Pregnant rats were given 100 mg nitrofen on gestational day 9.5 to create CDH.
+On day 21, fetuses after nitrofen administration and control fetuses were removed; and lungs were harvested.
+Global gene expression analysis was performed using Affymetrix Platform and the RAE 230 set arrays.
+For validation of microarray data, we performed real-time polymerase chain reaction and Western blot analysis.
+Significantly decreased genes after nitrofen administration included several growth factors and growth factors receptors involved in lung development, transcription factors, water and ion channels, and genes involved in angiogenesis and extracellular matrix.
+These results could be confirmed with real-time polymerase chain reaction and protein expression studies.
+The pathogenesis of lung hypoplasia and CDH in the nitrofen model includes alteration at a molecular level of several pathways involved in lung development.
+The complexity of the nitrofen mechanism of action reminds of human CDH; and the picture is consistent with lung hypoplasia and vascular disease, both important contributors to the high mortality and morbidity in CDH.
+Increased understanding of the molecular mechanisms that control lung growth may be the key to develop novel therapeutic techniques to stimulate pre- and postnatal lung growth.

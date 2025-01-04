@@ -1,0 +1,9 @@
+In order to develop supporting interventions for people demonstrating problems ET use, a detailed level of description of strengths and deficits is needed.
+To explore clusters of specific performance skill required when using ET, and to evaluate if and in what way such clusters are associated with age, gender, diagnosis, and types of ETs managed.
+A secondary analysis of 661 data records from 203 heterogeneous samples of participants using the Management of Everyday Technology Assessment (META) was used.
+Ward's method and a hierarchical tree cluster analysis were used to determine and define the skill clusters.
+Four distinct clusters of performance skill item profiles were found, across the 661 data records.
+These were then, based on each individuals' cluster profiles in managing ET, categorized into two groups.
+The two groups were associated with, diagnosis and type of ETs managed.
+The findings support a more dyadic person-ET approach in evaluation of ET management.
+The information from the skill clusters can be used to develop targeted intervention guides for occupational therapy and healthcare.

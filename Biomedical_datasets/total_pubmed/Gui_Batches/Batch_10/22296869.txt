@@ -1,0 +1,9 @@
+Trunk muscle electromyography (EMG) is often contaminated by the electrocardiogram (ECG), which hampers data analysis and potentially yields misinterpretations.
+We propose the use of independent component analysis (ICA) for removing ECG contamination and compared it with other procedures previously developed to decontaminate EMG.
+To mimic realistic contamination while having uncontaminated reference signals, we employed EMG recordings from peripheral muscles with different activation patterns and superimposed distinct ECG signals that were recorded during rest at conventional locations for trunk muscle EMG.
+ICA decomposition was performed with and without a separately collected ECG signal as part of the data set and contaminated ICA modes representing ECG were identified automatically.
+Root mean squared relative errors and correlations between the linear envelopes of uncontaminated and contaminated EMG were calculated to assess filtering effects on EMG amplitude.
+Changes in spectral content were quantified via mean power frequencies.
+ICA-based filtering largely preserved the EMG's spectral content.
+Performance on amplitude measures was especially successful when a separate ECG recording was included.
+That is, the ICA-based filtering can produce excellent results when EMG and ECG are indeed statistically independent and when mode selection is flexibly adjusted to the data set under study.

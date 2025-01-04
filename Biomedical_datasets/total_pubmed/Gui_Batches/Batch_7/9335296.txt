@@ -1,0 +1,9 @@
+The chemical structure of free lipid A isolated from rough- and smooth-form lipopolysaccharides (R-LPS and S-LPS, respectively) of the human gastroduodenal pathogen Helicobacter pylori was elucidated by compositional and degradative analysis, nuclear magnetic resonance spectroscopy, and mass spectrometry.
+The predominant molecular species in both lipid A components are identical and tetraacylated, but a second molecular species which is hexaacylated is also present in lipid A from S-LPS.
+Despite differences in substitution by acyl chains, the hydrophilic backbone of the molecules consisted of beta(1,6)-linked D-glucosamine (GlcN) disaccharide 1-phosphate.
+Because of microheterogeneity, nonstoichiometric amounts of ethanolamine-phosphate were also linked to the glycosidic hydroxyl group.
+In S-LPS, but not in R-LPS, the hydroxyl group at position 4' was partially substituted by another phosphate group.
+Considerable variation in the distribution of fatty acids on the lipid A backbone was revealed by laser desorption mass spectrometry.
+In tetraacyl lipid A, the amino group of the reducing GlcN carried (R)-3-hydroxyoctadecanoic acid (position 2), that of the nonreducing GlcN carried (R)-3-(octadecanoyloxy)octadecanoic acid (position 2'), and ester-bound (R)-3-hydroxyhexadecanoic acid was attached at position 3.
+Hexaacyl lipid A had a similar substitution by fatty acids, but in addition, ester-bound (R)-3-(dodecanoyloxy)hexadecanoic acid or (R)-3(tetradecanoyloxy)hexadecanoic acid was attached at position 3'.
+The predominant absence of ester-bound 4'-phosphate and the presence of tetraacyl lipid A with fatty acids of 16 to 18 carbons in length differentiate H. pylori lipid A from that of other bacterial species and help explain the low endotoxic and biological activities of H. pylori LPS.

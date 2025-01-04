@@ -1,0 +1,11 @@
+The COVID-19 disease primarily affects the respiratory system; however, cardiac involvement has been documented in the acute phase.
+We aimed to evaluate the cardiac autonomic function and subtle left ventricular dysfunction in those subjects recovered from mild to moderate acute COVID-19 patients but still symptomatic.
+The study group was composed of 50 subjects with confirmed mild to moderate COVID-19.
+All subjects underwent routine 2D echocardiography assessment in addition to 2D speckle tracking and 24 h Holter monitoring for HRV analysis.
+The mean age of the study population was 42 ± 18 years; symptoms were reported as follows 27 (54%) had dyspnoea, 17 (34%) had palpitation, and 7 (14%) had dizziness.
+Time domain parameters Standard Deviation of NN intervals (SDNN), Standard Deviation of the Average NN intervals for each 5 min segment of a 24 h HRV recording (SDANN), and Root Mean Square of Successive RR interval Differences (rMSSD) were diminished with mean SDNN value being markedly impaired in 12 (24%) patients, while frequency domain parameters as assessed by the ratio of the Low-Frequency band power to the High-Frequency band power (LF/HF) with the mean of 1.837 with 8% of the patients being impaired.
+SDNN was significantly reduced in patients with impaired global longitudinal strain (p 0.000).
+The global longitudinal strain was diminished in 10 patients (20%); also, 80% of the patients with impaired GLS had decreased SDNN.
+Our study targeted patients experiencing prolonged symptoms after COVID-19 illness.
+We detected a high incidence of GLS impairment using Speckle Tracking Echocardiography (STE) and a significant prevalence of diminished HRV.
+HRV (especially SDNN) and GLS were found to be significantly correlated.

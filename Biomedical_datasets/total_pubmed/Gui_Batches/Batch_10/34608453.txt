@@ -1,0 +1,17 @@
+Vaccine hesitancy has affected COVID-19 adult vaccination programs in many countries.
+Data on hesitancy amongst child and adolescent populations is largely confined to parent opinion.
+We investigated the characteristics of vaccine hesitant children and adolescents using results from a large, school-based self-report survey of the willingness to have a COVID-19 vaccination in students aged 9 -18 years in England.
+Data from the OxWell Student Survey on mental health, life experiences and behaviours were used, collected from four counties across England.
+The vaccine hesitancy question gave six response options and were clustered to inform delivery: eager and willing were categorised as vaccination 'opt-in', don't know and not bothered categorised as 'undecided', and unwilling and anti-vaccination categorised as 'opt-out'.
+We conducted a multinomial regression to determine associations between vaccine hesitancy and sociodemographic, health behaviour and social connection variables.
+27,910 students from 180 schools answered the vaccine hesitancy question between 14th May and 21st July 2021, of whom 13984 (50.1%) would opt-in to take a vaccination, 10322 (37.0%) were undecided, and 3604 (12.9%) would opt-out.
+A lower percentage of younger students reported that they would opt-in to vaccination, for example, 35.7% of 9-year-olds and 51.3% of 13-year-olds compared to 77.8% of 17-year-olds would opt-in to take a vaccination.
+Students who were 'opt-out' or 'undecided' (a combined 'vaccine hesitant' group) were more likely to come from deprived socioeconomic contexts with higher rates of home rental versus home ownership and their school locations were more likely to be in areas of greater deprivation.
+They were more likely to smoke or vape, spend longer on social media, feel that they did not belong in their school community but had lower levels of anxiety and depression.
+The vaccine hesitant students- the undecided and opt-out groups- were similar in profile, although the opt-out students had higher reported confirmed or probable previous COVID-19 infection than the opt-in group, whereas those undecided, did not.
+If government vaccination strategies move towards vaccinating younger school-aged students, efforts to increase vaccination uptake may be necessary.
+Compared with students who would opt-in, those who were vaccine hesitant had greater indicators of social deprivation and felt a lack of community cohesion by not feeling a sense of belonging at their school.
+There were indications that those students who would opt-out had higher levels of marginalisation and mistrust.
+If programmes are rolled out, focus on hesitant younger students will be important, targeting more marginalised and deprived young people with information from trusted sources utilising social media; improving access to vaccination centres with provision both in and outside school; and addressing fears and worries about the effects of the vaccine.
+The main limitation of this study is that the participant group may not be wholly representative of England or the UK, which may bias population-level estimates of willingness to be vaccinated.
+The Westminster Foundation, the National Institute for Health Research (NIHR) Applied Research Collaboration Oxford and Thames Valley at Oxford Health NHS Foundation Trust and the NIHR Oxford Health Biomedical Research Centre.

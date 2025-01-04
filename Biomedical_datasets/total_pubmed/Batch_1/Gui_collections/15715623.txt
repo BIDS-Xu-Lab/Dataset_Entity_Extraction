@@ -1,0 +1,10 @@
+This study observed adverse events of rescue treatment with high-frequency oscillatory ventilation (HFOV) in head-injured patients with acute respiratory distress syndrome (ARDS).
+Data of five male patients with ARDS and traumatic brain injury, median age 28 years, who failed to respond to conventional pressure-controlled ventilation (PCV) were analyzed retrospectively during HFOV.
+Adjusted mean airway pressure at initiation of HFOV was set to 5 cm H2O above the last measured mean airway pressure during PCV.
+Frequency of pulmonary air leak, mucus obstruction, tracheal injury, and need of HFOV termination due to increased intracranial pressure, decreased cerebral perfusion pressure, or deterioration in P(a)CO2 were analyzed.
+During HFOV we found no complications.
+We recorded 390 datasets of intracranial pressure, cerebral perfusion pressure and P(a)CO2 simultaneously.
+Intracranial pressure increased (>25 mmHg) in 11 of 390 datasets, cerebral perfusion pressure was reduced (<70 mmHg) in 66 of 390 datasets, and P(a)CO2 variations (<4.7 kPa; >6.0 kPa) were observed in eight of 390 datasets after initiation of HFOV.
+All these alterations were responsive to treatment.
+P(a)O2/F(I)O2-ratio improved in four patients during HFOV.
+High-frequency oscillatory ventilation appears to be a promising alternative rescue treatment in head-injured patients with ARDS if continuous monitoring of intracranial pressure, cerebral perfusion pressure and P(a)CO2 are provided, in particular during initiation of HFOV.

@@ -1,0 +1,14 @@
+G/C polymorphism with the risk of colorectal cancer (CRC).
+This meta-analysis quantitatively assesses the results from published studies to provide a more precise estimate of the association between survivin -31 G/C polymorphism as a possible predictor of the risk of CRC.
+We conducted a literature search in the PubMed, Web of Science, and Cochrane Library databases.
+Stata 12 software was used to calculate the pooled odds ratios (ORs) with 95% confidence intervals (CIs) based on the available data from each article.
+Six studies including 1840 cases with CRC and 1804 controls were included in this study.
+Survivin -31 G/C polymorphism was associated with a significantly increased risk of CRC (OR = 1.78; 95% CI, 1.53-2.07; I(2)
+G/C polymorphism had increased CRC risk.
+G/C polymorphism was not associated with colon cancer risk (OR = 2.02; 95% CI, 0.79-5.22; I(2) = 82%).
+However, this polymorphism was significantly associated with rectum cancer risk (OR = 1.98; 95% CI, 1.42-2.74; I(2) = 0%).
+G/C polymorphism (OR = 1.61; 95% CI, 1.20-2.16; I(2) = 0% and OR = 2.30; 95% CI, 1.70-3.13; I(2) = 0%, respectively).
+In the subgroup analysis by smoke status, both smokers and non-smokers with survivin -31 G/C polymorphism showed increased CRC risk (OR = 1.47; 95% CI, 1.01-2.13; I(2) = 60% and OR = 1.71; 95% CI, 1.28-2.30; I(2) = 0%, respectively).
+In the subgroup analysis by drink status, both drinkers and non-drinkers with survivin -31 G/C polymorphism showed increased CRC risk (OR = 1.58; 95% CI, 1.06-2.37; I(2)
+= 8% and OR = 1.61; 95% CI, 1.23-2.11; I(2) = 0%, respectively).
+G/C polymorphism may be associated with the risk of CRC.

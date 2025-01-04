@@ -1,0 +1,11 @@
+This study aimed to describe the care provide by Emergency Medical Services (EMS) to severe sepsis patients being transferred between acute care hospitals and identify how that care contributes to sepsis care goals.
+This was a single-center retrospective cohort study conducted at a 60,000-visit Midwestern academic emergency department, using run reports from 13 ambulance services transferring from 9 hospitals.
+39 patients were included in the final cohort, transferred by 13 ambulance services from 9 hospitals.
+Included patients were adults with severe sepsis transferred by ambulance between 2009 and 2014.
+Thirty-nine patients were included in this cohort.
+41% (n = 12) of patients received an adequate fluid bolus of 30 mL/kg (median 42.9 mL/kg crystalloid fluid, IQR 8.0 mL/kg) prior to tertiary care arrival.
+Seventeen percent (n = 2) of patients completed the adequate bolus during transfer time.
+Broad-spectrum antibiotics were initiated during transfer in 2 patients.
+EMS sepsis care during transfer was limited.
+EMS crews primarily continued treatments previously initiated and did not take additional steps toward resuscitation targets.
+Data suggests the inter-emergency department transfer period may provide an opportunity to continue working toward treatment targets, though the time is currently underutilized.

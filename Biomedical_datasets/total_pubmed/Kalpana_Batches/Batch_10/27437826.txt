@@ -1,0 +1,20 @@
+To evaluate the safety and pharmacokinetics of MIV-150 and zinc acetate in a carrageenan gel (PC-1005).
+Acceptability, adherence, and pharmacodynamics were also explored.
+A 3-day open-label safety run-in (n = 5) preceded a placebo-controlled, double-blind trial in healthy, HIV-negative, abstinent women randomized (4:1) to vaginally apply 4 mL of PC-1005 or placebo once daily for 14 days.
+Assessments included physical examinations, safety labs, colposcopy, biopsies, cervicovaginal lavages (CVLs), and behavioral questionnaires.
+MIV-150 (plasma, CVL, tissue), zinc (plasma, CVL), and carrageenan (CVL) concentrations were determined with LC-MS/MS, ICP-MS, and ELISA, respectively.
+CVL antiviral activity was measured using cell-based assays.
+Safety, acceptability, and adherence were analyzed descriptively.
+Pharmacokinetic parameters were calculated using noncompartmental techniques and actual sampling times.
+CVL antiviral EC50 values were calculated using a dose-response inhibition analysis.
+Participants (n = 20) ranged from 19-44 years old; 52% were black or African American.
+Among those completing the trial (13/17, PC-1005; 3/3, placebo), 11/17 reported liking the gel overall; 7 recommended reducing the volume.
+Adverse events, which were primarily mild and/or unrelated, were comparable between groups.
+Low systemic MIV-150 levels were observed, without accumulation.
+Plasma zinc levels were unchanged from baseline.
+Seven of seven CVLs collected 4-hour postdose demonstrated antiviral (HIV, human papillomavirus) activity.
+High baseline CVL anti-herpes-simplex virus type-2 (HSV-2) activity precluded assessment of postdose activity.
+PC-1005 used vaginally for 14 days was well tolerated.
+Low systemic levels of MIV-150 were observed.
+Postdose CVLs had anti-HIV and anti-human papillomavirus activity.
+These data warrant further development of PC-1005 for HIV and sexually transmitted infection prevention.

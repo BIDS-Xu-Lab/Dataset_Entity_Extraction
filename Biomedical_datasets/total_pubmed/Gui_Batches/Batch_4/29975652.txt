@@ -1,0 +1,10 @@
+The mechanisms responsible for the imbalance between oxidants and antioxidants in sheep infected with Haemonchus contortus are not well established.
+This study aimed to prove the hypothesis that oxidative stress occurring during infection by H. contortus varies according to breed, and that the parasite burden correlates with hypoalbuminaemia and anaemia.
+Thus, after deworming and confirming the absence of infection, two different sheep breeds, Suffolk (n = 15) and Santa Ines (n = 22), were orally inoculated with a single dose of 5,000 L3 of H. contortus.
+The egg counts per gram of faeces (EPG), packed cell volume (PCV) and concentrations of several plasma markers of oxidative stress (lipid peroxidation, albumin, uric acid, total bilirubin, total antioxidant capacity [TAC], total oxidant concentration [TOC] and the oxidative stress index [OSI]) were quantified before (control group) and during the experimental infection (28, 34 and 42 days post-inoculation).
+In both breeds, TOC increased at 28 days and TAC increased at 42 days.
+In Suffolk sheep, there was a positive correlation of EPG with oxidant components (28 days) and a negative correlation of EPG with PCV (42 days).
+In Santa Ines sheep, there was a positive correlation of EPG with bilirubin (r = 0.492; p = 0.020).
+H. contortus infection caused oxidative stress, which varied according to the breed.
+Parasite burden was not associated with hypoalbuminaemia, whereas there was a negative correlation with PCV.
+This research provides the first evidence that the antioxidant status contributes more to the resilience to H. contortus in Santa Ines sheep compared to Suffolk sheep.

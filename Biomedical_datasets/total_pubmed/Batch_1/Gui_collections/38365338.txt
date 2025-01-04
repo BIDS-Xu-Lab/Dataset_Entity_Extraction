@@ -1,0 +1,12 @@
+Extreme bradycardia, extreme tachycardia, ventricular flutter fib, and ventricular tachycardia are four malignant arrhythmias (MAs) that lead to sudden cardiac death.
+It is very important to detect them in daily life.
+The arterial blood pressure (ABP) signal contains abundant pathological information about four MAs and is easy to be recorded under domestic conditions.
+Thus, a synthesis-by-analysis (SA) modeling method for ABP signal was proposed to detect the four MAs in this study.
+The average models of MAs and healthy subjects were obtained by SA modeling, and the change of each ABP wave was quantitively described by twelve parameters of wave models.
+Then, the probabilistic neural network (PNN) and random forest (RF) are trained to detect the MAs.
+The experimental data were employed from Fantasia and the 2015 PhysioNet/CinC Challenge databases.
+The SA modeling results show that some pathological and physiological changes could be extracted from the average models.
+The two-sample ks-test results between different groups are markedly different (h = 1, p < 0.05).
+The detection results show that the performances of PPN classifiers are less than that of RF.
+The kappa coefficients (KC) for the RF classifiers are 97.167 ± 1.46 %, 97.888 ± 0.808 %, 99.895 ± 0.545 %, 98.575 ± 1.683 % and 92.241 ± 1.517 %, respectively.
+Compared to the performance of some existing studies, the proposed method has better performance and is potential to diagnose MAs in m-health.

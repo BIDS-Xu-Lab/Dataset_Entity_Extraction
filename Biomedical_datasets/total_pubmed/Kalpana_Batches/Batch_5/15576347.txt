@@ -1,0 +1,9 @@
+Estrogen has a profound impact on human physiology and affects numerous genes.
+The classical estrogen reaction is mediated by its receptors (ERs), which bind to the estrogen response elements (EREs) in target gene's promoter region.
+Due to tedious and expensive experiments, a limited number of human genes are functionally well characterized.
+It is still unclear how many and which human genes respond to estrogen treatment.
+We propose a simple, economic, yet effective computational method to predict a subclass of estrogen responsive genes.
+Our method relies on the similarity of ERE frames across different promoters in the human genome.
+Matching ERE frames of a test set of 60 known estrogen responsive genes to the collection of over 18,000 human promoters, we obtained 604 candidate genes.
+Evaluating our result by comparison with the published microarray data and literature, we found that more than half (53.6%, 324/604) of predicted candidate genes are responsive to estrogen.
+We believe this method can significantly reduce the number of testing potential estrogen target genes and provide functional clues for annotating part of genes that lack functional information.

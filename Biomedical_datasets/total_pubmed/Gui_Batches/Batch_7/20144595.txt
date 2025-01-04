@@ -1,0 +1,9 @@
+Osteopontin (OPN) is an important modulator of urolithiasis formation.
+Three functional polymorphisms (-66T/G, -156delG/G, and -443T/G) on the promoter region of the OPN gene have been found to affect the gene expression and transcriptional activity.
+This study investigated the association of those three functional polymorphisms with the risk of calcium urolithiasis.
+A total of 249 cases diagnosed with calcium urolithiasis and 247 age- and sex-matched healthy controls were recruited from Kaohsiung Medical University Hospital between June, 2003 and February, 2007.
+All subjects completed a detailed questionnaire survey, and provided blood and urine samples for biochemical evaluations.
+Three single nucleotide polymorphisms were determined by using TaqMan 5' allelic discrimination assay.
+In-156delG/G polymorphism, subjects who carried delG allele had a significantly higher risk of developing calcium urolithiasis than those with G allele (odds ratio=1.39; 95% confidence interval=1.02-1.90; P=0.037).
+In stone cases, subjects with delG/G and delG/delG genotypes also had significantly higher urinary ratio of calcium to OPN than those with G/G genotype (11.8+/-15.9 vs 7.08+/-5.26, P=0.021).
+The -156 delG/G polymorphism of OPN gene could serve as a candidate genetic marker used to evaluate the risk of calcium urolithiasis.

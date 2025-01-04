@@ -1,0 +1,14 @@
+Intermediate structures of human fibrin formed under physiological conditions were investigated by means of light scattering in the course of the polymer/network formation.
+Very low fibrinogen concentrations (c = 0.03--0.13 mg/ml) were used to lower the polymerization rate, and thrombin at five concentrations (0.0085--0.04 N.I.H./ml) was used for initiation.
+The light scattering data were evaluated from (i) a Zimm plot, (ii) a Holtzer plot, i.e., hRtheta/Kc vs. h2, and (iii) a Kratky plot, i.e., h2Rtheta/KC vs. h2.
+In the beginning of the polymerization process rod-like structures are formed.
+The dimensions of the rod-like monomeric unit in the fibrin polymer are 112 X 3.9 nm and agree with the dimensions of fibrinogen, which also was found to be a thin rod of 105 +/- 10 nm length and 3.9 nm diameter.
+The mass per unit length, obtained from the asymptote in the Holtzer plot, initially increases only slightly but for high thrombin concentrations increases steeply when a critical length of 1000 nm is exceeded.
+At this point also the total scattering behaviour changes considerably.
+The upturn in the Zimm plot and the occurrence of a maximum in the Kratky plot are clear indications for the onset of branching.
+At low thrombin concentrations the kink in the curve of Mw/Lw against Mw becomes smoothed out because of nonspecific side-by-side aggregation of fibrin strands.
+The results are discussed and compared with earlier findings by others, and lead to the following conclusions.
+(i) Fibrinogen is a polymer with some flexibility and can exist in conformations of a stretched rod 105 nm in length, a folded rod of 45 nm in length, and a banana-like conformation of 94 nm circumference.
+(ii) Under the conditions of the present work, fibrinogen has the thin stretched rod conformation, and has the same dimensions as the repeating unit in the fibrin polymer.
+10--12 units, end-to-end aggregated monomer branching occurs.
+(iv) The end-to-end aggregation is promoted by the cleavage of A peptides, branching is caused by the cleavage of B peptides while side-by-side aggregation of strands is caused by nonspecific van der Waals interaction.

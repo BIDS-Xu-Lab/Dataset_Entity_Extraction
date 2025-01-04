@@ -1,0 +1,8 @@
+Randomly amplified polymorphic DNA (RAPD), successfully used to establish flower colour, is of limited importance in characterising weedy varieties of Lantana camara.
+Initially the internal transcribed spacer 1 (ITS1) region was sequenced for common pink and common pink-edged red varieties of L. camara from Australia and L. urticofolia from the neotropics.
+This proved unhelpful in differentiating varieties due to a lack of variation and the hybrid origin of L. camara, necessitating the utilisation of DNA profiling techniques.
+Unweighted pair group method arithmetic average (UPGMA) analysis of RAPD data demonstrated that geographical proximity contributes more significantly to genetic relatedness than flower colour.
+Analysis of molecular variance (AMOVA) likewise demonstrated that geography accounts for a relatively large variance component.
+These data indicate that the use of flower colour as a primary identification tool needs to be reevaluated.
+The use of RAPD may prove useful in characterising the weedy varieties of lantana present in Australia and the South Pacific.
+Since biological control efforts are being hindered by the inadequacy of current morphological taxonomy, it is expected that DNA profiling will underpin continuing studies on the management and control of L. camara.

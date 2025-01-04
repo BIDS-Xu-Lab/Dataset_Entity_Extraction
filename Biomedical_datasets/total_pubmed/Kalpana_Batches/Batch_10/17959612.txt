@@ -1,0 +1,12 @@
+For clinical grade human embryonic stem cell (hESC) lines, a robust derivation system without any substances having animal origin would be required.
+We have gradually improved our hESC derivations.
+Human skin fibroblasts were used as feeder cells in derivation of all our 25 permanent fully characterized hESC lines.
+In the first four derivations, fetal calf serum was used as a supplement in the medium, thereafter, serum replacement medium was used.
+Immunosurgery generally used for isolation of the inner cell mass (ICM) still involves animal serum and complement.
+We developed a practical mechanical isolation method for the ICM.
+Two flexible metal needles with sharpened tips, 0.125 mm in diameter, were used to open the zona pellucida and extract the ICM under a stereomicroscope.
+Immunohistochemical and karyotype characterization of the new hESC lines was carried out, and pluripotency was tested in vitro (immunocytochemistry and RT-PCR) and in vivo (teratoma growth).
+Five hESC lines were obtained from 19 supernumerary blastocysts collected in 2005-2006 (26%), whereas in similar conditions, we obtained 16 lines from 100 blastocysts (16%) using immunosurgery in 2003-2005.
+The new lines had a normal karyotype and tissues originating from the three embryonic germ cell layers were present.
+Mechanical isolation of the ICM proved to be an effective way to derive new hESC lines.
+The technique is fast, does not require any extra investment and the xeno-components of immunosurgery could be avoided.

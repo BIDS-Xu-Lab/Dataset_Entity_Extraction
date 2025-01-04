@@ -1,0 +1,16 @@
+Survival analysis is commonly used to determine the treatment effect among acute lymphoblastic leukemia (ALL) patients who undergo allogeneic stem cell transplantation (allo-SCT) or other treatments.
+The aim of this study was to evaluate the use and reporting of survival analyses in these articles.
+We performed a systematic review by searching the MEDLINE, EMBASE and Cochrane library databases from inception to April 2015.
+Clinical trials of patients with ALL comparing allo-SCT compared to another treatment were included.
+We included only studies that used survival analysis as a part of the statistical methods.
+There were 14 studies included in the review.
+Sample size estimation was described in 4 (29 %) studies.
+Only 4 (29 %) studies reported the list of covariates assessed in the Cox regression and 6 (43 %) studies provided a description of censorship.
+All studies reported survival curves using the Kaplan-Meier method.
+The comparisons between groups were investigated using the log-rank test and Wilcoxon test.
+Crossing survival curves were observed in 11(79 %) studies.
+The Cox regression model was incorporated in 10 (71 %) studies.
+None of the studies assessed the Cox proportional hazards assumption or goodness-of-fit.
+The use and reporting of survival analysis in adult ALL patients undergoing allo-SCT have significant limitations.
+Notably, the finding of crossing survival curves was common and none of the studies assessed for the proportional hazards assumption.
+We encourage authors, reviewers and editors to improve the quality of the use and reporting of survival analysis in the hematology literature.

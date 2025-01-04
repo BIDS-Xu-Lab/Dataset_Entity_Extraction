@@ -1,0 +1,6 @@
+Often compared to the practice of manual palpation, magnetic resonance elastography is an emerging technology for quantitatively assessing the mechanical properties of tissue as a basis for characterizing disease.
+The potential of MRE as a diagnostic tool is rooted in the fact that normal and diseased tissues often differ significantly in terms of their intrinsic mechanical properties.
+MRE uses magnetic resonance imaging (MRI) in conjunction with the application of mechanical shear waves to probe tissue mechanics.
+This process can be broken down into three essential steps: inducing shear waves in the tissue,imaging the propagating shear waves with MRI, andanalyzing the wave data to generate quantitative images of tissue stiffness MRE has emerged as a safe, reliable and noninvasive method for staging hepatic liver fibrosis, and is now used in some locations as an alternative to biopsy.
+MRE is also being used in the ongoing investigations of numerous other organs and tissues, including, for example, the spleen, kidney, pancreas, brain, heart, breast, skeletal muscle, prostate, vasculature, lung, spinal cord, eye, bone, and cartilage.
+In the article that follows, some fundamental techniques and applications of MRE are summarized.

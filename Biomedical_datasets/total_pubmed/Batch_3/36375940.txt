@@ -1,0 +1,10 @@
+Many investigations suggest that dissimilatory arsenate-respiring prokaryotes (DARPs) play a key role in stimulating reductive mobilization of As from solid phase into groundwater, but it is not clear how environmental Mn(II) affects the DARPs-mediated reductive mobilization of arsenic.
+To resolve this issue, we collected soil samples from a realgar tailings-affected area.
+We found that there were diverse arsenate-respiratory reductase (arr) genes in the soils.
+The microbial communities had high arsenate-respiring activity, and were able to efficiently stimulate the reductive mobilization of As.
+Compared to the microcosms without Mn(II), addition of 10 mmol/L Mn(II) to the microcosms led to 23.99%-251.79% increases in the microbial mobilization of As, and led to 133.3%-239.2% increases in the abundances of arr genes.
+We further isolated a new cultivable DARP, Bacillus sp.
+It completely reduced 1 mmol/L As(V) in 5 days under the optimal reaction conditions.
+We further found that it was able to efficiently catalyze the reductive mobilization and release of As from the solid phase; the addition of 2 mmol/L Mn(II) led to 98.49%-248.78% increases in the F11 cells-mediated reductive mobilization of As, and 70.6%-104.4% increases in the arr gene abundances.
+These data suggest that environmental Mn(II) markedly increased the DARPs-mediated reductive mobilization of As in arsenic-contaminated soils.
+This work provided a new insight into the close association between the biogeochemical cycles of arsenic and manganese.

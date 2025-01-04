@@ -1,0 +1,11 @@
+The Alzheimer disease (AD) continuum is a neurodegenerative disorder with cognitive decline and pathologic changes.
+Tau PET imaging can detect tau pathology, and 18F-flortaucipir PET imaging is expected to visualize progression through the stages of AD, for which quantitative assessment is essential.
+Two measurement methods, statistically defined multiblock barycentric discriminant analysis (MUBADA)/parametric estimation of reference signal intensity (PERSI) and anatomically defined tau meta-volume of interest (VOI)/cerebellar gray matter (CGM) for SUV ratio (SUVR), were compared in this study to assess their relationship to AD clinical stage using 2 open multicenter PET databases.
+Methods: Data were selected for 106 cases from 2 databases, AMED Preclinical AD study (AMED-PRE) (n = 15) and Alzheimer Disease Neuroimaging Initiative 3 (n = 91).
+The data of the participants were categorized into 4 groups based on the clinical criteria.
+Tau PET imaging was conducted using 18F-flortaucipir, and the 2 SUVR measurement methods, MUBADA/PERSI and tau meta-VOI/CGM, were compared among different clinical categories: amyloid-negative cognitively normal, preclinical AD, amyloid-negative mild cognitive impairment (MCI), and amyloid-positive MCI.
+Significant differences were found between cognitively normal and preclinical AD, as well as between cognitively normal and amyloid-positive MCI and between amyloid-negative MCI and -positive MCI in SUVR derived by MUBADA/PERSI, whereas SUVR by tau meta-VOI/CGM did not provide significant differences between any pair.
+The tau meta-VOI/CGM method consistently provided higher SUVRs and larger individual variations than MUBADA/PERSI, with a mean SUVR difference of 0.136 for the studied databases.
+Conclusion: MUBADA/PERSI provided the SUVR of 18F-flortaucipir uptake with better association with the clinical severity of the AD continuum and with smaller variability.
+The results support the usefulness of MUBADA/PERSI as a quantitative measure of 18F-flortaucipir uptake in multicenter studies using different PET systems and scanning methods.
+However, limitations of the study include the small sample size and the unbalanced distribution among clinical categories in the AMED Preclinical AD study database.

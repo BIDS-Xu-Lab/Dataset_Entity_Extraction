@@ -1,0 +1,11 @@
+Although pivotal trials have demonstrated efficacy of anti-vascular endothelial growth factor therapy in neovascular age-related macular degeneration, there is a paucity of clinical data about the long-term (>5 years) treatment.
+Retrospective analysis of all patients with neovascular age-related macular degeneration who were actively treated, had received >40 anti-vascular endothelial growth factor injections, and were followed for ≥5 years.
+Snellen-corrected visual acuity, initial drug choice, and times elapsed between treatments were collected.
+Rates of endophthalmitis and outcomes of submacular hemorrhage were also evaluated.
+A total of 88 patients (162 eyes) met the inclusion criteria: the average patient age was 86.3 years with an average follow-up period of 7.6 years.
+The average total number of injections per eye was 69 (18.0 SD); a total of 11,208 injections were given throughout the study period, and 6 cases (0.05%) of endophthalmitis were observed.
+Overall, there was a clinical and statistical difference in average Snellen-corrected visual acuity at Injections #2,#3, #4, #5, #6, #10, and #20, as compared with baseline ( P = 0.03, P < 0.01, P = 0.02, P < 0.01, P = 0.01, P = 0.01, P < 0.01, respectively).
+Patients in the Snellen-corrected visual acuity subgroup 20/20 to 20/40 maintained vision until injection #30.
+Seven eyes experienced a visually significant submacular hemorrhage.
+This neovascular age-related macular degeneration cohort received on average eight anti-vascular endothelial growth factor injections per year for approximately 8 years; eyes with good (≥20/40) initial baseline vision maintained their visual acuity, whereas those with worse Snellen-corrected visual acuity (≤20/50) had a robust initial improvement that diminished with time.
+Most patients were maintained on the same initial drug of choice and the rate of endophthalmitis was low.

@@ -1,0 +1,5 @@
+Multiplexed imaging and spatial transcriptomics enable highly resolved spatial characterization of cellular phenotypes, but still largely depend on laborious manual annotation to understand higher-order patterns of tissue organization.
+As a result, higher-order patterns of tissue organization are poorly understood and not systematically connected to disease pathology or clinical outcomes.
+To address this gap, we developed an approach called UTAG to identify and quantify microanatomical tissue structures in multiplexed images without human intervention.
+Our method combines information on cellular phenotypes with the physical proximity of cells to accurately identify organ-specific microanatomical domains in healthy and diseased tissue.
+We apply our method to various types of images across healthy and disease states to show that it can consistently detect higher-level architectures in human tissues, quantify structural differences between healthy and diseased tissue, and reveal tissue organization patterns at the organ scale.

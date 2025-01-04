@@ -1,0 +1,13 @@
+According to several studies, despite of the existence of several published guidelines for dosing adjustments based on renal function, inappropriate prescribing is a common drug-related problem in inpatient care.
+We developed and implemented a system for drug dosage adjustment integrated into the Hospital computer provider order entry system.
+This system allows pharmacists to identify patients with reduced renal function, identify medication orders that may require dosage modifications based on renal function, and generate an alert with a recommendation of specific dosage adjustment.
+Using the Summary of Product Characteristics and two drug databases (Micromedex 2.0® and Lexicomp®), specific dosage guidelines for drugs used in patients with renal impairment were established.
+We performed a quasi-experimental, one-group, pretest-posttest study to assess the efficacy of this intervention program.
+We compared the differences between the frequency of appropriate orders pre- and post-test using the McNemar test.
+the frequency of appropriate orders before the recommendation (pre-test)
+Before the intervention, the frequency of appropriate prescribing based on renal function was 65 %.
+After the intervention, this frequency was 86 % (p < 0.001).
+The interventions were more frequent in the emergency department (45 %).
+The program required 30-45 min of pharmacist time per day.
+The average number of patients reviewed daily was 28.
+This study found that a computer-based, semi-automated drug-dosage program for renal failure patients was able to reduce the number of inappropriate orders due to renal insufficiency.

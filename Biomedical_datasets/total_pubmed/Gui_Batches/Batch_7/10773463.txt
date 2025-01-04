@@ -1,0 +1,9 @@
+A novel microsatellite homologous to DYS391, a (GATA)(n) short tandem repeat on the human Y chromosome, was identified and characterized in the present work.
+Employing somatic cell hybrid and deletion panels in a PCR-based approach, we found out that the new microsatellite is located in Xp21.2-22.3, while its Y counterpart mapped to Yq11.21.
+This X-linked locus (provisionally called DXYS391) and its Y homolog constitute one more example of similarity outside the pseudoautosomal regions between the two human sex chromosomes.
+Sequencing data showed high levels of homology in the flanking regions of DXYS391 and DYS391 that differ primarily by the presence of a (GACA)(3) motif in the Y locus.
+Both loci were detected in chimpanzee DNA, suggesting that a putative transposition from the X to the Y occurred before the human/chimpanzee split.
+The allele frequencies of DYS391 and DXYS391 were investigated, respectively, in 271 Y and 337 X chromosomes from distinct human populations worldwide.
+DYS391 consistently displayed greater among-population component of the variance of the allele frequencies than DXYS391, as expected due to the three-times lower effective population size of Y chromosomes relative to the X.
+The intra-population diversity of DYS391, measured by Nei's locus diversity as well as by allele size variance, was lowest in Amerindians, while very low diversity of DXYS391 was seen in Africans.
+Since our African data are based on a small sample, further studies will be necessary to evaluate better this observation.

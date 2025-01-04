@@ -1,0 +1,14 @@
+This study was planned to investigate the anti-arthritic property of flowers of E. crassipes in a Sprague-Dawley rat model by administering Freund's Complete Adjuvant (FCA).
+Materials and Methods: Arthritis was induced at day 0 in all rats except negative controls, while arthritic progress and paw edema were analyzed on specific days (8th, 13th, 18th, and 23rd) via the macroscopic arthritic scale and a digital Vernier caliper, respectively.
+Histopathological parameters were examined using a Hematoxylin and Eosin (H&E) staining method.
+Blood samples were withdrawn from rats to investigate the effects of the E. crassipes flower on the mRNA expression values of inflammatory markers, via a reverse transcription PCR technique.
+Serum samples were used to determine prostaglandin E2 (PGE2) levels using enzyme-linked immunosorbent assay (ELISA).
+Values of alanine transaminase (ALT), aspartate aminotransferase (AST), creatinine, and urea, besides hematological parameters, i.e., the hemoglobin (Hb) content and complete blood count (CBC), were investigated.
+The data showed that E. crassipes inhibited the arthritic progress and ameliorated the paw edema.
+The amelioration of parameters assessed via the histopathological analysis of ankle joints, as well as via hematological analysis, confirmed the diminution of rheumatoid arthritis (RA) in the plant-treated groups.
+Treatment with E. crassipes inhibited the expression levels of tumor necrosis factor-α (TNF-α), interleukins (IL-1β and IL-6), nuclear factor KappaB (NF-κB), matrix metalloproteinase (MMP-2 and MMP-3), and vascular endothelial growth factor (VEGF).
+Serum PGE2 levels were also found to be reduced in treatment groups.
+A biochemical investigation revealed the improvements in hepatic markers in plant-treated groups.
+The data indicated that the plant has no hepatotoxic or nephrotoxic effects at the studied dose.
+GC-MS (Gas Chromatography-Mass Spectrometry) analysis displayed the presence of phytochemicals having known anti-inflammatory and antioxidant properties.
+Therefore, it may be concluded that E. crassipes possesses anti-arthritic characteristics that could be attributed to the modulation of pro-inflammatory cytokines, MMPs, and PGE2 levels.

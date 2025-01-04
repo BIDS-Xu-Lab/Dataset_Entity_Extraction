@@ -1,0 +1,7 @@
+Radiologists and ancillary personnel in a radiology department frequently access a variety of paper-based information during their workday to facilitate decision making.
+This information can be as mundane as telephone numbers and work schedules or as important as a detailed emergency procedure for treating a patient with a severe contrast reaction.
+We have installed some hierarchical, textual database systems on the same computer that runs our radiology information system.
+Several different databases are maintained, including protocol manuals, emergency procedures, and a directory of telephone and pager numbers.
+This information is accessible from any terminal connected to our radiology information system and from any personal computer connected to our department's local area network or terminal server.
+Advantages include decreased costs from the photocopying, consumption, and distribution of paper; ubiquitous access for all users to a single source of information; faster and more powerful ways to access data than paper-based media provide; decreased risk of inadvertently using information from an obsolete document; and convenience in maintaining computerized versus paper-based information.
+Because we use software that is either free or that came with our computer's operating system, no additional software costs were involved.

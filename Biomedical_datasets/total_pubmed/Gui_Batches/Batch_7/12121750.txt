@@ -1,0 +1,5 @@
+A biosensor based on the surface plasmon resonance (SPR) principle was used for kinetic analysis of lectin interactions with different immobilized saccharide structures.
+A novel affinity ligands beta-D-glycopyranosylmethylamines derived from common D-aldohexoses linked to the carboxymethyl dextran layer of the SPR sensor surface served for interactions with a wide range of lectins.
+The method of preparation and use of the beta-D-mannopyranosyl glycosylated sensor surface was described.
+The results of affinity analysis of lectin-ligand interactions were evaluated and compared with data obtained from measurements using commercially available p-aminophenyl alpha-D-glycopyranosides.
+Possible applications and advantages of C- and O-glycosylated SPR biosensors are discussed.

@@ -1,0 +1,14 @@
+Children with single ventricle (SV) heart disease who undergo Fontan operation are at risk for developing multiorgan dysfunction.
+Although survival has improved, significant comorbidities involving multiple organ systems may develop, requiring evaluation and management by many subspecialists.
+Using data from an internal survey, we documented high care variability for our Fontan population.
+We then developed a multidisciplinary clinic, designed and implemented a clinical care pathway to decrease variability of patient assessment.
+After creating a multidisciplinary team and a clinical care pathway, we initiated a multidisciplinary clinic (MDC) where patients could see multiple subspecialists during a single encounter.
+We then monitored our effectiveness by retrospective chart review to determine care pathway adherence (process measure) and incidence of new diagnoses of end-organ injury (outcome measure) as well interventions implemented.
+Adherence was analyzed using statistical process control (SPC) charts.
+Eighty-six patients were seen in the MDC from January 2016 to September 2017.
+The proportion of patients with appropriate testing increased, related to strong care pathway adherence.
+A significant amount of novel pathology was diagnosed in all evaluated organ systems, both Fontan-associated comorbidities and general pediatric diagnoses.
+Subsequent interventions included cardiac catheterization n = 21 (31%) with more than half of these patients undergoing intervention n = 17 (20%), and liver biopsy n = 9 (10%).
+Additionally, 58 patients (67%) were referred to a neuropsychologist based on perceived clinical need, with n = 34 (40%) undergoing a neuropsychological evaluation.
+Children who have undergone Fontan palliation are at risk for developing cardiac and noncardiac comorbidities.
+Use and adherence to an institutional care pathway resulted in the diagnosis of significant novel pathology and subsequently provided opportunity for intervention.

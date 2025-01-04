@@ -1,0 +1,14 @@
+Ultrasound is increasingly used in evaluating women with pelvic floor dysfunction, including quantification of pelvic organ prolapse (POP).
+The aim of this study was to define the optimal cutoff for uterine descent on translabial ultrasound (TLUS) to predict symptoms of prolapse.
+This was a retrospective study of patients seen for lower urinary tract symptoms and/or POP at a tertiary urogynecological center.
+All patients underwent a standardized interview, 4D TLUS and the International Continence Society Pelvic Organ Prolapse Quantification system (ICS POP-Q) assessment.
+Pelvic organ descent on US was measured relative to the posteroinferior margin of the symphysis pubis (SP) on maximum Valsalva.
+Receiver operator characteristic (ROC) statistics was used to determine the optimal cutoff.
+Mean patient age was 53 years (range 18-88).
+Prolapse symptoms were reported by 263 (49 %).
+Clinically significant POP, i.e., ICS POP-Q  stage ≥2 was found in 74.5 %.
+This comprised a cystocele in 322, uterine prolapse in 63, enterocele in ten, and rectocele in 280 women.
+On TLUS, mean uterine position on Valsalva was 14.3 mm above the SP.
+Prolapse symptoms were strongly associated with uterine descent (20.7 mm vs 7.6 mm, P < 0.001).
+Using ROC statistics with and without excluding women with a dominant prolapse in other compartments, +15 mm was found to be the optimal cutoff for predicting symptoms of prolapse, with areas under the curve of 0.68 and 0.74, respectively.
+An optimal cutoff to predict prolapse symptoms due to uterine descent is a cervix descending to 15 mm above the symphysis pubis on maximum Valsalva.

@@ -1,0 +1,12 @@
+Theories that postulate cognitive inhibition are very common in psychology and cognitive neuroscience [e.g., Hasher, L., Lustig, C., & Zacks, R. T. (2007).
+Inhibitory mechanisms and the control of attention.
+In A. Conway, C. Jarrold, M. Kane, A. Miyake, A. Towse, & J. Towse (Eds.), Variation in working memory (pp. 227-249).
+New York, NY: Oxford, University Press], although they have recently been severely criticized [e.g., MacLeod, C. M., Dodd, M. D., Sheard, E. D., Wilson, D. E., & Bibi, U. (2003).
+In H. Ross (Ed.), The psychology of learning and motivation (Vol. 43, pp. 163-214).
+This paper poses and attempts to answer the question whether a research program with cognitive inhibition as its main theoretical assumption is still worth pursuing.
+We present a set of empirical data from a modified Stroop paradigm that replicates previously reported findings.
+These findings refer to between-trial effects previously described in the literature on Stroop, negative priming, and inhibition-of-return.
+Existing theoretical accounts fail to explain all these effects in an integrated way.
+A repetition-suppression mechanism is proposed in order to account for these data.
+This mechanism is instantiated as a computational cognitive model.
+The theoretical implications of this model are discussed.

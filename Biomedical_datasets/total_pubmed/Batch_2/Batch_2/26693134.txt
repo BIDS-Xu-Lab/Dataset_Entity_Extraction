@@ -1,0 +1,14 @@
+Efforts to control agricultural injuries have been underway for years.
+Yet, very little is known about their trends over time.
+We examined trends in non-fatal agricultural injuries through analyzing injuries reported in a state trauma registry.
+Using Iowa Trauma Registry data collected by the Iowa Department of Public Health, we examined trends in non-fatal agricultural injuries reported by acute care hospitals accredited as Level I, II, and III Trauma Care Facilities from 2005 to 2013.
+Rate ratios and corresponding 95 % confidence intervals were used to examine the burden of non-fatal agricultural injuries across this period.
+Negative binomial regression was used to calculate the average annual change in agricultural injury rates over time.
+Joinpoint regression analysis was used to examine the average annual change in the number of injuries over time.
+Between 2005 and 2013, a total of 1238 agricultural injuries were reported to the trauma registry by Level I, II and III trauma facilities.
+From 2005 to 2013, the rate of agricultural injuries per 100,000 hired workers, ranchers, and farm operators increased by 11 % for every unit increase in year and had nearly tripled over this time period.
+From 2005 to 2008 there was a significant annual increase of 31.74 % in the number of agricultural injuries whereas from 2008 to 2013 there was a non-significant annual increase of 3.70 %.
+The number of moderate and severe/critical injuries increased steadily and significantly over the study period, with annual percent increases of 13 and 20 %, respectively.
+Non-fatal agricultural injuries are rising, although the documented increases could be influenced in some part by treatment patterns in the trauma system, reporting bias or increases in farm work exposure.
+However, these issues do not likely account for all of the increase found, and this calls for an increase in priority of agricultural safety programs.
+Since the majority of research involves fatal injuries, information about non-fatal injuries may help inform new intervention approaches.

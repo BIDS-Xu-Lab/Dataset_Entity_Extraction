@@ -1,0 +1,6 @@
+DNA methylation controls many aspects of plant growth and development.
+Here, we report a novel annual growth potential change that may correlate with changes in levels of the major DNA demethylases and methyltransferases in cotton ovules harvested at different times of the year.
+The abundances of DNA demethylases, at both the mRNA and protein levels, increased significantly from February to August and decreased during the remainder of the 12-month period, with the opposite pattern observed for DNA methyltransferases.
+Over the course of one year, substantial changes in methylcytosine content was observed at certain CHH sites (H = A, C, or T) in the promoter regions of the ETHYLENE RESPONSIVE FACTOR 6 (ERF6), SUPPRESSION OF RVS 161 DELTA 4 (SUR4) and 3-KETOACYL-COA SYNTHASE 13 (KCS13), which regulate cotton fiber growth.
+Three independent techniques were used to confirm the annual fluctuations in DNA methylation.
+Furthermore, in homozygous RNAi lines specifically targeting REPRESSOR OF SILENCING 1 (ROS1, a conserved DNA demethylase domain), promotion of DNA methylation significantly reduced fiber growth during August.

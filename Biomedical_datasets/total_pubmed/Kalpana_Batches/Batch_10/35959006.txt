@@ -1,0 +1,6 @@
+As one of the key subjects of multi-center governance of environmental concerns, public perception is crucial in forming and implementing environmental policy.
+Based on data science research theory and the original theory of public perception, this study proposes a research framework to analyze environmental policy through network text analysis.
+The primary contents are bidirectional encoder representation from transformers-convolution neural network (BERT-CNN) sentiment tendency analysis, word frequency characteristic analysis, and semantic network analysis.
+The realism of the suggested framework is demonstrated by using the waste classification policy as an example.
+The findings indicate a substantial relationship between perceived subject participation and policy pilot areas and that perceived subject participation is repeating.
+On this premise, specific recommendations are made to encourage policy implementation.

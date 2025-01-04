@@ -1,0 +1,11 @@
+To determine the longitudinal associations of long-time mobile phone use (LTMPU) with sleep disturbances and mental distress in a prospective cohort of technical college students.
+A total of 4333 (response rate: 91.5%) and 3396 (response rate: 78.4%) participants were recruited at baseline and 8-month follow-up, respectively.
+Data were collected by a set of questionnaires including socio-demographics, lifestyle practice, duration of mobile phone use per day, sleep patterns on weekdays and weekends, as well as Insomnia Severity Index, Epworth Sleepiness Scale, reduced Morningness-Eveningness Questionnaire, Beck Depression Inventory, and Zung Self-Rating Anxiety Scale.
+LTMPU was defined as using mobile phone ≥4 hours/day.
+At baseline, 23.5% (n = 1020) of the participants reported using mobile phone ≥ 4 hours/day.
+LTMPU at baseline was positively associated with the new incidences (range, adjusted odds ratio 1.31-1.53) of a series of the sleep disturbances and mental distress at follow-up.
+The discontinuation of LTMPU was associated with an amelioration of the risks of most of these problems.
+Cross-lagged analyses revealed bidirectional associations of the duration of mobile phone use with poor sleep and mental health outcomes.
+LTMPU predicts the new incidences of most sleep disturbances and mental distress, while discontinuation of LTMPU is associated with amelioration of these problems.
+Moreover, there are bidirectional associations between the duration of mobile phone use and various sleep and mental outcomes.
+These findings highlight the critical role of prevention and early recognition of excessive mobile phone use and their accompanied mental and sleep problems.

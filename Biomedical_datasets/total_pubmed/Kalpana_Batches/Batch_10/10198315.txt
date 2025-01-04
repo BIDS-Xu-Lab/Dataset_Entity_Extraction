@@ -1,0 +1,12 @@
+We evaluated the hypothesis that long-term caloric restriction and exercise would have beneficial effects on muscle bioenergetics and performance in the rat.
+By themselves, each of these interventions is known to increase longevity, and bioenergetic improvements are thought to be important in this phenomenon.
+Accordingly, we investigated rats that underwent long-term caloric restriction and were sedentary, ad libitum-fed rats permitted to exercise by daily spontaneous wheel running (AE), and the combination of the dietary and exercise interventions (RE).
+Ad libitum-fed, sedentary rats comprised the control group.
+31P NMR spectra of the gastrocnemius muscle (GM) were collected in vivo at rest and during two periods of electrical stimulation.
+Neither caloric restriction nor exercise affected the ratio of phosphocreatine to ATP or pH at rest.
+During the first stimulation and after recovery, the RE group had a significantly smaller decline in pH than did the other groups (P < 0.05).
+During the second period of stimulation, the decrease in pH was much smaller in all groups than during the first stimulation, with no differences observed among the groups.
+The combination of caloric restriction and exercise resulted in a significant attenuation in the decline in developed force during the second period of stimulation (P < 0.05).
+A biochemical correlate of this was a significantly higher concentration of citrate synthase in the GM samples from the RE rats (32.7 +/- 5.4 micromol.
+min-1. g-1) compared with the AE rats (17.6 +/- 5.7 micromol.
+Our experiments thus demonstrated a synergistic effect of long-term caloric restriction and free exercise on muscle bioenergetics during electrical stimulation.

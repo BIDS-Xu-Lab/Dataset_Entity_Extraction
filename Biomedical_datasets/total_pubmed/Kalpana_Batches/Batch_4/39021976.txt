@@ -1,0 +1,7 @@
+Perceived HPWSs (PS-HPWSs) are increasingly indicated for understanding the relationship between organizational HPWSs and employee-level outcomes.
+However, the mediating effect of perceived HPWSs is inconsistent and unclear.
+Hence, relying on integrated HPWS strength and signal theories, we tested whether PS-HPWSs positively mediated the relationship between MR-HPWSs and engagement with data collected from multiple and multilevel sources of 102 department heads and 360 employees of three Ethiopian public higher education institutions from June 03/2023 to September 10/2023.
+We also tested the positive moderation impact of procedural justice between MR-HPWSs and PS-HPWSs and its conditional effect on engagement using the MLmed Beta macro SPSS package.
+Therefore, procedural justice moderates the mediation of PS-HPWSs between manager-rated HPWSs and employee engagement.
+Hence, this study will address the inconsistency of PS-HPWSs between manager-rated HPWSs through the moderation of procedural justice (one of nine features of HPWS strength); this in turn has an ample effect on engagement.
+Accordingly, further research should include one or more of the nine HPWS features as moderators of the mediating effect of PS-HPWSs.

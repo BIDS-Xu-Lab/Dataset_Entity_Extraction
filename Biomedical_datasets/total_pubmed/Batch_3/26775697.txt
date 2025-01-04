@@ -1,0 +1,7 @@
+EMC6 (endoplasmic reticulum membrane protein complex subunit 6), also known as transmembrane protein 93, is a novel positive autophagy regulator.
+In this report, we evaluated the anti-tumor activity of EMC6 in glioblastoma cells in vitro and in vivo.
+Our data show that overexpression of EMC6 in three glioblastoma cell lines (SHG44, U87 and U251) suppresses tumor cell growth by activating autophagy, but fails to induce cell apoptosis.
+EMC6-mediated autophagy was associated with inactivation of the PIK3CA/AKT/mTOR signaling pathway.
+Accordingly, EMC6 knockdown in glioblastoma cells had the opposite effect; it promoted cell growth.
+Overexpression of EMC6 also sensitized glioblastoma cells to the chemotherapy drug, temozolomide, to further suppress tumor growth.
+Our data indicate that EMC6-induced autophagy may play a positive role in suppressing the development of glioblastoma.

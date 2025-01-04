@@ -1,0 +1,11 @@
+Background: Antidepressants are one of the most prescribed medications, particularly for patients with mental disorders.
+Nevertheless, there are still limited data regarding the risk of ventricular arrhythmia (VA) and sudden cardiac death (SCD) associated with these medications.
+Thus, we performed systemic review and meta-analysis to characterize the risks of VA and SCD among patients who used common antidepressants.
+Methods: A literature search for studies that reported risk of ventricular arrhythmias and sudden cardiac death in antidepressant use from MEDLINE, EMBASE, and Cochrane Database from inception through September 2020.
+A random-effects model network meta-analysis model was used to analyze the relation between antidepressants and VA/SCD.
+Under Cumulative Ranking Curve (SUCRA) was used to rank the treatment for each outcome.
+The mean study sample size was 355,158 subjects.
+(95% CI 0.038-1.6) for serotonin and norepinephrine reuptake inhibitors (SNRI), and OR 0.36 (95% CI 0.043, 1.8) for selective serotonin reuptake inhibitors (SSRI), respectively.
+According to SUCRA analysis, TCA was on a higher rank compared to SNRI and SSRI considering the risk of VA/SCD.
+Conclusion: Our network meta-analysis demonstrated the low risk of VA/SCD among patients using antidepressants for SNRI, SSRI and especially, TCA.
+Despite the relatively lowest VA/SCD in TCA, drug efficacy and other adverse effects should be taken into account in patients with mental disorders.

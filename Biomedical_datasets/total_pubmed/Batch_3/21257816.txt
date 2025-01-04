@@ -1,0 +1,11 @@
+Coxiella burnetii is the etiological agent of Q fever.
+Currently, the Netherlands is facing the largest Q fever epidemic ever, with almost 4,000 notified human cases.
+Although the presence of a hypervirulent strain is hypothesized, epidemiological evidence, such as the animal reservoir(s) and genotype of the C. burnetii strain(s) involved, is still lacking.
+We developed a single-nucleotide-polymorphism (SNP) genotyping assay directly applicable to clinical samples.
+Ten discriminatory SNPs were carefully selected and detected by real-time PCR.
+SNP genotyping appeared to be highly suitable for discrimination of C. burnetii strains and easy to perform with clinical samples.
+With this new method, we show that the Dutch outbreak is caused by at least 5 different C. burnetii genotypes.
+SNP typing of 14 human samples from the outbreak revealed the presence of 3 dissimilar genotypes.
+Two genotypes were also present in livestock at 9 farms in the outbreak area.
+SNP analyses of bulk milk from 5 other farms, commercial cow milk, and cow colostrum revealed 2 additional genotypes that were not detected in humans.
+SNP genotyping data from clinical samples clearly demonstrate that at least 5 different C. burnetii genotypes are involved in the Dutch outbreak.

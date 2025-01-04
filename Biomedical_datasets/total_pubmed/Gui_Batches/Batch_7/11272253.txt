@@ -1,0 +1,11 @@
+The genes encoding the subunits of DNA topoisomerase IV (parC and parE) and DNA gyrase (gyrA and gyrB) of Streptococcus pneumoniae were cloned and overproduced in Escherichia coli by using the T7promoter-T7 RNA polymerase system.
+The four subunits were separately purified to near homogeneity by column chromatography.
+Protein purification was achieved by DEAE-sepharose, heparin-agarose, and hydroxylapatite chromatography.
+DNA topoisomerase IV was reconstituted when ParC and ParE were combined at a 3.8-fold excess of ParE.
+The reconstituted topoisomerase IV showed to generate efficient ATP-dependent DNA decatenation activity.
+The DNA gyrase ATP-dependent supercoiling activity was reconstituted by mixing equimolar amounts of the two gyrase subunits.
+The inhibitory effects of four representative fluoroquinolones on the DNA decatenation activity of topoisomerase IV and DNA supercoiling of gyrase have been examined and compared.
+All four compounds were more active in inhibiting topoisomerase IV than gyrase.
+Moreover, there was a positive correlation between the inhibitory activity against topoisomerase IV decatenation and DNA gyrase supercoiling.
+The classification of the four fluoroquinolones, considering their inhibitory activities in decatenation, supercoiling and growth was the following: clinafloxacin > trovafloxacin > sparfloxacin > ciprofloxacin.
+These results suggest these drugs primarily target topoisomerase IV of S. pneumoniae, and gyrase secondarily, in agreement with genetic data.

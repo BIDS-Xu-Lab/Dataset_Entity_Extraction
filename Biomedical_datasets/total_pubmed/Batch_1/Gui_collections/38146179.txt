@@ -1,0 +1,9 @@
+Nurse practitioners (NPs) represent the fastest-growing workforce of primary care clinicians in the United States.
+Their numbers are projected to grow in the near future.
+The NP workforce can help the country meet the rising demand for care services due to the aging population and increasing chronic disease burden.
+Yet, increased burnout among these clinicians may affect their ability to deliver high-quality, safe care.
+We investigated how NP burnout in primary care practices affects patient outcomes, including emergency department (ED) use and hospitalizations, among older adults with chronic conditions.
+In 2018-2019, we collected survey data from 1244 primary care NPs from 6 geographically diverse states on their burnout and merged the survey data with data from Medicare claims on ED use and hospitalizations among 467 466 older adults with chronic conditions.
+Using logistic regression models, we found that with a 1-unit increase in the standardized burnout score, the odds of an ED visit increased by 2.8% (OR = 1.028; P-value = .035); Ambulatory Care Sensitive Conditions (ACSC) ED visit by 3.2% (OR = 1.032; P-value = .019); hospitalization by 3.9% (OR = 1.039; P-value = .001); and ACSC hospitalization by 6.2% (OR = 1.062; P-value = .001).
+Our findings indicate that if chronically ill older adults receive care in primary care practices with higher NP burnout rates they are more likely to use EDs and hospitals.
+Policy and practice efforts, such as improving NP working conditions, should be undertaken to reduce NP burnout in primary care practices to potentially prevent acute care use.

@@ -1,0 +1,6 @@
+The diabetes-prone BioBreeding (BB) and Komeda diabetes-prone (KDP) rats are both spontaneous animal models of human autoimmune, T-cell-associated type 1 diabetes.
+Both resemble the human disease, and consequently, susceptibility genes for diabetes found in these two strains can be considered as potential candidate genes in humans.
+Recently, a frameshift deletion in Ian4, a member of the immune-associated nucleotide (Ian)-related gene family, has been shown to map to BB rat Iddm1.
+In the KDP rat, a nonsense mutation in the T-cell regulatory gene, Cblb, has been described as a major susceptibility locus.
+Following a strategy of examining the human orthologues of susceptibility genes identified in animal models for association with type 1 diabetes, we identified single nucleotide polymorphisms (SNPs) from each gene by resequencing PCR product from at least 32 type 1 diabetic patients.
+Haplotype tag SNPs (htSNPs) were selected and genotyped in 754 affected sib-pair families from the U.K. and U.S. Evaluation of disease association by a multilocus transmission/disequilibrium test (TDT) gave a P value of 0.484 for IAN4L1 and 0.692 for CBLB, suggesting that neither gene influences susceptibility to common alleles of human type 1 diabetes in these populations.

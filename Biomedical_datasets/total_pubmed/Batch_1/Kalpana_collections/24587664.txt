@@ -1,0 +1,13 @@
+To investigate the association between statin use and colorectal cancer risk, we conducted an updated meta-analysis of published studies.
+We performed a comprehensive search for studies published up to July 2013.
+Eligible studies for this meta-analysis were either randomized controlled trials (RCTs) or observational studies (case-control or cohort) evaluating any exposure to statins and the risk of colorectal cancer.
+Two reviewers selected studies based on predefined inclusion criteria, and abstracted the data.
+Pooled relative risk (RR) estimates with their 95%CI were calculated using fixed- and random-effects models.
+Then, we assessed the potential presence of publication bias and between-studies heterogeneity.
+To evaluate the results, we also performed a "leave-one-out" sensitivity analysis.
+A total of 40 studies, involving more than eight million subjects, contributed to the analysis.
+They were grouped on the basis of study design and, consequently, three separate meta-analyses were conducted.
+A similar modest reduction in the risk of colorectal cancer with statin use was observed, which was not statistically significant among RCTs (RR = 0.89, 95%CI: 0.74-1.07; n = 8), but reached statistical significance among cohort studies (RR = 0.91, 95%CI: 0.83-1.00; n = 13) and case-control studies (RR = 0.92, 95%CI: 0.87-0.98; n = 19).
+While we did not find significant evidence of selective outcome reporting or publication bias, substantial heterogeneity was detected, mainly among the observational studies.
+The sensitivity analysis confirmed the stability of our results.
+A modest reduction in risk of colorectal cancer among statin users cannot be disproved.

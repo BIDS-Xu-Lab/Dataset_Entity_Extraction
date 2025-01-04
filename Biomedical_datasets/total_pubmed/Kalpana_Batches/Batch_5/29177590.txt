@@ -1,0 +1,13 @@
+To first evaluate the predictive value of lymph-vascular space invasion (LVSI) and pelvic lymph node metastases (LNM) to parametrial invasion (PI) in patients with early stage cervical cancer.
+A systematic search of electronic databases was conducted to identify publications exploring the association between LVSI, LNM, and PI.
+The following databases were searched: PubMed/Medline and Web of Science.
+Pooling of results was done based on these studies and a diagnostic meta-analysis was performed.
+20 articles and a total of 7373 cases were included in the meta-analysis.
+17 studies analyzed the correlation between LVSI and PI and 18 studies evaluated the correlation between LNM and PI.
+The existence of LVSI accelerated PI with OR being 7.37 (95% CI 5.70-9.54) in fixed-effect model and 7.32 (95% CI 4.65-10.39) in random effects model.
+LVSI shows high sensitivity of 0.80 and the AUC was 0.82.
+The existence of LNM accelerated PI.
+LNM shows the highest specificity of 0.90 and the AUC was 0.77.
+Both LVSI and LNM are associated with PI.
+Conization and lymphadenectomy might be helpful to predict the parametrial status of patients with early stage cervical cancer.
+In addition, the results of this meta-analysis are helpful for designing further prospective clinical trials.

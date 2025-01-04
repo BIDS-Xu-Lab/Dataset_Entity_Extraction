@@ -1,0 +1,8 @@
+Calcein is an intracellular fluorescent probe that has been used as an indicator of cell volume in several previous studies.
+These studies have reported two different fluorescence responses depending on the optical setup used to collect the data: wide-field microscopy has resulted in a decrease in fluorescence upon cell shrinkage, whereas confocal microscopy has been shown to yield the opposite result.
+In this short communication, we have investigated the effect of optical setup on detection of cell volume changes in calcein-stained endothelial cells.
+A confocal microscope was used to collect the fluorescence data, and the pinhole diameter was varied in order to examine the effects of optical section thickness on fluorescence response.
+For large pinhole diameters - which correspond to relatively thick optical sections - fluorescence intensity decreased when cells were induced to shrink.
+In contrast, for small pinhole diameters the fluorescence intensity increased with cell shrinkage.
+The transition between these two types of fluorescence responses occurred when using a pinhole diameter of 285 μm, which corresponds with an optical section thickness slightly less than the height of the cells.
+Our results have implications for the design and interpretation of experiments involving the use of calcein as a cell volume indicator.

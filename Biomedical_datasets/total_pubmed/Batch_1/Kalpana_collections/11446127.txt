@@ -1,0 +1,11 @@
+Assessments of health technologies increasingly include economic evaluations conducted alongside clinical trials.
+One particular concern with economic evaluations conducted alongside clinical trials is the generalizability of results from one setting to another.
+Much of the focus relating to this topic has been on the generalizability of results between countries.
+However, the characteristics of clinical trial design require further consideration of the generalizability of cost data between centers within a single country, which could be important in decisions about adoption of the new technology.
+We used data from a multicenter clinical trial conducted in the United Kingdom to assess the degree of variation in costs between patients and between treatment centers and the determinants of the degree of such variation.
+The variation between patients was statistically significant for both the experimental and conventional treatments.
+However, the degree of variation between centers was only statistically significant for the experimental treatment.
+Such variation appeared to be a result of hospital practice, such as payment mechanisms for staff and provision of hostel accommodation, rather than variations in physical resource use or substantive differences in cost structure.
+Multicenter economic evaluations are necessary for determining the variations in hospital practice and characteristics that can in turn determine the generalizability of study results to other settings.
+Such analyses can identify issues that may be important in adopting a new health technology.
+Analysis is required of similar large multicenter trials to confirm these conclusions.

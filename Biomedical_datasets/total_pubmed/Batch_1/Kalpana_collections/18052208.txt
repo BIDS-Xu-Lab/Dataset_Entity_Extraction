@@ -1,0 +1,12 @@
+Vinca alkaloids vinblastine and vincristine and some of their derivatives such as vinorelbine are widely used in therapy of leukemia and several solid tumors.
+Their action is associated with alterations of the mitotic spindle functions that prevent the cell cycle progression and lead to mitotic block.
+A number of studies show that some Vinca alkaloids inhibit CaM-target interaction.
+The newest microtubule inhibitor, vinflunine (Javlor), currently in clinical trials, is remarkably more active than vinblastine against a number of tumors.
+Moreover, vinflunine is significantly less toxic than other Vinca alkaloids.
+The high antitumor activity of this molecule is not well understood since it binds to tubulin with an overall affinity several-fold lower than that of vinblastine or vincristine.
+In this study, we examined the interaction of Ca2+-CaM with vinflunine, vinblastine, and stable tubule only polypeptide (STOP) by using a combination of thermodynamic and mass spectrometric approaches.
+We characterized the influence of Vinca alkaloids on Ca2+-CaM-STOP complex formation.
+Our results revealed different binding modes to Ca2+-CaM for vinflunine and vinblastine, highlighting that adding fluorine atoms on the cleavamine moiety of the Vinca alkaloid molecule is critical for the localization of the drug on calmodulin.
+We demonstrate that vinflunine is a better inhibitor for STOP binding to calmodulin than vinblastine.
+We suggest that vinflunine action on calmodulin can have an effect on microtubule dynamics.
+These data may contribute to a better understanding of the superior antitumor efficiency and lower toxicity of vinflunine.

@@ -1,0 +1,12 @@
+Regulated import of STAT proteins into the nucleus through the nuclear pores is a vital event.
+We previously identified Arg214/215 in the coiled-coil domain and Arg414/417 in the DNA binding domain involved in the ligand-induced nuclear translocation of Stat3.
+In this study, we investigated the mechanism for Stat3 nuclear transport.
+We report here that among five ubiquitously expressed human importin alphas, importin alpha5 and alpha7, but not importin alpha1, alpha3, and alpha4, bind to Stat3 upon cytokine stimulation.
+Similar results were observed for Stat1, but not for Stat5a and 5b, which were unable to interact with any of the importin alphas.
+The C-terminus of importin alpha5 is necessary but not sufficient for Stat3 binding.
+Truncation mutant of Stat3 (aa1-320) that contains Arg214/215 exhibits specific binding to importin alpha5, and an exclusive nuclear localization.
+Point mutations of Arg214/215 in this mutant destroy importin alpha5 binding and its nuclear localization.
+In contrast, the truncation mutant (aa320-770) including Arg414/417 fails to interact with importin alpha5 and is localized in the cytoplasm.
+However, both sequence elements are necessary for the full-length Stat3's interaction with importin alpha5.
+These results suggest that Arg214/215 is likely the binding site for importin alpha5, whereas Arg414/417 may not be involved in the direct binding, but necessary for maintaining the proper conformation of Stat3 dimer for importin binding.
+A model for Stat3 nuclear translocation is proposed based on these data.

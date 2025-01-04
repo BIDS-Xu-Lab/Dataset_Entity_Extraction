@@ -1,0 +1,6 @@
+The Oxford Record Linkage Study (an epidemiological database) was used to identify patients who died from a cardiovascular cause within 30 days of emergency or urgent surgery under general anaesthesia.
+Each case was paired with a control patient (matched for age within 10 yr of the patient, operation and consultant).
+Additional clinical information was sought from the patient's case notes.
+Cases and controls were compared for cardiovascular risk factors using conditional logistic regression analysis and a prognostic model was generated.
+Only one significant risk factor was identified in the final model: a history of cardiac failure (odds ratio 14.84; 95% confidence intervals 2.53-87.13; P = 0.003).
+Associations between a history of cerebrovascular accident or renal impairment and cardiovascular mortality were seen using univariate analysis but not after adjustment for confounding factors.

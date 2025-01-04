@@ -1,0 +1,12 @@
+Eight Escherichia coli strains were characterized by determining their adhesion to xylene, surface free energy, zeta potential, relative surface charge, and their chemical composition.
+The latter was done by applying X-ray photoelectron spectroscopy (XPS) and infrared spectroscopy (IR).
+No relationship between the adhesion to xylene and the water contact angles of these strains was found.
+Three strains had significantly lower surface free energies than the other strains.
+Surface free energies were either obtained from polar and dispersion parts or from Lifshitz-van der Waals and acid/base parts of the surface free energy.
+A correlation (r = 0.97) between the polar parts and the electron-donor contributions to the acid/base part of the surface free energy was found.
+The zeta potentials of all strains, measured as a function of pH (2-11), were negative.
+Depending on the zeta potential as a function of pH, three groups were recognized among the strains tested.
+A relationship (r = 0.84) was found between the acid/base component of the surface free energy and the zeta potential measured at pH = 7.4.
+There was no correlation between results of XPS and IR studies.
+Data from the literature of XPS and IR studies of the gram-positive staphylococci and streptococci were compared with data from the gram-negative E. coli used in this study.
+It appeared that in these three groups of bacteria, the polysaccharide content detected by IR corresponded well with the oxygen-to-carbon ratio detected by XPS.

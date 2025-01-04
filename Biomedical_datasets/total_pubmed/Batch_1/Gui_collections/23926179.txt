@@ -1,0 +1,11 @@
+1, 25-Dihydroxycholechalciferol (calcitriol) and 19-nor-1, 25-dihydroxyvitamin D2 (paricalcitol) are vitamin D receptor (VDR) agonists.
+Previous data suggest VDR agonists may actually increase renin-angiotensin activity, and this has always been assumed to be mediated by hypercalcemia.
+We hypothesized that calcitriol and paricalcitol would increase plasma renin activity (PRA) independently of plasma Ca(2+) via hypercalciuria-mediated polyuria, hypovolemia, and subsequent increased β-adrenergic sympathetic activity.
+We found that both calcitriol and paricalcitol increased PRA threefold (P < 0.01).
+Calcitriol caused hypercalcemia, but paricalcitol did not.
+Both calcitriol and paricalcitol caused hypercalciuria (9- and 7-fold vs. control, P < 0.01) and polyuria (increasing 2.6- and 2.2-fold vs. control, P < 0.01).
+Paricalcitol increased renal calcium-sensing receptor (CaSR) expression, suggesting a potential cause of paricalcitol-mediated hypercalciuria and polyuria.
+Volume replacement completely normalized calcitriol-stimulated PRA and lowered plasma epinephrine by 43% (P < 0.05).
+β-Adrenergic blockade also normalized calcitriol-stimulated PRA.
+Cyclooxygenase-2 inhibition had no effect on calcitriol-stimulated PRA.
+Our data demonstrate that vitamin D increases PRA independently of plasma Ca(2+) via hypercalciuria, polyuria, hypovolemia, and increased β-adrenergic activity.

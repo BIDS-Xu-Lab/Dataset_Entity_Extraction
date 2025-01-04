@@ -1,0 +1,9 @@
+Ectocarpus siliculosus is a small brown alga that has recently been developed as a genetic model.
+Its thallus is filamentous, initially organized as a main primary filament composed of elongated cells and round cells, from which branches differentiate.
+Modeling of its early development suggests the involvement of very local positional information mediated by cell-cell recognition.
+However, this model also indicates that an additional mechanism is required to ensure proper organization of the branching pattern.
+In this paper, we show that auxin indole-3-acetic acid (IAA) is detectable in mature E. siliculosus organisms and that it is present mainly at the apices of the filaments in the early stages of development.
+An in silico survey of auxin biosynthesis, conjugation, response, and transport genes showed that mainly IAA biosynthesis genes from land plants have homologs in the E. siliculosus genome.
+In addition, application of exogenous auxins and 2,3,5-triiodobenzoic acid had different effects depending on the developmental stage of the organism, and we propose a model in which auxin is involved in the negative control of progression in the developmental program.
+Furthermore, we identified an auxin-inducible gene called EsGRP1 from a small-scale microarray experiment and showed that its expression in a series of morphogenetic mutants was positively correlated with both their elongated-to-round cell ratio and their progression in the developmental program.
+Altogether, these data suggest that IAA is used by the brown alga Ectocarpus to relay cell-cell positional information and induces a signaling pathway different from that known in land plants.

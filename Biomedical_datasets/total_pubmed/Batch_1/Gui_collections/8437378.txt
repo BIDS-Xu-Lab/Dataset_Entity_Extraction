@@ -1,0 +1,5 @@
+We developed a new computerized recording system to reduce artificial errors by perfusionists during cardiopulmonary bypass.
+This system included the efficient functions to record the progress of perfusion flow, perfusion pressure, urine output and temperatures from several sources.
+Furthermore, it could automatically record considerable data of the "GEM 6 PLUS analyzer" which was developed for monitoring of pH, PCO2, PO2, BE, Ca2+, K+ and hematocrit during cardiopulmonary bypass.
+We considered it very important that the errors of hematocrits associated with electrolytic concentrations.
+And also we expect that the "GEM 6 PLUS analyzer" will be improved to measure Na+ value in near future.

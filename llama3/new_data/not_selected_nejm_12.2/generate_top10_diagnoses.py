@@ -10,7 +10,7 @@ from multiprocessing import Pool
 
 # openai API 
 def generator(prompt):
-    # client = OpenAI(api_key="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")
+    # client = OpenAI()
     # return 'Y'
 
     client = OpenAI()

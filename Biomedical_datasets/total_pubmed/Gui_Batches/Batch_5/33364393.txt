@@ -1,0 +1,9 @@
+Dysphagia is prevalent with cerebrovascular accidents and contributes to the burden of disease and mortality.
+Strengthening dysfunctional swallow muscles through respiratory muscle training (RMT) has proven effective in improving swallow effectiveness and safety.
+However, approaches to strengthen only the expiratory muscle groups (EMST) dominate the clinical study literature, with variable outcomes.
+This study investigated the effect of simultaneous inspiratory-expiratory muscle strengthening to improve swallowing function in stroke patients.
+Recorded data of 20 patients receiving pro bono medical care for dysphagia following stroke were allocated to intervention (IG) or control group (CG) based upon whether they chose combined RMT (cRMT) or not while awaiting swallow therapy services.
+The intervention group was treated with three 5-minute sessions of resistive respiratory muscle training for 28 days, while the control group received no RMT or other exercise intervention.
+Respiratory and swallow outcomes were assessed pre- and post-intervention and included Mann Assessment of Swallowing Ability (MASA), fiberoptic endoscopic evaluation of swallowing (FEES) with penetration-aspiration scale (PAS), functional oral intake scale (FOIS), patient visual analogue scale (VAS), and peak expiratory flow (PEF).
+After 28 days, the intervention group demonstrated greater improvements (P value < 0.05) in PEF (IG: 168.03% vs CG: 17.47%), VAS (IG: 103.85% vs CG: 27.54%), MASA (IG: 37.28% vs CG: 6.92%), PAS (IG: 69.84% vs CG: 12.12%), and FOIS (IG: 93.75% vs CG: 21.21%).
+cRMT is a feasible and effective method to improve signs and symptoms of dysphagia while improving airway protection.

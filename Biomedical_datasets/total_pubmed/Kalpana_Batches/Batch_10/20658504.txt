@@ -1,0 +1,7 @@
+Not only the self-aggregation of dendritic polycarboxylates into structurally persistent micelles, but also that of the micelles themselves into superlattices is controlled by alkali-metal counterions and shows a pronounced sodium effect.
+Our combined experimental and computational work has revealed the formation of superlattices for the first time.
+The behavior of a variety of amphiphilic carboxylates and the different effects of the alkali cations Li(+), Na(+), and K(+) have been investigated by conductivity measurements, cryogenic transmission electron microscopy (cryo-TEM), and molecular-dynamics (MD) simulations.
+Together, these show that sodium salts of the amphiphiles give the most stable micelles, followed by lithium and potassium.
+Our results suggest that ion multiplets in bridging positions, rather than contact ion pairs, are responsible for the enhanced stability and the formation of hexagonally ordered superlattices with sodium counterions.
+Potassium ions do not form such ion multiplets and cannot therefore induce aggregation of the micelles.
+This sodium effect has far-reaching consequences for a large number of biological and technical systems and sheds new light on the origin of specific-ion effects.

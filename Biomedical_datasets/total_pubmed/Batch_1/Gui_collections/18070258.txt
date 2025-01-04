@@ -1,0 +1,7 @@
+The ultimate goal of health care systems is to improve overall health from the patient's point of view.
+However, overall self-rated health is not routinely monitored as a performance indicator.
+The purpose of this study was to investigate the feasibility of using a measure normally employed in community health surveys as a quality indicator in primary care clinics.
+In order to do so, we conducted a cross-sectional survey of community medicine patients treated in five clinics in Amarillo, Texas to test the theory that, in primary care patients, a single-item measure of self-rated health is significantly related to the usual risk factors found in community health surveys (environmental factors, demographic characteristics and health behaviours).
+Multiple logistic regression analysis revealed that age, race, frequent mental distress, current smoking and health confidence were independently related to the odds of reporting good health.
+Our results support using a single-item measure of self-rated health in primary care.
+Our data also suggest that encouragement of health confidence would appear to be in the best interests of patients.

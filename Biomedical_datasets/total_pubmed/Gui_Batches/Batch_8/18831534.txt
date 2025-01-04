@@ -1,0 +1,10 @@
+The rate limiting step in DNA biosynthesis is the reduction of ribonucleotides to form the corresponding deoxyribonucleotides.
+This reaction is catalyzed by ribonucleotide reductases (RNRs) and is an attractive target against rapidly proliferating pathogens.
+Class I RNRs are binuclear non-heme iron enzymes and can be further divided into subclasses.
+Class Ia is found in many organisms, including humans, while class Ib has only been found in bacteria, notably some pathogens.
+Both Bacillus anthracis and Bacillus cereus encode class Ib RNRs with over 98% sequence identity.
+The geometric and electronic structure of the B. cereus diiron containing subunit (R2F) has been characterized by a combination of circular dichroism, magnetic circular dichroism (MCD) and variable temperature variable field MCD and is compared to class Ia RNRs.
+While crystallography has given several possible descriptions for the class Ib RNR biferrous site, the spectroscopically defined active site contains a 4-coordinate and a 5-coordinate Fe(II), weakly antiferromagnetically coupled via mu-1,3-carboxylate bridges.
+Class Ia biferrous sites are also antiferromagnetically coupled 4-coordinate and 5-coordinate Fe(II), however quantitatively differ from class Ib in bridging carboxylate conformation and tyrosine radical positioning relative to the diiron site.
+Additionally, the iron binding affinity in B. cereus RNR R2F is greater than class Ia RNR and provides the pathogen with a competitive advantage relative to host in physiological, iron-limited environments.
+These structural differences have potential for the development of selective drugs.

@@ -1,0 +1,10 @@
+This systematic review and meta-analysis assessed the association between urinary tract infections (UTIs) during pregnancy and the risk of preterm birth (PTB).
+We searched multiple databases for relevant observational studies, categorizing them as UTI-based (comparing PTB incidence in women with and without UTIs) or PTB-based (comparing UTI prevalence in women with and without PTB).
+Using a random-effects model in Stata software version 17.0, we estimated pooled and adjusted odds ratios (ORs) with 95% confidence intervals (CIs), and performed subgroup, sensitivity, and cumulative analyses to explore heterogeneity.
+In total, 30 studies comprising 32 datasets were included, involving a total of 249,810 cases and 2,626,985 healthy controls.
+The meta-analysis revealed a significant positive association between UTIs during pregnancy and PTB occurrence (OR, 1.92; 95% CI, 1.62-2.27).
+A sub-group analysis based on studies, the participants showed significant association in both PTB-based (OR, 2.01; 95% CI, 1.58-2.56) and UTI-based studies (OR, 1.79; 95% CI, 1.42-2.26).
+However, Egger's test indicated the presence of publication bias (p=0.020), and substantial heterogeneity was observed across the included studies (I2=96.6; p< 0.001).
+These findings emphasize the critical importance of early detection and effective management of UTIs in pregnant women to reduce the risk of PTB and its associated adverse outcomes.
+While the results highlight a robust link between UTIs during pregnancy and PTB risk, the potential influence of publication bias and substantial heterogeneity should be considered to interpret these findings.
+Further research is needed to better understand the underlying mechanisms and to develop targeted interventions for high-risk pregnant women.

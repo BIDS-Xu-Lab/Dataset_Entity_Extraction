@@ -1,0 +1,14 @@
+Background Previous data have indicated the regulation of circular RNA (circRNA) toward cerebral ischemia.
+This study aims to reveal the effects of circNUFIP2 on cerebral ischemia and the underlying mechanism.
+Methods Oxygen-glucose deprivation (OGD) hippocampal neuron (HT22) cell model and middle cerebral artery occlusion (MCAO) mouse model were used for this study.
+The expression of circRNA nuclear FMR1 interacting protein 2 (circNUFIP2), microRNA-1224-5p (miR-1224-5p) and growth differentiation factor 11 (GDF11) was detected by quantitative real-time polymerase-chain reaction.
+Protein expression was checked by Western blotting.
+The binding relationships among circNUFIP2, miR-1224-5p and GDF11 were identified by dual-luciferase reporter assay, RNA pull-down assay, and RNA immunoprecipitation assay.
+Cell proliferation and apoptosis were investigated by 5-Ethynyl-29-deoxyuridine and flow cytometry analysis, respectively.
+Results CircNUFIP2 and GDF11 expression were decreased, but miR-1224-5p was increased in OGD-treated HT22 cells when compared with their expression in control groups.
+OGD treatment inhibited HT22 cell proliferation but induced cell apoptosis and oxidative stress; however, these effects were attenuated after circNUFIP2 overexpression.
+Also, circNUFIP2 upregulation assuaged the cerebral infarction of MCAO mice.
+Besides, circNUFIP2 bound to miR-1224-5p and mediated OGD-induced HT22 cell damage through miR-1224-5p.
+Meanwhile, knockdown of GDF11, a target gene of miR-1224-5p, relieved miR-1224-5p depletion-caused effects in OGD-treated HT22 cells.
+Furthermore, circNUFIP2 regulated GDF11 expression by interacting with miR-1224-5p.
+Conclusion CircNUFIP2 overexpression protected neuron cells against cerebral ischemia-induced damage, at least in part, by the miR-1224-5p/GDF11 pathway, providing a possible target for the therapy of cerebral ischemic stroke.

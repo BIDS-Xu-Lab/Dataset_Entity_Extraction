@@ -1,0 +1,9 @@
+Lithium has been approved and used for several decades in the treatment of psychiatric disorders, and its potential effect in neurodegenerative diseases has been subject to increasing research interest in recent years.
+Nanolithium is a new experimental product using a novel drug-delivery technology (Aonys®), which optimizes its bioavailability while reducing its toxicity profile.
+Therapeutic doses of lithium used in Nanolithium are more than 50 times lower than the minimal dose of classical lithium salts.
+In this review we report data from non-clinical pharmacology studies supporting Nanolithium efficacy and the mechanism of action in Alzheimer's disease.
+GSK-3β inhibition is thought to be central to Nanolithium's mechanism of action, triggering a reduction of the production of toxic amyloid plaques and decrease in tau hyperphosphorylation, which could potentially benefit both neuropsychiatric symptoms and cognitive decline.
+We then summarize outcomes from non-clinical proof-of-concept studies.
+These data supported the initiation of a currently ongoing phase II proof-of-concept study to evaluate the safety and efficacy of Nanolithium in patients with mild-to-severe Alzheimer's disease.
+We highlight key aspects of the study design.
+We finish this review with a discussion on the potential place of Nanolithium in the current and future Alzheimer's disease treatment landscape.

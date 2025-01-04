@@ -1,0 +1,12 @@
+Multiple applications in open surgical environments may benefit from adoption of markerless computer vision depending on associated speed and accuracy requirements.
+The current work evaluates vision models for 6-degree of freedom pose estimation of surgical instruments in RGB scenes.
+Potential use cases are discussed based on observed performance.
+Convolutional neural nets were developed with simulated training data for 6-degree of freedom pose estimation of a representative surgical instrument in RGB scenes.
+Trained models were evaluated with simulated and real-world scenes.
+Real-world scenes were produced by using a robotic manipulator to procedurally generate a wide range of object poses.
+CNNs trained in simulation transferred to real-world evaluation scenes with a mild decrease in pose accuracy.
+Model performance was sensitive to input image resolution and orientation prediction format.
+The model with highest accuracy demonstrated mean in-plane translation error of 13 mm and mean long axis orientation error of 5[Formula: see text] in simulated evaluation scenes.
+Similar errors of 29 mm and 8[Formula: see text] were observed in real-world scenes.
+6-DoF pose estimators can predict object pose in RGB scenes with real-time inference speed.
+Observed pose accuracy suggests that applications such as coarse-grained guidance, surgical skill evaluation, or instrument tracking for tray optimization may benefit from markerless pose estimation.

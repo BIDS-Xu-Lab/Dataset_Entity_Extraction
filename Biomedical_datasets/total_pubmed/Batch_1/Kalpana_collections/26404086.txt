@@ -1,0 +1,8 @@
+Over 50 loci associated with colorectal cancer (CRC) have been uncovered by genome-wide association studies (GWAS).
+Identifying additional loci has the potential to help elucidate aspects of the underlying biological processes leading to better understanding of the pathogenesis of the disease.
+We re-evaluated a GWAS by excluding controls that have family history of CRC or personal history of colorectal polyps, as we hypothesized that their inclusion reduces power to detect associations.
+This is supported empirically and through simulations.
+Two-phase GWAS analysis was performed in a total of 16,517 cases and 14,487 controls.
+[p = 2.5 × 10(-10); odds ratio estimated by re-including all controls (OR) = 0.87, 95% confidence interval (CI) 0.83-0.91; minor allele frequency (MAF) = 13%].
+Results were replicated in samples of African descent (1894 cases and 4703 controls; p = 0.01; OR = 0.86, 95% CI 0.77-0.97; MAF = 16 %).
+Gene expression data in 195 colon adenocarcinomas and 59 normal colon tissues from two different studies revealed that this locus has genotypes that are associated with RTN1 (Reticulon 1) expression (p = 0.001), a protein-coding gene involved in survival and proliferation of cancer cells which is highly expressed in normal colon tissues but has significantly reduced expression in tumor cells (p = 1.3 × 10(-8)).

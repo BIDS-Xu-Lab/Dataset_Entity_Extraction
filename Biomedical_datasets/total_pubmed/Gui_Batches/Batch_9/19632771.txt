@@ -1,0 +1,5 @@
+The Hsp90 inhibitor 17DMAG (17-dimethylaminoethylamino-17-demethoxygeldanamycin) is undergoing clinical trials as an antitumor drug.
+We show here that treatment of human breast cancer cells with 17DMAG facilitates tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-induced apoptosis.
+Down-regulation of receptor interacting protein (RIP1) is observed upon 17DMAG treatment concomitantly with inhibition of IkappaBalpha phosphorylation.
+Interestingly, RNAi-mediated knockdown of RIP1 expression is sufficient to sensitize human breast tumor cells to TRAIL-induced apoptosis through a NF-kappaB-independent, mitochondria-operated pathway.
+Our results indicate that RIP1 is important in maintaining resistance to TRAIL-induced apoptosis in breast tumor cells and highlight the potential therapeutic benefit of the combination of Hsp90 inhibitors and TRAIL against breast tumor cells.

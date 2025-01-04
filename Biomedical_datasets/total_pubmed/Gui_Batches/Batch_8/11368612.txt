@@ -1,0 +1,8 @@
+The interactions between saliva components and 20 aroma compounds in water and oil model systems were systematically evaluated as a function of saliva composition and saliva/model system ratio.
+Air/liquid partition coefficients of dimethyl sulfide, 1-propanol, diacetyl, 2-butanone, ethyl acetate, 1-butanol, 2-pentanol, propyl acetate, 3-methyl-1-butanol, ethyl butyrate, hexanal, butyl acetate, 1-hexanol, 2-heptanone, heptanal, alpha-pinene, 2-octanone, octanal, 2-nonanol, and 2-decanone were determined by static headspace gas chromatography.
+Chain length of compounds within the homologous series determined the extent of interactions with the model system or saliva.
+Salts in the artificial saliva hardly interacted with aroma compounds.
+On the other hand, saliva proteins lowered retention of highly volatile compounds and increased retention of less volatile, hydrophobic compounds.
+Significant differences in volatility of compounds when artificial saliva or water was added indicated that saliva could not be sufficiently replaced by water.
+The model system/saliva ratio influenced air/liquid partitioning of the aroma compounds significantly for both model systems.
+Although saliva composition affected volatility of the aroma compounds, the saliva/model system ratio was of much greater influence.

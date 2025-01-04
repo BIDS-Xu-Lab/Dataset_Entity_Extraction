@@ -1,0 +1,9 @@
+Active multi-electrode arrays are used in vision prostheses, including optic nerve cuffs and cortical and retinal implants for stimulation of neural tissue.
+For retinal implants, arrays with up to 1500 electrodes are used in clinical trials.
+The ability to convey information with high spatial resolution is critical for these applications.
+To assess the extent to which spatial resolution is impaired by electric crosstalk, finite-element simulation of electric field distribution in a simplified passive tissue model of the retina is performed.
+The effects of electrode size, electrode spacing, distance to target cells, and electrode return configuration (monopolar, tripolar, hexagonal) on spatial resolution is investigated in the form of a mathematical model of electric field distribution.
+Results show that spatial resolution is impaired with increased distance from the electrode array to the target cells.
+This effect can be partly compensated by non-monopolar electrode configurations and larger electrode diameters, albeit at the expense of lower pixel densities due to larger covering areas by each stimulation electrode.
+In applications where multi-electrode arrays can be brought into close proximity to target cells, as presumably with epiretinal implants, smaller electrodes in monopolar configuration can provide the highest spatial resolution.
+However, if the implantation site is further from the target cells, as is the case in suprachoroidal approaches, hexagonally guarded electrode return configurations can convey higher spatial resolution.

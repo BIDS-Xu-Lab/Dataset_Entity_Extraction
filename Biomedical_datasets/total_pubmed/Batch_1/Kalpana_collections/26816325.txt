@@ -1,0 +1,4 @@
+The quadratic regression model is popular and effective in describing a wide variety of data, but it is based on a function whose parameters are not easy to interpret.
+We suggest an alternative form of the quadratic model that has the same expectation function, but also has the useful feature that its parameters are interpretable.
+Examples are provided of a simple regression problem and also of a nonlinear mixed-effects model.
+The models can be estimated with available software.

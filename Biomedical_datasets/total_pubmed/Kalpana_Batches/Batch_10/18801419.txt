@@ -1,0 +1,14 @@
+Numbers of microarrays have been examined and several public and commercial databases have been developed.
+However, it is not easy to compare in-house microarray data with those in a database because of insufficient reproducibility due to differences in the experimental conditions.
+As one of the approach to use these databases, we developed the similar compounds searching system (SCSS) on a toxicogenomics database.
+The datasets of 55 compounds administered to rats in the Toxicogenomics Project (TGP) database in Japan were used in this study.
+Using the fold-change ranking method developed by Lamb et al.
+[Lamb, J., Crawford, E.D., Peck, D., Modell, J.W., Blat, I.C., Wrobel, M.J., Lerner, J., Brunet, J.P., Subramanian, A., Ross, K.N., Reich, M., Hieronymus, H., Wei, G., Armstrong, S.A., Haggarty, S.J., Clemons, P.A., Wei, R., Carr, S.A., Lander, E.S., Golub, T.R., 2006.
+The connectivity map: using gene-expression signatures to connect small molecules, genes, and disease.
+Science 313, 1929-1935] and criteria called hit ratio, the system let us compare in-house microarray data and those in the database.
+In-house generated data for clofibrate, phenobarbital, and a proprietary compound were tested to evaluate the performance of the SCSS method.
+Phenobarbital and clofibrate, which were included in the TGP database, scored highest by the SCSS method.
+Other high scoring compounds had effects similar to either phenobarbital (a cytochrome P450s inducer) or clofibrate (a peroxisome proliferator).
+Some of high scoring compounds identified using the proprietary compound-administered rats have been known to cause similar toxicological changes in different species.
+Our results suggest that the SCSS method could be used in drug discovery and development.
+Moreover, this method may be a powerful tool to understand the mechanisms by which biological systems respond to various chemical compounds and may also predict adverse effects of new compounds.

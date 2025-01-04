@@ -1,0 +1,9 @@
+Protein misfolding and aggregation are the very first and critical steps in development of various neurodegenerative disorders, including Parkinson's disease, induced by misfolding of alpha-synuclein.
+Thus, elucidating properties of proteins in misfolded states and understanding the mechanisms of their assembly into the disease prone aggregates are critical for the development of rational approaches to prevent protein misfolding-mediated pathologies.
+To accomplish this goal and as a first step to elucidate the mechanism of alpha-synuclein misfolding, we applied single-molecule force spectroscopy capable of detecting protein misfolding.
+We immobilized alpha-synuclein molecules at their C-termini at the atomic force microscope tips and substrate surfaces, and measured the interaction between the proteins by probing the microscope tip at various locations on the surface.
+Using this approach, we detected alpha-synuclein misfolded states by enhanced interprotein interaction.
+We used a dynamics force spectroscopy approach to measure such an important characteristic of dimers of misfolded alpha-synuclein as their lifetimes.
+We found that the dimer lifetimes are in the range of seconds and these values are much higher than the characteristics for the dynamics of the protein in monomeric state.
+These data show that compared to highly dynamic monomeric forms, alpha-synuclein dimers are much more stable and thus can serve as stable nuclei for the formation of multimeric and aggregated forms of alpha-synuclein.
+Importantly, two different lifetimes were observed for the dimers, suggesting that aggregation can follow different pathways that may lead to different aggregated morphologies of alpha-synuclein.

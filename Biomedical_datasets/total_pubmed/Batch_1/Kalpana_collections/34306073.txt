@@ -1,0 +1,15 @@
+In the global chronic diseases, type 2 diabetes shows a significant upward trend, and there are more people before prediabetes (impaired glucose tolerance).
+Many patients with impaired glucose tolerance and undiagnosed diabetes do not know that their glucose metabolism system has been in a state of disorder.
+Every year, about 5% to 10% of prediabetics develop diabetes.
+One of the important achieving factors may be the increase in blood lipids.
+However, it is not clear whether the triglyceride/high-density lipoprotein ratio is associated with impaired glucose tolerance and diabetes in the Chinese population.
+Therefore, we investigated the relationship between triglyceride/high-density lipoprotein and impaired glucose tolerance and diabetes in the Chinese population.
+We conducted a retrospective cohort study using data from the health screening program.
+The study included 116,855 participants from 32 locations in China, all of whom were adults over 20.
+Participants measured fasting blood glucose levels at each visit and collected information about their diabetes history.
+Impaired glucose tolerance was diagnosed as fasting blood glucose ≥6.00 mmol and self-reported diabetes mellitus.
+The patient was measured on the date of diagnosis or on his last visit (whichever comes first).
+The results showed that, after adjusting the potential confounding factors, the ratio of TG/HDL was positively correlated with the occurrence of prediabetes and diabetes, and there was a saturation effect.
+The inflection points were 1.04 and 1.33, respectively.
+The effect value and 95% confidence interval before and after the inflection point of impaired glucose tolerance patients were 1.57 and (1.42, 1.73) and 1.03 and (1.01, 1.05), respectively.
+The effect value and 95% confidence interval before and after the inflection point in patients with diabetes were 2.07 and (1.80, 2.39) and 1.08 and (1.04, 1.12).

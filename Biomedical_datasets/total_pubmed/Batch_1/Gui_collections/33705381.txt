@@ -1,0 +1,9 @@
+The lower an individual's socioeconomic position, the higher their risk of poor health in low-, middle-, and high-income settings alike.
+As health inequities grow, it is imperative that we develop an empirically-driven mechanistic understanding of the determinants of health disparities, and capture disease burden in at-risk populations to prevent exacerbation of disparities.
+Past work has been limited in data or scope and has thus fallen short of generalizable insights.
+Here, we integrate empirical data from observational studies and large-scale healthcare data with models to characterize the dynamics and spatial heterogeneity of health disparities in an infectious disease case study: influenza.
+We find that variation in social and healthcare-based determinants exacerbates influenza epidemics, and that low socioeconomic status (SES) individuals disproportionately bear the burden of infection.
+We also identify geographical hotspots of influenza burden in low SES populations, much of which is overlooked in traditional influenza surveillance, and find that these differences are most predicted by variation in susceptibility and access to sickness absenteeism.
+Our results highlight that the effect of overlapping factors is synergistic and that reducing this intersectionality can significantly reduce inequities.
+Additionally, health disparities are expressed geographically, and targeting public health efforts spatially may be an efficient use of resources to abate inequities.
+The association between health and socioeconomic prosperity has a long history in the epidemiological literature; addressing health inequities in respiratory-transmitted infectious disease burden is an important step towards social justice in public health, and ignoring them promises to pose a serious threat.

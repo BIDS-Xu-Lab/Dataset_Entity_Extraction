@@ -1,0 +1,6 @@
+Grade II and III gliomas are generally slowly progressing brain cancers, many of which eventually transform into more aggressive tumors.
+Despite recent findings of frequent mutations in IDH1 and other genes, knowledge about their pathogenesis is still incomplete.
+Here, combining two large sets of high-throughput sequencing data, we delineate the entire picture of genetic alterations and affected pathways in these glioma types, with sensitive detection of driver genes.
+Grade II and III gliomas comprise three distinct subtypes characterized by discrete sets of mutations and distinct clinical behaviors.
+Mutations showed significant positive and negative correlations and a chronological hierarchy, as inferred from different allelic burdens among coexisting mutations, suggesting that there is functional interplay between the mutations that drive clonal selection.
+Extensive serial and multi-regional sampling analyses further supported this finding and also identified a high degree of temporal and spatial heterogeneity generated during tumor expansion and relapse, which is likely shaped by the complex but ordered processes of multiple clonal selection and evolutionary events.

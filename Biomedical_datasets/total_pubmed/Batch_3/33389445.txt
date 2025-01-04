@@ -1,0 +1,8 @@
+Chromatophores of purple non-sulfur bacteria (PNSB) are invaginations of the cytoplasmic membrane that contain a relatively simple system of light-harvesting protein-pigment complexes, a photosynthetic reaction center (RC), a cytochrome complex, and ATP synthase, which transform light energy into the energy of synthesized ATP.
+The high content of negatively charged phosphatidylglycerol (PG) and cardiolipin (CL) in PNSB chromatophore membranes makes these structures potential targets that bind cationic antiseptics.
+We used the methods of stationary and kinetic fluorescence spectroscopy to study the effect of some cationic antiseptics (chlorhexidine, picloxydine, miramistin, and octenidine at concentrations up to 100 μM) on the spectral and kinetic characteristics of the components of the photosynthetic apparatus of Rhodobacter sphaeroides chromatophores.
+Here we present the experimental data on the reduced efficiency of light energy conversion in the chromatophore membranes isolated from the photosynthetic bacterium Rb. sphaeroides in the presence of cationic antiseptics.
+The addition of antiseptics did not affect the energy transfer between the light-harvesting LH1 complex and reaction center (RC).
+However, it significantly reduced the efficiency of the interaction between the LH2 and LH1 complexes.
+The effect was maximal with 100 μM octenidine.
+It has been proved that molecules of cationic antiseptics, which apparently bind to the heads of negatively charged cardiolipin molecules located in the rings of light-harvesting pigments on the cytoplasmic surface of the chromatophores, can disturb the optimal conditions for efficient energy migration in chromatophore membranes.

@@ -1,0 +1,10 @@
+Alternatives to conventional wet electrode types are keenly sought for biomedical use and physiological research, especially when prolonged recording of biosignals is demanded.
+This paper describes a quantitative comparison of three types of bioelectrode (wet, dry and insulating) based on tests involving electrode impedance, static interference and motion artefact induced by various means.
+Data were collected simultaneously, and in the same physical environment for all electrode types.
+Results indicate that in many situations the performance of dry and insulating electrodes compares favourably with wet electrodes.
+The influence of non-stationary electric fields on shielded dry and insulating electrode types was compared to wet types.
+It was observed that interference experienced by dry and insulating electrode types was 40 dB and 34 dB less than that experienced by wet electrode types.
+Similarly, the effect of motion artefact on dry and insulating electrodes was compared to wet types.
+Artefact levels for dry and insulating electrodes were significantly higher than those for wet types at the beginning of trials conducted.
+By the end of the trial periods artefact levels for dry and insulating types were lower than wet electrodes by an average of 8.2 dB and 6.8 dB respectively.
+The reservations expressed in other studies regarding the viability of dry and insulating electrodes for reliable sensing of biosignals are not supported by the work described here.

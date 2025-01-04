@@ -1,0 +1,6 @@
+Immunostaining of non-adherent cells is commonly performed after adhesion of cells onto microscope slides either using cytocentrifugation or with the help of charged coating substrates.
+These techniques, however, require either specialized equipment or significant preparation time.
+Here, we describe a method for immunofluorescent staining of lymphocytes within multi-well culture plates, where cells suspended in phosphate buffered saline (PBS) are adhered to either the plastic well bottom or glass coverslips by gravity sedimentation.
+This technique requires only common laboratory materials, no coating steps, and allows for densely adherent cell coverage with 1 × 106 cells.
+Our data show that suspension of cells in PBS, but not serum-containing growth medium, allows for adhesion to plastic or glass after 30 min of gravity sedimentation.
+We show that this method is applicable for immunofluorescent staining of both primary human lymphocytes and immortalized lymphoma cells, and that it preserves cell morphology.

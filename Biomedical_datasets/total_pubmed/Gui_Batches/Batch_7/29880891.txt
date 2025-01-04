@@ -1,0 +1,8 @@
+To develop effective therapies for advanced high grade serous ovarian cancer (HGSOC), understanding mechanisms of recurrence and metastasis is necessary.
+In this study, we define the epithelial/mesenchymal status of cell lines that accurately model HGSOC, and evaluate the therapeutic potential of targeting Snai1 (Snail), a master regulator of the epithelial/mesenchymal transition (EMT) in vitro and in vivo.
+The ratio of Snail to E-cadherin (S/E index) at RNA and protein levels was correlated with mesenchymal morphology in four cell lines.
+The cell lines with high S/E index (OVCAR8 and COV318) showed more CSC-like, motile, and chemoresistant phenotypes than those with low S/E index (OVSAHO and Kuramochi).
+We tested the role of Snail in regulation of malignant phenotypes including stemness, cell motility, and chemotherapy resistance: shRNA-mediated knockdown of Snail reversed these malignant phenotypes.
+Interestingly, the expression of let-7 tumour suppressor miRNA was upregulated in Snail knockdown cells.
+Furthermore, knockdown of Snail decreased tumour burden in an orthotopic xenograft mouse model.
+We conclude that Snail is important in controlling HGSOC malignant phenotypes and suggest that the Snail/Let-7 axis may be an attractive target for HGSOC treatment.

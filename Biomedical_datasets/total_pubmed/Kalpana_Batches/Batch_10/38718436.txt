@@ -1,0 +1,11 @@
+Immune checkpoints inhibitors are effective but it needs more precise biomarkers for patient selection.
+We explored the biological significance of LINC00862 in pan-cancer by bioinformatics.
+And we studied its regulatory mechanisms using chromatin immunoprecipitation and RNA immunoprecipitation assays etc.
+TCGA and single-cell sequencing data analysis indicated that LINC00862 was overexpressed in the majority of tumor and stromal cells, which was related with poor prognosis.
+LINC00862 expression was related with immune cell infiltration and immune checkpoints expression, and had a high predictive value for immunotherapy efficacy.
+Mechanistically, LINC00862 competitively bound to miR-29c-3p to unleash SIRT1's tumor-promoting function.
+SIRT1 inhibitor-EX527 were screened by virtual screening and verified by in vitro and vivo assays.
+Notably, acetyltransferase P300-mediated super-enhancer activity stimulated LINC00862 transcription.
+Collectively, LINC00862 could be a diagnostic and prognostic biomarker.
+LINC00862 could also be a predictive biomarker for immunotherapy efficacy.
+Super-enhancer activity is the driver for LINC00862 overexpression in cervical cancer and gastric cancer.

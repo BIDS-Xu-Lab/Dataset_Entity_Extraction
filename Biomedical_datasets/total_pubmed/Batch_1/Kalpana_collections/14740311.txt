@@ -1,0 +1,15 @@
+To describe the frequency and distribution of microbiological isolates in association with nosocomial infections (NI) in intensive care units (ICUs) in Germany.
+The hospital infection surveillance system (KISS = Krankenhaus-Infektions-Surveillance-System) started in Germany in January 1997 as a nationwide surveillance project for the voluntary registration of nosocomial infections.
+For ICUs reporting focuses on device-associated primary bloodstream infections, urinary tract infections, as well as on pneumonia and bronchitis.
+The data collected for each patient who acquires a nosocomial infection include the site of infection and patient demographics.
+Up to 4 pathogens can be recorded for each infection.
+From 1997 until 2002 274 ICUs were participating.
+The data of 590 695 patients with 18 073 device associated infections (ventilator-associated pneumonia and bronchitis, central line-associated bloodstream infection (BSI) and urinary catheter-associated urinary tract infection (UTI)) were analyzed.
+In the group of device-associated NI S. aureus was most frequently isolated (16.5/100NI) followed by Ps. aeruginosa (14.2/100NI), E. coli (13.9/100NI), enterococci (13.4/100NI) and C. albicans (11.2/100NI).
+Of all S. aureus isolates 20.0 % were MRSA.
+There was an increase of the MRSA rate from 8 % in 1997 to 26.9 % in 2002.
+The most frequent pathogen in BSI was coagulase-negative staphylococcus (31.0/100NI).
+In ventilator-associated pneumonia and bronchitis S. aureus was the most frequent pathogen (24.2 and 24.9/100NI).
+In more than half of all catheter-associated UTI E. coli (25.7/100NI) and enterococci (25.4/100NI) were found.
+After stratification for the type of ICU differences in the distribution of pathogens could be shown.
+The KISS data give an overview of the most important pathogens associated with nosocomial infections on ICUs in Germany.

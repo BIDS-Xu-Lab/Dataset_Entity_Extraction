@@ -1,0 +1,9 @@
+This is the first study to present rotavirus genotype distribution in children admitted to a hospital with acute gastroenteritis in Kyrgyzstan and Kazakhstan from January 2007 through December 2009.
+In total, 858 rotavirus ELISA-positive samples were characterized by RT-PCR, with a considerable geographical and seasonal variation in genotype distribution observed during the study.
+The globally common genotypes (G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], G12P[8] and G12P[6]) accounted for 81.5-88.2% of the infections in Kyrgyzstan and 72.3-79.3% of the infections in Kazakhstan.
+The predominant genotypes were G1P[8], G2P[4] and G3P[8].
+G1P[8] was the dominating genotype in Kyrgyzstan, detected in 51-64.7% of the samples.
+A similar predominance was not seen for G1P[8] in Kazakhstan, with a shift to G2P[4] predominance being seen in 2008.
+G9P[8] was a rare genotype in both countries, whereas G12 was detected in between 2.2% and 7.6% of the samples.
+The surveillance period was characterized by many co-circulating genotypes, and eight unusual combinations (G1P[4], G2P[8], G2P[6], G3P[4], G9P[4], G12P[4], G9P[9] and G10P[4]) were detected.
+This study provides important baseline data on rotavirus genotypes in Kyrgyzstan and Kazakhstan in the pre-vaccine era, and the results may indicate that the two licensed vaccines can be expected to prevent rotavirus disease in these countries.

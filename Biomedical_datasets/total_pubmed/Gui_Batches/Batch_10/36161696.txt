@@ -1,0 +1,6 @@
+TBX6 encodes transcription-factor box 6, a transcription factor critical to paraxial mesoderm segmentation and somitogenesis during embryonic development.
+TBX6 haploinsufficiency is believed to drive the skeletal and kidney phenotypes associated with the 16p11.2 deletion syndrome.
+Heterozygous and biallelic variants in TBX6 are associated with vertebral and rib malformations (TBX6-associated congenital scoliosis) and spondylocostal dysostosis, and heterozygous TBX6 variants are associated with increased risk of genitourinary tract malformations.
+Combined skeletal and kidney phenotypes in individuals harboring heterozygous or biallelic TBX6 variants are rare.
+Here, we present seven individuals with vertebral and rib malformations and structural kidney differences associated with heterozygous TBX6 gene deletion in trans with a hypomorphic TBX6 allele or biallelic TBX6 variants.
+Our case series highlights the association between TBX6 and both skeletal and kidney disease.

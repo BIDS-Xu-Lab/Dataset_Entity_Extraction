@@ -1,0 +1,8 @@
+To investigate the effect of different concentrations of fluoride on the expression of endoplasmic reticulum chaperone, and to explore the mechanism of dental fluorosis in rat.
+Thirty Wistar rats were randomly divided into 3 groups.
+Immunohistochemistry was used to detect the expression of CRT, GRP78, XBP-1 and caspase-12 in rat incisors.
+Metamorph microscope images analysis system and SPSS 13.0 software package was used to analyze the data.
+Typical features of dental fluorosis were found in the fluoride group.
+Results of immunohistochemistry showed that CRT (F=238.6, P<0.05), GRP78 (F=27.42, P<0.05), XBP-1 (F=139.7, P<0.05) and caspase-12 (F=43.91, P<0.05) were significantly different among the 3 groups.
+Excessive fluoride can increase the secretion of CRT, GRP78, XBP-1 and caspase-12 suggest the ameloblasts and in status of endoplasmic reticulum stress and caspase-12 plays an important role during ameloblast apoptosis.
+Supported by National Natural Science Foundation of China (81072245) and Natural Science Foundation of Liaoning Province (20102278).

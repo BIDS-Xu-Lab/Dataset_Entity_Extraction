@@ -1,0 +1,9 @@
+Metabolic syndrome (MetS) defines important risk factors in the development of cardiovascular diseases and other serious health conditions.
+This study aims to investigate the influence of different dietary patterns on MetS and its components, examining both associations and predictive performance.
+The study sample included 10,750 participants from the seventh survey of the cross-sectional, population-based Tromsø Study in Norway.
+Diet intake scores were used as covariates in logistic regression models, controlling for age, educational level and other lifestyle variables, with MetS and its components as response variables.
+A diet high in meat and sweets was positively associated with increased odds of MetS and elevated waist circumference, while a plant-based diet was associated with decreased odds of hypertension in women and elevated levels of triglycerides in men.
+The predictive power of dietary patterns derived by different dimensionality reduction techniques was investigated by randomly partitioning the study sample into training and test sets.
+On average, the diet score variables demonstrated the highest predictive power in predicting MetS and elevated waist circumference.
+The predictive power was robust to the dimensionality reduction technique used and comparable to using a data-driven prediction method on individual food variables.
+The strongest associations and highest predictive power of dietary patterns were observed for MetS and its single component, elevated waist circumference.

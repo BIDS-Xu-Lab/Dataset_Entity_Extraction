@@ -1,0 +1,14 @@
+Real-world data regarding the use of poly (ADP-ribose) polymerase (PARP) inhibitors in recurrent ovarian cancer patients with non-BRCA homologous recombination (HR) mutations or somatic BRCA mutations are lacking.
+The purpose of our study is to evaluate the response rate, duration of treatment, time to progression (TTP), and toxicities of olaparib, niraparib, and rucaparib in somatic BRCAm and non-BRCA HR-mutated patients.
+This was a retrospective study using the electronic medical record to identify patients across our health system who were initiated on a PARP inhibitor for ovarian cancer between December 2014 and December 2019.
+Patients were screened for the presence of a somatic BRCA1/2 mutation or a mutation in non-BRCA HR genes.
+Data were collected via chart review.
+For the efficacy analysis, 8 patients had somatic BRCA mutations and 12 patients had HR mutations.
+The overall response rate (ORR) was 50% for BRCA-mutated (BRCAm) patients and 9.1% for non-BRCA HR-mutated (non-BRCA HRm) patients.
+72.7% of patients with non-BRCA HR mutations had stable disease.
+The duration of therapy ranged from 2 to 66 months.
+The median TTP was 9.5 months.
+Overall, 66.7% of patients in the entire cohort started on a reduced dose of PARP inhibitor.
+Dose reductions due to AEs were observed in 52.4% of patients, while AEs requiring treatment interruption occurred in 61.9%.
+We found that PARP inhibitors provided stable disease in a high proportion of recurrent ovarian cancer patients who had pathogenic HR mutations, with toxicities comparable to major trials.
+Patients with non-BRCA HR and somatic BRCA mutations could benefit from PARP inhibitors.

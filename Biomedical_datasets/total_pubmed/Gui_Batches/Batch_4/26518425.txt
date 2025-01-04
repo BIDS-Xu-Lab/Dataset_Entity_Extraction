@@ -1,0 +1,11 @@
+The Arabidopsis mutant ( ucu2 - 2/gi - 2 ) is thaxtomin A, isoxaben and NPA-sensitive indicated by root growth and ion flux responses providing new insights into these compounds mode of action and interactions.
+Thaxtomin A (TA) is a cellulose biosynthetic inhibitor (CBI) that promotes plant cell hypertrophy and cell death.
+Electrophysiological analysis of steady-state K(+) and Ca(2+) fluxes in Arabidopsis thaliana roots pretreated with TA for 24 h indicated a disturbance in the regulation of ion movement across the plant cell membrane.
+The observed inability to control solute movement, recorded in rapidly growing meristematic and elongation root zones, may partly explain typical root toxicity responses to TA treatment.
+Of note, the TA-sensitive mutant (ucu2-2/gi-2) was more susceptible with K(+) and Ca(2+) fluxes altered between 1.3 and eightfold compared to the wild-type control where fluxes altered between 1.2 and threefold.
+Root growth inhibition assays showed that the ucu2-2/gi-2 mutant had an increased sensitivity to the auxin 2,4-D, but not IAA or NAA; it also had increased sensitivity to the auxin efflux transport inhibitor, 1-naphthylphthalamic acid (NPA), but not 2,3,5- Triiodobenzoic acid (TIBA), when compared to the WT.
+The NPA sensitivity data were supported by electrophysiological analysis of H(+) fluxes in the mature (but not elongation) root zone.
+Increased sensitivity to the CBI, isoxaben (IXB), but not dichlobenil was recorded.
+Increased sensitivity to both TA and IXB corresponded with higher levels of accumulation of these toxins in the root tissue, compared to the WT.
+Further root growth inhibition assays showed no altered sensitivity of ucu2-2/gi-2 to two other plant pathogen toxins, alternariol and fusaric acid.
+Identification of a TA-sensitive Arabidopsis mutant provides further insight into how this CBI toxin interacts with plant cells.

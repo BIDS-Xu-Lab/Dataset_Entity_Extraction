@@ -1,0 +1,9 @@
+Neuropathic diseases typically begin distally and spread proximally.
+Irrespective of the etiology, pathological investigations often indicate changes consistent with ischemia.
+In the present study, threshold tracking was used to investigate length-dependent differences in ischemic susceptibility of lower-limb axons in 6 healthy volunteers, with ischemia induced by a sphygmomanometer cuff inflated to 200 mm Hg and maintained for 13 minutes.
+Following stimulation of the peroneal nerve at the fibula neck, compound muscle action potentials were recorded proximally from tibialis anterior (TA) and distally from extensor digitorum brevis (EDB).
+During ischemia, excitability changes were consistent with nerve depolarization, with a greater reduction in threshold in EDB than TA.
+This reduction in threshold was associated with an increase in refractoriness, decrease in superexcitability, and prolongation of strength-duration time constant, consistent with axonal depolarization.
+With release of ischemia, reversal of these changes was associated with an increase in threshold, greater in EDB than TA, indicating axonal hyperpolarization.
+The rate of recovery of threshold was similar proximally and distally, arguing against a gradient in Na(+)/K(+) pump function along the peroneal nerve.
+The greater changes in threshold in EDB during and after ischemia suggest an increased susceptibility of more distal axons to ischemia and are likely to contribute to the length-dependent development of neuropathy.

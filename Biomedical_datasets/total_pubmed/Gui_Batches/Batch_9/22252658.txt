@@ -1,0 +1,6 @@
+Despite an annual incidence of just 40,000 new cases per year, pancreatic adenocarcinoma (PAC) remains the fourth most common cause of cancer-related mortality in the United States, a fact indicative of the considerable diagnostic and therapeutic challenges posed by this malignancy.
+The availability of increasingly sophisticated molecular techniques over the last decade has intensified the search for biomarkers not only to predict outcome and response to therapy in established pancreatic malignancy but also to identify premalignant pancreatic lesions in at-risk individuals.
+A wealth of information regarding the complex sequence of genetic abnormalities in PAC has been gained from recent in-depth molecular analyses, and lately the role of epigenetic alterations in the development and maintenance of pancreatic carcinogenesis has been more clearly described.
+In addition, advances in serum proteomic methods and the collection of circulating tumor cells offer hope for the development of noninvasive techniques for biomarker discovery.
+At present, we are awaiting the development and validation of robust biomarkers suitable for clinical application in this disease.
+Herein, we discuss the current status of molecular markers in the diagnosis and management of PAC and review potential clinical applications thereof.

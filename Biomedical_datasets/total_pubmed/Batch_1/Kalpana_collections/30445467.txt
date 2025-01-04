@@ -1,0 +1,10 @@
+This systematic review aims to analyze current capabilities, challenges, and impact of self-directed mobile health (mHealth) research applications such as those based on the ResearchKit platform.
+A systematic review was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement.
+English publications were included if: 1) mobile applications were used in the context of large-scale collection of data for biomedical research, and not as medical or behavioral intervention of any kind, and 2) all activities related to participating in research and data collection methods were executed remotely without any face-to-face interaction between researchers and study participants.
+Thirty-six unique ResearchKit apps were identified.
+The majority of the apps were used to conduct observational studies on general citizens and generate large datasets for secondary research.
+Nearly half of the apps were focused on chronic conditions in adults.
+The ability to generate large biomedical datasets on diverse populations that can be broadly shared and re-used was identified as a promising feature of mHealth research apps.
+Common challenges were low participation retention, uncertainty regarding how use patterns influence data quality, need for data validation, and privacy concerns.
+ResearchKit and other mHealth-based studies are well positioned to enhance development and validation of novel digital biomarkers as well as generate new biomedical knowledge through retrospective studies.
+However, in order to capitalize on these benefits, mHealth research studies must strive to improve retention rates, implement rigorous data validation strategies, and address emerging privacy and security challenges.

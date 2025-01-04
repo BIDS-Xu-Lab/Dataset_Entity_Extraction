@@ -1,0 +1,6 @@
+Epidemiological data suggest that a cardioprotective effect of acute alcohol exposure exists in humans.
+Recent studies in animal models indicate that transient alcohol exposure can indeed reduce myocardial infarct size and exert a preconditioning-like protective effect akin to ischemic preconditioning (IPC).
+Moreover, the mechanism of alcohol-induced cardioprotection in part resembles the signaling cascade triggered by ischemic preconditioning, with adenosine receptors, PKC, protein tyrosine kinases, and mitochondrial K(ATP) channels all being implicated as key components.
+However, it was also seen, at least in the rabbit, that if alcohol were present during the ischemic insult, it could block its own protection.
+The primary protective effect of alcohol use is probably in the chronic setting where alcohol exposure causes a second window type of protection that persists for many days thereafter.
+Regular moderate drinking should keep the heart in a second window state indefinitely.

@@ -1,0 +1,6 @@
+The authors first review neurobiological and psychopathological data supporting the use of Contingent Negative Variation (CNV) for the study of Schizophrenia.
+Next, results obtained with the method are presented (i.e. with S1-S2 interval = 1 sec, and recording leads = Cz and Fz) comparing 34 control subjects with 29 schizophrenic patients, all diagnosed with the "Present State Examination" test or PSE (Wing and Sartorius).
+In patients, reduced CNV amplitude (p less than 0.0001), together with reduced CNV resolution (p less than 0.02) and less differentiated topographical spreading (p less than 0.02) were observed relatively to controls.
+There is also a slower reaction time (p less than 0.02).
+Such abnormalities are sufficiently frequent as to allow CNV as a helping diagnostic tool, with a sensitivity rate of 83% and a specificity rate of 85%.
+These results are discussed with respect to the psychopathological and neurobiological problems in relation with schizophrenia.

@@ -1,0 +1,8 @@
+Assays for transposase-accessible chromatin sequencing (ATAC-seq) provides an innovative approach to study chromatin status in multiple cell types.
+Moreover, it is also possible to efficiently extract differentially accessible chromatin (DACs) regions by using state-of-the-art algorithms (e.g. DESeq2) to predict gene activity in specific samples.
+Furthermore, it has recently been shown that small dips in sequencing peaks can be attributed to the binding of transcription factors.
+These dips, also known as footprints, can be used to identify trans-regulating interactions leading to gene expression.
+Current protocols used to identify footprints (e.g. pyDNAse and HINT-ATAC) have shown limitations resulting in the discovery of many false positive footprints.
+We generated a novel approach to identify genuine footprints within any given ATAC-seq dataset.
+Herein, we developed a new pipeline embedding DACs together with bona fide footprints resulting in the generation of a Predictive gene regulatory Network (PreNet) simply from ATAC-seq data.
+We further demonstrated that PreNet can be used to unveil meaningful molecular regulatory pathways in a given cell type.

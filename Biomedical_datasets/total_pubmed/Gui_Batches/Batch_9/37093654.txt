@@ -1,0 +1,10 @@
+Complex diseases are caused by a combination of genetic, lifestyle, and environmental factors and comprise common noncommunicable diseases, including allergies, cardiovascular disease, and psychiatric and metabolic disorders.
+More than 25% of Europeans suffer from a complex disease, and together these diseases account for 70% of all deaths.
+The use of genomic, molecular, or imaging data to develop accurate diagnostic tools for treatment recommendations and preventive strategies, and for disease prognosis and prediction, is an important step toward precision medicine.
+However, for complex diseases, precision medicine is associated with several challenges.
+There is a significant heterogeneity between patients of a specific disease-both with regards to symptoms and underlying causal mechanisms-and the number of underlying genetic and nongenetic risk factors is often high.
+Here, we summarize precision medicine approaches for complex diseases and highlight the current breakthroughs as well as the challenges.
+We conclude that genomic-based precision medicine has been used mainly for patients with highly penetrant monogenic disease forms, such as cardiomyopathies.
+However, for most complex diseases-including psychiatric disorders and allergies-available polygenic risk scores are more probabilistic than deterministic and have not yet been validated for clinical utility.
+However, subclassifying patients of a specific disease into discrete homogenous subtypes based on molecular or phenotypic data is a promising strategy for improving diagnosis, prediction, treatment, prevention, and prognosis.
+The availability of high-throughput molecular technologies, together with large collections of health data and novel data-driven approaches, offers promise toward improved individual health through precision medicine.

@@ -1,0 +1,13 @@
+The purpose of this research was to investigate the key factors that influence behavioral intention to adopt MOOCs.
+The study was conducted in three countries namely, Poland, Thailand, and Pakistan.
+The study was considered significant considering the advancements in technology that have had an unprecedented impact on education, and the need to conduct learning online due to the COVID-19 to pandemics.
+The research adopted the Unified Theory of Acceptance and Use of Technology (UTAUT2) and extended it by including other variables including culture, social distancing, and absorptive capacity.
+The study was conducted using the quantitative methodology, where the data was collected using a structured questionnaire.
+The data was collected from a sample from each of the three countries, and sample sizes were 455, 490, and 513 for Poland, Thailand, and Pakistan respectively.
+The data were analyzed using Structural Equation Modeling (SEM) and multi-group SEM analysis.
+The results of the study indicated that effort expectancy and culture significantly and positively influenced behavioral intention to use MOOCs in all three countries.
+As well, absorptive capacity is mediated significantly by performance expectancy and effort expectancy.
+Facilitating conditions have a significant influence on MOOCs in both Thailand and Pakistan.
+Social influence has a significant influence on behavioral intention to use MOOCs in Thailand, hedonic motivation and price value have a significant influence on behavioral intention to use MOOCs in Poland, and the habit has a significant factor in Pakistan.
+The keys aspects influencing behavioral intention to Use MOOCs were different in Poland, Thailand, and Pakistan, in various factors which are performance expectancy, social distancing, price value, facilitating conditions, and social influence.
+The research recommended that it is important to evaluate the situation and prevailing conditions of the concerned country, before implementing the MOOCs and the associated online learning practices.

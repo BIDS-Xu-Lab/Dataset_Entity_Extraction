@@ -1,0 +1,10 @@
+The use of reinforcement learning (RL) in brain machine interfaces (BMIs) is considered to be a promising method for neural decoding.
+One key component of RL-based BMIs is the reward signal, which is used to guide decoders to update the parameters.
+However, designing effective and efficient rewards can be challenging, especially for complex tasks.
+Inverse reinforcement learning (IRL) is a method that has been proposed to estimate the internal reward function from subjects' neural activity.
+However, multi-channel neural activity, which may encode many sources of information, builds a large dimensions of state-action space, making it difficult to directly apply IRL methods in BMI systems.
+In this paper, we propose a state-space model based inverse Q-learning (SSM-IQL) method to improve the performance of the existing IRL method.
+The state-space model is designed to extract hidden brain state from high-dimensional neural activity.
+We tested the proposed method on real data collected from rats during a two-lever discrimination task.
+Preliminary results show that SSM-IQL provides a more accurate and stable estimation of the internal reward function than the traditional IQL algorithm.
+This suggests that the use of state-space model in IRL method has potential to improve the design of RL-based BMIs.

@@ -1,0 +1,9 @@
+In this study, we identified predictors of malaria, developed data mining, statistically enhanced rule-based classification to diagnose malaria and developed an automated system to incorporate the rules and statistical models.
+The aim of the study was to develop a statistical prototype to perform clinical diagnosis of malaria given its adverse effects on the overall healthcare, yet its treatment remains very expensive for the majority of the patients to afford.
+Model validation was performed using records from two hospitals (training and predictive datasets) to evaluate system sensitivity, specificity and accuracy.
+The overall sensitivity of the rule-based classification obtained from the predictive dataset was 70 %
+[68-74; 95 % CI] with a specificity of 58 %
+The values for both sensitivity and specificity varied by age, generally showing better performance for the data mining classification rules for the adult patients.
+In summary, the proposed system of data mining classification rules provides better performance for persons aged at least 18 years.
+However, with further modelling, this system of classification rules can provide better sensitivity, specificity and accuracy levels.
+In conclusion, using the system provides a preliminary test before confirmatory diagnosis is conducted in laboratories.

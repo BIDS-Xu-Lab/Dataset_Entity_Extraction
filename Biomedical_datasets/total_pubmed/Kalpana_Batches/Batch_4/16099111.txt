@@ -1,0 +1,15 @@
+The serological diagnosis hepatitis B (HBV) infections relies mainly on the detection of the small surface antigen (HBsAg).
+Immuno-enzymatic assays use antibodies directed against epitopes of the major hydrophilic region, in particular against a determinant.
+Genetic variants have been detected in vaccinated children, liver transplanted patients receiving anti-HBs immunoprophylaxis and chronic carriers with an occult infection (negative HBsAg).
+Substitutions in this region can induce conformational changes abolishing some diagnostic antibodies binding leading to false negative results.
+To estimate the prevalence of such substitutions, we studied 55 sequences of the gene S obtained between 2002 and 2004, carried out mainly in the search of changes of resistance to the lamivudine.
+The polymorphism of the major hydrophilic region (positions 102 to 169) was studied using Mutation Master software.
+Each sequence was compared with a consensus sequence of the same genotype.
+Genotype distribution is as follows: D, 40%; With, 20%; C, 16%; B, 11%; E, 9%; F, 2% and G, 2%.
+Changes I195 M and W196L, reflecting lamivudine resistance are present among 18 patients (33%).
+Substitutions of the major absorbent area are found among 31 patients (56%), of which a third associated with resistance mutations.
+The most frequent substitutions involved the following amino-acids: F/Y134 (7/31), M133 (6/31), D144 (6/31) and G145 (6/31).
+These two latter are known to be associated anti-HBs immunoglobulins or vaccine escape.
+BLOSUM scores are indicative of substitutions inducing important changes of physicochemical properties in 16 patients (29%).
+Such substitutions could thus potentially alter the binding of antibodies used in diagnostic assays.
+In conclusion, changes of the major hydrophilic loop of HBs antigen are not rare and could have an important implications for transfusion safety and diagnostic reliability.

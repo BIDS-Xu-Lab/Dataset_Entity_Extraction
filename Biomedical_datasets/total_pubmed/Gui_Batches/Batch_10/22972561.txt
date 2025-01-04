@@ -1,0 +1,9 @@
+The evaluation of the scaffold hopping potential of computational methods is of high relevance for virtual screening.
+For benchmark calculations, classes of known active compounds are utilized.
+Ideally, such classes should have a well-defined content of structurally diverse scaffolds.
+However, in reported benchmark investigations, the choice of activity classes is often difficult to rationalize.
+To provide a compendium of well-characterized test cases for the assessment of scaffold hopping potential, structural distances between scaffolds were systematically calculated for compound classes available in the ChEMBL database.
+Nearly seven million scaffold pairs were evaluated.
+On the basis of the global scaffold distance distribution, a threshold value for large scaffold distances was determined.
+Compound data sets were ranked based on the proportion of scaffold pairs with large distances they contained, taking additional criteria into account that are relevant for virtual screening.
+A set of 50 activity classes is provided that represent attractive test cases for scaffold hopping analysis and benchmark calculations.

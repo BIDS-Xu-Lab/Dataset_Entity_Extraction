@@ -1,0 +1,11 @@
+Genetic data, in digital format, is used in different biological phenomena such as DNA translation, mRNA transcription and protein synthesis.
+The accuracy of these biological phenomena depend on genetic codes and all subsequent processes.
+To computerize the biological procedures, different domain experts are provided with the authorized access of the genetic codes; as a consequence, the ownership protection of such data is inevitable.
+For this purpose, watermarks serve as the proof of ownership of data.
+While protecting data, embedded hidden messages (watermarks) influence the genetic data; therefore, the accurate execution of the relevant processes and the overall result becomes questionable.
+Most of the DNA based watermarking techniques modify the genetic data and are therefore vulnerable to information loss.
+Distortion-free techniques make sure that no modifications occur during watermarking; however, they are fragile to malicious attacks and therefore cannot be used for ownership protection (particularly, in presence of a threat model).
+Therefore, there is a need for a technique that must be robust and should also prevent unwanted modifications.
+In this spirit, a watermarking technique with aforementioned characteristics has been proposed in this paper.
+The proposed technique makes sure that: (i) the ownership rights are protected by means of a robust watermark; and (ii) the integrity of genetic data is preserved.
+The proposed technique-GenInfoGuard-ensures its robustness through the "watermark encoding" in permuted values, and exhibits high decoding accuracy against various malicious attacks.

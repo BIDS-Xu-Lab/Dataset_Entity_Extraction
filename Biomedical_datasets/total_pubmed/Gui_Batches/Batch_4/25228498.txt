@@ -1,0 +1,8 @@
+The association between serum uric acid (SUA) levels and metabolic syndrome (MetS) has recently been reported in several cross-sectional and longitudinal studies.
+We investigated SUA as a biomarker to predict future development of MetS in healthy Korean men without diabetes or hypertension and determined the optimal cut-off levels of SUA.
+A retrospective cohort study was conducted using data from healthy men who received a general health check-up in 2003.
+A total of 1809 participants free of MetS, diabetes and hypertension was enrolled.
+Participants were classified into three groups based on SUA levels: group 1 (<5.5 mg/dL), group 2 (5.5-6.9 mg/dL) and group 3 (≥7.0 mg/dL).
+During 13,802 person-years of follow up, 127 participants developed MetS. After adjusting for multiple associated parameters, SUA was significantly associated with incident MetS (hazard ratios comparing groups 2 and 3 vs group 1, 2.45 and 3.47 respectively; P < 0.001).
+In receiver operating characteristic curve analysis, the optimal cut-off level for SUA to predict the development of MetS was 6.5 mg/dL.
+Our results indicate that an increased level of SUA, even within the normal range, is associated with future development of MetS in healthy middle-aged men.

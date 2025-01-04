@@ -1,0 +1,7 @@
+Freeze-dried spermatozoa typically shows a reduction in fertility primarily due to the DNA damage resulting from the sublimation process.
+In order to minimize the physical/mechanical damage resulting from lyophilization, here we focused on the freezing phase, comparing two cooling protocols: (i) rapid-freezing, where ram sperm sample is directly plunged into liquid nitrogen (LN-group), as currently done; (ii) slow-freezing, where the sample is progressively cooled to - 50 °C (SF-group).
+The spermatozoa dried in both conditions were analysed to assess residual water content by Thermal Gravimetric Analysis (TGA) and DNA integrity using Sperm Chromatin Structure Assay (SCSA).
+TGA revealed more than 90% of water subtraction in both groups.
+A minor DNA damage, Double-Strand Break (DSB) in particular, characterized by a lower degree of abnormal chromatin structure (Alpha-T), was detected in the SF-group, comparing to the LN-one.
+[42/100 (42%) versus 19/75 (25.3%), P < 0.05, SL and LN respectively] and blastocyst formation [7/100 (7%) versus 2/75 (2.7%), P < 0.05, SF and LN respectively].
+This data represents a significant technological advancement for the development of lyophilization as a valuable and cheaper alternative to deep-freezing in LN for ram semen.

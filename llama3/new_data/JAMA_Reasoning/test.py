@@ -109,8 +109,7 @@ def test_diagnose(each_diagnosis,true_diagnosis):
     # true_diagnosis: true diagnosis, str
     """
     # return 'Y', 'test'     # use, when you check the diagnoses list
-    # api_key=("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")
-    client = OpenAI(api_key="sk-svcacct-Pqi-bFBAdqeGHBZO56dX8kbGpYm05g3dV920DDxOc7LNGpts6jpeYvRSwRDaSF15xT3BlbkFJd5kbvd-ja5Jh7jXMv6_OpXZKviW84lRFT3DGkPGgz43himYNc_7VzYwMWDhcn9FAA")
+    client = OpenAI()
     
     prompt ="""Your task is to identify whether the provided predicted differential diagnosis is correct based on the true diagnosis. Carefully review the information and determine the correctness of the prediction. Please notice same diagnosis might be in different words. Only return "Y" for yes or "N" for no, without any other words."""
     chat_return = client.chat.completions.create(model='gpt-4o',temperature=0.0, messages=[{"role": "system", "content": "pysician"},

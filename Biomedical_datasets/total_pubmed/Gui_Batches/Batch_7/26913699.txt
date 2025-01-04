@@ -1,0 +1,8 @@
+To determine the molecular epidemiology of classic human astrovirus (HAstVs) in sewage and supplement limited clinical data in China.
+Classic HAstVs in domestic sewage in Shandong Province, eastern China in 2014 were analysed in a total of 23 sewage samples.
+After viral concentration, reverse transcription-PCR (RT-PCR), cloning and sequencing, all samples were positive for classic HAstVs and 115 sequences were obtained, belonging to five different genotypes (HAstV-1,-2, -3, -4 and -5).
+Of these, HAstV-4 (31·3%, 36/115), -5 (24·3%, 28/115) were detected with higher rates than HAstV-1 (21·7%, 25/115), followed by HAstV-2 (17·4%, 20/115) and -3 (5·2%, 6/115).
+High identities were observed within all genotypes in 2014.
+Interestingly, recombination events were identified at a high frequency (12·2%, 14/115), and variable combinations were obtained.
+This study suggests that multiple HAstVs genotypes co-circulated with high prevalence in local population during surveillance period.
+The results demonstrate that sewage analysis is a useful approach in surveillance HAstVs in the context of limited clinical data.

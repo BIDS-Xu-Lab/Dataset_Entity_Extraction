@@ -1,0 +1,10 @@
+Acute exacerbation (AE) of interstitial lung disease (ILD) is a severe complication of lung resection in lung cancer patients with ILD (LC-ILD).
+This study aimed to assess the predictive value of comorbidities other than ILD for postoperative AE in patients with LC-ILD.
+We retrospectively evaluated 68 patients with LC-ILD who had undergone lung resection.
+We classified them into two groups: those who had developed postoperative AE within 30 days after resection and those who had not.
+We analyzed patient characteristics, high-resolution computed tomography findings, clinical data, pulmonary function, and intraoperative data.
+The incidence of postoperative AEs was 11.8%.
+In univariate analysis, performance status (PS), honeycombing, forced vital capacity (FVC), and high hemoglobin A1c (HbA1c) levels without comorbidities were significantly associated with postoperative AE.
+Patients were divided into two groups according to cutoff levels of those four variables as determined by receiver operating characteristic curves, revealing that the rates of patients without postoperative AE differed significantly between groups.
+The present results suggested that preoperative comorbidities other than ILD were not risk factors for postoperative AE in patients with LC-ILD.
+However, a high preoperative HbA1c level, poor PS, low FVC, and honeycombing may be associated with postoperative AE of LC-ILD.

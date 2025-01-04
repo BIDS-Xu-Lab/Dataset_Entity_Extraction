@@ -1,0 +1,14 @@
+Autosomal dominant polycystic kidney disease (ADPKD) is the most common hereditary kidney disease and is characterized by gradual cyst growth and expansion, increase in kidney volume with an ultimate decline in kidney function leading to end stage renal disease (ESRD).
+Given the decades long period of stable kidney function while cyst growth occurs, it is important to identify those patients who will progress to ESRD.
+Recent data from our and other laboratories have demonstrated that metabolic reprogramming may play a key role in cystic epithelial proliferation resulting in cyst growth in ADPKD.
+Height corrected total kidney volume (ht-TKV) accurately reflects cyst burden and predicts future loss of kidney function.
+We hypothesize that specific plasma metabolites will correlate with eGFR and ht-TKV early in ADPKD, both predictors of disease progression, potentially indicative of early physiologic derangements of renal disease severity.
+To investigate the predictive role of plasma metabolites on eGFR and/or ht-TKV, we used a non-targeted GC-TOF/MS-based metabolomics approach on hypertensive ADPKD patients in the early course of their disease.
+Patient data was obtained from the HALT-A randomized clinical trial at baseline including estimated glomerular filtration rate (eGFR) and measured ht-TKV.
+To identify individual metabolites whose intensities are significantly correlated with eGFR and ht-TKV, association analyses were performed using linear regression with each metabolite signal level as the primary predictor variable and baseline eGFR and ht-TKV as the continuous outcomes of interest, while adjusting for covariates.
+Significance was determined by Storey's false discovery rate (FDR) q-values to correct for multiple testing.
+Twelve metabolites significantly correlated with eGFR and two triglycerides significantly correlated with baseline ht-TKV at FDR q-value < 0.05.
+Specific significant metabolites, including pseudo-uridine, indole-3-lactate, uric acid, isothreonic acid, and creatinine, have been previously shown to accumulate in plasma and/or urine in both diabetic and cystic renal diseases with advanced renal insufficiency.
+This study identifies metabolic derangements in early ADPKD which may be prognostic for ADPKD disease progression.
+HALT Progression of Polycystic Kidney Disease (HALT PKD)
+Study A; Clinical www.clinicaltrials.gov identifier: NCT00283686; first posted January 30, 2006, last update posted March 19, 2015.

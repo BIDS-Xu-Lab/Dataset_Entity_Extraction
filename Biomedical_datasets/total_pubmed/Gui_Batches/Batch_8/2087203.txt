@@ -1,0 +1,5 @@
+"Giant cell" production by C. albicans cultured in the presence of substances belonging to the pentitol family is described in this study.
+After two days of incubation, at pentitol concentrations ranging between 0.1 and 20 mg%, the production of very large, frequently multibudding cells became evident.
+Their number increased with time, in some cases reaching 20% of the culture cells and their size could exceed 25 mcm.
+Comparisons with other sugar/alcohols and with other Candida spp. are presented.
+A possible explanation of this observation is consistent with an accumulation of pentitol catabolites in the yeast cytoplasm followed by an increased osmotic strength and cell swelling.

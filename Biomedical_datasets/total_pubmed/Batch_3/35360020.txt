@@ -1,0 +1,9 @@
+While earlier studies reported no relevant effect of the HeartMate 3 (HM3) artificial pulse (AP) on bulk pump washout, its effect on regions with prolonged residence times remains unexplored.
+Using numerical simulations, we compared pump washout in the HM3 with and without AP with a focus on the clearance of the last 5% of the pump volume.
+Results were examined in terms of flush-volume (V  , number of times the pump was flushed with new blood) to probe the effect of the AP independent of changing flow rate.
+Irrespective of the flow condition, the HM3 washout scaled linearly with flush volume up to 70% washout and slowed down for the last 30%.
+Flush volumes needed to washout 95% of the pump were comparable with and without the AP (1.3-1.4 V  ), while 99% washout required 2.1-2.2 V  with the AP vs. 2.5 V  without the AP.
+The AP enhanced washout of the bend relief and near-wall regions.
+It also transiently shifted or eliminated stagnation regions and led to rapid wall shear stress fluctuations below the rotor and in the secondary flow path.
+Our results suggest potential benefits of the AP for clearance of fluid regions that might elicit in-pump thrombosis and provide possible mechanistic rationale behind clinical data showing very low rate of in-pump thrombosis with the HM3.
+Further optimization of the AP sequence is warranted to balance washout efficacy while limiting blood damage.

@@ -1,0 +1,14 @@
+Current adenoma detection rate (ADR) benchmarks for colonoscopy in individuals positive for a fecal immunochemical test (FIT) are ≥45% in men and ≥35% in women.
+These are based on weak, low-quality evidence.
+We performed a meta-analysis to ascertain the pooled ADR in FIT-positive colonoscopy.
+Major databases like PubMed, EMBASE, and Web of Science were searched in October 2021 for studies reporting on ADR of colonoscopy in a FIT-positive population.
+Meta-analysis was performed by standard methodology using the random-effects model.
+Heterogeneity was assessed by I2 and 95% prediction interval statistics.
+Thirty-four high-quality studies that included more than 6 million asymptomatic average-risk individuals were analyzed; 2,655,345 individuals completed a screening FIT test.
+The pooled FIT screening rate was 69.8% (95% CI, 62.8-76.1), the pooled FIT positivity rate was 5.4% (95% CI, 4.3-6.9), and the colonoscopy completion rate was 85% (95% CI, 82.8-86.9).
+The pooled ADR was 47.8% (95% CI, 44.1-51.6), pooled advanced ADR was 25.3% (95% CI, 22-29), and the pooled colorectal cancer detection rate was 5.1% (95% CI, 4.4-5.9).
+The pooled ADR in men was 58.3% (95% CI, 52.8-63.6) and in women was 41.9% (95% CI, 36.4-47.6).
+The pooled ADR with qualitative FIT assessment was 67.7% (95% CI, 50.7-81), with 1-stool sample FIT was 52.8% (95% CI, 48.8-56.8), and at a cutoff threshold of 100 ng hemoglobin/mL was 52.1% (95% CI, 47-57.1).
+Based on time-period cumulative analysis, the ADR improved over time from 30.5% (95% CI, 24.6-37.2) to 47.8% (95% CI, 44.1-51.6).
+This meta-analysis supports the current ADR benchmarks for colonoscopy in FIT-positive individuals.
+Excellent pooled ADR parameters were demonstrated with qualitative assessment of 1 stool sample at a test cutoff value of 100 ng hemoglobin/mL, and ADR per endoscopist improved over time.

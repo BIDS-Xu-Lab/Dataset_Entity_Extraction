@@ -1,0 +1,4 @@
+Two hundred twenty-six healthy school children, with a mean age of 8.8 years; 62 girls mean age 8.8, 48 boys mean age 12.6 and 51 girls mean age 12.6 years at the start, were enrolled in a longitudinal study of lung function and tested annually for 5 years.
+All were free of respiratory symptoms, and none smoked more than five cigarettes per week during the 5 years.
+Static and dynamic lung volumes (other than residual volume), maximum expiratory and inspiratory flows, and maximum mouth pressures "track," that is, individuals remain at a constant deviation from the sample mean over time.
+The data indicate that these measurements of lung function in healthy individuals grow in constant proportion relative to other healthy children and adolescents.

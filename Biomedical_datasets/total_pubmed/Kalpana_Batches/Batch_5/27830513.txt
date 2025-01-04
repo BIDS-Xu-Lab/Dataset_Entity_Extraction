@@ -1,0 +1,13 @@
+It has been argued that generic health-related quality of life measures are not sensitive to certain disease-specific improvements; condition-specific preference-based measures may offer a better alternative.
+This paper assesses the validity, responsiveness and sensitivity of a cancer-specific preference-based measure, the EORTC-8D, relative to the EQ-5D-3L. A longitudinal prospective population-based cancer genomic cohort, Cancer 2015, was utilised in the analysis.
+EQ-5D-3L and the EORTC QLQ-C30 (which gives EORTC-8D values) were asked at baseline (diagnosis) and at various follow-up points (3 months, 6 months, 12 months).
+Baseline values were assessed for convergent validity, ceiling effects, agreement and sensitivity.
+Quality-adjusted life-years (QALYs) were estimated and similarly assessed.
+Multivariate regression analyses were employed to understand the determinants of the difference in QALYs.
+Complete case analysis of 1678 patients found that the EQ-5D-3L values at baseline were significantly lower than the EORTC-8D values (0.748 vs 0.829, p < 0.001).
+While the correlation between the instruments was high, agreement between the instruments was poor.
+The baseline health state values using both instruments were found to be sensitive to a number of patient and disease characteristics, and discrimination between disease states was found to be similar.
+Mean generic QALYs (estimated using the EQ-5D-3L) were significantly lower than condition-specific QALYs (estimated using the EORTC-8D) (0.860 vs 0.909, p < 0.001).
+The discriminatory power of both QALYs was similar.
+When comparing a generic and condition-specific preference-based instrument, divergences are apparent in both baseline health state values and in the estimated QALYs over time for cancer patients.
+The variability in sensitivity between the baseline values and the QALY estimations means researchers and decision makers are advised to be cautious if using the instruments interchangeably.

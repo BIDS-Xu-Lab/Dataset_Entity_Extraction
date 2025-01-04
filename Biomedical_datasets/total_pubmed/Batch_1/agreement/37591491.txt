@@ -1,0 +1,12 @@
+To investigate the feasibility of using shape memory alloy (SMA) implants for atlantoaxial joint stabilization using a rabbit model as a substitute for canines.
+We prepared rabbit cadavers from the middle of the skull to the third cervical vertebra.
+The vertebral body and canal sizes of the atlas and axis were compared using CT data from rabbits, normal dogs, and dogs with atlantoaxial instability (AAI) to assess the feasibility of using rabbits as substitutes for toy-breed dogs.
+The shape memory alloy (SMA) implants were designed to stabilize the atlantoaxial joint without compromising the spinal canal passage for safety and were classified into SMA-1 and SMA-2 based on their design.
+To evaluate the strength, the ventrodorsal force was measured with atlantoaxial ligaments intact, after removing the ligaments, and after applying conventional wire or SMA implants to stabilize the atlantoaxial joint.
+The time taken for implant application was measured.
+No significant difference in vertebral body size of the atlas and axis was observed.
+A significant difference in vertebral canal size was observed between the animals.
+In biomechanical testing, the SMA-2 implant provided more stabilization, while the SMA-1 implant had lower strength than the conventional method using wires.
+The application time of wire was the longest, while that of SMA-1 was the shortest.
+SMA implants provide comparable strength and demonstrate superior efficacy compared to conventional dorsal wire fixation of atlantoaxial stabilization.
+Therefore, SMA implants can be an effective surgical option for AAI.

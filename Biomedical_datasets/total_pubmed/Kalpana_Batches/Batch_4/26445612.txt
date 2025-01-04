@@ -1,0 +1,11 @@
+We have occasionally encountered advanced lung cancer patients with disseminated carcinomatosis throughout the body and/or within the lung.
+This study investigated the clinical characteristics and outcomes of advanced lung adenocarcinoma patients with miliary disseminated carcinomatosis.
+Patients with adenocarcinomas harboring epidermal growth factor receptor (EGFR) mutations who presented with miliary disseminated carcinomatosis (either intrapulmonary or distant site) were enrolled in the study.
+Clinical characteristics, treatment responses, and survival outcomes were collected from medical records.
+The most frequent EGFR mutation was an in-frame deletion in exon 19 (n = 44, 68.8%).
+Arginine substitution of leucine 858 in exon 21 and alanine substitution of glycine 719 in exon 18 were detected in 19 patients (29.7%) and one patient (1.6%), respectively.
+Patients with miliary disseminated carcinomatosis tended to be female and non-smokers.
+They expressed the E19 deletion more frequently than patients without miliary dissemination and had shorter progression-free survival times in response to EGFR tyrosine kinase inhibitors (9.7 vs. 12.8 months, P = 0.003) and poorer overall survival (15.9 vs. 29.0 months, P = 0.077).
+Multivariate analyses revealed that metabolic tumor volume correlated with shorter overall survival time.
+Our data indicate that lung adenocarcinoma patients with miliary dissemination have relatively shorter survival times than those without miliary dissemination.
+The poor prognosis of patients with miliary dissemination may reflect a high tumor burden, as represented by metabolic tumor volume.

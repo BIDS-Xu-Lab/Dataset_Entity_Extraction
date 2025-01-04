@@ -1,0 +1,8 @@
+Inguinal hernia is a common birth defect in children, but there is limited information about the risk factors for this disorder.
+The study aimed to explore the risk factors for the development of this disorder in children.
+A frequency matching case-control study based on hospital group data was performed.
+One hundred and thirty-two 0-6 years old children with inguinal hernia and 132 aged-matched controls were enrolled.
+Children's general characteristics and their mothers' general characteristics before and during pregnancy were obtained by a questionnaire survey.
+Risk factors for inguinal hernia were investigated by logistic regression analysis.
+Multivariate logistic regression analysis showed that the development of inguinal hernia was related to children's cry and unease records (OR=3.70195%CI1.724-7.945), maternal consumption for pickles (OR=2.53495%CI: 1.279-5.021) and maternal anemia (OR=3.76195%CI1.497-9.450) one year before pregnancy and during the first 3 months of pregnancy, and the family history of inguinal hernia (OR=13.50595%CI5.825-31.307).
+Children's cry and unease records, maternal anemia and pickle consumption one year before pregnancy and during the first 3 months of pregnancy, and family history of inguinal hernia are risk factors for the development of inguinal hernia in children.

@@ -1,0 +1,12 @@
+Concurrent use of sedating substances (e.g. alcohol or benzodiazepines) with opioids is associated with increased negative consequences of opioid use; however, few studies have attempted to differentiate effects of using sedating substances on heroin-use outcomes.
+This study examines differences between heroin users who use alcohol or misuse sedatives regularly and those who do not.
+Substance-use data were collected from 367 non-treatment seeking, chronic heroin-using, 18-to-55 year-old participants.
+We created 4 groups based on self-reported lifetime history of regular (at least weekly) substance use: heroin only (n = 95), heroin and sedatives (n = 21), heroin and alcohol (n = 151), and heroin, sedative, and alcohol (n = 100).
+Chi-square analyses and ANOVAs with Bonferroni post hoc tests were used to explore differences between these groups.
+Heroin users who denied lifetime alcohol or nonmedical sedative use regularly endorsed fewer consequences associated with any substance they had used.
+Total adverse consequences of heroin use (e.g. health problems) were significantly higher among those who misused sedatives regularly, irrespective of alcohol use history (F(3,361) = 10.21; p < .001).
+Regular alcohol use did not independently impact heroin consequences but was associated with increased use of other substances.
+Although polysubstance use is normative among heroin users, the risks depend on the substances used.
+Regular sedative use is associated with increased heroin consequences whereas regular alcohol use is not.
+This study refines the investigation of polysubstance use and highlights subgroup differences depending on types of substances used regularly.
+This knowledge is critical for understanding substance-use motivations and creating avenues for harm reduction.

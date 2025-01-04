@@ -1,0 +1,5 @@
+As a ligand-activated transcriptional factor, farnesoid X receptor (FXR) has a variety of biological functions, such as biosynthesis of bile acids, metabolism of lipid, and glucose homeostasis, and thus is related to multiple diseases, especially metabolic syndrome.
+In this study, to discover new FXR modulators, we have designed a strategy by combining 3D shape similarity search and structure-based docking methods.
+Taking two FXR ligands that we previously reported as the reference molecules, virtual screening was performed against the Enamine database, and finally 59 compounds were selected for bioassay.
+Among them, four compounds exhibited agonistic or antagonistic activities against FXR in homogeneous time resolved fluorescence assay.
+Two of them were found to be new, potent FXR antagonists in cell-based assay with IC50 values of 8.39 and 6.53 μM, respectively.

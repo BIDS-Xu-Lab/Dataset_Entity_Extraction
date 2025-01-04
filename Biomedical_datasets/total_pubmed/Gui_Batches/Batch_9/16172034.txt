@@ -1,0 +1,11 @@
+The present study was designed to compare the expression pattern of Dlx3 in four different mineralized tissues because of: 1-its role in skeleton patterning, 2-its expression in dental epithelium and mesenchyme during morphogenesis, 3-the membranous and endochondral bone and tooth phenotype of tricho-dento-osseous syndrome related to Dlx3 gene mutation and 4-recently emerging knowledge on Dlx family members in the bone field.
+Ameloblasts, odontoblasts, osteoblasts and chondrocytes were analyzed in vitro and in vivo.
+Dlx3 transcripts were detected by RT-PCR in established model systems (microdissected dental epithelium and mesenchyme; primary cultures of rat chondrocytes), as recently performed in osteoblasts in vitro.
+A human 414-bp Dlx3 probe was generated.
+A 4.5-kb human Dlx3 sense RNA was identified in maxillo-facial samples by Northern blotting.
+Immunolabeling and in situ hybridization were performed in mice from Theiler stage E 14.5 until birth.
+In teeth, although Dlx3 was still expressed in differentiated ameloblasts, it was down regulated during odontoblast polarization.
+During endochondral bone formation, Dlx3 protein was detected in chondrocytes and was most strongly expressed in the prehypertrophic cartilage zone and in differentiating and differentiated osteoblasts of metaphyseal periosteum.
+In vitro, real-time PCR studies supported this upregulation in prehypertrophic chondrocytes, closely correlated with Ihh variations.
+In membranous bone, Dlx3 was present in preosteoblasts, osteoblasts and osteoid-osteocytes.
+The present data on Dlx3 and recently published functional studies show that this transcription factor may be instrumental during growth in the control of matrix deposition and biomineralization in the entire skeleton.

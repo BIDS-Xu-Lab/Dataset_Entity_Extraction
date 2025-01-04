@@ -1,0 +1,6 @@
+A method for determining the stoichiometry of one-product reactions involving a metal ion and an organic ligand is presented and applied to the reactions of calcium and magnesium with the metallochromic dyes Antipyrylazo III and Arsenazo III.
+The method consists of fitting titration data, obtained in solutions buffered for the metal, with theoretical functions that include: (a) the dependence of product concentration on the concentration of both reactants, (b) the relationship between metal ion concentration and total amount added in the presence of the buffer, and (c) a correction for the amount of metal ion that binds to the organic ligand.
+It is shown that the products of the reactions of Antipyrylazo III with calcium and magnesium are CaD2 and MgD, respectively.
+The product formed between calcium and Arsenazo III at [Ca2+] over 20 microM is CaD2, other products accumulating at lower [Ca2+].
+The kinetics of the Antipyrylazo III:Ca reaction are rapid under conditions in which this dye has been applied to measure calcium transients in skeletal muscle fibers.
+The present results provide a calibration for previous studies with Antipyrylazo III in muscle fibers.

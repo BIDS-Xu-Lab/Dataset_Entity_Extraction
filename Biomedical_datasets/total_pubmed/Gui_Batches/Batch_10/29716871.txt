@@ -1,0 +1,6 @@
+Thrombolysis is the main therapeutic method of acute pulmonary embolism (APE).
+In order to investigate the efficacy of reteplase on APE and the changes of cytokines in the progression of APE, 72 patients with APE were randomized into reteplase group and urokinase group which received reteplase thrombolysis and urokinase thrombolysis, respectively.
+The clinical symptoms, blood pressure, heart rate (HR), blood gas index and cytokines of patients were observed before and after therapy for assessing the thrombolysis effect of each group; blood level of high sensitive C-reactive protein (hs-CRP), TNF-α, IL-1β, IL-6 and IL-10 was detected at 0h, 2h, 6h, 12h and 24h after thrombolysis.
+After treatment, the clinical symptoms of both groups were alleviated obviously; PaO2, PaCO2, blood pressure and HR in both groups were significantly improved than those before treatment (p<0.001), and reteplase group showed a more obvious improvement than urokinase group (p<0.001).
+Since 6h after therapy, the content of hs-CRP, IL-1β and IL-6 in patients of reteplase group declined significantly (p<0.05 or 0.01).
+In conclusion, therapeutic effect of reteplase is better than urokinase, hs-CRP, IL-1β and IL-6 can be used to monitor the thrombolysis efficacy of APE patients.

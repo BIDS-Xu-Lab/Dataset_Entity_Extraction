@@ -1,0 +1,9 @@
+The objective of this experiment was to evaluate the impact of lowering floor space allowance in finishing hogs from 65 to 120 kg when fed high- vs. low-energy diets on growth performance.
+Eighty-eight mixed-sex pens with 24 ± 1 pigs per pen were randomly assigned by weight in a complete block design to one of eight treatments in a 2 × 4 factorial arrangement with two energy levels: low (LE, 3267 ± 15 kcal/kg) vs. high (HE, 3389 ± 15 kcal/kg) accomplished through fat inclusion; and four floor space allowances: 0.6, 0.63, 0.65, and 0.67 m2/pig.
+Assigned floor space was accomplished by moveable gates in the rear of the pen which were adjusted at each pig removal until the marketing phase.
+Pen weight was measured at days 0, 29, and 48, with feed disappearance measured at days 29 and 48 to calculate average daily gain (ADG), average daily feed intake (ADFI), and gain-to-feed ratio (GF).
+Data were analyzed by pen (SAS 9.4, Cary, NC), as repeated measures, with the fixed effects of floor space allowance, dietary energy level, and the interaction between floor space allowance and energy level.
+For the overall experiment, decreased floor space had no effect (P > 0.1) on ADG, ADFI, or GF.
+Energy had a significant effect (P < 0.01) on ADFI (3.17 vs. 3.12 kg for LE and HE, respectively) and GF (0.35 and 0.36 for LE and HE, respectively), and tended to impact (P = 0.08) ADG (1.12 vs. 1.13 kg, for LE and HE, respectively).
+In conclusion, reducing space allowance from 0.67 m2 down to 0.6 m2 did not affect the growth performance of pigs from 65 to 120 kg.
+Pigs fed LE consumed more than the HE diets but had generally similar growth and no difference in body weight.

@@ -1,0 +1,11 @@
+Predicting the aggressiveness of meningiomas may influence the surgical strategy timing.
+Because of the paucity of robust markers, the systemic immune-inflammation (SII) index is a novel biomarker to be an independent predictor of poor prognosis in various cancers including gliomas.
+We aimed to investigate the value of SII as well as neutrophil-lymphocyte ratio (NLR) and platelet-lymphocyte ratio (PLR) indices in predicting prognosis.
+Records including demographic, clinical, and laboratory data of patients operated on due to intracranial meningioma in 2017-2023 were retrospectively reviewed.
+A total of 234 patients were included in this study.
+All of SII index, NLR, and PLR values at presentation were significantly higher in grade ≥2 meningiomas.
+A positive correlation was observed between SII index and Ki67 index (r=0.313; P<0.001); between NLR and Ki67 index (r=0.330; P<0.001); and between PLR and Ki67 index (r=0.223; P<0.01).
+SII index (optimal cutoff level >618), NLR (optimal cutoff level >3.53), and PLR (optimal cutoff level >121.2) showed significant predictive values.
+This is the first study to assess the prognostic value of the SII index in patients with intracranial meningiomas.
+Increased SII index, NLR and PLR were correlated with higher grade and higher Ki-67 index.
+They also harbor the potential to screen patients that may need more aggressive treatments or more frequent follow-up examinations.

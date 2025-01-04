@@ -1,0 +1,9 @@
+Chloride-proton exchange by the lysosomal anion transporter ClC-7/Ostm1 is of pivotal importance for the physiology of lysosomes and bone resorption.
+Mice lacking either ClC-7 or Ostm1 develop a lysosomal storage disease and mutations in either protein have been found to underlie osteopetrosis in mice and humans.
+Some human disease-causing CLCN7 mutations accelerate the usually slow voltage-dependent gating of ClC-7/Ostm1.
+However, it has remained unclear whether the fastened kinetics is indeed causative for the disease.
+Here we identified and characterized a new deleterious ClC-7 mutation in Belgian Blue cattle with a severe symptomatology including perinatal lethality and in most cases gingival hamartomas.
+By autozygosity mapping and genome-wide sequencing we found a handful of candidate variants, including a cluster of three private SNPs causing the substitution of a conserved tyrosine in the CBS2 domain of ClC-7 by glutamine.
+The case for ClC-7 was strengthened by subsequent examination of affected calves that revealed severe osteopetrosis.
+The Y750Q mutation largely preserved the lysosomal localization and assembly of ClC-7/Ostm1, but drastically accelerated its activation by membrane depolarization.
+These data provide first evidence that accelerated ClC-7/Ostm1 gating per se is deleterious, highlighting a physiological importance of the slow voltage-activation of ClC-7/Ostm1 in lysosomal function and bone resorption.

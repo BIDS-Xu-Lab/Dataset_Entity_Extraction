@@ -1,0 +1,7 @@
+Enhancement of delayed-type hypersensitivity (DTH) reactions to ovalbumin (OVA) was demonstrated in guinea pigs given a single, high dose of cyclosporin A (CsA) intraperitoneally, 2 days before immunization.
+Courses of oral CsA, commencing at the time of immunization and lasting until day 4 or 13 also resulted in augmented DTH responses at days 14 and 28, respectively.
+However, the enhancing protocol (CsA; day 0-4) did not significantly affect circulating anti-OVA antibody titres.
+The capacity to express increased DTH could be adoptively transferred to naive recipients by systemic injection pooled spleen and peritoneal exudate cells.
+Moreover, the expression of augmented responses was inhibited by transfer of cells from normally immunized donors.
+Although augmentation of DTH was accompanied by increased lymphocyte proliferative responses to OVA in vitro, there was no similar effect on T cell responses to polyclonal mitogens.
+The data support the view that augmentation of DTH by CsA is attributable to suppressor cell dysfunction, but that this is unlikely to be a non-specific suppressor cell impairment.

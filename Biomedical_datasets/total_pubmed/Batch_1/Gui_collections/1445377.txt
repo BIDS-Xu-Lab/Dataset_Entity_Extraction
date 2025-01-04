@@ -1,0 +1,4 @@
+We investigated the effects of platelet-derived growth factor (PDGF), epidermal growth factor (EGF), and insulin on the cell proliferation of and the production of matrix metalloproteinases (MMPs) by rheumatoid synovial fibroblasts in order to determine the role of these agents in rheumatoid arthritis.
+PDGF stimulated rheumatoid synovial fibroblasts to increase DNA synthesis and the production of precursor forms of MMP-1 of M(r) = 53,000 and -3 of M(r) = 57,000.
+EGF and insulin also increased DNA synthesis and the production of these enzymes, but the amount of DNA or MMPs was smaller than that induced by PDGF.
+Since the production of matrix macromolecules and their degradation is essential for the remodelling of synovial tissue in rheumatoid arthritis, these data suggest that the production of MMP-1 and-3 by rheumatoid synovial fibroblasts in relation to cell proliferation plays an important role in the pathological process of rheumatoid arthritis.

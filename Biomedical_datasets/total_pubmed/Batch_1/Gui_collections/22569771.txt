@@ -1,0 +1,8 @@
+A neurobiological account of cognitive vulnerability for recurrent depression is presented based on recent developments of resting state neural networks.
+We propose that alterations in the interplay between task positive (TP) and task negative (TN) elements of the Default Mode Network (DMN) act as a neurobiological risk factor for recurrent depression mediated by cognitive mechanisms.
+In the framework, depression is characterized by an imbalance between TN-TP components leading to an overpowering of TP by TN activity.
+The TN-TP imbalance is associated with a dysfunctional internally-focused cognitive style as well as a failure to attenuate TN activity in the transition from rest to task.
+Thus we propose the TN-TP imbalance as overarching neural mechanism involved in crucial cognitive risk factors for recurrent depression, namely rumination, impaired attentional control, and cognitive reactivity.
+During remission the TN-TP imbalance persists predisposing to vulnerability of recurrent depression.
+Empirical data to support this model is reviewed.
+Finally, we specify how this framework can guide future research efforts.

@@ -1,0 +1,7 @@
+The safety profile of sodium-glucose cotransporter 2 (SGLT2) inhibitors has continued to evolve with the availability of data from clinical trial programs, post-marketing pharmacovigilance and dedicated cardiovascular outcome trials.
+This article reviews the safety issues associated with the SGLT2 inhibitors canagliflozin, dapagliflozin, and empagliflozin, particularly the newer/emergent safety data related to US Food and Drug Administration statements regarding these three agents.
+The safety profile of SGLT2 inhibitors is well defined, and the adverse event profile is largely consistent with their mechanism of action.
+These well-recognized events include genital mycotic infections and volume-associated adverse events.
+Serious safety issues detected more recently with SGLT2 inhibitor therapy, such as bone fractures, pyelonephritis, urosepsis, and ketoacidosis, have been uncommon.
+A robust improvement in cardiovascular outcomes in patients with type 2 diabetes mellitus (T2DM) was recently demonstrated with empagliflozin.
+Given the glucose-lowering efficacy, low risk of hypoglycemia, and other benefits associated with SGLT2 inhibitor therapy, this class of oral glucose-lowering medication is a valuable addition to treatment options for T2DM, and may play an increasingly prominent therapeutic role as emerging data are revealed.

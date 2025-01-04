@@ -1,0 +1,7 @@
+Global change influences species' seasonal occurrence, or phenology.
+In cold-adapted insects, the activity is expected to start earlier with a warming climate, but contradictory evidence exists, and the reactions may be linked to species-specific traits.
+Using data from the GBIF database, we selected 105 single-brooded Holarctic butterflies inhabiting broad latitudinal ranges.
+We regressed patterns of an adult flight against latitudes of the records, controlling for altitude and year effects.
+Species with delayed flight periods towards the high latitudes, or stable flight periods across latitudes, prevailed over those that advanced their flight towards the high latitudes.
+The responses corresponded with the species' seasonality (flight of early season species was delayed and flight of summer species was advanced at high latitudes) and oceanic vs. continental climatic niches (delays in oceanic, stability in continental species).
+Future restructuring of butterfly seasonal patterns in high latitudes will reflect climatic niches, and hence the evolutionary history of participating species.

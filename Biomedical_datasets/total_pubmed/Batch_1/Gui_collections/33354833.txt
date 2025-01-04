@@ -1,0 +1,11 @@
+Hyperpolarized (HP) 129 Xe MRI is increasingly used to noninvasively probe regional lung structure and function in the preclinical setting.
+As in human imaging, the primary barrier to quantitative imaging with HP gases is nonequilibrium magnetization, which is depleted by T1 relaxation and radio frequency excitation.
+Preclinical HP gas imaging commonly involves mechanically ventilating small animals and encoding k-space over tens or hundreds of breaths, with small subsets of k-space data collected within each breath.
+Breath-to-breath magnetization renewal enables the use of large flip angles, but the resulting magnetization decay generates large view-to-view differences in within-breath signal intensity, leading to artifacts and degraded image quality.
+This deleterious signal decay has motivated the use of variable flip angle (VFA) sampling schemes, in which the flip angle is progressively increased to maintain constant view-to-view signal intensity.
+However, VFA imaging complicates data acquisition and provides only a global correction that fails to compensate for regional differences in signal dynamics.
+When constant flip angle (CFA) imaging is used alongside 3D radial golden means acquisition, the center of k-space is sampled with every excitation, thereby encoding signal dynamics alongside imaging data.
+Here, keyhole reconstruction is used to generate multiple images to capture in-breath HP 129 Xe signal dynamics in mice and thus provide flip angle maps to quantitatively correct images without extra data collection.
+These CFA images display SNR that is not significantly different from VFA images, and further, high frequency k-space scaling can be used to mitigate decay-induced image artifacts.
+Results are supported by point spread function calculations and simulations of radial imaging with preclinical signal dynamics.
+Together, these results show that CFA 3D radial golden means ventilation imaging provides comparable image quality with VFA in small animals and allows for keyhole reconstruction, which can be used to generate flip angle maps and correct images for signal depletion.

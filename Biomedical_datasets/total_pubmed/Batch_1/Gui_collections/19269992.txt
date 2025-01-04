@@ -1,0 +1,8 @@
+In France, as in other industrialized countries, syndromic surveillance systems for the early detection of illnesses have proliferated, but few validation studies on these systems performances exist.
+In Bordeaux, a south-western city in France, a system using a network of general practitioners house calls, such as SOS Médecins, provided local health data used to guide health service response, in particular in case of flu-like pandemic.
+We explored the capacity of SOS Médecins system to identify and follow influenza outbreaks using data from the Sentinel network, considered as being a gold standard for tracking seasonal influenza in France.
+Data from SOS Médecins were analysed and compared with data from the Sentinel network.
+The sensitivity and specificity of SOS Médecins system were evaluated for different simulated thresholds.
+A relationship between the number of visits for influenza from SOS Médecins and the number of influenza cases from the Sentinel network was observed; data from the two systems were highly correlated.
+We showed the capacity of SOS Médecins system to identify outbreaks with a sensitivity and specificity of 93%.
+The sensitivity and specificity of SOS Médecins for early outbreak detection showed the value of these data in monitoring influenza activity.

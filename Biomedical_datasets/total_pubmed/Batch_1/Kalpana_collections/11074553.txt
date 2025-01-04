@@ -1,0 +1,14 @@
+Desferrioxamine (DFO) is an important iron-chelating agent.
+It has also been thought of as an agent with anti-oxidant potential as it chelates ferric iron in various parts of the body.
+However, there is evidence suggesting that it may paradoxically affect red blood cells (RBCs) by inducing intracellular oxidant stress.
+Recently we observed that incubation of RBCs with DFO decreases NAD redox potential in normal RBC.
+To further understand the mechanism of DFO's interaction with RBC, we conducted a study to determine the effect of extracellular DFO upon RBC's redox status.
+We examined NAD redox potential in intact RBC (N = 7) incubated with DFO conjugated to starch.
+RBCs were incubated with 4 mM DFO for 3(1/2) hr and with 6 mM DFO for 2 and 3(1/2) hr.
+Significant decreases in NAD redox potential were observed after the incubations.
+With 4 mM DFO at the 3 (1/2) hr time point the mean decrease was 12.37% +/- 9.96% (P < 0.0085).
+With 6 mM DFO, the mean decreases were 18.54% +/- 9.79% (P < 0.0013) and 19.16% +/- 8.78% (P < 0.0006) for the 2 and 3 (1/2) hr incubations, respectively.
+DFO by itself is very poorly permeable to RBC.
+Conjugation with starch further ensured impermeability of DFO.
+The data presented here confirm the oxidant effect of DFO on RBC.
+The data also demonstrate that the effect of DFO on RBC's NAD redox potential originates extracellularly.

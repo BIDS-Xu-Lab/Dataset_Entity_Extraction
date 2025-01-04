@@ -1,0 +1,4 @@
+We introduce a new approach to inference for subgroups in clinical trials.
+We use Bayesian model selection, and a threshold on posterior model probabilities to identify subgroup effects for reporting.
+For each covariate of interest, we define a separate class of models, and use the posterior probability associated with each model and the threshold to determine the existence of a subgroup effect.
+As usual in Bayesian clinical trial design we compute frequentist operating characteristics, and achieve the desired error probabilities by choosing an appropriate threshold(s) for the posterior probabilities.

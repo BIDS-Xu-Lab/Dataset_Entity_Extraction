@@ -1,0 +1,19 @@
+Very few studies have explored the associations between self-identified sexual orientation and comprehensive vaccination coverage.
+Most of the previous studies that reported health disparities among lesbian, gay and bisexual populations were not based on a nationally representative sample of U.S. adults, limiting the generalizability of the findings.
+Starting in 2013, the National Health Interview Survey (NHIS) included questions to ascertain the adult's self-identified sexual orientation that allowed national level vaccination estimation by sexual orientation.
+This study examined associations of self-reported vaccination coverage for selected vaccines among U.S. adults by their sexual orientation.
+We analyzed combined data from 2013-2015 NHIS, a nationally representative probability-based health survey of the noninstitutionalized U.S. population ≥18 years.
+For vaccines other than influenza, weighted proportions were calculated.
+Influenza coverage was calculated using the Kaplan-Meier procedure.
+Multivariable logistic regression models were used to calculate adjusted prevalence differences for each vaccine overall and stratified by sexual orientation and to identify factors independently associated with vaccination.
+Significant differences were observed by sexual orientation for self-reported receipt of human papillomavirus (HPV), hepatitis A (HepA), hepatitis B (HepB), and influenza vaccination.
+Bisexual females (51.6%) had higher HPV coverage than heterosexual females (40.2%).
+Gay males (40.3% and 53.6%, respectively) had higher HepA and HepB coverage than heterosexual males (25.4% and 32.6%, respectively).
+Bisexual females (33.9% and 58.5%, respectively) had higher HepA and HepB coverage than heterosexual females (23.5% and 38.4%, respectively) and higher HepB coverage than lesbian females (45.4%).
+Bisexual adults (34.1%) had lower influenza coverage than gay/lesbian (48.5%) and heterosexual adults (43.8%).
+Except for the association of having self-identified as gay/lesbian orientation with greater likelihood of HepA, HepB, and influenza vaccination, sexual orientation was not associated with higher or lower likelihood of vaccination.
+Health status or other behavioral characteristics studied had no consistent relationship with vaccination among all populations.
+Differences were identified in vaccination coverage among the U.S. adult population by self-reported sexual orientation.
+This study is the first to assess associations of sexual orientation with a comprehensive list of vaccinations.
+Findings from this study can serve as a baseline for monitoring changes over time.
+All populations could benefit from improved vaccination.

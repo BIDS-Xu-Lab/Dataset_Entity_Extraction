@@ -1,0 +1,8 @@
+Graph neural networks, which generalize deep learning to graph-structured data, have achieved significant improvements in numerous graph-related tasks.
+Petri nets (PNs), on the other hand, are mainly used for the modeling and analysis of various event-driven systems from the perspective of prior knowledge, mechanisms, and tasks.
+Compared with graph data, net data can simulate the dynamic behavioral features of systems and are more suitable for representing real-world problems.
+However, the problem of large-scale data analysis has been puzzling the PN field for decades, and thus, limited its universal applicability.
+In this article, a framework of net learning (NL) is proposed.
+NL contains the advantages of PN modeling and analysis with the advantages of graph learning computation.
+Then, two kinds of NL algorithms are designed for performance analysis of stochastic PNs, and more specifically, the hidden feature information of the PN is obtained by mapping net information to the low-dimensional feature space.
+Experiments demonstrate the effectiveness of the proposed model and algorithms on the performance analysis of stochastic PNs.

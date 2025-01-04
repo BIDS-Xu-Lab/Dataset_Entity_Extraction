@@ -1,0 +1,8 @@
+The fitness effect of mutations can be influenced by their interactions with the environment, other mutations, or both.
+Previously, we constructed 32 ( = 2⁵) genotypes that comprise all possible combinations of the first five beneficial mutations to fix in a laboratory-evolved population of Escherichia coli.
+We found that (i) all five mutations were beneficial for the background on which they occurred; (ii) interactions between mutations drove a diminishing returns type epistasis, whereby epistasis became increasingly antagonistic as the expected fitness of a genotype increased; and (iii) the adaptive landscape revealed by the mutation combinations was smooth, having a single global fitness peak.
+Here we examine how the environment influences epistasis by determining the interactions between the same mutations in two alternative environments, selected from among 1,920 screened environments, that produced the largest increase or decrease in fitness of the most derived genotype.
+Some general features of the interactions were consistent: mutations tended to remain beneficial and the overall pattern of epistasis was of diminishing returns.
+Other features depended on the environment; in particular, several mutations were deleterious when added to specific genotypes, indicating the presence of antagonistic interactions that were absent in the original selection environment.
+Antagonism was not caused by consistent pleiotropic effects of individual mutations but rather by changing interactions between mutations.
+Our results demonstrate that understanding adaptation in changing environments will require consideration of the combined effect of epistasis and pleiotropy across environments.

@@ -1,0 +1,13 @@
+Educational level is most often used to identify social groups with increased prevalence of smoking.
+Other indicators of socioeconomic position (SEP) might, however, be equally or even more discriminatory.
+This study examined the extent to which smoking behavior is related to other socioeconomic indicators in addition to educational level.
+Data were derived from the European Household Panel.
+We selected data for 45,765 respondents aged 25-60 years from nine European countries.
+The association between six different SEP indicators and smoking prevalence was examined using prevalence rate ratios (RRs) estimated through log linear regression analyses.
+In univariate analyses, most selected SEP indicators were associated with smoking.
+In multivariate analyses, educational level, occupational class, accumulated wealth (measured by household assets), and housing tenure retained independent effects on smoking (RRs about 1.20).
+The effects observed for activity status and household income were small and insignificant in nearly all populations.
+In northern Europe, educational level had the greatest predictive value in the younger age groups; occupational class and housing tenure predicted most of smoking prevalence in the older age groups.
+The results showed a less pronounced and more varied pattern in southern Europe.
+Our results indicate that smoking prevalence is related not only to educational level but also to occupational class and measures of accumulated wealth (other than income).
+These measures should be used in addition to educational level to identify groups at increased risk for smoking.

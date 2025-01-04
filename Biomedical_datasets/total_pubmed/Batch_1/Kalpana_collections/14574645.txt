@@ -1,0 +1,5 @@
+In this report, we compare and contrast three previously published Bayesian methods for inferring haplotypes from genotype data in a population sample.
+We review the methods, emphasizing the differences between them in terms of both the models ("priors") they use and the computational strategies they employ.
+We introduce a new algorithm that combines the modeling strategy of one method with the computational strategies of another.
+In comparisons using real and simulated data, this new algorithm outperforms all three existing methods.
+The new algorithm is included in the software package PHASE, version 2.0, available online (http://www.stat.washington.edu/stephens/software.html).

@@ -1,0 +1,13 @@
+Increasing prevalence in obesity has become a significant public concern.
+C57BL/6J mice are prone to diet-induced obesity (DIO) when fed high-fat diet (HFD), and develop chronic inflammation and metabolic syndrome, making them a good model to analyze mechanisms whereby obesity elicits pathologies.
+DIO mice demonstrated profound sex differences in response to HFD with respect to inflammation and hypothalamic function.
+First, we determined that males are prone to DIO, while females are resistant.
+Ovariectomized females, on the other hand, are susceptible to DIO, implying protection by ovarian hormones.
+Males, but not females, exhibit changes in hypothalamic neuropeptide expression.
+Surprisingly, ovariectomized females remain resistant to neuroendocrine changes, showing that ovarian hormones are not necessary for protection.
+Second, obese mice exhibit sex differences in DIO-induced inflammation.
+Microglial activation and peripheral macrophage infiltration is seen in the hypothalami of males, while females are protected from the increase in inflammatory cytokines and do not exhibit microglia morphology changes nor monocyte-derived macrophage infiltration, regardless of the presence of ovarian hormones.
+Strikingly, the anti-inflammatory cytokine IL-10 is increased in the hypothalami of females but not males.
+Third, this study posits a potential mechanism of obesity-induced impairment of hypothalamic function whereby obese males exhibit reduced levels of synaptic proteins in the hypothalamus and fewer spines in GnRH neurons, located in the areas exhibiting macrophage infiltration.
+Our studies suggest that inflammation-induced synaptic remodeling is potentially responsible for hypothalamic impairment that may contribute to diminished levels of gonadotropin hormones, testosterone, and sperm numbers, which we observe and corresponds to the observations in obese humans.
+Taken together, our data implicate neuro-immune mechanisms underlying sex-specific differences in obesity-induced impairment of the hypothalamic function with potential consequences for reproduction and fertility.

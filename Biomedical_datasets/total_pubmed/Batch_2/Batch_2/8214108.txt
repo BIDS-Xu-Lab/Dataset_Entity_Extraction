@@ -1,0 +1,7 @@
+We investigated the hypothesis that one of the actions of adenosine 3',5'-cyclic monophosphate (cAMP) to attenuate agonist-induced increase in microvessel permeability is to reduce the initial increase in endothelial cell cytoplasmic Ca2+ concentration ([Ca2+]i).
+ATP (10 microM) was used to increase hydraulic conductivity (Lp) and [Ca2+]i in venular microvessel in frog mesentery.
+The cAMP analogue, 8-bromo-cAMP (8-BrcAMP, 2 mM) significantly attenuated the initial increase in Lp (from a peak increase of 7.1 +/- 2.4 times control with ATP alone to 1.2 +/- 0.34 times control with ATP and cAMP).
+In contrast, cAMP did not significantly change the magnitude or time course of the biphasic increase in [Ca2+]i, which increased from 54 +/- 5 nM to peak of 187 +/- 48 nM with ATP alone, and from 55 +/- 8 nM to 190 +/- 28 nM with ATP and cAMP.
+Thus the action of cAMP to attenuate microvessel permeability increase in the presence of ATP does not involve modification of the initial Ca2+ transient in endothelial cells.
+Our results enable alternative hypotheses, such as the suggestion that cAMP might modulate a Ca(2+)-calmodulin-dependent actin-myosin cascade, to be investigated without the added complications of having to account for the modulation of initial changes in [Ca2+]i.
+Our data also demonstrate, for the first time in the endothelial cells of intact microvessels, that an increase in [Ca2+]i is not always associated with an increase in microvessel permeability.

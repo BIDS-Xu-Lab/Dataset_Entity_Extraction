@@ -1,0 +1,4 @@
+201 breast cancer patients (pT1-2, pN0-1) were treated with conservative breast surgery and radiation therapy.
+28 (13.9%) treatment failures, -13 (6.5%) local recurrences, 4 (2.0%) axillary - and 11 (5.5%) distant metastases -, were found overall after a mean follow-up of 47 months.
+The differences between pT2 and pT1-tumors (20.6% vs 10.5%) and nodal positive versus nodal negative patients (28.1% vs 6.8%) are statistically significant.
+No differences were seen regarding histological features.

@@ -1,0 +1,5 @@
+Although transforming growth factor-beta (TGF-beta) signaling negatively regulates branching morphogenesis in early lung development, few studies to date have addressed the role of this family of growth factors during late lung development.
+We describe here that the expression, tissue localization, and activity of components of the TGF-beta signaling machinery are dynamically regulated during late lung development in the mouse and human.
+Pronounced changes in the expression and localization of the TGF-beta receptors Acvrl1, Tgfbr1, Tgfbr2, Tgfbr3, and endoglin, and the intracellular messengers Smad2, Smad3, Smad4, Smad6, and Smad7 were noted as mouse and human lungs progressed through the canalicular, saccular, and alveolar stages of development.
+TGF-beta signaling, assessed by phosphorylation of Smad2, was detected in the vascular and airway smooth muscle, as well as the alveolar and airway epithelium throughout late lung development.
+These data suggest that active TGF-beta signaling is required for normal late lung development.

@@ -1,0 +1,5 @@
+This paper addresses whether supervisory responsibility is a challenging job demand in the Job Demands-Resources (JD-R) model in different cultural contexts.
+We investigate how job satisfaction responds to a supervisory role with job control and selected cultural dimensions using a cross-cultural dataset of 14 countries with more than 43,000 adults using ordered logit regression models.
+We find that a supervisory role enhances job satisfaction and appears to be a challenging job demand.
+However, no studied cultural dimension, masculinity, power distance, individualism, or uncertainty avoidance, increases job satisfaction derived from this kind of responsibility.
+Our study indicates that there might be stereotypical assumptions about cultural dimensions concerning the job satisfaction of supervisors.

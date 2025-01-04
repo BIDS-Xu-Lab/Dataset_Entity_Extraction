@@ -1,0 +1,8 @@
+Thrombosis is a key process that determines acute coronary syndrome and ischemic stroke and is the leading cause of morbidity and mortality in the world, together with cancer.
+Platelet adhesion and subsequent activation and aggregation are critical processes that cause thrombus formation after endothelial damage.
+To date, high hopes are associated with compounds of natural origin, which show anticoagulant action without undesirable effects and can be proposed as supportive therapies.
+We investigated the effect of the new combination of four natural compounds, escin-bromelain-ginkgo biloba-sage miltiorrhiza (EBGS), on the initial process of the coagulation cascade, which is the adhesion of platelets to activated vascular endothelium.
+Our results demonstrated that EBGS pretreatment of endothelial cells reduces platelet adhesion even in the presence of the monocyte-lymphocyte population.
+Our data indicate that EBGS exerts its effects by inhibiting the transcription of adhesion molecules, including P-selectin, platelet membrane glycoprotein GP1b, integrins αV and β3, and reducing the secretion of the pro-inflammatory cytokines interleukin 6, interleukin 8, and the metalloproteinases MMP-2 and MMP-9.
+Furthermore, we demonstrated that EBGS inhibited the expression of focal adhesion kinase (FAK), strictly involved in platelet adhesion, and whose activity is correlated with that of integrin β3.
+The results shown in this manuscript suggest a possible inhibitory role of the new combination EBGS in the reduction in platelet adhesion to activated endothelium, thus possibly preventing coagulation cascade initiation.

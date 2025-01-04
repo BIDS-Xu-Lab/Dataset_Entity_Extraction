@@ -1,0 +1,9 @@
+Hyperglycemia impairs glucagon-like peptide-1 receptor (GLP-1R) signaling in multiple cell types and thereby potentially attenuates the therapeutic effects of GLP-1R agonists.
+We hypothesized that the downregulation of GLP-1R by hyperglycemia might reduce the renal-protective effects of GLP-1R agonists in diabetic nephropathy (DN).
+In this study, we examined the effects of high glucose on the expression of GLP-1R and its signaling pathways in the HBZY-1 rat mesangial cell line.
+We found that high glucose reduced GLP-1R messenger RNA (mRNA) levels in HBZY-1 cells and in the renal cortex in db/db mice comparing with control groups.
+In consistence, GLP-1R agonist exendin-4 induced CREB phosphorylation was attenuated by high glucose but not low glucose treatment, which is paralleled with abrogated anti-inflammatory functions in HBZY-1 cells linked with nuclear factor-κB (NF-κB) activation.
+In consistence, GLP-1R inhibition aggravated the high glucose-induced activation of NF-κB and MCP-1 protein levels in cultured HBZY-1 cells while overexpression of GLP-1R opposite effects.
+We further proved that metformin restored high glucose-inhibited GLP-1R mRNA expression and decreased high glucose evoked inflammation in HBZY-1 cells.
+On the basis of these findings, we conclude that high glucose lowers GLP-1R expression and leads to inflammatory responses in mesangial cells, which can be reversed by metformin.
+These data support the rationale of combinative therapy of metformin with GLP-1R agonists in DN.

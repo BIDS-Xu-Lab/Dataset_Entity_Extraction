@@ -1,0 +1,12 @@
+Lipid microdomains ("rafts") are dynamic, nanoscale regions of the plasma membrane enriched in cholesterol and glycosphingolipids, that possess distinctive physicochemical properties including higher order than the surrounding membrane.
+Lipid microdomain integrity is thought to affect neurotransmitter signaling by regulating membrane-bound protein signaling.
+Among the proteins potentially affected are monoaminergic receptors and transporters.
+As dysfunction of monoaminergic neurotransmission is implicated in major depressive disorder and other neuropsychiatric conditions, interactions with lipid microdomains may be of clinical importance.
+This systematic review evaluates what is known about the molecular relationships of monoamine transporter and receptor regulation to lipid microdomains.
+The PubMed/MeSH database was searched for original studies published in English through August 2017 concerning relationships between lipid microdomains and serotonin, dopamine and norepinephrine transporters and receptors.
+Fifty-seven publications were identified and assessed.
+Strong evidence implicates lipid microdomains in the regulation of serotonin and norepinephrine transporters; serotonin 1A, 2A, 3A, and 7A receptors; and dopamine D1 and β2 adrenergic receptors.
+Results were conflicting or more complex regarding lipid microdomain associations with the dopamine transporter, D2, D3, and D5 receptors; and negative with respect to β1 adrenergic receptors.
+Indirect evidence suggests that antidepressants, lipid-lowering drugs, and polyunsaturated fatty acids may exert effects on depression and suicide by altering the lipid milieu, thereby affecting monoaminergic transporter and receptor signaling.
+The lipid composition of membrane subdomains is involved in localization and trafficking of specific monoaminergic receptors and transporters.
+Elucidating precise mechanisms whereby lipid microdomains modulate monoamine neurotransmission in clinical contexts can have critical implications for pharmacotherapeutic targeting.

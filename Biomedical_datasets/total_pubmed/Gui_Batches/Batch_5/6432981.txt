@@ -1,0 +1,6 @@
+A mandibular spindle-cell sarcoma originally diagnosed as malignant fibrous histiocytoma displayed a whorl-like histological structure and cellular pleomorphism.
+By electron microscopy the tumor cells showed prominent basal laminae around the tumor cells and bundles of myofilaments with attachment plaques.
+In support of the ultrastructural observations, immunofluorescence (IF) microscopy with antibodies to laminin, the major component of basal lamina, gave a bright pericellular staining of the tumor cells.
+IF microscopy using antibodies against intermediate filament (IMF) proteins revealed the presence of desmin, the muscle-type of IMF protein, in most tumor cells.
+On the other hand, staining for myoglobin was negative.
+The data are consistent with the diagnosis of leiomyosarcoma rather than malignant fibrous histiocytoma, and suggest that expression of desmin and laminin can be useful markers of smooth-muscle derivation of sarcomatous tumors.

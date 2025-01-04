@@ -1,0 +1,10 @@
+Acute lung injury (ALI) is characterized by tissue damage and inflammatory cytokine secretion; however, the therapeutic options available to treat ALI remain limited.
+Necrostatin‑1 (Nec‑1) has the ability to attenuate cell necroptosis in various inflammatory diseases.
+The present study evaluated the protective effects of Nec‑1 on a mouse model of lipopolysaccharide‑induced ALI.
+Histological alterations in the lungs were evaluated through hematoxylin and eosin staining, and the expression levels of cytokines in the bronchoalveolar lavage fluid and lung tissues were determined by ELISA.
+In addition, accumulated production of reactive oxygen species was determined by staining with DCFH‑DA probes, western blotting and immunofluorescence.
+The results revealed that treatment with the necroptosis inhibitor, Nec‑1, exerted significant protective effects on ALI‑induced inflammation and necroptosis.
+The key proteins involved in necroptosis were markedly reduced, including receptor‑interacting serine/threonine‑protein kinase (RIP)1 and RIP3.
+Notably, antioxidant proteins were upregulated by Nec‑1, which may attenuate oxidative stress.
+Furthermore, treatment with Nec‑1 markedly suppressed necroptosis in the pulmonary alveoli RLE‑6TN cell line.
+Taken together, these data revealed a novel association between ALI and necroptosis, and suggested that necroptosis inhibitors may be used as effective anti‑inflammatory drugs to treat ALI.

@@ -1,0 +1,10 @@
+Molecular dynamics (MD) simulations on stem loop 2 of U1 small nuclear RNA and a construct of the U1A protein were carried out to obtain predictions of the structures for the unbound forms in solution and to elucidate dynamical aspects of induced fit upon binding.
+A crystal structure of the complex between the U1A protein and stem loop 2 RNA and an NMR structure for the uncomplexed form of the U1A protein are available from Oubridge et al.
+(Nature, 1994, Vol. 372, pp. 432-438) and Avis et al.
+(Journal of Molecular Biology, 1996, Vol. 257, pp.
+As a consequence, U1A-RNA binding is a particularly attractive case for investigations of induced fit in protein-nucleic acid complexation.
+When combined with the available structural data, the results from simulations indicate that structural adaptation of U1A protein and RNA define distinct mechanisms for induced fit.
+For the protein, the calculations indicate that induced fit upon binding involves a non-native thermodynamic substate in which the structure is preorganized for binding.
+In contrast, induced fit of the RNA involves a distortion of the native structure in solution to an unstable form.
+However, the RNA solution structures predicted from simulation show evidence that structures in which groups of bases are favorably oriented for binding the U1A protein are thermally accessible.
+These results, which quantify with computational modeling recent proposals on induced fit and conformational capture by Leuillot and Varani (Biochemistry, 2001, Vol. 40, pp. 7947-7956) and by Williamson (Nature Structural Biology, 2000, Vol. 7, pp. 834-837) suggest an important role for intrinsic molecular architecture and substates other than the native form in the specificity of protein-RNA interactions.

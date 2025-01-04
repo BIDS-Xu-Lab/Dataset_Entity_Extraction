@@ -1,0 +1,14 @@
+Peritoneal dissemination, most often seen in metastatic and/or recurrent gastric cancer, is an inoperable condition that lacks effective treatment.
+The use of molecular targeted drugs is also limited; therefore, identifying novel therapeutic targets and improving our understanding of this metastatic cancer are an urgent requirement.
+In this study, we focused on galectin-4, which is specifically expressed in poorly differentiated cells with high potential for peritoneal dissemination.
+We knocked out the galectin-4 gene in NUGC4 cells using CRISPR/Cas9-mediated genome editing.
+Proliferation and peritoneal cancer formation in knockout cells were compared with those in wild-type and galectin-4 re-expressing cells.
+Western blotting and proximity ligation assays were performed to identify associated molecules affected by the expression of galectin-4.
+The effect of galectin-4 knockdown on cell proliferation and peritoneal metastasis was studied using a specific siRNA.
+Expression of galectin-4 in peritoneal metastatic tumors from 10 patients with gastric cancer was examined by immunohistochemistry.
+Suppression of galectin-4 expression reduced proliferation and peritoneal metastasis of malignant gastric cancer cells.
+Galectin-4 knockout and knockdown reduced the expression of activated c-MET and CD44.
+Galectin-4 was found to interact with several proteins on the cell surface, including CD44 and c-MET, via its carbohydrate-binding ability.
+Immunohistochemistry showed galectin-4 expression in peritoneal metastatic tumor cells in all patients examined.
+We clarified the role of galectin-4 in the development of peritoneal dissemination of poorly differentiated gastric cancer cells.
+Our data highlight the diagnostic and therapeutic potential of galectin-4 in the peritoneal dissemination of gastric cancer.

@@ -1,0 +1,9 @@
+The severity of industrial accidents in which a domino effect takes place is well known in the chemical and process industry.
+The application of an inherent safety approach for the prevention of escalation events leading to domino accidents was explored in the present study.
+Reference primary scenarios were analyzed and escalation vectors were defined.
+Inherent safety distances were defined and proposed as a metric to express the intensity of the escalation vectors.
+Simple rules of thumb were presented for a preliminary screening of these distances.
+Swift reference indices for layout screening with respect to escalation hazard were also defined.
+Two case studies derived from existing layouts of oil refineries were selected to understand the potentialities coming from the application in the methodology.
+The results evidenced that the approach allows a first comparative assessment of the actual domino hazard in a layout, and the identification of critical primary units with respect to escalation events.
+The methodology developed also represents a useful screening tool to identify were to dedicate major efforts in the design of add-on measures, optimizing conventional passive and active measures for the prevention of severe domino accidents.

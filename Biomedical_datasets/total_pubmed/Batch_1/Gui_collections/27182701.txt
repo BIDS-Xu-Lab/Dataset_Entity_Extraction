@@ -1,0 +1,7 @@
+Complex scientific data is becoming the norm, many disciplines are growing immensely data-rich, and higher-dimensional measurements are performed to resolve complex relationships between parameters.
+Inherently multi-dimensional measurements can directly provide information on both the distributions of individual parameters and the relationships between them, such as in nuclear magnetic resonance and optical spectroscopy.
+However, when data originates from different measurements and comes in different forms, resolving parameter relationships is a matter of data analysis rather than experiment.
+We present a method for resolving relationships between parameters that are distributed individually and also correlated.
+In two case studies, we model the relationships between diameter and luminescence properties of quantum dots and the relationship between molecular weight and diffusion coefficient for polymers.
+Although it is expected that resolving complicated correlated relationships require inherently multi-dimensional measurements, our method constitutes a useful contribution to the modelling of quantitative relationships between correlated parameters and measurements.
+We emphasise the general applicability of the method in fields where heterogeneity and complex distributions of parameters are obstacles to scientific insight.

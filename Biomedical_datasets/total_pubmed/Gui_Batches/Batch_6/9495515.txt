@@ -1,0 +1,12 @@
+Estrogen deficiency results in a loss of trabecular bone mass and structure that leads to an increased incidence of osteoporotic fractures.
+The purpose of this study was to determine the time course for trabecular structure deterioration and changes in bone turnover just after ovariectomy in the rat.
+Six-month-old female virgin Sprague-Dawley rats had their right proximal tibia scanned by X-ray tomographic microscopy (XTM) at baseline (day 0).
+Animals were then randomized into two groups, and in each group 9 were sham-operated and 11 were ovariectomized and had repeat XTM scans on days 5, 13, 29, and 42 postovariectomy in group 1 and on days 8, 13, 33, and 50 postovariectomy in group 2.
+Urine was collected for deoxypyridinoline (DPD) cross-link measurements 24 h before each XTM scan and analyzed by ELISA.
+Trabecular bone structural variables and bone turnover endpoints were calculated from XTM data and standard histomorphometry.
+Trabecular connectivity decreased 27% by days 5 and 8 postovariectomy (p < 0.01) and continued to decrease up to day 50 postovariectomy (p < 0.01).
+The trabecular bone volume decreased 25% by 8 days postovariectomy (p < 0.01), and it continued to decrease through day 50.
+DPD cross-link excretion had increased 37% on day 13 (p < 0.01) and by over 100% of baseline by day 50 postovariectomy.
+Trabecular bone connectivity and volume deteriorate rapidly while DPD cross-link excretion increased more slowly in acute estrogen deficiency.
+These data suggest that if an agent is to preserve fully trabecular bone structure, it must be instituted very early in the estrogen-deficient state.
+They also suggest that a lag time exists before DPD excretion properly mirrors newly induced conditions of high bone turnover in this rat model.

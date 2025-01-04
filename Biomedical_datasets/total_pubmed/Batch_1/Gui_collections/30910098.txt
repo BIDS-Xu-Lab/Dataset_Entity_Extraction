@@ -1,0 +1,8 @@
+Pediatric renal tumors may be malignant or benign.
+Wilms tumor, the most common malignant pediatric renal tumor, arises sporadically or with various syndromes.
+Renal cell carcinoma typically presents in older children.
+Renal clear cell sarcoma and rhabdoid tumor are typically less common, more aggressive, and present in younger children.
+Benign renal tumors include mesoblastic nephroma, multilocular cystic renal tumor, angiomyolipoma, and metanephric adenoma.
+Lymphoma and leukemia may secondarily involve the kidney.
+Although there is overlap in the imaging appearance of several pediatric renal tumors, magnetic resonance characteristics and clinical data narrow the differential diagnosis and suggest a specific diagnosis.
+This article reviews current MR techniques, as well as the common MR imaging characteristics of malignant and benign pediatric renal neoplasms.

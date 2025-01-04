@@ -1,0 +1,10 @@
+Insectivorous bats play a crucial role in agroecosystems by providing invaluable pest control services.
+With the escalating impacts of climate change, a comprehensive understanding of the environmental factors influencing bat activity becomes imperative for their conservation in agricultural landscapes.
+This study investigates the influence of weather conditions, specifically air temperature and relative humidity, on the timing activity and the relative abundance of five insectivorous bat species in central Chile.
+Data from automatic bat detectors and climatological stations are utilized for analysis.
+Our results unveil species-specific behaviors, with Tadarida brasiliensis exhibiting early emergence and extended activity periods compared to other bat species.
+Histiotus montanus and Lasiurus villosissimus display delayed onsets on more humid evenings, whereas Lasiurus varius and T. brasiliensis initiate activity earlier on colder nights compared to warmer ones.
+Relative humidity emerges as a key factor influencing relative abundance for all species, with more minutes with bat passes detected on drier nights.
+These findings suggest that global warming may influence observed bat behaviors, potentially altering foraging patterns and activity levels of these bat species.
+Moreover, as climate change continues, understanding the long-term impact on bat populations and their adaptive strategies is crucial for effective conservation measures.
+Further studies exploring these dynamics can provide valuable insights for shaping conservation efforts in the face of evolving environmental challenges.

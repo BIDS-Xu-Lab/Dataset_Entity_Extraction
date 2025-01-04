@@ -1,0 +1,10 @@
+Fluorescence photobleaching and photoproduct formation were investigated during delta-aminolevulinic acid (ALA) induced protoporphyrin IX (PpIX) PDT of MLL cells in vitro.
+Cells were incubated in either 0.1 or 1.0 mM ALA for 4 h and were treated with 532 nm or 635 nm light under well oxygenated or hypoxic conditions.
+Fluorescence spectra were acquired during treatment.
+Photobleaching and photoproduct formation were quantified using singular value decomposition fitting of fluorescence spectra to experimentally determined basis spectra for PpIX, photoprotoporphyrin (Ppp), product II (peak at 655 nm), and product III (peak at 618 nm).
+PpIX photobleaching occurred under both normal and hypoxic conditions.
+The photobleaching kinetics could not be explained by purely first- or second-order photobleaching kinetics, and were attributed to differences in PpIX binding at the two ALA incubation concentrations.
+Ppp was the main photoproduct and accumulated in higher levels in the absence of oxygen, likely a result of reduced Ppp photobleaching under hypoxia.
+Increases in product II fluorescence occurred mainly in the presence of oxygen.
+To assess potential fluorescence based PDT dose metrics, cell viability was measured at select times during treatment using a colony formation assay.
+Cell survival correlated well to changes in product II fluorescence, independent of oxygenation, sensitizer concentration, and treatment wavelength, suggesting that this product is primarily a result of singlet oxygen mediated reactions and may potentially be useful to quantify singlet oxygen dose during PDT.

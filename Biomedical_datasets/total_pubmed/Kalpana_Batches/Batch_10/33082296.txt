@@ -1,0 +1,9 @@
+Improving cardiovascular fitness may buffer against age-related cognitive decline and mitigate dementia risk by staving off brain atrophy.
+However, it is unclear if such effects reflect factors operating in childhood (neuroselection) or adulthood (neuroprotection).
+Using data from 807 members of the Dunedin Study, a population-representative birth cohort, we investigated associations between cardiovascular fitness and structural brain integrity at age 45, and the extent to which associations reflected possible neuroselection or neuroprotection by controlling for childhood IQ.
+Higher fitness, as indexed by VO2Max, was not associated with average cortical thickness, total surface area, or subcortical gray matter volume including the hippocampus.
+However, higher fitness was associated with thicker cortex in prefrontal and temporal regions as well as greater cerebellar gray matter volume.
+Higher fitness was also associated with decreased hippocampal fissure volume.
+These associations were unaffected by the inclusion of childhood IQ in analyses.
+In contrast, a higher rate of decline in cardiovascular fitness from 26 to 45 years was not robustly associated with structural brain integrity.
+Our findings are consistent with a neuroprotective account of adult cardiovascular fitness but suggest that effects are not uniformly observed across the brain and reflect contemporaneous fitness more so than decline over time.

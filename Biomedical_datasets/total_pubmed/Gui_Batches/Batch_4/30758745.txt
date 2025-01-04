@@ -1,0 +1,11 @@
+In the absence of head-to-head trials, this analysis aimed to provide a fair indirect comparison of the efficacy between blinatumomab and inotuzumab ozogamicin (InO), two treatments for adult patients with relapsed or refractory acute lymphoblastic leukemia (R/R ALL) who received no more than one prior salvage therapy, by adjusting for cross-trial differences.
+Patient-level data from the Phase 3 blinatumomab trial TOWER and published aggregated data from the Phase 3 InO trial INO-VATE-ALL were used to conduct matching-adjusted indirect comparisons.
+Patients with 2+ prior salvage therapies from TOWER were excluded because such patients were not included in INO-VATE-ALL.
+To ensure balance in the remaining patients, baseline characteristics for the TOWER patients were weighted to match the average baseline characteristics in INO-VATE-ALL, including sex, age, race, performance status, bone marrow blast, previous salvage therapy, previous allogeneic transplantation, complete remission with complete hematologic recovery (CR) to most recent induction therapy, and duration of first remission.
+Overall survival (OS), including median and restricted mean survival time (RMST) at 12 and 20.7 months, and CR were estimated and compared.
+A total of 310 patients in TOWER were included (blinatumomab, n = 203; standard of care chemotherapy, n = 107).
+After matching the listed baseline characteristics, the median OS was 9.3 months for blinatumomab and 7.7 months for InO (weighted log-rank test p = 0.4).
+[95% CI (0.1, 3.2); p = 0.04]; at 20.7 months the RMST was not significantly different.
+The CR rates were similar [anchor-based difference = - 2.8%, 95% CI (- 17.5%, 11.9%); p = 0.71].
+After adjusting for cross-trial differences, blinatumomab demonstrated a similar CR rate and potential OS benefit versus InO among adult patients with R/R ALL who received no more than one prior salvage therapy.
+Further studies are suggested to confirm this finding.

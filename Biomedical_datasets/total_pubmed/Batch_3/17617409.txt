@@ -1,0 +1,5 @@
+Phosphoinoisitide dependent kinase l (PDK1) is proposed to phosphorylate a key threonine residue within the catalytic domain of the protein kinase C (PKC) superfamily that controls the stability and catalytic competence of these kinases.
+Hence, in PDK1-null embryonic stem cells intracellular levels of PKCalpha, PKCbeta1, PKCgamma, and PKCepsilon are strikingly reduced.
+Although PDK1-null cells have reduced endogenous PKC levels they are not completely devoid of PKCs and the integrity of downstream PKC effector pathways in the absence of PDK1 has not been determined.
+In the present report, the PDK1 requirement for controlling the phosphorylation and activity of a well characterised substrate for PKCs, the serine kinase protein kinase D, has been examined.
+The data show that in embryonic stem cells and thymocytes loss of PDK1 does not prevent PKC-mediated phosphorylation and activation of protein kinase D. These results reveal that loss of PDK1 does not functionally inactivate all PKC-mediated signal transduction.

@@ -1,0 +1,9 @@
+Steep canyons surrounded by high mountains resulting from large-scale landslides characterize the study area located in the southeastern part of the Tibetan Plateau.
+A total of 1766 large landslides were identified based on integrated remote sensing interpretations utilizing multisource satellite images and topographic data that were dominated by 3 major regional categories, namely, rockslides, rock falls, and flow-like landslides.
+The geographical detector method was applied to quantitatively unveil the spatial association between the landslides and 12 environmental factors through computation of the q values based on spatially stratified heterogeneity.
+Meanwhile, a certainty factor (CF) model was used for comparison.
+The results indicate that the q values of the 12 influencing factors vary obviously, and the dominant factors are also different for the 3 types of landslides, with annual mean precipitation (AMP) being the dominant factor for rockslide distribution, elevation being the dominant factor for rock fall distribution and lithology being the dominant factor for flow-like distribution.
+Integrating the results of the factor detector and ecological detector, the AMP, annual mean temperature (AMT), elevation, river density, fault distance and lithology have a stronger influence on the spatial distribution of landslides than other factors.
+Furthermore, the factor interactions can significantly enhance their interpretability of landslides, and the top 3 dominant interactions were revealed.
+Based on statistics of landslide discrepancies with respect to diverse stratification of each factor, the high-risk zones were identified for 3 types of landslides, and the results were contrasted with the CF model.
+In conclusion, our method provides an objective framework for landslide prevention and mitigation through quantitative, spatial and statistical analyses in regions with complex terrain.

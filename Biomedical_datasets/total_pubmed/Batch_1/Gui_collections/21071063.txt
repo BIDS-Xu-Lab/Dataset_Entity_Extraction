@@ -1,0 +1,8 @@
+The potential health and environmental hazards of carbon nanotubes (CNTs) have been a concerned issue.
+However, in contrast to the wide recognition of the toxicity of CNTs, little attention has been paid to the decontamination/remediation of CNT pollution.
+In this study, we report that CNTs can be removed from aqueous environment.
+In the presence of Ca²(+), CNTs aggregate quickly to micron size and then enable easy and effective removal via normal filtration.
+After filtration, CNT suspension becomes colorless with the remnant CNT concentration less than 0.5 μg mL⁻¹, a safe dose based on the published data.
+The filtration approach also works well in the presence of typical surfactant and dissolved organic matter.
+The removal efficiency is Ca²(+) concentration-dependent and regulated by the initial pH value and ionic strength.
+Our study is helpful for future decontamination of CNTs from aqueous environment.

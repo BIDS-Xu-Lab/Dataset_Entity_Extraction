@@ -1,0 +1,11 @@
+One-carbon metabolism is a complex network of metabolic reactions that are essential for cellular function including DNA synthesis.
+Vitamin B12 and folate are micronutrients that are utilized in this pathway and their deficiency can result in the perturbation of one-carbon metabolism and subsequent perturbations in DNA replication and repair.
+This effect has been well characterized in nuclear DNA but to date, mitochondrial DNA (mtDNA) has not been investigated extensively.
+Mitochondrial variants have been associated with several inherited and age-related disease states; therefore, the study of factors that impact heteroplasmy are important for advancing our understanding of the mitochondrial genome's impact on human health.
+Heteroplasmy studies require robust and efficient mitochondrial DNA enrichment to carry out in-depth mtDNA sequencing.
+Many of the current methods for mtDNA enrichment can introduce biases and false-positive results.
+Here, we use a method that overcomes these limitations and have applied it to assess mitochondrial heteroplasmy in mouse models of altered one-carbon metabolism.
+Vitamin B12 deficiency was found to cause increased levels of mitochondrial DNA heteroplasmy across all tissues that were investigated.
+Folic acid supplementation also contributed to elevated mitochondrial DNA heteroplasmy across all mouse tissues investigated.
+Heteroplasmy analysis of human data from the Framingham Heart Study suggested a potential sex-specific effect of folate and vitamin B12 status on mitochondrial heteroplasmy.
+This is a novel relationship that may have broader consequences for our understanding of one-carbon metabolism, mitochondrial-related disease and the influence of nutrients on DNA mutation rates.

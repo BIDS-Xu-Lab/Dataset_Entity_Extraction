@@ -1,0 +1,8 @@
+Most supergenes discovered so far are young, occurring in one species or a few closely related species.
+An ancient supergene in the ant genus Formica presents an unusual opportunity to compare supergene-associated phenotypes and the factors that influence the persistence of polymorphism in different species.
+We investigate the genetic architecture of social organization in Formica francoeuri, an ant species native to low- and mid-elevation semiarid regions of southern California, and describe an efficient technique for estimating mode of social organization using population genomic data.
+Using this technique, we show that F. francoeuri exhibits polymorphism in colony social organization and that the phenotypic polymorphism is strongly associated with genotypes within the Formica social supergene region.
+The distribution of supergene haplotypes in F. francoeuri differs from that of related species Formica selysi in that colonies with multiple queens contain almost exclusively workers that are heterozygous for alternative supergene haplotypes.
+Moreover, heterozygous workers exhibit allele-specific expression of the polygyne-associated haplotype at the candidate gene Knockout, which is thought to influence social organization.
+We also report geographic population structure and variation in worker size across a large fraction of the species range.
+Our results suggest that, although the Formica supergene is conserved within the genus, the mechanisms that maintain the supergene and its associated polymorphisms differ among species.

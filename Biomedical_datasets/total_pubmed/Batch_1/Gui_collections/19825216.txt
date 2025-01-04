@@ -1,0 +1,10 @@
+The plasma lipid-lowering effect of PUFA, one of their main beneficial effects, is considered to be related to the regulation of lipid biosynthesis through transcription factors including sterol regulatory element binding proteins (SREBP).
+In the present study, we compared the effect of different PUFA on SREBP activity in HepG2 cells, using a sterol regulatory element-luciferase reporter construct as a probe.
+Supplementation with different fatty acids reduced SREBP activity in the order 20 : 5n-3 = 18 : 2n-6 = 20 : 4n-6 "
+6n-3 = 22 : 5n-6 " 18 : 1n-9.
+The suppression of SREBP activity greatly depended on the degree of incorporation of the supplemented PUFA into cellular lipids, and correlated positively with the unsaturation index (r 0.831; P < 0.01) of total cell lipids.
+Supplemented PUFA were also metabolised to longer and more unsaturated species.
+These processing activities were higher for n-3 than n-6 PUFA (P < 0.01).
+We studied the effect of PUFA on the intracellular distribution of non-esterified cholesterol, using filipin staining and fluorescence microscopy with or without the cholesterol traffic blocker U18666A.
+The data show that the incorporation of PUFA increases non-esterified cholesterol flow from the plasma membrane to intracellular membranes.
+We conclude that suppression of SREBP activity by PUFA depends on the degree of incorporation into cellular lipids, and is associated with increased flow of non-esterified cholesterol between the plasma membrane and intracellular membranes.

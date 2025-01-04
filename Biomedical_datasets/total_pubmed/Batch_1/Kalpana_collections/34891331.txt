@@ -1,0 +1,9 @@
+Electrocardiogram (ECG) is mainly used by medical domain to diagnose arrhythmia.
+With the development of deep learning algorithms in the ECG classification field, related algorithms have achieved very high accuracy.
+However, the training of deep learning algorithms always requires large amounts of samples, while the labeled samples are often lacked in the field of medical signals.
+Therefore, the performance of deep learning algorithms will be greatly restricted.
+To overcome the sample scarcity problem, we propose a few-shot ECG classification approach based on the Siamese network.
+This network architecture first uses two one-dimensional convolutional neural network (CNN) that share weights to extract feature vectors of the paired input signals.
+Then, L1-distance between the two feature vectors is calculated and inputted into the fully connected layer with an activation function sigmoid to determine whether the input pairs belong to same category.
+We validated our method on the MIT-BIH arrhythmia database.
+By experiments, our method performs better than existing networks under the circumstance of extremely few amounts of data.

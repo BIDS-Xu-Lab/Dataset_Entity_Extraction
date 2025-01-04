@@ -1,0 +1,7 @@
+Wavelength interrogation surface plasmon resonance imaging (WSPRi) sensing has unique advantages in high-throughput imaging detection.
+The refractive index resolution (RIR) of WSPRi is limited to the order of 10-6 RIU.
+This paper demonstrates a novel WSPRi sensing system with a wavelength scanning device of an acousto-optic tunable filter (AOTF) and a low-cost speckle-free SPR excitation source of a halogen lamp.
+We developed a sensitive quasi-phase extraction method for data processing.
+The new technique achieved an RIR of 8.84×10-7 RIU, which is the first WSPRi system that has an RIR in the order of 10-7 RIU.
+Moreover, we performed a real-time recording of the formation of the coffee ring effect during brine evaporation and enhanced the biosensor performance of SPR for the first time.
+We believe the higher RIR and accuracy of the system will benefit more potential applications toward exploring the biomolecules' behaviors in biological and biochemistry studies.

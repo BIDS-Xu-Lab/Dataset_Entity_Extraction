@@ -1,0 +1,8 @@
+This study describes the protocol for a systematic review.
+The systematic review will address experiences of managing methamphetamine intoxication, specifically violence and agitation related to intoxication, in the emergency department (ED).
+This study uses the Grading of Recommendations Assessment, Development and Evaluation system to guide the methods in this section.
+The primary objective of the review is to identify experimental studies assessing the effectiveness of both pharmacological and non-pharmacological strategies to manage acute methamphetamine intoxication in patients presenting violently in the ED.
+Our secondary objectives will be to assess the impact of specific strategies on the time it takes to achieve de-escalation and/or sedation, the length of stay in the ED, frequency of admission, mortality and provider satisfaction with the intervention.
+Ethics approval has been obtained from the Conjoint Health Research Ethics Board REB21-1387.
+Results will be published in a peer-reviewed journal and presented at healthcare conferences in Canada.
+The protocol is registered through the International Prospective Register of Systematic Reviews (identification number: CRD42020157938) and will be reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extensions for systematic review protocols.

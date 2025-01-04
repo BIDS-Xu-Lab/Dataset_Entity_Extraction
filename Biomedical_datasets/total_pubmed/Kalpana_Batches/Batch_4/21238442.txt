@@ -1,0 +1,13 @@
+PAPP-A is promising in improving risk stratification and invasive treatment decisions in stable cardiovascular patients.
+We evaluated the prognostic value of pregnancy-associated plasma protein A (PAPP-A) measured by a novel assay in stable cardiovascular patients.
+We investigated 228 stable cardiovascular outpatients.
+Blood was drawn for PAPP-A measurement after echocardiography and ergometry prior to heart catheterization.
+Angiographically we determined severity as well as qualitative characteristics suspect for vulnerability of coronary lesions.
+After 1108±297 days, follow-up information was obtained by questionnaire mailings and interviews by phone.
+104 patients had coronary stenosis≥70%, 75 had B-type lesions≥50%, 46 showed complex lesions, and 68 were suspected to have vulnerable lesions.
+Median PAPP-A was 1.76 (interquartile range 1.21, 2.63) μIU/ml in the entire cohort.
+PAPP-A concentrations did not differ in dependence on coronary artery findings.
+A cutpoint of 2.7 μIU/ml was derived from receiver-operator characteristics for outcome measures.
+For this cutoff, Cox proportional hazard models with 19 further clinical variables showed that PAPP-A was predictive for all-cause death (HR 4.73, 95% CI 1.46-15.31, p=0.01), all-cause death or nonfatal infarction (HR 4.01, 95% CI 1.58-10.13, p=0.003) and all-cause death, nonfatal myocardial infarction or hospitalization (HR 1.96, 95% CI 1.03-3.70, p=0.04).
+The predictive value of PAPP-A did not change substantially after correction for values of cardiac troponin, using a highly sensitive cardiac troponin I research assay.
+PAPP-A, measured by a new, monoclonal antibody-based assay is a promising prognostic marker in patients with stable cardiovascular disease and an indication for heart catheterization.

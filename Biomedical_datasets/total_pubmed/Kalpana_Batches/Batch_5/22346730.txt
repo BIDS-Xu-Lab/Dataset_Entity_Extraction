@@ -1,0 +1,10 @@
+Mobility in 6LoWPAN (IPv6 over Low Power Personal Area Networks) is being utilized in realizing many applications where sensor nodes, while moving, sense and transmit the gathered data to a monitoring server.
+By employing IEEE802.15.4 as a baseline for the link layer technology, 6LoWPAN implies low data rate and low power consumption with periodic sleep and wakeups for sensor nodes, without requiring them to incorporate complex hardware.
+Also enabling sensor nodes with IPv6 ensures that the sensor data can be accessed anytime and anywhere from the world.
+Several existing mobility-related schemes like HMIPv6, MIPv6, HAWAII, and Cellular IP require active participation of mobile nodes in the mobility signaling, thus leading to the mobility-related changes in the protocol stack of mobile nodes.
+In this paper, we present LoWMob, which is a network-based mobility scheme for mobile 6LoWPAN nodes in which the mobility of 6LoWPAN nodes is handled at the network-side.
+LoWMob ensures multi-hop communication between gateways and mobile nodes with the help of the static nodes within a 6LoWPAN.
+In order to reduce the signaling overhead of static nodes for supporting mobile nodes, LoWMob proposes a mobility support packet format at the adaptation layer of 6LoWPAN.
+Also we present a distributed version of LoWMob, named as DLoWMob (or Distributed LoWMob), which employs Mobility Support Points (MSPs) to distribute the traffic concentration at the gateways and to optimize the multi-hop routing path between source and destination nodes in a 6LoWPAN.
+Moreover, we have also discussed the security considerations for our proposed mobility schemes.
+The performance of our proposed schemes is evaluated in terms of mobility signaling costs, end-to-end delay, and packet success ratio.

@@ -1,0 +1,8 @@
+Activation of GABA(B) receptors produces analgesia in acute and chronic pain models.
+Data indicate that a possible mechanism for this effect is a GABA(B) receptor-induced blockade of neurokinin-1 (NK-1) receptor gene expression in the spinal cord.
+While much more potent GABA(B) receptor agonists (CGP 44532) have been developed, there is no information on their antinociceptive properties or their ability to influence NK-1 receptors.
+To address these issues, rats were treated with baclofen or CGP 44532 and tested for sedation, ataxia, and pain-related behaviors in a chronic pain model (formalin hindpaw injection).
+In a separate group of experiments the analgesic response to a single dose of CGP 44532 was tested prior, and subsequent to, its chronic administration.
+The results indicate that CGP 44532 is a substantially more potent analgesic than baclofen.
+In addition, after chronic administration baclofen was no longer capable of inducing analgesia or of inhibiting the increased expression of NK-1R mRNA and CGP 44532 was still fully effective in both regards.
+The results suggest that GABA(B) agonists could be clinically useful analgesics.

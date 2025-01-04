@@ -1,0 +1,11 @@
+In neurodegenerative diseases such as Alzheimer's and Parkinson's, excessive irons as well as lactoferrin (Lf), but not transferrin (Tf), have been found in and around the affected regions of the brain.
+These evidences suggest that lactoferrin plays a critical role during neurodegenerative diseases, although Lf-mediated iron transport across blood-brain barrier (BBB) is negligible compared to that of transferrin in normal condition.
+However, the kinetics of lactoferrins and lactoferrin-mediated iron transport are still unknown.
+To determine the kinetic rate constants of lactoferrin-mediated iron transport through BBB, a mass-action based ordinary differential equation model has been presented.
+A Bayesian framework is developed to estimate the kinetic rate parameters from posterior probability density functions.
+The iron transport across BBB is studied by considering both Lf- and Tf-mediated pathways for both normal and pathologic conditions.
+Using the point estimates of kinetic parameters, our model can effectively reproduce the experimental data of iron transport through BBB endothelial cells.
+The robustness of the model and parameter estimation process are further verified by perturbation of kinetic parameters.
+Our results show that surge in high-affinity receptor density increases lactoferrin as well as iron in the brain.
+Due to the lack of a feedback loop such as iron regulatory proteins (IRPs) for lactoferrin, iron can transport to the brain continuously, which might increase brain iron to pathological levels and can contribute to neurodegeneration.
+This study provides an improved understanding of presence of lactoferrin and iron in the brain during neurodegenerative diseases.

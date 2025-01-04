@@ -1,0 +1,10 @@
+The two-photon photolysis of liquid CCl4 with 25 ps pulses of 266 nm light has been studied and compared with similar studies with high energy radiation.
+Both neutral and ionic species are produced from excited states and ionization.
+The emphasis of the study is on the ionic processes, while some data related to excited states and free radicals are presented.
+In both radiolysis and photolysis, a solvent separated charged pair, CCl3+ // Cl-, exhibiting a lambda(max) at 475 nm, is observed that exhibits a total growth over 38 to 100 ps.
+Solutes with ionization potentials less than that of CCl4 (11.47 eV) reduce the yield of the 475 nm species producing radical cations of the solute.
+The efficiency of this process is about 10-fold larger in radiolysis compared with photolysis.
++ // CCl4-, which decays in about 3 ps to CCl4+ // Cl-.
+This species then decays to CCl3+ // Cl-.
+The lifetime of the growth of the 475 nm is measured as 46 ps.
+These studies clearly show areas where radiolysis and photolysis can be quite similar and also areas where the vast difference in excitation energy introduces stark differences in the observed radiation and photoinduced chemistry.

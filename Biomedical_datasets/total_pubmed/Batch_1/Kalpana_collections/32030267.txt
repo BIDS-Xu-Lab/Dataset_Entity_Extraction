@@ -1,0 +1,11 @@
+Esophageal large cell neuroendocrine carcinoma (ELCNC) seems a rarely gastrointestinal malignancy.
+By far, its clinicopathological characteristics and prognosis have not been deeply studied.
+The data of patients having ELCNC was extracted from the Surveillance, Epidemiology, and End Results (SEER) database, then assessed and compared with information from patients with esophageal small cell neuroendocrine carcinoma (ESCNC) or esophageal squamous cell carcinoma (ESCC).
+We used univariate and multivariate analyses to accurately detect independent prognostic factors.
+The data of 36 patients for ELCNC were obtained between 2004 and 2015.
+Compared with patients with ESCNC and ESCC, the mean survival time of ECLNC patients was worse than those with ESCC, while similar to ESCNC.
+Thus, ELCNC had significantly different clinicopathological characteristics compared to ESCNC and ESCC.
+Univariate and multivariate analyses revealed that age (P=0.001) and M stage (P=0.004) were independent prognostic factors.
+ELCNC is a rare subtype of esophageal neuroendocrine carcinoma.
+The clinicopathological features differ from those of other esophageal carcinomas.
+Prognosis may be closely related to age and M stage.

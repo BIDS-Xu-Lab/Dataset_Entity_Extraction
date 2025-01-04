@@ -1,0 +1,7 @@
+Local cerebral glucose utilization (LCGU) was determined in 2- to 8-day-old beagle dogs by the quantitative 14C-deoxyglucose autoradiographic method.
++/- 4 mumol/100 g/min; vestibular nucleus 26 +/- 5; red nucleus 15 +/- 2) and in selected deep cerebral structures (subthalamic nucleus 18 +/- 4; ventrolateral thalamic nucleus 12 +/- 2, ...)
+whereas consistently relative lower glucose consumption is found in the cerebral cortex (mean 7 +/- 1).
+This data is in agreement with local cerebral blood flow studies in the newborn puppy.
+A characteristic functional anatomy of the newborn dog brain is demonstrated.
+The value of 0.558 +/- 0.031 for the lumped constant was used in the calculation of LCGU.
+In puppies previously asphyxiated for 2.5-3.5 min 1-2 days prior to the 2-DG procedure, no significant effect upon regional metabolism was demonstrated.

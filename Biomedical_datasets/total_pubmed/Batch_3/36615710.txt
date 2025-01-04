@@ -1,0 +1,7 @@
+We aimed to test the hypothesis that adherence to a healthful plant-based diet (hPDI) is associated with a subsequent decrease in the incidence of asthma symptoms, with an opposite association with adherence to an unhealthful plant-based diet (uPDI).
+In addition, we evaluated a potential mediating role of body mass index (BMI) and the modifying effect of smoking.
+Among 5700 elderly women from the French Asthma-E3N study with dietary data in 1993 and 2005, we assessed the incidence of asthma symptoms in 2018 among women with no asthma symptoms in 2011.
+Mediation analyses in the counterfactual framework were used to disentangle total, direct, and indirect effects mediated by BMI.
+We found that both healthful and unhealthful plant-based diets were associated with a lower incidence of asthma symptoms over time, mediated by BMI (OR (95%CI) for the indirect effect: 0.94 (0.89-1.00) for hPDI and 0.92 (0.70-1.00) for uPDI)).
+Associations with both healthful and unhealthful PDIs were mediated by changes in BMI by 33% and 89%, respectively.
+Plant-based diets (healthful and unhealthful) were associated with subsequently reduced incidences of asthma symptoms over time, partly or almost totally mediated by BMI according to their nutritional quality.

@@ -1,0 +1,12 @@
+Subarachnoid hemorrhage (SAH) frequently results in severe morbidity, even mortality.
+Hypothermia is known to have a neuroprotective effect in ischemic injuries.
+The aim of this study was to determine whether nasopharyngeal (NP) perfluorochemical (PFC) cooling could be used in a rat model of SAH model for neuroprotection.
+SAH was induced in 16 male Sprague-Dawley rats by cisterna magna injection of 0.3 mL autologous blood.
+Vital signs, temperatures, cerebral blood flow (CBF), and brain histology were assessed.
+Brain cooling was performed on the treatment group using the NP-PFC method starting from 20 minutes after SAH.
+No SAH-related deaths were observed in either group.
+SAH caused an immediate decrease in mean arterial pressure (17.0% ± 4.90% below baseline values).
+SAH induction caused a significant and rapid decrease in CBF from baseline (approximately -65%, ranging from -32% to -85%) in both hemispheres.
+In the left hemisphere, cooling facilitated the return of CBF to baseline values within 20 minutes of treatment with further increase in CBF that stabilized by the 2 hours after injury time point.
+Quantitative immunohistochemistry showed that there were significantly more NeuN-positive cells in the cortex and significantly fewer IBA-1-positive microglia and glial fibrillary acidic protein-positive astrocytes cells in both cortex and hippocampus in the animals that received NP-PFC cooling compared with no treatment, reflecting preserved neuronal integrity and reduced inflammation.
+The data from this study indicate that local hypothermia by NP-PFC cooling supports return of CBF and neuronal integrity and suppresses the inflammatory response in SAH, suggestive of a promising neuroprotective approach in management of SAH.

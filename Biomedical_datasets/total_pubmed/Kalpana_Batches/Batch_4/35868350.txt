@@ -1,0 +1,12 @@
+To summarize current evidence regarding facility and prescriber characteristics associated with potentially harmful medication (PHM) use by residents in nursing homes (NHs), which could inform the development of interventions to reduce this potentially harmful practice.
+Studies conducted in the United States that described facility and prescriber factors associated with PHM use in NHs.
+Electronic searches of PubMed/MEDLINE were conducted for articles published in English between April 2011 and November 2021.
+PHMs were defined based on the Beers List criteria.
+Studies testing focused interventions targeting PHM prescribing or deprescribing were excluded.
+Studies were characterized by the strengths and weaknesses of the analytic approach and generalizability.
+Of these, 29 were assessed in full text and 20 met inclusion criteria.
+Sixteen examined antipsychotic medication (APM) use, 2 anticholinergic medications, 1 sedative-hypnotics, and 2 overall PHM use.
+APM use was most commonly associated with facilities with a higher proportion of male patients, younger patients, and patients with severe cognitive impairment, anxiety, depression, and aggressive behavior.
+The use of APM and anticholinergic medications was associated with low registered nurse staffing ratios and for-profit facility status.
+Included studies primarily examined APM use.
+The most commonly reported facility characteristics were consistent with previously reported indicators of poor NH quality and NHs with patient case mix more likely to use PHMs.

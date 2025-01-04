@@ -1,0 +1,5 @@
+Two hundred and forty-five patients with stage I glottic laryngeal cancer were treated with radiotherapy in Center of Oncology in Kraków between 1973 and 1988.
+One hundred and fifty-five patients were irradiated with Co-60 unit, 90 patients with mixed photon-electron beam.
+The 5-year NED survival rates after the radiotherapy only were 85.3%, after the radiotherapy and surgery for recurrences--95.1%.
+The sex, age, local extension of primary tumor (T1a vs. T1b), location of the tumor on true vocal cord and involvement of anterior commissure were evaluated in a uni- and multivariate analysis of prognostic factors.
+For the end-point of 5-year NED survival no statistically significant relationship was found between results and analysis variables.

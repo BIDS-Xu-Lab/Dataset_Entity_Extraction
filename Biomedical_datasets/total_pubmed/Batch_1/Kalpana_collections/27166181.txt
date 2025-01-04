@@ -1,0 +1,10 @@
+The plant metabolite andrographolide induces cell cycle arrest and apoptosis in cancer cells.
+The mechanism(s) by which andrographolide induces apoptosis however, have not been elucidated.
+The present study was performed to determine the molecular events that promote apoptosis in andrographolide treated cells using T84, HCT116 and COLO 205 colon cancer cell lines.
+Andrographolide was determined to limit colony formation and Ki67 expression, alter nuclear morphology, increase cytoplasmic histone-associated-DNA-fragments, and increase cleaved caspase-3 levels.
+Andrographolide also induced significantly higher expression of endoplasmic reticulum (ER) stress proteins GRP-78 and IRE-1 by 48 h but not PERK or ATF6.
+Apoptosis signaling molecules BAX, spliced XBP-1 and CHOP were also significantly increased.
+Moreover, chemical inhibition of ER stress or IRE-1 depletion with siRNA in andrographolide treated cells significantly limited expression of IRE-1 and CHOP as determined by immunofluorescence staining, real time PCR, or immunobloting.
+This was accompanied by a decreased BAX/Bcl-2 ratio.
+Andrographolide significantly promotes cancer cell death compared to normal cells.
+These data demonstrate that andrographolide associated ER stress contributes to apoptosis through the activation of a pro-apoptotic GRP-78/IRE-1/XBP-1/CHOP signaling pathway.

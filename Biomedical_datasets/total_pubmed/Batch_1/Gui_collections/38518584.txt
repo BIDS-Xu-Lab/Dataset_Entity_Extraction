@@ -1,0 +1,11 @@
+Psychological variables substantially shape the risk of suicidal thoughts and behaviours (STBs).
+However, it is unclear to what extent they are considered in individuals with cancer.
+We synthesized the quantitative research landscape concerning psychological risk/protective factors of STBs in the (psycho-) oncological context.
+This pre-registered review (PROSPERO-ID CRD42022331484) systematically searched the databases PubMed/Medline, CINAHL, PsycInfo, Cochrane Library, and Web of Science (as well as the grey literature and preprints).
+Risk of bias (RoB) was estimated using the ROBINS-I tool.
+Of 11,159 retrieved records, 319 studies were eligible for inclusion.
+Of those, 163 (51.1%) had investigated psychological factors (affective: n = 155; social: n = 65; cognitive: n = 63; personality/individual differences: n = 37; life events: n = 6), in a combined 3,561,741 participants.
+The most common STBs were suicidal ideation (n = 107) or death wishes (n = 20) rather than behaviour (suicide deaths: n = 26; attempts: n = 14).
+Most studies had a serious RoB.
+Thus, a large body of research investigated STBs in cancer patients/survivors, but it rarely aligned with the theoretical or clinical developments in suicide research.
+We propose a conceptual model of STBs in cancer delineating moderation and mediation effects to advance the integration of the fields, and to inform future research and practice.

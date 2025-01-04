@@ -1,0 +1,6 @@
+Primary metabolites are molecules of essential biochemical reactions that define the biological phenotype.
+All primary metabolites cannot be measured in a single analysis.
+In this protocol, we outline the multiplexed and quantitative measurement of 106 metabolites that cover the central part of primary metabolism.
+The protocol includes several sample preparation techniques and one liquid chromatography-mass spectrometry method.
+Then, we describe the steps of the bioinformatic data analysis to better understand the metabolic perturbations that may occur in a biological system.
+For complete details on the use and execution of this protocol, please refer to: Costanza et al.,1 Blomme et al.,2 Blomme et al.,3 Guillon et al.,4 Stuani et al.5.

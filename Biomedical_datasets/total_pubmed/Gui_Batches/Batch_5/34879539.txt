@@ -1,0 +1,10 @@
+The current demand for alternative water sources requires the incorporation of low-cost composites in remediation technologies.
+These represent a sustainable alternative to more expensive, commercially used adsorbents.
+The main objective of this comprehensive field-scale study was to incorporate the layered double hydroxides (LDHs) into the hybrid biochar-based composites and apply an innovative material to remediate As/Sb-rich mine waters.
+The presence of hydrous Fe oxides (HFOs) within the composite enhanced the total adsorption efficiency of the composite for As(V) and Sb(V).
+The kinetic data fitted a pseudo-second order model.
+Equilibrium experiments confirmed that the composite had a stronger interaction with As(V) than with Sb(V).
+The efficient removal of As(V) from mine water was achieved in both batch and continuous flow column systems, reaching up to 98% and 80%, respectively.
+Sb(V) showed different behavior to As(V) during mine water treatment, reaching adsorption efficiencies of up to 39% and 26% in batch and column experiments, respectively.
+The migration of Sb(V) in mine water was mostly attributed to its dispersion before it was able to show affinity to the composite.
+In general, the proposed column technology is suitable for the field remediation of small volumes of contaminated water, and thus has significant commercial potential.

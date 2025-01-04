@@ -1,0 +1,9 @@
+The energy intake goal is important to achieving energy intake in critically ill patients, yet clinical outcomes associated with energy goals have not been reported.
+This secondary analysis used the Improving Nutrition Practices in the Critically III International Nutrition Surveys database from 2007-2009 to evaluate whether mortality or time to discharge alive is related to use of complex energy prediction equations vs weight only.
+The sample size was 5672 patients in the intensive care unit (ICU) ≥ 4 days and a subset of 3356 in the ICU ≥ 12 days.
+Mortality and time to discharge alive were compared between groups by regression, controlling for age, sex, admission type, Acute Physiology and Chronic Health Evaluation II score, ICU geographic region, actual energy intake, and obesity.
+[CI], 0.86-1.15), but obesity (OR, 0.83; 95% CI, 0.71-0.96) and higher energy intake (OR, 0.65; 95% CI, 0.56-0.76) had lower odds of mortality.
+Time to discharge alive was shorter in patients fed using weight-only equations (hazard ratio [HR], 1.11; 95% CI, 1.01-1.23) in patients staying ≥ 4 days and with greater energy intake (HR, 1.19; 95% CI, 1.06-1.34) in patients in the ICU ≥ 12 days.
+These data suggest that higher energy intake is important to survival and time to discharge alive.
+However, the analysis was limited by actual energy intake <70% of goal.
+Delivery of full goal intake will be needed to determine the relationship between the method of determining energy goal and clinical outcomes.

@@ -1,0 +1,9 @@
+Vascular calcification (VC) is frequent prevalence in patients with chronic kidney disease (CKD) and atherosclerosis.
+Lanthanum carbonate is used as an orally administered phosphate-binding agent to reduce the gastrointestinal absorption of phosphate and ameliorate VC in advanced CKD.
+In this study, we used bovine vascular smooth muscle cells as a model VC in vitro and studied the effects of lanthanum chloride on calcium deposition.
+Exposure of cells to LaCl(3) at the concentration of 0.1 µM suppressed the β-glycerophosphate-induced alkaline phosphatase activity and calcium deposition.
+Furthermore, LaCl(3) upregulated the β-glycerophosphate-suppressed expression of calcium-sensing receptor.
+In contrast to the inhibitory effect of LaCl(3) on calcium deposition, higher level lanthanum (50 µM) was found to promote immediately precipitation of calcium phosphate in cell culture medium.
+At this concentration, LaCl(3) was found to induce cell apoptosis which involves caspases-9 and -3.
+These data indicate that the promotory effect of LaCl(3) on calcium deposition is likely mediated by induction of apoptosis.
+Our in vitro findings do suggest that, in the context of raised lanthanum, greater attention should be paid to potential toxic effects associated to the use of lanthanide-based drugs.

@@ -1,0 +1,16 @@
+Robot-assisted laparoscopic surgery (RALS) has recently been described in children < 1 year old.
+However, little data exist on robotic utilization in infants ≤ 6 months old, likely due to concerns for limited intraabdominal space and decreased distance between ports in this cohort.
+We hypothesized that the robotic approach can be successfully used for infants ≤ 6 months old.
+A prospectively collected database of patients undergoing urologic robotic surgery at our institution was reviewed.
+Patient demographics, intraoperative details, hospital length of stay, and complications were reviewed.
+Twelve patients ≤ 6 months old underwent urologic robotic surgery by three surgeons at our institution (2013-2019): pyeloplasty (6), ureteroureterostomy (4), heminephrectomy (1), and nephrectomy (1).
+Median age at surgery was 4.75 months (IQR 4, 6).
+Median weight was 7.09 kg (IQR 6.33, 7.78).
+Median console time was 105 min (IQR 86, 123).
+For all procedures, 8-mm robotic arm ports were used.
+No procedures were converted to open.
+Median post-operative hospital stay was 24 h (IQR).
+Febrile UTI was the only complication occurring within 30 days of surgery (n = 4, 33%; 7-20 days, Clavien grade 2).
+For those undergoing pyeloplasty or ureteroureterostomy (n = 10), postoperative ultrasound showed improved (n = 9) or stable hydronephrosis (n = 1).
+At a median follow-up of 19.73 months (IQR 4.27, 38.32), no patient required an unplanned secondary intervention.
+Robotic upper urinary tract surgery is feasible and safe in patients ≤ 6 months of age and can be performed successfully with the same technique as for older children.

@@ -1,0 +1,17 @@
+Circulating 25-hydroxyvitamin D (25-OHD) levels vary among human populations.
+Only limited information regarding determinants of these measures is available for infants and children, particularly in minority groups at greatest risk for vitamin D deficiency.
+We identified demographic determinants of circulating 25-OHD in a large cohort of minority children, and now extend our studies to examine potential roles of vitamin D binding protein (DBP) as a determinant of 25-OHD levels.
+Serum DBP level and common single nucleotide polymorphisms (SNPs) at positions 432 and 436 in the GC gene, encoding DBP, were examined.
+We confirmed self-reported ancestry using ancestry informative markers (AIMs), and included quantitative AIMs scores in the analysis.
+The multivariate model incorporated previously identified demographic and nutritional determinants of 25-OHD in this cohort, as well as GC SNPs and circulating DBP.
+Genetic variants in GC differed by self-reported ancestry.
+The 1f allele (D432/T436) was enriched in African Americans, occurring in 71%.
+Homozygosity for the 1f allele (DDTT) occurred in 53% of African Americans but only 6% of Caucasians and 13% of Hispanics.
+Circulating DBP was significantly correlated with 25-OHD.
+GC SNPs were associated with both circulating DBP and 25-OHD.
+It appears that progressive substitution of lysine for threonine at the 436 position results in lower circulating 25-OHD.
+Multivariate analysis revealed that genetic variance in GC significantly contributes to circulating DBP as well as 25-OHD.
+Moreover, the effect of GC SNPs on 25-OHD are evident after adjusting for their effects on circulating DBP.
+Thus in young children genetic variance of the common GC T436K SNP affects circulating levels of the DBP protein, which in turn affects circulating 25-OHD.
+However, the GC genotype also affects circulating 25-OHD independently of its effect on circulating DBP.
+These findings provide data that may be important in the interpretation of vitamin D status in children of varying ancestral backgrounds.

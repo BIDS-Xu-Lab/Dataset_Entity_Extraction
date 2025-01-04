@@ -1,0 +1,8 @@
+The discovery of the constitutive activation of KIT/PDGFRA tyrosine kinases in gastrointestinal stromal tumors (GISTs) led to the development of the targeted drug imatinib.
+However, the inevitable development of imatinib resistance remains a major issue.
+Ripretinib is a novel targeted drug that inhibits the activity of a broad spectrum of drug-resistant KIT/PDGFRA mutants.
+It was approved in 2020 and is currently recommended in major international guidelines as fourth-line and beyond therapy for advanced GISTs.
+Emerging evidence shows that ripretinib is superior to sunitinib as second-line treatment for KIT exon 11-mutated GISTs due to its activity against highly heterogeneous frequently occurring secondary mutations.
+This review summarizes current data on the use of ripretinib to treat advanced imatinib-resistant GISTs.
+We also propose future research directions to improve the precision of targeted GIST treatment.
+This article is protected by copyright.

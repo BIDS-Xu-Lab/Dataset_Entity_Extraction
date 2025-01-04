@@ -1,0 +1,11 @@
+During COVID-19 pandemic, the emergency department (ED) was challenged to treat patients with COVID-19-related symptom.
+Therefore, the aim of this study was to investigate treatment delay and prognostic outcomes in ST-segment elevation myocardial infarction (STEMI) patients during COVID-19 pandemic due to isolation or precaution and compare it with pre-COVID-19 period.
+This was a retrospective observation study using multicenter data with different case mix.
+Anonymized data were collected through each center's electronic medical data of common case report form.
+Primary outcomes were number and rate of in-hospital mortality within 28 days.
+Secondary outcomes were door-to-balloon time and length of stay in the ED.
+Kaplan-Meier estimation and Cox proportional hazard regression analysis were performed to determine impact of predictors on 28-day in-hospital mortality.
+The 28-day mortality rate did not show a statistically significant difference depending on symptoms suggestive of COVID-19 during the pre-COVID-19 period (15.4% vs. 6.8%, P=.1257).
+However, it was significantly higher during the COVID-19 period (21.1% vs. 6.7%, P=.0102) in patients with COVID-19 suggestive symptoms than in patients without the symptoms.
+In Korea, symptoms suggestive of COVID-19 during the pandemic had a significant effect on the increase of door-to-balloon time and 28-day mortality in STEMI patients.
+Thus, health authorities need to make careful decision in designating symptoms indicated for isolation in ED based on opinions of various medical field experts.

@@ -1,0 +1,15 @@
+Risk-adjusted mortality is widely used to benchmark trauma center care.
+Patients presenting with isolated hip fractures (IHFs) are usually excluded from these evaluations.
+However, there is no standardized definition of an IHF.
+We aimed to evaluate whether there is consensus on the definition of an IHF used as an exclusion criterion in studies evaluating the performance of trauma centers in terms of mortality.
+We conducted a systematic review of observational studies.
+We searched the electronic databases MEDLINE, EMBASE, BIOSIS, The Cochrane Library, CINAHL, TRIP Database, and PROQUEST for cohort studies that presented data on mortality to assess the performance of trauma centers and excluded IHF.
+A standardized, piloted data abstraction form was used to extract data on study settings, IHF definitions and methodological quality of included studies.
+Consensus was considered to be reached if more than 50% of studies used the same definition of IHF.
+We identified 8,506 studies of which 11 were eligible for inclusion.
+Only two studies (18%) used the same definition of an IHF.
+Three (27%) used a definition based on Abbreviated Injury Scale (AIS) Codes and five (45%) on International Classification of Diseases (ICD) codes.
+Four (36%) studies had inclusion criteria based on age, five (45%) on secondary injuries, and four (36%) on the mechanism of injury.
+Eight studies (73%) had good overall methodological quality.
+We observed important heterogeneity in the definition of an IHF used as an exclusion criterion in studies evaluating the performance of trauma centers.
+Consensus on a standardized definition is needed to improve the validity of evaluations of the quality of trauma care.

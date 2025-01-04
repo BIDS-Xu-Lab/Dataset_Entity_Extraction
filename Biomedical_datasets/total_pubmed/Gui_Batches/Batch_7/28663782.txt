@@ -1,0 +1,13 @@
+Absent adaptive, individualized dose-finding in early-phase oncology trials, subsequent 'confirmatory' Phase III trials risk suboptimal dosing, with resulting loss of statistical power and reduced probability of technical success for the investigational drug.
+While progress has been made toward explicitly adaptive dose-finding and quantitative modeling of dose-response relationships, most such work continues to be organized around a concept of 'the' maximum tolerated dose (MTD).
+The purpose of this paper is to demonstrate concretely how the aim of early-phase trials might be conceived of, not as 'dose-finding', but as dosing algorithm-finding.
+A Phase I dosing study is simulated, for a notional cytotoxic chemotherapy drug, with neutropenia constituting the critical dose-limiting toxicity.
+The drug's population pharmacokinetics and myelosuppression dynamics are simulated using published parameter estimates for docetaxel.
+The amenability of this model to linearization is explored empirically.
+The properties of a simple dose titration algorithm targeting neutrophil nadir of 500 cells/mm 3 using a Newton-Raphson heuristic are explored through simulation in 25 simulated study subjects.
+Individual-level myelosuppression dynamics in the simulation model approximately linearize under simple transformations of neutrophil concentration and drug dose.
+The simulated dose titration exhibits largely satisfactory convergence, with great variance in individualized optimal dosing.
+The large inter-individual variability in simulated optimal dosing underscores the need to replace 'the' MTD with an individualized concept of MTD i .
+To illustrate this principle, the simplest possible dose titration algorithm capable of realizing such a concept is demonstrated.
+Qualitative phenomena observed in this demonstration support discussion of the notion of tuning such algorithms.
+The individual-level linearization of myelosuppression dynamics demonstrated for the simulation model used here suggest that a titration algorithm specified in the more general terms of the linear Kalman filter will be worth exploring.

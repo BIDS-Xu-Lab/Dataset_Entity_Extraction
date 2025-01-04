@@ -1,0 +1,7 @@
+Power laws are of interest to several scientific disciplines because they can provide important information about the underlying dynamics (e.g. scale invariance and self-similarity) of a given system.
+Because power laws are of increasing interest to the cardiac sciences as potential indicators of cardiac dysfunction, it is essential that rigorous, standardized analytical methods are employed in the evaluation of power laws.
+This study compares the methods currently used in the fields of condensed matter physics, geoscience, neuroscience, and cardiology in order to provide a robust analytical framework for evaluating power laws in stem cell-derived cardiomyocyte cultures.
+One potential power law-obeying phenomenon observed in these cultures is pacemaker translocations, or the spatial and temporal instability of the pacemaker region, in a 2D cell culture.
+Power law analysis of translocation data was performed using increasingly rigorous methods in order to illustrate how differences in analytical robustness can result in misleading power law interpretations.
+Non-robust methods concluded that pacemaker translocations adhere to a power law while robust methods convincingly demonstrated that they obey a doubly truncated power law.
+The results of this study highlight the importance of employing comprehensive methods during power law analysis of cardiomyocyte cultures.

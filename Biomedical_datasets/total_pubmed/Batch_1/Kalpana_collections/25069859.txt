@@ -1,0 +1,11 @@
+The efficacy of sentinel lymph node (SLN) surgery requires targeted removal of first-draining nodes; however, frequently more nodes are removed than necessary.
+[(99m)Tc]tilmanocept (TcTM) is a molecular-targeted radiopharmaceutical specifically designed for SLN mapping.
+We evaluated technical outcomes of SLN biopsy in breast cancer patients mapped with TcTM + vital blue dye (VBD) versus filtered [(99m)Tc]sulfur colloid (fTcSC) + VBD.
+There were 84 versus 115 patients in the TcTM versus fTcSC cohorts, respectively.
+Main measures were the number of SLNs removed per patient and factors influencing number of nodes removed.
+We also evaluated whether the radiotracer injected affected the proportion of positive nodes removed in node-positive patients.
+Fewer nodes were removed among patients mapped with TcTM compared to fTcSC (mean TcTM: 1.85 vs. fTcSC: 3.24, p < 0.001).
+Logistic regression analysis adjusted for tumor characteristics showed that injection of fTcSC (p < 0.001) independently predicted removal of greater than 3 nodes.
+A similar proportion of patients was identified as node-positive, whether mapped with TcTM or with fTcSC (TcTM: 24 % vs. fTcSC: 17 %, p = 0.3); however, TcTM detected a greater proportion of positive nodes among node-positive patients compared with fTcSC (0.73 vs. 0.43, p = 0.001).
+Patients undergoing SLN biopsy with TcTM required fewer SLNs to identify the same rate of node-positive patients compared with fTcSC in breast cancer patients with similar risk of axillary metastatic disease.
+These data suggest that a molecularly targeted mechanism of SLN identification may reduce the total number of nodes necessary for accurate axillary staging.

@@ -61,8 +61,6 @@ for i in des_list:
   des = i['description']
   out = i['output']
 
-  os.system(f'''curl https://api.openai.com/v1/files/{out}/content \
-  -H "Authorization: Bearer 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" > /home/gy237/project/llama3/new_data/download_openai/multicare_pmc_explation/{des}''')
 
 
 
@@ -79,9 +77,6 @@ for i in des_list:
 # file-i5X1KLHZtYl7k67prv6Ia7fW
 # file-qHNVioWyohK9X0ZXbwSxNE3M
 
-'''curl https://api.openai.com/v1/files/file-eiYSxGXBiJKd8mhasGXrkfVu \
-  -H "Authorization: Bearer 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" > /home/gy237/project/llama3/new_data/uploda_openai/multicare_pmc_explation/error.jsonl
-'''
 
 # # Retrieving the Results
 # # file-tOrHABMkkqiTCGQrclhxKe8m

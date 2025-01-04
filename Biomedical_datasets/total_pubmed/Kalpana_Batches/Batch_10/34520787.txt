@@ -1,0 +1,12 @@
+The e-cigarette or vaping product-use-associated lung injury outbreak in the United States has raised concerns about the potential health effects of cannabis vaping, a method of cannabis use that is becoming increasingly popular.
+We used 2017-2019 Behavioral Risk Factor Surveillance System data to estimate yearly prevalence and trends of past-30-day cannabis use and vaping among US adults.
+We used multivariable logistic regression to evaluate the associations of cannabis vaping with high-risk behaviors, asthma, and other respiratory symptoms.
+Our sample size was 160,209 (53,945-2017; 55,475-2018; and 50,789-2019).
+Past-30-day cannabis use prevalence increased from 10.0% (95% CI, 9.4%-10.7%) in 2017 to 13.4% (12.8%-12.0%) in 2019.
+Similarly, past-30-day cannabis vaping prevalence increased from 1.0% (0.8%-1.2%) to 2.0% (1.7%-2.2%) over the same period, with the greatest increase, 1.2% to 3.9%, observed among young adults (18-24 years).
+Individuals who vaped cannabis were more likely to concurrently vape nicotine.
+Cannabis vaping was associated with increased odds of heavy alcohol use (aOR, 1.95; 95% CI, 1.45-2.63), binge drinking (aOR, 2.82; 95% CI, 2.25-3.54), and other high-risk behaviors (aOR, 2.47; 95% CI, 1.89-3.24).
+In analyses adjusting for sociodemographic characteristics and body mass index, cannabis vaping was not associated with asthma (aOR, 1.03; 95% CI, 0.64-1.64) or other respiratory symptoms (aOR, 1.08; 95% CI, 0.44-2.63).
+Adjusting for nicotine vaping did not substantively alter these associations.
+The prevalence of past-30-day cannabis vaping has increased, particularly among young adults, and was associated with high-risk behaviors.
+Although there was no association between cannabis vaping and asthma or other respiratory symptoms, the increasing trends of cannabis vaping, particularly among young adults, raise concern and underscore the need for continued surveillance.

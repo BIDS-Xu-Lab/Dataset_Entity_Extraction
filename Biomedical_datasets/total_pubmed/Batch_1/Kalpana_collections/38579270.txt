@@ -1,0 +1,6 @@
+Severe traumatic brain injuries typically result in loss of consciousness or coma.
+In deeply comatose patients with traumatic brain injury, cortical dynamics become simple, repetitive, and predictable.
+We review evidence that this low-complexity, high-predictability state results from a passive cortical state, represented by a stable repetitive attractor, that hinders the flexible formation of neuronal ensembles necessary for conscious experience.
+Our data and those from other groups support the hypothesis that this cortical passive state is because of the loss of thalamocortical input.
+We identify the unpredictability and complexity of cortical dynamics captured by local field potential as a sign of recovery from this passive coma attractor.
+In this Perspective article, we discuss how these electrophysiological biomarkers of the recovery of consciousness could inform the design of closed-loop stimulation paradigms to treat disorders of consciousness.

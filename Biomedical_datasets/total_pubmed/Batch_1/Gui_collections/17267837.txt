@@ -1,0 +1,12 @@
+To report the incidence of cervical cancer by geography, race or ethnicity, and histology.
+We examined combined data from the National Program of Cancer Registries and the Surveillance, Epidemiology, and End Results Program covering 87% of the U.S. population.
+We calculated the age-adjusted incidence of cervical cancer by age, race or ethnicity, histology, and stage by region or state.
+Rates of invasive cancer per 100,000 females declined from 10.2 in 1998 to 8.5 in 2002.
+Incidence rates by state ranged from 6.6 to 12.3 per 100,000.
+Rates were especially high among Hispanic women aged 40 years or older (26.5 or more) and African-American women aged older than 50 years (23.5 or more).
+Rates of squamous cell carcinoma were significantly higher among African-American and Hispanic women than among their white counterparts.
+In contrast, rates of adenocarcinoma (18% of all cases) were significantly lower among African-American women than in white women (rate ratio 0.88, P<.05).
+Rates of adenocarcinoma were significantly higher among Hispanic women than among non-Hispanics (rate ratio 1.71, P<.05).
+Although no regional differences were noted for adenocarcinoma, rates of squamous cell carcinoma were higher in the South than in other regions.
+Despite intense screening in the past decade, higher rates of cervical cancer persist among women in the South and women who are African American or Hispanic.
+This information could guide more focused interventions to increase access to screening with cervical cytology as well as vaccination against human papillomavirus.

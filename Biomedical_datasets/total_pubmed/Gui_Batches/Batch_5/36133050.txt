@@ -1,0 +1,10 @@
+Two dimensional (2D) carbonaceous materials such as graphene and its derivatives, e.g., graphdiyne, have enormous potential possibilities in major fields of scientific research.
+Theoretically, it has been proposed that the perfect atomic lattice arrangement of these materials is responsible for their outstanding physical and chemical properties, and also for their poor magnetic properties.
+Experimentally, it is difficult to obtain a perfect atomic lattice of carbon atoms due to the appearance of structural disorder.
+This structural disorder is generated during the growth or synthesis of carbon-related materials.
+Investigations of structural disorder reveal that it can offer both advantages and disadvantages depending on the application.
+For instance, disorder reduces the thermal and mechanical stability, and deteriorates the performance of 2D carbon-based electronic devices.
+The most interesting effect of structural disorder can be seen in the field of magnetism.
+Disorder not only creates magnetic ordering within 2D carbon materials but also influences the local electronic structure, which opens the door for future spintronic devices.
+Although various studies on the disorder induced magnetism of 2D carbon materials are available in the literature, some parts of the above field have still not been fully exploited.
+This review presents existing work for the future development of 2D carbon-based devices.

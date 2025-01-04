@@ -1,0 +1,7 @@
+α-Amylase play important role in hydrolyses of α-bonds of large α-linked polysaccharides; thus, it is a potential drug target in diabetes mellites (DM) and its inhibition is one of the therapeutic strategies in DM.
+With the aim to discover novel and safer therapeutic molecules to combat diabetes, a huge dataset of ∼0.69 billion compounds from ZINC20 database were screened against α-amylase using multi-fold structure-based virtual screening protocol.
+Based on receptor-based pharmacophore model, docking results, pharmacokinetic profile, molecular interactions with α-amylase, several compounds were retrieved as lead candidates to be further scrutinized in the in vitro assay and in vivo animal testing.
+Among the selected hits, CP26 exhibited the highest binding free energy in MMGB-SA analysis, followed by CP7 and CP9, which is higher than the binding free energy of acarbose.
+While CP20 and CP21 showed comparative binding free energy to acarbose.
+All the selected ligands showed acceptable binding energy range, therefore, several molecules with enhanced efficacy can be designed by derivatizing these molecules.
+The in-silico results indicates that the selected molecules could serve as potential selective α-amylase inhibitors and can be used for the treatment of diabetes.

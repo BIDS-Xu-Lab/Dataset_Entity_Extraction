@@ -1,0 +1,9 @@
+To examine contextual factors that may facilitate or impede the provision of school health services.
+Using a composite database derived primarily from the National Longitudinal Study of Adolescent Health, we used logistic regression to examine how selected characteristics of communities, schools, and state-level policies are related to the provision of specific health services by high schools.
+Schools whose students experienced more health risks were generally more likely to provide related services than schools whose students experienced fewer risks.
+State policies and requirements for health-related programs and services were associated with greater school-based provision of services.
+Availability of health care services within the community was associated with a reduced likelihood that schools provided similar services on-site; however, for some health services, the reverse was true.
+In general, more affluent communities were more likely to provide school health services than less affluent communities.
+Public schools were more likely to offer health services than private schools.
+Certain characteristics of communities, schools, and state-level policies are associated with the provision of school health services.
+These contextual factors appear to operate by creating a demand for services and by creating the opportunity for schools to provide health services.

@@ -1,0 +1,9 @@
+The conservation of many fragmented and small populations of endangered African wild dogs (Lycaon pictus) relies on understanding the natural processes affecting genetic diversity, demographics, and future viability.
+We used extensive behavioural, life-history, and genetic data from reintroduced African wild dogs in South Africa to (1) test for inbreeding avoidance via mate selection and (2) model the potential consequences of avoidance on population persistence.
+Results suggested that wild dogs avoided mating with kin.
+Inbreeding was rare in natal packs, after reproductive vacancies, and between sibling cohorts (observed on 0.8%, 12.5%, and 3.8% of occasions, respectively).
+Only one of the six (16.7%) breeding pairs confirmed as third-order (or closer) kin consisted of animals that were familiar with each other, while no other paired individuals had any prior association.
+Computer-simulated populations allowed to experience inbreeding had only a 1.6% probability of extinction within 100 years, whereas all populations avoiding incestuous matings became extinct due to the absence of unrelated mates.
+Populations that avoided mating with first-order relatives became extinct after 63 years compared with persistence of 37 and 19 years for those also prevented from second-order and third-order matings, respectively.
+Although stronger inbreeding avoidance maintains significantly more genetic variation, our results demonstrate the potentially severe demographic impacts of reduced numbers of suitable mates on the future viability of small, isolated wild dog populations.
+The rapid rate of population decline suggests that extinction may occur before inbreeding depression is observed.

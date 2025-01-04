@@ -1,0 +1,14 @@
+In burn patients it has been shown ([2]), that there is a correlation between the creatinine clearance (CL(CR)) and the clearance of inulin.
+The CL(CR) has never been studied in burn patients who have normal serum creatinine.
+The Robert, Kirkpatrick and sMDRD formulae have never been evaluated in burn patients.
+Despite burn patients having normal serum creatinine concentrations, the study showed that there are large variations in CL(CR) which cannot be detected by single serum creatinine measurements, and which have important implications for drug therapy.
+It showed that the formulae currently used to calculate creatinine clearance on the basis of serum creatinine are inadequate for use in burn patients, and they should be abandoned in favour of direct measurement from a 24 h urine collection.
+The aim of this study was to evaluate whether the renal function of burn patients could be correctly assessed using a single serum creatinine measurement, within normal limits, and three prediction equations of glomerular filtration taking into account, serum creatinine, age, weight and sex.
+This was a prospective study comprising 36 adult burn patients with a serum creatinine <120 micromol l(-1), within the second or third week following the burn injury.
+Renal function was assessed using serum creatinine, 24 h urinary CL(CR), and the Cockcroft-Gault, Robert, Kirkpatrick and simplified MDRD equations.
+Despite normal serum creatinine concentrations in all patients, a significant number had a decreased CL(CR).
+The urinary CL(CR) was <80 ml(-1) min(-1) 1.73 m(-2) in nine patients (25%), and <60 ml(-1) min(-1) 1.73 m(-2) in five patients (14%).
+Between the groups having a CL(CR) lower or greater than 80 ml(-1) min(-1) 1.73 m(-2) there were no differences in gender, burn indices, percentage of mechanically ventilated patients or length of hospital stay, but a difference in age.
+The highest CL(CR) (>140 ml(-1) min(-1) 1.73 m(-2)) was found in 13 patients younger than 40 years.
+Regression analysis, residual and Bland-Altman plots revealed that neither the Cockcroft-Gault, Robert, Kirkpatrick nor sMDRD equations were specific enough for the assessment of renal function.
+In burn patients with normal serum creatinine during the hypermetabolic phase, serum creatinine and creatine based predictive equations are imprecise in assessing renal function.

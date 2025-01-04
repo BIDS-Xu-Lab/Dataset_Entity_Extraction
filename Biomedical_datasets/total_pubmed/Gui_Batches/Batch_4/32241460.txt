@@ -1,0 +1,9 @@
+Besides on the reproductive performance, the light also has an important effect on the growth in birds.
+In the present study, we for the first time investigated effects of colored light-emitting diodes (LED) on both growth performance and fecal microbiota in meat geese.
+We randomly selected a total of 120 geese at birth (0-day), divided them into 3 groups evenly (i.e., 40 geese each group), and then reared them under 3 colored light-emitting diodes (i.e., blue, red, and white) with the same photoperiod for 9 wk, respectively.
+We collected fecal samples at the experimental day 35 and 63, respectively.
+We observed that geese in blue light had higher body weight than those in red and white lights at the early stage of the experiment but showed lower body weight at the late stage, particularly at day 63 (P < 0.05).
+Interestingly, we found that the relative abundances of 3 dominant bacteria phyla, Firmicutes, Proteobacteria, and Cyanobacteria, were comparable among 3 groups at day 35, while at day 63, the blue light group had the significantly (P < 0.05) lowest and highest abundance for Firmicutes and Proteobacteria, respectively.
+Functional enrichment analyses revealed that the fecal microbiota in the red light group was mainly involved in metabolism at day 35, whereas at day 63, the fecal microbiota were engaged into membrane transportation and transcription.
+In contrast, the blue light group had more enriched pathways relevant with membrane transportation at day 63 than day 35 and had several pathways involved in metabolism at day 63 as well.
+Collectively, our results revealed that the light with different colors affects the growth performance of geese via the gut microbiota, which in turn influences the digestion and absorption of geese.

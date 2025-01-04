@@ -1,0 +1,13 @@
+The Archaea domain was recognized as a separate phylogenetic lineage in the tree of life nearly 3 decades ago.
+It is now known as part of the human microbiome; however, given that its roles in oral sites are still poorly understood, this review aimed to establish the current level of evidence regarding archaea in the oral cavity to guide future research, providing insights on the present knowledge about the human oral archaeome.
+A scoping review was conducted with the PRISMA Extension for Scoping Reviews checklist.
+Five electronic databases were searched, as well as gray literature.
+Two independent reviewers performed the selection and characterization of the studies.
+Clinical studies were included when the target population consisted of humans of any age who were donors of samples from the oral cavity.
+A qualitative analysis was performed, based on the type of oral site and by considering the methods employed for archaeal identification and taxonomy, including the DNA extraction protocols, primers, and probes used.
+Fifty articles were included in the final scoping review, published from 1987 to 2019.
+Methanogens were the most abundant archaea in those sites, and their presence could be associated with other periodontal pathogens.
+No consistent relationship with different disease conditions was observed in studies that evaluated the microbiota surviving in endodontic sites.
+Few articles analyzed the presence of archaea in dental caries, saliva, or tongue microbiota, as well as in archaeologic samples, also showing a relationship with healthy microbiota.
+Archaea have been detected in different oral niches of individuals from diverse geographic locations and clinical conditions, suggesting potential roles in oral diseases.
+Methodological limitations may hamper our current knowledge about archaeal diversity and prevalence in oral samples, and future research with diversified methodological approaches may lead to a better comprehension of the human oral archaeome.

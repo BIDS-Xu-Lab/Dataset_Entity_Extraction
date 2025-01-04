@@ -1,0 +1,6 @@
+Matrix attachment regions are DNA sequences found throughout eukaryotic genomes that are believed to define boundaries interfacing heterochromatin and euchromatin domains, thereby acting as epigenetic regulators.
+When included in expression vectors, MARs can improve and sustain transgene expression, and a search for more potent novel elements is therefore actively pursued to further improve recombinant protein production.
+Here we describe the isolation of new MARs from the mouse genome using a modified in silico analysis.
+One of these MARs was found to be a powerful activator of transgene expression in stable transfections.
+Interestingly, this MAR also increased GFP and/or immunoglobulin expression from some but not all expression vectors in transient transfections.
+This effect was attributed to the presence or absence of elements on the vector backbone, providing an explanation for earlier discrepancies as to the ability of this class of elements to affect transgene expression under such conditions.

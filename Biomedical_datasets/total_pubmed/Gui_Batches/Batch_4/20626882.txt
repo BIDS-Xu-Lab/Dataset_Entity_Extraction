@@ -1,0 +1,10 @@
+Expressed Sequence Tag (EST) has been a cost-effective tool in molecular biology and represents an abundant valuable resource for genome annotation, gene expression, and comparative genomics in plants.
+In this study, we constructed a cDNA library of Prunus mume flower and fruit, sequenced 10,123 clones of the library, and obtained 8,656 expressed sequence tag (EST) sequences with high quality.
+The ESTs were assembled into 4,473 unigenes composed of 1,492 contigs and 2,981 singletons and that have been deposited in NCBI (accession IDs: GW868575 - GW873047), among which 1,294 unique ESTs were with known or putative functions.
+Furthermore, we found 1,233 putative simple sequence repeats (SSRs) in the P. mume unigene dataset.
+We randomly tested 42 pairs of PCR primers flanking potential SSRs, and 14 pairs were identified as true-to-type SSR loci and could amplify polymorphic bands from 20 individual plants of P. mume.
+We further used the 14 EST-SSR primer pairs to test the transferability on peach and plum.
+The result showed that nearly 89% of the primer pairs produced target PCR bands in the two species.
+A high level of marker polymorphism was observed in the plum species (65%) and low in the peach (46%), and the clustering analysis of the three species indicated that these SSR markers were useful in the evaluation of genetic relationships and diversity between and within the Prunus species.
+We have constructed the first cDNA library of P. mume flower and fruit, and our data provide sets of molecular biology resources for P. mume and other Prunus species.
+These resources will be useful for further study such as genome annotation, new gene discovery, gene functional analysis, molecular breeding, evolution and comparative genomics between Prunus species.

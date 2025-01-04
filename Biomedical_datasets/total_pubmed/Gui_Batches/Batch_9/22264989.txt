@@ -1,0 +1,6 @@
+This article examines methods for identifying future high-cost cases of Medicaid-covered mental health care services.
+Florida Medicaid claims data are used to compare methods based on prior cost, and concurrent and prospective diagnosis-based models.
+Individuals with prior year expenditures in the top decile or with predicted expenditures in the top decile from the diagnosis-based models were expected to be high-cost individuals.
+Individuals in the top decile of prior year costs averaged $13,684 (U.S. dollars) in costs in the following year with 50% remaining in the top decile of spending.
+Individuals classified as high cost by diagnosis-based models averaged $10,935 to $10,974, with 34% meeting the criteria for a high-cost case in the following year.
+In contrast to research on high-costs cases for physical health care, prior cost was superior to diagnosis-based models at identifying future high cases for mental health care.

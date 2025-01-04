@@ -1,0 +1,13 @@
+Though the optimal treatment regimen in older patients with glioblastoma multiforme (GBM) remains to be established, multiple randomized studies have supported the use of hypofractionated (1-3 weeks) versus traditional regimens (6 weeks).
+Here we examine hypofractionated regimen practice patterns among older patients with GBM.
+We used the National Cancer Database and included individuals aged ≥65 years with GBM diagnosed from 2005 to 2014 undergoing biopsy/resection followed by chemotherapy and radiation initiated ≤8-weeks of diagnosis.
+We defined traditional fractionation as ≤200 cGy and hypofractionation as >200 cGy.
+We compared patient characteristics using a chi-squared test and multivariable logistic regression.
+We compared 90-day mortality rates following initiation of radiation using the Wald statistic in propensity score matched cohorts.
+The final cohort included 14,931 individuals with 1524 undergoing hypofractionated treatment.
+From 2005 to 2014 hypofractionated utilization rates were 7%, 9%, 13%, and 18% among those 65-69, 70-74, 75-79, and ≥80 years of age, respectively.
+Patients treated at an academic/research center had a >60% increased odds (OR, 1.61; 95% CI, 1.43-1.81) of undergoing hypofractionated regimens versus a community center.
+Ninety-day mortality rates were high in both groups (hypofractionated: 32%; traditional: 24%; p < .001).
+The majority of older GBM patients do not undergo hypofractionated radiation.
+High 90-day mortality in both groups suggests that hypofractionation may improve the survival-to-treatment time ratio and positively impact patient quality of life.
+Hypofractionated radiation regimens for GBM should be discussed with older patients and considered for inclusion in efforts to improve the quality and value of cancer care.

@@ -1,0 +1,10 @@
+Air pollution has become an alarming issue in Vietnam recently; however, there was only one study so far on the effects of ambient air pollution on population health.
+Our study aimed to investigate the short-term effects of air pollutants including PM10, NO2, SO2, and O3 on respiratory and cardiovascular hospitalizations in Ho Chi Minh City (HCMC), the largest city in Vietnam.
+Data on hospitalization from the two largest hospitals in HCMC and daily records of PM10, NO2, SO2, O3 and meteorological data were collected from February 2004 to December 2007.
+A time-series regression analysis with distributed lag model was applied for data analysis.
+Changes in levels of NO2 and PM10 were strongly associated with hospital admissions for both respiratory and cardiovascular diseases (CVD); whereas levels of SO2 were only moderately associated with respiratory and CVD hospital admissions and O3 concentration was not associated with any of them.
+For a 10μg/m(3) increase of each air pollutant, the risk of respiratory admissions increased from 0.7% to 8% while the risk of CVD admissions increased from 0.5% to 4%.
+Females were found to be more sensitive than males to exposure to air pollutants in regard to respiratory diseases.
+In regard to CVD, females (RR, 1.04, 95% CI, 1.01-1.07) had a slightly higher risk of admissions than males (RR, 1.03, 95% CI, 1-1.06) to exposure to NO2.
+In contrast, males (RR, 1.007, 95%CI, 1-1.01) had a higher risk of admission than females (RR, 1.004, 95%CI, 1.001-1.007) to exposure to PM10.
+People in the age group of 5-65year-olds had a slightly higher risk of admissions caused by air pollutants than the elderly (65+years old) except for a significant effect of PM10 on the risk of cardiovascular admissions was found for the elderly only.

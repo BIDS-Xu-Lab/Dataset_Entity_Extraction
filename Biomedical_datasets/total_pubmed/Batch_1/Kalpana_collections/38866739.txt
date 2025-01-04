@@ -1,0 +1,10 @@
+Ionising radiation (IR) is widely used in cancer treatment, including for head and neck squamous cell carcinoma (HNSCC), where it induces significant DNA damage leading ultimately to tumour cell death.
+Among these lesions, DNA double strand breaks (DSBs) are the most threatening lesion to cell survival.
+The two main repair mechanisms that detect and repair DSBs are non-homologous end joining (NHEJ) and homologous recombination (HR).
+Among these pathways, the protein kinases ataxia telangiectasia mutated (ATM), ataxia telangiectasia and Rad3-related (ATR) and the DNA dependent protein kinase catalytic subunit (DNA-Pkcs) play key roles in the sensing of the DSB and subsequent coordination of the downstream repair events.
+Consequently, targeting these kinases with potent and specific inhibitors is considered an approach to enhance the radiosensitivity of tumour cells.
+Here, we have investigated the impact of inhibition of ATM, ATR and DNA-Pkcs on the survival and growth of six radioresistant HPV-negative HNSCC cell lines in combination with either X-ray irradiation or proton beam therapy, and confirmed the mechanistic pathway leading to cell radiosensitisation.
+Using inhibitors targeting ATM (AZD1390), ATR (AZD6738) and DNA-Pkcs (AZD7648), we observed that this led to significantly decreased clonogenic survival of HNSCC cell lines following both X-ray and proton irradiation.
+Radiosensitisation of HNSCC cells grown as 3D spheroids was also observed, particularly following ATM and DNA-Pkcs inhibition.
+We confirmed that the inhibitors in combination with X-rays and protons led to DSB persistence, and increased micronuclei formation.
+Cumulatively, our data suggest that targeting DSB repair, particularly via ATM and DNA-Pkcs inhibition, can exacerbate the impact of ionising radiation in sensitising HNSCC cell models.

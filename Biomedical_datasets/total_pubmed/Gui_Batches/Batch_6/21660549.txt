@@ -1,0 +1,7 @@
+In an attempt to transfer the genetic components needed for taxol synthesis into a more tractable plant, protoplasts of Taxus chinensis var.
+mairei were UV irradiated for various times prior to their fusion with protoplasts of Bupleurum scorzonerifolium.
+Of the 60 presumptive hybrid calli obtained, selections of the 9 most rapidly growing were recognized as hybrid clones based on a combination of their callus morphology, esterase profile, chromosome number, and RAPD genotype.
+The RAPD data showed that 82.4-96.8% of the hybrid genome was inherited from the recipient (B. scorzonerifolium) and 4.6-13.9% from the donor (T. chinensis), with 1.6-6.9% of the RAPD fragments being not present in either parent.
+None of the hybrid clones expressed a detectable quantity of taxol, but four produced more of the triterpenoid oleanolic acid than did calli of the recipient.
+With the use of semi-quantitative reverse transcriptase PCR, it was possible to show variation in the expression of several triterpenoid biosynthetic pathway related genes between B. scorzonerifolium and the hybrids.
+Increasing the concentration of oleanolic acid requires that the expression levels of the genes encoding IPP isomerase, squalene synthase, squalene epoxidase and β-amyrin synthase are increased, while at the same time, those of the genes encoding the branching enzymes cycloartenol synthase and lupeol synthase need to be reduced.

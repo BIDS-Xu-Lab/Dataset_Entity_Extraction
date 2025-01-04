@@ -116,7 +116,7 @@ acc_top_n(predict_list,true_list)
 #     As an experienced pysician, your task is to identify whether the provided predicted diagnosis is in the true differential diagnosis. 
 #     Please notice same diagnosis might be in different words. Only rerutn "Y" for yes or "N" for no. 
 #     """
-# client = OpenAI(api_key="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")
+# client = OpenAI()
 
 # pre_list = pre.split('\n')
 # for i in pre_list:

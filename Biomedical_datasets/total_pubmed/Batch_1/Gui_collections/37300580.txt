@@ -1,0 +1,16 @@
+Children with diabetes may display cognitive alterations although vascular disorders have not yet appeared.
+Variations in glucose levels together with relative insulin deficiency in treated type 1 diabetes have been reported to impact brain function indirectly through dysregulation of the hypothalamus-pituitary-adrenal axis.
+We have recently shown that enhancement of glucocorticoid levels in children with type 1 diabetes is dependent not only on glucocorticoid secretion but also on glucocorticoid tissue concentrations, which is linked to 11β-hydroxysteroid dehydrogenase type 1 (11β-HSD1) activity.
+Hypothalamus-pituitary-adrenal axis dysfunction and memory alteration were further dissected in a juvenile rat model of diabetes showing that excess 11β-HSD1 activity within the hippocampus is associated with hippocampal-dependent memory deficits.
+Here, to investigate the causal relationships between diabetes, 11β-HSD1 activity and hippocampus-dependent memory deficits, we evaluated the beneficial effect of 11β-HSD1 inhibition on hippocampal-related memory in juvenile diabetic rats.
+We also examined whether diabetes-associated enhancement of hippocampal 11β-HSD1 activity is due to an increase in brain glucose concentrations and/or a decrease in insulin signalling.
+Diabetes was induced in juvenile rats by daily i.p. injection of streptozotocin for 2 consecutive days.
+Inhibition of 11β-HSD1 was obtained by administrating the compound UE2316 twice daily by gavage for 3 weeks, after which hippocampal-dependent object location memory was assessed.
+Hippocampal 11β-HSD1 activity was estimated by the ratio of corticosterone/dehydrocorticosterone measured by LC/MS.
+Regulation of 11β-HSD1 activity in response to changes in glucose or insulin levels was determined ex vivo on acute brain hippocampal slices.
+The insulin regulation of 11β-HSD1 was further examined in vivo using virally mediated knockdown of insulin receptor expression specifically in the hippocampus.
+Our data show that inhibiting 11β-HSD1 activity prevents hippocampal-related memory deficits in diabetic juvenile rats.
+A significant increase (53.0±9.9%) in hippocampal 11β-HSD1 activity was found in hippocampal slices incubated in high glucose conditions (13.9 mmol/l) vs normal glucose conditions (2.8 mmol/l) without insulin.
+However, 11β-HSD1 activity was not affected by variations in insulin concentration either in the hippocampal slices or after a decrease in hippocampal insulin receptor expression.
+Together, these data demonstrate that an increase in 11β-HSD1 activity contributes to memory deficits observed in juvenile diabetic rats and that an excess of hippocampal 11β-HSD1 activity stems from high glucose levels rather than insulin deficiency.
+11β-HSD1 might be a therapeutic target for treating cognitive impairments associated with diabetes.

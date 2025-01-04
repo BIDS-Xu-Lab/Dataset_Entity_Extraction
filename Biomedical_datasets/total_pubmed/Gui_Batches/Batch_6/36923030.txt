@@ -1,0 +1,11 @@
+Obstructive sleep apnea (OSA) is associated with impaired sleep quality and autonomic dysfunction.
+Adenotonsillectomy significantly improves subjective and objective sleep quality in children with OSA.
+However, the postoperative changes in heart rate variability (HRV) indices (indicators of cardiac autonomic function) and their importance remain inconclusive in childhood OSA.
+This retrospective case series aimed to investigate the association of sleep HRV indices, total OSA-18 questionnaire score (a subjective indicator of sleep quality) and polysomnographic parameters (objective indicators of sleep quality), and effects of adenotonsillectomy on HRV indices, total OSA-18 questionnaire score and polysomnographic parameters in children with OSA.
+Seventy-six children with OSA were included in baseline analysis, of whom 64 (84%) completed at least 3 months follow-up examinations after adenotonsillectomy and were included in outcome analysis.
+Associations between baseline variables, and relationships with treatment-related changes were examined.
+Multivariable linear regression models in the baseline analysis revealed independent relationships between tonsil size and obstructive apnea-hypopnea index (OAHI), adenoidal-nasopharyngeal ratio and very low frequency (VLF) power of HRV (an indicator of sympathetic activity), and normalized low frequency power (an indicator of sympathetic activity) and OAHI.
+The outcome analysis showed that adenotonsillectomy significantly improved standard deviation of all normal-to-normal intervals, and high frequency power, QoL (in terms of reduced total OSA-18 questionnaire score), OAHI and hypoxemia.
+Using a conceptual serial multiple mediation model, % change in OSA-18 questionnaire score and % change in VLF power serially mediated the relationships between change in tonsil size and % change in OAHI.
+The improvement in OAHI after adenotonsillectomy was serially mediated by reductions in total OSA-18 questionnaire score and VLF power.
+These preliminary findings are novel and provide a direction for future research to investigate the effects of VLF power-guided interventions on childhood OSA.

@@ -1,0 +1,6 @@
+Chimeric antigen receptor (CAR)-T-cell therapy has demonstrated considerable efficacy and safety in the treatment of patients with relapsed/refractory haematological malignancies.
+Owing to significant advances, CAR-T-cell therapeutic modality has undergone substantial shifts in its clinical application.
+Coagulation abnormalities, which are prevalent complications in CAR-T-cell therapy, can range in severity from simple abnormalities in coagulation parameters to serious haemorrhage or disseminated intravascular coagulation associated with life-threatening multiorgan dysfunction.
+Nonetheless, there is a lack of a comprehensive overview concerning the coagulation abnormalities associated with CAR-T-cell therapy.
+With an aim to attract heightened clinical focus and to enhance the safety of CAR-T-cell therapy, this review presents the characteristics of the coagulation abnormalities associated with CAR-T-cell therapy, including clinical manifestations, coagulation parameters, pathogenesis, risk factors and their influence on treatment efficacy in patients receiving CAR-T-cell infusion.
+Due to limited data, these conclusions may undergo changes as more experience accumulates.

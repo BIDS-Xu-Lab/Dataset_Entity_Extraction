@@ -1,0 +1,5 @@
+To investigate the possibility of using Ryodoraku as a tool to indicate sympathetic neuronal activity.
+Twenty-two female college students were assigned to an treadmill exercise program (three times a week for six weeks), and another 25 were assigned as controls.
+Skin conductance levels of the subjects were measured at 24 Ryodoraku points on the wrists and the ankles, along with heart rate variability (HRV) analysis, during and after the treadmill exercise period.
+The six-week exercise training resulted in a significant elevation of the average electrical conductance, which returned to the pre-training level after three months of cessation of the exercise training.
+HRV data have shown no similar changes, suggesting that Ryodoraku is a useful tool in detecting subtle, non-cardiovascular physical responses.

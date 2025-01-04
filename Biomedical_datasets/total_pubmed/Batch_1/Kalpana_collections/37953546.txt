@@ -1,0 +1,11 @@
+The structures of metal complexes determine their stable functioning in product performance.
+Electrospray ionization mass spectrometry (ESI-MS) is used in studying metal complexes despite exhibiting limitations in analyzing labile complexes.
+Therefore, identifying a method for detecting unstable complexes and evaluating their stabilities is necessary, providing a theoretical basis for material selection and performance evaluation.
+The standard complexes Zn(BTZ)2 , Fe(acac)3 , and Sn(Oct)2 were analyzed using nanoESI quadrupole orbitrap MS (nanoESI-MS) and compared with ESI-MS for two temperature modes.
+The three complexes and alkylamine-Ag+ complexes were analyzed using nanoESI and collision-induced dissociation MS/MS (CID-MS/MS).
+Breakdown plots of the survival yield against collision energies expressed in terms of the center-of-mass were constructed according to the obtained product ion spectra.
+Quantum chemical calculations based on density functional theory were performed to calculate the binding energies between the alkylamines and Ag+ .
+The three standard complexes were detected in the native structures using nanoESI-MS, confirming the advantage of nanoESI over ESI for detecting unstable complexes.
+The gas-phase stabilities of the amine-Ag+ complexes, estimated using the breakdown plots constructed by plotting the data obtained via nanoESI and CID-MS/MS, were consistent with the established theories, previous studies, and binding energies calculated using computational methods.
+NanoESI-MS is suitable for detecting labile complexes and enables the structural analyses of unknown complex additives.
+A novel approach based on nanoESI and CID-MS/MS was developed to determine the gas-phase stabilities of complexes, enabling their quantification and comparison and providing a technical basis for product improvement, which is essential in developing industrial materials.

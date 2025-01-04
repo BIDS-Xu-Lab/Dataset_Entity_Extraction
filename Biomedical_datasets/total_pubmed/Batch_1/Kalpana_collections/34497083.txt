@@ -1,0 +1,14 @@
+Sepsis is a dysregulated host response to infection characterised by activation of proinflammatory and procoagulant mechanisms.
+Protein C (PC)'s activity as an anticoagulant and antiinflammatory molecule makes it an appealing target for sepsis biomarker studies.
+To date, there has been no systematic review of PC as a sepsis biomarker.
+To evaluate the diagnostic accuracy and prognostic strength of PC as a biomarker for adult sepsis.
+Medline, Embase, Cochrane Library, PubMed and Cumulative Index to Nursing and Allied Health Literature (CINAHL) will be searched from inception through 20 January 2021 for prospective observational studies that evaluate the use of PC as a diagnostic or prognostic biomarker for adult sepsis.
+Title and abstract screening, full-text screening and data extraction will be conducted in duplicate.
+Risk of bias will be assessed using the Quality Assessment of Diagnostic Accuracy Studies and Quality in Prognostic Studies tools.
+If sufficient data are available, a meta-analysis will be conducted.
+The standardised mean difference and 95% CI will be calculated for prognostic and diagnostic studies.
+If possible, a hierarchical summary receiver operator characteristic curve will be generated to assess overall prognostic and diagnostic biomarker accuracy.
+I2 statistics will be used to assess heterogeneity.
+Sensitivity analysis will be performed by removing studies with a high risk of bias and re-examining the meta-analysis results.
+Given this is a systematic review and meta-analysis, there is no requirement for ethics approval.
+Findings will be disseminated through a peer-reviewed publication and social media.

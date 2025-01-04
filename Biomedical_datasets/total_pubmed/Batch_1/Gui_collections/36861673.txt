@@ -1,0 +1,15 @@
+Ultrasound shear wave elastography can be used to characterize mechanical properties of unstressed tissue by measuring shear wave velocity (SWV), which increases with increasing tissue stiffness.
+Measurements of SWV have often been assumed to be directly related to the stiffness of muscle.
+Some have also used measures of SWV to estimate stress, since muscle stiffness and stress covary during active contractions, but few have considered the direct influence of muscle stress on SWV.
+Rather, it is often assumed that stress alters the material properties of muscle, and in turn, shear wave propagation.
+The objective of this study was to determine how well the theoretical dependency of SWV on stress can account for measured changes of SWV in passive and active muscles.
+Data were collected from six isoflurane-anesthetized cats; three soleus muscles and three medial gastrocnemius muscles.
+Muscle stress and stiffness were measured directly along with SWV.
+Measurements were made across a range of passively and actively generated stresses, obtained by varying muscle length and activation, which was controlled by stimulating the sciatic nerve.
+Our results show that SWV depends primarily on the stress in a passively stretched muscle.
+In contrast, the SWV in active muscle is higher than would be predicted by considering only stress, presumably due to activation-dependent changes in muscle stiffness.
+Our results demonstrate that while SWV is sensitive to changes in muscle stress and activation, there is not a unique relationship between SWV and either of these quantities when considered in isolation.
+NEW & NOTEWORTHY Ultrasound shear wave elastography may be an inexpensive way to measure muscle stress in passive muscle.
+Here, using a cat model we directly measured shear wave velocity (SWV), muscle stress, and muscle stiffness.
+Our results show that SWV depends primarily on the stress in a passively stretched muscle.
+In contrast, the SWV in active muscle is higher than would be predicted by considering only stress, presumably due to activation-dependent changes in muscle stiffness.

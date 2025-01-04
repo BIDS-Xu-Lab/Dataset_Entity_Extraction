@@ -1,0 +1,11 @@
+Chemotaxis identification is very important for the research and application of rhizosphere growth-promoting bacteria.
+We established a straightforward method to quickly identify the chemoattractants that could induce the chemotactic movement of rhizosphere growth-promoting bacteria on sterile glass slides via simple steps.
+Bacteria solution (OD600 = 0.5) and sterile chemoattractant aqueous solution were added dropwise on the glass slide at an interval of 1 cm.
+An inoculating loop was used to connect the chemoattractant aqueous solution to the bacterial solution.
+The slide was kept at room temperature for 20 min on the clean bench.
+Finally, the chemoattractant aqueous solution was collected for bacterial counting and microscopic observation.
+In this study, through multiple comparisons of experimental results, the method overcame multiple shortcomings of traditional bacterial chemotaxis methods.
+The method reduced the error of plate counting and shortened the experimental cycle.
+For the identification of chemoattractant substances, this new method can save 2-3 days compared to the traditional method.
+Additionally, this method allows any researcher to systematically complete a bacterial chemotaxis experiment within 1-2 days.
+The protocol can be considered a valuable resource for understanding plant-microbe interactions.

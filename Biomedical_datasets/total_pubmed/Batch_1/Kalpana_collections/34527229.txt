@@ -1,0 +1,12 @@
+Maternal thyroid hormones facilitate optimal foetal neurodevelopment; however, the exact role of the thyroid hormones on specific cognitive outcomes is unknown.
+The present study aimed to investigate associations between maternal thyroid function and neurodevelopmental outcomes in the Seychelles Child Development Study (SCDS) Nutrition 2 cohort (n 1328).
+Maternal free thyroid hormones (fT3, fT4 and fTSH) were assessed at 28 weeks' gestation with a range of child cognitive outcomes analysed at 20 months.
+Dietary iodine intake was analysed for a subset of women through a Food Frequency Questionnaire.
+Linear regression analysis was used to test associations between serum concentrations of maternal thyroid hormones and child neurodevelopment outcomes.
+Thyroid hormones were analysed as continuous data and categorised as quintiles.
+95% of mothers had optimal thyroid function based on fTSH concentrations.
+Overall, the present study shows that maternal thyroid function is not associated with neurodevelopmental outcomes in this high fish-eating population.
+However, a positive association, using quintiles for fT3, was reported for the Mental Developmental Index, between Q3 v. Q4 (β 0⋅073; P 0⋅043) and for Q3 v. Q5 (β value 0⋅086; P 0⋅018).
+To conclude, mothers in our cohort, who largely have optimal thyroid function and iodine intakes, appear able to regulate thyroid function throughout pregnancy to meet neurodevelopmental needs.
+However, it is possible that minor imbalances of fT3, as indicated from our secondary analysis, may impact offspring neurodevelopment.
+Further investigation of the relationship between maternal thyroid function and infant neurodevelopment is warranted, particularly in populations with different dietary patterns and thereby iodine intakes.

@@ -1,0 +1,12 @@
+Myocardial dysfunction is a serious complication induced by sepsis.
+Puerarin is an oriental medicine that possesses therapeutic benefits for cardiovascular diseases.
+The aim of this study was to evaluate the anti-myocardial dysfunction effects of puerarin in isolated rat hearts induced by lipopolysaccharide- and compare the myocardial protective effects between the different concentrations of puerarin.
+Isolated hearts were attached to a Langendorff apparatus and perfused with lipopolysaccharide (LPS) and different concentrations of puerarin.
+The hemodynamic parameters of heart rate (HR), left ventricular end systolic pressure [LVESP], +dp/dtmax, and -dp/dtmax were recorded.
+The biochemical indexes of lactic dehydrogenase (LDH), tumor necrosis factor alpha (TNF-α), and creatine kinase (CK) in the coronary effluent were measured at 40, 90, and 120 min of perfusion.
+TNF-α in myocardial tissues was measured after perfusion was completed.
+As a result, puerarin (0.24 μmmol/L-0.48 μmmol/L) significantly increased LVESP, +dp/dtmax, -dp/dtmax, and HR in isolated rat hearts that were declined by LPS during perfusion periods.
+Puerarin could protect against increased LDH, CK, and TNF-α in coronary effluent of isolated rat hearts by LPS during perfusion periods.
+Treatment of 0.48 μmmol/L puerarin significantly decreased the TNF-α in coronary effluent of isolated rat hearts compared with the treatment of 0.12 and 0.24 μmmol/L puerarin, but the TNF-α values were not reverted to baseline levels.
+However, the difference of TNF-α in myocardial tissue in the three puerarin-combined groups was statistically significant.
+This study confirms that puerarin can improve LPS-induced contractile dysfunction in isolated heart and inhibit LPS-stimulated myocardial TNF-α production.

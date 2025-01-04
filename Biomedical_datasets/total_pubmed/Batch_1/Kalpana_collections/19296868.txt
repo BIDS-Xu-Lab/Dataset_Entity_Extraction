@@ -1,0 +1,7 @@
+Although spatio-temporal patterns of influenza spread often suggest that environmental factors play a role, their effect on the geographical variation in the timing of annual epidemics has not been assessed.
+We examined the effect of solar radiation, dew point, temperature and geographical position on the city-specific timing of epidemics in the USA.
+Using paediatric in-patient data from hospitals in 35 cities for each influenza season in the study period 2000-2005, we determined 'epidemic timing' by identifying the week of peak influenza activity.
+For each city we calculated averages of daily climate measurements for 1 October to 31 December.
+Bayesian hierarchical models were used to assess the strength of association between each variable and epidemic timing.
+Of the climate variables only solar radiation was significantly related to epidemic timing (95% CI -0.027 to -0.0032).
+Future studies may elucidate biological mechanisms intrinsically linked to solar radiation that contribute to epidemic timing in temperate regions.

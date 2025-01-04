@@ -1,0 +1,8 @@
+To investigate the influence of Scutellarin on the oxidative stress and neuronal apoptosis in rats with dementia and to reveal therapeutic mechanism of the drug to Alzheimer's disease.
+Wistar rats were randomly divided into 5 groups: normal control group, sham group, model group,scutellarin group and positive control group.
+The animal model with dementia was by bilateral ventricle injection with beta-amyloid peptide (AP) 25-35 and intraperitoneal injection with D-galactose.
+Learning and memory ability of rats were detected by Morris Water Maze test; Histopathology of the cerebral cortex and hippocampus were observed under light microscope; Changes of Nissl's body in the hippocampus were survey by Nissl staining; The activities of SOD and MAO were detected by xanthinoxidase method and chemical method, respectively, and neuronal apoptosis was measured using flow cytometry.
+Compared with control group and sham group, the ability of learning and memory of the rats in model group was decreased; Neuropathological changes were observed in the hippocampus; The activity of SOD was decreased while the activity of MAO increased in brain tissues; Neuronal apoptosis percentage was increased.
+After treated with Scutellarin, learning and memory ability of rats with dementia was improved; The pathologic changes were alleviated; The activity of SOD was up-regulation and the activity of MAO was decreased; Neuronal apoptosis percentage was declined.
+No significant difference between the scutellarin group and positive drug control group was found.
+Scutellarin might play an therapeutic role by inhibiting oxidative stress and apoptosis in AD treatment.

@@ -1,0 +1,11 @@
+The extent of genetic diversity loss and former connectivity between fragmented populations are often unknown factors when studying endangered species.
+While genetic techniques are commonly applied in extant populations to assess temporal and spatial demographic changes, it is no substitute for directly measuring past diversity using ancient DNA (aDNA).
+We analysed both mitochondrial DNA (mtDNA) and nuclear microsatellite loci from 64 historical fossil and skin samples of the critically endangered Western Australian woylie (Bettongia penicillata ogilbyi), and compared them with 231 (n = 152 for mtDNA) modern samples.
+In modern woylie populations 15 mitochondrial control region (CR) haplotypes were identified.
+Interestingly, mtDNA CR data from only 29 historical samples demonstrated 15 previously unknown haplotypes and detected an extinct divergent clade.
+Through modelling, we estimated the loss of CR mtDNA diversity to be between 46% and 91% and estimated this to have occurred in the past 2000-4000 years in association with a dramatic population decline.
+In addition, we obtained near-complete 11-loci microsatellite profiles from 21 historical samples.
+In agreement with the mtDNA data, a number of 'new' microsatellite alleles was only detected in the historical populations despite extensive modern sampling, indicating a nuclear genetic diversity loss >20%.
+Calculations of genetic diversity (heterozygosity and allelic rarefaction) showed that these were significantly higher in the past and that there was a high degree of gene flow across the woylie's historical range.
+These findings have an immediate impact on how the extant populations are managed and we recommend the implementation of an assisted migration programme to prevent further loss of genetic diversity.
+Our study demonstrates the value of integrating aDNA data into current-day conservation strategies.

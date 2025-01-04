@@ -1,0 +1,8 @@
+The mechanism of tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) resistance in cancer cells is not fully understood.
+Here, we show that the Akt survival pathway plays an important role in TRAIL resistance in human cancer cells.
+Specifically, we found that TRAIL treatment activates the Akt survival pathway and that inhibition of this pathway by the PI3K inhibitor LY294002 or knockdown of Akt sensitizes resistant cancer cells to TRAIL.
+Since Akt is negatively regulated by the tumor suppressor PTEN, we examined the TRAIL sensitivity in PTEN knockdown mouse prostate epithelial cells and found that PTEN(-/-) cells are more resistant than PTEN(+/+) cells while the sensitivity of PTEN(+/-) cells fell in between.
+Further, we showed that overexpression of a mutant PTEN confers TRAIL resistance in PTEN(+/+) cells, supporting a role of PTEN in TRAIL sensitivity.
+In TRAIL resistant breast T47D cells, overexpression of the mutant PTEN further increased their resistance to TRAIL.
+Taken together, our data indicate that inactivation of functional PTEN and the consequent activation of the Akt pathway prevents TRAIL-induced apoptosis, leading to TRAIL resistance.
+Therefore, our results suggest that TRAIL resistance can be overcome by targeting PTEN or the Akt survival pathway in cancer cells.

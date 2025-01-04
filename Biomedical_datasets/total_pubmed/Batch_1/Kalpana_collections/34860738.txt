@@ -1,0 +1,9 @@
+Previous efforts used digital video to develop computer-generated assessments of surgical hand motion economy and fluidity of motion.
+This study tests how well previously trained assessment models match expert ratings of suturing and tying video clips recorded in a new operating room (OR) setting.
+Enabled through computer vision of the hands, this study tests the applicability of assessments born out of benchtop simulations to in vivo suturing and tying tasks recorded in the OR.
+Compared with expert ratings, computer-generated assessments for fluidity of motion (slope = 0.83, intercept = 1.77, R2 = 0.55) performed better than motion economy (slope = 0.73, intercept = 2.04, R2 = 0.49), although 85% of ratings for both models were within ±2 of the expert response.
+Neither assessment performed as well in the OR as they did on the training data.
+Assessments were sensitive to changing hand postures, dropped ligatures, and poor tissue contact-features typically missing from training data.
+Computer-generated assessment of OR tasks was contingent on a clear, consistent view of both surgeon's hands.
+Computer-generated assessment may help provide formative feedback during deliberate practice, albeit with greater variability in the OR compared with benchtop simulations.
+Future work will benefit from expanded available bimanual video records.

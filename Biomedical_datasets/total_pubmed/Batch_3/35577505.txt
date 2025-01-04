@@ -1,0 +1,16 @@
+IgA neutralizes pathogens to prevent infection at mucosal sites.
+However, emerging evidence shows that IgA contributes to aggravating inflammation or dismantling antitumor immunity in human diseased liver.
+The aim of this study was to elucidate the roles of inflammation-induced intrahepatic inflammatory IgA+ monocytes in the development of hepatocellular carcinoma (HCC).
+Patient cohorts including steatohepatitis cohort (n=61) and HCC cohort (n=271) were established.
+Patients' surgical and biopsy specimens were analyzed using immunohistochemistry.
+Multicolor flow cytometry was performed with a subset of patient samples.
+Single-cell RNA-Seq analysis was performed using Gene Expression Omnibus (GEO) datasets.
+Additionally, we performed in vitro differentiation of macrophages, stimulation with coated IgA, and RNA sequencing.
+Hepa1-6 cells and C57BL/6N mice were used to obtain HCC syngeneic mouse models.
+Serum IgA levels were associated (p<0.001) with fibrosis progression and HCC development in patients with chronic liver diseases.
+Additionally, immunohistochemical staining of inflamed livers or HCC revealed IgA positivity in monocytes, with a correlation between IgA+ cell frequency and IgA serum levels.
+Compared with IgA- monocytes, intrahepatic IgA+ monocytes expressed higher levels of programmed death-ligand 1 (PD-L1) in inflamed livers and in HCC tumor microenvironment.
+Single-cell RNA sequencing using NCBI GEO database indicated an upregulation in inflammation-associated genes in the monocytes of patients whose plasma cell IGHA1 expression was greater than or equal to the median value.
+Bulk RNA sequencing demonstrated that in vitro stimulation of M2-polarized macrophages using coated IgA complex induced PD-L1 upregulation via YAP-mediated signaling.
+In vivo blockade of IgA signaling decreased the number of tumor-infiltrating IgA+PD-L1high macrophages and increased the number of CD69+CD8+ T cells to enhance antitumor effects in HCC mice models.
+Overall, the findings of this study showed that serum IgA levels was correlated with intrahepatic and intratumoral infiltration of inflammatory IgA+PD-L1high monocytes in chronic liver diseases and HCC, providing potential therapeutic targets.

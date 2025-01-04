@@ -1,0 +1,11 @@
+In phase I cancer clinical trials, adjustment for patient differences in toxicity susceptibility can be carried out with stratification into risk groups.
+Separate trials conducted for each risk group can lead to conflicting decisions, in which higher doses are recommended for higher risk groups.
+Designs which covariate adjust often require assumptions that clinicians may be uncomfortable with.
+We extend up-and-down designs, isotonic designs and the continual reassessment method (CRM) to multiple risk groups with two-way isotonic regression.
+The only assumption about the groups is that they can be ordered according to their toxicity risk.
+The first two extensions, in particular, are nonparametric and easy for clinicians to understand.
+Simulations were based on an ongoing helical tomotherapy trial.
+Seven different toxicity scenarios were considered.
+The proposed methods compared favorably to a covariate adjusted CRM.
+The extended up-and-down designs inherited the conservativeness from the original designs.
+Our experience demonstrates that the escalation rules of multiple risk groups can be linked, without a parametric assumption about the group toxicity curve, to borrow strength and to ensure nonconflicting dosage recommendations.

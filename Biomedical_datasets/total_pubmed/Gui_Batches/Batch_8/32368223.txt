@@ -1,0 +1,12 @@
+Infectious bronchitis virus (IBV) is the etiological agent of an acute and highly contagious disease.
+Infectious bronchitis (IB) affects chicken of all ages and poses major economic loses to the poultry industry worldwide.
+The continuous evolution of the spike protein (S1) of IBV is responsible for the prevalence of many serotypes/genotypes around the world.
+Multiple lineages of IBV strains have been detected in chicken flocks in India since 2003.
+To detect IBV genotypes prevalent in India.
+Organ samples from 20 IBV-positive flocks with variable clinical signs were used for the amplification of the S1 gene of IBV by reverse transcriptase-polymerase chain reaction (RT-PCR).
+Sequence analysis showed that 14 field isolates belonged to the GI-1 genetic lineage (Mass 41 serotype), two field isolates belonged to the GI-13 (UK 4/91 variant IBV strain), one field isolate grouped with GIII, GV, and GVI genetic lineage and three belonged to a variant genotype unique to India (GI-24).
+Phylogenetic analysis also showed a similar type of grouping within the field isolates.
+Among the fourteen GI-1 isolates, 12 were isolated between 2003 and 2006 and only two were isolated between 2009 and 2011.
+IBV sequences isolated in 2006 (IND-TN-168-06), 2010 (IND-TN-280-10) and 2011 (IND-TN-290-11).
+A unique variant of IBV is emerging in India (GI-24).
+Our findings will have important implications for future vaccine intervention.

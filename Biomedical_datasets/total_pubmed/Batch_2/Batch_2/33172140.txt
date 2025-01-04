@@ -1,0 +1,7 @@
+This paper presents a method for low data rate transmission for devices implanted in the body using backscattered Long Range (LoRa) signals.
+The method uses an antenna loaded with a switch that changes between two load impedances at the rate of a modulating oscillator.
+Consequently, the LoRa signal transmitted by a LoRa node is reflected in the adjacent channels and can be detected with a LoRa gateway tuned to the shifted channels.
+A prototype developed to operate at Medical Implant Communication Service (MICS) and the Industrial Scientific and Medical (ISM) 433 MHz band is presented.
+The prototype uses a commercial ceramic antenna with a matched network tuned to the frequency band with high radiation efficiency.
+The effect of the coating material covering the antenna was studied.
+Simulated and experimental results using a phantom show that it is feasible to read data from deep implanted devices placed a few meters from the body because of the high sensitivity of commercial LoRa receivers.

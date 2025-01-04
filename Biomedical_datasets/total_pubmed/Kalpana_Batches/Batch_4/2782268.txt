@@ -1,0 +1,6 @@
+Recovery of contractile function of myocardium stunned by a brief, transient period of regional ischemia is highly variable.
+In our experience, segment shortening (an index of regional systolic contractile function) assessed during the initial hours after a 15-minute period of coronary artery occlusion in anesthetized open-chest dogs ranged from -84 to +99% of normal preocclusion values.
+In this retrospective study, regression analysis was used to assess the effects of various parameters on segment shortening 2 hours after reperfusion.
+Parameters assessed included regional myocardial blood flow both during occlusion and after reperfusion, high-energy phosphate content of previously ischemic tissue, systemic hemodynamic parameters (heart rate, mean arterial pressure and double product), occluded bed size and segment shortening measured during coronary artery occlusion.
+Only the degree of dyskinesia/hypokinesia exhibited during coronary occlusion significantly and reliably predicted recovery of segment shortening measured 2 hours after reflow (r = 0.70, p less than 0.001).
+Thus, recovery of systolic contractile function in the anesthetized canine model of the stunned myocardium is determined primarily by the degree of dysfunction exhibited during the preceding period of ischemia.

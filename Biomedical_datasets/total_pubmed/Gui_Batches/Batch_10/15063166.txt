@@ -1,0 +1,13 @@
+Ecdysone and juvenile hormone (JH) are important regulators of insect growth and development.
+While ecdysone initiates a transition from one developmental stage to another, JH determines the nature of the transition.
+How these two hormones interact at the molecular level is not known.
+Here we report the JH inducibility of the E75A nuclear receptor encoded by the E75 early ecdysone-inducible gene.
+In Drosophila S2 cells, E75A transcription is specifically activated by JH at concentrations well within the physiological range found in larvae and adults.
+The induction is rapid and does not require a concurrent protein synthesis, and thus represents a primary hormone response.
+Consistent with JH regulation, E75A mRNA levels are reduced in ovaries of apterous(4) mutant adults defective in JH secretion.
+Expression is rescued by topical methoprene application.
+We further provide evidence that ectopic E75A is sufficient to perform several functions in the JH signaling pathway.
+First, it can down-regulate its own transcription.
+Second, E75A can potentiate the JH inducibility of a secondary response gene, JhI-21.
+Finally, in the presence of JH, E75A can repress ecdysone activation of early genes including Broad-Complex.
+Based on these data, we propose a model for the role of E75A in the ecdysone-JH regulatory interplay.

@@ -1,0 +1,9 @@
+The impact of obesity on postoperative outcomes after pancreatoduodenectomy remains insufficiently studied.
+All pancreatoduodenectomy patients were abstracted from the 2014 to 2018 American College of Surgeons National Surgical Quality Improvement Program data sets and were stratified into the following 3 body mass index categories: non-obese (body mass index 18.5-29.9), class 1/2 obesity (body mass index 30-39.9), and class 3 severe obesity (body mass index ≥ 40).
+Analyses tested associations between patient factors and four 30-day postoperative outcomes: mortality, composite morbidity, delayed gastric emptying, and postoperative pancreatic fistula.
+Multivariable logistic regression models tested independent associations between patient factors and these 4 outcome measures.
+A total of 16,823 patients were included in the study: 12,234 (72.7%) non-obese, 4,030 (24%) obese, and 559 (3.3%) with severe obesity.
+Bivariable analyses demonstrated significant associations between obesity, severe obesity, and greater proportions of numerous preoperative comorbidities as well as a greater likelihood of postoperative complications, including postoperative pancreatic fistula, delayed gastric emptying, composite morbidity, and mortality (all P ≤ .001).
+After adjusting for significant covariates, obesity was independently associated with postoperative pancreatic fistula (odds ratio 1.49, 95% confidence interval: 1.33-1.67, P < .001), delayed gastric emptying (odds ratio 1.16, 95% confidence interval: 1.05-1.28, P = .004), composite morbidity (odds ratio 1.28, 95% confidence interval: 1.18-1.38, P < .001), and mortality (odds ratio 1.79, 95% confidence interval: 1.36-2.36, P < .001).
+Obesity and severe obesity are significantly associated with worse short-term outcomes after pancreatoduodenectomy.
+Preoperative considerations, such as weight management strategies during individualized treatment planning, could improve outcomes in this population.

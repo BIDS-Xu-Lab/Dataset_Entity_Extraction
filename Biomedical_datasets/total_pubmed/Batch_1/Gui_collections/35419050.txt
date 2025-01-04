@@ -1,0 +1,7 @@
+Teaching is defined as a relatively stable structural framework and activity process of teaching activities established under the guidance of specific teaching concepts and theories.
+It serves as a link between teaching theory and practice, as well as between the teaching system's static and dynamic conditions.
+The ITM (Inquiry-Based Teaching Model) has received a lot of attention and has been used in a lot of classrooms.
+Data mining (DM) is a method for discovering knowledge in databases and a technology for mining information in large data sets.
+It is primarily used to discover unknown relationships and patterns in related data.
+This paper applies DM's core technology, particularly the decision tree algorithm, to give hospital managers more comprehensive and in-depth data analysis capabilities, as well as strong technical support for hospitals in developing management plans.
+Furthermore, due to the scarcity of research data in the nursing profession, this paper introduces the few-shot learning technology to improve the model's analysis ability.

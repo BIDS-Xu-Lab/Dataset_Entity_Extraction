@@ -1,0 +1,12 @@
+Diverse bioactive substances derived from marine organisms have been attracting growing attention.
+Besides small molecules and polypeptides, numerous studies have shown that marine proteins also exhibit antitumor activities.
+Small anticancer proteins can be expressed in vivo by viral vectors to exert local and long-term anticancer effects.
+Herein, we purified and characterized a novel protein (ASP-3) with unique antitumor activity from Arca subcrenata Lischke.
+The ASP-3 contains 179 amino acids with a molecular weight of 20.6 kDa.
+The spectral characterization of ASP-3 was elucidated using Fourier Transform infrared spectroscopy (FTIR) and Circular Dichroism (CD) spectroscopy.
+Being identified as a sarcoplasmic calcium-binding protein, ASP-3 exhibited strong inhibitory effects on the proliferation of Human hepatocellular carcinoma (HepG2) cells with an IC50 value of 171.18 ± 18.59 μg/mL, measured by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay.
+The RNA-seq analysis showed that ASP-3 regulated the vascular endothelial growth factor receptor (VEGFR) signaling pathway in HepG2 cells.
+Immunofluorescence results indicated that ASP-3 effectively reduced VEGFR2 phosphorylation in HepG2 cells and affected the downstream components of VEGF signaling pathways.
+The surface plasmon resonance (SPR) analysis further demonstrated that ASP-3 direct interacted with VEGFR2.
+More importantly, the therapeutic potential of ASP-3 as an anti-angiogenesis agent was further confirmed by an in vitro model using VEGF-induced tube formation assay of human umbilical vein endothelial cells (HUVECs), as well as an in vivo model using transgenic zebrafish model.
+Taken together, the ASP-3 provides a good framework for the development of even more potent anticancer proteins and provides important weapon for cancer treatment using novel approaches such as gene therapy.

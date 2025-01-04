@@ -1,0 +1,12 @@
+Musculoskeletal ultrasound is a non-invasive and low-cost modality for real-time visualisation of the plantar fascia.
+Ultrasound examination for plantar fasciitis is generally performed with the patient in a prone position, although the rational for using a prone position has not been validated.
+The aim of the study was to investigate if ultrasound examination in a supine position, which is more comfortable than the prone position, is valid.
+We conducted a prospective study of 30 participants with plantar fasciitis, 8 men (27 %) and 22 women (73 %), with a mean age of 53.9 ± 12.6 (range, 32 to 77) years, and an equal distribution of left and right feet.
+The plantar heel was divided into three portions for ultrasound examination: medial, central and lateral.
+Two measurements of plantar fascia thickness were obtained for each portion, with participants in 2 positions (supine and prone) and for 2 ankle postures (neutral and 15° of plantarflexion).
+Mean measurements of plantar fascia thickness were compared between the two positions (Wilcoxon signed rank tests for non-normally distributed data and paired t-tests for normally distributed data).
+Participants were asked to report their preferred position for examination, supine or prone.
+The measured thickness was comparable for both supine and prone positions, for both ankle postures, neutral and 15° of plantarflexion (p > 0.05).
+A specific self-reported preferred position was not identified.
+Ultrasound examination of plantar fasciitis can be performed in the supine position without any significant difference in measurement compared to examination in the conventional prone position.
+The Catholic Medical Center Office of Human Research Protection Program (CMC-OHRP)/Institutional Review Board approved the current study (Approval No. KC12DISI0338), and all participants provided their written informed consent for participation and publication.

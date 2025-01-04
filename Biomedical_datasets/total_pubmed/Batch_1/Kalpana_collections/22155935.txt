@@ -1,0 +1,11 @@
+M-type (Kv7, KCNQ) K(+) channels control the resting membrane potential of many neurons, including peripheral nociceptive sensory neurons.
+Several M channel enhancers were suggested as prospective analgesics, and targeting M channels specifically in peripheral nociceptors is a plausible strategy for peripheral analgesia.
+However, receptor-induced inhibition of M channels in nociceptors is often observed in inflammation and may contribute to inflammatory pain.
+Such inhibition is predominantly mediated by phospholipase C. We investigated four M channel enhancers (retigabine, flupirtine, zinc pyrithione and H(2)O(2)) for their ability to overcome M channel inhibition via two phospholipase C-mediated mechanisms, namely depletion of membrane phosphatidylinositol 4,5-bisphosphate (PIP(2)) and a rise in intracellular Ca(2+) (an action mediated by calmodulin).
+Data from overexpressed Kv7.2/Kv7.3 heteromers and native M currents in dorsal root ganglion neurons suggest the following conclusions.
+(i) All enhancers had a dual effect on M channel activity, a negative shift in voltage dependence and an increase of the maximal current at saturating voltages.
+The enhancers differed in their efficacy to produce these effects.
+(ii) Both PIP(2) depletion and Ca(2+)/calmodulin strongly reduced the M current amplitude; however, at voltages near the threshold for M channel activation (-60 mV) all enhancers were able to restore M channel activity to a control level or above, while at saturating voltages the effects were more variable.
+(iii) Receptor-mediated inhibition of M current in nociceptive dorsal root ganglion neurons did not reduce the efficacy of retigabine or flupirtine to hyperpolarize the resting membrane potential.
+In conclusion, we show that all four M channel enhancers tested could overcome both PIP(2) and Ca(2+)-calmodulin-induced inhibition of Kv7.2/7.3 at voltages close to the threshold for action potential firing (-60 mV) but generally had reduced efficacy at a saturating voltage (0 mV).
+We suggest that the efficacy of an M channel enhancer to shift the voltage dependence of activation may be most important for rescuing M channel function in sensory neurons innervating inflamed tissue.

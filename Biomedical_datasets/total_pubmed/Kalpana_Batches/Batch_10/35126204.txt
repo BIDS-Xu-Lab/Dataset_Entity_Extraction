@@ -1,0 +1,13 @@
+Substance use disorder (SUD), mental health disorders (MHD), and co-occurring mental health and substance use disorders are common among criminal justice populations.
+Digital health interventions (DHI) represent an opportunity to expand co-occurring disorder treatment for justice involved populations, but efficacy data are lacking.
+The current scoping review aims to address this gap via following objectives: (1) Describe trends involving DHIs for MHD, SUD, or co-occurring disorders studied in criminal justice settings; and (2) review available evidence for the impact of DHIs on criminal justice-, substance-, and mental health-related outcomes.
+PubMed was searched for relevant articles that met the follow inclusion criteria: (1) focus on criminal justice-involved individuals; (2) description of an intervention focused on SUD, MHD, or co-occurring disorders; and (3) use of DHI.
+Articles were assessed using standardized data abstraction and quality assessment tools.
+Four-hundred unique articles were identified on initial search, and 19 were included in the final review.
+The most common focus of the intervention was SUDs.
+The most common modalities were telehealth and computer assisted interventions, with most utilized as an adjunct to treatment as usual.
+No DHIs used wearable devices, and one included justice involved youth.
+Feasibility and acceptability were high, and the studies that measured substance and mental health-related outcomes reported equivocal or positive results.
+No studies focused on long-term justice-related outcomes.
+Literature on DHIs for criminal justice involved populations diagnosed with SUD, MHD and co-occurring disorders is limited, and largely focuses on telehealth or eHealth, with less data on mHealth approaches.
+Future research should focus on the inclusion of diverse populations and include objective monitoring tools.

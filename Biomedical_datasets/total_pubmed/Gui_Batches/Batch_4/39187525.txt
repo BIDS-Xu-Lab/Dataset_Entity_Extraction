@@ -1,0 +1,11 @@
+Despite the importance of radiation therapy as a non-surgical treatment for non-small cell lung cancer (NSCLC), radiation resistance has always been a concern, due to poor patient response and prognosis.
+Therefore, it is crucial to uncover novel targets to enhance radiotherapy and investigate the mechanisms underlying radiation resistance.
+Previously, we demonstrated that NRP1 was connected to radiation resistance in NSCLC cells.
+In the present study, bioinformatics analysis of constructed radiation-resistant A549 and H1299 cell models revealed that transcription coactivator YAP is a significant factor in cell proliferation and metastasis.
+However, there has been no evidence linking YAP and NRP1 to date.
+In this research, we have observed that YAP contributes to radiation resistance in NSCLC cells by stimulating cell proliferation, migration, and invasion.
+Mechanistically, YAP dephosphorylation after NSCLC cell radiation.
+YAP acts as a transcription co-activator by binding to the transcription factor TEAD4, facilitating TEAD4 to bind to the NRP1 promoter region and thereby increasing NRP1 expression.
+NRP1 has been identified as a new target gene for YAP/TEAD4.
+Notably, when inhibiting YAP binds to TEAD4, it inhibits NRP1 expression, and Rescue experiments show that YAP/TEAD4 influences NRP1 to regulate cell proliferation, metastasis and leading to radiation resistance generation.
+NRP1 is a significant mechanism for radioresistance and can be utilized as a target for enhancing radiotherapy efficacy.

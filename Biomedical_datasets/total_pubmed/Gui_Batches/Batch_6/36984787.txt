@@ -1,0 +1,10 @@
+Aminobutyric acid (GABA) is a ubiquitous four-carbon non-protein amino acid.
+In plants, GABA is found in different cell compartments and performs different metabolic functions.
+As a signalling molecule, GABA participates in the regulation of tolerance to various abiotic stresses.
+Many research studies have found that GABA accumulates in large amounts when plants are subjected to abiotic stress, which have been demonstrated through the Web of Science, PubMed, Elsevier and other databases.
+GABA enhances the tolerance of plants to abiotic stress by regulating intracellular pH, ion transport, activating antioxidant systems and scavenging active oxygen species.
+In the process of GABA playing its role, transport is very important for the accumulation and metabolism pathway of GABA in cells.
+Therefore, the research on the transport of GABA across the cell membrane and the organelle membrane by transport proteins is a direction worthy of attention.
+This paper describes the distribution, biosynthesis and catabolism of GABA in plants.
+In addition, we focus on the latest progress in research on the transport of exogenous GABA and on the function and mechanism in the regulation of the abiotic stress response.
+Based on this summary of the role of GABA in the resistance to various abiotic stresses, we conclude that GABA has become an effective compound for improving plant abiotic tolerance.

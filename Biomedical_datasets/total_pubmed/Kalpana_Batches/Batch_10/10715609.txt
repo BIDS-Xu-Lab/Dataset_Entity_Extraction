@@ -1,0 +1,6 @@
+The use of endpoint estimates based on modeling inhibition of test organism response relative to a baseline response is an important tool in the testing and evaluation of aquatic hazards.
+In the presence of a hormetic hazard, the definition of the baseline response is not clear because non-zero levels of the hazard stimulate an enhanced response prior to inhibition.
+In the present study, the methodology and implications of how one defines a baseline response for inhibition concentration estimation in aquatic toxicity tests was evaluated.
+Three possible baselines were considered: the control response level; the pooling of responses, including controls and all concentration conditions with responses enhanced relative to controls; and, finally, the maximal response.
+The statistical methods associated with estimating inhibition relative to the first two baseline definitions were described and a method for estimating inhibition relative to the third baseline definition was derived.
+These methods were illustrated with data from a standard aquatic zooplankton reproductive toxicity test in which the number of young produced in three broods of a cladoceran exposed to effluent was modeled as a function of effluent concentration.

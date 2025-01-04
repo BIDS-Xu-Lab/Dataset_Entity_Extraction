@@ -1,0 +1,10 @@
+Polyadenylation of messenger RNA precursors is an essential process in eukaryotes.
+Poly(A) polymerase (PAP), a member of the nucleotidyltransferase family that includes DNA polymerase beta, incorporates ATP at the 3' end of mRNAs in a template-independent manner.
+Although the structures of mammalian and yeast PAPs are known, their mechanism of ATP selection has remained elusive.
+In a recent bovine PAP structure complexed with an analog of ATP and Mn2+, strictly conserved residues interact selectively with the adenine base, but the nucleotide was found in a "non-productive" conformation.
+Here we report a second bovine crystal structure, obtained in the presence of Mg2+, where 3'-dATP adopts a "productive" conformation similar to that seen in yeast PAP or DNA polymerase beta.
+Mutational analysis and activity assays with ATP analogs suggest a role in catalysis for one of the two adenine-binding sites revealed by our structural data.
+The other site might function to prevent futile hydrolysis of ATP.
+In order to investigate the role of metals in catalysis we performed steady state kinetics experiments under distributive polymerization conditions.
+These tests suggest a sequential random mechanism in vitro in the presence of ATP and RNA, without preference for a particular order of binding of the two substrates.
+In vivo, however, where polyadenylation is processive and the primer does not dissociate from the enzyme, an ordered mechanism with the primer as the leading substrate is more likely.

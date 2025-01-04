@@ -1,0 +1,12 @@
+In urea cycle disorders (UCDs) ammonia scavenger drugs, usually sodium-based, have been the mainstay of treatment.
+Increasingly, glycerol phenylbutyrate (GPB, Ravicti®) is being used but scant real-world data exist regarding clinical outcomes.
+A retrospective study of UCD patients initiated on or switched to GPB was performed at a UK centre.
+Data on population characteristics, treatment aspects, laboratory measurements, and clinical outcomes were collected before and after patients started GPB with a sub-group analysis undertaken for patients with ≥12 months of data before and after starting GPB.
+UCDs included arginosuccinate synthetase deficiency (n = 8), arginosuccinate lyase deficiency (n = 6), ornithine carbamoyltransferase deficiency (n = 3), and carbamoyl phosphate synthetase 1 deficiency (n = 3).
+In the sub-group analysis (n = 11), GPB resulted in lower plasma ammonia (31 vs. 41 μmol/L, p = 0.037), glutamine (670 vs. 838 μmol/L, p = 0.002), annualised hyperammonaemic episodes (0.2 vs. 1.9, p = 0.020), hospitalisations (0.5 vs. 2.2, p = 0.010), and hyperammonaemic episodes resulting in hospitalisation (0.2 vs. 1.6, p = 0.035) reflecting changes seen in the whole group.
+Overall, patients exposed to sodium and propylene glycol levels above UK daily limits reduced by 78% and 83% respectively.
+Mean levels of branched chain amino acids, haemoglobin, and white cell count were unchanged.
+Two adverse drug reactions (pancytopenia, fatigue/appetite loss) resolved without GPB discontinuation.
+Patients/families preferred GPB for its lower volume, greater palatability and easier administration.
+GPB appeared to improve biochemical measures and clinical outcomes.
+The causes are multi-factorial and are likely to include prolonged action of GPB and its good tolerability, even at higher doses, facilitating tighter control of ammonia.

@@ -1,0 +1,7 @@
+In order to examine the influence of protein structure on the post-translational import of a protein into mitochondria, the carboxyl-terminal 129 residues of F1-ATPase beta-subunit precursor (511aa) have been replaced with 61 residues of yeast copper metallothionein.
+Import of the F1 beta-copper metallothionein (beta CuMT) hybrid into mitochondria was as efficient as that of the F1 beta precursor in the absence of copper.
+Addition of copper to mitochondrial import reactions, which had no significant effect on import of the F1 beta-subunit precursor, blocked import of the beta CuMT protein.
+This copper-dependent transport block for the beta CuMT precursor occurred after the precursor was bound to mitochondria.
+Expression of the beta CuMT protein in vivo revealed that beta CuMT would bind copper and allow growth of a copper-sensitive yeast host on an otherwise inhibitory level of the cation as long as it was localized in the cytoplasm.
+These data indicate that the binding of copper by beta CuMT renders it refractile for partial unfolding which is necessary for its translocation into mitochondria.
+These observations provide an alternative scheme for the selection of mutants defective in mitochondrial import.

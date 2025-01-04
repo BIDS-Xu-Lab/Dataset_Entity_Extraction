@@ -1,0 +1,2 @@
+We describe a new method for the sex determination of tissue originating from Oryctolagus cuniculus (European rabbit), Lepus europaeus (European brown hare) and Lepus timidus (mountain hare) based on PCR-RFLP analysis of point mutations that differentiate the ZFX and ZFY gene sequences.
+Among several applications, this PCR-RFLP method could be used to investigate gender ratio and evaluate the population dynamics of these species using samples collected when sex cannot be identified.

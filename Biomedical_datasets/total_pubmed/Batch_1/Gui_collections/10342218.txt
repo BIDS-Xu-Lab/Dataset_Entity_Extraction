@@ -1,0 +1,6 @@
+Conquest Hospital was a UK regional development site for a pre-Digital Imaging and Communications in Medicine (DICOM) picture archiving and communication system (PACS).
+The initial system was installed in mid 1992.
+Identification has been made of data transfer, ergonomic and single point of failure issues in the original PACS, which was called "iLAN."
+This has informed respecification of a DICOM/HTML PACS, the first stages of which have been hospital renetworking and installation of new DICOM 3.0 computed radiography/fluorography and computed tomography/magnetic resonance imaging segments.
+Final PACS elements are at contract stage.
+Plans are being completed for linkage of PACS to a clinical information system to create a comprehensive electronic patient record system.

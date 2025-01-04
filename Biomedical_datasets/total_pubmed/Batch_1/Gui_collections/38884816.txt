@@ -1,0 +1,7 @@
+Craniofacial osteosarcomas (CFOS) are uncommon malignant neoplasms of the head and neck with different clinical presentation, biological behavior and prognosis from conventional osteosarcomas of long bones.
+Very limited genetic data have been published on CFOS.
+In the current study, we performed comprehensive genomic studies in 15 cases of high-grade CFOS by SNP array and targeted next generation sequencing.
+Our study shows high-grade CFOS demonstrate highly complex and heterogenous genomic alterations and harbor frequently mutated tumor suppressor genes TP53, CDKN2A/B, and PTEN, similar to conventional osteosarcomas.
+Potentially actionable gene amplifications involving CCNE1, AKT2, MET, NTRK1, PDGFRA, KDR, KIT, MAP3K14, FGFR1, and AURKA were seen in 43% of cases.
+GNAS hotspot activating mutations were also identified in a subset of CFOS cases, with one case representing malignant transformation from fibrous dysplasia, suggesting a role for GNAS mutation in the development of CFOS.
+High-grade CFOS demonstrate highly complex and heterogenous genomic alterations, with amplification involving receptor tyrosine kinase genes, and frequent mutations involving tumor suppressor genes.

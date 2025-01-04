@@ -1,0 +1,11 @@
+Short-term exposure to high Particulate Matter (PM) concentrations worsens several respiratory conditions.
+We evaluated the relationship between short-term exposure to Particulate Matter and fine Particulate Matter (PM10 - PM2.5) and Emergency Department (ED) admissions and hospitalizations for COPD exacerbation observed at the University Hospital, Spedali Civili of Brescia, a city with some of the highest yearly levels of air pollution in Italy.
+We collected data from patients admitted to the ED with a COPD exacerbation diagnosis, starting from January 2014 to January 2016.
+Daily PM levels were collected from the Environmental Protection Regional Agency (ARPA).
+We performed a time-series analysis using the Poisson regression model with single and multiple day-lag.
+Results were expressed as Relative Risk (RR) and Excess of Relative Risk (ER) for COPD exacerbation-related ED admissions and hospitalizations, over a 10μg/m3 increase in PM concentration.
+We collected data from 431 COPD patients.
+Both PM10 and PM2.5 were significantly associated with the risk of COPD exacerbation-related ED admission and hospitalization.
+Each increase of 10μg/m3 of PM10 and PM2.5 corresponded respectively to a RR for ED admissions of 1.06 and 1.08 at lag0-1; 1.06 and 1.09 at lag0-5 (p < 0.05).
+Similar results for COPD Exacerbation-related hospitalizations were found, with a RR of 1.07 and 1.10 at lag0-1 and 1.07 and 1.11 at lag0-5 for each increase of 10μg/m3 PM10 and PM2.5, respectively.
+Our findings show that in a highly polluted city of Northern Italy, short-term increase in exposure to PM10-PM2.5 is associated with a higher risk of ED admission and hospitalization due to COPD exacerbation with a greater incidence during the winter season.

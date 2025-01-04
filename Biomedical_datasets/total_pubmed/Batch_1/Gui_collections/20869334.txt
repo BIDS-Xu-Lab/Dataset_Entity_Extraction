@@ -1,0 +1,11 @@
+M059J and M059K cells were isolated from different portions of the same human malignant glioma.
+M059J cells are more radiosensitive than M059K cells due to the absence of DNA-PKcs and low-expression of ATM.
+The mechanism concerning the absence of DNA-PKcs in M059J is due to the frameshift mutation in PRKDC (DNA-PKcs gene); however, the reason for the low-expression of ATM in M059J cells remains unclear.
+We showed here that the main reason for the lower ATM level in M059J cells was not related to the transcriptional regulation or protein degradation but was related to post-transcriptional regulation.
+Based on database information, we found that the 3'-untranslational region (UTR) of ATM contains a miR-100 binding site.
+By using an RNase protection assay and qRT-PCR, we identified that miR-100 is highly-expressed in M059J cells.
+We further demonstrated that miR-100 bound to the 3'-UTR of ATM.
+Knocking down miR-100 promotes ATM expression in M059J cells.
+Up-regulating miR-100 in M059K cells and other cancer cells reduces ATM expression and sensitizes these cells to ionizing radiation.
+These results indicate that ATM is a target of miR-100, elucidating that the low-expression of ATM in M059J cells is mainly due to the high expression of miR-100.
+These results also suggest that miR-100 could be a useful tool to target ATM and sensitize tumor cells to ionizing radiation.

@@ -1,0 +1,15 @@
+Sustainable management for non-specific low back pain relies on adherence.
+This requires effective strategies to facilitate but also tools to measure adherence to physiotherapy.
+This two-stage systematic review aims to identify (1) tools to measure non-specific back pain patients' adherence to physiotherapy and (2) the most effective strategy to facilitate patients' adherence to physiotherapy.
+PubMed, Cochrane, PEDro, and Web of Science were searched for English language studies measuring adherence in adults with low back pain.
+Following PRISMA recommendations, scoping review methods were used to identify measurement tools (stage 1).
+The effectiveness of interventions (stage 2), followed a predefined systematic search strategy.
+Two independent reviewers selected eligible studies (software Rayyan), analyzed these for risk of bias using the Downs and Black checklist.
+Data relevant to assess adherence were collected in a predesigned data extraction table.
+Results were heterogeneous and hence summarized narratively.
+Twenty-one studies were included for stage 1 and 16 for stage 2.
+Identified were 6 different tools to measure adherence.
+The most used tool was an exercise diary; the most common more multidimensional tool was the Sports Injury Rehabilitation Adherence Scale.
+Most included studies were not designed to improve or measure adherence but used adherence as a secondary outcome for new exercise programs.
+The most promising strategies for facilitating adherence were based on cognitive behavioral principles.
+Future studies should focus on the development of multidimensional strategies to facilitate adherence to physiotherapy and appropriate tools to measure all aspects of adherence.

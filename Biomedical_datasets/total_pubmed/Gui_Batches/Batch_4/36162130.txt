@@ -1,0 +1,6 @@
+Biosensors based on Förster resonance energy transfer (FRET) have revolutionized cellular biology by allowing the direct measurement of biochemical processes in situ.
+Many genetically encoded sensors make use of fluorescent proteins that are limited in spectral versatility and that allow few ways to change the spectral properties once the construct has been created.
+In this work, we developed genetically encoded FRET biosensors based on the chemigenetic SNAP and HaloTag domains combined with matching organic fluorophores.
+We found that the resulting constructs can display comparable responses, kinetics, and reversibility compared to their fluorescent protein-based ancestors, but with the added advantage of spectral versatility, including the availability of red-shifted dye pairs.
+However, we also find that the introduction of these tags can alter the sensor readout, showing that careful validation is required before applying such constructs in practice.
+Overall, our approach delivers an innovative methodology that can readily expand the spectral variety and versatility of FRET-based biosensors.

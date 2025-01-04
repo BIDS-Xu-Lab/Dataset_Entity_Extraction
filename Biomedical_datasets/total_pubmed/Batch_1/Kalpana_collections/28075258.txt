@@ -1,0 +1,7 @@
+A thermodynamic equilibrium model was used to investigate the response of aerosol NO3 to changes in concentrations of HNO3, NH3, and H2SO4.
+Over a range of temperatures and relative humidities (RHs), two parameters provided sufficient information for indicating the qualitative response of aerosol NO3.
+The first was the excess of aerosol NH4+ plus gas-phase NH3 over the sum of HNO3, particulate NO3, and particulate SO42- concentrations.
+The second was the ratio of particulate to total NO3 concentrations.
+Computation of these quantities from ambient measurements provides a means to rapidly analyze large numbers of samples and identify cases in which inorganic aerosol NO3 formation is limited by the availability of NH3.
+Example calculations are presented using data from three field studies.
+The predictions of the indicator variables and the equilibrium model are compared.

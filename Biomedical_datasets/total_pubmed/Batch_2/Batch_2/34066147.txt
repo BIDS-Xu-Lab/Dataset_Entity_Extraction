@@ -1,0 +1,10 @@
+Glioma stem cells (GSCs) are tumour initiating cells which contribute to treatment resistance, temozolomide (TMZ) chemotherapy and radiotherapy, in glioblastoma (GBM), the most aggressive adult brain tumour.
+A major contributor to the uncontrolled tumour cell proliferation in GBM is the hyper activation of cyclin-dependent kinases (CDKs).
+Due to resistance to standard of care, GBMs relapse in almost all patients.
+Targeting GSCs using transcriptional CDK inhibitors, CYC065 and THZ1 is a potential novel treatment to prevent relapse of the tumour.
+TCGA-GBM data analysis has shown that the GSC markers, CD133 and CD44 were significantly upregulated in GBM patient tumours compared to non-tumour tissue.
+CD133 and CD44 stem cell markers were also expressed in gliomaspheres derived from recurrent GBM tumours.
+Light Sheet Florescence Microscopy (LSFM) further revealed heterogeneous expression of these GSC markers in gliomaspheres.
+Gliomaspheres from recurrent tumours were highly sensitive to transcriptional CDK inhibitors, CYC065 and THZ1 and underwent apoptosis while being resistant to TMZ.
+Apoptotic cell death in GSC subpopulations and non-stem tumour cells resulted in sphere disruption.
+Collectively, our study highlights the potential of these novel CKIs to induce cell death in GSCs from recurrent tumours, warranting further clinical investigation.

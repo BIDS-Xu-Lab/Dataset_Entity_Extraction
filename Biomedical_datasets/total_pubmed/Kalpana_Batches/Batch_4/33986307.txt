@@ -1,0 +1,8 @@
+Inertial measurement units (IMUs) are increasingly popular and may be usable in clinical routine to assess gait.
+However, assessing their intra-session reliability is crucial and has not been tested with foot-worn sensors in healthy participants.
+The aim of this study was to assess the intra-session reliability of foot-worn IMUs for measuring gait parameters in healthy adults.
+Twenty healthy participants were enrolled in the study and performed the 10-m walk test in single- and dual-task ('carrying a full cup of water') conditions, three trials per condition.
+IMUs were used to assess spatiotemporal gait parameters, gait symmetry parameters (symmetry index (SI) and symmetry ratio (SR)), and dual task effects parameters.
+The relative and the absolute reliability were calculated for each gait parameter.
+Results showed that spatiotemporal gait parameters measured with foot-worn inertial sensors were reliable; symmetry gait parameters relative reliability was low, and SR showed better absolute reliability than SI; dual task effects were poorly reliable, and taking the mean of the second and the third trials was the most reliable.
+Foot-worn IMUs are reliable to assess spatiotemporal and symmetry ratio gait parameters but symmetry index and DTE gait parameters reliabilities were low and need to be interpreted with cautious by clinicians and researchers.

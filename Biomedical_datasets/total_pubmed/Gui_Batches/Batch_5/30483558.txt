@@ -1,0 +1,10 @@
+Visceral fat is an important endocrine organ that secretes different bioactive substances such as adipocytokines.
+The aim of this study was to investigate the adiponectin level changes among patients with erosive gastroesophageal reflux disease (GERD)and its consequence on pathogenesis.
+In this study, 150 subjects were selected and divided into four groups: Group І (n = 40) were healthy individuals with an average body mass index and had no gastrointestinal tract symptoms; Group ІІ (n = 50) were patients with mild to moderate erosive esophagitis; Group ІІІ (n = 40) were patients with severe erosive esophagitis; and finally, Group ІV (n = 20) were patients with Barrett's esophagus.
+Upper gastrointestinal endoscopy was performed for Groups II, III, and IV only, and histopathological assessment was conducted for the suspicious cases of Barrett's esophagus.
+The measurement of serum adiponectin was performed for all groups using the ELISA test.
+Our results revealed that the serum level of adiponectin was significantly lower in patients with different grades of GERD as well Barrett's esophagus as compared to healthy controls (P-value < 0.001).
+Additionally, the serum level of adiponectin was correlated with different grades of GERD as the highest level of the adiponectin was found in the control group (11.05 ± 2.58) followed by mild to moderate GERD (6.39 ± 1.64) and then severe GERD (2.42 ± 1.00); finally, the lowest level was detected in the Barrett's esophagus group (1.99 ± 0.47).
+Our study showed significant correlation between body mass index, waist circumference, and waist-hip ratio on one hand and serum adiponectin level on the other hand, with a statistically significant difference (P-value < 0.001).
+The best cut-off value for serum adiponectin was 7.7 (μg/mL), with a sensitivity of 91.8% and specificity of 97.5%.
+Low serum adiponectin level appears to be associated with an increased risk of erosive esophagitis, and visceral fat accumulation is related to the impaired secretion of adiponectin, which may have an influence on the pathogenesis of GERD.

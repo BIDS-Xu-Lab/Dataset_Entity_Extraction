@@ -1,0 +1,7 @@
+The effect of high Cu(II) concentrations on superoxide dismutase (SOD) and catalase (CAT) activity in Candida fukuyamaensis RCL-3 and Rhodotorula mucilaginosa RCL-11, previously isolated from a copper filter at a mine plant in Argentina, was studied.
+Addition of 0.1, 0.2 and 0.5 mM Cu(II) to the culture medium increased total SOD and CAT activity in both strains.
+Native polyacrylamide gel electrophoresis revealed two bands with SOD activity for C. fukuyamaensis RCL-3 and only one for R. mucilaginosa RCL-11; the three bands corresponded to MnSOD.Intracellular accumulation of copper and morphological changes was observed using electron microscopy.
+Dark bodies examined with transmission electron microscopy (TEM) after 48 h of incubation probably corresponded to copper deposits.
+The number of dark bodies in R. mucilaginosa RCL-11 grew with increasing incubation time, whereas in C. fukuyamaensis RCL-3 the amount decreased.
+Scanning electron micrographs (SEM) of C. fukuyamaensis RCL-3 did not reveal any differences compared with the control, but R. mucilaginosa RCL-11 cells were bigger than control ones.
+TEM confirmed absence of compartmentalization mechanisms in Cu(II) detoxification since electron-dense bodies were mainly found in the cytoplasm.

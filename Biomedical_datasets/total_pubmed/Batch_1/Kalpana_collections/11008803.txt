@@ -1,0 +1,8 @@
+Sonar performance predictions of reverberation in shallow water rely upon good estimates of the bottom-scattering strength.
+However, little is understood about bottom scattering in shallow water in the frequency range 400-4000 Hz, particularly its dependency upon frequency and its relationship to the physical properties of the seafloor.
+In order to address these issues, a new measurement technique has been developed to probe the frequency and angular dependency of bottom-scattering strength.
+The experimental technique is described which employs either coherent or incoherent sources (lightbulbs).
+In addition, measurement and modeling results for two diverse shallow water sites are presented.
+At one site, the scattering appears to arise at or near the water-sediment interface.
+At the other site, scattering from a 23-m sub-bottom horizon is clearly apparent in the data at and below 1800 Hz.
+The fact that our measurement technique can directly reveal the presence of sub-bottom scattering is a significant advance in the development of methods to explore the physical mechanisms that control bottom scattering.

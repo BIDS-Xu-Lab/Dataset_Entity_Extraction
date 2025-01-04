@@ -1,0 +1,11 @@
+A technique based on the analysis of banding patterns obtained by SDS-PAGE Western-blotting of an oocyst wall antigen obtained from faeces has been evaluated to subtype Cryptosporidium parvum Tyzzer, 1912.
+This technique appears to have sufficient stability to recognise multiple types of this parasite.
+A similar Western-blotting technique has also been used to assess antibody responses to cryptosporidial antigens in human sera.
+Two systems were developed: one against three antigens of apparent molecular weights 6, 14 and 17 kDa; the second against oocyst wall antigens of apparent molecular weights 57, 69, 75, 89, 128, 151 and 173 kDa.
+Antibodies to three antigens of apparent molecular weights 6, 14 and 17 kDa were most successful as diagnostic markers in that they were found in > 88% of convalescent phase sera from confirmed cryptosporidiosis patients and were uncommon (> or = 7%) in control subjects.
+Faecal samples from human and animal sporadic cases yielded a wide range of cryptosporidial antigen banding patterns.
+Samples from patients in a water-borne outbreak in South Devon (England) in 1995 also yielded a wide range of banding patterns including members within individual household family groups.
+These results are in contrast with those from samples collected from other defined geographical areas, including some from a second water-borne outbreak where much more homogeneous banding patterns were obtained.
+Sera collected for other purposes from apparently uninfected individuals 9 months after the South Devon 1995 outbreak were examined.
+Antibodies to the three antigens of molecular weights 6, 14 and 17 kDa were detected in 32-49% of individuals resident in the outbreak water supply area, and in 15-21% of those resident in an adjacent water supply area.
+The significance of these findings is discussed in relation to data obtained from epidemiological field studies.

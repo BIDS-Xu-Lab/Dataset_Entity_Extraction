@@ -1,0 +1,9 @@
+There is a discrepancy between the effect of beta-blockade on exercise heart rate and the effect on exercise capacity.
+Thus, it was of interest to study the dose-response relationship between an unselective (propranolol) and a beta 1-selective (atenolol) blocker and endurance exercise performance.
+Nine habitually active males ran their own jogging route 10 times and the distances of the routes ranged between 4000 and 10000 m. Placebo (twice), 25, 50, 75, and 100 mg of atenolol and 40, 80, 120, and 160 mg of propranolol were administered orally with a double-blind, crossover procedure.
+After each experiment, running time and rate of perceived exertion (RPE) were registered.
+Small drug doses markedly affected exercise heart rates yet such doses minimally affected running performance when on the beta 1 selective blocker.
+With 160 mg propranolol, a greater exercise impairment occurred than with 100 mg atenolol (P less than 0.05).
+RPE data suggested that drug treatment induced an increased subjective feeling of fatigue in addition to the impaired performance, and these changes were positively related (r = 0.66, P less than 0.05).
+Impairment of exercise performance during acute beta-blockade is evidently not related solely to the effect on heart rate.
+The nature of other drug effects is presently unclear although there is evidence that the metabolic profile of the muscle is implicated.

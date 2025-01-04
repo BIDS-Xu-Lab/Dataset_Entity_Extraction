@@ -1,0 +1,10 @@
+Effects of irrigation strategies on stomata and plant water use were studied in field-grown grapevines (Vitis vinifera L.).
+We assessed the importance of root-derived chemical signals vs. hydraulic signalling in stomatal regulation.
+The experiment included two treatments with the same water added to the soil (50% ETc) applied either to the whole root system (DI) or to half of the roots, alternating irrigation side every 15 days (PRD).
+Well-watered plants (FI) (100% ETc) and non-irrigated grapevines (NI) were also studied.
+Partial stomata closure occurred in both PRD and DI plants.
+[ABA] of xylem sap remained constant during the day and was maintained throughout the season, with higher values in NI plants.
+Xylem sap pH was not affected by soil water availability.
+A positive correlation between ψpd and maximum g s was found, indicating that grapevine stomata strongly respond to plant water status.
+In contrast, ABA did not explain stomatal control at veraison.
+At mid-ripening g s was significantly correlated with ABA, apparently interacting with the rise in xylem sap pH. Therefore, our data suggest that hydraulic feedback and feed-forward root-to-shoot chemical signalling mechanisms might be involved in the control of stomata in response to decreased soil water availability, hydraulic signals playing the dominant role.

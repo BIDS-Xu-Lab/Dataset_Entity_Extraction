@@ -1,0 +1,9 @@
+We constructed a recombinant plasmid by inserting into the pRS314 yeast centromeric plasmid vector the mouse DNA sequence responsible for the maintenance in transgenic mice of plasmid p12B1 (1).
+Such constructs could constitute convenient shuttle vectors between yeast and mouse cells.
+However, the recombinant molecule could not be established as a stable plasmid in Saccharomyces cerevisiae.
+A region with a limited similarity to the yeast centromere (CEN element) is present in this mouse sequence as well as in two other sequences subsequently identified in a data bank search using the CEN consensus.
+One of them is localized in Bovine Papillomavirus Type 1 DNA, and the other one in the human beta-globin locus.
+Once inserted in pRS314, these two sequences showed the same inhibitory effect on plasmid maintenance as the p12B1 mouse DNA fragment.
+This effect appears to depend on the simultaneous presence in the construct of one of the "CEN-like regions" and of an authentic CEN element.
+Non-centromeric yeast plasmids carrying one of the three sequences could replicate autonomously, and were even stabilized to a significant extent.
+These results identify in the genomes of higher eukaryotes and their viruses a family of sequences which cannot be simply cloned in centromeric yeast vectors.

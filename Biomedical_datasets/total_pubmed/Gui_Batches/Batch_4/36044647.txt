@@ -1,0 +1,28 @@
+There is nearly 5,800 ha of Sanhua plum (Prunus salicina Linn) planted in Babu district in Hezhou, Guangxi, with over 67,000 tons of annual output.
+In August 2021, anthracnose symptoms were observed on Sanhua plum leaves in three different cultivated towns in Babu district in Hezhou, Guangxi (N23°49' - 24°48', E111°12' - 112°03').
+The plant disease incidence was over 50% with approximately 20 to 30% of leaves on a plant being symptomatic.
+The disease outbreak occurred in the warm and damp climate (June to August) in Hezhou.
+Initially, small chlorotic spots developed on the leaves which gradually enlarged to larger irregular dark brown sunken lesions with yellowish halos, necrotic lesions abscised and formed holes at a later stage.
+In severe cases, the whole leaf withered and defoliated.
+Three symptomatic leaf samples were collected from three different cultivated towns in Hezhou.
+Margins of infected tissues were cut into 3×3 mm pieces, surface disinfected with 75% alcohol for 10 s, 2% NaOCl for 2 min followed by three washes in sterile distilled water and transferred to potato dextrose agar (PDA) plates.
+In total, forty-one isolates were obtained after 4 days of incubation at 25℃ on PDA, and thirty-one of them were Colletotrichum (average isolation frequency 76%).
+Three representative isolates (HZ18-1, HZ22-3, and HZ46-3) were selected for further study.
+After 7 days on PDA at 25℃, isolates had white to light grey cottony aerial mycelium on the obverse and revealed dark grey on the reverse.
+Conidia were hyaline, cylindroid, tapering slightly near both ends, measuring 16.3 ± 1.2 μm × 5.6 ± 0.4 μm, 16.1 ± 1.4 μm × 6.4 ± 0.7 μm, 16.2 ± 1.1 μm × 6.0 ± 0.4 μm (n=90) for HZ18-1, HZ22-3, and HZ46-3, respectively.
+Appressoria were brown, elliptic or fusoid, deeply lobed, measuring 10.2 ± 1.6 μm × 6.8 ± 1.0 μm, 10.7 ± 1.3 μm × 6.6 ± 0.8 μm, 9.3± 1.3 μm × 6.9 ± 0.9 μm (n=90) for HZ18-1, HZ22-3, and HZ46-3, respectively.
+These characteristics were consistent with the descriptions of Colletotrichum aeschynomenes B. Weir & P. R. Johnst (Weir et al. 2012).
+The internal transcribed spacer (ITS) region and the intergenic region and flanking regions of Apn2 and MAT1-2-1 (ApMAT) were amplified using ITS1/ITS4 and AM-F/AM-R primers, respectively (White et al. 1990; Silva et al. 2012).
+BLASTn analysis of the sequences showed over 99% identity with the corresponding loci from the culture collection C. aeschynomenes ICMP 17673 (ex-type).
+Sequences from the three isolates were deposited in GenBank (Accession Nos.:
+ITS, OM838335, OM838339, OM838370; ApMAT, OM816771, OM816775, OM816806).
+Phylogenetic maximum likelihood analysis with RAxML version 8.2.10 based on the concatenated sequences of ITS and ApMAT showed that the three isolates clustered with the ex-type specimen of C. aeschynomenes ICMP 17673.
+Pathogenicity was confirmed on leaves with and without wounds of 24 two-year-old Sanhua plum plants in a greenhouse.
+The wound was made with a sterilized toothpick.
+Wounded and unwounded leaves were inoculated with 20 μL of conidial suspension (106 conidia/mL) of the three isolates and control plants were inoculated with sterile distilled water (20 leaves/plant, 3 plants/treatment).
+All plants were covered with plastic bags to maintain high humidity.
+After 8 days of incubation at 25℃ with constant light, necrotic lesions were observed on inoculated leaves, whereas control plants showed no symptoms.
+To fulfill Koch's postulates, all fungi were successfully reisolated from symptomatic leaves.
+This species has been reported on Aeschynomene virginica in the United States (Weir et al. 2012), Manihot esculenta in Thailand (Sangpueak et al. 2018), Theobroma cacao (Nascimento et al. 2019) and Myrciaria dubia (Matos et al. 2020) in Brazil.
+To our knowledge, this is the first report of C. aeschynomenes causing Sanhua plum leaf anthracnose in China.
+The results will provide valuable information for management of anthracnose associated with Sanhua plum.

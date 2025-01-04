@@ -1,0 +1,12 @@
+This study investigated the impact of systemic cancer therapy on the quality of life, mental well-being, and life satisfaction of cancer patients.
+This prospective study was promoted by the Spanish Society of Medical Oncology (SEOM) and enrolled patients with localized, resected, or unresectable advanced cancer from 15 Spanish medical oncology departments.
+Patients completed surveys on quality of life (EORTC-QoL-QLQ-C30), psychological distress (BSI-18) and life satisfaction (SWLS) before and after systemic cancer treatment.
+The study involved 1807 patients, 944 (52%) having resected, localized cancer, and 863 with unresectable advanced cancer.
+The mean age was 60 years, and 53% were female.
+The most common types of localized cancer were colorectal (43%) and breast (38%), while bronchopulmonary (32%), non-colorectal digestive (23%), and colorectal (15%) were the most frequent among those with advanced cancer.
+Before systemic treatment, patients with advanced cancer had poorer scores than those with localized cancer on physical, role, emotional, cognitive, social limitations, symptoms, psychological distress, and life satisfaction (all p < 0.001), but there were no differences in financial hardship.
+Patients with localized cancer had greater life satisfaction and better mental well-being than those with advanced cancer before systemic treatment (p < 0.001).
+After treatment, patients with localized cancer experienced worsening of all scales, symptoms, and mental well-being (p < 0.001), while patients with advanced disease had a minor decline in quality of life.
+The impact on quality of life was greater on all dimensions except economic hardship and was independent of age, cancer location, and performance status in participants with resected disease after adjuvant chemotherapy.
+In conclusion, our study highlights that systemic cancer treatment can improve quality of life in patients with advanced cancer, while adjuvant treatments for localized disease may have a negative impact on quality of life and psychological well-being.
+Therefore, treatment decisions should be carefully evaluated on an individual basis.

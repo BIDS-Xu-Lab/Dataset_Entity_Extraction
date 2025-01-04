@@ -1,0 +1,8 @@
+Anxiety is prevalent in autism spectrum disorder (ASD) and can negatively impact physical and mental health.
+Self-awareness of anxiety signs is a key barrier to success of anxiety interventions for many children.
+To address this, we conducted a randomized controlled trial to assess whether the Anxiety Meter, a wearable, real-time anxiety detection technology, can improve awareness of anxiety symptoms and the initiation of relaxation techniques in children with ASD.
+Twenty-eight children with ASD were trained on the use of the Anxiety Meter and taught a diaphragmatic breathing relaxation technique over three visits.
+On the fourth visit, participants were randomized to either receive feedback of their anxiety level or no feedback from the Anxiety Meter while completing a stress-eliciting task (public speaking) and asked to engage in deep breathing if anxious.
+Feedback from the Anxiety Meter was associated with increased likelihood of initiating deep breathing in response to anxiety.
+Limitations include the small sample size, imbalanced group matching for IQ and sex, and the controlled-laboratory settings which limit the statistical power and generalizability of the results to real-world settings.
+Although these results are limited by the relatively small sample size, they support the feasibility of using a wearable device and real-time feedback to improve anxiety symptom awareness.

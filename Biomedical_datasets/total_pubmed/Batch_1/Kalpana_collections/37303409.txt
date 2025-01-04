@@ -1,0 +1,18 @@
+In the Indian subcontinent, psoriasis cases have skyrocketed in the last decade.
+Dry and hot weather aggrandizes the annual incidences.
+Nowadays, dermatologists harness methotrexate and apremilast to manage chronic plaque psoriasis.
+There needs to be more comparative studies on these drugs.
+The primary objective was change in Psoriasis Area and Severity Index (PASI) at six months from the baseline.
+Change in Dermatology Life Quality Index (DLQI) at six months from the baseline and incidences of adverse events served as the secondary objectives.
+This randomized, open-label, 24-week study was executed in Srirama Chandra Bhanja (SCB) Medical College, Cuttack, India, from June 2021 to October 2022.
+The participants were randomized in a 1:1 ratio to receive tablets of either methotrexate 10-15mg weekly once or apremilast 10-30mg twice daily.
+Efficacy and safety analyses were performed at baseline, eight, 16, and 24 weeks.
+We used R software (version 4.1.1; R Foundation for Statistical Computing, Vienna, Austria) for data analysis.
+Seventy (82.3%) of 85 enrolled participants completed the study.
+The mean age of the study population was 41.08±5.17 years.
+Twenty-two (31.4%) of them were females.
+The median change in PASI from baseline was -37.25 (-39.00 to -34.25) for apremilast and -34.75 (-37.75 to -31.75) for methotrexate (p=0.006).
+(-22.00 to -17.00) for apremilast and -21.00 (-25.50 to -17.50) for methotrexate (p=0.079).
+No serious adverse events were noticed.
+Apremilast was more effective than methotrexate in psoriasis treatment.
+The statistically significant difference was found only in PASI scores.

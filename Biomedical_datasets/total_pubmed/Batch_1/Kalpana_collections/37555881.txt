@@ -1,0 +1,13 @@
+Transjugular liver biopsy (TJLB) procedurally samples liver tissue through the internal jugular vein.
+It is indicated in the presence of coagulopathies and/or ascites.
+This meta-analysis aimed to assess the safety and efficacy of TJLB in children.
+A literature search of several databases was conducted from inception to August 2022.
+Eligible studies reported pediatric patients (< 18 years old) who underwent TJLB.
+The pooled proportion was analyzed using a random-effects model.
+This review was registered in PROSPERO (CRD42022354421).
+From 921 initial studies screened, eight met the eligibility criteria, with a total of 361 pediatric patients who underwent 374 TJLBs.
+All eight studies reported pooled rates of technical success at 99.1% (95% CI 0.982, 1.001; I2 = 0%) and histological adequacy of sampling at 97.5% (95% CI 0.954, 0.995; I2 = 27.66%).
+A total of 49 complications were reported across six studies, the most common being bleeding from the entry site (38.78%), fevers for less than 24 h (12.24%), red blood cells transfusion requirement (10.2%), supraventricular tachycardia (8.16%), and pain requiring analgesia (8.16%).
+Pediatric TJLB demonstrates high rates of technical success and adequate liver core biopsy samples, with a low rate of complications.
+These results suggest that TJLB is an effective method for diagnostic yield and postprocedural outcomes, especially in patients with preexisting coagulopathies and ascites where percutaneous liver biopsy is contraindicated.
+Additional studies evaluating larger groups of pediatric patients may provide further support for the use of TJLB in this population.

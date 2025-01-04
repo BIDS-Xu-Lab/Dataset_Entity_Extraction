@@ -1,0 +1,8 @@
+Hi-C experiments couple DNA-DNA proximity with next-generation sequencing to yield an unbiased description of genome-wide interactions.
+Previous methods describing Hi-C experiments have focused on the industry-standard Illumina sequencing.
+With new next-generation sequencing platforms such as BGISEQ-500 becoming more widely available, protocol adaptations to fit platform-specific requirements are useful to give increased choice to researchers who routinely generate sequencing data.
+We describe an in situ Hi-C protocol adapted to be compatible with the BGISEQ-500 high-throughput sequencing platform.
+Using zebra finch (Taeniopygia guttata) as a biological sample, we demonstrate how Hi-C libraries can be constructed to generate informative data using the BGISEQ-500 platform, following circularization and DNA nanoball generation.
+Our protocol is a modification of an Illumina-compatible method, based around blunt-end ligations in library construction, using un-barcoded, distally overhanging double-stranded adapters, followed by amplification using indexed primers.
+The resulting libraries are ready for circularization and subsequent sequencing on the BGISEQ series of platforms and yield data similar to what can be expected using Illumina-compatible approaches.
+Our straightforward modification to an Illumina-compatible in situHi-C protocol enables data generation on the BGISEQ series of platforms, thus expanding the options available for researchers who wish to utilize the powerful Hi-C techniques in their research.

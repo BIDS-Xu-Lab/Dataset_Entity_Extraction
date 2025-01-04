@@ -1,0 +1,10 @@
+The availability of personal computer programs for individualizing drug dosage regimens has stimulated the interest in modelling population pharmacokinetics.
+Data from 82 adolescent and adult patients with cystic fibrosis (CF) who were treated with intravenous tobramycin because of an exacerbation of their pulmonary infection were analysed with a non-parametric expectation maximization (NPEM) algorithm.
+This algorithm estimates the entire discrete joint probability density of the pharmacokinetic parameters.
+It also provides traditional parametric statistics such as the means, standard deviation, median, covariances and correlations among the various parameters.
+It also provides graphic-2- and 3-dimensional representations of the marginal densities of the parameters investigated.
+Several models for intravenous tobramycin in adolescent and adult patients with CF were compared.
+Covariates were total body weight (for the volume of distribution) and creatinine clearance (for the total body clearance and elimination rate).
+Because of lack of data on patients with poor renal function, restricted models with non-renal clearance and the non-renal elimination rate constant fixed at literature values of 0.15 L/h and 0.01 h-1 were also included.
+In this population, intravenous tobramycin could be best described by median (+/-dispersion factor) volume of distribution per unit of total body weight of 0.28 +/- 0.05 L/kg, elimination rate constant of 0.25 +/- 0.10 h-1 and elimination rate constant per unit of creatinine clearance of 0.0008 +/- 0.0009 h-1/(ml/min/1.73 m2).
+Analysis of populations of increasing size showed that using a restricted model with a non-renal elimination rate constant fixed at 0.01 h-1, a model based on a population of only 10 to 20 patients, contained parameter values similar to those of the entire population and, using the full model, a larger population (at least 40 patients) was needed.

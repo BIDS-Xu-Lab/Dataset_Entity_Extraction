@@ -1,0 +1,12 @@
+Lung cancer has become one of the most common malignant tumors in China.
+The prognosis of lung cancer is poor mainly because of relapse and distant metastases and brain metastasis occurs frequently.
+This study attempts to evaluate the prognostic factors in lung cancer patients with brain metastases.
+The information in the study may be useful for the clinicians to make some decisions.
+The clinical data of 352 lung cancer patients with brain metastases in our hospital from the year of 1997 to 2005 were retrospectively reviewed.
+The multivariate analysis was performed with Cox's proportion risk model.
+Survival analysis was compared with Kaplan-Meier method and log-rank test was used respectively.
+Statistical significance was defined as P<0.05.
+The univariate analysis showed that patients' performance status (PS score), age, the number of brain metastases, the absence or presence of extracranial metastases and metastatic symptoms, multimodality treatments were related to survival period(P<0.05).
+The multivariate analysis indicated that patients' performance status (PS score), age and the number of brain metastases were closely related to their prognosis (P<0.05).
+Performance status(PS score), age and the number of brain metastases are the independent prognostic factors in lung cancer with brain metastases.
+The patients with PS score 0-1, age<=60 years and single brain metastasis have longer survival and they can benefit from treatments.

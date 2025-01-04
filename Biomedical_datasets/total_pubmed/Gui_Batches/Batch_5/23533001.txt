@@ -1,0 +1,7 @@
+Global consensus is lacking, especially among developing countries, on whether agricultural work is detrimental to children's health and safety.
+We aimed to measure the degree to which Philippine children working in agriculture have a higher risk of injury compared with children working in other industries, and to uncover potential risk factors for their non-fatal injuries.
+Using the Philippine Survey of Children (SOC) 2001, we calculated injury incidence rates and relative risk measures across industries, and employed a multivariate logistic regression on the sample of working children in agriculture to ascertain the association of various exposures with the occurrence of work-related injuries.
+Children working in agriculture had a fivefold risk of non-fatal injury compared to children working in other industries.
+Logistic regression indicated that the most robust risk factor for the occurrence of non-fatal injury was the use of tools (OR = 3.12).
+The results of this study demonstrate agriculture to be a hazardous industry for children.
+Further research should focus on identifying the most dangerous tools and restricting their use.

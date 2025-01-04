@@ -1,0 +1,12 @@
+The purpose of this study was to describe the nonlinear pharmacokinetics of piperacillin observed during intermittent infusion and continuous infusion by using a nonparametric population modeling approach.
+Data were 120 serum piperacillin concentration measurements from eight adult cystic fibrosis (CF) patients.
+Individual pharmacokinetic parameter estimates during intermittent infusion or continuous infusion were calculated by noncompartmental analysis and with a maximum iterative two-stage Bayesian estimator.
+To simultaneously describe concentration-time data during intermittent infusion and continuous infusion, nonlinear models were parameterized as two-compartment Michaelis-Menten models.
+Models were fit to the data with the nonparametric expectation maximization algorithm.
+The calculations were executed on a remote supercomputer.
+A linear pharmacokinetic model could not describe combined intermittent infusion and continuous infusion data well.
+A good population model fit to the intermittent infusion and continuous infusion data was obtained with the constructed nonlinear models.
+Maximum a posteriori probability (MAP) Bayesian R(2) values for the nonlinear models were 0.96 to 0.97.
+Median parameter estimates for the best nonlinear model were as follows: K(m), 58 +/- 75 mg/liter (mean and standard deviation); V(max), 1,904 +/- 1,009 mg/h; volume of distribution of the central compartment, 14.1 +/- 3.0 liters; k(12), 0.63 +/- 0.41 h(-1); and k(21), 0.37 +/- 0.19 h(-1).
+The median bias (MWE) and precision (MWSE) values for MAP Bayesian estimation with the Michaelis-Menten model were 0.05 and 4.6 mg/liters, respectively.
+The developed nonlinear pharmacokinetic models can be used to optimize piperacillin therapy administered via continuous infusion in patients with CF and have distinct advantages over conventional linear models.

@@ -1,0 +1,7 @@
+HeLa cells are widely used for all kinds of in vitro studies in biochemistry, biology and medicine.
+Knowledge on protein expression is limited and no comprehensive study on the proteome of this cell type has been reported so far.
+We applied proteomics technologies to analyze the proteins of the HeLa cell line.
+The proteins were analyzed by two-dimensional (2D) gel electrophoresis and identified by matrix-assisted laser desorption ionization mass spectrometry (MS) on the basis of peptide mass fingerprinting, following in-gel digestion with trypsin.
+Approximately 3000 spots, excised from six two-dimensional gels, were analyzed.
+The analysis resulted in the identification of about 1200 proteins that were the products of 297 different genes.
+The HeLa cell database includes proteins with important functions and unknown functions, representing today one of the largest two-dimensional databases for eukaryotic proteomes and forming the basis for future expressional studies at the protein level.

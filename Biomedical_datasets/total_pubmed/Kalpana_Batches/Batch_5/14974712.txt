@@ -1,0 +1,8 @@
+During the spring, when ozone depletion at the polar regions is at its maximum and consequently the environmental UV exposure is potentially high, many terrestrial communities are covered in snow and heterogeneous snow-encrusted ice that form near the edges of snowpack.
+Using field measurements and a theoretical radiative transfer model, we calculated the thicknesses of these covers that are necessary to reduce DNA-weighted dose to levels equal to or lower than those received later in the season in the absence of covers when there is no ozone depletion.
+This depth is approximately 4 cm for a 60% depletion of the ozone column, suggesting that even thin snow-ice covers are enough to completely cancel the biological effects of ozone depletion.
+Loss of snow-ice covers during early summer can be rapid.
+The maximum rate of retreat of snow cover measured during November at Mars Oasis, Antarctica (71.9 degrees S, 68.2 degrees W), was 44.1 cm/day, with a mean retreat of 15.4 cm/day.
+Climate warming might increase UV-radiation damage by melting UV-protecting terrestrial snow-ice covers earlier in the season, when ozone depletion is more severe.
+Conversely, climate cooling could increase UV-protection afforded to terrestrial communities by increasing the extent of snow and ice covers.
+Even if anthropogenic ozone depletion is eventually reversed, these data suggest the importance of climate forcing in determining UV exposures of terrestrial microbial communities in snow- and ice-covered environments.

@@ -1,0 +1,8 @@
+Many urban households in developing countries use biomass fuels for cooking.
+The proportion of household biomass use varies among neighborhoods, and is generally higher in low socioeconomic status (SES) communities.
+Little is known of how household air pollution varies by SES and how it is affected by biomass fuels and traffic sources in developing country cities.
+In four neighborhoods in Accra, Ghana, we collected and analyzed geo-referenced data on household and community particulate matter (PM) pollution, SES, fuel use for domestic and small-commercial cooking, housing characteristics, and distance to major roads.
+Cooking area PM was lowest in the high-SES neighborhood, with geometric means of 25 (95% confidence interval, 21-29) and 28 (23-33) μg/m(3) for fine and coarse PM (PM(2.5) and PM(2.5-10)), respectively; it was highest in two low-SES slums, with geometric means reaching 71 (62-80) and 131 (114-150) μg/m(3) for fine and coarse PM.
+After adjustment for other factors, living in a community where all households use biomass fuels would be associated with 1.5- to 2.7-times PM levels in models with and without adjustment for ambient PM.
+Community biomass use had a stronger association with household PM than household's own fuel choice in crude and adjusted estimates.
+Lack of regular physical access to clean fuels is an obstacle to fuel switching in low-income neighborhoods and should be addressed through equitable energy infrastructure.

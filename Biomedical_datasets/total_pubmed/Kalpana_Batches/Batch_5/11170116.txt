@@ -1,0 +1,5 @@
+Bias can have a major impact on the results of epidemiologic studies.
+In investigations of the possible association between residential exposure to magnetic fields and the occurrence of childhood leukemia, many have raised questions about selection bias, including participation bias and information bias.
+In this review, the data on these possible sources of bias are summarized and their likely impact is evaluated.
+Most data suggest that if a bias exists, it is a bias towards the lack of association between exposure to magnetic fields and childhood leukemia.
+In addition, given the wide variety of study populations and measurement protocols, it is unlikely that a single design flaw has resulted in consistent effects across all studies and can be the sole explanation for the reported associations.

@@ -1,0 +1,7 @@
+RNA-catalyzed RNA methylation was recently shown to be part of the catalytic repertoire of ribozymes.
+The methyltransferase ribozyme MTR1 catalyzes the site-specific synthesis of 1-methyladenosine (m1A) in RNA, using O6-methylguanine (m6G) as a methyl group donor.
+Here, we report the crystal structure of MTR1 at a resolution of 2.8 Å, which reveals a guanine-binding site reminiscent of natural guanine riboswitches.
+The structure represents the postcatalytic state of a split ribozyme in complex with the m1A-containing RNA product and the demethylated cofactor guanine.
+The structural data suggest the mechanistic involvement of a protonated cytidine in the methyl transfer reaction.
+A synergistic effect of two 2'-O-methylated ribose residues in the active site results in accelerated methyl group transfer.
+Supported by these results, it seems plausible that modified nucleotides may have enhanced early RNA catalysis and that metabolite-binding riboswitches may resemble inactivated ribozymes that have lost their catalytic activity during evolution.

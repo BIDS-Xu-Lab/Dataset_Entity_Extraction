@@ -1,0 +1,8 @@
+This study addresses the problem of PCR inhibition by reverse transcriptase.
+It has been shown that the inhibition occurs mostly when a small amount of RNA is taken for RT reaction, and it is more visible for rarely expressed transcripts.
+We show here that the inhibition takes place regardless of what amount of template is utilized for RT.
+The inhibition possesses a global nature, i.e. the amplification of any given transcript may be compromised with different levels of inhibition.
+The process of inhibition also explains wrongfully derived PCR amplification efficiencies, sometimes more than 100%, when the sequential dilutions of unpurified RT sample are utilized to build the calibration curve.
+The RT influences PCR not only by inhibiting it.
+When microgram(s) of RNA are taken for RT reaction, reverse transcriptase may cause overamplification of some transcripts under certain PCR conditions.
+The possible mechanism of RT influence on PCR is presented, and a purification method is implemented to remove the effects of RT on PCR.

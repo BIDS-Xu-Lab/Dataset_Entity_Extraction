@@ -1,0 +1,6 @@
+Magnetic resonance spectroscopy (MRS) has clinically been most extensively used for assessing brain disorders, particularly tumors.
+With 1-H spectroscopy at intermediate echo times, resonances from choline, creatine, N-acetyl-aspartate (NAA), lactate, and free fatty acids can be resolved well enough to assist in diagnosis under routine conditions.
+Generally, an increased concentration of choline is found in all primary and secondary brain tumors, and the degree of increase correlates with the degree of anaplasia.
+Further indicators of anaplasia are the presence of lactate, indicating hypoxia, and of fatty acids, indicating necrosis.
+According to literature, the sensitivity of a combination of proton spectroscopy with contrast-enhanced dynamic susceptibility-weighted imaging for high-grade components in gliomas is better than conventional contrast-enhanced imaging alone.
+Today, proton spectroscopy is clearly indicated for differentiating radiation-induced damage from recurrences of irradiated brain tumors.

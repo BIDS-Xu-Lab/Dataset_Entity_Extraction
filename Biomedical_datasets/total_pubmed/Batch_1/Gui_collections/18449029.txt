@@ -1,0 +1,9 @@
+A meta-analysis of randomized control trials.
+To compare fluoroquinolones to beta-lactams for the treatment of osteomyelitis.
+Treatment of osteomyelitis remains a real challenge in medicine necessitating the use of broad-spectrum antibiotics, because of the variety of the pathogens causing the infection and the fact that the infected bone may become necrotic and avascular, preventing systemic antibiotics from adequately penetrating to the infection site.
+A literature search was performed by 2 reviewers independently (PubMed database and the Cochrane Central Register of Controlled Trials).
+We identified 7 studies eligible for inclusion in our meta-analysis; ciprofloxacin, ofloxacin, and pefloxacin were used in 3, 3, and 1 study, respectively, while various beta-lactams (mainly in the intravenous form) were used as comparators.
+[194 patients, fixed effect model (FEM), odds ratio (OR) = 0.99, 95% confidence interval (CI) 0.51-1.91], bacteriological success (201 isolates, FEM, OR = 0.88, 95% CI = 0.45-1.70), superinfections (173 patients, FEM, OR = 1.75, 95% CI = 0.63-4.90), relapses (153 patients, FEM, OR = 1.23, 95% CI = 0.46-3.31), or adverse events (170 patients, FEM, OR = 0.47, 95% CI = 0.21-1.06).
+Fluoroquinolones are as effective as beta-lactams for the treatment of osteomyelitis and can be considered as a useful alternative in the physician's armamentarium.
+The value of fluoroquinolones for the treatment of osteomyelitis lies in the fact that they can be administered in an outpatient setting.
+However, they should be used with caution, so as to preserve their activity against increasingly resistant bacteria.

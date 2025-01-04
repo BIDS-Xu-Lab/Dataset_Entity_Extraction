@@ -1,0 +1,14 @@
+Anatomical models have key applications in radiotherapy, notably to help understand the relationship between radiation dose and risk of developing side effects.
+This review analyses whether age-specific computational phantoms, developed from healthy subjects and paediatric cancer patient data, are adequate to model a paediatric population.
+The phantoms used in the study were International Commission on Radiological Protection (ICRP), 4D extended cardiac torso (XCAT) and Radiotherapy Paediatric Atlas (RT-PAL), which were also compared to literature data.
+Organ volume data for 19 organs was collected for all phantoms and literature.
+ICRP was treated as the reference for comparison, and percentage difference (P.D) for the other phantoms were calculated relative to ICRP.
+Overall comparisons were made for each age category (1, 5, 10, 15) and each organ.
+Statistical analysis was performed using Microsoft Excel (version 16.59).
+The smallest P.D to ICRP was for Literature (-17.4%), closely followed by XCAT (26.6%).
+The largest was for RT-PAL (88.1%).
+The rectum had the largest average P.D (1,049.2%) and the large bowel had the smallest (2.0%).
+The P.D was 122.6% at age 1 but this decreased to 43.5% by age 15.
+Linear regression analysis showed a correlation between organ volume and age to be the strongest for ICRP (R2 = 0.943) and weakest for XCAT (R2 = 0.676).
+The phantoms are similar enough to ICRP for potential use in modelling paediatric populations.
+ICRP and XCAT could be used to model a healthy population, whereas RT-PAL could be used for a population undergoing/after radiotherapy.

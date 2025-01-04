@@ -1,0 +1,9 @@
+The genomic diversity of SARS-CoV-2 has been a focus during the ongoing COVID-19 pandemic.
+Here, we analyzed the distribution and character of emerging mutations in a data set comprising more than 95,000 virus genomes covering eight major SARS-CoV-2 lineages in the GISAID database, including genotypes arising during COVID-19 therapy.
+Globally, the C>U transitions and G>U transversions were the most represented mutations, accounting for the majority of single-nucleotide variations.
+Mutational spectra were not influenced by the time the virus had been circulating in its host or medical treatment.
+At the amino acid level, we observed about a 2-fold excess of substitutions in favor of hydrophobic amino acids over the reverse.
+However, most mutations constituting variants of interests of the S-protein (spike) lead to hydrophilic amino acids, counteracting the global trend.
+The C>U and G>U substitutions altered codons towards increased amino acid hydrophobicity values in more than 80% of cases.
+The bias is explained by the existing differences in the codon composition for amino acids bearing contrasting biochemical properties.
+Mutation asymmetries apparently influence the biochemical features of SARS CoV-2 proteins, which may impact protein-protein interactions, fusion of viral and cellular membranes, and virion assembly.

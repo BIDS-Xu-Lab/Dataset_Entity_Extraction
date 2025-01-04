@@ -1,0 +1,10 @@
+BOT-2 cells (human breast tumor origin) have an impaired ability to utilize exogenous thymidine.
+Previous studies revealed this deficiency to be the permeation event rather than phosphorylation, since the cells have active thymidine kinase.
+Chromosome-mediated gene transfer was used to transfer genetic information in the form of metaphase chromosomes, from HeLa-65 cells to the BOT-2 cells, correcting the permease deficiency.
+Poly-L-ornithine or lipochromes were used for facilitation of chromosome uptake.
+After selection on HAT medium, transferant clones were isolated at a frequency of 4 x 10(-5) and 1 x 10(-5), respectively.
+Transferants MGP-1 and MGL-1 are stable after 18 months and have been characterized on the bases of purine and pyrimidine nucleoside uptake, relative thymidine kinase activities, alkaline phosphatase activities, and hydrocortisone-induced alkaline phosphatase activity.
+MGP-1 demonstrates positive thymidine uptake and incorporates radiolabeled thymidine into DNA.
+MGL-1 remains thymidine transport-deficient and surveys on HAT by increasing endogenous dihydrofolate reductase activity.
+Alkaline phosphatase activity in MGL-1 is similar to HeLa-65, 2% of that in BOT-2, and in addition, is inducible 25-30-fold by 3 micro M hydrocortisone.
+We have separated, genetically, a thymidine permease function from phosphorylation in cells of human origin and have transferred genetic information for the regulation of alkaline phosphatase.

@@ -1,0 +1,9 @@
+Nutrient selection emerges as a result of both genetic and environmental factors and may be further modified by stressors.
+The impact of this complex interrelationship on pathological outcomes is poorly understood.
+In the present investigation the stressor-reactive BALB/cByJ and the relatively stressor resilient C57BL/6ByJ mice were maintained on a macronutrient selection protocol or given free access to chow for 20 months.
+The C57BL/6ByJ mice exhibited a marked preference for fat over carbohydrates, whereas BALB/cByJ mice preferred carbohydrates over fat.
+Cognitive testing in a Morris water maze indicated that while BALB/cByJ mice were clearly more impaired in this task relative to their C57BL/6ByJ counterparts, there was no substantial effect of the diet at either 13 or 19 months of age.
+Furthermore, despite their stressor resiliency, at 19 months of age, C57BL/6ByJ mice who invariably consumed fat, exhibited greater plasma corticosterone responses to a 20-min period of restraint than chow fed animals.
+Indeed, the corticosterone rise was as pronounced as in the more reactive BALB/cByJ strain.
+Furthermore, the C57BL/6ByJ diet-fed mice showed features of insulin insensitivity and increased adiposity.
+These data suggest that the adverse effects of fat consumption need to be considered in the context of genetically determined vulnerability/resilience factors.

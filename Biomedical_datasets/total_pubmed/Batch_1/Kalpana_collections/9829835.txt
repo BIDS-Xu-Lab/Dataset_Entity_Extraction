@@ -1,0 +1,9 @@
+Two divergent reports have been published on the genetic complementation of rhizobial nod mutants using Frankia DNA.
+In 1991 putative Frankia cosmid library clones were reported to restore normal nodulation properties to Rhizobium leguminosarum biovar viciae nodD::Tn5, but no supporting sequence data were published.
+In 1992 a second group reported a failure to find any evidence of functional complementation of various rhizobial nod mutants by Frankia DNA (nodA, nodB and nodC).
+Complementation tests of nine NodR. leguminosarum bv. viciae or Sinorhizobium meliloti Tn5 mutants (nodA-, nodB-, nodC-, nodD-, nodF-, nodL-, nodH-) were thus performed using a Frankia gene library in pLAFR3 to clarify this situation.
+Rhizobial transconjugants obtained by tri-parental matings were screened for restoration of the nodulation phenotype on their host plants, Vicia sativa subsp.
+Nodulation was observed on plants inoculated with transconjugants of the R. leguminosarum bv. viciae nodC::Tn5 mutant.
+The Nod+ rhizobial transconjugants were isolated and analysed.
+The Nod+ phenotype of these transconjugants was found to be due to Tn5 excision/transposition.
+No functional complementation was found with any of the mutants used, suggesting that rhizobial complementation of nod mutants with Frankia DNA is unlikely to occur.

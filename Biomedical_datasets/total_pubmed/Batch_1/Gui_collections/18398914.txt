@@ -1,0 +1,10 @@
+We performed a nation-wide study on geographical variation in the incidence and prevalence of medicated parkinsonism among the Finns aged > or =30 years using Bayesian spatial conditional autoregressive models.
+Registry of reimbursed medication for parkinsonism and a prescription database of purchase of these drugs were used to identify the study subjects.
+They were located by the map coordinates of the place of residence and aggregated into regular 100 km(2) grid cells.
+A total of 7,190 incident and 10,616 prevalent cases were found.
+The age-adjusted annual incidence was 32.6/100,000 (95% HDR 31.8-33.4) during the years 1995 to 2000 and prevalence was 268/100,000 (95% HDR 263-274) in 2000.
+The male to female ratio was 1.45 (95% HDR 1.39-1.51) in incidence and 1.54 (95% HDR 1.47-1.61) in prevalence.
+There was strong evidence for geographic variation in incidence and prevalence.
+A zone with high incidence and prevalence was identified in the eastern and central part of Finland.
+There was no evidence for difference in incidence and prevalence between urban and rural areas.
+The marked (more than two-fold) geographic variation can hardly be caused solely by practices of the registration and collection of data on diagnosis or by methodological issues, but rather suggests to geographic variation in protective and predisposing factors of Parkinsonism in Finland.

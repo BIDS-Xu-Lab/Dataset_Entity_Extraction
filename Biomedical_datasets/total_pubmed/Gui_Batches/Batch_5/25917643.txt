@@ -1,0 +1,12 @@
+Endogenous factors such as stress-induced immune system reactivity were also associated with dyshidrosis.
+Herpes zoster (HZ) incidence has been demonstrated to increase with immune deficiencies.
+Therefore, a relationship between dyshidrosis and HZ may exist.
+This study investigated whether there is an association between dyshidrosis and HZ.
+We conducted a population-based cohort study by using Taiwan's Longitudinal Health Insurance Database (LHID2000) records from 1996 to 2011.
+The dyshidrosis group comprised 8488 patients with newly identified dyshidrosis and no history of HZ prior to diagnosis of dyshidrosis.
+For the non-dyshidrosis group, each dyshidrosis patient frequency matched according to age (5-year intervals), sex and index date year with four controls selected randomly from the LHID2000.
+After adjustments for confounding risk factors, the hazard ratio for HZ in the dyshidrosis group was 1.31 compared with the non-dyshidrosis group.
+Regardless of comorbidities, patients with dyshidrosis had a higher risk of HZ than did controls without dyshidrosis.
+Patients with more hospital visits that were due to dyshidrosis had a higher risk of HZ.
+Dyshidrosis is strongly associated with HZ.
+Patients treated for dyshidrosis should be warned of HZ risk.

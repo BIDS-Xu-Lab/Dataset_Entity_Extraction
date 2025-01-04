@@ -1,0 +1,11 @@
+A prospective, non-randomized study evaluated the effects of tonsillectomy and/or adenoidectomy (T +/- A) on acoustic and perceptual aspects of vocal function.
+Thirty-one children, ranging in age from 4 to 15 years participated and measurements were made prior to and 3 months following surgery.
+A and eight had adenoidectomy alone.
+Quantitative acoustic measures included: laryngeal (vocal fundamental frequency, FO) and supralaryngeal characteristics of sustained vowels (F1 and F2 formants, formant bandwidths, two-dimensional measures of vowel space) and temporal properties of consonant-vowel productions (diadochokinetic syllable rates).
+Perceptual measures were based on samples of continuous speech, using the Buffalo voice profile (BVP) and parental interviews/questionnaires were used to evaluate other aspects of surgery (i.e. subjective speech changes, protracted pain, difficulty swallowing, bleeding, etc.).
+Based on ANOVA, no significant post-surgical changes were detected for the majority of acoustic speech measures studied (vocal F0, formant bandwidths, measures of vowel space or diadochokinetic rates).
+However, the F2 formant frequency for vowels /i/ and /a/ increased and F1 decreased for /o/ following surgery.
+These changes had the largest effect on the structure of vowel /i/, which became more acute and diffuse following surgery.
+Furthermore, of the majority of perceptual measured studied with the BVP, 92% showed no change postoperatively.
+However, in the category of resonance, a significant decrease in hyponasality was detected.
+These results demonstrate that removing soft tissue from the oropharynx has only minimal impact on quantitative or qualitative (perceptual) aspects of vocal function, when measurements are made approximately 15 weeks post surgery.

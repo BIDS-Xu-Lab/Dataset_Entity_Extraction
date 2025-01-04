@@ -1,0 +1,11 @@
+Recent studies have shown that esophageal mucosal inflammatory response is involved in the pathophysiology of gastro-esophageal reflux disease.
+The aim of the present study was to identify specific gene expression profiles of the esophageal mucosa in a rat model of combined-type chronic reflux esophagitis.
+Esophagogastroduodenal anastomosis was carried out in male Wistar rats by anastomosing the jejunum to the gastroesophageal junction under diethyl-ether inhalation anesthesia.
+Esophageal epithelial cells were obtained from esophagi of rats by laser capture microdissection.
+Preparation of cRNA and target hybridization were performed according to the Affymetrix GeneChip eukaryotic small sample target labeling assay protocol.
+The gene expression profile was evaluated by the rat toxicology U34 GeneChip.
+Array data analysis was carried out using Affymetrix GeneChip operating software, ingenuity pathway analysis software, and Gene Springs software.
+A comparison between esophagitis and sham-operated rats 2 weeks after the operation revealed that 368 probes (36%) were significantly affected, i.e. 185 probes were up-regulated, and 183 probes were down-regulated, both at levels of at least 1.5-fold in the esophagitis rats.
+Ingenuity signal analysis of 207 affected probes revealed the interleukin-6 signaling pathway as the most significantly affected caronical pathway.
+In addition, the expression of many genes associated with cytokine and transcription factor was enhanced in the esophagitis rats.
+This transcriptome approach provided insight into genes and putative genetic pathways thought to be affected by stimulation with gastroduodenal refluxates.

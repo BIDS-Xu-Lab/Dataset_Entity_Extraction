@@ -1,0 +1,14 @@
+Although deep learning (DL) can identify the intermediate or advanced stages of age-related macular degeneration (AMD) as a binary yes or no, stratified gradings using the more granular Age-Related Eye Disease Study (AREDS) 9-step detailed severity scale for AMD provide more precise estimation of 5-year progression to advanced stages.
+The AREDS 9-step detailed scale's complexity and implementation solely with highly trained fundus photograph graders potentially hampered its clinical use, warranting development and use of an alternate AREDS simple scale, which although valuable, has less predictive ability.
+To describe DL techniques for the AREDS 9-step detailed severity scale for AMD to estimate 5-year risk probability with reasonable accuracy.
+This study used data collected from November 13, 1992, to November 30, 2005, from 4613 study participants of the AREDS data set to develop deep convolutional neural networks that were trained to provide detailed automated AMD grading on several AMD severity classification scales, using a multiclass classification setting.
+Two AMD severity classification problems using criteria based on 4-step (AMD-1, AMD-2, AMD-3, and AMD-4 from classifications developed for AREDS eligibility criteria) and 9-step (from AREDS detailed severity scale)
+The performance of these algorithms was compared with a contemporary human grader and against a criterion standard (fundus photograph reading center graders) used at the time of AREDS enrollment and follow-up.
+Three methods for estimating 5-year risk were developed, including one based on DL regression.
+Data were analyzed from December 1, 2017, through April 15, 2018.
+Weighted κ scores and mean unsigned errors for estimating 5-year risk probability of progression to advanced AMD.
+This study used 67 401 color fundus images from the 4613 study participants.
+The weighted κ scores were 0.77 for the 4-step and 0.74 for the 9-step AMD severity scales.
+The overall mean estimation error for the 5-year risk ranged from 3.5% to 5.3%.
+These findings suggest that DL AMD grading has, for the 4-step classification evaluation, performance comparable with that of humans and achieves promising results for providing AMD detailed severity grading (9-step classification), which normally requires highly trained graders, and for estimating 5-year risk of progression to advanced AMD.
+Use of DL has the potential to assist physicians in longitudinal care for individualized, detailed risk assessment as well as clinical studies of disease progression during treatment or as public screening or monitoring worldwide.

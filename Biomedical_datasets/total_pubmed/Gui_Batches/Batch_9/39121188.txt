@@ -1,0 +1,12 @@
+This study aimed to determine the clinical efficacy of Kinesiotaping (KT) combined with a rehabilitation program to reduce symptoms and functional limitations in patients with Rotator Cuff-Related Shoulder Pain (RCRSP) in Vietnam.
+In total, 82 participants who were diagnosed with RCRSP were randomly allocated into two groups.
+Both groups received a standard rehabilitation program; additionally, the intervention group was treated with KT.
+Outcomes, assessed at baseline, and 3, 7, and 14 days postintervention, included pain intensity (Visual Analogue Scale, VAS), functional disability (Shoulder Pain and Disability Index, SPADI), and active range of motion (ROM).
+The KT group exhibited significant improvements in all outcome measures.
+VAS scores decreased by an average of 13.3 points in the KT group at 14 days, which was notably greater than that in the control group (95% CI: -17.77 to -8.82).
+SPADI scores also improved significantly in the KT group, with reductions of -11.36, -15.27, and -13.3 at days 3, 7, and 14, respectively.
+Regarding ROM, the KT group showed notable improvements in flexion and external rotation, with flexion ROM differences of 10.78, 10.35, and 11.8 degrees at the respective time points.
+No significant changes were observed in the abduction or internal rotation ROM.
+After adjusting for age, baseline scores, and gender, there was a statistically significant interaction between Group and Time on the VAS, SPADI, and ROM abduction.
+Incorporating KT into a standard rehabilitation program for RCRSP demonstrated enhanced efficacy in reducing pain and improving shoulder function.
+The results suggest that KT can be a valuable component of the treatment regimen for RCRSP.

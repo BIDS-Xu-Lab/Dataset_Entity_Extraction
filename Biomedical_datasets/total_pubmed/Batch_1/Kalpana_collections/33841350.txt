@@ -1,0 +1,15 @@
+This research tested the hypothesis that xylanase modulates microbial communities within the large intestine of growing pigs fed corn-based fiber through a stimbiotic mechanism(s) of action (MOA).
+mg/kg xylanase (HF+XY), and HF+50 mg/kg arabinoxylan-oligosaccharide (HF+AX).
+Pigs were fed dietary treatments for 46 days.
+On day 46, pigs were euthanized, and mucosa and lumen contents were collected from the cecum and the colon.
+The V4 region of 16S rRNA genes was sequenced and clustered into 5,889, 4,657, 2,822, and 4,516 operational taxonomic units (OTUs), in the cecal contents and mucosa and colonic contents and mucosa, respectively.
+In cecal contents, HF+XY increased measures of α-diversity compared to LF (p < 0.001).
+Relative to LF, HF increased the prevalence of 44, 36, 26, and 8, and decreased 19, 9, 21, and 10, of the 200 most abundant OTUs from the cecal contents and mucosa and colonic contents and mucosa, respectively (Q < 0.05).
+Compared to LF, HF increased the abundance of OTUs from the Treponema_2, Ruminococcus_1 genera, from the Lachnospiraceae, Ruminococcaceae, and Prevotellaceae families.
+In contrast, relative to LF, HF decreased Turicibacter and Lactobacillus in the cecal contents, and Megasphaera and Streptococcus in the mucosa.
+Relative to HF, HF+XY increased 32, 16, 29, and 19 and decreased 27, 11, 15, and 10 of the 200 most abundant OTUs from the cecal contents and mucosa and colonic contents and mucosa, respectively (Q < 0.05).
+The addition of xylanase to HF further increased the abundance of OTUs from the Lachnospiraceae and Ruminococcaceae families across the large intestine.
+Compared to HF, HF+XY increased the abundance of Lactobacillus, Bifidobacterium, and Faecalibacterium among all locations (Q < 0.05).
+However, HF+AX did not increase the prevalence of these genera in the large intestine.
+Supplementing xylanase to HF increased hidden-state predictions of microbial enzymes associated with arabinoxylan degradation, xylose metabolism, and short-chain fatty acid production.
+These data suggest xylanase elicits a stimbiotic MOA in the large intestine of pigs fed corn-based fiber.

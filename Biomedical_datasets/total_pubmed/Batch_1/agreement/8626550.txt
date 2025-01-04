@@ -1,0 +1,6 @@
+CSBP p38 is a mitogen-activated protein kinase that is activated in response to stress, endotoxin, interleukin 1, and tumor necrosis factor.
+Using a catalytically inactive mutant (D168A) of human CSBP2 as the bait in a yeast two-hybrid screen, we have identified and cloned a novel kinase which shares approximately 70% amino acid identity to mitogen-activated protein kinase-activated protein kinase (MAPKAP kinase)-2, and thus was designated MAPKAP kinase-3.
+The binding of CSBP to MAPKAP kinase-3 was confirmed in vitro by the precipitation of epitope-tagged CSBP1, CSBP2, and CSBP2(D168A) and endogenous CSBP from mammalian cells by a bacterially expressed GST-MAPKAP kinase-3 fusion protein and in vivo by co-precipitation of the epitope-tagged proteins co-expressed in HeLa cells.
+MAPKAP kinase-3 was phosphorylated by both CSBP1 and CSBP2 and was then able to phosphorylate HSP27 in vitro.
+Treatment of HeLa cells with sorbitol or TNF resulted in activation of CSBP and MAPKAP kinase-3 and activation of MAPKAP kinase-3 could be blocked by preincubation of cells with SB203580, a specific inhibitor of CSBP kinase activity.
+These data suggest that MAPKAP kinase-3 is activated by stress and cytokines and is a novel substrate of CSBP both in vitro and in vivo.

@@ -1,0 +1,6 @@
+Tumor T cell antigens are both diagnostically and therapeutically valuable molecules.
+A large number of new peptides are examined as potential tumor epitopes each year, yet there is no infrastructure for storing and accessing the results of these experiments.
+We have retroactively cataloged more than 1000 tumor peptides from 368 different proteins, and implemented a web-accessible infrastructure for storing and accessing these experimental results.
+All peptides in TANTIGEN are labeled as one of the four categories: (1) peptides measured in vitro to bind the HLA, but not reported to elicit either in vivo or in vitro T cell response, (2) peptides found to bind the HLA and to elicit an in vitro T cell response, (3) peptides shown to elicit in vivo tumor rejection, and (4) peptides processed and naturally presented as defined by physical detection.
+In addition to T cell response, we also annotate peptides that are naturally processed HLA binders, e.g., peptides eluted from HLA in mass spectrometry studies.
+TANTIGEN provides a rich data resource for tumor-associated epitope and neoepitope discovery studies and is freely available at http://cvc.dfci.harvard.edu/tantigen/ or http://projects.met-hilab.org/tadb (mirror).

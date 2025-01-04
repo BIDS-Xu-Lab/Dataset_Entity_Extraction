@@ -1,0 +1,12 @@
+The aim of this study was to perform psychometric testing of the Growth Hormone Deficiency-Child Impact Measure (GHD-CIM): a patient-reported outcome (PRO) for children with GHD aged 9 to < 13 years and an observer-reported outcome (ObsRO) for parents/guardians of children who are unable to answer for themselves.
+A non-interventional, multicenter, clinic-based study was conducted in 30 private-practice and large institutional sites in the US and the UK.
+Psychometric analyses were conducted following an a priori validation statistical analysis plan.
+A preliminary examination of the data determined a PRO version for children aged 9 to < 13 years was not psychometrically sound and therefore the decision was made to have only an ObsRO measure of the GHD-CIM, which would be suitable for children aged 4 to < 13 years.
+The GHD-CIM ObsRO validity analyses included 98 parents/guardians.
+Internal consistency reliability was acceptable for all domains and for the overall score (Cronbach's alpha > 0.70), as was test-retest reliability for the SWB, EWB and overall (above 0.70).
+At least one convergent validity hypotheses for each domain and overall was proven (r > 0.40).
+Known-groups validity hypotheses for the EWB and SWB domains were significant (p < 0.05).
+Associated effect sizes ranged from - 0.40 to - 0.58, indicating that the GHD-CIM is sensitive to change.
+Anchor-based patient and clinician ratings of severity of disease suggest a preliminary minimally important difference of 5 points for the overall score, and 5 for PHYS, 7 for EWB, and 5 for SWB.
+The GHD-CIM ObsRO was found to be a reliable and valid measure to assess disease-specific functioning, which will provide a more complete patient-centric picture to the growth hormone therapy experience in children.
+NCT02580032, first posted 20 October 2015.

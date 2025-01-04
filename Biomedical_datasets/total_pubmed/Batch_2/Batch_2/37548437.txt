@@ -1,0 +1,9 @@
+To evaluate the utility of the 12-item World Health Organization Disability Assessment Schedule (WHODAS-12) in predicting institutionalization after subacute stroke rehabilitation.
+On a specialized rehabilitation ward, discharge WHODAS-12 scores of 156 consecutive patients (24-h National Institutes of Health Stroke Scale (NIHSS) ≥ 15) and assessment from their proxies were compared, and receiver operating characteristic curves for predicting institutionalization were generated.
+Clinician-rated assessments of functioning were applied for comparison.
+Thirty-three percent of the patients were unfit to respond, due to the consequences of major stroke.
+However, both patient and proxy WHODAS-12 sum scores differentiated the community (n = 70) and institution (n = 86) groups (p = 0.02 and p < 0.0001, respectively), the discriminative accuracy (area under the curve; AUC) being 0.63 and 0.79, respectively.
+In proxy assessments, the institutionalized patients were significantly more impaired in all item comparisons except for emotions and concentrating.
+Ability to participate differentiated the groups as accurately as activities (AUC 0.75 vs 0.78, respectively).
+The corresponding discriminative accuracy of the clinician-rated World Health Organization (WHO) minimal generic dataset sum score and modified Rankin Scale were 0.74 and 0.79 (p < 0.0001), respectively.
+Despite its brevity and subjectivity, the WHODAS-12 from proxies has shown high accuracy in predicting institutionalization after subacute rehabilitation of individuals with major stroke, the impact of participation being as relevant as that of activities.

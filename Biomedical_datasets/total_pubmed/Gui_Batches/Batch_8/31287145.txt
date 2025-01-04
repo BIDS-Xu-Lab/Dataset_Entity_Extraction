@@ -1,0 +1,22 @@
+Can time-lapse imaging systems make it possible to identify novel early non-invasive biomarkers to predict live birth?
+From mostly high-grade embryos, out of 35 morphometric, morphologic and morphokinetic variables, only pronuclei (PN) position at time of PN juxtaposition and the absence of multinucleated blastomeres at the 2-cell stage (MNB2cell), were potentially associated with live birth.
+Previous studies indicate that some kinetic markers may be predictive of blastocyst development and embryonic implantation.
+Certain teams have suggested including some of them in decisional algorithms for embryo transfers.
+Using a time-lapse incubator (EmbryoScope, Unisense FertiliTech), we retrospectively explored the associations between the morphometric, morphologic and morphokinetic parameters of oocytes, zygotes and embryos, and their associations with live birth.
+This study assessed 232 embryos from single embryo transfers after ICSI cycles performed between January 2014 and December 2017.
+The morphometric, morphologic and morphokinetic parameters (18, 4 and 13, respectively) of oocytes, zygotes and early embryos were studied retrospectively.
+The associations between these parameters were examined using a Spearman's correlation, Mann-Whitney or chi-squared test as appropriate.
+We examined whether these parameters were associated with outcomes in univariate and multivariate logistic regression analyses.
+Central PN juxtaposition was associated with a 2-fold increase in the odds of live birth (OR = 2.20; 95% CI, [1.26-3.89]; P = 0.006), while the presence of MNB2cell was associated with half the odds of live birth (OR = 0.51; 95% CI, [0.27-0.95]; P = 0.035).
+These two parameters were independent of embryo kinetics.
+The 33 remaining parameters had no significant association with the capacity of transferred embryos to develop to term.
+Even though the population size was relatively small, our analyses were based on homogeneous cycles, i.e. young women whose transferred embryos were found to be high-grade according to conventional morphology evaluation.
+In addition, our conclusions were established from a specific, highly selected population, so other study populations, such as women in an older age bracket, may yield different results.
+Finally, because we assessed day 2/3 transfers, our findings cannot be generalized to embryos cultured up to the blastocyst stage.
+It would be interesting to explore, prospectively, whether PN localisation is a relevant measure to predict embryo development when added into further algorithms and whether this parameter could be suitable for use in other IVF clinics.
+Further studies are needed, notably to explore the added value of timing evaluation in cohorts of embryos with low or intermediate morphology grade, as well as in other maternal populations (i.e. older women).
+No external funding was used for this study.
+P. Sagot received funding from the following commercial companies: Merck Serono, Finox Biotech, Ferring, MSD France SAS, Teva Sante ́ SAS, Allergan France, Gedeon Richter France, Effik S.A., Karl Storz Endoscopie France, GE Medical Systems SCS, Laboratoires Genevrier, H.A.C. Pharma and Ipsen.
+All the authors confirm that none of this funding was used to support the research in this study.
+There are no patents, products in development or marketed products to declare.
+This does not alter the authors' adherence to all the journal policies on sharing data and materials.

@@ -1,0 +1,10 @@
+To determine whether the weight status of inner city black and Hispanic children with asthma differs from that of their peers and to assess whether overweight asthmatic children experience greater asthma symptoms.
+A cross-sectional study in an ambulatory chest clinic of an inner city medical center.
+We studied black and Hispanic children aged 2 to 18 years (n = 209) with the single diagnosis of asthma.
+The peer control subjects consisted of a sample of black and Hispanic children aged 6 to 13 years (n = 1017), enrolled in the New York City schools.
+Asthma symptoms, the number of asthma medications prescribed, and peak expiratory flow rate (PEFR) measurements were used to classify asthma severity and relate to body mass index (BMI).
+Bivariate categorical analysis and chi 2 tests were performed to examine the relationship between high BMI and the individual measures of asthma severity.
+The prevalence of overweight was significantly higher in children with moderate to severe asthma than in their peers.
+The risk of overweight based on a BMI in the 85th percentile or greater was significantly associated with the following measures of asthma severity: (1) the number of school days missed per year; (2) a PEFR less than or equal to 60% of the predicted PEFR; and (3) the number of asthma medications prescribed.
+The prevalence of overweight was significantly higher in children with moderate to severe asthma than in their peers, and being overweight was associated with significantly more severe asthma symptoms.
+Further studies in overweight asthmatic children are needed, including the effect of weight loss on lung function and other markers of asthma severity.

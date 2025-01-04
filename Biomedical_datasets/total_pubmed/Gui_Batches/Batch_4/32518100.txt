@@ -1,0 +1,10 @@
+Diabetic kidney disease and its comorbid conditions, including atherosclerotic cardiovascular disease, heart failure, diabetes, and obesity, are interconnected conditions that compound the risk of kidney failure and cardiovascular mortality, and exponentiate health care costs.
+Sodium glucose cotransporter 2 inhibitor (SGLT2i) and glucagon-like peptide 1 receptor agonist (GLP-1 RA) are novel diabetes medications that prevent cardiovascular events and kidney failure.
+Clinical trials exploring the cardiovascular and kidney outcomes of SGLT2i and GLP-1 RA have fundamentally shifted the treatment paradigm of diabetes.
+Clinical guidelines for diabetes management recommend a more holistic approach beyond glycemic control and emphasize heart and kidney protection of SGLT2i and GLP-1 RA.
+However, the adoption of prescribing SGLT2i and GLP-1 RA for patients with diabetes and high cardiovascular and kidney risk has been slow.
+In this review, we provide a decision-making tool to help clinicians determine when to consider SGLT2i and GLP-1 RA for heart and kidney protection.
+First, we discuss a comprehensive risk assessment for patients with diabetic kidney disease.
+We compare the effectiveness of SGLT2i and GLP-1 RA for different risk categories.
+Then, we present a decision algorithm using cardiovascular and kidney failure risk stratification and the strength of current evidence for the use of SGLT2i and GLP-1 RA.
+Lastly, we review the adverse effects of SGLT2i and GLP-1 RA and propose mitigation strategies.

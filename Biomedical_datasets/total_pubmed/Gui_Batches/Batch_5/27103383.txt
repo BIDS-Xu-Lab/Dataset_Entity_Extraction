@@ -1,0 +1,12 @@
+A subset of beryllium-exposed workers develop beryllium sensitisation (BeS) which precedes chronic beryllium disease (CBD).
+We conducted an in-depth analysis of differentially expressed candidate genes in CBD.We performed Affymetrix GeneChip 1.0 ST array analysis on peripheral blood mononuclear cells (PBMCs) from 10 CBD, 10 BeS and 10 beryllium-exposed, nondiseased controls stimulated with BeSO4 or medium.
+The differentially expressed genes were validated by high-throughput real-time PCR in this group and in an additional group of cases and nonexposed controls.
+The functional roles of the top candidate genes in CBD were assessed using a pharmacological inhibitor.
+CBD gene expression data were compared with whole blood and lung tissue in sarcoidosis from the Gene Expression Omnibus.
+We confirmed almost 450 genes that were significantly differentially expressed between CBD and controls.
+The top enrichment of genes was for JAK (Janus kinase)-STAT (signal transducer and activator of transcription) signalling.
+A JAK2 inhibitor significantly decreased tumour necrosis factor-α and interferon-γ production.
+Furthermore, we found 287 differentially expressed genes overlapped in CBD/sarcoidosis.
+The top shared pathways included cytokine-cytokine receptor interactions, and Toll-like receptor, chemokine and JAK-STAT signalling pathways.
+We show that PBMCs demonstrate differentially expressed gene profiles relevant to the immunnopathogenesis of CBD.
+CBD and sarcoidosis share similar differential expression of pathogenic genes and pathways.

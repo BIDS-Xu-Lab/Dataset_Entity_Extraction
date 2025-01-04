@@ -1,0 +1,13 @@
+Walking and bicycling are health-promoting and environmentally friendly alternatives to the automobile.
+Previous studies that explore correlates of active travel and the built environment are for a single metropolitan statistical area (MSA) and results often vary among MSAs.
+Our goal was to model the relationship between the built environment and active travel for 20 MSAs spanning the continental United States.
+We sourced and processed pedestrian and bicycle traffic counts for 20 U.S. MSAs (n=4,593 count locations), with 1–17 y of data available for each count location and the earliest and latest years of data collection being 1999 and 2016, respectively.
+Then, we tabulated land use, transport, and sociodemographic variables at 12 buffer sizes (100–3,000 m) for each count location.
+We employed stepwise linear regression to develop predictive models for morning and afternoon peak-period bicycle and pedestrian traffic volumes.
+Built environment features were significant predictors of active travel across all models.
+Areas with easy access to water and green space, high concentration of jobs, and high rates of active commuting were associated with higher bicycle and pedestrian volumes.
+Bicycle facilities (e.g., bike lanes, shared lane markings, off-street trails) were correlated with higher bicycle volumes.
+All models demonstrated reasonable goodness-of-fit for both bicyclists (adj-R2: 0.46–0.61) and pedestrians (adj-R2: 0.42–0.72).
+Cross-validation results showed that the afternoon peak-period models were more reliable than morning models.
+To our knowledge, this is the first study to model multi-city trends in bicycling and walking traffic volumes with the goal of developing generalized estimates of the impact of the built environment on active travel.
+Our models could be used for exposure assessment (e.g., crashes, air pollution) to inform design of health-promoting cities.

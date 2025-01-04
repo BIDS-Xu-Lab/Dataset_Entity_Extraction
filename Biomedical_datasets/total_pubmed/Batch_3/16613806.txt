@@ -1,0 +1,8 @@
+This article reviews the scientific evidence and methodologies that have been used to assess the risks posed by 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) and presents a probabilistic analysis for identifying virtually safe concentrations of TCDD toxicity equivalents (TEQ) in residential soils.
+Updated data distributions that consider state-of-the-science cancer and noncancer toxicity criteria, child soil ingestion and dermal uptake, bioavailability in soil, and residential exposure duration are incorporated.
+The probabilistic analysis shows that the most sensitive determinants of dose and risk are childhood soil ingestion, exposure duration, and the selected TCDD cancer potency factor.
+It also shows that the cancer risk at 1 per 100,000 predicted more conservative (lower) soil criteria values than did the noncancer hazard (e.g., developmental and reproductive effects).
+In this analysis, acceptable or tolerable soil dioxin concentrations (TCDD TEQ) ranged from 0.4 to 5.5 ppb at the 95th percentile for cancer potency factors from 9600 to 156,000 (mg/kg/d)(-1) with site-specific adjustments not included.
+Various possible soil guidelines based on cancer and noncancer risks are presented and discussed.
+In the main, the current toxicology, epidemiology, and exposure assessment data indicate that the historical 1 ppb TEQ soil guidance value remains a reasonable screening value for most residential sites.
+This analysis provides risk managers with a thorough and transparent methodology, as well as a comprehensive information base, for making informed decisions about selecting soil cleanup values for PCDD/Fs in urban residential settings.

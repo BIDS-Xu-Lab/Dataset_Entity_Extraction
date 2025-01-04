@@ -1,0 +1,10 @@
+[Comparator and an Oral Fumarate in Relapsing-Remitting Multiple Sclerosis]), delayed-release dimethyl fumarate (DMF) demonstrated significant efficacy and a favorable benefit-risk profile in patients with relapsing-remitting multiple sclerosis (RRMS).
+Post hoc analyses of integrated data from DEFINE/CONFIRM were conducted to evaluate the effect of DMF in patients previously treated with interferon (IFN) beta.
+Patients (age 18-55 years; Expanded Disability Status Scale score, 0-5.0) were randomized to receive DMF 240 mg BID or TID, placebo, or glatiramer acetate (CONFIRM only) for up to 2 years.
+Previous IFN users received at least 1 IFN treatment >3 months before randomization.
+Data for DMF 240 mg BID (approved dosing regimen) are reported.
+In the integrated intention-to-treat population, 172 and 169 patients receiving DMF or placebo, respectively, had received ≥1 prior IFN.
+Median Expanded Disability Status Scale scores remained stable during the study period.
+Adverse events associated with DMF included flushing and gastrointestinal events.
+In this post hoc analysis in patients with previous IFN treatment, DMF demonstrated significant efficacy over 2 years versus placebo and an adverse event profile consistent with the overall population of DEFINE/CONFIRM.
+identifiers: DEFINE, NCT00420212; and CONFIRM, NCT00451451.

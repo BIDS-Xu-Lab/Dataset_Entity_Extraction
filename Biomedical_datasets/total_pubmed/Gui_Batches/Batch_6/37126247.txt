@@ -1,0 +1,6 @@
+Direct ultrafast laser photoinscription of transparent materials is a powerful technique for the development of embedded 3D photonics.
+This is particularly adaptable for astrophotonic devices when a number of inputs are required.
+The process relies essentially on volume fabrication of waveguiding structures in flexible 3D designs and refractive index contrast parameters adjustable for specific spectral ranges.
+This enables 3D geometry and thus avoids in-plane crossings of waveguides that can induce losses and cross talk in multi-telescope beam combiners.
+The additional novel capability of the technique allows for the fabrication of high aspect ratio nanostructures nonperturbatively sampling the optical field.
+Combining ultrafast laser micro- and nanoprocessing with engineered beams, we present here results for the development of chip-sized silica glass integrated robust 3D three-telescope beam combiners in the near-IR range, as well as embedded diffraction gratings, for phase closure analysis and spectro-interferometry applications in astronomy.

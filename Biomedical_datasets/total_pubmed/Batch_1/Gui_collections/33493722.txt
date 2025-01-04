@@ -1,0 +1,15 @@
+The association between internal cadmium exposure and chronic kidney disease (CKD) has been investigated before.
+However, few studies have shown the association between dietary cadmium intake and CKD.
+In this study, we show the association between life-time dietary cadmium intake and CKD based on a follow-up study.
+At baseline, we collected blood and urine samples for assays of cadmium and renal effect biomarkers.
+A questionnaire and food survey was given to each subject to collect diet and lifestyle information for the estimation of cadmium intake.
+Dietary cadmium, cadmium in blood and urine were regarded as exposure markers.
+Life-time dietary cadmium intake was estimated based on an individual's daily cadmium intake and exposure time.
+At follow-up, 467 persons (163 men and 304 women) were finally included.
+CKD at follow-up was considered if the estimated glomerular filtration rate (eGFR) was less than 60 mL/min/1.73 m2.
+The eGFR level in subjects in the highest quartile of total dietary cadmium intake (>9.34 g) was significantly lower than in those with a moderate or low intake (p < 0.01).
+eGFR was negatively associated with total dietary cadmium intake (β = -0.42, 95% confidence interval (CI): -0.77 to -0.07) after adjustment with confounders.
+Logistic regression further showed that the risk of CKD in subjects with a high total dietary cadmium intake (>2.2 g) was higher than in those with a low intake (odds ratio (OR) = 18.16, 95%CI: 1.75-188.85).
+A similar association was found between the baseline urinary albumin (UALB) level and CKD incidence.
+A predictive model based on UALB and life-time dietary cadmium intake showed an acceptable performance (the area under the curve was 0.77 (95%CI: 0.65-0.88)).
+Our data show that high dietary cadmium exposure was associated with CKD after controlling for renal tubular dysfunction and internal cadmium exposure.

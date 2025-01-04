@@ -1,0 +1,13 @@
+Stereoscopic viewing of computed tomographic angiography (CT-A) or magnetic resonance angiograms might increase the diagnostic potential of these imaging techniques.
+Our aim was to evaluate the benefits of a novel stereoscopic viewing system for aneurysm detection compared with standard monoscopic viewing.
+Retrospective patient data were used for 2 different evaluations.
+First, monoscopic and stereoscopic CT-A viewing was compared by 14 clinicians in 10 patients with challenging (i.e., small and initially CT-A negative) aneurysms.
+Second, stereoscopic CT-As and the reference standard, digital subtraction angiography (DSA), were compared in 15 patients with randomly selected aneurysms by 12 clinicians.
+The study participants rated the presence and location of any aneurysm and its morphological characteristics.
+The detection rates and interrater reliability were calculated.
+The first evaluation showed superior aneurysm detection in challenging cases using stereoscopic versus monoscopic CT-A viewing (median: monoscopic, 20%; interquartile range [IQR], 10%-32.5%; stereoscopic, 40%; IQR, 27.5%-42.5%).
+[CI], 0.549-0.941; stereoscopic viewing, ICC(2,1), 0.895; 95% CI, 0.770-0.968).
+The second part demonstrated that stereoscopic CT-A viewing is comparable to DSA viewing for aneurysm detection (median: DSA, 80%; IQR, 73%-100%; stereoscopic CT-A, 87%; IQR, 87%-93%).
+The interrater reliability analysis revealed excellent absolute agreement in aneurysm detection between DSA and stereoscopic CT-A viewing (DSA: ICC(2,1), 0.971; 95% CI, 0.944-0.989; stereoscopic CT-A: ICC(2,1), 0.972; 95% CI, 0.945-0.989).
+The aneurysm detection rates correlated significantly with the participants' years of experience.
+Stereoscopic viewing of CT-As increases the diagnostic accuracy and represents a promising technique to reduce the need for invasive DSA.

@@ -1,0 +1,9 @@
+• To retrospectively evaluate the effect of subsequent tyrosine kinase inhibitors (TKIs) after first-line bevacizumab + interferon-α2a (IFN) or IFN + placebo in the phase III AVOREN (Avastin and Roferon in Renal Cell Carcinoma) trial.
+A total of 649 patients with untreated metastatic renal cell carcinoma (mRCC) were randomized to receive IFN (9 MIU three times a week for up to 1 year) in combination with bevacizumab (10 mg/kg every 2 weeks) or placebo until disease progression.
+The protocol allowed the use of any post-protocol anti-cancer therapy for patients with progressive disease or those in whom the trial therapy was discontinued.
+Data regarding the timing and type of subsequent therapy were recorded and overall survival (OS) analysed.
+• Patients were randomized to bevacizumab + IFN (n= 327) or IFN + placebo (n= 322); 180 (55%) patients in the bevacizumab + IFN, and 202 (63%) in the IFN + placebo arm, received post-protocol anti-cancer therapy.
+TKIs were the most common post-protocol therapy, received by 113 (35%) and 120 (37%) patients in the bevacizumab + IFN and IFN + placebo arms, respectively.
+The median OS in patients who received any subsequent TKI was 38.6 months in the bevacizumab + IFN arm and 33.6 months in IFN + placebo arm [hazard ratio (HR), 0.80; 95% confidence interval (CI), 0.56-1.13; P= 0.203].
+In an additional retrospective analysis that censored patients who received subsequent TKIs, median OS was 25.0 and 20.7 months, respectively, in the bevacizumab + IFN and IFN + placebo arms (HR, 0.84; 95% CI, 0.67-1.05; P= 0.123).
+• These retrospective exploratory data of sequential bevacizumab + IFN followed by TKIs in patients able to receive multiple lines of therapy suggest that sequential therapy could be a promising approach to improve patient outcomes in mRCC.

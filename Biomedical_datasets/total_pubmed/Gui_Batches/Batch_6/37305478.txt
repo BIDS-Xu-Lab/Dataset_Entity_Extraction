@@ -1,0 +1,9 @@
+Promoting industrial structure optimization and improvement on the basis of environment regulation based on "China's carbon peak and carbon neutralization" turns out to be a requirement that cannot be avoided for achieving China's economic growth with high quality.
+In this study, a dynamic game model for enterprises and governments in local areas with two phases, covering a polluting production sector and a clean production sector, is built for analyzing the influence mechanism of environment regulation of local governments on industrial structure optimization.
+Panel data of 286 cities on the prefecture level and above from 2003 to 2018 served as samples.
+The direct and dynamic impacts of environment regulation on industrial structure optimization are empirically tested, and the threshold model is adopted to test whether industrial structures and resource endowment will affect the effect of environment regulation on industrial structure optimization.
+Lastly, the effect exerted by environment regulation on industrial structure optimization is tested by region.
+The empirical results show that there is a nonlinear correlation of environment regulation and industrial structure optimization.
+Once the environment regulation intensity reaches a certain inflection point, it will hinder industrial structure optimization.
+When regional resource endowment and the secondary industry's ratio are used as threshold variables, environment regulation has a threshold effect on industrial structure optimization.
+The effect exerted by environment regulation on industrial structure optimization has regional heterogeneity.

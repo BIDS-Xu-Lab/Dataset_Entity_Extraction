@@ -1,0 +1,11 @@
+The aim of the present study was to investigate the application of 3D printing (3DP) rapid prototyping (RP) technique-assisted percutaneous fixation in the treatment of femoral intertrochanteric fracture (ITF) using proximal femoral nail anti-rotation (PFNA).
+A total of 39 patients with unstable ITF were included in the current study.
+Patients were divided into two groups: 19 patients were examined using computed tomography scanning and underwent PFNA with SDP-RP whereas the other 20 patients underwent conventional PFNA treatment.
+Anatomical data were converted from the Digital Imaging and Communications in Medicine format to the stereolithography format using M3D software.
+The 3DP-RP model was established using the fused deposition modeling technique and the length and diameter of the main screw blade was measured during the simulation.
+The postoperative femoral neck-shaft angle (NSA), surgery duration, intraoperative and postoperative blood loss, and the duration of hospital stay were recorded and compared with the corresponding values in conventional surgery.
+No significant differences were observed in mean PFNA size between the implants used and the preoperative planning estimates.
+It was demonstrated that the 3DP-RP assisted procedure resulted in more effective reduction of the NSA.
+Furthermore, patients undergoing 3DP-RP experienced a significant reduction in duration of surgery (P<0.01), as well as reductions in intraoperative (P=0.02) and postoperative (P=0.03) blood loss, compared with conventional surgery.
+At 6 months post-surgery, no cases of hip varus/vague deformities or implant failure were observed in patients that underwent either the 3DP-RP-assisted or conventional procedure.
+The results of the present study suggest that the 3DP-RP technique is able to create an accurate model of the ITF, which facilitates surgical planning and fracture reduction, thus improving the efficiency of PFNA surgery for ITFs.

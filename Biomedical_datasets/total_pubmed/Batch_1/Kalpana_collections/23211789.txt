@@ -1,0 +1,7 @@
+P34, a storage protein and major soybean allergen, has undergone a functional transition from a cysteine peptidase to a syringolide receptor.
+An exploration of the evolutionary mechanism of this functional transition is made.
+To identify homologous genes of P34, syntenic network was constructed using syntenic relationships from the Plant Genome Duplication Database.
+The collected homologous genes, along with SPE31, a highly homologous protein to P34 from the seeds of Pachyrhizus erosus, were used to construct a phylogenetic tree.
+The results show that multiple gene duplications, exon shuffling and following granulin domain loss and some critical point mutations are associated with the functional transition.
+Although some tests suggested the existence of positive selection, the possibility that random fixation under relaxation of purifying selection results in the functional transition is also supported.
+In addition, the genes Glyma08g12340 and Medtr8g086470 may belong to a new group within the papain family.

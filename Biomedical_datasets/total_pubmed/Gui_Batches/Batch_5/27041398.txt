@@ -1,0 +1,8 @@
+The drug resistance of CENUs induced by O(6)-alkylguanine-DNA alkyltransferase (AGT), which repairs the O(6)-alkylated guanine and subsequently inhibits the formation of dG-dC cross-links, hinders the application of CENU chemotherapies.
+Therefore, the discovery of CENU analogs with AGT inhibiting activity is a promising approach leading to novel CENU chemotherapies with high therapeutic index.
+In this study, a new combi-nitrosourea prodrug 3-(3-(((2-amino-9H-purin-6-yl)oxy)methyl)benzyl)-1-(2-chloroethyl)-1-nitrosourea (6), designed to release a DNA cross-linking agent and an inhibitor of AGT, was synthesized and evaluated for its antitumor activity and ability to induce DNA interstrand cross-links (ICLs).
+The results indicated that 6 exhibited higher cytotoxicity against mer(+) glioma cells compared with ACNU, BCNU, and their respective combinations with O(6)-benzylguanine (O(6)-BG).
+Quantifications of dG-dC cross-links induced by 6 were performed using HPLC-ESI-MS/MS.
+Higher levels of dG-dC cross-link were observed in 6-treated human glioma SF763 cells (mer(+)), whereas lower levels of dG-dC cross-link were observed in 6-treated calf thymus DNA, when compared with the groups treated with BCNU and ACNU.
+The results suggested that the superiority of 6 might result from the AGT inhibitory moiety, which specifically functions in cells with AGT activity.
+Molecular docking studies indicated that five hydrogen bonds were formed between the O(6)-BG analogs released from 6 and the five residues in the active pocket of AGT, which provided a reasonable explanation for the higher AGT-inhibitory activity of 6 than O(6)-BG.

@@ -1,0 +1,12 @@
+Accurate segmentation of pancreatic cancer tumors using positron emission tomography/computed tomography (PET/CT) multimodal images is crucial for clinical diagnosis and prognosis evaluation.
+However, deep learning methods for automated medical image segmentation require a substantial amount of manually labeled data, making it time-consuming and labor-intensive.
+Moreover, addition or simple stitching of multimodal images leads to redundant information, failing to fully exploit the complementary information of multimodal images.
+Therefore, we developed a semisupervised multimodal network that leverages limited labeled samples and introduces a cross-fusion and mutual information minimization (MIM) strategy for PET/CT 3D segmentation of pancreatic tumors.
+Our approach combined a cross multimodal fusion (CMF) module with a cross-attention mechanism.
+The complementary multimodal features were fused to form a multifeature set to enhance the effectiveness of feature extraction while preserving specific features of each modal image.
+In addition, we designed an MIM module to mitigate redundant high-level modal information and compute the latent loss of PET and CT.
+Finally, our method employed the uncertainty-aware mean teacher semi-supervised framework to segment regions of interest from PET/CT images using a small amount of labeled data and a large amount of unlabeled data.
+We evaluated our combined MIM and CMF semisupervised segmentation network (MIM-CMFNet) on a private dataset of pancreatic cancer, yielding an average Dice coefficient of 73.14%, an average Jaccard index score of 60.56%, and an average 95% Hausdorff distance (95HD) of 6.30 mm.
+In addition, to verify the broad applicability of our method, we used a public dataset of head and neck cancer, yielding an average Dice coefficient of 68.71%, an average Jaccard index score of 57.72%, and an average 95HD of 7.88 mm.
+The experimental results demonstrate the superiority of our MIM-CMFNet over existing semisupervised techniques.
+Our approach can achieve a performance similar to that of fully supervised segmentation methods while significantly reducing the data annotation cost by 80%, suggesting it is highly practicable for clinical application.

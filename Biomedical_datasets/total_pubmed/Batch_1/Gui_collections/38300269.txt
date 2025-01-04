@@ -1,0 +1,10 @@
+The rates of relapses and therapy discontinuation in patients with giant cell arteritis (GCA) in the modern therapeutic era have not been defined.
+We aimed to evaluate the glucocorticoid (GC) discontinuation rate and the factors associated with relapses in a contemporary GCA cohort.
+Patient and treatment data were collected cross-sectionally at first evaluation and 2 years later (second evaluation), in a multicenter, prospective GCA cohort.
+Predictors of relapses were identified by logistic regression analyses.
+243 patients with GCA were initially included (67% women, mean age at diagnosis: 72.1 years, median disease duration: 2 years) while 2 years later complete data for 160 patients were available and analyzed.
+All patients had received GCs at diagnosis (mean daily prednisolone dose: 40 mg) while during follow-up, 37% received non-biologic and 16% biologic agents, respectively.
+At second evaluation, 72% of patients were still on therapy (GCs: 58% and/or GC-sparing agents: 29%).
+Relapses occurred in 27% of patients during follow-up; by multivariable logistic regression analysis, large vessel involvement at diagnosis [odds ratio (OR) = 4.22], a cardiovascular event during follow-up (OR = 4.60) and a higher initial GC daily dose (OR = 1.04), were associated with these relapses.
+In this large, real-life, contemporary GCA cohort, the rates of GC discontinuation and relapses were 40% and 27%, respectively.
+Large vessel involvement, a higher GC dose at diagnosis and new cardiovascular events during follow-up were associated with relapses.

@@ -1,0 +1,10 @@
+Uptake of the neurotoxicant monomethylmercury (MeHg) from fish and marine mammals continues to present a public health concern in Canada and elsewhere.
+However, fish and marine mammals are key diet items contributing to food security for some Indigenous populations in Canada.
+Mercury (Hg) exposure is estimated assuming that 100% of Hg is methylated, that 100% will be absorbed by the consumer and that cooking does not affect MeHg concentrations.
+Some of these assumptions do not correspond to our current state of knowledge.
+The aim of this study was to assess the impact of additional variables on Hg exposure equation using probabilistic risk analysis.
+New variables tested were (1) the proportion of methylated Hg compared to total Hg (pMeHg, %), (2) the relative absorption factor (RAF, %) expressed as bioaccessibility and (3) the mass loss factor (MLF, unitless) that represents the loss of moisture during cooking, known to increase MeHg concentration in fish and mammals.
+For the new variables, data from literature were used in order to set point estimate values that were further used in the probabilistic risk analysis.
+Modelling results for both fish and marine mammals indicate that adding these new variables significantly influenced estimates of MeHg exposure (Mood's median test, p < 0.05).
+This study highlights that the evaluation of exposure to MeHg is sensitive to pMeHg, RAF and MLF, and the inclusion of these variables in risk assessment should be considered with care.
+Further research is needed to provide better food-dependent, population-specific estimates of RAF and MLF before formal inclusion in exposure estimates.

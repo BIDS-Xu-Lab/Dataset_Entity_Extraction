@@ -1,0 +1,9 @@
+Women commit 4-5% of all sexual crimes, but there is considerable uncertainty about associations with psychosis and substance abuse.
+We examined the prevalence of psychiatric hospitalization, psychotic disorders, and substance abuse in a nationwide sample of female sexual offenders.
+We obtained data from Swedish national registers for criminal convictions, hospital discharge diagnoses, and demographic and socioeconomic factors between 1988 and 2000, and merged them using unique identifiers.
+Convicted female sexual offenders (n = 93) were compared with all females convicted of non-sexual violent offences (n = 13,452) and a random sample of general population women (n = 20,597).
+Over 13 years, 36.6% of female sexual offenders had been admitted to psychiatric hospital and 7.5% been discharged with a diagnosis of a psychotic disorder.
+Compared to non-sexual violent offenders, there were no significant differences in the proportion diagnosed with psychosis or substance abuse.
+[AOR] = 15.4; 95% CI: 10.0-23.7), being diagnosed with a psychotic disorder (AOR = 16.2; 95% CI: 7.2-36.4), and with substance use disorders (AOR = 22.6; 95% CI: 13.0-39.1).
+We conclude that the prevalence of psychotic and substance use disorders was not different between sexual offenders and other violent offenders, suggesting non-specificity of sexual offending in women.
+Nevertheless, substantially increased prevalences of psychiatric disorder, underline the importance of screening and assessment of female sexual and other violent offenders.

@@ -1,0 +1,13 @@
+The kidneys represent one of the main targets of ochratoxin A (OTA), a secondary fungal metabolite that is produced by certain species of Aspergillus and Penicillium.
+OTA has the ability to disturb Madin-Darby canine kidney (MDCK) cell pH homeostasis, leading to intracellular alkalinization and morphological alterations resembling those that occur when MDCK cells are exposed to transient alkaline stress.
+Because alkali-induced epithelial dedifferentiation of MDCK-C7 cells is associated with an increase in the activity of extracellular signal-regulated kinases (ERK), we performed experiments that investigated a possible role for ERK1 and ERK2 as intracellular signaling molecules mediating some of the mycotoxin's effects on renal epithelia.
+We studied the effects of OTA on ERK1/2 phosphorylation and activation, as well as on cell morphology by using cloned MDCK-C7 and MDCK-C11 cells.
+In MDCK-C7 cells, but not in MDCK-C11 cells, OTA led to a time-dependent and concentration-dependent increase in ERK1/2 phosphorylation.
+OTA-induced ERK1/2 phosphorylation in MDCK-C7 cells occurred at concentrations of 500 nM, started after 2 hr and was maximal after 8 hr.
+Furthermore, after 8 hr of incubation, 500 nM and 1 microM OTA significantly increased ERK1/2 activity in MDCK-C7 but not in MDCK-C11 cells.
+This OTA-stimulated ERK1/2 phosphorylation and ERK1/2 activation in MDCK-C7 cells was partially inhibited by the synthetic mitogen-activated protein kinase kinase (MKK or MEK) inhibitor PD098059.
+Transepithelial resistance and lactate dehydrogenase release remained unaltered after incubation in the presence of 1 microM OTA for 8 hr or of 100 nM OTA for 24 hr, so it is unlikely that these OTA effects on ERK1/2 are due to secondary toxic effects of the mycotoxin.
+Interestingly, OTA-induced long-term activation of ERK1/2 in MDCK-C7 cells was associated with epithelial dedifferentiation, as assessed by analysis of vectorial solute and water transport as well as cell morphology.
+In contrast, MDCK-C11 cells, which do not show significant increases in ERK1/2 phosphorylation and ERK1/2 activity in response to OTA, retained their epithelial phenotype under identical experimental conditions.
+Taken together, our data demonstrate an epithelial dedifferentiation of MDCK-C7 cells, but not of MDCK-C11 cells, after long-term incubation in the presence of OTA, a result associated with the ability of this mycotoxin to stimulate ERK1/2 in MDCK-C7 cells but not in MDCK-C11 cells.
+We conclude that OTA-induced activation of ERK1/2 could be an important intracellular signaling pathway that mediates some of the mycotoxin's effects on renal epithelia.

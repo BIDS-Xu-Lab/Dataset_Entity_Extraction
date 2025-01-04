@@ -1,0 +1,5 @@
+This article describes the methodology used in the 2007 U.S. National Roadside Survey to estimate the prevalence of alcohol- and drug-impaired driving and alcohol- and drug-involved driving.
+This study involved randomly stopping drivers at 300 locations across the 48 continental U.S. states at sites selected through a stratified random sampling procedure.
+Data were collected during a 2-hr Friday daytime session at 60 locations and during 2-hr nighttime weekend periods at 240 locations.
+Both self-report and biological measures were taken.
+Biological measures included breath alcohol measurements from 9,413 respondents, oral fluid samples from 7,719 respondents, and blood samples from 3,276 respondents.

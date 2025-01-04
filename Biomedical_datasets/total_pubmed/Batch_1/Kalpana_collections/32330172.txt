@@ -1,0 +1,8 @@
+This study aimed to investigate salivary levels of Streptococcus mutans (S. mutans) and Lactobacilli, and other salivary indices in subjects wearing clear aligners (CA) in comparison with multibrackets orthodontic appliances (MB).
+A sample of 80 participants (46 males and 34 females) was included in the study: 40 subjects (aged 20.4±1.7 years) were treated with CA, and 40 (aged 21.3±1.7 years) were treated with MB.
+Plaque index (PI), salivary flow, buffering power of saliva, and salivary levels of S. mutans and Lactobacilli were evaluated prior to start of orthodontic treatment (t0), after 3 months (t1) and 6 months (t2).
+CA patients maintained PI at level 0 over time, while MB participants experienced a statistically significant increasing trend of PI over time.
+In addition, at t2, 37.5% of MB participants (15 subjects over 40) showed risky salivary levels (CFU/ml>105) of S. mutans (odds ratio = 7.40; 95% C.I. = 1.94-28.25; chi-square = 10.32;
+p = 0.001) as well as Lactobacilli (odds ratio = 23.40; 95% C.I. = 2.91-188.36; chi-square = 15.31; p = 0.0001).
+Comparing all the data, subjects treated with CA achieved lower salivary microbial colonization after 6 months of treatment compared with MB.
+Different additional strategies for plaque control and salivary microbial colonization must be triggered considering the type of orthodontic appliance.

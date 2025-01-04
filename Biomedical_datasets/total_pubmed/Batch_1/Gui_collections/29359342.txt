@@ -1,0 +1,12 @@
+The pathophysiology of Stress Urinary Incontinence (SUI) is poorly understood.
+The aim of this study was to identify the serum proteomic profile in patients with SUI and to replicate findings from a preceding study in which a significant difference in the urinary proteome was identified.
+Serum samples were collected from 38 patients (19 SUI; 19 matched, continent controls).
+Sample preparation included serum albumin depletion, in-solution enzymatic digestion of proteins applying a combination of Gluc-C and trypsin and peptide separation using nano High Performance Liquid Chromatography.
+Label-free quantitation of peptides and proteins was performed after triplicate measurements using quadrupole time-of-flight mass spectrometry.
+Peptide identification was achieved by searching the Human SwissProt Database using Mascot and X!Tandem.
+Main outcome measure was the relative abundance of each detected protein in serum.
+Of 7012 identified proteins, 33 proteins were induced (detected in SUI, not in controls) and five proteins were depleted (detected in controls, not in SUI).
+All depleted proteins play a role in immune/DNA damage response.
+Induced proteins are involved in inflammatory response, response to cellular stress, coagulation and cytoskeleton stability/ motility.
+Plasma serine protease inhibitor (SERPINA5) was found induced and previously also showed a higher abundance in urine samples of SUI patients.
+Data are available via ProteomeXchange with identifier PXD008553.

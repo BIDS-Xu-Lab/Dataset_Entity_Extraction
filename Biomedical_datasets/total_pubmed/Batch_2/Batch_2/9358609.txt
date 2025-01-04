@@ -1,0 +1,12 @@
+Tamoxifen is an antiestrogen widely used for the treatment of breast cancer.
+Current evolutions in preventive strategies to include healthy premenopausal women warrant the study of its developmental toxicity.
+Perinatal treatment of male rodents with tamoxifen caused reproductive tract lesions and sexual behavior deficits similar to those induced by diethylstilbestrol (DES).
+Those abnormalities could originate, at least in part, from lesions of the hypothalamic-pituitary axis.
+The initial alterations caused by tamoxifen in the hypothalamic medial preoptic area (MPOA) and sexually dimorphic nucleus of the preoptic area (SDN-POA) were studied in 6-day-old male rat pups treated with 100 micrograms tamoxifen (group 1), 1 microgram DES (group 2) or vehicle (group 3) from PN1 to 5.
+In situ hybridization was performed to analyze the expression of the GAP-43 gene, a marker of neuronal differentiation, and morphometry was used to study the neuronal density in the SDN-POA and MPOA and the volume and number of neurons in the SDN-POA.
+Tamoxifen reduced severely the volume and neuron numbers in the SDN-POA (46.1% and 47.8% of controls, respectively).
+The neuronal density of the MPOA was not modified.
+GAP-43 gene expression was decreased as demonstrated by a greater percentage of unlabeled neurons (grade 0) mirrored by a lesser percentage of intensely labeled ones (grade 2) in the SDN-POA and MPOA.
+In contrast to the effects of the antiestrogen, DES did not affect the above endpoints.
+These data indicated that developmental exposure of male rat pups to tamoxifen-induced immediate neuronal loss in one and altered differentiation in two hypothalamic areas crucial to reproduction.
+How those initial alterations contribute to the pathogenesis of the reproductive disorders observed in the adult male needs further investigation.

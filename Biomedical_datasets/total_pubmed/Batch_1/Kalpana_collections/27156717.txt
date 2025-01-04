@@ -1,0 +1,10 @@
+With improved diagnostic capabilities and complex optical designs, endoscopic technologies are advancing.
+As one of the several important optical performance characteristics, geometric distortion can negatively affect size estimation and feature identification related diagnosis.
+Therefore, a quantitative and simple distortion evaluation method is imperative for both the endoscopic industry and the medical device regulatory agent.
+However, no such method is available yet.
+While the image correction techniques are rather mature, they heavily depend on computational power to process multidimensional image data based on complex mathematical model, i.e., difficult to understand.
+Some commonly used distortion evaluation methods, such as the picture height distortion (DPH) or radial distortion (DRAD), are either too simple to accurately describe the distortion or subject to the error of deriving a reference image.
+We developed the basic local magnification (ML) method to evaluate endoscope distortion.
+Based on the method, we also developed ways to calculate DPH and DRAD.
+The method overcomes the aforementioned limitations, has clear physical meaning in the whole field of view, and can facilitate lesion size estimation during diagnosis.
+Most importantly, the method can facilitate endoscopic technology to market and potentially be adopted in an international endoscope standard.

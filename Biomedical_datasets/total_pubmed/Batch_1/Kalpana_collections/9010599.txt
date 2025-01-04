@@ -1,0 +1,8 @@
+The kinetics of CO binding to cytochrome P450, as measured by the flash photolysis technique, is a powerful probe of P450 structure-function relationships.
+The kinetics are sensitive to P450 conformation and dynamics and are modulated by P450 interactions with substrates and other components of the microsomal membrane.
+Application of a difference method to kinetic data analysis distinguishes the kinetic behavior of individual P450 forms in the microsomal membrane.
+This approach shows that substrates differentially modulate the kinetics via: 1) changes in P450 conformation/dynamics that either accelerate or reduce the binding rate; and/or 2) steric effects that reduce the rate.
+Both mechanisms are observed, the relative contributions of each varying in a substrate- and P450-dependent manner.
+In addition to microsomes, substrate interactions with individual P450s can be similarly probed using expressed P450s.
+Experiments with baculovirus-expressed human P450 3A4 show that this P450 consists of multiple conformers with distinct substrate specificities, an observation which provides a basis for its recognition of a wide array of structurally diverse substrates.
+These studies thus demonstrate the utility of CO binding kinetics in elucidating fundamental P450-substrate interactions in a biological membrane environment.

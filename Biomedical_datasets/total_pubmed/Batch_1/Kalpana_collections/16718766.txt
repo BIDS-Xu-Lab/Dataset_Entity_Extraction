@@ -1,0 +1,10 @@
+To investigate the effect of long-lasting somatostatin analogue octreotide (Oct) injected into the third cerebral ventricle (TCV) on gastric acid secretion in rats.
+TCVs were cannulated in male Wistar rats anesthetized with sodium pentobarbital.
+One week later acute gastric lumen perfusion was carried out and gastric acid was continuously washed with 37 degree Celsius saline by a perfusion pump.
+Gastric perfusion samples were collected every 10 min and titrated by 0.01 moL/L NaOH to neutral.
+On the basis of subcutaneous (sc) injection of pentagastrin (G-5, 160 microg/kg), Oct (0.025 microg, 0.05 microg, 0.1 microg, n=12 in each group) or vehicle (pyrogen-free physiological saline, n=10) was injected into the TCV.
+Before and after the TCV injection, 1 h total acid output (TAO) was determined and experimental data were expressed in change rate (%) of TAO.
+Oct (0.025, 0.05 and 0.1 microg) injected into the TCV resulted in change rate of 1.56% (P>0.05), 20.21% (P<0.01) and 37.82% of TAO (P<0.001), respectively.
+Moreover, comparison in change rate of TAO among these 3 doses showed P<0.05 between 0.025 microg and 0.05 microg, P<0.01 between 0.025 microg and 0.1 microg, and P<0.05 between 0.05 microg and 0.1 microg.
+However, sc injection of 0.05 microg Oct had no effect on G-5 stimulated gastric acid secretion.
+Octreotide injected into the third cerebral ventricle inhibits gastrin-induced gastric acid secretion in a dose-dependent manner.

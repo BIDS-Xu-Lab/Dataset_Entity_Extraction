@@ -1,0 +1,10 @@
+During the coronavirus disease 2019 (COVID-19) pandemic, cognitive impairment of varying degrees of severity began to be observed in a significant percentage of patients.
+The present study discussed the impact of immunological processes on structural and functional changes in the central nervous system and the related cognitive disorders.
+The purpose of the present review was to analyse and discuss available information from the scientific literature considering the possible relationship between severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral infection and cognitive impairment, including NeuroCOVID, frontal syndrome and cytokine storm.
+A systematic literature review was conducted using: Google Scholar, Elsevier and the PubMed database.
+When searching for materials, the following keywords were used: 'cognitive dysfunctions', 'SARS-CoV-2', 'COVID-19', 'Neuro-SARS2', 'NeuroCOVID', 'frontal syndrome', 'cytokine storm', 'Long COVID-19'.
+A total of 96 articles were included in the study.
+The analysis focused on the characteristics of each study's materials, methods, results and conclusions.
+SARS-CoV-2 infection may induce or influence existing cognitive disorders of various nature and severity.
+The influence of immunological factors related to the response against SARS-CoV-2 on the disturbance of cerebral perfusion, the functioning of nerve cells and the neuroprotective effect has been demonstrated.
+Particular importance is attached to the cytokine storm and the related difference between pro- and anti-inflammatory effects, oxidative stress, disturbances in the regulation of the hypothalamic-pituitary-adrenal axis and the stress response of the body.

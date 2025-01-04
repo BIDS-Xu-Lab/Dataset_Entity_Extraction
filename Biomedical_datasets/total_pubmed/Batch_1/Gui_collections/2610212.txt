@@ -1,0 +1,9 @@
+In the Negev region of Israel, I tested a model approach to occupational health planning.
+This model included components assessing exposures, measuring adverse health outcomes, and evaluating health services.
+I analyzed employment survey data, compiled an exposure data base, and carried out site visits covering 10,707 employees (over 50% of the regional industrial work force).
+Site visits identified exposure hazards of inorganic and organic dusts, heavy metals, chemicals, pesticides, and noise.
+I identified elevated relative regional injury rates by Standard Morbidity Ratios (SMRs) in a variety of industries, including sixfold increases for mining and non-metallic minerals manufacture (SMR 6.8, 99% CI 6.1-7.7).
+Review of biological monitoring data suggested deficiencies in pesticide and heavy metals surveillance.
+A survey of primary care clinics estimated 13,707 cases of occupational injury and illness untreated by existing occupational medical services.
+Based on these findings, I formulated regional occupational health planning goals, including targeting high-risk industries for increased preventive activities.
+This regional approach, combining multiple measures of occupational health status, can serve as a model for assessing local public health planning needs.

@@ -1,0 +1,8 @@
+The Visceral Adiposity Index (VAI) is a sex-specific mathematical index, based on Waist Circumference (WC), Body Mass Index (BMI), triglycerides (TG) and HDL cholesterol (HDL) levels, indirectly expressing visceral adipose function and insulin sensitivity.
+Our aim was to find the optimal cut-off points of VAI identifying a visceral adipose dysfunction (VAD) associated with cardiometabolic risk in a Caucasian Sicilian population.
+Medical check-up data of 1,764 Primary Care patients (PC patients) were retrospectively and cross-sectionally examined using a receiver-operating characteristic (ROC) curve to determine appropriate stratified-for-age cut-off of VAI, for the identification of PC patients with Metabolic Syndrome (MetS) according to the NCEP-ATP III criteria.
+The PC patients with higher VAI scores were subdivided into three groups according to VAI tertiles (i.e. PC patients with mild VAD, moderate VAD or severe VAD).
+Finally, VAD classes were compared to classical cardio- and cerebrovascular risk factors as independent predictors of coronary heart disease and/or myocardial infarction, transient ischemic attack and/or ischemic stroke.
+Moderate and severe VADs proved to be independently associated with cardiovascular events [(OR: 5.35; 95% CI: 1.92-14.87; p = 0.001) and (OR: 7.46; 95% CI: 2.64-21.05; p < 0.001) respectively].
+Mild, moderate and severe VADs were found to be independently associated with cerebrovascular events [(OR: 2.73; 95% CI: 1.12-6.65; p = 0.027), (OR: 4.20; 95% CI: 1.86-9.45; p = 0.001) and (OR: 5.10; 95% CI: 2.14-12.17; p < 0.001) respectively].
+Our study suggests that among Caucasian Sicilian subjects there are clear cut-off points of VAI able to identify a VAD strongly associated with cardiometabolic risk.

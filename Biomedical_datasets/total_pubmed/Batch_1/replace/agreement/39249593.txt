@@ -1,0 +1,11 @@
+Apalutamide plus androgen-deprivation therapy (ADT) improved outcomes in patients with non-metastatic castration-resistant prostate cancer (nmCRPC).
+The aim of this multicenter study was to generate real-world data from nmCRPC patients treated with ADT plus apalutamide.
+In this observational cohort based investigator initiated trial data of nmCRPC patients receiving apalutamide plus ADT were collected focusing on patient demographic data, prostate-specific antigen (PSA) declines, safety profile including dose modification/discontinuation as well as subsequent therapy and metastasis-free survival (MFS).
+Data from a total of 31 nmCRPC patients were documented.
+Compared to the Phase III study Spartan real-world patients are older, showed a higher ECOG-PS and more aggressive tumors.
+In the cohort PSA decreased about 98.1%, 74% of patients showed a PSA decrease over 90% and 54.8% reached a PSA-level < 0.2ng/ml.
+Apalutamide was well tolerated in real world patients: adverse events occurred in 67.7% but were in the majority mild (≥ grade 3: 6.5%).
+Dose reduction was necessary in 38.7% and 32.2% discontinued apalutamide treatment.
+MFS was 43 months and majority of patients were subsequently treated with abiraterone.
+In real world more comorbid nmCRPC patients with a higher ECOG-PS and more aggressive tumors are treated with apalutamide plus ADT.
+Nevertheless efficacy results as well as side effects are similar in real-world compared to Spartan trial showing also a rapid, durable and deep PSA response with a median MFS of 43 months.

@@ -1,0 +1,10 @@
+Red blood cell (RBC) fatty acid (FA) patterns have been shown to predict risk for cardiovascular and other chronic diseases.
+As part of a project analyzing RBC samples from the Women's Health Initiative Memory Study (WHIMS) we observed implausibly low levels of highly unsaturated fatty acids (HUFA) suggestive of degradation.
+This was hypothesized to be due to short term storage (<1 month) at -20 °C during sample aliquoting.
+The purpose of this study was to measure the extent of degradation that occurs under these conditions, and then to use regression calibration equations with multiple imputations to correct the biases.
+Samples from the Women's Health Initiative that had always been stored at -80 °C were obtained and subjected to similar conditions as the WHIMS samples.
+General linear mixed models were used to develop bias-corrected calibration equations for each fatty acid.
+Sample degradation occurred at -20 °C with the average HUFA loss of 3.5 to 5.9 % per week depending on aliquot size (250 and 80 µL, respectively).
+Using the ratio of HUFA to saturated fatty acids (HUFA/SAT) as a marker of degradation, this bias-correction method raised the HUFA/SAT from 0.70 to 0.81, which was similar to that (0.78) seen in another large study with optimal processing.
+In summary, RBC samples should always be stored at -80 °C.
+The FA compositions of the degraded RBC samples from WHIMS were rehabilitated by application of regression calibration equations and multiple imputations, and these imputed datasets should be used in all future WHIMS studies.

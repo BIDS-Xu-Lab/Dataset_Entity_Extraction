@@ -1,0 +1,12 @@
+Rhinoceros (rhino) numbers have dwindled substantially over the past century.
+As a result, three of the five species are now considered to be critically endangered, one species is vulnerable and one species is near-threatened.
+Poaching has increased dramatically over the past decade due to a growing demand for rhino horn products, primarily in Asia.
+Improved wildlife forensic techniques, such as validated tests for species identification of seized horns, are critical to aid current enforcement and prosecution efforts and provide a deterrent to future rhino horn trafficking.
+Here, we present an internationally standardized species identification test based on a 230 base pair cytochrome-b region.
+This test improves on previous nested PCR protocols and can be used for the discrimination of samples with <20pg of template DNA, thus suitable for DNA extracted from horn products.
+The assay was designed to amplify water buffalo samples, a common 'rhino horn' substitute, but to exclude human DNA, a common contaminant.
+Phylogenetic analyses using this partial cytochrome-b region resolved the five extant rhino species.
+Testing successfully returned a sequence and correct identification for all of the known rhino horn samples and vouchered rhino samples from museum and zoo collections, and provided species level identification for 47 out of 52 unknown samples from seizures.
+Validation and standardization was carried out across five different laboratories, in four different countries, demonstrating it to be an effective and reproducible test, robust to inter laboratory variation in equipment and consumables (such as PCR reagents).
+This is one of the first species identification tests to be internationally standardized to produce data for evidential proceedings and the first published validated test for rhinos, one of the flagship species groups of the illegal wildlife trade and for which forensic tools are urgently required.
+This study serves as a model for how species identification tests should be standardized and disseminated for wildlife forensic testing.

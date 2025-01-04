@@ -1,0 +1,10 @@
+Experimental dog model of acute spinal cord injury.
+To compare the relative value of methylprednisolone, surgical decompression, or both for the treatment of traumatic spinal cord injury.
+Acute spinal cord injury results from both primary damage to the spinal cord at the time of the initial injury as well as a deleterious secondary cascade of events, which leads to further damage.
+Surgical decompression is known to improve clinical outcomes, but the timing of surgical decompression remains controversial.
+A nylon tie was used to constrict the spinal cord in 18 adult male beagle dogs.
+The animals were then prospectively randomized to 3 groups: 1) surgical decompression at 6 hours and intravenous methylprednisolone; 2) surgical decompression at 6 hours and intravenous saline; and 3) intravenous methylprednisolone without surgical decompression.
+Each animal was evaluated by somatosensory-evoked potentials, daily neurologic assessment, and histologic examination at 2 weeks following injury.
+Immediately following spinal cord constriction, all animals were paraplegic, incontinent, and the somatosensory-evoked potentials were abolished.
+Surgical decompression 6 hours after injury, with or without methylprednisolone, led to significantly better neurologic function at 2 weeks than methylprednisolone alone.
+In the setting of acute and persistent spinal cord compression in beagle dogs, surgical decompression 6 hours after injury, with or without methylprednisolone, is more effective for improving neurologic recovery than methylprednisolone alone.

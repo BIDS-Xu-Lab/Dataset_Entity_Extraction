@@ -1,0 +1,4 @@
+The concentrations of apo (unoccupied), holo (occupied), and total cellular retinoic acid binding protein (CRABP) were measured at various stages of axolotl limb regeneration.
+The ratio of apo-CRABP to holo-CRABP declined with advancing regenerate stage until the CRABP was all in the holo form.
+The increase in holo-CRABP is correlated with a stage-dependent shift in the effect of exogenous retinoic acid on regenerate pattern, from pattern duplication to inhibition of regeneration.
+The data suggest, though they do not prove, that these different morphological effects could be due to a shift from a CRABP-dependent to a CRABP-independent mechanism of exogenous retinoic acid (RA) action that is related to stage-specific variations in endogenous RA levels.

@@ -1,0 +1,9 @@
+Chronic administration of methamphetamine (METH) leads to physical and psychological dependence.
+It is generally accepted that METH exerts rewarding effects via competitive inhibition of the dopamine transporter (DAT), but the molecular mechanism of METH addiction remains largely unknown.
+Accumulating evidence shows that mitochondrial function is important in regulation of drug addiction.
+In this study,  we investigated the role of Clk1, an essential mitochondrial hydroxylase for ubiquinone (UQ), in METH reward effects.
+We showed that Clk1+/- mutation significantly suppressed METH-induced conditioned place preference (CPP), accompanied by increased expression of DAT in plasma membrane of striatum and hippocampus due to Clk1 deficiency-induced inhibition of DAT degradation without influencing de novo synthesis of DAT.
+Notably, significantly decreased iron content in striatum and hippocampus was evident in both Clk1+/- mutant mice and PC12 cells with Clk1 knockdown.
+The decreased iron content was attributed to increased expression of iron exporter ferroportin 1 (FPN1) that was associated with elevated expression of hypoxia-inducible factor-1α (HIF-1α) in response to Clk1 deficiency both in vivo and in vitro.
+Furthermore, we showed that iron played a critical role in mediating Clk1 deficiency-induced alteration in DAT expression, presumably via upstream HIF-1α.
+Taken together, these data demonstrated that HIF-1α-mediated changes in iron homostasis are involved in the Clk1 deficiency-altered METH reward behaviors.

@@ -1,0 +1,11 @@
+Ticagrelor is a recommended P2Y12 receptor inhibitor after acute coronary syndrome (ACS).
+Its superiority has been suggested to rely on pleiotropic effects beyond platelet inhibition.
+Experimental studies indicate that ticagrelor may protect from ischemia-reperfusion injury but no data are available from such studies on patients.
+This study aimed to determine if chronic ticagrelor treatment protects against endothelial ischemia-reperfusion injury in patients with a previous ACS.
+Patients with a previous ACS were studied with flow mediated dilatation of the left brachial artery to determine the degree of endothelial ischemia-reperfusion injury before and after discontinuation of ticagrelor treatment, which had been continuous since 1 year.
+Each patient underwent 3 identical examinations.
+The first examination (Visit A) was at the end of ticagrelor treatment and the following 2 (Visit B and C) were after cessation of this treatment with an interval of 2 to 4 weeks.
+Ischemia and reperfusion induced significant impairment of endothelial function at all 3 occasions (absolute decline in flow mediated dilatation 3.0% ± 0.7 at Visit A (P < 0.001), 1.9% ± 0.9 at Visit B (P < 0.05) and 1.9% ± 0.4 at Visit C (P < 0.0001)).
+However, there was no difference in the degree of endothelial ischemia-reperfusion injury or baseline endothelial function between the visits.
+Chronic ticagrelor treatment in patients 1 year after an ACS does not protect against endothelial ischaemia-reperfusion injury.
+Nor is it associated with better basal endothelial function compared to after discontinuation of treatment.

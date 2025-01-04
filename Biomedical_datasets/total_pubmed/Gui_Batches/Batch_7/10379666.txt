@@ -1,0 +1,10 @@
+A method for the quantitative determination of iothalamate (IOT) in rat urine, plasma and tubular fluid by capillary zone electrophoresis (CE) has been developed and validated.
+Samples of urine and tubular fluids were diluted with water and samples of plasma were deproteinized with two volumes of acetonitrile containing the internal standard, p-aminobenzoic acid (PABA).
+A BioFocus 2000 system (Bio-Rad, Hercules, CA, USA) was used.
+The UV detector was set at 254 nm.
+The samples were loaded into uncoated fused-silica capillary (40 cmx50 microm) by pressure injection.
+A borate buffer [20 mM, pH 12 (pH adjusted with 1.0 M NaOH)] was used as the electrophoretic buffer.
+The typical analytical conditions were: voltage, 22 kV; injection, 9 psixs; capillary and carousel temperatures were 20 degrees C and 18 degrees C respectively.
+The linear relationship was observed between time-corrected peak area of IOT in water and urine or the corrected peak area ratio of IOT to PABA in plasma and the nominal concentration of IOT with correlation coefficient greater than 0.999.
+The intra- and inter-day coefficients of variation (CV) were less than 8%.
+The concentration of IOT in plasma, urine and tubular fluid determined by CE can be used for estimation of whole kidney and single nephron clearances.

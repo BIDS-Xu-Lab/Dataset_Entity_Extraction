@@ -1,0 +1,10 @@
+Protein-protein interactions (PPIs) can offer compelling evidence for protein function, especially when viewed in the context of proteome-wide interactomes.
+Bacteria have been popular subjects of interactome studies: more than six different bacterial species have been the subjects of comprehensive interactome studies while several more have had substantial segments of their proteomes screened for interactions.
+The protein interactomes of several bacterial species have been completed, including several from prominent human pathogens.
+The availability of interactome data has brought challenges, as these large data sets are difficult to compare across species, limiting their usefulness for broad studies of microbial genetics and evolution.
+In this study, we use more than 52,000 unique protein-protein interactions (PPIs) across 349 different bacterial species and strains to determine their conservation across data sets and taxonomic groups.
+When proteins are collapsed into orthologous groups (OGs) the resulting meta-interactome still includes more than 43,000 interactions, about 14,000 of which involve proteins of unknown function.
+While conserved interactions provide support for protein function in their respective species data, we found only 429 PPIs (~1% of the available data) conserved in two or more species, rendering any cross-species interactome comparison immediately useful.
+The meta-interactome serves as a model for predicting interactions, protein functions, and even full interactome sizes for species with limited to no experimentally observed PPI, including Bacillus subtilis and Salmonella enterica which are predicted to have up to 18,000 and 31,000 PPIs, respectively.
+In the course of this work, we have assembled cross-species interactome comparisons that will allow interactomics researchers to anticipate the structures of yet-unexplored microbial interactomes and to focus on well-conserved yet uncharacterized interactors for further study.
+Such conserved interactions should provide evidence for important but yet-uncharacterized aspects of bacterial physiology and may provide targets for anti-microbial therapies.

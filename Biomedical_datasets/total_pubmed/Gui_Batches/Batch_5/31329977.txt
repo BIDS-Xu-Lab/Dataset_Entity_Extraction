@@ -1,0 +1,7 @@
+Long exposure to radiation from fluoroscopy-guided interventions (FGIs) can be detrimental to both patients and radiologists.
+The effective doses received by the interventional radiology staff after performing 230 FGIs in a year were assessed by using double dosimetry and five various algorithms.
+The Shapiro-Wilk test revealed normally-distributed data (p < 0.01), while the significant correlation coefficients between the effective doses ranged between 0.88 and 1.00.
+As for the Bland-Altman analysis, both Niklason and Boetticher algorithms strongly supported the absence of statistical significance between the estimated effective doses.
+This portrays that the occupational doses received by the interventional radiology staff during FGIs fall within the acceptable limit regardless of the varied algorithms applied.
+In short, the Niklason and Boetticher algorithms appeared to be the more interchangeable ones for effective evaluation of doses.
+This is in view of their strong mutual correlations and excellent agreement.

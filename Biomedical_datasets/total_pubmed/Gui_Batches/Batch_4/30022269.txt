@@ -1,0 +1,15 @@
+To assess the viability of multispecies microcosm biofilm after contact with NeoMTA Plus, Biodentine, and MTA Angelus.
+Fifty-four human dentin blocks (4 × 5 × 4 mm) were allocated to Hawley retainers, worn by six volunteers for 72 h. The blocks were then individually incubated in BHI broth for 21 days at 37 °C.
+At the end of experimental time for biofilm growth, the samples were randomly divided into four groups (n = 12): NeoMTA Plus, Biodentine, MTA Angelus, and negative control.
+The materials were placed in contact with the blocks.
+All samples were placed in cell-culture plate wells and incubated in BHI broth for 7 days at 37 °C.
+One sample from each volunteer (n = 6) was analyzed by SEM to describe the biofilm morphology.
+CLSM was performed to determine the percentage of viable biofilm biovolume.
+The data were statistically analyzed by one-way ANOVA and Tukey's multiple comparison test (α = 5%).
+SEM showed biofilm formed by spherical and rod-shaped bacteria surrounded by an extracellular matrix.
+No material was able to kill all biofilm cells, and all groups had more than 50% of viable bacteria.
+NeoMTA Plus was significantly different from the negative control group (P < .05).
+All tested materials were not effective against multispecies microcosm biofilm.
+NeoMTA Plus, Biodentine, and MTA Angelus were not effective against multispecies microcosm biofilm.
+It is essential to understand that these bioceramic cements are indicated for infected clinical situations.
+Thus, complementary disinfection procedures should be conducted prior to filling with these materials.

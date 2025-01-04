@@ -1,0 +1,10 @@
+Dental caries is the most common chronic disease in the US and disproportionately affects racial/ethnic minorities.
+Caries is heritable, and though genetic heterogeneity exists between ancestries for a substantial portion of loci associated with complex disease, a genome-wide association study (GWAS) of caries specifically in African Americans has not been performed previously.
+We performed exploratory GWAS of dental caries in 109 African American adults (age > 18) and 96 children (age 3-12) from the Center for Oral Health Research in Appalachia (COHRA1 cohort).
+Caries phenotypes (DMFS, DMFT, dft, and dfs indices) assessed by dental exams were tested for association with 5 million genotyped or imputed single nucleotide polymorphisms (SNPs), separately in the two age groups.
+The GWAS was performed using linear regression with adjustment for age, sex, and two principal components of ancestry.
+A maximum of 1 million adaptive permutations were run to determine empirical significance.
+No loci met the threshold for genome-wide significance, though some of the strongest signals were near genes previously implicated in caries such as antimicrobial peptide DEFB1 (rs2515501; p = 4.54 × 10- 6) and TUFT1 (rs11805632; p = 5.15 × 10- 6).
+Effect estimates of lead SNPs at suggestive loci were compared between African Americans and Caucasians (adults N = 918; children N = 983).
+Significant (p < 5 × 10- 8) genetic heterogeneity for caries risk was found between racial groups for 50% of the suggestive loci in children, and 12-18% of the suggestive loci in adults.
+The genetic heterogeneity results suggest that there may be differences in the contributions of genetic variants to caries across racial groups, and highlight the critical need for the inclusion of minorities in subsequent and larger genetic studies of caries in order to meet the goals of precision medicine and to reduce oral health disparities.

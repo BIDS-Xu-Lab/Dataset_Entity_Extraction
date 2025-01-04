@@ -1,0 +1,14 @@
+Hip fractures are a major public health problem with increasing relevance in aging societies.
+They are associated with high mortality rates, morbidity, and loss of independence.
+The aim of the EMAAge study was to determine the impact of hip fractures on patient-reported health-related quality of life (HRQOL), and to identify potential risk factors for worse outcomes.
+EMAAge is a multicenter, prospective cohort study of patients who suffered a hip fracture.
+Patients or, if necessary, proxies were interviewed after initial treatment and after six months using standardized questionnaires including the EQ-5D-5L instrument, the Oxford Hip Score, the PHQ-4, the Short Nutritional Assessment Questionnaire, and items on patients living situation.
+Medical data on diagnoses, comorbidities, medications, and hospital care were derived from hospital information systems.
+A total of 326 patients were included.
+EQ-5D index values decreased from a mean of 0.70 at baseline to 0.63 at six months.
+The mean self-rated health on the EQ-VAS decreased from 69.9 to 59.4.
+Multivariable linear regression models revealed three relevant associated factors with the six-months EQ-5D index: symptoms of depression and anxiety, pre-fracture limitations in activities of daily living, and no referral to a rehabilitation facility had a negative impact.
+In addition, the six-months EQ-VAS was negatively associated with polypharmacy, living in a facility, and migration background.
+Hip fractures have a substantial negative impact on patients HRQOL.
+Our results suggest that there are modifying factors that need further investigation including polypharmacy and migration background.
+Structured and timely rehabilitation seems to be a protective factor.

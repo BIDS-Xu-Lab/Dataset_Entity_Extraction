@@ -1,0 +1,6 @@
+Dielectric properties of a relaxor ferroelectric polymer, poly(vinylidene fluoride-trifluoroethylene-chlorofluoroethylene)
+[P(VDF-TrFE-CFE)] terpolymer, were investigated over a broad range of frequency (from 0.1 kHz to 1 GHz) and a broad range of temperature (-20 degrees C to 76 degrees C).
+Time-temperature superposition was used to extrapolate the dielectric constant to high frequencies (approximately 1 GHz) from low frequency data (1 MHz).
+The consistency between the directly measured and the extrapolated data indicate that the time-temperature superposition can be applied at temperature ranging from the glass transition to the broad ferroelectric-paraelectric transition peak of relaxor, indicating that the glass transition is still the dominating relaxation process at room temperature for the ferroelectric relaxor.
+Compared with the dielectric properties of poly(vinylidene fluoride-trifluoroethylene)
+[P(VDF-TrFE] copolymer, the terpolymer shows a higher dielectric constant even at 1 GHz, which is considered to originate from the random defects modification converting the long-chain polar-molecular conformation to short-range molecular microstructures and enhancing the molecular motions in both polar and nonpolar nanodomains.

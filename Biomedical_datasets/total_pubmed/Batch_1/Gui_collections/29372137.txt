@@ -1,0 +1,15 @@
+Intraoperative neuromonitoring (ION) such as motor-evoked potential (MEP), somatosensory evoked potentials (SSEP) and electromyography (EMG) are used to detect impending neurological injuries during spinal surgery.
+To date, little is known on the trends in the use of ION for scoliosis surgery in the United States.
+A retrospective review was performed using the PearlDiver Database to identify patients that had scoliosis surgery with and without ION from years 2005 to 2011.
+Demographic information (such as age, gender, region within the United States) and clinical information (such as type of ION and rates of neurological injury) were assessed.
+There were 3618 patients who had scoliosis surgery during the study period.
+ION was used in 1361 (37.6%) of these cases.
+The number of cases in which ION was used increased from 27% in 2005 to 46.9% in 2011 (p < 0.0001).
+Multimodal ION was used more commonly than unimodal ION (64.6% vs. 35.4%).
+The most commonly used modality was combined SSEP and EMG while the least used modality was MEP only.
+Neurological injuries occurred in 1.8% and 2.0% of patients that had surgery with and without ION, respectively (p = 0.561).
+ION was used most commonly in patients < 65 years of age and in the Northeastern part of the United States (age; p = 0.006, region; p < 0.0001).
+The use of ION for scoliosis surgery gradually increased annually from 2005 to 2011.
+Age and regional differences were noted with neuromonitoring being most commonly used for scoliosis surgery in non-elderly patients and in the Northeastern part of the United States.
+No differences were noted in the risk of neurological injury in patients that had surgery with and without ION.
+Although the findings from this study may seem to suggest that ION may not influence the risk of neurologic injury, this result must be interpreted with caution as inherently riskier surgeries may utilize ION more, leading to an actual reduction in injuries more dramatic than observed in this study.

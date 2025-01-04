@@ -1,0 +1,8 @@
+Biobanks - collections of human biological specimens stored for future research use - are crucial for biomedical advancement.
+One of the most common ways that biobanks acquire specimens is to obtain residual or "leftover" samples originally collected for clinical care from hospitals, clinical laboratories and pathology departments.
+Little is known about the characteristics of biobanks that store specimens from clinical sources, or their policies and practices.
+In this paper, we present data from the subset of 261 biobanks in our 2012 national survey that stores specimens from clinical sources, focusing on a number of ethical issues that have been raised in the literature.
+Most biobanks are part of larger organizations, mainly academic medical centers, and most report standardized systems for managing acquisition, storage, and release to researchers.
+Yet, there is considerable diversity in policies and practices regarding informed consent, return of research results, ownership of specimens and technology developed, utilization, and disposition of remaining specimens after researchers have acquired, them.
+We document tremendous heterogeneity in the composition of these collections, the number and type of specimens stored, and number of requests for specimens per year.
+Responding to this variation presents significant challenges for those who manage the collections, demanding careful consideration and planning to maintain high quality practices in acquisition, storage, and release of specimens all the while striving to protect the rights of subjects.

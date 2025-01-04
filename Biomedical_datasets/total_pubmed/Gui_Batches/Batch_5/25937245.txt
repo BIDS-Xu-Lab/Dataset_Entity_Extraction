@@ -1,0 +1,6 @@
+Proteins targeted to secretory pathway enter the endoplasmic reticulum where they undergo post-translational modification and subsequent quality control executed by exquisite catalysts of protein folding, protein disulphide isomerases (PDIs).
+These enzymes can often provide strict conformational protein folding solutions to highly cysteine-rich cargo as they facilitate disulphide rearrangement in the endoplasmic reticulum.
+Under conditions when PDI substrates are not isomerised properly, secreted proteins can accumulate in the endoplasmic reticulum leading to endoplasmic reticulum stress initiation with implications for human disease development.
+Anterior Gradient-2 (AGR2) is an endoplasmic reticulum-resident PDI superfamily member that has emerged as a dominant effector of basic biological properties in vertebrates including blastoderm formation and limb regeneration.
+AGR2 perturbation in mammals influences disease processes including cancer progression and drug resistance, asthma, and inflammatory bowel disease.
+This review will focus on the molecular characteristics, function, and regulation of AGR2, views on its emerging biological functions and misappropriation in disease, and prospects for therapeutic intervention into endoplasmic reticulum-resident protein folding pathways for improving the treatment of human disease.

@@ -1,0 +1,9 @@
+Polyphenol oxidases (PPOs) have been implicated in plant defence reactions.
+From an applied point of view, high PPO activity is associated with browning / darkening of fresh and processed food.
+Owing to its complex genome and economic importance, wheat (Triticum aestivum L.) represents an interesting system to advance our understanding of plant PPO function.
+We have previously shown that wheat PPOs are organised in a multigene family, consisting of two distinct phylogenetic clusters with three members each.
+In this study, we demonstrate that members of one cluster are not expressed in developing kernels or senescing flag leaves.
+Transcriptional regulation of one major gene in the other cluster largely controls PPO levels in these tissues, at least in the wheat varieties used for this study.
+Our data further indicate that the product of this gene is present as a latent enzyme during early kernel development, and that the latent enzyme is activated during later developmental phases.
+Enzyme activation can be achieved in vitro by limited tryptic digestion, but our data do not indicate activation by a proteolytic mechanism in vivo.
+Together, results presented in this study provide important insights into the regulation of wheat PPO function.

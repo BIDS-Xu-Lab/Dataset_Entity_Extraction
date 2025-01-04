@@ -1,0 +1,13 @@
+Electronic approaches are becoming more widely used to obtain informed consent for research participation.
+Electronic consent (e-consent) provides an accessible and versatile approach to the consenting process, which can be enhanced with audio-visual and interactive features to improve participant engagement and comprehension of study procedures.
+Best practice guidance underpinned by ethical principles is required to ensure effective implementation of e-consent for use in research.
+To identify the key considerations for successful and ethical implementation of e-consent in the recruitment of participants to research projects which are conducted remotely.
+Electronic database searches of CINAHL, Medline, Embase, DARE, HTA, PubMed, the Cochrane Library, Scopus, Web of Science, NHS Evidence, and hand-searches of reference lists were performed.
+Primary research studies of adult (≥ 18 years old) research participants using e-consent, published in English language, peer-reviewed journals between 2010-2020 were eligible for inclusion.
+Of the initial 665 identified studies, 18 met the inclusion criteria: 6 cohort studies, 5 qualitative studies, 4 randomised control trials, 2 mixed-methods studies and one case-control study.
+Critical appraisal of included studies using Critical Appraisal Skills Program (CASP) tools suggested a low to moderate risk of bias in most studies (n = 15).
+Key practice recommendations for researchers using e-consent were identified around five primary themes: 1) accessibility and user-friendliness of e-consent, 2) user engagement and comprehension, 3) customisability to participant preferences and demographics, 4) data security and 5) impact on research teams.
+E-consenting approaches are generally well received by participants, with most studies reporting user-friendly interfaces and sufficient participant comprehension of consenting documentation.
+E-consent may facilitate remotely-conducted research by offering a feasible and robust alternative to face-to-face consenting approaches, however paper-based options should still be offered, based on participant preference.
+Customising e-consenting platforms may improve accessibility for individuals with specific needs, and increase engagement with study information.
+Research teams must offer prospective participants opportunities to discuss study information in real-time.

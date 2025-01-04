@@ -1,0 +1,8 @@
+The ClC-2 chloride channel is expressed in the plasma membrane of almost all mammalian cells.
+Mutations that cause the loss of ClC-2 function lead to retinal and testicular degeneration and leukodystrophy, whereas gain-of-function mutations cause hyperaldosteronism.
+Leukodystrophy is also observed with a loss of GlialCAM, a cell adhesion molecule that binds to ClC-2 in glia.
+GlialCAM changes the localization of ClC-2 and opens the channel by altering its gating.
+We now used cell type-specific deletion of ClC-2 in mice to show that retinal and testicular degeneration depend on a loss of ClC-2 in retinal pigment epithelial cells and Sertoli cells, respectively, whereas leukodystrophy was fully developed only when ClC-2 was disrupted in both astrocytes and oligodendrocytes.
+The leukodystrophy of Glialcam-/- mice could not be rescued by crosses with Clcn2op/op mice in which a mutation mimics the "opening" of ClC-2 by GlialCAM.
+These data indicate that GlialCAM-induced changes in biophysical properties of ClC-2 are irrelevant for GLIALCAM-related leukodystrophy.
+Taken together, our findings suggest that the pathology caused by Clcn2 disruption results from disturbed extracellular ion homeostasis and identifies the cells involved in this process.

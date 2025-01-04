@@ -1,0 +1,12 @@
+The risk factors predictive of intracranial aneurysm rupture remain incompletely defined.
+To examine the association between various nonmodifiable risk factors and aneurysm rupture in a large cohort of patients evaluated at a single institution.
+A retrospective analysis of patients admitted to a cerebrovascular facility between January 2006 and 2010 with a primary diagnosis of cerebral aneurysm.
+Aneurysms were divided into 2 groups: unruptured or ruptured.
+The dome diameter, aspect ratio (AR), location, sidedness, neck morphology, and multiplicity were entered into a central database.
+A full model was constructed, and a systematic removal of the least significant variables was performed in a sequential fashion until only those variables reaching significance remained.
+We identified 2347 patients harboring 5134 individual aneurysms, of which 34.90% were ruptured and 65.09% were unruptured.
+On admission, 25.89% of aneurysms with a dome diameter <10 mm and 58.33% of aneurysms with a dome >10 mm were ruptured (P < .001).
+Of aneurysms with an AR >1.6, 52.44% presented following a rupture (P < .001).
+The highest incidence of rupture (69.21%) was observed in aneurysms with an AR >1.6, dome diameter <10 mm, and a deviated neck.
+Deviated neck-type aneurysms had a significantly greater incidence of rupture than classical neck-type aneurysms (P < .001).
+An AR >1.6, dome diameter >10 mm, a deviated neck, and right-sidedness are independently associated with aneurysm rupture.

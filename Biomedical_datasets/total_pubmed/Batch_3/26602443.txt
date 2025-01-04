@@ -1,0 +1,10 @@
+In dentomaxillofacial radiology, cone-beam computed tomography (CT) is used to give fast and high-resolution 3-dimensional images of bone with a low dose of radiation.
+However, its use for quantitative measurement of bone density based on absolute values (Hounsfield units, HU) as in multidetector CT is still controversial.
+We know of no in vivo study of 3-dimensional merging software that will reliably match identical bone areas of cone-beam and multidetector CT datasets.
+We studied 19 multidetector, and 19 cone-beam, CT scans of the skull.
+The two datasets were fused, corresponding points were identified for measurement, and we compared mean density.
+We used linear regression to analyse the relation between the two different scanning methods, and studied a total of 4180 measurements.
+The mean time interval between scans was 5.2 (4.7) months.
+Mean R(2) over all measurements was 0.63 (range 0.22 - 0.79) with a mean internal consistency (Cronbach's α) of 0.86 (range 0.61 - 0.93).
+The strongest linearity, seen at the left mastoid, was R(2)=0.79 with high internal consistency (Cronbach's α 0.89), and the weakest was at the left zygomatic bone with R(2)=0.22 and Cronbach's α=0.61.
+Measurements of bone density based on cone-beam and multidetector CT scans generated in vivo showed high and reproducible internal consistency but poor linearity.

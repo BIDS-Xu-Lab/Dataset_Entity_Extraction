@@ -1,0 +1,8 @@
+Maspin, a unique member of the serpin family, is a secreted protein encoded by a class II tumor suppressor gene whose downregulation is associated with the development of breast and prostate cancers.
+Overexpression of maspin in breast tumor cells limits their growth and metastases in vivo.
+In this report we demonstrate that maspin is an effective inhibitor of angiogenesis.
+In vitro, it acted directly on cultured endothelial cells to stop their migration towards basic fibroblast growth factor and vascular endothelial growth factor and to limit mitogenesis and tube formation.
+In vivo, it blocked neovascularization in the rat cornea pocket model.
+Maspin derivatives mutated in the serpin reactive site lost their ability to inhibit the migration of fibroblasts, keratinocytes, and breast cancer cells but were still able to block angiogenesis in vitro and in vivo.
+When maspin was delivered locally to human prostate tumor cells in a xenograft mouse model, it blocked tumor growth and dramatically reduced the density of tumor-associated microvessels.
+These data suggest that the tumor suppressor activity of maspin may depend in large part on its ability to inhibit angiogenesis and raise the possibility that maspin and similar serpins may be excellent leads for the development of drugs that modulate angiogenesis.

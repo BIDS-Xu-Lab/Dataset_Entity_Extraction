@@ -1,0 +1,6 @@
+Personalised medicine, new discoveries and studies on rare exposures or outcomes require large samples that are increasingly difficult for any single investigator to obtain.
+Collaborative work is limited by heterogeneities, both what is being collected and how it is defined.
+To develop a core set for data collection in rheumatoid arthritis (RA) research which (1) allows harmonisation of data collection in future observational studies, (2) acts as a common data model against which existing databases can be mapped and (3) serves as a template for standardised data collection in routine clinical practice to support generation of research-quality data.
+A multistep, international multistakeholder consensus process was carried out involving voting via online surveys and two face-to-face meetings.
+A core set of 21 items ('what to collect') and their instruments ('how to collect') was agreed: age, gender, disease duration, diagnosis of RA, body mass index, smoking, swollen/tender joints, patient/evaluator global, pain, quality of life, function, composite scores, acute phase reactants, serology, structural damage, treatment and comorbidities.
+The core set should facilitate collaborative research, allow for comparisons across studies and harmonise future data from clinical practice via electronic medical record systems.

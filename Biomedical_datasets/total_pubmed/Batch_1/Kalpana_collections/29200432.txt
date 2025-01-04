@@ -1,0 +1,6 @@
+This paper contributes to the pursuit of socially sustainable water and sanitation infrastructure for all people by discovering statistically robust relationships between Hofstede's dimensions of cross-cultural comparison and the choice of contract award types, project type, and primary revenue sources.
+This analysis, which represents 973 projects distributed across 24 low- and middle-income nations, uses a World Bank dataset describing high capital cost water and sewerage projects funded through private investment.
+The results show that cultural dimensions explain variation in the choice of contract award types, project type, and primary revenue sources.
+These results provide empirical evidence that strategies for water and sewerage project organization are not culturally neutral.
+The data show, for example, that highly individualistic contexts are more likely to select competitive contract award types and to depend on user fees to provide the primary project revenue stream post-construction.
+By selecting more locally appropriate ways to organize projects, project stakeholders will be better able to pursue the construction of socially sustainable water and sewerage infrastructure.

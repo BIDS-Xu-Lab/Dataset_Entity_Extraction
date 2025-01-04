@@ -1,0 +1,13 @@
+Health literacy is a frequently discussed concept.
+Previous studies indicate that older people more often experience difficulties in dealing with health-relevant information compared to the general population.
+However, existing studies consider older people as a homogeneous group.
+Therefore, there is a research gap on assessment of health literacy among different subpopulations of older adults.
+The aim of the study is to make a detailed assessment of health literacy in old age.
+For this purpose, we conducted an age-specific analysis of HLS-GER study data using descriptive analytic procedures.
+Analysis of variance (ANOVA) was used to assess the association between mean health literacy scores and age.
+A large proportion of the older population from the HLS-GER sample of 475 persons aged 65 and older has limited health literacy.
+Perceived difficulties arise in particular in the domains health care as well as in finding and assessing health information.
+The results also show statistically significant differences between the age groups.
+Especially those aged 76 and above have a significantly lower level of health literacy in all domains and dimensions than younger older people.
+These results underline the need for more age-differentiated health literacy research.
+Additionally, more attention needs to be given to age differentiation in the development of interventions as well.

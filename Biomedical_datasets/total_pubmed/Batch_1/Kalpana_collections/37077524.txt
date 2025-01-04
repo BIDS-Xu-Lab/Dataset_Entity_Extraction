@@ -1,0 +1,18 @@
+Transcriptomic analyses from early human immunodeficiency virus (HIV) infection have the potential to reveal how HIV causes widespread and lasting damage to biological functions, especially in the immune system.
+Previous studies have been limited by difficulties in obtaining early specimens.
+A hospital symptom-based screening approach was applied in a rural Mozambican setting to enrol patients with suspected acute HIV infection (Fiebig stage I-IV).
+Blood samples were collected from all those recruited, so that acute cases and contemporaneously recruited, uninfected controls were included.
+PBMC were isolated and sequenced using RNA-seq.
+Sample cellular composition was estimated from gene expression data.
+Differential gene expression analysis was completed, and correlations were determined between viral load and differential gene expression.
+Biological implications were examined using Cytoscape, gene set enrichment analysis, and enrichment mapping.
+Twenty-nine HIV infected subjects one month from presentation and 46 uninfected controls were included in this study.
+Subjects with acute HIV infection demonstrated profound gene dysregulation, with 6131 (almost 13% of the genome mapped in this study) significantly differentially expressed.
+Viral load was correlated with 1.6% of dysregulated genes, in particular, highly upregulated genes involved in key cell cycle functions, were correlated with viremia.
+The most profoundly upregulated biological functions related to cell cycle regulation, in particular, CDCA7 may drive aberrant cell division, promoted by overexpressed E2F family proteins.
+Also upregulated were DNA repair and replication, microtubule and spindle organization, and immune activation and response.
+The interferome of acute HIV was characterized by broad activation of interferon-stimulated genes with antiviral functions, most notably IFI27 and OTOF.
+BCL2 downregulation alongside upregulation of several apoptotic trigger genes and downstream effectors may contribute to cycle arrest and apoptosis.
+Transmembrane protein 155 (TMEM155) was consistently highly overexpressed during acute infection, with roles hitherto unknown.
+Our study contributes to a better understanding of the mechanisms of early HIV-induced immune damage.
+These findings have the potential to lead to new earlier interventions that improve outcomes.

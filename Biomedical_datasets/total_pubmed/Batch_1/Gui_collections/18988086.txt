@@ -1,0 +1,8 @@
+Mechlorethamine (HN2) and 2-chloroethylethyl sulfide (CEES) are mustard vesicants.
+Butylated hydroxyanisole (BHA) is a phenolic antioxidant.
+In the present work, the ability of BHA to reduce the toxicity of HN2 and CEES was investigated using A-431 skin cells.
+HN2 toxicity was found to be dependent, at least in part, on the cellular glutathione (GSH) status.
+BHA also decreased HN2-induced DNA damage and lipid peroxidation.
+The cytoprotective activity of BHA was also compared with that of the structurally unrelated antioxidant ebselen.
+Whereas ebselen (30 microM) protected skin cells from the toxicity of both HN2 (10-80 microM) and CEES (10-40 microM), BHA (100 microM) reduced the toxicity of HN2 only.
+Taken together, these data suggest that antioxidants such as BHA or ebselen may serve as useful treatments for injury caused by blistering agents.

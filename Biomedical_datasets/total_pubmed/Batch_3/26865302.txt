@@ -1,0 +1,8 @@
+Corals are among the most active producers of dimethylsulfoniopropionate (DMSP), a key molecule in marine sulfur cycling, yet the specific physiological role of DMSP in corals remains elusive.
+Here, we examine the oxidative stress response of three coral species (Acropora millepora, Stylophora pistillata and Pocillopora damicornis) and explore the antioxidant role of DMSP and its breakdown products under short-term hyposalinity stress.
+Symbiont photosynthetic activity declined with hyposalinity exposure in all three reef-building corals.
+This corresponded with the upregulation of superoxide dismutase and glutathione in the animal host of all three species.
+For the symbiont component, there were differences in antioxidant regulation, demonstrating differential responses to oxidative stress between the Symbiodinium subclades.
+Of the three coral species investigated, only A. millepora provided any evidence of the role of DMSP in the oxidative stress response.
+Our study reveals variability in antioxidant regulation in corals and highlights the influence life-history traits, and the subcladal differences can have on coral physiology.
+Our data expand on the emerging understanding of the role of DMSP in coral stress regulation and emphasizes the importance of exploring both the host and symbiont responses for defining the threshold of the coral holobiont to hyposalinity stress.

@@ -1,0 +1,9 @@
+Comparisons of age at menopause are made difficult by the different methodologies applied across populations.
+This study extended an opportunity to apply different methodologies to the same data to draw some preliminary conclusions about age at menopause in Puebla, Mexico.
+Among 755 women aged 28 to 70 interviewed in the capital city of Puebla, Mexico, 447 (59.6%) were naturally or surgically postmenopausal.
+Mean recalled age at natural menopause in Puebla (46.7 years) appears to be similar to mean recalled age at menopause in Mexico City (46.5 years), suggesting that age at menopause is similar in urban Mexican populations.
+However, median age at menopause computed by probit analysis was later in the city of Puebla (49.6 years) compared to the median age computed by the same method in the capital city of León, Guanajuato, Mexico (48.2 years).
+Median age at menopause computed by Kaplan-Meier survival analysis suggests that age at menopause in Puebla (50.0 years) is older still, and close to that of the United States (51.1 years).
+The differences in median ages at menopause in Puebla are solely due to methodological choices and highlight the difficulty inherent in making inferences across studies of age at menopause between biological and/or cultural groups.
+Factors associated with age at menopause offer another avenue for comparing and understanding variation in this basic biological process.
+In Puebla, smoking, low levels of education, and nulliparity are associated with an earlier age at menopause.

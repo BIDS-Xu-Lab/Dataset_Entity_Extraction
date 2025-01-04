@@ -1,0 +1,12 @@
+The presence of atherosclerotic plaque vessels is a critical factor in plaque destabilization.
+This may be attributable to the leaky phenotype of these microvessels, although direct proof for this notion is lacking.
+In this study, we investigated molecular and cellular patterns of stable and hemorrhaged human plaque to identify novel drivers of intraplaque vessel dysfunction.
+From transcriptome data of a human atherosclerotic lesion cohort, we reconstructed a co-expression network, identifying a gene module strongly and selectively correlated with both plaque microvascular density and inflammation.
+Spectrin Beta Non-Erythrocytic 1 (sptbn1) was identified as one of the central hubs of this module (along with zeb1 and dock1) and was selected for further study based on its predominant endothelial expression.
+Silencing of sptbn1 enhanced leukocyte transmigration and vascular permeability in vitro, characterized by an increased number of focal adhesions and reduced junctional VE-cadherin.
+In vivo, sptbn1 knockdown in zebrafish impaired the development of the caudal vein plexus.
+Mechanistically, increased substrate stiffness was associated with sptbn1 downregulation in endothelial cells in vitro and in human vessels.
+Plaque SPTBN1 mRNA and protein expression were found to correlate with an enhanced presence of intraplaque hemorrhage and future cardiovascular disease (CVD) events during follow-up.
+In conclusion, we identify SPTBN1 as a central hub gene in a gene program correlating with plaque vascularisation.
+SPTBN1 was regulated by substrate stiffness in vitro while silencing blocked vascular development in vivo, and compromised barrier function in vitro.
+Together, SPTBN1 is identified as a new potential regulator of the leaky phenotype of atherosclerotic plaque microvessels.

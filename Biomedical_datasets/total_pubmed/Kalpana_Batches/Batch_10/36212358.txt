@@ -1,0 +1,7 @@
+Small secreted peptides (SSPs) are important signals for cell-to-cell communication in plant, involved in a variety of growth and developmental processes, as well as responses to stresses.
+While a large number of SSPs have been identified and characterized in various plant species, little is known about SSPs in wheat, one of the most important cereal crops.
+In this study, 4,981 putative SSPs were identified on the wheat genome, among which 1,790 TaSSPs were grouped into 38 known SSP families.
+The result also suggested that a large number of the putaitive wheat SSPs, Cys-rich peptides in particular, remained to be characterized.
+Several TaSSP genes were found to encode multiple SSP domains, including CLE, HEVEIN and HAIRPININ domains, and two potentially novel TaSSP family DYY and CRP8CI were identified manually among unpredicted TaSSPs.
+Analysis on the transcriptomic data showed that a great proportion of TaSSPs were expressed in response to abiotic stresses.
+Exogenous application of the TaCEPID peptide encoded by TraesCS1D02G130700 enhanced the tolerance of wheat plants to drought and salinity, suggesting porential roles of SSPs in regulating stress responses in wheat.

@@ -1,0 +1,14 @@
+Breast cancer is the most common and high-incidence cancer in women.
+It is mainly treated by surgery combined with chemoradiation.
+The main challenge in treating breast cancer patients is developing resistance to chemotherapeutics, so it is urgent to find potential strategies that can improve the chemotherapy effect of patients.
+In this study, we aimed to explore the role of GSDME methylation in the sensitivity of chemotherapy for breast cancer.
+Epigenetic changes in it were detected by Methylated DNA immunoprecipitation-sequencing and methylation-specific PCR.
+The expression level of GSDME in breast cancer cells was observed by qPCR and WB analyses.
+CCK-8 and colony formation assay were used to detect cell proliferation.
+Finally, pyroptosis was detected by LDH assay, flow cytometry, and WB analyses.
+Our results indicate that ABCB1 mRNA and p-GP expression are significantly increased in breast cancer MCF-7 / Taxol cells.
+GSDME enhancer methylation was found in drug-resistant cells and was associated with the down-regulation of GSDME expression.
+After treatment with decitabine (5-Aza-2'-deoxycytidine), the demethylation of GSDME induced the occurrence of pyroptosis and thereby inhibited the proliferation of MCF-7 / Taxol cells.
+We found that the upregulation of GSDME enhances the chemosensitivity of MCF-7 / Taxol cells to paclitaxel by inducing pyroptosis.
+Taken together, we identified decitabine increases GSDME expression through DNA demethylation and induces pyroptosis, thus increasing the chemosensitivity of MCF-7 / Taxol cells to Taxol.
+Use of decitabine / GSDME / pyroptosis-based treatment strategies may be a new way to overcome the resistance of breast cancer to paclitaxel chemotherapy.

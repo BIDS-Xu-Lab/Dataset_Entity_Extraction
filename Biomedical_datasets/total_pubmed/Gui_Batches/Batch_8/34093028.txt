@@ -1,0 +1,9 @@
+Lipid accumulation product (LAP) as a powerful marker of visceral obesity is an independent risk factor of chronic kidney disease.
+The present study attempted to explore the association between LAP and albuminuria in prediabetic individuals.
+We conducted a cross-sectional study and enrolled 26,529 participants with prediabetes over 40 years old with prediabetes from seven provinces in China.
+LAP was calculated from waist circumference and fasting triglycerides.
+mg/g. Propensity score matching was applied to reduce bias, comparison between LAP and other traditional visceral obesity indices was performed and multiple logistic regression models were conducted to assess the association between LAP and albuminuria in the prediabetic population.
+Individuals with uACR ≥30 mg/g were older and had higher BP, BMI, WC, TG, fasting insulin, glycohemoglobin and LAP, as well as lower eGFR and HDL level.
+[1.21, 1.67], P for trend=0.018), and superior over waist-to-hip ratio or waist-to-height ratio.
+Stratification indicated that the prediabetic population with higher LAP level and characterized by female gender, middle age, being overweight, and rise in blood pressure were more likely to have increased uACR.
+Elevated level of LAP was associated with increased albuminuria in the prediabetic population in China.

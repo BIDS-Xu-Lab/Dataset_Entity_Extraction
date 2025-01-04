@@ -1,0 +1,7 @@
+Agricultural intensification offers potential to grow more food while reducing the conversion of native ecosystems to croplands.
+However, intensification also risks environmental degradation through emissions of the greenhouse gas nitrous oxide (N2O) and nitrate leaching to ground and surface waters.
+Intensively-managed croplands and nitrogen (N) fertilizer use are expanding rapidly in tropical regions.
+We quantified fertilizer responses of maize yield, N2O emissions, and N leaching in an Amazon soybean-maize double-cropping system on deep, highly-weathered soils in Mato Grosso, Brazil.
+Application of N fertilizer above 80 kg N ha-1 yr-1 increased maize yield and N2O emissions only slightly.
+Unlike experiences in temperate regions, leached nitrate accumulated in deep soils with increased fertilizer and conversion to cropping at N fertilization rates >80 kg N ha-1, which exceeded maize demand.
+This raises new questions about the capacity of tropical agricultural soils to store nitrogen, which may determine when and how much nitrogen impacts surface waters.

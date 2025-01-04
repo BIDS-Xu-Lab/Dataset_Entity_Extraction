@@ -1,0 +1,12 @@
+To examine the relationship between microalbuminuria and incident stroke in the general population.
+Participants were recruited in a primary care setting from 35 participating general practice units in Norfolk, UK.
+The study population consisted of 23,630 individuals aged 40-79 years recruited between 1993 and 1997 for the EPIC-Norfolk Study and followed up for an average of 7.2 years.
+Random spot urine specimens were collected at baseline and albumin-to-creatinine ratio measured.
+Participants were categorized into normoalbuminuria, microalbuminuria and macroalbuminuria groups.
+During follow-up, the main end point was stroke incidence (fatal and nonfatal), ascertained from the UK Office for National Statistics and from the National Health Service Health District database of all hospital admissions.
+A total of 246 stroke events occurred during follow-up [crude incidence rate of stroke, 1.5 per 1000 person years (pyrs)].
+The age-adjusted incidence of stroke increased significantly across categories of baseline albuminuria (0.9, 1.1 and 1.4/1000 pyrs for tertiles of normoalbuminuria, 2.6/1000 pyrs for microalbuminuria, and 6/1000 pyrs for macroalbuminuria in the total population, P < 0.001 for trend).
+In all women and men, the multivariate hazard ratio [95% confidence interval (CI)] for stroke associated with microalbuminuria was 1.49 (1.13-2.14) and macroalbuminuria 2.43 (1.11-6.26).
+After stratifying by stroke subtype, microalbuminuria was only independently predictive of ischaemic stroke, with hazard ratio (95% CI) of 2.01 (1.29-3.31).
+Microalbuminuria is independently associated with approximately 50% increased risk of stroke in the general population.
+Microalbuminuria may be useful in identifying those at increased risk of stroke in the general population.

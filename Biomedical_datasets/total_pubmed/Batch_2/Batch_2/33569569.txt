@@ -1,0 +1,8 @@
+Assessment of cost-effectiveness of interventions to address modifiable risk factors associated with dementia requires estimates of long-term impacts of these interventions which are rarely directly available and must be estimated using a range of assumptions.
+To test the cost-effectiveness of dementia prevention measures using a methodology which transparently addresses the many assumptions required to use data from short-term studies, and which readily incorporates sensitivity analyses.
+We explore an approach to estimating cost-effective prices which uses aggregate data including estimated lifetime costs of dementia, both financial and quality of life, and incorporates a range of assumptions regarding sustainability of short- term gains and other parameters.
+The approach is addressed in the context of the theoretical reduction in a range of risk factors, and in the context of a specific small-scale trial of an internet-based intervention augmented with diet and physical activity consultations.
+The principal outcomes were prices per unit of interventions at which interventions were cost-effective or cost-saving.
+Taking a societal perspective, a notional intervention reducing a range of dementia risk-factors by 5% was cost-effective at $A460 per person with higher risk groups at $2,148 per person.
+even if program effect diminished by 75% over time.
+Interventions to address risk factors for dementia are likely to be cost-effective if appropriately designed, but confirmation of this conclusion requires longer term follow-up of trials to measure the impact and sustainability of short-term gains.

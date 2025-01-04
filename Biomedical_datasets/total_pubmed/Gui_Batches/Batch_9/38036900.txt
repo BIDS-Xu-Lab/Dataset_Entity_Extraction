@@ -1,0 +1,11 @@
+The ubiquitin-proteasome system (UPS) is an essential regulatory system for maintaining homeostasis, and its dysfunction may cause various diseases.
+The activity of proteasome and ubiquitin-conjugating enzymes has been found to be greatly increased in breast cancer (BC), indicating that the heterogeneity of UPS may be related to the progression of BC.
+Gene data was obtained from The Cancer Genome Atlas and Gene Expression Omnibus databases and performed in multiple algorithms to construct a UPS-related signature for BC.
+Patients in the UPS low-risk group had greater overall and recurrence-free survival probability than those in the UPS high-risk group.
+This signature was closely associated with functional enrichment.
+Some high metabolism-related pathways were more active in the UPS high-risk group.
+The UPS low-risk group had more abundant anti-tumor immune cells, while in the UPS high-risk group, immunosuppressive cells were dominant.
+More importantly, we found that the UPS low-risk group was more sensitive to immunotherapy, while the UPS high-risk group responded better to radiotherapy.
+Drug sensitivity analysis identified more effective chemotherapy drugs in different UPS-related risk groups.
+This UPS-related signature may serve as a novel biomarker and independent prognostic factor for BC.
+It can effectively predict prognosis, immune infiltration, and therapy efficacy, providing new strategies for individualized treatment.

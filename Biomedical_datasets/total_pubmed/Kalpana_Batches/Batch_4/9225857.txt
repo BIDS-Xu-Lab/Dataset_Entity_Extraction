@@ -1,0 +1,10 @@
+Nitrite reductase (NiR) is the second enzyme in the nitrate assimilatory pathway reducing nitrite to ammonium.
+The expression of the NiR gene is induced upon the addition of nitrate.
+In an earlier study, a 130 bp upstream region of the spinach NiR gene promoter, located between -330 to - 200, was shown to be necessary for nitrate induction of beta-glucuronidase (GUS) expression in tissue-specific manner in transgenic tobacco plant [28].
+To further delineate the cis-acting elements involved in nitrate regulation of NiR gene expression, transgenic tobacco plants were generated with 5' deletions in the -330 to -200 region of the spinach NiR gene promoter fused to the GUS gene.
+Plants with the NiR promoter deleted to -230 showed a considerable increase in GUS activity in the presence of nitrate, indicating that the 30 bp region between -230 to -200 is crucial for nitrate-regulated expression of NiR.
+In vivo DMS footprinting of the -300 to -130 region of the NiR promoter in leaf tissues from two independent transgenic lines revealed several nitrate-inducible footprints.
+Footprinting within the -230 to -181 region revealed factor binding to two adjacent GATA elements separated by 24 bp.
+This arrangement of GATA elements is analogous to cis-regulatory sequences found in the promoters of nitrate-inducible genes of Neurospora crassa, regulated by the NIT2 Zn-finger protein.
+The -240 to -110 fragment of the NiR promoter, which contains two NIT2 consensus core elements, bound in vitro to a fusion protein comprising the zinc finger domain of the N. crassa NIT2 protein.
+The data presented here show that nitrate-inducible expression of the NiR gene is mediated by nitrate-specific binding of trans-acting factors to sequences preserved between fungi and higher plants.

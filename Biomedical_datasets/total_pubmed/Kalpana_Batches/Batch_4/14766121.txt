@@ -1,0 +1,6 @@
+We tested whether across the 50 U.S. States, smoking prevalence was associated with smoking behavior among smokers.
+We used published data on smoking prevalence, cigarette consumption, and quit attempts by State from the Behavioral Risk Factor Surveillance System (BRFSS) for 1993, 1996, and 1999, and published data on the distribution of smokers by stage of change in each State from the Current Population Survey (CPS).
+Data were weighted for the population size in each State.
+For 1993, we found no statistically significant association between smoking prevalence and stages of change.
+For 1996 and 1999, across the 50 States, each additional percentage point in smoking prevalence was associated with, respectively, 0.62% and 1.19% more smokers in the "precontemplation" stage, that is, smokers not intending to quit smoking (both P < 0.01), with, respectively, 0.82% and 1.21% more "heavy" smokers who smoked 21-40 cigarettes per day (both P </= 0.001), and with, respectively, 1.12% and 0.81% fewer daily smokers who quit smoking for 1+ days in the previous year (both P </= 0.04).
+Across the 50 States, a higher prevalence of cigarette smoking was associated with a lower motivation to quit smoking, fewer quit attempts, and higher cigarette consumption among smokers.

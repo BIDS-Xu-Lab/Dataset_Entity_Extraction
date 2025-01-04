@@ -1,0 +1,9 @@
+Neuropeptide Y (NPY) has prominent stimulatory effects on food intake in virtually all animals that have been studied.
+In mammals, the effect is primarily mediated by receptors Y1 and Y5, which seem to contribute to different aspects of feeding behavior in guinea pigs and rats/mice.
+Interestingly, differences in receptor distribution among mammalian species have been reported.
+To get a broader perspective on the role of Y5, we describe here studies of guinea pig (Cavia porcellus), a species which due to its phylogenetic position in the mammalian radiation is an interesting complement to previous studies in rat and mouse.
+Guinea pig brain sections were hybridized with two 35S-labeled oligonucleotides complementary to Y5 mRNA.
+The highest expression levels of Y5 mRNA were observed in the hippocampus and several hypothalamic and brain stem nuclei implicated in the regulation of feeding, such as the paraventricular, arcuate and ventromedial hypothalamic nuclei.
+This contrasts with autoradiography studies that detected low Y5-like binding in these areas, a discrepancy observed also in rat and human.
+Y5 mRNA expression was also seen in the striatum, in great contrast to mouse and rat.
+Taken together, these data show that Y5 mRNA distribution displays some interesting species differences, but that its expression in feeding centers seems to be essentially conserved among mammals, adding further support for an important role in food intake.

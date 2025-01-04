@@ -1,0 +1,7 @@
+Neuropsychological and behavioral measures are used to assess attention, but little convergence has been found between these two assessment methods.
+However, many prior studies have not considered attention as a multicomponent system, which may contribute to this lack of agreement between neuropsychological and behavioral measures.
+To address this the current study examined the relationship between the neuropsychological measures that comprise a four-component model of attention and parent-report behavioral ratings of attention problems and hyperactivity.
+A total of 65 children and adolescents who had sustained a traumatic brain injury (TBI) were included in the study.
+Principal components analysis identified the four attention components in this sample, which accounted for 80.9% of the variance.
+However, correlations between the neuropsychological measures of attention and behavioral ratings of attention and hyperactivity were low and non-significant.
+This minimal correspondence suggests that neuropsychological and behavioral measures assess different aspects of attentional disturbances in children with TBI.

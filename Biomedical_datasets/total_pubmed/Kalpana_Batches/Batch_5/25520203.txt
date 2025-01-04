@@ -1,0 +1,5 @@
+To assess metal pollution, Fe, Mn, Cu, Zn, Pb, Ni, Co, As, Cd, and Hg contents in samples of the seagrass Posidonia oceanica and surface sediment, collected at eight locations along the Montenegrin coast, were determined.
+The metal pollution index (MPI) and metal enrichment factor (EF) were then calculated.
+MPI and EF were lower in sediment than in P. oceanica at the same locations.
+This was very evident for EF values of Hg and Cd.
+Based on the Pearson's correlations and EF values, it was possible to conclude that the last two metals' content in the seagrass did not originate from the crustal sources or natural weathering processes.

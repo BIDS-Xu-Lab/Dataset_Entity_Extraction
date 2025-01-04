@@ -1,0 +1,10 @@
+Acinetobacter baumannii is one of the major causes of nosocomial infections and is resistant to most available antibiotics.
+Aminoglycosides remain as drugs of choice for treatment of Acinetobacter infections yet resistance to aminoglycosides has increased in the recent years.
+The present study investigated the prevalence of genes encoding aminoglycoside-modifying enzymes in A. baumannii strains isolated from patients of Tabriz city, northwest of Iran.
+A total of 103 Acinetobacter isolates were collected from Imam Reza Hospital of Tabriz University of medical sciences.
+Antimicrobial susceptibility patterns of the isolates to different antimicrobial agents including cephalosporins, gentamicin, amikacin, tobramycin, colistin and polymyxin, were evaluated by the disc diffusion method.
+The frequency of aminoglycoside modifying enzymes encoding genes aacC1, aphA6, aadA1 and aadB was analyzed by the PCR method.
+Antimicrobial susceptibility analysis showed that the highest resistance was towards beta-lactam antibiotics including cephalosporins whereas the highest sensitivity was observed towards colistin (77%) and polymyxin (84%).
+The resistance rate to aminoglycosides was 81%, 86% and 63% for amikacin, gentamicin and tobramycin, respectively.
+The PCR results showed that among the 103 A. baumannii isolates, 56 (65.11 %) were positive for aacC1, 52 (60.46 %) for aphA6, 24 (27.9 %) for aadA1 and 16 (18.6 %) for aadB resistant genes.
+The results of this study indicated that the genes encoding aminoglycoside-modifying enzymes are prevalent in A. baumannii isolates in the study region, which highlighted the necessity of considering preventive measures to control dissemination of these resistance genes.

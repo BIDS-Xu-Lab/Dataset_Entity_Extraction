@@ -1,0 +1,8 @@
+Stimulation of T lymphocytes through their antigen receptor (T-cell receptor; TCR) results in the activation of a tyrosine kinase and the generation of phosphatidyl inositol (PtdIns)-derived second messengers.
+Several reports have indicated that CD45, a haematopoietic cell-specific surface glycoprotein with tyrosine phosphatase activity in its cytoplasmic domain, is important in lymphocyte activation.
+To examine the possibility that CD45 might influence proximal signal transduction events through the TCR, we have isolated a variant of the human T-cell leukaemic line, HPB-ALL, which fails to express this phosphatase.
+Unlike cells expressing CD45, stimulation of the TCR in the CD45-negative cell does not result in PtdIns-derived second messengers.
+Reconstitution of CD45 expression restored early signalling events through the TCR.
+To localize the site of CD45 action, the human muscarinic type 1 receptor, which also activates the PtdIns second messenger pathway, was transfected into the CD45-negative cell.
+Although stimulation of the TCR failed to generate PtdIns-derived second messengers, there was normal activity of the PtdIns pathway when human muscarinic receptor type 1 was stimulated, despite the absence of CD45.
+These data indicate that CD45 influences a cellular component that is essential for effective coupling of the TCR to the PtdIns second messenger pathway.

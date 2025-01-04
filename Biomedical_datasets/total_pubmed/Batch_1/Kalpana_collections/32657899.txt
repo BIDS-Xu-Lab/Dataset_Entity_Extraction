@@ -1,0 +1,10 @@
+Patient engagement (PE) is a key factor for early-stage breast cancer survivors during survivorship, yet little is known about what factors may contribute to PE.
+The aims of this study were to describe the relationship between sociodemographic factors, survivorship variables, and PE and explore how variations in these variables might contribute to PE in breast cancer survivors.
+A cross-sectional, web-based self-report national survey was conducted to assess sociodemographic factors and survivorship variables: health-related quality of life (HRQOL) as measured by 7-item Functional Assessment of Cancer Therapy-General, fear of cancer recurrence, cancer health literacy, and 2 measures of PE (Patient Activation and Knowing Participation in Change) in breast cancer survivors.
+One open-ended question assessed additional survivorship concerns.
+Data were analyzed via bivariate associations and backward linear regression modeling in SPSS.
+The sample (N = 303), equally dispersed across the United States, was predominantly middle-aged (mean, 50.70 [SD, 14.01]), white, non-Hispanic women.
+Knowing Participation in Change and Patient Activation regression models indicate HRQOL was significantly associated with PE (P ≤ .001), whereas findings related to fear of cancer recurrence lacked significance.
+In the Knowing Participation in Change regression model, HRQOL, social support, and level of education were all significantly associated with PE (P ≤ .001).
+Breast cancer survivors with higher HRQOL, greater social support, and higher levels of education were more likely to have higher levels of PE.
+Findings may provide insight as to which survivors may be ready to engage in SC and those who may need more specific tailoring of resources and support.

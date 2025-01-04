@@ -1,0 +1,11 @@
+Recent studies have implicated repolarization lability in the genesis of malignant ventricular arrhythmias.
+However, few data exist on assessment of temporal QT interval variability and its relation to arrhythmogenesis.
+We tested the ability of the QT variability index (QTVI), a measure of beat-to-beat QT interval fluctuations measured on a single ECG lead, to identify patients presenting with malignant ventricular arrhythmias and predict their subsequent occurrences.
+We measured the QTVI in 95 patients presenting for electrophysiologic study (EPS).
+The ability of the QTVI to identify patients with sudden cardiac death (SCD) or sustained monomorphic ventricular tachycardia (MVT) on presentation and during follow-up of 23.7+/-14.3 months was compared with spatial QT dispersion, T wave alternans ratio during atrial pacing, MVT inducibility at EPS, signal-averaged ECG, heart rate variability, and ejection fraction.
+The QTVI was higher in patients with heart disease than in controls (-0.7+/-0.7 vs -1.1+/-0.5, P < 0.05), and higher in patients presenting with SCD than in other patients with heart disease (0.0+/-0.6 vs -0.8+/-0.5, P < 0.05).
+The QTVI was the only clinical variable that identified patients who presented with SCD (P = 0.004, odds ratio = 12.5) on stepwise, logistic multiple regression.
+Fourteen patients had arrhythmic events during follow-up.
+In a Kaplan-Meier analysis of arrhythmic events, QTVI> or =0.1 was a discriminator for higher risk of arrhythmic events (P < 0.05).
+(1) This noninvasive measure of temporal repolarization lability identified patients with SCD and predicted arrhythmia-free survival.
+(2) Further studies are needed to determine the mechanisms that mediate beat-to-beat QT interval variability.

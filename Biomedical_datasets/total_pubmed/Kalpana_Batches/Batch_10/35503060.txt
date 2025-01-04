@@ -1,0 +1,12 @@
+To evaluate oncological outcomes in patient with positive surgical margin (PSM) following partial nephrectomy (PN).
+In this retrospective study, we enrolled the data of patients who underwent PN between 2008 and 2017.
+The inclusion criteria were a definite diagnosis of kidney tumor who underwent PN with at least one year follow up.
+From the 450 patients who underwent PN, The PSM was found in 35 (22 male/13 female) patients.
+18/237 (7.6%) and 17/213 (7.9%) of them were in open and laparoscopic group, respectively.
+Clear cell RCC was the most prevalent pathology (18 patients) in the PSM patients.
+The mean time of follow up was 46±2.02 months.
+Recurrence was developed in 5 (14.2%) patients.
+There was no correlation between recurrence and sex (p=1.00), surgery type (p=0.658), age (p=0.869), tumor size (p= 0.069), pathology (p=0.258) and stage (p=0.744) in PSM patients.
+Recurrence free survival was similar between the open and laparoscopy groups in PSM patients (p=0.619).
+Beside numerous advantages of minimally invasive techniques, laparoscopic approach would be comparable to conventional open partial nephrectomy in terms of oncologic outcomes.
+The rate of recurrence following partial nephrectomy in PSM patients is considerable and closely monitoring is mandatory.

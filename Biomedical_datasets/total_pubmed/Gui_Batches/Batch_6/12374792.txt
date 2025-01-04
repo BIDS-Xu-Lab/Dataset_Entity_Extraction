@@ -1,0 +1,10 @@
+Protein phosphatase type 1 (PP1), together with protein phosphatase 2A (PP2A), is a major eukaryotic serine/threonine protein phosphatase involved in regulation of numerous cell functions.
+Although the roles of PP2A have been studied extensively using okadaic acid, a well known inhibitor of PP2A, biological analysis of PP1 has remained restricted because of lack of a specific inhibitor.
+Recently we reported that tautomycetin (TC) is a highly specific inhibitor of PP1.
+To elucidate the biological effects of TC, we demonstrated in preliminary experiments that treatment of COS-7 cells with 5 microm TC for 5 h inhibits endogenous PP1 by more than 90% without affecting PP2A activity.
+Therefore, using TC as a specific PP1 inhibitor, the biological effect of PP1 on MAPK signaling was examined.
+First, we found that inhibition of PP1 in COS-7 cells by TC specifically suppresses activation of ERK, among three MAPK kinases (ERK, JNK, and p38).
+TC-mediated inhibition of PP1 also suppressed activation of Raf-1, resulting in the inactivation of the MEK-ERK pathway.
+To examine the role of PP1 in regulation of Raf-1, we overexpressed the PP1 catalytic subunit (PP1C) in COS-7 cells and found that PP1C enhanced activation of Raf-1 activity, whereas phosphatase-dead PP1C blocked Raf-1 activation.
+Furthermore, a physical interaction between PP1C and Raf-1 was also observed.
+These data strongly suggest that PP1 positively regulates Raf-1 in vivo.

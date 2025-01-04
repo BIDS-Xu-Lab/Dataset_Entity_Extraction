@@ -1,0 +1,14 @@
+[(18)F]UCB-H is a novel radiotracer with a high affinity for synaptic vesicle glycoprotein 2A (SV2A), a protein expressed in synaptic vesicles.
+SV2A is the binding site of levetiracetam, a "first-in-class" antiepileptic drug with a distinct but still poorly understood mechanism of action.
+The objective of this study was to determine the biodistribution and radiation dosimetry of [(18)F]UCB-H in a human clinical trial and to establish injection limits according to biomedical research guidelines.
+Additionally, the clinical radiation dosimetry results were compared to estimations in previously published preclinical data.
+Dynamic whole body positron emission tomography/X-ray computed tomography (PET/CT) imaging was performed over approximately 110 min on five healthy male volunteers after injection of 144.5 ± 7.1 MBq (range, 139.1-156.5 MBq) of [(18)F]UCB-H. Major organs were delineated on CT images, and time-activity curves were obtained from co-registered dynamic PET emission scans.
+The bladder could only be delineated on PET images.
+Time-integrated activity coefficients were calculated as area under the curve using trapezoidal numerical integration.
+Urinary excretion data based on PET activities including voiding was also simulated using the dynamic bladder module of OLINDA/EXM.
+The radiation dosimetry was calculated using OLINDA/EXM.
+The effective dose to the OLINDA/EXM 70-kg standard male was 1.54 × 10(-2) ± 6.84 × 10(-4) millisieverts (mSv)/MBq, with urinary bladder wall, gallbladder wall, and the liver receiving the highest absorbed dose.
+The brain, the tracer's main organ of interest, received an absorbed dose of 1.89 × 10(-2) ± 2.32 × 10(-3) mGy/MBq.
+This first human dosimetry study of [(18)F]UCB-H indicated that the tracer shows similar radiation burdens to widely used common clinical tracers.
+Single injections of at maximum 672 MBq for US practice and 649 MBq for European practice keep radiation exposure below recommended limits.
+Recently published preclinical dosimetry data extrapolated from mice provided satisfactory prediction of total body and effective dose but showed significant differences in organ absorbed doses compared to human data.

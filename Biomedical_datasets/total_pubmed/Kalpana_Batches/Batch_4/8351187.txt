@@ -1,0 +1,7 @@
+Subjects wielded occluded rods, with or without attached masses, and reported the distances reachable with their distal tips.
+Experiments 1-3 compared wielding about the wrist, the elbow, and the shoulder.
+Experiments 4 and 5 compared free wielding, using the whole arm, with wielding only about the wrist.
+The two comparisons, respectively, were of spatial and temporal variations in the rod's rotational inertia.
+Perceived extent was found to be constant in both comparisons.
+This constancy was tied to the inertia tensor Iij defined about a point that remains a fixed distance from the object during wielding--an invariant of the spatially and temporally dependent patterning of mechanical energy impressed upon the tissues of the body.
+Discussion focused on the reciprocal action and perception capabilities of multisegmented limbs, the tensorial relations in the neurobiology of dynamic touch, and the strategy of understanding perceptual constancy through invariants.

@@ -1,0 +1,12 @@
+Human-adapted Bordetella parapertussis is one of the causative agents of whooping cough; however, there are currently no genotyping systems with high discriminatory power for this bacterial pathogen.
+We therefore aimed to develop a multilocus variable-number tandem repeat analysis (MLVA) for human-adapted B. parapertussis.
+Four highly polymorphic variable number tandem repeat (VNTR) loci in the B. parapertussis genome were selected and amplified by multiplex PCR.
+MLVA was performed based on the number of tandem repeats at VNTR loci.
+The discriminatory power of MLVA was evaluated with three laboratory reference strains and 50 human isolates of B. parapertussis.
+Multiplex PCR-based MLVA characterized 53 B. parapertussis reference strains and isolates into 25 MLVA types and the Simpson diversity index was 0.91 (95 % confidence interval, 0.86-0.97).
+The three reference strains exhibited different MLVA types.
+Thirty-one Japanese isolates, ten French isolates and three Taiwanese isolates belonged to fourteen, nine and three MLVA types, respectively.
+In contrast, all five Australian isolates belonged to the same type.
+Two Japanese isolates collected from patients with known epidemiological links had the same type.
+Our novel MLVA method has high discriminatory power for genotyping human B. parapertussis.
+Regarding this organism, this genotyping system is a promising tool for epidemiological surveillance and investigating outbreaks.

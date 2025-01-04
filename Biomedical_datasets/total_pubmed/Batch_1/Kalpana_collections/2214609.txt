@@ -1,0 +1,11 @@
+Among 20 individuals with severe alpha 1-antitrypsin (alpha 1AT) deficiency we observed extremely variable clinical phenotypes ranging from rapidly progressive lung disease fatal at the age of 42 years to an asymptomatic individual with normal lung function at the age of 50 years.
+Eighteen subjects, including the asymptomatic one, carried the deficient Pi ZZ phenotype as determined by isoelectric focusing (IEF).
+Their mean alpha 1AT serum level was 36.7 +/- 7.7 mg/dl. DNA restriction analysis showed that all of them had the classical Pi Z-allele-associated DNA haplotype, thus confirming the IEF data.
+Obviously not all Pi ZZ individuals will have clinical sequelae caused by this genotype.
+The important differences in clinical course observed could not be explained by smoking habits alone.
+Probably additional factors are pertinent to the pathogenesis of the lung disease associated with alpha 1AT deficiency (defects in other genes, environmental influences other than smoking).
+In two patients with very low alpha 1AT serum levels definitive phenotyping by IEF was not possible.
+Therefore we investigated the molecular basis of their deficiency using polymerase chain reaction (PCR) amplification of the coding exons of their alpha 1AT genes and direct sequencing of the amplification products.
+Sequence data analysis showed that one of these patients, who had initially been phenotyped as Pi ZZ by IEF, had in fact the genotype Pi QObellinghamZ, thus explaining her low alpha 1AT serum level of 20 mg/dl.
+The other patient (alpha 1AT serum level 3.7 mg/dl) exhibited the rare genotype Pi MheerlenQOgranite falls.
+Despite his nearly complete alpha 1AT deficiency, he suffered from only moderately severe pulmonary disease at the age of 42 years.

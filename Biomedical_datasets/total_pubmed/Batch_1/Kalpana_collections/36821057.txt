@@ -1,0 +1,12 @@
+There is limited data about assessments that are associated with increased utilization of medical services among advanced oncology patients (AOPs).
+We aimed to identify factors related to healthcare utilization and death in AOP.
+AOPs at a comprehensive cancer center were enrolled in a Center for Medicare and Medicaid Innovation program.
+Participants completed the Edmonton Symptom Assessment Scale (ESAS) and the Functional Assessment of Cancer Therapy-General (FACT-G) scale.
+We examined factors associated with palliative care (PC), acute care (AC), emergency room (ER), hospital admissions (HA), and death.
+In all, 817 AOPs were included in these analyses with a median age of 69.
+They were generally female (58.7%), white (61.4%), stage IV (51.6%), and represented common cancers (31.5% GI, 25.2% thoracic, 14.3% gynecologic).
+[-0.037, -0.006], p=0.008 and B=-0.181 [-0.246, -0.117], p<0.001, respectively).
+Lower FACT-G social subscale scores were related to more ER visits (B=-0.03 [-0.53, -0.004], p=0.024), while increased tiredness was associated with fewer AC visits (B=-0.039 [-0.073, -0.006], p=0.023).
+Higher total ESAS scores were related to death within 30 days (OR=0.87 [0.76, 0.98], p=0.027).
+The ESAS and FACT-G assessments were linked to PC and AC visits and death.
+These assessments may be useful for identifying AOPs that would benefit from routine PC.

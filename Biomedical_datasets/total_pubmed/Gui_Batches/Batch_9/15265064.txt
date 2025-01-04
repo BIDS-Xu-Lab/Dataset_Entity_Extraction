@@ -1,0 +1,4 @@
+At present, the density of genes on the bovine maps is extremely limited and current resolution of the human-bovine comparative map is insufficient for selection of candidate genes controlling many economic traits of interest in dairy cattle.
+This study describes the chromosomal mapping of 10 selected gene-associated markers to bovine linkage and radiation hybrid maps to improve the breakpoint resolution in the human-bovine comparative map near two previously identified quantitative trait loci for the linear type trait, dairy form.
+Two regions of conserved synteny not previously described are reported between the telomeric region of bovine chromosome 27 (BTA27) and human chromosome 3 (HSA3) p24 region and between the HSA4q34.1 region and BTA8.
+These data increase the number of genes positioned on the bovine gene maps, refine the human-bovine comparative map, and should improve the efficiency of candidate gene selection for the dairy form trait in cattle.

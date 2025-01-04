@@ -1,0 +1,9 @@
+In Pseudomonas putida EST4021, the tfdCB operon of plasmid pEST4011 encodes enzymes involved in 2,4-dichlorophenoxyacetic acid degradation.
+We have identified a gene, tfdR, important for the regulation of the tfdCB operon.
+Sequence analysis of the tfdR gene revealed an open reading frame with amino acid sequence similar to the LysR family of transcriptional activators.
+The tfdR gene is located upstream and transcribed divergently from the tfdCB operon.
+Utilizing primer extension analysis, the transcription initiation sites of the gene tfdR and the tfdCB operon were localized 85 (84)bp and 292bp upstream from the coding sequences of these genes, respectively.
+Multiple sequence analysis revealed that the genes tfdR, tfdC and tfdB of plasmid pEST4011 are most similar to the regulatory gene tfdR and the module 2 genes tfdC(II) and tfdB(II) of pJP4, respectively.
+The promoter-operator sequences of tfdR and its target tfdCB operon of pEST4011 have regions with highly conserved nucleotides characteristic for the catechol-subgroup LysR-type transcriptional activators.
+We showed that the pEST4011 tfdR gene product activates the expression of the tfdCB operon and the effector molecule for TfdR is 2,4-dichloro-cis,cis-muconate.
+Our data indicate that the structure and the mode of regulation of tfd genes are similar, despite the bacteria being isolated from different geographical regions.

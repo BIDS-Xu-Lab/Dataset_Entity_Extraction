@@ -1,0 +1,15 @@
+Pulmonary hypertension (PH) contributes to cardiovascular disease and mortality in patients with chronic kidney disease (CKD), but the pathophysiology is mostly unknown.
+This study sought to estimate the prevalence and consequences of PH subtypes in the setting of CKD.
+We examined 12,618 patients with a right heart catheterization in the Duke Databank for Cardiovascular Disease from January 1, 2000, to December 31, 2014.
+Baseline kidney function stratified by CKD glomerular filtration rate category and PH subtype.
+In this cohort, 73.4% of patients with CKD had PH, compared with 56.9% of patients without CKD.
+Isolated postcapillary PH (39.0%) and combined pre- and postcapillary PH (38.3%) were the most common PH subtypes in CKD.
+Conversely, precapillary PH was the most common subtype in the non-CKD cohort (35.9%).
+The relationships between mean pulmonary artery pressure, pulmonary capillary wedge pressure, and right atrial pressure with mortality were similar in both the CKD and non-CKD cohorts.
+Compared with those without PH, precapillary PH conferred the highest mortality risk among patients without CKD (HR, 2.27; 95% CI, 2.00-2.57).
+[95% CI, 1.52-2.97], and 1.63 [95% CI, 1.12-2.36] for glomerular filtration rate categories G3a, G3b, G4, and G5/G5D).
+The cohort referred for right heart catheterization may not be generalizable to the general population.
+Serum creatinine data in the 6 months preceding catheterization may not reflect true baseline CKD.
+Observational design precludes assumptions of causality.
+In patients with CKD referred for right heart catheterization, PH is common and associated with poor survival.
+Combined pre- and postcapillary PH was common and portended the worst survival for patients with CKD.

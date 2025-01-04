@@ -1,0 +1,11 @@
+Phage display technology has been utilized to select target molecules against circulating antibodies.
+The aims of this study were to isolate a peptide that binds with serum from Crohn's disease (CD) patients and to examine its diagnostic and pathogenic significance.
+A phage display library was constructed using cDNA from Caco-2 cells.
+Affinity selection using this cDNA library and serum samples from patients with CD was then performed.
+Phage clones that specifically reacted with the CD sera were then selected using a phage enzyme-linked immunosorbent assay (ELISA).
+After the DNA sequences of the selected phages were determined and converted to amino acid sequences, the synthesized peptides were examined using an ELISA.
+The effect of the synthesized peptides on cytokine release from cultured blood mononuclear cells was investigated.
+An ELISA analysis for TCP-353 demonstrated that while 61·7% of the samples from CD patients were seroreactive, seroreactivity was less common among patients with ulcerative colitis (7·3%), acute colitis (0%) or colon cancer (11·4%) and among normal subjects (2·8%).
+The induction of interleukin (IL)-1β, IL-6 and tumour necrosis factor (TNF)-α release, but not IL-10 release, in response to TCP-353 peptide was enhanced in CD mononuclear cells only.
+We isolated a novel peptide that specifically binds to CD sera and stimulates the proinflammatory responses of CD mononuclear cells.
+TCP-353 may have diagnostic, pathogenic and therapeutic significance with regard to the treatment of CD.

@@ -1,0 +1,8 @@
+Gymnema sylvestre (gymnema) contains gurmarin that selectively inhibits responses to sweet substances in rodents.
+The present study investigated possible interaction between gurmarin and the submandibular saliva in rats fed diet containing gymnema.
+Electrophoretic analyses demonstrated that relative amounts of two proteins in the saliva clearly increased in rats fed the gymnema diet.
+However, rats previously given section of the bilateral glossopharyngeal nerve showed no such salivary protein induction.
+rK2 and rK9, a family of serine proteases, have a striking resemblance of cleavage site in the protein substrates.
+Interestingly, gurmarin possesses comparable residues with those rK2 and rK9 prefer.
+The kallikreins significantly inhibited immunoreaction between gurmarin and antigurmarin antiserum.
+These results suggest that rK2 and rK9 increased by chemosensory information for the gymnema diet via the glossopharyngeal nerve might cleave gurmarin or at least cause specific binding with it.

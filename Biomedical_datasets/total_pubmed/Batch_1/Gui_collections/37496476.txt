@@ -1,0 +1,7 @@
+Was to compare the prevalence and structure of sudden death from cardiovascular diseases (CVD) in the structure of nonviolent death in Moscow Region as a representative of the large region and St. Petersburg as a city of federal importance.
+Frequency and structure of this parameter, as well as its dynamics were analyzed.
+The comparison of obtained results with data of Federal State Statistics Service was done.
+Nonparametric analysis of the initial data has been conducted.
+Clustering and visualization, based on the following parameters of initial sample, have been done: «death rate from CVD in the structure of nonviolent death», «morbidity rate», «incomes» and «unemployment rate».
+Correlation dependences between death rate from CVD according to the Form №42 and mentioned parameters of medical and social state of the subject have been determined.
+Dependences between sudden death rate from CDV and a number of medical and social parameters have been established.

@@ -1,0 +1,9 @@
+Spinal cord injury results in progressive waves of secondary injuries, cascades of noxious pathological mechanisms that substantially exacerbate the primary injury and the resultant permanent functional deficits.
+Secondary injuries are associated with inflammation, excessive cytokine release, and cell apoptosis.
+The purine nucleoside guanosine has significant trophic effects and is neuroprotective, antiapoptotic in vitro, and stimulates nerve regeneration.
+Therefore, we determined whether systemic administration of guanosine could protect rats from some of the secondary effects of spinal cord injury, thereby reducing neurological deficits.
+Systemic administration of guanosine (8 mg/kg per day, i.p.)
+for 14 consecutive days, starting 4 h after moderate spinal cord injury in rats, significantly improved not only motor and sensory functions, but also recovery of bladder function.
+These improvements were associated with reduction in the inflammatory response to injury, reduction of apoptotic cell death, increased sparing of axons, and preservation of myelin.
+Our data indicate that the therapeutic action of guanosine probably results from reducing inflammation resulting in the protection of axons, oligodendrocytes, and neurons and from inhibiting apoptotic cell death.
+These data raise the intriguing possibility that guanosine may also be able to reduce secondary pathological events and thus improve functional outcome after traumatic spinal cord injury in humans.

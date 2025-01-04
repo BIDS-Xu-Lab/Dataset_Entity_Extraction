@@ -1,0 +1,12 @@
+As biomedical data integration and analytics play an increasing role in the field of stem cell research, it becomes important to develop ways to standardize, aggregate, and share data among researchers.
+For this reason, many databases have been developed in recent years in an attempt to systematically warehouse data from different stem cell projects and experiments at the same time.
+However, these databases vary widely in their implementation and structure.
+The aim of this scoping review is to characterize the main features of available stem cell databases in order to identify specifications useful for implementation in future stem cell databases.
+We conducted a scoping review of peer-reviewed literature and online resources to identify and review available stem cell databases.
+To identify the relevant databases, we performed a PubMed search using relevant MeSH terms followed by a web search for databases which may not have an associated journal article.
+In total, we identified 16 databases to include in this review.
+The data elements reported in these databases represented a broad spectrum of parameters from basic socio-demographic variables to various cells characteristics, cell surface markers expression, and clinical trial results.
+Three broad sets of functional features that provide utility for future stem cell research and facilitate bioinformatics workflows were identified.
+These features consisted of the following: common data elements, data visualization and analysis tools, and biomedical ontologies for data integration.
+Stem cell bioinformatics is a quickly evolving field that generates a growing number of heterogeneous data sets.
+Further progress in the stem cell research may be greatly facilitated by development of applications for intelligent stem cell data aggregation, sharing and collaboration process.

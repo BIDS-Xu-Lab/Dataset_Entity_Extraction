@@ -1,0 +1,10 @@
+A new family of murine endogenous proviruses (VL6.0) is described here.
+The intact provirus is near 6 kb in length and shows a genomic organization of 5' LTR, gag, pol, env, and 3' LTR.
+The primer binding site (PBS) is that of a tRNA(gly).
+The lack of functional open reading frames and occurrence of significant gaps in most, if not all, members of this group show it to be ancient.
+Our estimate of copy number per haploid genome is 30+.
+Members of this group have been isolated from Mus musculus domesticus, M. m. casteneus, M. m. hortulanus, M. caroli, and M. spretus.
+The occurrence of these sequences throughout such diverse members of the genus Mus may indicate that the date of the original infection predated the divergence of the extant Mus lineages at around 2.5 million years ago.
+Analysis of gap (deletion/insertion) patterns indicates that these sequences may have proliferated within the Mus genome by a mechanism of reverse transcriptase-mediated transposition.
+As yet, there are no closely related murine retroviruses described.
+The closest mammalian retrovirus based on sequence similarity is from the miniature swine (Sus scrofa).

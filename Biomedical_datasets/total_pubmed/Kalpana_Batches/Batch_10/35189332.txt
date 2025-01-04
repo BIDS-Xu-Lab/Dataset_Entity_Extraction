@@ -1,0 +1,11 @@
+Infection with SARS-CoV-2 induces a proinflammatory state that causes hyperglycemia and may precipitate diabetic ketoacidosis (DKA) in patients with known or new-onset diabetes.
+We examined the trends in new-onset diabetes and DKA prior to and following the onset of the COVID-19 pandemic.
+This single-center retrospective observational study included pediatric patients (aged 0 to <18 years) hospitalized with new-onset type 1 diabetes or type 2 diabetes (T2D) before (March 1, 2018, to February 29, 2020) and after (March 1, 2020 to December 31, 2020) the pandemic onset.
+Demographic, anthropometrics, laboratory and clinical data, and outcomes were obtained.
+Among 615 children admitted with new-onset diabetes during the entire study period, 401 were admitted before the pandemic onset, and 214 were admitted after the pandemic onset.
+Children admitted with new-onset diabetes in the postpandemic period were significantly more likely to present with DKA (odds ratio, 1.76; 95% confidence interval, 1.24-2.52) than in the prepandemic phase.
+Children with DKA after the pandemic onset had higher lengths of hospitalization and were significantly more likely to experience severe DKA (odds ratio, 2.17; 95% confidence interval, 1.34-3.52).
+A higher proportion of children with DKA admitted to the pediatric intensive care unit required oxygen support after the pandemic onset than before the pandemic onset (8.85% vs 1.92%).
+Most cases of T2D with DKA occurred following the onset of the pandemic (62.5%).
+A significant increase in T2D cases occurred following the onset of the COVID-19 pandemic with a greater risk of DKA and severe ketoacidosis.
+Racial disparity was evident with a higher proportion of Black and American Indian children presenting with ketoacidosis following the pandemic onset.

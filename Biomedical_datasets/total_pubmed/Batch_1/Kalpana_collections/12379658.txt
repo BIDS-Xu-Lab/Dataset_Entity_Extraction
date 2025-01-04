@@ -1,0 +1,9 @@
+Plant kinesin-like calmodulin-binding protein (KCBP) is a novel member of the kinesin superfamily that interacts with calmodulin (CaM) via its CaM-binding domain (CBD).
+Activated CaM (Ca(2+)-CaM) has been shown to inhibit KCBP interaction with microtubules (MTs) thereby abolishing its motor- and MT-dependent ATPase activities.
+To test whether the fusion of CBD to non-CaM-binding kinesins confers Ca(2+)-CaM regulation, we fused the CBD of KCBP to the N or C terminus of a minus-end (non-claret disjunction) or C terminus of a plus-end (Drosophila kinesin) motor.
+Purified chimeric kinesins bound CaM in a Ca(2+)-dependent manner whereas non-claret disjunction, Drosophila kinesin, and KCBP that lack a CBD did not.
+As in the case of KCBP with CBD, the interaction of chimeric motors with MTs, as well as their MT-stimulated ATPase activity, was inhibited by Ca(2+)-CaM.
+The presence of a spacer between the motor and CBD did not alter Ca(2+)-CaM regulation.
+However, KCBP interaction with MTs and its MT-stimulated ATPase activity were not inhibited when the motor domain and CBD were added separately, suggesting that Ca(2+)-CaM regulation of CaM-binding motors occurs only when the CBD is attached to the motor domain.
+These results show that the fusion of the CBD to animal motors confers Ca(2+)-CaM regulation and suggest that the CBD functions as a modular domain in disrupting motor-MT interaction.
+Our data also support the hypothesis that CaM-binding kinesins may have evolved by addition of a CBD to a kinesin motor domain.

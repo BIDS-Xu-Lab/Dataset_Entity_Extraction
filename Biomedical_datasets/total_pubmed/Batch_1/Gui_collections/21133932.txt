@@ -1,0 +1,10 @@
+Molecular variations of the RHD gene may result in the reduced expression of the D antigen and altered Rh phenotypes.
+In many occasions, they cannot be typed reliably by standard serological methods.
+Sequence-based typing is the gold standard to determine rare and unknown RHD genotypes.
+For this pilot study, sequence-based typing by standard Sanger sequencing was compared to a newly established next-generation sequencing approach based on pyrosequencing.
+Twenty-six DNA samples were selected after primary serological testing exhibiting a weak reaction in Rh phenotype.
+Parallel sequence analysis of the complete coding sequence including adjacent intronic sequences allowed a comparison of the methodical potency in mutation detection of Sanger with next-generation sequencing.
+Sanger sequencing revealed 39 RHD polymorphisms in 21 of 26 samples in the RHD coding region, while pyrosequencing detected all but two alterations resulting in a concordance rate of 94·9% and clearly revealed a heterozygous compound mutation in one sample with RHDψ and Weak D type 4 alleles.
+The resolution of cis/trans linkage of polymorphisms and exact characterization of a 37 bp duplication was achieved by next-generation sequencing.
+Our data suggest that next-generation sequencing offers a new development for high-throughput and clonal sequencing for molecular RHD genotyping.
+However, further attempts in the methodical set-up have to be undertaken prior to validation and introduction as a routine service.

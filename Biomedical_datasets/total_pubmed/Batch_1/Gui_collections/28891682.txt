@@ -1,0 +1,8 @@
+Survey data often contain many variables.
+Structural equation modeling (SEM) is commonly used in analyzing such data.
+With typical nonnormally distributed data in practice, a rescaled statistic Trml proposed by Satorra and Bentler was recommended in the literature of SEM.
+However, Trml has been shown to be problematic when the sample size N is small and/or the number of variables p is large.
+There does not exist a reliable test statistic for SEM with small N or large p, especially with nonnormally distributed data.
+Following the principle of Bartlett correction, this article develops empirical corrections to Trml so that the mean of the empirically corrected statistics approximately equals the degrees of freedom of the nominal chi-square distribution.
+Results show that empirically corrected statistics control type I errors reasonably well even when N is smaller than 2p, where Trml may reject the correct model 100% even for normally distributed data.
+The application of the empirically corrected statistics is illustrated via a real data example.

@@ -1,0 +1,2 @@
+The ability to study rapidly evolving viral populations has been constrained by the read length of next-generation sequencing approaches and the sampling depth of single-genome amplification methods.
+Here, we develop and characterize a method using Pacific Biosciences' Single Molecule, Real-Time (SMRT®) sequencing technology to sequence multiple, intact full-length human immunodeficiency virus-1 env genes amplified from viral RNA populations circulating in blood, and provide computational tools for analyzing and visualizing these data.

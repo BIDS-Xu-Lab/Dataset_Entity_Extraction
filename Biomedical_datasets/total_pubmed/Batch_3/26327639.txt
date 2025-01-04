@@ -1,0 +1,12 @@
+A regional survey of eight volatile organic compounds (VOCs), namely BTEX (benzene, toluene, ethylbenzene and p-xylene) and four chlorinated aliphatic hydrocarbons (CAHs: chloroform, 1,2-dichloroethane, trichloroethene and tetrachloroethene), was carried out at 174 sites, in 17 alluvial aquifers of Abruzzo, a Mediterranean region of southern Italy, from 2004 to 2009.
+Frequency of detection, concentration range, spatial distribution pattern, and temporal trend of contaminant concentration in each aquifer were analyzed as well as the relationships between VOC concentrations and the total amount of precipitation during the 90days preceding each sampling date.
+A review of published ecotoxicological data, providing an indication of the biological risk associated with the observed levels of VOC contamination, was presented and discussed.
+BTEX concentrations were under detection limits in all the investigated aquifers, indicating absence of contamination.
+In contrast, CAH contamination occurred in 14 out of 17 aquifers.
+The two most frequently detected compounds were chloroform and tetrachloroethene.
+No significant temporal trend was observed for chloroform and tetrachloroethene concentrations during the six years of observation, indicating the persistence of stable contaminations, except for some slightly decreasing trends observed in three out of 17 aquifers.
+In four aquifers chloroform and tetrachloroethene concentrations increased with precipitations in the preceding months.
+Spatial patterns of contamination differed among aquifers, indicating highly complex contaminant distributions at aquifer scale not related to single-plume geometries.
+Patterns of contamination by chloroform and tetrachloroethene in the most urbanized aquifers were likely associated with multiple sources of VOCs not clearly detectable at the scale used in this study.
+In five out of 17 aquifers, chloroform and tetrachloroethene co-occurred at concentrations that are lethal to groundwater-dwelling organisms under a short exposure period (four days).
+Future studies should therefore consider the possibility that in the other aquifers groundwater-dwelling organisms might be physiologically damaged by sublethal VOC concentrations.

@@ -1,0 +1,17 @@
+Since 2010, the incidence of carbapenem-resistant Enterobacteriaceae (CRE) has been increasing in Singapore.
+We analyzed the clinical and molecular epidemiology of CRE among adult inpatients in Singapore.
+Quarterly incidence of unique subjects (per 100000 patient-days) with positive clinical and surveillance cultures for CRE were estimated based on mandatory data submitted to the National Public Health Laboratory by public hospitals between 2010 and 2015.
+CRE-positive adult inpatients were prospectively recruited from 6 public sector hospitals between December 2013 and April 2015.
+Subjects answered a standardized epidemiologic questionnaire and provided samples for this study.
+Further clinical information was extracted from subjects' electronic medical records.
+Whole-genome sequencing was performed on study isolates to determine transmission clusters.
+Incidence of CRE clinical cultures among adult inpatients plateaued from 2013 (range: 7.73 to 10.32 per 100000 patient-days) following an initial increase between 2010 and end-2012.
+Their median age was 65 years, 108 (43%) were female, and 161 (64.7%) had carbapenemase-producing Enterobacteriaceae (CPE).
+On multivariate analysis, prior carbapenem exposure (OR: 3.23; 95% CI: 1.67-6.25) and hematological malignancies (OR: 2.85; 95% CI: 1.10-7.41) were associated with non-carbapenemase-producing CRE (NCPE) (n = 88) compared with CPE (n = 161) subjects.
+Among 430 CRE isolates from the 249 subjects, 307(71.3%) were CPE, of which 154(50.2%) were blaKPC-positive, 97(31.6%)
+Klebsiella pneumoniae (n = 180, 41.9%), Escherichia coli (n = 129, 30.0%) and Enterobacter cloacae (n = 62, 14.4%) were the main Enterobacteriaceae species.
+WGS (n = 206) revealed diverse bacterial strain type (STs).
+The predominant blaKPC-positive plasmid was pHS102707 (n = 62, 55.4%) and the predominant blaNDM-positive plasmid was pNDM-ECS01 (n = 46, 48.9%).
+Five transmission clusters involving 13 subjects were detected.
+Clinical CRE trend among adult inpatients showed stabilization following a rapid rise since introduction in 2010 potentially due to infection prevention measures and antimicrobial stewardship.
+More work is needed on understanding CPE transmission dynamics.

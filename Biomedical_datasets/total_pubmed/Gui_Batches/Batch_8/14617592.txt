@@ -1,0 +1,11 @@
+To evaluate the effects of nitrous oxide on automated air tonometry in the clinical setting.
+With approval of the Hospital Ethical Committee and after obtaining informed parental consent, an 8-F tonometry catheter was inserted orogastrically in ten children aged one to three years scheduled for elective surgery with combined regional and general anesthesia.
+A standardized general anesthesia technique with tracheal intubation was used in all patients and consisted of sevoflurane in oxygen/nitrous oxide (30%/70%; n = 5 patients) or in oxygen/air (FIO(2) 0.3; n = 5 patients).
+After obtaining steady state gastric CO(2) values (PrCO(2)), fresh gas mixtures were rapidly changed from oxygen/nitrous oxide to oxygen/air (A) or vice versa (B).
+In addition, balloon pressures were recorded using a pressure transducer.
+Measurements were performed at intervals of ten minutes with recording of balloon pressures, end-tidal CO(2) (PETCO(2)) and PrCO(2) values.
+Pr-ETCO(2)-gap were calculated to eliminate influences of changes in PaCO(2).
+Changing the fresh gas mixture from N(2)O/O(2) to O(2)/air resulted in a decrease of balloon pressure of -10.4% (113.4 +/- 14.7 mmHg to 101.6 +/- 25.0 mmHg).
+Changing the fresh gas mixture from O(2)/air to N(2)O/O(2) resulted in an increase of balloon pressures of 6.4% (107.6 +/- 19.3 mmHg to 114.0 +/- 20.3 mmHg).
+During both fresh gas exchange experiments no significant changes (> 0.2 kPa) in calculated Pr-ETCO(2)-gaps were observed.
+Based on our in vivo data, nitrous oxide during general anesthesia can be used with automated air tonometry and does not affect air tonometric PrCO(2) reading in clinical practice.

@@ -1,0 +1,12 @@
+Underwater swimmers use fins, which provide thrust to overcome drag and propel the diver.
+The type of fin used has been shown to affect diver performance, however data are lacking for women.
+The oxygen consumption (VdotO2) of swimming as a function of speed, velocity as a function of kick frequency, maximal speed (v), maximal VdotO2 and the maximal thrust were determined for 8 female divers swimming at 1.25 m depth in a 60 m annular pool.
+V + 2.85 V2 (r2 = 0.996) and 0.12 + 1.52 V +1.275 V2 (r2 = 0.999) for high (5 fins) and low (3 fins) groupings, respectively.
+Splits, vents and flanges did not significantly affect VdotO2.
+Kick frequency increased linearly with v, with unique slopes for each fin.
+Maximal VdotO2 was not affect by fin type (1.46 +/- 0.05 l/min).
+Velocities that could be stained aerobically were 0.60 +/- 0.02 m/sec on average, with the most flexible fin higher (0.71 m/sec).
+Maximal v averaged 0.87 +/- 0.03 m/sec, with the most rigid fin lower (0.77 m/sec).
+Maximal thrust was not affected by fin and averaged 104 +/- 9 N.
+It can be concluded that female divers preferred the most flexible fins, which were also the most economical.
+This is most likely due to low leg power, which could also explain the absence of differences in maximal thrust and velocity.

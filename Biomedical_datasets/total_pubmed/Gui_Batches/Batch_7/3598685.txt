@@ -1,0 +1,6 @@
+The behavior of bridging veins at their entrance into the superior sagittal sinus during elevated intracranial pressure (ICP) was investigated in rats using a cranial window and infusion of mock cerebrospinal fluid.
+The bridging veins became slightly smaller as the ICP rose (maximum reduction 17%).
+Compression or collapse of the veins was not observed, even at an ICP level of 100 mm Hg, and there was no cuffing of bridging veins upstream of the entrance.
+Both the scanning electron microscopic investigation based on resin vessel casts and the histological examination of whole-head coronal sections indicated that the narrowest points of the bridging veins are at their entrance to the superior sagittal sinus, caused by the oval aperture with thickened wall structure in the lateral sinus wall to which the bridging veins are connected.
+The present data thus support the concept that cerebral blood flow during intracranial hypertension is not reduced by venous cuffing or compression of the lateral lacunae and bridging veins; by contrast, the arteriovenous pressure difference seems to remain the determining factor even at high ICP.
+Thus, blood flow through the brain stops when ICP approaches the level of blood pressure.

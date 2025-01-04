@@ -1,0 +1,7 @@
+Activation of AMP-activated kinase (AMPK) in skeletal muscle increases glucose uptake, fatty acid oxidation, and mitochondrial biogenesis by increasing gene expression in these pathways.
+However, the transcriptional components that are directly targeted by AMPK are still elusive.
+The peroxisome-proliferator-activated receptor gamma coactivator 1alpha (PGC-1alpha) has emerged as a master regulator of mitochondrial biogenesis; furthermore, it has been shown that PGC-1alpha gene expression is induced by exercise and by chemical activation of AMPK in skeletal muscle.
+Using primary muscle cells and mice deficient in PGC-1alpha, we found that the effects of AMPK on gene expression of glucose transporter 4, mitochondrial genes, and PGC-1alpha itself are almost entirely dependent on the function of PGC-1alpha protein.
+Furthermore, AMPK phosphorylates PGC-1alpha directly both in vitro and in cells.
+These direct phosphorylations of the PGC-1alpha protein at threonine-177 and serine-538 are required for the PGC-1alpha-dependent induction of the PGC-1alpha promoter.
+These data indicate that AMPK phosphorylation of PGC-1alpha initiates many of the important gene regulatory functions of AMPK in skeletal muscle.

@@ -1,0 +1,11 @@
+People with serious mental illnesses (SMIs) have three-fold higher rates of comorbid insomnia than the general population, which has downstream effects on cognitive, mental, and physical health.
+Cognitive Behavioral Therapy for Insomnia (CBT-i) is a safe and effective first-line treatment for insomnia, though the therapy's effectiveness relies on completing nightly sleep diaries which can be challenging for some people with SMI and comorbid cognitive deficits.
+Supportive technologies such as mobile applications and sleep sensors may aid with completing sleep diaries.
+However, commercially available CBT-i apps are not designed for individuals with cognitive deficits.
+To aid with this challenge, we have developed an integrated mobile application, named "Sleep Catcher," that will automatically incorporate data from a wearable fitness tracker and a bed sensor to track nightly sleep duration, overnight awakenings, bed-times, and wake-times to generate nightly sleep diaries for CBT-i.
+The application development process will be described-writing algorithms to generating useful data, creating a clinician web portal to oversee patients and the mobile application, and integrating sleep data from device platforms and user input.
+The mobile and web applications were developed using Flutter, IBM Code Engine, and IBM Cloudant database.
+The mobile application was developed with a user-centered approach and incremental changes informed by a series of beta tests.
+Special user-interface features were considered to address the challenges of developing a simple and effective mobile application targeting people with SMI.
+There is strong potential for synergy between engineering and mental health expertise to develop technologies for specific clinical populations.
+Digital health technologies allow for the development of multi-disciplinary solutions to existing health disparities in vulnerable populations, particularly in people with SMI.

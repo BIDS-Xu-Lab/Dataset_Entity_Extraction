@@ -1,0 +1,9 @@
+In this study, the role of hyper-radiation sensitivity (HRS) in potentiating the effects of cisplatin by low-dose fractionated radiation (LDFRT) was evaluated in four human non-small cell lung cancer cell lines.
+Gy was assessed using colony-forming and apoptotic assays.
+Cell-cycle disturbances were studied by flow cytometry.
+Expression of genes involved in apoptosis was assessed using real-time reverse transcriptase PCR arrays.
+H-157 cells showed a distinct HRS region, followed by UKY-29 and A549 cells, whereas it was absent in H460 cells, which when lack HRS showed maximum CER with LDFRT (4 × 0.5 Gy) both by clonogenic inhibition and by apoptosis compared with single fraction of 2 Gy whereas the most radioresistant A549 cells had the least CER, with no significant differences between LDFRT or 2 Gy.
+Interestingly, in H-157 cells, a more pronounced CER was observed with LDFRT when assessed by apoptosis but clonogenic inhibition-CER was higher with 2 Gy than with LDFRT.
+Excluding H-157 cells, the CER by LDFRT was inversely proportional to radioresistance [(determined by D(0), the dose to reduce survival by 67% from any point on the linear portion of the survival curve or surviving fraction (SF) at 2 Gy (SF(2))] of the cells.
+LDFRT alone or in combination with cisplatin induced larger number of proapoptotic genes than 2 Gy or cisplatin + 2 Gy in cells showing HRS when compared to H460 cells that lack HRS.
+These findings indicate that chemopotentiation by LDFRT is correlated more with the intrinsic radiation sensitivity of the non-small lung cancer cells than the HRS phenomenon whereas the mode of cell killing is both through apoptosis and clonogenic inhibition.

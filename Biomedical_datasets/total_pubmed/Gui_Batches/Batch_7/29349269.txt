@@ -1,0 +1,12 @@
+Imbalances in the sex ratio at birth in Southeast and East Asia increased especially after the mid-1980s.
+We study how ultrasonic technology affected sex ratios at birth in South Korea, a country with a strong son preference.
+Between 1985 and 1995 fetal screenings and abortion services were widely available, though not available in the years before, and prohibited in the years after.
+Using the 1985, 1995, and 2005 Census microdata, we examine changes in sex ratios of newborns by birth year.
+We then study periodic effects on the fertility stopping rule, using the 2006 Korean Longitudinal Study of Aging, which provides birth years for all children.
+Between 1985 and 1995 there was a large increase in the fraction of boy babies at birth orders of three or more.
+Despite these fractions falling in the subsequent time period when fetal screening became illegal, they remained above plausible biological levels.
+Supporting earlier findings in the literature, the increase in sex ratios was especially large when prior sibling composition was entirely female.
+We also find that having only daughters significantly increases the probability of parents having another child, and this effect is greater for parents with any child born after 1985 than the parents with all children born before 1985.
+There exist significant period effects, suggesting that sex ratios at birth became imbalanced when ultrasound technology became available.
+The availability of ultrasound technology also influenced parents' fertility decisions, seen especially in parents with only daughters deciding to have another child.
+Our study provides new evidence for how the availability of ultrasound technology influenced sex ratios at birth and influenced fertility behaviors in Korea.

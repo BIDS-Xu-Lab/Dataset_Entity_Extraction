@@ -1,0 +1,11 @@
+Dimethyl fumarate is used to treat patients with relapsing-remitting multiple sclerosis.
+After ingestion, it is rapidly hydrolyzed to the active primary metabolite monomethyl fumarate.
+The main objective of our study was to analyze serum concentrations of monomethyl fumarate during routine health care in patients with multiple sclerosis treated with a fixed dose of dimethyl fumarate.
+In the pilot cross-sectional study, data from 42 patients treated with dimethyl fumarate at a dose of 240 mg twice daily were collected.
+Concentrations of the active metabolite monomethyl fumarate were determined at 1-8 h (median, 3 h) or 10-14 h (median, 13 h) after taking the dose.
+The relationship between monomethyl fumarate concentrations and absolute lymphocyte count was evaluated.
+Concentrations of monomethyl fumarate ranged from 2.5-3177.9 μg/L, with most concentrations being undetectable approximately 10 hours after administration.
+In the 1-8 h (median, 3 h) post-dose subgroup, the concentration/dose ratio ranged widely from 0.04-6.62.
+The median concentration of monomethyl fumarate in the group with the absolute lymphocyte count <0.8 x 10^9/l was more than four times higher than in the group with the absolute lymphocyte count ≥0.8 x 10^9/l (median 440.1 μg/L versus 98.4 μg/L).
+The wide interindividual variability in monomethyl fumarate pharmacokinetics could contribute to the differential response to dimethyl fumarate in multiple sclerosis patients.
+A nonsignificant but noticeable trend was observed in the relationship of higher serum monomethyl fumarate concentrations to absolute lymphocyte counts.

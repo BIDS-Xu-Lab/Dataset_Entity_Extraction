@@ -1,0 +1,15 @@
+The utility of routine extensive molecular profiling of pediatric tumors is a matter of debate due to the high number of genetic alterations of unknown significance or low evidence and the lack of standardized and personalized decision support methods.
+Digital drug assignment (DDA) is a novel computational method to prioritize treatment options by aggregating numerous evidence-based associations between multiple drivers, targets, and targeted agents.
+DDA has been validated to improve personalized treatment decisions based on the outcome data of adult patients treated in the SHIVA01 clinical trial.
+The aim of this study was to evaluate the utility of DDA in pediatric oncology.
+Between 2017 and 2020, 103 high-risk pediatric cancer patients (< 21 years) were involved in our precision oncology program, and samples from 100 patients were eligible for further analysis.
+Tissue or blood samples were analyzed by whole-exome (WES) or targeted panel sequencing and other molecular diagnostic modalities and processed by a software system using the DDA algorithm for therapeutic decision support.
+Finally, a molecular tumor board (MTB) evaluated the results to provide therapy recommendations.
+Of the 100 cases with comprehensive molecular diagnostic data, 88 yielded WES and 12 panel sequencing results.
+DDA identified matching off-label targeted treatment options (actionability) in 72/100 cases (72%), while 57/100 (57%) showed potential drug resistance.
+Actionability reached 88% (29/33) by 2020 due to the continuous updates of the evidence database.
+MTB approved the clinical use of a DDA-top-listed treatment in 56 of 72 actionable cases (78%).
+The approved therapies had significantly higher aggregated evidence levels (AELs) than dismissed therapies.
+Filtering of WES results for targeted panels missed important mutations affecting therapy selection.
+DDA is a promising approach to overcome challenges associated with the interpretation of extensive molecular profiling in the routine care of high-risk pediatric cancers.
+Knowledgebase updates enable automatic interpretation of a continuously expanding gene set, a "virtual" panel, filtered out from genome-wide analysis to always maximize the performance of precision treatment planning.

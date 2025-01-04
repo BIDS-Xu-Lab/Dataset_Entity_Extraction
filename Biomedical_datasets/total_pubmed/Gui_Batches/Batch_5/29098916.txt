@@ -1,0 +1,12 @@
+Conduit-based nerve repairs are commonly used for small nerve gaps, whereas primary repair may be performed if there is no tension on nerve endings.
+We hypothesize that a conduit-based nerve coaptation device will improve nerve repair outcomes by avoiding sutures at the nerve repair site and utilizing the advantages of a conduit-based repair.
+The left sciatic nerves of female Sprague-Dawley rats were transected and repaired using a novel conduit-based device.
+The conduit-based device group was compared to a control group of rats that underwent a standard end-to-end microsurgical repair of the sciatic nerve.
+Animals underwent behavioral assessments at weekly intervals post-operatively using the sciatic functional index (SFI) test.
+Animals were sacrificed at four weeks to obtain motor axon counts from immunohistochemistry.
+A sub-group of animals were sacrificed immediately post repair to obtain MRI images.
+SFI scores were superior in rats which received conduit-based repairs compared to the control group.
+Motor axon counts distal to the injury in the device group at four weeks were statistically superior to the control group.
+MRI tractography was used to demonstrate repair of two nerves using the novel conduit device.
+A conduit-based nerve coaptation device avoids sutures at the nerve repair site and leads to improved outcomes in a rat model.
+Conduit-based nerve repair devices have the potential to standardize nerve repairs while improving outcomes.

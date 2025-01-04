@@ -1,0 +1,10 @@
+Hot beverage consumption is a probable risk factor for esophageal squamous cell carcinoma (ESCC).
+No standardized exposure assessment protocol exists.
+To compare how alternative metrics discriminate distinct drinking habits, we measured sip temperatures and sizes in an international group of hot beverage drinkers in France (n = 20) and hot porridge consumers (n = 52) in a high ESCC incidence region of China.
+Building on the knowledge that sip size and temperature affect intraesophageal liquid temperature (IELT), IELTs were predicted by modeling existing data, and compared with first sip temperature and, across all sips, mean temperature and sip-weighted mean temperature.
+Two contrasting exposure characteristics were observed.
+[mean difference +17 g; 95% confidence interval (CI), 13.3-20.7] of hotter (+9.5°C; 95% CI, 6.2-12.7) liquid, and their mean sip size did not vary greatly across sips, but the former groups increased in size as temperature decreased.
+This resulted in higher predicted IELTs (mean 61°C vs. 42.4°C) and sip-weighted temperatures (76.9°C vs. 56°C) in Chinese porridge consumers, and compared with first sip and mean temperature, these two metrics separated the groups to a greater extent.
+Distinguishing thermal exposure characteristics between these groups was greatly enhanced by measuring sip sizes.
+Temperature at first sip alone is suboptimal for assessing human exposure to hot foods and beverages, and future studies should include sip size measurements in exposure assessment protocols.
+This study provides a logistically feasible framework for assessing human exposure to hot beverages.

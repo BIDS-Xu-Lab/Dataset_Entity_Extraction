@@ -1,0 +1,8 @@
+UAP56 is an essential factor in eukaryotic pre-mRNA splicing and mRNA export.
+Many viruses require cellular RNA export factors to efficiently export viral RNA.
+However, the mechanisms behind hepatitis B virus (HBV) RNA splicing and nuclear export remain poorly understood.
+Here, our data show that UAP56 interacts with the HBx protein.
+Moreover, we demonstrate that the Q-motif of UAP56, which regulates RNA-binding and helicase activity, is essential for the interaction of UAP56 with HBx.
+Both knockdown of UAP56 and deficiency of HBx impaired cytoplasmic accumulation of HBV RNA transcripts, whereas knockdown of UAP56 also reduced the level of HBV pregenomic RNA splicing variants.
+In addition, knockdown of Nxf1 induced HBV RNA nuclear accumulation.
+These findings provide unique insights into the mechanistic details of HBV RNA export and splicing.

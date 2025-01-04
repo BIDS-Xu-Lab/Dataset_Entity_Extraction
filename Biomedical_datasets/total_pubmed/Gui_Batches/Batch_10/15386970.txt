@@ -1,0 +1,9 @@
+Sections of struvite kidney stones were tested in compression at high strain rates ( approximately 3000s(-1)) using a Kolsky bar and at low strain rates ( < 0.001 s(-1)) using an Instron testing machine.
+The peak stress in both cases appeared to be similar.
+At high strain rates the values of flow stress measured were between 40 and 65 MPa and at low strain rates they were between 37 and 58 MPa.
+However, the morphology of the damage was dramatically different.
+Stones tested at low strain rates formed a small number of cracks but otherwise remained intact at the end of the test.
+In comparison, stones tested at high strain rates were reduced to a powder.
+Kidney stones are a two-phase material consisting of a crystalline ceramic phase and an organic binder.
+We speculate that in the high strain rate tests the large difference in the sound speed between the matrix and the crystalline grains leads to shear stresses that destroy the stone.
+These data indicate that shear stress induced by the internal structure may be a mechanism by which shock waves comminute kidney stones in lithotripsy.

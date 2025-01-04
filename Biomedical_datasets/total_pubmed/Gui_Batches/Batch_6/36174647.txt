@@ -1,0 +1,7 @@
+Recently, interest and advances in artificial intelligence (AI) including deep learning for medical images have surged.
+As imaging plays a major role in the assessment of pulmonary diseases, various AI algorithms have been developed for chest imaging.
+Some of these have been approved by governments and are now commercially available in the marketplace.
+In the field of chest radiology, there are various tasks and purposes that are suitable for AI: initial evaluation/triage of certain diseases, detection and diagnosis, quantitative assessment of disease severity and monitoring, and prediction for decision support.
+While AI is a powerful technology that can be applied to medical imaging and is expected to improve our current clinical practice, some obstacles must be addressed for the successful implementation of AI in workflows.
+Understanding and becoming familiar with the current status and potential clinical applications of AI in chest imaging, as well as remaining challenges, would be essential for radiologists and clinicians in the era of AI.
+This review introduces the potential clinical applications of AI in chest imaging and also discusses the challenges for the implementation of AI in daily clinical practice and future directions in chest imaging.

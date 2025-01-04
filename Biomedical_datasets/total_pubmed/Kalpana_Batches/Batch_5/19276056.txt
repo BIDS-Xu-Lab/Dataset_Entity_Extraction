@@ -1,0 +1,13 @@
+Fifty-one meningiomas obtained from 28 dogs and 23 cats were selected for this study to investigate the immunohistochemical expression of matrix metalloproteinase (MMP)-2 and MMP-9 and to compare it to the reverse transcriptase subunit of human-telomerase, progesterone receptor expression, and the proliferative index of the tumors, expressed by Ki67 and proliferating cellular nuclear antigen.
+Paraffin-embedded tumor tissue was obtained from biopsy samples (28 cases) and at necropsy (23 cases).
+The most common histotype was malignant in dogs (12/28) and transitional in cats (12/23).
+Slides immunolabelled for MMPs showed a diffuse cytoplasmic pattern.
+Twenty-one cases (19 dogs and 2 cats) did not express MMP-2, while only 2 cases were completely negative for MMP-9.
+The highest values of MMP-2 and MMP-9 were observed in a psammomatous and meningothelial tumor, respectively.
+On statistical analysis, MMP-2 expression did not show a significant correlation with MMP-9.
+Moreover, both MMP expressions failed to show significant variance among histologic patterns of the tumor and correlation with the proliferative index.
+MMP immunolabeling showed an inconstant correlation with progesterone receptor expression.
+No significant correlation was found between MMP and reverse transcriptase subunit of human-telomerase expression.
+In feline meningiomas, the MMP-2 value was significantly higher than in canine tumors and the MMP-9 value tended to be low for meningiomas with a follow-up duration from the 23(rd) month to the 44(th) month.
+In cats, the longer the time from surgery, the lower the proliferative index seemed to be.
+In dogs, we failed to find a correlation between MMP expression and the follow-up duration.

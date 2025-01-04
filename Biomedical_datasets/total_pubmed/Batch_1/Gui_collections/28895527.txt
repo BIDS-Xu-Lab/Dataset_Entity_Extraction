@@ -1,0 +1,8 @@
+Assessing the danger of transition of HIV transmission from a concentrated to a generalized epidemic is of major importance for public health.
+In this study, we develop a phylogeny-based statistical approach to address this question.
+As a case study, we use this to investigate the trends and determinants of HIV transmission among Swiss heterosexuals.
+We extract the corresponding transmission clusters from a phylogenetic tree.
+To capture the incomplete sampling, the delayed introduction of imported infections to Switzerland, and potential factors associated with basic reproductive number R0, we extend the branching process model to infer transmission parameters.
+Overall, the R0 is estimated to be 0.44 (95%-confidence interval 0.42-0.46) and it is decreasing by 11% per 10 years (4%-17%).
+Our findings indicate rather diminishing HIV transmission among Swiss heterosexuals far below the epidemic threshold.
+Generally, our approach allows to assess the danger of self-sustained epidemics from any viral sequence data.

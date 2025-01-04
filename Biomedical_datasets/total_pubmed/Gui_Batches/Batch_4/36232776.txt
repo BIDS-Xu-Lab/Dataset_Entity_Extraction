@@ -1,0 +1,11 @@
+Air exposure is a common stress for Corbicula fluminea, an economically important freshwater shellfish consumed in China, during aquaculture and transportation.
+However, little is known about its molecular responses to air exposure.
+Therefore, this study used a combination of PacBio full-length and Illumina transcriptomes to investigate its molecular responses to air exposure.
+A total of 36,772 transcripts were obtained using PacBio sequencing.
+Structural analysis identified 32,069 coding sequences, 1906 transcription factors, 8873 simple sequence repeats, and 17,815 long non-coding RNAs.
+Subcellular localization analysis showed that most transcripts were located in the cytoplasm and nucleus.
+After 96-h of air exposure, 210 differentially expressed genes (DEGs) in the gill were obtained via Illumina sequencing.
+Among these DEGs, most of the genes related to glycolysis, tricarboxylic acid cycle, lipid metabolism, and amino acid metabolism were upregulated.
+Additionally, many DEGs associated with immunity, cytoskeleton reorganization, autophagy, and ferroptosis were identified.
+These findings indicated that metabolic strategy change, immune response, cytoskeleton reconstruction, autophagy, and ferroptosis might be the important mechanisms that C. fluminea use to cope with air exposure.
+This study will enrich the gene resources of C. fluminea and provide valuable data for studying the molecular mechanisms coping with air exposure in C. fluminea and other freshwater mollusks.

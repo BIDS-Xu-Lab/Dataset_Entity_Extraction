@@ -1,0 +1,7 @@
+The clinical success of the BCL-2-selective BH3-mimetic venetoclax in patients with poor prognosis chronic lymphocytic leukemia (CLL) highlights the potential of targeting the BCL-2-regulated apoptotic pathway in previously untreatable lymphoid malignancies.
+By selectively inhibiting BCL-2, venetoclax circumvents the dose-limiting, BCL-XL-mediated thrombocytopenia of its less selective predecessor navitoclax, while enhancing efficacy in CLL.
+We have previously reported the potent sensitivity of many high-risk childhood acute lymphoblastic leukemia (ALL) xenografts to navitoclax.
+Given the superior tolerability of venetoclax, here we have investigated its efficacy in childhood ALL.
+We demonstrate that in contrast to the clear dependence of CLL on BCL-2 alone, effective antileukemic activity in the majority of ALL xenografts requires concurrent inhibition of both BCL-2 and BCL-XL We identify BCL-XL expression as a key predictor of poor response to venetoclax and demonstrate that concurrent inhibition of both BCL-2 and BCL-XL results in synergistic killing in the majority of ALL xenografts.
+A notable exception is mixed lineage leukemia-rearranged infant ALL, where venetoclax largely recapitulates the activity of navitoclax, identifying this subgroup of patients as potential candidates for clinical trials of venetoclax in childhood ALL.
+Conversely, our findings provide a clear basis for progressing navitoclax into trials ahead of venetoclax in other subgroups.

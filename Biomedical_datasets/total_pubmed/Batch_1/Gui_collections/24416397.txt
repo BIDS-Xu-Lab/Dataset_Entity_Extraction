@@ -1,0 +1,10 @@
+The complex regional pain syndrome (CRPS) is a rare but debilitating pain disorder that mostly occurs after injuries to the upper limb.
+A number of studies indicated altered brain function in CRPS, whereas possible influences on brain structure remain poorly investigated.
+I patients and applied voxel-by-voxel statistics to compare white and gray matter brain segments of CRPS patients with matched controls.
+Patients and controls were statistically compared in two different ways: First, we applied a 2-sample ttest to compare whole brain white and gray matter structure between patients and controls.
+Second, we aimed to assess structural alterations specifically of the primary somatosensory (S1) and motor cortex (M1) contralateral to the CRPS affected side.
+To this end, MRI scans of patients with left-sided CRPS (and matched controls) were horizontally flipped before preprocessing and region-of-interest-based group comparison.
+The unpaired ttest of the "non-flipped" data revealed that CRPS patients presented increased gray matter density in the dorsomedial prefrontal cortex.
+The same test applied to the "flipped" data showed further increases in gray matter density, not in the S1, but in the M1 contralateral to the CRPS-affected limb which were inversely related to decreased white matter density of the internal capsule within the ipsilateral brain hemisphere.
+The gray-white matter interaction between motor cortex and internal capsule suggests compensatory mechanisms within the central motor system possibly due to motor dysfunction.
+Altered gray matter structure in dorsomedial prefrontal cortex may occur in response to emotional processes such as pain-related suffering or elevated analgesic top-down control.

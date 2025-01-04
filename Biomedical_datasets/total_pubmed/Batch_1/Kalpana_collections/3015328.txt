@@ -1,0 +1,12 @@
+One of the various regulations controlling the noradrenergic (NA) locus coeruleus (LC) activity has been proved to be alpha 2 adrenergic specific, on the basis of electrophysiological data obtained in anesthetized preparations.
+To assess, under rigorously chronic conditions, the existence of such an inhibition, recordings of LC catechol metabolic activity were performed with in vivo differential pulse voltammetry.
+A guiding cannula and appropriate wires were implanted under anesthesia.
+After 48 h of recovery a carbon fiber electrode was threaded to the LC through this cannula to monitor the LC catechol oxidation current.
+and yohimbine 10 mg/kg i.p. induced an increase in catechol oxidation current to approximately 300% of baseline (100%) values.
+Graded doses of piperoxane (1-100 mg/kg i.p.) induced a dose dependent increase in LC catechol metabolic activity (ED50 = 29.7 mg/kg).
+These changes in catechol oxidation current were confirmed either by combined electrophysiological and electrochemical recordings in the LC of an anesthetized preparation, or by postmortem HPLC catechol determinations on LC microdissections.
+By contrast, guanfacine 1 mg/kg and clonidine (10-200 micrograms/kg i.p.) induced a dose dependent decrease in catechol peak height.
+Clonidine 50 micrograms/kg reversed the effect of piperoxane 30 mg/kg i.p.
+On the other hand, a highly selective alpha 1 antagonist, such as prazosin (1 mg/kg i.p.), evoked only a small increase in catechol peak (11% above saline effect).
+This data is consistent with previously reported electrophysiological, biochemical and autoradiographic data.
+They confirm the presence of a tonic alpha 2 adrenergic inhibition on NA-LC cell activity, in behaving rats.

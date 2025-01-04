@@ -1,0 +1,16 @@
+The aim of this study was to determine the incidence and genetic diversity of astrovirus (AstV) detected in children hospitalized for gastroenteritis (GE).
+A multi-center, hospital-based surveillance study was conducted across Lebanon to investigate the incidence of AstV among diarrheal hospitalizations.
+Viral RNA was extracted from stool samples collected between 2011 and 2013 from children, below the age of 5years, hospitalized for GE at six medical centers across Lebanon.
+Demographic and clinical data were collected and analyzed.
+RNA of eligible samples (n=739) was screened by two AstV-specific PCR assays followed by genotype-specific PCR.
+Sanger sequencing and phylogenetic analysis were performed for genotypic characterization.
+Overall, 5.5% (41/739) of rotavirus-negative stool samples collected from hospitalized children <5years old tested positive for AstV infection.
+AstV infections were detected all year long.
+Diarrhea, dehydration, vomiting and fever were the most common symptoms associated with AstV infections.
+Children aged 48-59months had the highest incidence of AstV. Using the Vesikari Scoring System to assess clinical severity, 85.4% of children with AstV had a score>11, indicating severe GE.
+Genotype-specific PCR identified 22 classical and 4 MLB-like AstV specimens.
+Further sequencing and phylogenetic analysis of orf1b and orf2 genes revealed that AstV classical 1-3, 5, 6, and 8, MLB-1, VA-1 and -2 genotypes circulated in Lebanon.
+Recombination between classical AstV strains was detected in several cases as evident by the lack of congruency in the tree topologies of the orf1b and orf2.
+Two cases of mixed infections between classical and non-classical genotypic strains were recorded.
+High genetic diversity was detected among AstVs in Lebanon.
+AstVs are associated with 5.5% of non-rotavirus GE-associated hospitalizations in children under five years in Lebanon.

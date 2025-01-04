@@ -1,0 +1,8 @@
+A community development oral health promotion programme based on the principles of the Ottawa Charter was conducted in an attempt to improve the dental health of children under 5 years of age in two severely socioeconomically challenged pilot districts in Glasgow, UK.
+Later phased extension involved all of the area's most deprived communities.
+The aim of the present study was to assess dental health outcomes by secondary analysis of routine caries datasets for Glasgow 5-year-olds over the interval from 1997-1998 to 2003-2004.
+Wilcoxon tests assessed change in d3mft scores and logistic regression was used to analyse binomial scores (e.g. % d3mft = 0).
+[P = 0.010, odds ratio (OR) = 0.25, and P = 0.006, OR = 0.30, respectively, for d3mft > 0].
+Following extension of the programme into all of Glasgow's socioeconomically challenged areas, the mean d3mft values of 5-year-olds reduced in all DepCat 7 communities, and across Glasgow as a whole from 4.9 to 4.1 and from 3.5 to 3.1, respectively, while the proportion with d3mft = 0 increased from 20% to 32% (P < 0.001) and from 34% to 42% (P < 0.001), respectively.
+Dental health improvements were observed in pilot districts and across all DepCat 7 communities following the roll-out of the programme.
+This change was of sufficient magnitude to impact upon area-wide statistics for Glasgow.

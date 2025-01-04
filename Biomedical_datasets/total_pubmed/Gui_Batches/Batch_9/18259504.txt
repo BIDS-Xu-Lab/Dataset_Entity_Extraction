@@ -1,0 +1,6 @@
+The National Institute of Standards and Technology (NIST) has developed a nominally quarter-wave linear retarder for wavelengths near 1.3 mum that is stable within +/-0.1 degrees retardance over a range of wavelength, input angle, temperature, and environmental variations.
+The device consists of two concatenated Fresnel rhombs made from a low stress-optic-coefficient glass that minimizes the residual birefringence from machining and packaging.
+Device machining, assembly, and antireflection coating tolerances are discussed, and the theoretical performance is compared with measurements.
+Humidity can modify retardance of the total-internal-reflection surfaces; we discuss packaging that mitigates this effect and provides an estimated 10-year lifetime for the device.
+Several measurement methods were intercompared to ensure that the device retardance can be measured with an uncertainty less than 0.1 degrees .
+Similar retarders will be certified by NIST and made available as Standard Reference Materials.

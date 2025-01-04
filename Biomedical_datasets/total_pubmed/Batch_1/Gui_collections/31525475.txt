@@ -1,0 +1,8 @@
+Osteosarcoma, a malignant primary bone tumor most commonly diagnosed in children and adolescents, has a poorly understood genetic etiology.
+Genome-wide association studies (GWAS) and candidate-gene analyses have identified putative risk variants in subjects of European ancestry.
+However, despite higher incidence among African-American and Hispanic children, little is known regarding common heritable variation that contributes to osteosarcoma incidence and clinical presentation across racial/ethnic groups.
+In a multi-ethnic sample of non-Hispanic white, Hispanic, African-American and Asian/Pacific Islander children (537 cases, 2165 controls), we performed association analyses assessing previously-reported loci for osteosarcoma risk and metastasis, including meta-analysis across racial/ethnic groups.
+We also assessed a previously described association between genetic predisposition to longer leukocyte telomere length (LTL) and osteosarcoma risk in this independent multi-ethnic dataset.
+In our sample, we were unable to replicate previously-reported loci for osteosarcoma risk or metastasis detected in GWAS of European-ancestry individuals in either ethnicity-stratified analyses or meta-analysis across ethnic groups.
+Our analyses did confirm that genetic predisposition to longer LTL is a risk factor for osteosarcoma (ORmeta: 1.22; 95% CI: 1.09-1.36; P = 3.8 × 10-4), and the strongest effect was seen in Hispanic subjects (OR: 1.32; 95% CI: 1.12-1.54, P = 6.2 × 10-4).
+Our findings shed light on the replicability of osteosarcoma risk loci across ethnicities and motivate further characterization of these genetic factors in diverse clinical cohorts.

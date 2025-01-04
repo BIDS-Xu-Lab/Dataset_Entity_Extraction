@@ -1,0 +1,9 @@
+Non-caseating granulomas may indicate a more aggressive phenotype of Crohn disease (CD).
+Genetic associations of granulomatous CD (GCD) may help elucidate disease pathogenesis.
+Whole-exome sequencing was performed on peripheral blood-derived DNA from 17 pediatric patients with GCD and 19 with non-GCD (NGCD), and from an independent validation cohort of 44 GCD and 19 NGCD cases.
+PLINK (a tool set for whole-genome association and population-based linkage analyses) analysis was used to identify single nucleotide polymorphisms (SNPs) differentiating between groups, and subgroup allele frequencies were also compared to a public genomic database (gnomAD).
+The Combined Annotation Dependent Depletion scoring tool was used to predict deleteriousness of SNPs.
+Human leukocyte antigen (HLA) haplotype findings were compared to a control group (n = 8496).
+PLINK-based analysis between GCD and NGCD groups did not find consistently significant hits.
+gnomAD control comparisons, however, showed consistent subgroup associations with DGKZ , ESRRA , and GXYLT1 , genes that have been implicated in mammalian granulomatous inflammation.
+Our findings may guide future research and precision medicine.

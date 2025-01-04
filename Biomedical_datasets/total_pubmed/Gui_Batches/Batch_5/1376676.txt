@@ -1,0 +1,8 @@
+Reaction times (RTs) of EMG onset of agonist right and left sternocleidomastoid (SCM) and splenius (SPL) muscles in response to acoustic (AC) or unilateral somatosensory (SS) stimulation were measured in normal subjects, during head rotation (to the right or to the left) and flexion.
+No significant difference was present in the AC-RT of SCM muscles of the two sides between rotations or flexion.
+The same was true for the SPL.
+Under the tactile condition, in which the stimulus was delivered to one index finger, the RTs of both agonist muscles were shorter during head rotation toward the stimulus than away from it: the SCM contralateral to the stimulated finger was faster than the ipsilateral SCM, while the reverse was true for the SPL.
+During flexion, the SS-RTs of the SCM of both sides were similar, and similar in turn to the SCM-RT during rotation away from the stimulus.
+When the stimulus was delivered to the shoulder, the RT difference between the agonist SCMs disappeared.
+The delay in the activation of the SCM ipsilateral to the stimulated finger is compatible with the interhemispheric transmission time in the absence of callosal connection between the hand areas of the primary somatosensory cortex.
+The data favour the hypothesis that SCM activation during voluntary head rotation is controlled by the ipsilateral hemisphere.

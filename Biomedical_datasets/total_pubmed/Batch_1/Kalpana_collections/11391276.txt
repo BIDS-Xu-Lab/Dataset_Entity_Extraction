@@ -1,0 +1,19 @@
+Few data are available on nosocomial infections (NIs) in US children's hospitals' neonatal or pediatric intensive care units.
+The Pediatric Prevention Network (PPN) was established to improve characterization of NIs in pediatric patients and to develop and test interventions to decrease NI.
+Fifty participating children's hospitals were surveyed in 1998 to determine NI surveillance methods used and neonatal intensive care unit (NICU) and pediatric intensive care unit (PICU) 1997 NI rates.
+Data were collected on standardized forms and entered and analyzed by using SPSS for Windows.
+children's hospitals returned a completed questionnaire.
+All reported conducting NICU and PICU NI surveillance (range, 2-12; median, 12 months).
+Nineteen children's hospitals provided NICU NI rate data in one or more formats suitable for comparison.
+Denominators used for NICU NI rate calculations varied: 17 reported overall NI by patient-days; 19 reported bloodstream infection (BSI) by central venous catheter (CVC)-days, and 8 reported BSI by patient-days.
+Sixteen (16) children's hospitals reported NICU BSI data stratified by CVC-days and birth-weight cohort, and ventilator-associated pneumonia (VAP) by birth weight cohort was reported by 12.
+Twenty-four children's hospitals reported PICU NI rate data in one or more formats suitable for comparison.
+Denominators used for PICU NI rate calculations also varied: 20 reported overall NI rates by patient-days; 23 reported BSI rates by CVC-days, and 10 reported BSI rates by patient-days; 24 reported VAP by ventilator-days; and 15 reported urinary tract infections (UTIs) by urinary catheter-days.
+Median overall NI rates per 1000 patient days were 8.9 in NICUs and 13.9 in PICUs.
+Median NICU NI device-associated rates by birth weight (>2500 g, 1501-2500 g, 1001-1500 g, and </=1000 g) were BSI 4.4, 4.7, 8.9, and 12.6, and VAP 0.9, 1.1, 4.9, and 3.5, respectively.
+Median PICU NI rates per 1000 device days were 6.5 for BSI; 3.7 for VAP; and 5.4 for UTI.
+The number of months that NICU or PICU NI surveillance was conducted varied among hospitals.
+Reported NICU and PICU NI rates varied by hospital; some reported overall NI rates, and others focused on one or more particular sites of infection (eg, BSI or pneumonia).
+Many did not provide NICU device-associated rates stratified by birth-weight group.
+Denominators used to calculate device-associated infection rates also varied, with hospitals reporting either patient-days or device-days.
+These findings suggest the need to determine reasons for variations and to identify optimal NI surveillance methods at children's hospitals so that valid interhospital NI rate comparisons can be made.

@@ -1,0 +1,7 @@
+Calcium signaling plays a significant role in microglial activation.
+Genetically encoded calcium indicators (GECI) have been widely used for calcium imaging studies in many brain cell types, including neurons, astrocytes, and oligodendrocytes.
+However, microglial calcium imaging approaches have been hampered by idiosyncrasies of their gene expression and malleable cell properties.
+The generation of PC::G5-tdT, a Polr2a locus-based conditional mouse reporter of calcium, facilitated the deployment of GECI in microglia.
+When crossed with the Iba1(Aif1)-IRES-Cre line, all brain microglia of the progeny are labeled with the calcium indicator variant GCaMP5G and the red fluorescent protein tdTomato.
+This reporter system has enabled in vivo studies of intracellular calcium in large microglial cell populations in cerebral pathologies such as ischemic stroke.
+In this chapter, we outline specific guidelines for genetic, surgical, imaging, and data analysis aspects of microglial calcium monitoring of the ischemic cortex following middle cerebral artery occlusion.

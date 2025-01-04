@@ -1,0 +1,9 @@
+The LytR family of cell envelope-associated transcriptional attenuators in bacteria has been brought into focus of scientific interest on the expression of various virulence factors, as well as bacterial cell envelope maintenance.
+However, this protein of Streptococcus pyogenes has been only described as cell surface-associated protein, and its function is completely unknown.
+We created lytR mutant strains from two independent S. pyogenes strains to analyze the function of LytR.
+The protease assay in culture supernatant showed that lytR mutant had the higher cysteine protease activity than wild-type.
+Two-dimensional gel electrophoresis and western blotting analysis revealed that the amount of cysteine protease, SpeB in lytR mutant was more compared with that in wild-type.
+The level of speB mRNA in lytR mutant also increased compared with that of wild-type.
+The membrane integrity and potential in lytR mutant also were decreased compared with that of wild-type.
+Murine infection model showed that less survival was detected in mice inoculated with lytR mutant than that with wild-type, and the size of wound lesion of mice with lytR mutant was larger than that with wild-type.
+Our data suggest that the lytR regulates the expression of SpeB in S. pyogenes with relation to membrane integrity.

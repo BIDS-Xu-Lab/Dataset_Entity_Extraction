@@ -1,0 +1,23 @@
+'Neuroprotection' is a term used to describe the putative effect of interventions protecting the brain from pathological damage.
+In occlusive stroke, the concept of neuroprotection involves inhibition of a cascade of pathological molecular events occurring under ischaemia and leading to calcium influx, activation of free radical reactions and cell death.
+This article will summarize neuroprotection trials to date, some facts and fancies about neuroprotection, ischaemic pathophysiology and possible reasons for the apparent failure of human neuroprotective stroke trials.
+In the acute stage of occlusive stroke, moderate reduction of blood flow results in a 'penumbra' of brain cells, often surrounding a core infarct, in which brain cells survive for a few hours but gradually die if reperfusion is not established.
+Increased knowledge of the complex pathophysiology in acute ischaemic stroke has led to the development of a great number of candidates for neuroprotective interventions.
+Many neuroprotective agents have proven efficacious in animal models, but so far no human study has shown a statistically significant benefit in patients with acute ischaemic stroke on primary endpoint measures.
+Some neuroprotective agents show beneficial effects on post hoc analyses, and some studies are still ongoing.
+In the early years of neuroprotective studies in stroke, it was thought that a drug with almost no adverse effects could be given by ambulance staff on the way to hospital and induce a clinically significant effect on outcome.
+Since there were only benefits and no risks, diagnostic skills by neurologists and neuroradiological evaluations would no longer be required.
+WHY HAVE NEUROPROTECTIVE AGENTS FAILED IN HUMAN STROKE TRIALS?
+There are several possible explanations why neuroprotective trials have been unable to prove an effect in addition to the eventuality that the basic concept is wrong.
+The effects of neuroprotective agents on infarct size are time dependent, and treatment has often been initiated much later than in successful experimental stroke models.
+Insufficient doses of the drugs and slow availability of the drug at the target area may be other explanations.
+Too small sample sizes in trials and imbalance of prognostically important baseline variables are examples of shortcomings in trial methodology.
+IN ANIMAL MODELS, preclinical testing of neuroprotective candidates should be standardized.
+Conventional stroke models with young and healthy animals may be replaced by older animals with common co-morbidity such as atherosclerosis.
+Highly effective new neuroprotective agents need to be discovered, and combination therapies should be tried.
+IN CLINICAL TRIALS, the greatest chances of success may be with neuroprotective concepts involving mechanisms in both ischaemic and reperfusion pathophysiology, in combination with a thrombolytic therapy protocol.
+Neuroprotective agents, possibly combinations of agents, should preferably approach several of these mechanisms.
+Treatments should be initiated early, at least within 3 h after stroke onset, by an intravenous route.
+The selected compound(s) should easily pass the blood-brain barrier.
+Neuroprotective agents shown to be highly effective in stroke models should be preferred, and doses used experimentally should be used also in the clinical setting.
+Trials should use randomization techniques, which reduce imbalances of prognostically important baseline variables, and the estimated sample size of a trial should be based on expectations of a modest clinical effect.

@@ -1,0 +1,12 @@
+Carbon sources are considered as critical input for the health and immunity of aquatic animals.
+The present study investigated the impact of different carbon sources on water quality parameters, carbon to nitrogen (C/N) ratio and microbial community in sediments, and health responses of marron (Cherax cainii) under laboratory conditions.
+Following one week of acclimation, 120 marron were randomly assigned to 12 experimental tanks.
+There were four treatments including one untreated control and three groups with carbon addition to maintain a C/N ratio of 12 maintained in culture water.
+Carbon supplementation groups included corn flour (CBC12), molasses (MBC12) and wheat flour (WBC12).
+At the end of the 60-day trial, MBC12 resulted in the highest sediment C/N ratio, followed by CBC12. Weight gain and specific growth rate were higher in MBC12, compared to control.
+The protease activity in marron hepatopancreas, total haemocyte count and lysozyme activity in haemolymph were highest in MBC12.
+Analysis of 16S rRNA sequence data of tank sediments revealed increased bacterial alpha diversity in MBC12 and WBC12.
+Proteobacteria was the most abundant phylum in MBC12 (88.6%), followed by control (82.4%) and CBC12 (72.8%).
+Sphingobium and Novosphingobium were the most abundant genera in control and MBC12 groups, respectively.
+Higher Aeromonas abundance in CBC12 and Flavobacterium in WBC12 were observed.
+Overall results indicated that MBC12 led to improved water quality, retaining high C/N ratio and enriched the bacterial populations in sediments resulting in improved growth and immune performance of marron.

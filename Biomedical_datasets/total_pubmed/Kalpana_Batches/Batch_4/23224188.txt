@@ -1,0 +1,9 @@
+Corneal birefringence is a well-known confounding factor with all polarization-sensitive technology used for retinal scanning and other intraocular assessment.
+It has been studied extensively in adults, but little is known regarding age-related differences.
+Specifically, no information is available concerning corneal birefringence in children.
+For applications that are geared towards children, such as retinal birefringence scanning for strabismus screening purposes, it is important to know the expected range of both corneal retardance and azimuth in pediatric populations.
+This study investigated central corneal birefringence in children (ages three and above), by means of scanning laser polarimetry (GDx-VCC™, Carl Zeiss Meditec, Inc.).
+Children's measures of corneal retardance and azimuth were compared with those obtained in adults.
+As with previous studies in adults, corneal birefringence was found to vary widely in children, with corneal retardance ranging from 10 to 77 nm, and azimuth (slow axis) ranging from -11° to 71° (measured nasally downward).
+No significant differences in central corneal birefringence were found between children and adults, nor were significant age-related differences found in general.
+In conclusion, establishing knowledge of the polarization properties of the central cornea in children allows better understanding, exploitation, or bypassing of these effects in new polarization-sensitive pediatric ophthalmic applications.

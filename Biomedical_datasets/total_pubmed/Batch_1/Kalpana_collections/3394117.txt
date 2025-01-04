@@ -1,0 +1,5 @@
+Together with a mechanism such as activation of the coagulation system, vascular smooth muscle contraction and the activation of blood platelets are important processes in the hemostasis.
+Various calcium channel blockers besides those found to be vasodilators (1) have been shown to influence the functioning of blood platelets (2).
+They inhibit the aggregation induced by ADP, adrenaline, arachidonic acid or collagen (3).
+From these data it has been suggested that significant differences exist in the ability of calcium channel blockers to inhibit aggregatory responses (4).
+In order to elucidate further the possible role of calcium channel blockers in hemostasis we analyzed the effect of verapamil, diltiazem and nifedipine on the bleeding time, the amount of initial blood loss, platelet aggregation and some coagulation parameters in rats.

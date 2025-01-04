@@ -1,0 +1,5 @@
+monocot and dicot species of herbaceous plants from 20 angiosperm families.
+the data on haploid DNA content (C(val)) for the same species from the website (http://data.kew.org/cvalues).
+The distribution range of lm, le, and C(val) was wider in monocot plants compared to dicots.
+in monocot and lm in dicot species correlated positively with C(val).
+in diploid and polyploid species, both monocots and dicots.

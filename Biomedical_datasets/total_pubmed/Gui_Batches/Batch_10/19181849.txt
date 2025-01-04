@@ -1,0 +1,6 @@
+The denatured state of proteins is heterogeneous and susceptible to general hydrophobic and electrostatic forces, but to what extent does the funneled nature of protein energy landscapes play a role in the unfolded ensemble?
+We simulate the denatured ensemble of cytochrome c using a series of models.
+The models pinpoint the efficacy of incorporating energetic funnels toward the native state in contrast with models having no native structure-seeking tendency.
+These models also contain varying strengths of electrostatic effects and hydrophobic collapse.
+The simulations based on these models are compared with experimental distributions for the distances between a fluorescent donor and the heme acceptor that were extracted from time-resolved fluorescence energy transfer experiments on cytochrome c.
+Comparing simulations to detailed experimental data on several labeling sites allows us to quantify the dominant forces in denatured protein ensembles.

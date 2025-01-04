@@ -1,0 +1,10 @@
+Triflumuron (TFM) is a benzoylurea insecticide commonly used in Tunisian agriculture and around the world to control crop pests and flies as a promising alternative to conventional insecticides for its arthropod specificity and low toxicity.
+From the evidence available in animal models, it can be expected that the metabolism of TFM is catalyzed by cytochrome P450 (CYP) and esterases.
+However, no data are available on human metabolism of TFM with regards to phase I metabolism and CYP isoform specificity.
+Hence, this manuscript describes experimental investigations to underpin in vitro phase I TFM metabolism in human samples for the first time.
+TFM biotransformation by recombinant human CYPs was characterized, then human liver microsomes (HLM) and chemical specific inhibitors have been used to identify the relative contribution of CYPs and esterases.
+Our results showed that all CYP isoforms were able to metabolize TFM with different affinity and efficiency.
+The relative contribution based both on the kinetic parameters and the CYP hepatic content was 3A4 > >2C9 > 2C8 > 2A6 > 1A2 > 2B6 > 2D6 > 2C19 > 2C18 > 1A1 at low TFM concentration, whilst at high TFM concentration it was 1A2 > >2C9 = 3A4 = 2A6 > 2C19 > 2B6 = 2C8 > 2D6 > 1A1 > 2C18.
+Experiments with HLMs confirmed the involvement of the most relevant CYPs in the presence of specific chemical inhibitors with a catalytic efficiency (Cliapp) lower by an order of magnitude compared with recombinant enzymes.
+Esterases were also relevant to the overall TFM kinetics and metabolism, with catalytic efficiency higher than that of CYPs.
+It is foreseen that such isoform-specific information in humans will further support in silico models for the refinement of the human risk assessment of single pesticides or mixtures.

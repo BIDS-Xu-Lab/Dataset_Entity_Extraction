@@ -1,0 +1,10 @@
+The Prostate Imaging Reporting and Data System (PI-RADS) version 2 (v2) categorizes the likelihood of clinically significant prostate cancer on magnetic resonance imaging and determines the diagnostic pathway.
+We determined clinically significant prostate cancer and all prostate cancer detection rates in each PI-RADS v2 category.
+MEDLINE®, EMBASE® and Cochrane databases were searched for prospective studies reporting the detection rates of clinically significant prostate cancer or all prostate cancer.
+Random effects models were used to determine pooled detection rates of clinically significant prostate cancer and all prostate cancer for each PI-RADS category.
+The risk of bias was assessed with the Quality Assessment of Diagnostic Accuracy Studies-2.
+Meta-regression analysis was performed to identify factors affecting study heterogeneity.
+Thirteen prospective studies including 4,265 men who underwent magnetic resonance imaging targeted biopsy and/or systematic biopsy for a PI-RADS v2 category 3 or greater, or systematic biopsy for PI-RADS 1-2 were included.
+The pooled detection rates of clinically significant prostate cancer monotonically increased for each PI-RADS v2 category, ie 4% (95% CI 2-8) for category 1-2, 17% (95% CI 13-21) for category 3, 46% (95% CI 38-55) for category 4 and 75% (95% CI 73-78) for category 5.
+Substantial study heterogeneity was noted in clinically significant prostate cancer detection rates for categories 1-2 and 4, which were significantly affected by study subject selection (biopsy naïve patients only or not) and studies with a high risk of bias.
+PI-RADS v2 can be useful for the stratification of the risk of clinically significant prostate cancer in patients at risk for prostate cancer but the limitations in category 4 still remain.

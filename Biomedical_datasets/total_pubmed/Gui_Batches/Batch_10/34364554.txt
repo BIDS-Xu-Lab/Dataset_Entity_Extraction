@@ -1,0 +1,6 @@
+There are many genetic differences between Australian wild rices (AWRs) and domesticated rices (DRs), causing differences in starch molecular structure and starch-related functional properties; these are examined here for polished AWRs and polished DRs.
+Starch structural parameters for amylopectin and amylose were obtained using size-exclusion chromatography, with and without enzymatic debranching.
+Thermal properties of starch, in-vitro digestibility and texture of three AWRs were measured and compared to those of typical DRs.
+The results showed that AWR starches had (a) higher amylose content than most DRs, resulting in a higher gelatinization temperature, (b) fewer amylopectin short chains, causing a higher gelatinization enthalpy, and (c) more amylose shorter chains and more amylopectin longer chains, both causing a slower in-vitro digestion rate.
+The textural characteristics of AWRs are not significantly different from those of DRs.
+These findings suggest that AWRs are a potential source of nutritionally-desirable but palatable slowly-digestible starch.

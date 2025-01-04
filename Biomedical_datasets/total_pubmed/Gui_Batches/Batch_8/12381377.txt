@@ -1,0 +1,7 @@
+We previously observed that Antarctic fish genes contain intron sequences of high A+T content (60-70% average A+T) which are in stark contrast with adjacent protein coding-sequences.
+Here, we report that this disparity in intron/exon base composition is a common feature among teleosts.
+We analyzed 483 teleost genomic DNA sequences, containing 2583 introns, from 80 teleost genera that populate polar, temperate, or tropical habitats.
+Eighty-nine percent of teleost introns display an A+T content between 50-84% A+T with a mean of 60% A+T. In contrast, only 37% of teleost exons have an A+T content greater-than 50% with a mean of 48% A+T. A comparison to homologous mammalian genes showed a striking difference; in this case, introns and exons have similar base compositions, averaging 45-47% A+T.
+This indicates that most teleost genes exhibit a large difference in base composition between their introns and exons.
+There was no correlation of teleost intron A+T content to intron length or habitat temperature range.
+Thus, teleost intron sequences tend to show the common feature of being much higher in A+T content then neighboring exons.

@@ -1,0 +1,8 @@
+The performance and durability of proton exchange fuel cells (PEMFCs) are greatly affected by the bipolar plate (BP).
+In this paper, the thermal and electrical conductivities and mechanical property of graphite filled with resin composite BPs were collectively enhanced through the effectively coupled manipulations of molding pressure and impregnation pressure.
+The microstructures show that the resin tends to distribute at the top region of the rib under high impregnation pressure.
+The thermal and electrical conductivities of the pure expanded graphite BP is well reserved in the composite BPs under high molding pressure, which can facilitate the heat transfer and electron conduction in the PEMFCs.
+The relative density and compressive strength of composite BPs were greatly enhanced by the impregnation of resin compared to the expanded graphite under high molding pressure without the impregnation of resin (HU-BP).
+The maximum thermal conductivity, compressive strength, and minimum interfacial contact resistance (ICR) are collectively achieved in the HL-BP.
+The enhanced thermal-electrical and mechanical properties could be mainly attributed to the well-reserved continuous networks of graphite in the composite BPs.
+The findings in this paper are expected to synergetically improve the thermal, electrical, and mechanical properties of composite BPs through coupled manipulations of the molding and impregnation pressures, which in turn enhances the power density and durability of PEMFCs.

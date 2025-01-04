@@ -1,0 +1,5 @@
+Stem cell factor (SCF) is a hematopoietic growth factor that interacts with the receptor tyrosine kinase, c-kit.
+We have found that SCF-stimulates rapid and transient tyrosine phosphorylation of JAK2 in human and murine cell lines, as well as in normal human progenitor cells.
+JAK2 and c-kit were associated in unstimulated cells with further recruitment of JAK2 to the c-kit receptor complex after SCF stimulation.
+Treatment of cells with JAK2 antisense oligonucleotides resulted in a 46% decrease in SCF-induced proliferation.
+These data demonstrate that SCF induces tyrosine phosphorylation of JAK2 and suggest that JAK2 is a component of the SCF signal transduction pathway.

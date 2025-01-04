@@ -1,0 +1,8 @@
+To determine the proportion of children with cerebral palsy (CP) and cytomegalovirus (CMV) DNA detected retrospectively in their newborn screening cards (NBSC), to compare the proportion of children with CMV DNA in their NBSC across spastic subtypes of CP, and to compare the sex and other characteristics of children with CP and CMV detected on their NSBC with those in whom CMV DNA was not detected.
+Data were extracted from patient records on children with CP (birth years 1996-2014) from 2 Australian state CP registers and state-wide paediatric rehabilitation services with consent.
+NBSCs were retrospectively analyzed for CMV DNA by nested polymerase chain reaction (PCR) using primers against gB. Positive samples were validated using real time PCR for CMV UL83.
+Of 401 children recruited, 323 (80.5%)
+Of these, 31 (9.6%; 95% CI, 6.8-13.3) tested positive for CMV DNA by nested PCR for CMV gB, of whom 28 (8.7%; 95% CI, 6.1-12.2) also had CMV DNA detected by real-time PCR for CMV UL83.
+Detection of CMV DNA was significantly associated with epilepsy, but not with clinical or epidemiologic characteristics, including sex and pattern of spasticity.
+CMV viremia in the newborn period, indicating congenital CMV infection, is highly prevalent among children with CP.
+Further research is needed to investigate the mechanisms and contribution of congenital CMV to the causal pathways to CP.

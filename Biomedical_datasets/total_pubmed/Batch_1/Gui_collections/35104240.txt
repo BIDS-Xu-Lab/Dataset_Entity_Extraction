@@ -1,0 +1,7 @@
+Immune checkpoint blockade (ICB) therapy has shifted the paradigm for cancer treatment.
+However, the majority of patients lack effective responses because of the emergence of immune-refractory tumors that disrupt the amplification of antitumor immunity.
+Therefore, the identification of clinically available targets that restrict antitumor immunity is required to develop potential combination therapies.
+Here, using transcriptomic data on patients with cancer treated with programmed cell death protein 1 (PD-1) therapy and newly established mouse preclinical anti-PD-1 therapy-refractory models, we identified NANOG as a factor restricting the amplification of the antitumor immunity cycle, thereby contributing to the immune-refractory feature of the tumor microenvironment (TME).
+Mechanistically, NANOG induced insufficient T cell infiltration and resistance to CTL-mediated killing via the histone deacetylase 1-dependent (HDAC1-dependent) regulation of CXCL10 and MCL1, respectively.
+Importantly, HDAC1 inhibition using an actionable agent sensitized NANOGhi immune-refractory tumors to PD-1 blockade by reinvigorating the antitumor immunity cycle.
+Thus, our findings implicate the NANOG/HDAC1 axis as a central molecular target for controlling immune-refractory tumors and provide a rationale for combining HDAC inhibitors to reverse the refractoriness of tumors to ICB therapy.

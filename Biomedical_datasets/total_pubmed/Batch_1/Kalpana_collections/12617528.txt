@@ -1,0 +1,7 @@
+We developed a new algorithm that estimates locations and sizes of anomalies in electrically conducting medium based on electrical impedance tomography (EIT) technique.
+When only the boundary current and voltage measurements are available, it is not practically feasible to reconstruct accurate high-resolution cross-sectional conductivity or resistivity images of a subject.
+In this paper, we focus our attention on the estimation of locations and sizes of anomalies with different conductivity values compared with the background tissues.
+We showed the performance of the algorithm from experimental results using a 32-channel EIT system and saline phantom.
+With about 1.73% measurement error in boundary current-voltage data, we found that the minimal size (area) of the detectable anomaly is about 0.72% of the size (area) of the phantom.
+Potential applications include the monitoring of impedance related physiological events and bubble detection in two-phase flow.
+Since this new algorithm requires neither any forward solver nor time-consuming minimization process, it is fast enough for various real-time applications in medicine and nondestructive testing.

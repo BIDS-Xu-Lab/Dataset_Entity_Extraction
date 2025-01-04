@@ -1,0 +1,7 @@
+Mycobacterium abscessus is a human pathogen that is responsible for a broad spectrum of tissue infections and disseminated infections in immunodeficient patients.
+This pathogen is one of the most resistant organisms to chemotherapeutic agents.
+Therefore, we tested the hypothesis that the fruit fly, Drosophila melanogaster, is a genetically tractable model host for M. abscessus.
+In this context, we infected D. melanogaster with M. abscessus.
+This M. abscessus infection results in dissemination in the fly body, followed by death, which is accompanied by severe indirect flight muscle and brain damage.
+Our data show that M. abscessus can grow and replicate in D. melanogaster w(1118) and that it elicited a humoral immune response, especially of the Toll antimicrobial peptide pathway.
+To the best of our knowledge, this is the first report that mycobacteria induce the production of antimicrobial peptides in D. melanogaster.

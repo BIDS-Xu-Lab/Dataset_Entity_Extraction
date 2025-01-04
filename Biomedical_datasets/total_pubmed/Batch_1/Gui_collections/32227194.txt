@@ -1,0 +1,12 @@
+Epistasis reflects the distortion on a particular trait or phenotype resulting from the combinatorial effect of two or more genes or genetic variants.
+Epistasis is an important genetic foundation underlying quantitative traits in many organisms as well as in complex human diseases.
+However, there are two major barriers in identifying epistasis using large genomic datasets.
+One is that epistasis analysis will induce over-fitting of an over-saturated model with the high-dimensionality of a genomic dataset.
+Therefore, the problem of identifying epistasis demands efficient statistical methods.
+The second barrier comes from the intensive computing time for epistasis analysis, even when the appropriate model and data are specified.
+In this study, we combine statistical techniques and computational techniques to scale up epistasis analysis using Empirical Bayesian Elastic Net (EBEN) models.
+Specifically, we first apply a matrix manipulation strategy for pre-computing the correlation matrix and pre-filter to narrow down the search space for epistasis analysis.
+We then develop a parallelized approach to further accelerate the modeling process.
+Our experiments on synthetic and empirical genomic data demonstrate that our parallelized methods offer tens of fold speed up in comparison with the classical EBEN method which runs in a sequential manner.
+We applied our parallelized approach to a yeast dataset, and we were able to identify both main and epistatic effects of genetic variants associated with traits such as fitness.
+The software is available at github.com/shilab/parEBEN.

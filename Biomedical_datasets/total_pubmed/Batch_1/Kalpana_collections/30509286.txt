@@ -1,0 +1,11 @@
+Throughout the world, emergency departments (ED) are characterized by overcrowding and excessive waiting times.
+Furthermore, the related delays significantly increase patient mortality and make inefficient use of resources to the detriment of the satisfaction of employees and patients.
+In this work, lean thinking is applied to the ED of Cardarelli Hospital of Naples with the aim of increasing patient flow, improving the processes that contribute to facilitating the flow of patients through the various stages of medical treatment and eliminating all bottlenecks (queue) as well as all activities that generate waste.
+This project was performed at National Hospital A.O.R.N. A. Cardarelli of Naples.
+The historical times of access to the ED were analysed from January 2015 to June 2015, for a total of 16,563 records.
+Subsequently, starting in November 2015, corrective actions were implemented according to the Lean Approach.
+Data collected after the introduced improvements were collected from April 2016 to June 2016 and compared to those collected during the starting period.
+The results acquired before application of the Lean Thinking strategy illustrated the as-is process with its drawbacks.
+An analysis of the non-added value activities was performed to identify the procedures that need to be improved.
+After implementation of the corrective actions, we observed a positive increase in the performance of the ED, quantified as percentages of hospitalized patients according to triage codes and waiting times.
+This work demonstrates the applicability of Lean Thinking to ED processes and its effectiveness in terms of increasing the efficiency of services and reducing waste (waiting times).

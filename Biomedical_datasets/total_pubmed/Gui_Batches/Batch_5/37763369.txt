@@ -1,0 +1,9 @@
+Medical shielding suits must be lightweight and satisfy the requirements of thin films to guarantee user mobility and safety.
+The thin film weight is related to the density and thickness, which are associated with the particle dispersion in shielding materials.
+An even distribution of metal particles in a polymer can maintain the spacing among them.
+This paper proposes a pencil beam spray-coating method that involves spraying a constant amount of a polyethylene and tungsten mixture in a thin beam onto a nonwoven fabric at a constant speed.
+This technique yields higher productivity than does the electrospinning method and is expected to produce materials with better shielding performance than that of materials obtained using the calender method.
+The shielding performance was evaluated by manufacturing shielding sheets (thickness: 0.48-0.54 mm) using the calender and pencil beam spray-coating methods under the same conditions.
+The densities and performances of the sheets differed significantly.
+The sheet manufactured using the proposed method had an even particle dispersion and exhibited 2-4% better shielding performance than did that manufactured using the calender method.
+Therefore, the pencil beam spray-coating method can effectively satisfy the requirements of thin films for medical radiation-shielding materials while increasing the material flexibility.

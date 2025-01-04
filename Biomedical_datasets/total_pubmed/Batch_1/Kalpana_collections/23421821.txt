@@ -1,0 +1,9 @@
+The human ERBB2 gene is frequently amplified in breast tumors, and its high expression is associated with poor prognosis.
+We previously reported a significant inverse correlation between Myc promoter-binding protein-1 (MBP-1) and ERBB2 expression in primary breast invasive ductal carcinoma (IDC).
+MBP-1 is a transcriptional repressor of the c-MYC gene that acts by binding to the P2 promoter; only one other direct target of MBP-1, the COX2 gene, has been identified so far.
+To gain new insights into the functional relationship linking MBP-1 and ERBB2 in breast cancer, we have investigated the effects of MBP-1 expression on endogenous ERBB2 transcript and protein levels, as well as on transcription promoter activity, by transient-transfection of SKBr3 cells.
+Reporter gene and chromatin immunoprecipitation assays were used to dissect the ERBB2 promoter and identify functional MBP-1 target sequences.
+We also investigated the relative expression of MBP-1 and HDAC1 in IDC and normal breast tissues by immunoblot analysis and immunohistochemistry.
+Transfection experiments and chromatin immunoprecipitation assays in SKBr3 cells indicated that MBP-1 negatively regulates the ERBB2 gene by binding to a genomic region between nucleotide -514 and -262 of the proximal promoter; consistent with this, a concomitant recruitment of HDAC1 and loss of acetylated histone H4 was observed.
+In addition, we found high expression of MBP-1 and HDAC1 in normal tissues and a statistically significant inverse correlation with ErbB2 expression in the paired tumor samples.
+Altogether, our in vitro and in vivo data indicate that the ERBB2 gene is a novel MBP-1 target, and immunohistochemistry analysis of primary tumors suggests that the concomitant high expression of MBP-1 and HDAC1 may be considered a diagnostic marker of cancer progression for breast IDC.

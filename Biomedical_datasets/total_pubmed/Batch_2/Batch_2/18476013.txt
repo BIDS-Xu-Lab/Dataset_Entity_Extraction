@@ -1,0 +1,3 @@
+Co(II) and Ni(II) complexes Schiff base, N-(2-thienylmethylene)-2-aminothiadiazole have been prepared and characterized by their physical, spectral and analytical data.
+The title Schiff-base acts as NNS donor tridentate during the complexation reaction with these metal ions having a composition, [M(L)(2)]X(n) where M=Co(II) or Ni(II), L=, X=NO(3) (-), SO(4) (2-), C(2)O(4) (2-) or CH(3)CO(2) (-) and n=1 or 2 and show an octahedral geometry.
+In order to evaluate the effect anions upon chelation, the Schiff-base and its new complexes have been screened for their antibacterial activity against bacterial strains e.g., Escherichia coli, Staphylococcus aureus, and Pseudomonas aeruginosa.

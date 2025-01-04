@@ -1,0 +1,11 @@
+Quality control (QC) procedures using stable control materials are important for preventing systematic errors (SEs).
+While the current QC methods assess QC results semi-quantitatively, we designed a novel quantitative QC procedure (QQCP).
+QC results were expressed as Z-scores to analyze results quantitatively.
+The decision values were accumulated up to 30, with three decision values per run, and were compared to rejection criteria at each run.
+The probability for false rejection (Pfr) and error detection (Ped) for the QQCP and Westgard multirule methods were estimated using simulated QC data with SEs ranging from 0 to 3 standard deviations (SDs).
+The Pfr of the QQCP was 3.4% at the 10th run.
+When 2 QC materials with the same SEs (0.5 SD and 1.0 SD) were used, the Peds were 36.1% and 95.7% at run 10, respectively.
+When the SE of each material was greater than 1.5 SDs, the Ped reached 100% at run 10.
+The QQCP could detect more than 99% of errors in the 6th, 4th, 3rd, and 2nd runs for 2 QC results with 1.5, 2.0, 2.5, and 3.0 SD SEs, respectively.
+The QQCP exhibited a Ped value up to 3.3-fold higher than the Westgard method.
+Implementation of the QQCP would satisfy the high quality goals derived from biological variations.

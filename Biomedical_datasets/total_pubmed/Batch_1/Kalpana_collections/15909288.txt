@@ -1,0 +1,5 @@
+This paper is motivated by the work of Albert et al. who consider lesion count data observed on multiple sclerosis patients, and develop models for each patient's data individually.
+From a medical perspective, adequate models for such data are important both for describing the behaviour of lesions over time, and for designing efficient clinical trials.
+In this paper, we discuss some issues surrounding the hidden Markov model proposed by these authors.
+We describe an efficient estimation method and propose some extensions to the original model.
+Our examples illustrate the need for models which describe all patients' data simultaneously, while allowing for inter-patient heterogeneity.

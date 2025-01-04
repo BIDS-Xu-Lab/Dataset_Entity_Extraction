@@ -1,0 +1,10 @@
+To construct a eukaryotic expression vector for the human gene S-phase kinase-associated protein 2 (Skp2) with a FLAG tag (pcDNA3-FLAG-Skp2) and detect the effect of Skp2 over-expression on the cell growth and cell cycle in MCF-7 breast cancer cells.
+Skp2 was amplified from MDA-MB-231 breast cancer cells by reverse-transcription polymerase chain reaction (RT-PCR) and then used to construct the eukaryotic expression vector pcDNA3-FLAG-Skp2.
+Integration of Skp2 into the vector was confirmed via restriction digest and sequencing; The pcDNA3-FLAG-Skp2 was then transfected into MCF-7 breast cancer cells.
+Expression of Skp2 protein was verified by Western blotting.
+Cell growth was assessed by Alamar blue proliferation assay, cell cycle analysis was carried out by flow cytometry.
+The PCR amplified fragment was matched up with the anticipated result and its sequence was the same as the data published on GenBank, indicating that the recombinant plasmid pcDNA3-FLAG-Skp2 was constructed successfully.
+Western blotting revealed that the expression of Skp2 protein was markedly up-regulated in the pcDNA3-FLAG-Skp2 transfected MCF-7 cells at 48 hours.
+Furthermore, cell growth was significantly promoted in Skp2 over-expressed MCF-7 cells, and the cell count in S phase were also raised.
+The recombinant eukaryotic expression vector pcDNA3-FLAG-Skp2 has been constructed and expressed in MCF-7 breast cancer cells successfully.
+Over-expression of Skp2 resulted in the increased cell growth and number of S phase cells in Skp2 transfected MCF-7 cells.

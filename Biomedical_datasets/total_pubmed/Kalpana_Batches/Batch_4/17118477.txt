@@ -1,0 +1,7 @@
+This study was performed to compare the prevalence of the metabolic syndrome according to the International Diabetes Federation (IDF) and National Cholesterol Education Program (NCEP) definitions, and abdominal obesity criteria of WHO and the Korean Society for the Study of Obesity (KSSO) in Korean adults.
+A total of 4452 adults aged > or =20 years from the Korean National Health and Nutrition Examination Survey 2001 were analyzed.
+The prevalence of the metabolic syndrome estimated by NCEP definition with WHO criteria, NCEP with KSSO, IDF with WHO, and IDF with KSSO were 26.7%, 23.7%, 23.8% and 17.5%, respectively.
+The agreement percent among the four definitions ranged from 88.7% to 100% in men, and from 85.6% to 94.9% in women.
+The NCEP-defined metabolic syndrome was more strongly associated with hypertension and diabetes than the IDF-defined metabolic syndrome (age-adjusted odds ratio: 5.1 versus 3.6 for hypertension and 6.4 versus 3.2 for diabetes in men, respectively; 5.4 versus 3.4-4.3 for hypertension and 11.1 versus 3.8-4.2 for diabetes in women, respectively).
+Both definitions of the metabolic syndrome were associated with coronary heart disease or stroke only in women.
+Prospective studies are warranted to evaluate the predictive ability of the new definition of the metabolic syndrome and the new criteria of abdominal obesity for cardiovascular morbidity and mortality in Korean adults.

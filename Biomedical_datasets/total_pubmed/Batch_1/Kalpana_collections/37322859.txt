@@ -1,0 +1,14 @@
+Perceptual narrowing of speech perception supposes that young infants can discriminate most speech sounds early in life.
+During the second half of the first year, infants' phonetic sensitivity is attuned to their native phonology.
+However, supporting evidence for this pattern comes primarily from learners from a limited number of regions and languages.
+Very little evidence has accumulated on infants learning languages spoken in Asia, which accounts for most of the world's population.
+The present study examined the developmental trajectory of Korean-learning infants' sensitivity to a native stop contrast during the first year of life.
+The Korean language utilizes unusual voiceless three-way stop categories, requiring target categories to be derived from tight phonetic space.
+Further, two of these categories-lenis and aspirated-have undergone a diachronic change in recent decades as the primary acoustic cue for distinction has shifted among modern speakers.
+Consequently, the input distributions of these categories are mixed across speakers and speech styles, requiring learners to build flexible representations of target categories along these variations.
+The results showed that among the three age groups-4-6 months, 7-9 months, and 10-12 months-we tested, only 10-12-month-olds showed weak sensitivity to the two categories, suggesting that robust discrimination is not in place by the end of the first year.
+The study adds scarcely represented data, lending additional support for the lack of early sensitivity and prolonged emergence of native phonology that are inconsistent with learners of predominant studies and calls for more diverse samples to verify the generality of the typical perceptual narrowing pattern.
+We investigated Korean-learning infants' developmental trajectory of native phoneme categories and whether they show the typical perceptual narrowing pattern.
+Robust discrimination did not appear until 12 months, suggesting that Korean infants' native phonology is not stabilized by the end of the first year.
+The prolonged emergence of sensitivity could be due to restricted phonetic space and input variations but suggests the possibility of a different developmental trajectory.
+The current study contributes scarcely represented Korean-learning infants' phonetic discrimination data to the speech development field.

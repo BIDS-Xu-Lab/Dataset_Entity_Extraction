@@ -1,0 +1,8 @@
+We test this longstanding hypothesis in a behavioral experiment that extends the scope of previous research.
+In our Saving a Life paradigm, every participant either saved one human life in expectation by triggering a targeted donation of 350 euros or received an amount of 100 euros.
+Using a choice paradigm between two binary lotteries with different chances of saving a life, we observed subjects' intentions at the same time as creating random variation in prosocial outcomes.
+We repeatedly measured happiness at various delays.
+Our data weakly replicate the positive effect identified in previous research but only for the very short run.
+One month later, the sign of the effect reversed, and prosocial behavior led to significantly lower happiness than obtaining the money.
+Notably, even those subjects who chose prosocially were ultimately happier if they ended up getting the money for themselves.
+Our findings revealed a more nuanced causal relationship than previously suggested, providing an explanation for the apparent absence of universal prosocial behavior.

@@ -1,0 +1,7 @@
+Persistent luminescent nanomaterials (PLNPs) Zn0.8Ga2O4: Cr3+, Zr3+ with high brightness and good dispersion were prepared by hydrothermal method.
+The PLNPs were used as luminescent units, and CoOOH nanosheets were used as quenching agents.
+Based on the fluorescence internal filtering effect, the luminescence of PLNPs were effectively quenched by CoOOH modification on the surface of PLNPs.
+However, the introduction of ascorbic acid (AA) restored the luminescence of PLNPs and successfully achieved highly sensitive and selective detection of AA.
+This was due to a selective redox reaction between CoOOH and AA, in which CoOOH was reduced to Co2+.
+The degree of luminescence recovery of PLNPs showed a good linear relationship with AA concentration in the range 5-250 µM, with a detection limit of 0.72 µM. The recovery of actual spiked samples were 97.9-102.2%.
+This method is expected to provide reference for the study of other redox substances in biological systems.

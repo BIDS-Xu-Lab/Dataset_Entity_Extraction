@@ -1,0 +1,10 @@
+Whole genome duplications (WGDs) are one of the most dramatic mutations that can be found in nature.
+The effects of WGD vary dramatically but can have profound impacts on an organism's expression, cytotype, and phenotype, altering their evolutionary trajectory as a result.
+Despite the growing appreciation for the contribution of WGDs in animal evolution, the significant factors influencing how polyploid animal lineages are established and maintained are still not well understood.
+Many hypotheses have been proposed which predict how climate and environment may influence polyploid incidence and evolution.
+To test and distinguish between these hypotheses, I assembled a global dataset of polyploid occurrences in three animal clades (Amphibia, Actinopterygii, and Insecta).
+The dataset encompasses chromosomal, phylogenetic, environmental, and climatic data across 57,905 species in 2,223 terrestrial, freshwater, and marine ecoregions.
+My analysis reveals a strong latitudinal gradient in all three clades, with the tendency for polyploid taxa to occur more frequently at higher latitudes.
+Many variables were significant (phylogenetic ANOVA P < 0.05 after Bonferroni correction) between polyploids and diploids across taxa, notably those pertaining to temperature dynamics and glaciation.
+Glaciation in particular appears to be the most significant driver of polyploidy in animals, as these models had the highest relative likelihoods consistently across clades.
+These results contribute to a model of evolution wherein the broader genomic toolkit of polyploids facilitates adaptation and ecological resilience, enabling polyploids to colonize new or rapidly changing environments.

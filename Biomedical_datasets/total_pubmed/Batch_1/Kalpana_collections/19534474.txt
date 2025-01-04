@@ -1,0 +1,6 @@
+This study reports the isolation of nine new terpenoids (2-10), possessing two novel skeletons, from the Red Sea sponge Callyspongia (=Siphonochalina) siphonella.
+The identity of these novel skeletons was based on X-ray crystallography and extensive spectral analyses.
+These compounds were evaluated for their ability to reverse P-glycoprotein (P-gp)-mediated multidrug resistance in human epidermoid cancer cells.
+Sipholenone E (3) was better than sipholenol A (1), a known P-gp modulator from this sponge, in reversing the P-gp-mediated multidrug resistance.
+Sipholenol L (6) and siphonellinol D (8) were nearly as active as sipholenol A. On the basis of X-ray crystallographic data and the established identity of 3-7, the structure of sipholenol I (11) is revised.
+A pharmacophore model of three hydrophobic points and two H-bond acceptors was generated for the active sipholane P-gp modulators.

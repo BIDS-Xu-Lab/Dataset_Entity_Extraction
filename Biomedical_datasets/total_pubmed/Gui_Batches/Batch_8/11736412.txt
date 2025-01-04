@@ -1,0 +1,4 @@
+The surface temperature dependence of activated inelastic scattering and dissociation of D2 from the Cu(111) surface has been computed using quantum wave-packet methods.
+It is found, in agreement with experimental data, that the surface temperature dependence generally has an Arrhenius form with an activation energy dependent on molecular translational energy and on the initial and final internal molecular states.
+The translational energy dependence of the activation energy is linear up to the threshold energy, with an abrupt change thereafter.
+On the basis of the wave-packet calculations, a model has been developed to explain these findings and highlight their general nature.

@@ -1,0 +1,8 @@
+Recently developed bioinspired robots imitate their live counterparts in both aspect and functionality.
+Nevertheless, whether these devices can be integrated within the ecological niche inspiring their design is seldom tested experimentally.
+An elemental research question concerns the feasibility of modulating spontaneous behaviour of animal systems through bioinspired robotics.
+The following study explores the possibility of engineering a robotic fish capable of influencing the behaviour of live zebrafish (Danio rerio) in a dichotomous preference test.
+While we observe that the preference for the robotic fish never exceeds the preference for a conspecific, our data show that the robot is successful in attracting both isolated individuals and small shoals and that such capability is influenced by its bioinspired features.
+In particular, we find that the robot's undulations enhance its degree of attractiveness, despite the noise inherent in the actuation system.
+This is the first experimental evidence that live zebrafish behaviour can be influenced by engineered robots.
+Such robotic platforms may constitute a valuable tool to investigate the bases of social behaviour and uncover the fundamental determinants of animal functions and dysfunctions.

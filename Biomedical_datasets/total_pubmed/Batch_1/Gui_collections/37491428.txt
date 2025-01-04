@@ -1,0 +1,8 @@
+To investigate the unmet needs for rehabilitation services among middle-aged and older adults in Chengdu, Sichuan, China, and identify the associated factors.
+This cross-sectional study was conducted on middle-aged and older adults in Chengdu, Sichuan, China, between 2015 and 2016.
+The questionnaire included demographic data and questions about rehabilitation needs.
+Multivariable logistic regression analysis was used to identify the associated factors of unmet needs for rehabilitation services.
+Among 663 participants, 91.70% needed medical rehabilitation (608/663), 26.55% of who need auxiliary equipment (176/663), 77.07% of who need daily care and social participation (511/663), and 79.34% of who need recreational therapy activities (526/663), while < 30% required auxiliary equipment.
+Multivariate logistic regression analysis showed that residents who were married, had annual income < CNY 80,000, had no medical insurance, had three or more health problems, were aged ≥ 60, and the disability status were independently associated with unmet needs for rehabilitation services (all P < 0.05).
+Marital status, annual income, medical insurance, health problems, and disability might be factors independently associated with the unmet needs for rehabilitation services.
+Attention should be paid to the financial burden of the population on rehabilitation services, and in addition to the disabled, the slow patients should also be given priority.

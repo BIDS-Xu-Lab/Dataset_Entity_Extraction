@@ -1,0 +1,10 @@
+There is growing interest in the potential role of anti-inflammatory n-3 polyunsaturated fatty acids (n-3 PUFAs) in the prevention of allergic disease.
+We sought to determine whether maternal dietary supplementation with n-3 PUFAs during pregnancy could modify immune responses in infants.
+In a randomized, controlled trial 98 atopic, pregnant women received fish oil (3.7 g n-3 PUFAs per day) or placebo from 20 weeks' gestation until delivery.
+Neonatal PUFA levels and immunologic response to allergens were measured at birth.
+Fish oil supplementation (n = 40) achieved significantly higher proportions of n-3 PUFAs in neonatal erythrocyte membranes (mean +/- SD, 17.75% +/- 1.85% as a percentage of total fatty acids) compared with the control group (n = 43, 13.69% +/- 1.22%, P <.001).
+All neonatal cytokine (IL-5, IL-13, IL-10, and IFN-gamma) responses (to all allergens) tended to be lower in the fish oil group (statistically significant only for IL-10 in response to cat).
+Although this study was not designed to examine clinical effects, we noted that infants in the fish oil group were 3 times less likely to have a positive skin prick test to egg at 1 year of age (odds ratio, 0.34; 95% confidence interval, 0.11 to 1.02; P =.055).
+Although there was no difference in the frequency of atopic dermatitis at 1 year of age, infants in the fish oil group also had significantly less severe disease (odds ratio, 0.09; 95% confidence interval, 0.01 to 0.94; P =.045).
+These data suggest a potential reduction in subsequent infant allergy after maternal PUFA supplementation.
+More detailed follow-up studies are required in larger cohorts to establish the robustness of these findings and to ascertain their significance in relation to longer-term modification of allergic disease in children.

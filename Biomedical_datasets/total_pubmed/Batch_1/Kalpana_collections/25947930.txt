@@ -1,0 +1,16 @@
+Previous studies have suggested that melatonin may produce antinociception through peripheral and central mechanisms.
+Based on the preliminary encouraging results of studies of the effects of melatonin on pain modulation, the important question has been raised of whether there is a dose relationship in humans of melatonin on pain modulation.
+The objective was to evaluate the analgesic dose response of the effects of melatonin on pressure and heat pain threshold and tolerance and the sedative effects.
+Sixty-one healthy subjects aged 19 to 47 y were randomized into one of four groups: placebo, 0.05 mg/kg sublingual melatonin, 0.15 mg/kg sublingual melatonin or 0.25 mg/kg sublingual melatonin.
+We determine the pressure pain threshold (PPT) and the pressure pain tolerance (PPTo).
+Quantitative sensory testing (QST) was used to measure the heat pain threshold (HPT) and the heat pain tolerance (HPTo).
+Sedation was assessed with a visual analogue scale and bispectral analysis.
+Serum plasma melatonin levels were directly proportional to the melatonin doses given to each subject.
+We observed a significant effect associated with dose group.
+Post hoc analysis indicated significant differences between the placebo vs. the intermediate (0.15 mg/kg) and the highest (0.25 mg/kg) melatonin doses for all pain threshold and sedation level tests.
+A linear regression model indicated a significant association between the serum melatonin concentrations and changes in pain threshold and pain tolerance (R(2)  = 0.492 for HPT, R(2)  = 0.538 for PPT, R(2)  = 0.558 for HPTo and R(2)  = 0.584 for PPTo).
+The present data indicate that sublingual melatonin exerts well-defined dose-dependent antinociceptive activity.
+There is a correlation between the plasma melatonin drug concentration and acute changes in the pain threshold.
+These results provide additional support for the investigation of melatonin as an analgesic agent.
+Brazilian Clinical Trials Registry (ReBec): (U1111-1123-5109).
+IRB: Research Ethics Committee at the Hospital de Clínicas de Porto Alegre.

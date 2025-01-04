@@ -1,0 +1,15 @@
+The study aims to define extent of lawsuits filed against emergency physicians (EPs) over point-of-care emergency ultrasound (US) during the last 20 years.
+We performed a nationwide search of the WESTLAW legal database for filed lawsuits involving EPs and US.
+WESTLAW covers all state and federal lawsuits dating back to 1939.
+Using an electronic search feature, all states were searched using emergency and US as key words.
+The database automatically accounts for different variants on US such as sonography.
+An attorney who is also boarded in and practices emergency medicine, as well as an emergency US expert, reviewed returned cases.
+Descriptive statistics were used to evaluate the data.
+Using the search criteria and excluding obvious radiology suits, 659 cases were returned and reviewed.
+There were no cases of EPs being sued for performance or interpretation of point-of-care US.
+There was one case alleging EP failure to perform point-of-care US and diagnose an ectopic before it ruptured.
+This case was won by the defense.
+There were no cases against EPs for common causes of radiology and obstetric litigation including sexual assault during endovaginal US.
+Cases of missed testicular torsion on US were frequent in the emergency setting but none linked EP US.
+Only one case filed against EPs over the last 2 decades was identified, it was over failure to perform US.
+Most frequent litigations against radiologists and obstetricians are unlikely to be duplicated in the emergency department, and future litigations may also come from EP failure to perform point-of-care US.

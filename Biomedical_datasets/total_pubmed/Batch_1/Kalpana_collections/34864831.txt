@@ -1,0 +1,6 @@
+Zearalenone (ZEA), a nonsteroidal estrogenic mycotoxin produced by multiple Fusarium species, contaminates cereals and threatens the health of both humans and animals by inducing hepatotoxicity, immunotoxicity, and genotoxicity.
+A new alkali tolerant enzyme named Ase, capable of degrading ZEA without H2O2, was derived from Acinetobacter sp.
+The Ase gene shares 97% sequence identity with hypothetical proteins from Acinetobacter pittii strain WCHAP 100004 and YMC 2010/8/T346 and Acinetobacter calcoaceticus PHEA-2, respectively.
+Based on the Acinetobacter genus database, the gene encoding Ase was cloned and extracellularly expressed in Escherichia coli BL21.
+After degrading 88.4% of ZEA (20 µg/mL), it was confirmed through MCF-7 cell proliferation assays that Ase can transform ZEA into a nonestrogenic toxic metabolite.
+Recombinant Ase (molecular weight: 28 kDa), produced by E. coli BL21/pET32a(+)-His-Ase, was identified as an oxygen-utilizing and cytochrome-related enzyme with optimal activity at 60 °C and pH 9.0.

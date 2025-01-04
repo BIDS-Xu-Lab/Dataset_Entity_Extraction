@@ -1,0 +1,8 @@
+Bacterial spores are frequently intrinsically resistant to biocides and only a number of alkylating and oxidising biocides are sporicidal under certain conditions.
+Activity against spores is affected by several key factors such as concentration, exposure time, soiling, and the types of surface to be treated.
+Sporicidal efficacy is usually achieved after an exposure time of several minutes with a high concentration of a biocide.
+Failure to understand these factors will result in decreased sporicide activity and spore survival.
+Sporicides in healthcare settings are used for surface disinfection and for the high level disinfection of certain medical devices (e.g. endoscopes).
+With efficacy data in mind, sporicidal activity should be achieved for the disinfection of medical devices where both high concentration and long exposure time occur.
+However, for the disinfection of environmental surfaces, high concentration is not recommended, nor is long exposure time achievable.
+In this case, sporicidal activity is severely reduced and spore survival following treatment is to be expected and contributes to the explanation of spore persistence on surfaces.

@@ -1,0 +1,10 @@
+The integration of different data sources is a widely discussed topic among both the researchers and the Official Statistics.
+Integrating data helps to contain costs and time required by new data collections.
+The non-parametric micro Statistical Matching (SM) allows to integrate 'live' data resorting only to the observed information, potentially avoiding the misspecification bias and speeding the computational effort.
+Despite these pros, the assessment of the integration goodness when we use this method is not robust.
+Moreover, several applications comply with some commonly accepted practices which recommend e.g. to use the biggest data set as donor.
+We propose a validation strategy to assess the integration goodness.
+We apply it to investigate these practices and to explore how different combinations of the SM techniques and distance functions perform in terms of the reliability of the synthetic (complete) data set generated.
+The validation strategy takes advantage of the relation existing among the variables pre-and-post the integration.
+The results show that 'the biggest, the best' rule must not be considered mandatory anymore.
+Indeed, the integration goodness increases in relation to the variability of the matching variables rather than with respect to the dimensionality ratio between the recipient and the donor data set.

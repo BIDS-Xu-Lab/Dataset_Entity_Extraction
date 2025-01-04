@@ -1,0 +1,9 @@
+To investigate the trends in hospital admissions for mental, behavioural and neurodevelopmental disorders (MBNDs) in England and Wales.
+This is an ecological study using the Hospital Episode Statistics database in England and the Patient Episode Database for Wales.
+Hospital admission data was collected for the period between April 1999 and March 2019.
+The most common type of hospital admission was for mental and behavioural disorders due to psychoactive substance use, which accounted for 26.6%.
+The admission rate among males increased by 8.1% [from 479.59 (95% CI 476.90-482.27) in 1999 to 518.30 (95% CI 515.71-520.90) in 2019 per 1000 persons; p &lt; 0.001].
+The admission rate among females increased by 0.3% [from 451.45 (95% CI 448.91-453.99) in 1999 to 452.77 (95% CI 450.37-455.17) in 2019 per 1000 persons; p = 0.547].
+The 15-59 years' age group accounted for 65.1% of the entire number of such hospital admissions, followed by the 75 years and above age group, with 19.0%.
+Conclusion: We observed an obvious variation in MBNDs influenced by age and gender.
+Observational studies are needed to identify other factors associated with increased hospital admission rates related to MBNDs, specifically among the young population (aged 15-59 years) and males.

@@ -1,0 +1,12 @@
+To assess the efficacy of electro-acupuncture (EA) relative to sham electro-acupuncture (sham EA) in treating chronic severe functional constipation (CSFC).
+A comprehensive search for relevant studies published between January 1, 1951 and May 14, 2020 was conducted in PubMed, the Cochrane Library, Chinese Biomedical Literature Database, Web of Science, and EMbase.
+Two investigators independently selected studies, extracted data, and assessed the quality of the included studies.
+The software Endnote X9 was used for screening articles, and the Review Manager 5.3 for analyzing data.
+The meta-analyses involved 6 studies and 1457 individuals.
+The pooled results favored the EA group for the increase of complete spontaneous bowel movements (CSBMs) per week in the fourth week (MD = 0.80, P = 0.001) during treatment, and further improved in the eight weeks (MD = 1.25, P < 0.001).
+During the follow-up period, significant changes in CSBMs per week were seen in the experimental group (MD = 1.38, P = 0.008); the effect decreased in the twelfth week (MD = 0.87, P < 0.001).
+There was no significant difference in the Bristol stool scale score between the two groups in the fourth week (MD = 0.40, P = 0.08), but significant differences were observed in the eighth week (MD = 0.40, P = 0.03).
+A significant reduction in patient assessment of constipation quality of life (PAC-QOL) score were observed in the EA group during treatment (SMD = -0.83, P < 0.001).
+No serious adverse events were reported.
+EA had favorable effects on CSFC, and the longer the treatment duration was, the better was the effect, but the effect showed a certain period of validity.
+However, the results may be influenced by the clinical heterogeneity of acupuncture points, depth of needling, intensity, and frequency of EA.

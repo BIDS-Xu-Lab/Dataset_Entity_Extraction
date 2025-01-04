@@ -1,0 +1,6 @@
+Time plays a crucial role in acute stroke management, particularly in patients eligible for vascular intervention.
+Currently, the stroke chain of survival for the management of acute stroke comprises the following 8 steps (the "8Ds"): detection (D1), dispatch (D2), delivery (D3), door (D4), data (D5), decision (D6), drug/device (D7), and disposition (D8).
+We aimed to provide a more feasible, simple, and convenient model for the stroke chain of survival to identify the noticeable areas of delay in the care process.
+We decided to divide the D4 into 2 intervals: the patient's time of arrival at the emergency department, D4 (A), and the time of the early assessment by a neurologist, D4 (B).
+We also split the D6 into D6 (A), the time of neurologist decision for intervention and transfer to stroke care unit, and D6 (B), the patient's arrival time at the stroke care unit.
+The implementation of a modified 8Ds algorithm will help the interdisciplinary stroke team detect potential delays in the care of eligible patients for vascular intervention.

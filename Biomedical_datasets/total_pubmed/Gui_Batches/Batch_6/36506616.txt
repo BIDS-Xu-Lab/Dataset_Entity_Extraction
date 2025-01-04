@@ -1,0 +1,11 @@
+Attrition is very common in longitudinal research, including randomized controlled trials (RCTs) testing psychological interventions.
+Establishing rates and predictors of attrition in mindfulness-based interventions (MBIs) can assist clinical trialists and intervention developers.
+Differential attrition in RCTs that compared MBIs with structure and intensity matched active control conditions also provides an objective metric of relative treatment acceptability.
+We aimed to evaluate rates and predictors of overall and differential attrition in RCTs of MBIs compared with matched active control conditions.
+Attrition was operationalized as loss to follow-up at post-test.
+[.16, .22]) in MBIs and 18.6% ([.16, .21]) in control conditions.
+However, in sensitivity analyses with trim-and-fill adjustment, without outliers, and when using different estimation methods (Peto and Mantel-Haenszel), MBIs yielded slightly higher attrition (ORs = 1.10 to 1.25, ps < .050).
+Despite testing numerous moderators of overall and differential attrition, very few significant predictors emerged.
+Results support efforts to increase the acceptability of MBIs, active controls, and/or RCTs, and highlight the possibility that for some individuals, MBIs may be less acceptable than alternative interventions.
+Further research including individual patient data meta-analysis is warranted to identify predictors of attrition and to characterize instances where MBIs may or may not be recommended.
+Meta-Analysis Review Registration: Open Science Framework (https://osf.io/c3u7a/).

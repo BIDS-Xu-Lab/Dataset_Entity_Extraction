@@ -1,0 +1,7 @@
+We analyzed the effects of the top 20 Alzheimer disease (AD) risk genes on gray-matter density (GMD) and metabolism.
+We ran stepwise linear regression analysis using posterior cingulate hypometabolism and medial temporal GMD as outcomes and all risk variants as predictors while controlling for age, gender, and APOE ε4 genotype.
+We explored the results in 3D using Statistical Parametric Mapping 8.
+Significant predictors of brain GMD were SLC24A4/RIN3 in the pooled and mild cognitive impairment (MCI); ZCWPW1 in the MCI; and ABCA7, EPHA1, and INPP5D in the AD groups.
+Significant predictors of hypometabolism were EPHA1 in the pooled, and SLC24A4/RIN3, NME8, and CD2AP in the normal control group.
+Multiple variants showed associations with GMD and brain metabolism.
+For most genes, the effects were limited to specific stages of the cognitive continuum, indicating that the genetic influences on brain metabolism and GMD in AD are complex and stage dependent.

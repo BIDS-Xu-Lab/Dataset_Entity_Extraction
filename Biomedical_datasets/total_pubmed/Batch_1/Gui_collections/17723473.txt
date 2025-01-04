@@ -1,0 +1,9 @@
+This paper describes a rapid method for the quantification of reverse transcriptase inhibitors in mixtures of therapeutic interest containing zidovudine, zalcitabine and nevirapine.
+The method is based on a pH-gradient flow-injection system with diode array detection and further data analysis using multivariate curve resolution.
+Data matrices of unknown samples mixtures have been analyzed simultaneously with those of standards and background via the construction of augmented data matrices.
+In this case, the spectral domain has been chosen for performing column-wise (i.e., wavelength-wise) matrix augmentation.
+The quantification is accomplished from the comparison of the analyte peaks resolved for unknown mixtures and standards, being peak areas the quantitative information to be correlated with the concentration in both calibration and prediction steps.
+The influence of background signal on the response is tackled through two main strategies involving modelling or subtraction.
+The potentiality of this method for the analysis of drugs in the presence of unknown interferences is demonstrated.
+Results obtained in the analysis of drug samples have proven the excellent performance of this method.
+Overall prediction errors in the quantification of two- and three-component mixtures are about 5-10%.

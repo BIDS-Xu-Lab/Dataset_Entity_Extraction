@@ -1,0 +1,10 @@
+T-cell large granular lymphocyte leukemia (T-LGLL) is a rare disorder characterized by clonal proliferation of large granular lymphocytes (commonly CD3+/CD8+/CD57+).
+However, the available data regarding the optimal treatment for relapsed/refractory T-LGLL patients are limited.
+We retrospectively reviewed 10 patients treated with immunosuppressive therapy consisting of intravenous moderate-dose cyclophosphamide (MD-CTX) together with oral cyclosporine A for relapsed/refractory T-LGLL in our hospital between July 2006 and March 2013.
+The overall response rate to MD-CTX was 60% (6/10; hematologic complete remission rate, 50%; hematologic partial remission rate, 10%).
+The median time to response was 28.5 days (range, 20-118 days).
+The relapse rate of MD-CTX was 50% (3/6); two of these three patients achieved hematologic complete remission after receiving a second course of MD-CTX.
+Neutropenia was the major adverse event of the MD-CTX regimen.
+The median time to neutropenia was 5.5 days (range, 1-10 days) and the median neutropenia duration was 5 days (range, 3-15 days).
+None of the patients developed severe infection.
+The MD-CTX regimen appears efficacious and safe in the treatment of relapsed/refractory T-LGLL patients.

@@ -1,0 +1,10 @@
+eConsultation in nephrology is an innovative way for general practitioners (GPs) to consult a nephrologist.
+Studies have shown that questions from GPs can be answered and intended referrals can be avoided by eConsultation.
+The primary aim of this study was therefore to assess whether patients for whom a referral to the outpatient clinic of a medical specialist was avoided in the short term were not then referred for the same problem within one year after the eConsultation.
+All eConsultations sent between June 2017 and April 2018 to seven nephrologists in three different hospitals in The Netherlands were included.
+Exclusion criteria were duplications and missing data on follow-up.
+Data were obtained from the eConsultation application forms and from GP medical records.
+A total of 173 eConsultations were included.
+Of the 32 patients for whom a referral was initially prevented, 91% (95% confidence interval 75-98) had not been referred to a specialist for the same problem within one year after the eConsultation.
+eConsultation in the field of nephrology can prevent referrals in the long term.
+It can therefore contribute to a more modern and efficient health-care system in which chronic care is provided by GPs in close proximity to patients, while specialist support is easily available and accessible through eConsultation when necessary.

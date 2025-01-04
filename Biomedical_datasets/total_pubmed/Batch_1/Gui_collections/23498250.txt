@@ -1,0 +1,4 @@
+A innovative 5-Cl-8-oxyquinolinepropoxycalix[4]arene ligand (2) have been prepared, exhibiting, at room temperature, blue fluorescent light emission and resulting in shift band to green fluorescent light (fluorescence mode) in the presence of coordinated Eu(III) and Tb(III) ions.
+Terbium complex presented phosphorescence emission as noted by typical bands at 490 nm, 545 nm and 585 nm.
+TG/DTG data exhibited typical thermal behavior for these compounds, however DSC curves showed the melting temperature near 300 °C for the samples, demonstrating an unusual thermal stability when quinoline derivatives are attached to calix[4]arene matrix.
+This fact strongly suggests an effective approach to preparing the photoluminescent compound associating high chemical and thermal stability.

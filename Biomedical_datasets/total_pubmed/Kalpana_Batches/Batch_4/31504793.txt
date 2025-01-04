@@ -1,0 +1,4 @@
+HMCES and yedK were recently identified as sensors of abasic sites in ssDNA.
+In this study, we present multiple crystal structures captured in the apo-, nonspecific-substrate-binding, specific-substrate-binding, and product-binding states of yedK. In combination with biochemical data, we unveil the molecular basis of AP site sensing in ssDNA by yedK. Our results indicate that yedK has a strong preference for AP site-containing ssDNA over native ssDNA and that the conserved Glu105 residue is important for identifying AP sites in ssDNA.
+Moreover, our results reveal that a thiazolidine linkage is formed between yedK and AP sites in ssDNA, with the residues that stabilize the thiazolidine linkage important for the formation of DNA-protein crosslinks between yedK and the AP sites.
+We propose that our findings offer a unique platform to develop yedK and other SRAP domain-containing proteins as tools for detecting abasic sites in vitro and in vivo.

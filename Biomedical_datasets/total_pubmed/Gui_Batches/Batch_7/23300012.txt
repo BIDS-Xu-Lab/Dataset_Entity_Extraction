@@ -1,0 +1,9 @@
+Primate feeding behavior varies over long (e.g., weekly, seasonally, yearly) and short (e.g., hourly) scales of time due to changes in resource availability and the nutritional composition of foods.
+While the factors that affect long-term changes in feeding behavior have received considerable attention, few data exist regarding what drives variability in feeding behavior over the course of a single day.
+To address this problem, we investigated diurnal variation in chimpanzee feeding on the leaves of two species of saplings, Pterygota mildbraedii and Celtis africana, at Ngogo, Kibale National Park, Uganda.
+Specifically, we related short-term changes in chimpanzee feeding behavior on these leaves to diurnal variation in their nutritional composition.
+Results showed that chimpanzees fed on the leaves of both saplings more in the evening than they did in the morning.
+The nutritional quality of leaves also improved over the course of the day.
+Concentrations of cellulose and lignin were lower and total nonstructural carbohydrates (including sugars and starch) were higher in the evening for P. mildbraedii, and sugars were higher in the evening for C. africana.
+These data suggest that chimpanzees consume these resources when their quality is highest, and consequently, may track the nutrient composition of their foods over very short periods that span only a few hours.
+In the future, foods collected for analyses must control for time of sampling to ensure biologically meaningful assays of nutrient composition.

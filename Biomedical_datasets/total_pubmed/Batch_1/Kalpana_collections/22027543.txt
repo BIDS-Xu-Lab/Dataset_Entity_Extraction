@@ -1,0 +1,8 @@
+During recent years different approaches have been explored to raise effective antitumor responses against brain tumors and particularly glioblastomas (GBMs).
+In most cases, cancer vaccines were based on autologous dendritic cells loaded with GBM peptides or whole tumor lysates.
+Many phase I-II studies showed that such strategy is feasible and nontoxic but failed to provide convincing evidence of its efficacy.
+This was due to study design and other biological issues: local immune suppression and insufficient characterization of appropriate epitopes appear as particularly relevant.
+In neuro-oncology intriguing data have been obtained by vaccinating patients with the epidermal growth factor receptor variant III (EGFRvIII) peptide, reproducing a specific epitope arising because of large deletion of the EGFR gene.
+In other cancers immunotherapy is obtaining clinically meaningful results: in prostate cancer vaccination with dendritic cells loaded with a cancer peptide, and in metastatic melanoma antibodies against an immune gate-keeper, CTL4, both led to increased survival and have been approved by FDA.
+On the basis of these and other clinical and preclinical findings it appears that several approaches may have chances of clinical success.
+They include combinatorial treatments of chemotherapy and immunotherapy, systemic and local immunotherapy, vaccination against specific targets, for example cytomegalovirus protein or stem cell markers re-expressed during brain cancer progression.

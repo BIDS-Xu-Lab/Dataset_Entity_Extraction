@@ -1,0 +1,9 @@
+Agrobacterium (Rhizobium)-mediated transformation leads to the formation of crown galls or hairy roots on infected plants.
+These effects develop due to the activity of T-DNA genes, gathered on a big plasmid, acquired from agrobacteria during horizontal gene transfer.
+However, a lot of plant species are known to contain such sequences, called cellular T-DNAs (cT-DNAs), and maintain normal phenotypes.
+Some of the genes remain intact, which leads to the conclusion of their functional role in plants.
+In this study, we present a comprehensive analysis of the cT-DNAs in the Nicotiana noctiflora Hook. genome, including gene expression and opine identification.
+Deep sequencing of the Nicotiana noctiflora genome revealed the presence of two different cT-DNAs, NnT-DNA1 and NnT-DNA2, which contain the intact genes iaaM, iaaH, acs, orf13, orf13a, and orf14.
+According to the expression analysis results, all these genes are most active in roots in comparison with other organs, which is consistent with data on cT-DNA gene expression in other plant species.
+We also used genetic engineering approaches and HPTLC and HPLC-MS methods to investigate the product of the acs gene (agrocinopine synthase), which turned out to be similar to agrocinopine A. Overall, this study expands our knowledge of cT-DNAs in plants and brings us closer to understanding their possible functions.
+Further research of cT-DNAs in different species and their functional implications could contribute to advancements in plant genetics and potentially unveil novel traits with practical applications in agriculture and other fields.

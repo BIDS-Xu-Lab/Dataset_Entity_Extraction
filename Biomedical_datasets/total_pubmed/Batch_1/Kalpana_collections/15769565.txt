@@ -1,0 +1,12 @@
+We sought to validate a set of criteria that predict, with a high degree of sensitivity, which patients may safely forgo pelvic radiography in their initial trauma evaluation.
+This is a prospective observational study.
+Adult blunt trauma patients presenting from July 1, 2002 to June 30, 2003 who underwent pelvic radiography were eligible for the study.
+Physicians completed data sheets that outlined five criteria (altered level of consciousness, complaint of pelvic pain, pelvic tenderness on examination, distracting injury, clinical intoxication) before viewing pelvic radiographs.
+Final radiographic results were later added.
+Fractures were classified as clinically significant or insignificant based on the Tile classification.
+There were 973 patients enrolled in the study; 62 patients had pelvic fractures (prevalence 6.4%).
+The decision instrument predicted fracture in 60 patients, (sensitivity 96.8%, 95% CI 92.4-100%).
+If only clinically significant fractures were considered, the instrument had a sensitivity of 100%.
+The decision instrument predicted, with a high degree of sensitivity, those patients who could safely forgo pelvic radiography after blunt trauma.
+Approximately 44% of our patient population could have done without a pelvic X-ray, resulting in significant saving of health care dollars.
+These criteria need to be prospectively validated.

@@ -1,0 +1,12 @@
+There are an estimated 2.6 million stillbirths each year, many of which are due to infections, especially in low- and middle-income contexts.
+This paper, the eighth in a series on the burden of group B streptococcal (GBS) disease, aims to estimate the percentage of stillbirths associated with GBS disease.
+We conducted systematic literature reviews (PubMed/Medline, Embase, Literatura Latino-Americana e do Caribe em Ciências da Saúde, World Health Organization Library Information System, and Scopus) and sought unpublished data from investigator groups.
+Studies were included if they reported original data on stillbirths (predominantly ≥28 weeks' gestation or ≥1000 g, with GBS isolated from a sterile site) as a percentage of total stillbirths.
+We did meta-analyses to derive pooled estimates of the percentage of GBS-associated stillbirths, regionally and worldwide for recent datasets.
+We included 14 studies from any period, 5 with recent data (after 2000).
+There were no data from Asia.
+We estimated that 1% (95% confidence interval [CI], 0-2%) of all stillbirths in developed countries and 4% (95% CI, 2%-6%) in Africa were associated with GBS.
+GBS is likely an important cause of stillbirth, especially in Africa.
+However, data are limited in terms of geographic spread, with no data from Asia, and cases worldwide are probably underestimated due to incomplete case ascertainment.
+More data, using standardized, systematic methods, are critical, particularly from low- and middle-income contexts where the highest burden of stillbirths occurs.
+These data are essential to inform interventions, such as maternal GBS vaccination.

@@ -1,0 +1,5 @@
+Data that support a differential regulation of the interleukin-2 receptor (IL-2R) alpha-(p55 or Tac) and beta-chain (p70) expression by IL-4 are presented.
+Cytofluorometric analysis performed on peripheral blood mononuclear cells, some of which had been nylon wool passed (enriched for T-cells), in the presence or absence of phytohemagglutinin (PHA) or OKT3, demonstrated that IL-4 has a dose-dependent capacity to inhibit beta-chain IL-2R expression, whereas the alpha-chain is nearly unaffected.
+We could also, as a consequence of the decreased p70 expression, detect a slight increase in the amounts of IL-2 obtained from PHA-stimulated cultures, when IL-4 was present.
+Further, the proliferative response, especially to IL-2, but also to PHA alone, was depressed in the presence of IL-4.
+These data thus give further support to the idea that not only the IL-2R complex as such, but also the two individual IL-2R chains, can be independently regulated.

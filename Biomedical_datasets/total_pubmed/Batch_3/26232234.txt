@@ -1,0 +1,10 @@
+Increased arterial stiffness is a common characteristic of humans with Williams-Beuren syndrome and mouse models of elastin insufficiency.
+Arterial stiffness is associated with multiple negative cardiovascular outcomes, including myocardial infarction, stroke, and sudden death.
+Therefore, identifying therapeutic interventions that improve arterial stiffness in response to changes in elastin levels is of vital importance.
+The goal of this study was to determine the effect of chronic pharmacologic therapy with different classes of antihypertensive medications on arterial stiffness in elastin insufficiency.
+Elastin-insufficient mice 4-6 wk of age and wild-type littermates were subcutaneously implanted with osmotic micropumps delivering a continuous dose of one of the following: vehicle, losartan, nicardipine, or propranolol for 8 wk.
+At the end of treatment period, arterial blood pressure and large artery compliance and remodeling were assessed.
+Our results show that losartan and nicardipine treatment lowered blood pressure and pulse pressure in elastin-insufficient mice.
+Elastin and collagen content of abdominal aortas as well as ascending aorta and carotid artery biomechanics were not affected by any of the drug treatments in either genotype.
+By reducing pulse pressure and shifting the working pressure range of an artery to a more compliant region of the pressure-diameter curve, antihypertensive medications may mitigate the consequences of arterial stiffness, an effect that is drug class independent.
+These data emphasize the importance of early recognition and long-term management of hypertension in Williams-Beuren syndrome and elastin insufficiency.

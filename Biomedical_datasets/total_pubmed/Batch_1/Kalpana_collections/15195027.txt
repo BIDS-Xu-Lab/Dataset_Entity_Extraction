@@ -1,0 +1,11 @@
+Several studies in patients with chronic kidney diseases have shown that men have a more rapid disease progression than women.
+Also, with ageing, men exhibit greater decrements in renal function and increased glomerular sclerosis than women.
+Data from meta-analysis studies indicate that women with several non-diabetic renal diseases such as membranous nephropathy, IgA nephropathy and polycystic kidney disease present a slower progression, but in diabetic renal disease this is not yet established.
+Thus, men appear to be at greater risk for renal injury than are women, but the underlying mechanisms are unknown.
+Sex hormones may mediate the effects of gender on chronic renal disease, through the interaction with the renin-angiotensin system, the modulation of nitric oxide synthesis and the downregulation of collagen degradation.
+New observations indicate that androgens may contribute to continuous loss of kidney cells though the stimulation of apoptotic pathways.
+Apoptosis is an unique type of programmed cell death which is activated in several chronic kidney diseases.
+Studies in vitro indicate that androgens prime a Fas/FasL dependent apoptotic pathway in kidney tubule cells.
+This apoptotic cell death pathway is receptor-linked and interacts with the mitochondrial pathway, which may be activated by other mechanisms, such as toxins and ischemia.
+Therefore, the mechanisms to cell death which are primed by androgens may interact with others occurring in several conditions leading to the loss of renal cells.
+These findings are consistent with a role for androgens to promote chronic renal injury in men.

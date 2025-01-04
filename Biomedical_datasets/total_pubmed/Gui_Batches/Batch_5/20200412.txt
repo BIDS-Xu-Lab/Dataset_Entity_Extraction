@@ -1,0 +1,7 @@
+Indian hedgehog (Ihh) is essential for embryonic mandibular condylar growth and disc primordium formation.
+To determine whether it regulates those processes during post-natal life, we ablated Ihh in cartilage of neonatal mice and assessed the consequences on temporomandibular joint (TMJ) growth and organization over age.
+Ihh deficiency caused condylar disorganization and growth retardation and reduced polymorphic cell layer proliferation.
+Expression of Sox9, Runx2, and Osterix was low, as was that of collagen II, collagen I, and aggrecan, thus altering the fibrocartilaginous nature of the condyle.
+Though a disc formed, it exhibited morphological defects, partial fusion with the glenoid bone surface, reduced synovial cavity space, and, unexpectedly, higher lubricin expression.
+Analysis of the data shows, for the first time, that continuous Ihh action is required for completion of post-natal TMJ growth and organization.
+Lubricin overexpression in mutants may represent a compensatory response to sustain TMJ movement and function.

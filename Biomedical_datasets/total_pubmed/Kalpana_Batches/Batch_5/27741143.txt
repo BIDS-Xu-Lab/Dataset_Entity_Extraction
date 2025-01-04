@@ -1,0 +1,10 @@
+Vasospasm-related injury such as delayed ischemic neurological defect (DIND) or cerebral infarction is an important prognostic factor for aneurismal subarachnoid hemorrhage (SAH).
+Whether cerebrospinal fluid (CSF) drainage can achieve a better outcome in aneurismal SAH patients after coiling or clipping remains the subject of debate.
+Here, we report a meta-analysis of the related available literature to assess the effect of continuous CSF drainage on clinical outcomes in patients with aneurismal SAH.
+Case-control studies regarding the association between aneurismal SAH and CSF drainage were systematically identified through online databases (PubMed, Web of Science, Elsevier Science Direct, and Springer Link).
+Inclusion and exclusion criteria were defined for the eligible studies.
+The fixed-effects model was performed when homogeneity was indicated.
+Alternatively, the random-effects model was utilized.
+CSF drainage also reduced angiographic vasospasm (OR of 0.35, 95% CI, 0.23-0.51, P < 0.01), symptomatic vasospasm (OR of 0.32, 95% CI, 0.32-0.43, P < 0.01), and DIND (OR of 0.48, 95% CI, 0.25-0.91, P = 0.03), but there was no significant difference between the CSF drainage group and the no CSF drainage group on shunt-dependent hydrocephalus (SDHC) prevention (OR of 1.04, 95% CI, 0.52-2.07, P = 0.91).
+Further analysis on lumbar drainage (LD) and external ventricular drainage (EVD) indicated that LD had a better outcome (OR of 3.11, 95% CI, 1.18-8.23, P = 0.02), whereas no significant difference in vasospasm-related injury was detected between the groups (OR of 1.13, 95% CI, 0.54-2.37, P = 0.75).
+Continuous CSF drainage is an effective treatment for aneurismal SAH patients; lumbar drainage showed lower complications, but more well-designed studies are required to verify and consolidate this conclusion.

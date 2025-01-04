@@ -1,0 +1,8 @@
+BACKGROUND AND AIMS Sensitive outcome measures to assess the efficacy of therapeutic interventions in patients with cystic fibrosis (CF) with mild lung disease are currently lacking.
+Our objective was to study the ability of the lung clearance index (LCI), a measure of ventilation inhomogeneity, to detect a treatment response to hypertonic saline inhalation in paediatric patients with CF with normal spirometry.
+In a crossover trial, 20 patients with CF received 4 weeks of hypertonic saline (HS) and isotonic saline (IS) in a randomised sequence separated by a 4 week washout period.
+The primary end point was the change in the LCI due to HS versus IS.
+RESULTS Baseline characteristics including the LCI were not significantly different between both study periods.
+Four weeks of twice-daily HS inhalation significantly improved the LCI compared with IS (1.16, 95% CI 0.26 to 2.05; p=0.016), whereas other outcome measures such as spirometry and quality of life failed to reach statistical significance.
+Randomisation order had no significant impact on the treatment effect.
+CONCLUSIONS The LCI, but not spirometry was able to detect a treatment effect from HS inhalation in patients with CF with mild disease and may be a suitable tool to assess early intervention strategies in this patient population.

@@ -1,0 +1,8 @@
+We present a novel method for globally optimal surface segmentation of multiple mutually interacting objects, incorporating both edge and shape knowledge in a 3-D graph-theoretic approach.
+Hard surface interacting constraints are enforced in the interacting regions, preserving the geometric relationship of those partially interacting surfaces.
+The soft smoothness a priori shape compliance is introduced into the energy functional to provide shape guidance.
+The globally optimal surfaces can be simultaneously achieved by solving a maximum flow problem based on an arc-weighted graph representation.
+Representing the segmentation problem in an arc-weighted graph, one can incorporate a wider spectrum of constraints into the formulation, thus increasing segmentation accuracy and robustness in volumetric image data.
+To the best of our knowledge, our method is the first attempt to introduce the arc-weighted graph representation into the graph-searching approach for simultaneous segmentation of multiple partially interacting objects, which admits a globally optimal solution in a low-order polynomial time.
+Our new approach was applied to the simultaneous surface detection of bladder and prostate.
+The result was quite encouraging in spite of the low saliency of the bladder and prostate in CT images.

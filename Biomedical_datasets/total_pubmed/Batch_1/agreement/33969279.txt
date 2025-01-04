@@ -1,0 +1,10 @@
+Prion-like amyloids self-template and form toxic oligomers, protofibrils, and fibrils from their soluble monomers; a phenomenon that has been implicated in the onset and progress of neurodegenerative disorders such as Alzheimer's (AD), Parkinson's (PD), Huntington's, and systemic lysozyme amyloidosis.
+Carbon quantum dots (CQDs), sourced from Na-citrate as a carbon precursor were synthesized and characterized before being tested for their ability to intervene in amyloidogenic (fibril-forming) trajectories.
+Hen-egg white lysozyme (HEWL) served as a model amyloidogenic protein.
+A pulse-chase lysozyme fibril-forming assay developed to examine the impact of CQDs on the HEWL amyloid-fibril-forming trajectory used ThT fluorescence as a reporter of mature fibril presence.
+The results revealed that the Na-citrate-derived CQDs were able to intervene at multiple points along the fibril-forming trajectory by preventing the conversion of both monomeric and oligomeric HEWL intermediates into mature fibrils.
+In addition, and importantly, the carbon nano material (CNM) was able to dissolve oligomeric HEWL into monomeric HEWL and provoke the disaggregation of mature HEWL fibrils.
+These results suggest that Na-citrate CQD's intervene in amyloidogenesis by multiple mechanisms.
+The gathered data, coupled with cell-line results demonstrating the relatively low cytotoxicity of Na-citrate CQDs, suggest that this emerging CNM has the potential to intervene both prophylactically and therapeutically in protein misfolding diseases.
+The aforementioned findings are likely to enable Na-citrate CQDs to eventually transition to both cell-line and preclinical models of protein-misfolding-related disorders.
+Importantly, the study outcomes positions Na-citrate CQDs as an important class of chemical, nanotechnological, and biobased interventional tools in neuroscience.

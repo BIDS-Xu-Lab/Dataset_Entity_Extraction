@@ -1,0 +1,10 @@
+Frequently, one of the goals of Graphic Design (gd) is discovering disruptive visual solutions that stand out and attract people's attention.
+However, due to the increasing democratisation of gd, graphic designers tend to adopt design trends, leading to designs that many times lack innovative and catchy features.
+EvoDesigner is an evolutionary extension for Adobe InDesign that aims to aid gd processes by automatically evolving layout and style variations of given InDesign pages.
+The generated pages might be previously created and post-edited by designers, promoting co-creation.
+As an extension of the study EvoDesigner:
+Towards Aiding Creativity in Graphic Design, this article begins with a general introduction of EvoDesigner.
+Then, we review previous experiments on evolving pages towards the page balance of existing target posters.
+Furthermore, we present new experiments exploring the benefits of using grid systems to position and scale page items along with a user survey made to gather feedback about the impact of grid systems in the generated pages and showcase examples of artefacts created from the collaboration between designers and the system.
+The findings indicate that the presented techniques can be used to interpret current layouts in different manners, and suggest that grid systems may be a useful tool for promoting the automatic production of layouts with better organisation when compared to applying no organisational constraints.
+However, a conducted user survey indicates that, depending on the goals of the designers, more organised layouts might not always be synonymous with better results.

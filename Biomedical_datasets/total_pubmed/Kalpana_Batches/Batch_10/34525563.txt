@@ -1,0 +1,5 @@
+In this paper, we study collective interaction dynamics emerging in the game of football (soccer).
+To do so, we surveyed a database containing body-sensor traces measured during three professional football matches, where we observed statistical patterns that we used to propose a stochastic model for the players' motion in the field.
+The model, which is based on linear interactions, captures to a good approximation the spatiotemporal dynamics of a football team.
+Our theoretical framework, therefore, can be an effective analytical tool to uncover the underlying cooperative mechanisms behind the complexity of football plays.
+Moreover, we showed that it can provide handy theoretical support for coaches to evaluate teams' and players' performances in both training sessions and competitive scenarios.

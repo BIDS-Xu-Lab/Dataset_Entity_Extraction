@@ -1,0 +1,9 @@
+An experiment was designed to examine a mechanism to improve embryonic survival following maternal thyroid hormone manipulation.
+Commercial turkey breeder hens were fed diets containing supplemental iodide to mimic changes in the maternal thyroid output during an egg production cycle (32 to 48 wk of age).
+Dietary iodide treatment depressed maternal blood thyroxine (T4) concentrations in a time-dependent manner.
+Dietary iodide depressed maternal blood 3, 5, 3'-triiodothyronine (T3) levels across all times examined.
+The maternal dietary treatment increased embryonic blood concentrations of T4 at 25 to 28 d of incubation but depressed blood concentrations of T3 only at 27 d of incubation.
+In a second trial, the same response was noted in maternal blood when the hens were fed additional iodide with no corresponding effects on T3 concentrations.
+The iodide treatment decreased embryonic T4 concentrations in the second trial as well but in a time-dependent manner.
+Iodide accelerated the increase in T4 concentrations coincidental with earlier pipping in eggs from iodide-fed dams compared with controls.
+The data indicate that the embryonic thyroid function during hatching is dependent upon the maternal thyroid in turkey dams, even though the embryo develops outside the maternal body.

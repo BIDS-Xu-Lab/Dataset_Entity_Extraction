@@ -1,0 +1,10 @@
+Congenital heart disease (CHD) is a rare structural defect that occurs in ∼1% of live births.
+Studies on CHD genetic architecture have identified pathogenic single-gene mutations in less than 30% of cases.
+Single-gene mutations often show incomplete penetrance and variable expressivity.
+Therefore, we hypothesize that genetic background may play a role in modulating disease expression.
+Polygenic risk scores (PRSs) aggregate effects of common genetic variants to investigate whether, cumulatively, these variants are associated with disease penetrance or severity.
+However, the major limitations in this field have been in generating sufficient sample sizes for these studies.
+Here we used CHD-phenotype matched genome-wide association study (GWAS) summary statistics from the UK Biobank (UKBB) as our base study and whole-genome sequencing data from the CHD cohort (n1 = 711 trios, n2 = 362 European trios) of the Gabriella Miller Kids First dataset as our target study to develop PRSs for CHD.
+PRSs estimated using a GWAS for heart valve problems and heart murmur explain 2.5% of the variance in case-control status of CHD (all SNVs, p = 7.90 × 10-3; fetal cardiac SNVs, p = 8.00 × 10-3) and 1.8% of the variance in severity of CHD (fetal cardiac SNVs, p = 6.20 × 10-3; all SNVs, p = 0.015).
+These results show that common variants captured in CHD phenotype-matched GWASs have a modest but significant contribution to phenotypic expression of CHD.
+Further exploration of the cumulative effect of common variants is necessary for understanding the complex genetic etiology of CHD and other rare diseases.

@@ -1,0 +1,14 @@
+Background and study aims  Cold snare polypectomy (CSP) is considered to be effective in reducing risk of delayed bleeding but randomized trials fail to support this owing to the small sample size.
+The current study aimed to compare risk of delayed bleeding before and after implementation of CSP in a screening colonoscopy setting.
+Patients and methods  This study retrospectively analyzed a prospectively maintained screening colonoscopy database in a university hospital in Taiwan.
+We compared the rate of delayed bleeding before and after implementation within similar periods (18 months and 15 months) and the respective number of polypectomies (1,304 and 1,255) performed to remove small and diminutive polyps.
+The main outcome measurement was delayed bleeding within the two periods.
+Multivariate analysis was performed to adjust for major confounders.
+Results  A total of 1,304 and 1,225 subjects received hot snare polypectomy (HSP) and CSP in two separate periods, respectively.
+Compared with the HSP, the CSP had a lower rate of delayed bleeding (0.1 % vs .
+1.1 %, P  < 0.001), severe bleeding (0 % vs. 0.7 %, P  < 0.01), need for second-look colonoscopy (0 % vs. 0.8 %, P  < 0.01), and emergency service visits (0.1 % vs .
+Total procedure time (12.60 ± 11.45 vs .
+16.48 ± 14.27 min/person, P  < 0.01) and duration of hospital stay (1.18 ± 0.50 vs .
+1.53 ± 5.78 hour/person, P  < 0.03) were also shorter after CSP implementation.
+Multivariate analysis showed that HSP was an independent risk factor for delayed bleeding after adjusting for age, gender, and number of polyps (adjusted odds ratio 14.4;95 % confidence interval = 1.88 - 110.6).
+Conclusion  Implementation of CSP significantly reduces risk of delayed bleeding associated with removing small and diminutive polyps in screening colonoscopy.

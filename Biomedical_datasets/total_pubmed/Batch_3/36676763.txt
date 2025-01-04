@@ -1,0 +1,16 @@
+Background and Objectives: Rho GTPase-activating protein (RhoGAP) is a negative regulatory element of Rho GTPases and participates in tumorigenesis.
+Rho GTPase-activating protein 21 (ARHGAP21) is one of the RhoGAPs and its role in cholangiocarcinoma (CCA) has never been disclosed in any publications.
+Materials and Methods: The bioinformatics public datasets were utilized to investigate the expression patterns and mutations of ARHGAP21 as well as its prognostic significance in CCA.
+The biological functions of ARHGAP21 in CCA cells (RBE and Hccc9810 cell) were evaluated by scratch assay, cell counting kit-8 assay (CCK8) assay, and transwell migration assay.
+In addition, the underlying mechanism of ARHGAP21 involved in CCA was investigated by the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis, and the most significant signaling pathway was identified through gene set enrichment analysis (GSEA) and the Western blot method.
+The ssGSEA algorithm was further used to explore the immune-related mechanism of ARHGAP21 in CCA.
+The ARHGAP21 expression in CCA tissue was higher than it was in normal tissue, and missense mutation was the main alteration of ARHGAP21 in CCA.
+Moreover, the expression of ARHGAP21 had obvious differences in patients with different clinical characteristics and it had great prognostic significance.
+Based on cell experiments, we further observed that the proliferation ability and migration ability of the ARHGAP21-knockdown group was reduced in CCA cells.
+Several pathological signaling pathways correlated with proliferation and migration were determined by GO and KEGG analysis.
+Furthermore, the PI3K/Akt signaling pathway was the most significant one.
+GSEA analysis further verified that ARHGAP21 was highly enriched in PI3K/
+Akt signaling pathway, and the results of Western blot suggested that the phosphorylated PI3K and Akt were decreased in the ARHGAP21-knockdown group.
+The drug susceptibility of the PI3K/Akt signaling pathway targeted drugs were positively correlated with ARHGAP21 expression.
+Moreover, we also discovered that ARHGAP21 was correlated with neutrophil, pDC, and mast cell infiltration as well as immune-related genes in CCA.
+Conclusions: ARHGAP21 could promote the proliferation and migration of CCA cells by activating the PI3K/Akt signaling pathway, and ARHGAP21 may participate in the immune modulating function of the tumor microenvironment.

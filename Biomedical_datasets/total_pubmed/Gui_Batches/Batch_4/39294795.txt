@@ -1,0 +1,10 @@
+Meta-analysis is a quantitative way of synthesizing results from multiple studies to obtain reliable evidence of an intervention or phenomenon.
+Indeed, an increasing number of meta-analyses are conducted in environmental sciences, and resulting meta-analytic evidence is often used in environmental policies and decision-making.
+We conducted a survey of recent meta-analyses in environmental sciences and found poor standards of current meta-analytic practice and reporting.
+For example, only ~ 40% of the 73 reviewed meta-analyses reported heterogeneity (variation among effect sizes beyond sampling error), and publication bias was assessed in fewer than half.
+Furthermore, although almost all the meta-analyses had multiple effect sizes originating from the same studies, non-independence among effect sizes was considered in only half of the meta-analyses.
+To improve the implementation of meta-analysis in environmental sciences, we here outline practical guidance for conducting a meta-analysis in environmental sciences.
+We describe the key concepts of effect size and meta-analysis and detail procedures for fitting multilevel meta-analysis and meta-regression models and performing associated publication bias tests.
+We demonstrate a clear need for environmental scientists to embrace multilevel meta-analytic models, which explicitly model dependence among effect sizes, rather than the commonly used random-effects models.
+Further, we discuss how reporting and visual presentations of meta-analytic results can be much improved by following reporting guidelines such as PRISMA-EcoEvo (Preferred Reporting Items for Systematic Reviews and Meta-Analyses for Ecology and Evolutionary Biology).
+This paper, along with the accompanying online tutorial, serves as a practical guide on conducting a complete set of meta-analytic procedures (i.e., meta-analysis, heterogeneity quantification, meta-regression, publication bias tests and sensitivity analysis) and also as a gateway to more advanced, yet appropriate, methods.

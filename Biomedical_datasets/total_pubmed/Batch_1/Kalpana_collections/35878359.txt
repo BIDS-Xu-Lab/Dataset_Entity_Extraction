@@ -1,0 +1,11 @@
+HPS_06257 has been identified as an important protective antigen against Glaesserella parasuis infection.
+However, little is known about the role of HPS_06257 in the protective immune response.
+A whole-genome data analysis showed that among 18 isolates of Glaesserella parasuis, 11 were positive for the HPS_06257 gene, suggesting that not every strain contains this gene.
+We used PCR to investigate the presence of the HPS_06257 gene among 13 reference strains and demonstrated that 5 strains contained the gene.
+A polyclonal antibody against HPS_06257 was generated with a recombinant protein to study the expression of HPS_06257 in those 13 strains.
+Consistent with the PCR data, five strains expressed HPS_06257, whereas eight strains were HPS_06257 null.
+We also compared the protective effects of HPS_06257 against an HPS_06257-expressing strain (HPS5) and an HPS_06257-null strain (HPS11).
+Immunization with HPS_06257 only protected against HPS5 and not HPS11.
+Moreover, phagocytosis of antibody-opsonized bacteria demonstrates that the antibody against HPS_06257 increased the phagocytosis of the HPS5 strain by macrophages but not the phagocytosis of the HPS11 strain, suggesting that antibody-dependent phagocytosis is responsible for the protective role exerted by HPS_06257 in the immune response to HPS5.
+Our data also show that the antibody against HPS_06257 increased the phagocytosis of the other HPS_06257-expressing strains by macrophages but not that of HPS_06257-null strains.
+In summary, our findings demonstrate that antibody-dependent phagocytosis contributes to the protective immune response induced by immunization with HPS_06257 against HPS_06257-expressing strains.

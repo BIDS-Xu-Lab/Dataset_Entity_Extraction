@@ -1,0 +1,9 @@
+Hypertonic saline (HTS) has been proposed as a treatment after aneurysmal subarachnoid hemorrhage (SAH) to minimize ischemic brain injury due to its osmotic and rheologic properties.
+Although the benefits of 7.2% HTS use in brain injury have been studied, there is a paucity of data on the use of 3%HTS.
+We investigated whether 3%HTS can reduce brain water content and improve neurologic function after SAH in the rodent model compared to 0.9% saline solution (NS).
+Neurologic testing was conducted at 24 hours post-SAH prior to sacrificing animals for brain water content evaluation.
+There was significant potentiation of brain water content in the right hemisphere between 3%HTS and NS groups.
+The modified Garcia score was not significantly different between the two groups; however, the vibrissae-stimulated forelimb placement test showed significantly lower scores in the HTS group.
+3%HTS does not decrease brain edema or improve neurologic deficits as compared to NS.
+In fact, our study showed 3%HTS potentiated brain edema and worsened neurologic deficits in the rat SAH model.
+Given the potential adverse effects of HTS therapies, including hyperchloremic acidosis, and the lack of benefit found in our study, more investigation is required to evaluate the clinical use of 3%HTS in the setting of SAH.

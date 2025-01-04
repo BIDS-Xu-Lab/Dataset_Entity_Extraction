@@ -1,0 +1,10 @@
+Cellular energetics is thought to have played a key role in dictating all major evolutionary transitions in the history of life on Earth.
+However, how exactly cellular energetics and metabolism come together to shape evolutionary paths is not well understood.
+In particular, when an organism is evolved in different energy environments, what are the phenomenological differences in the chosen evolutionary trajectories, is a question that is not well understood.
+In this context, starting from an Escherichia coli K-12 strain, we evolve the bacterium in five different carbon environments-glucose, arabinose, xylose, rhamnose and a mixture of these four sugars (in a predefined ratio) for approximately 2,000 generations.
+At the end of the adaptation period, we quantify and compare the growth dynamics of the strains in a variety of environments.
+The evolved strains show no specialized adaptation towards growth in the carbon medium in which they were evolved.
+Rather, in all environments, the evolved strains exhibited a reduced lag phase and an increased growth rate.
+Sequencing results reveal that these dynamical properties are not introduced via mutations in the precise loci associated with utilization of the sugar in which the bacterium evolved.
+These phenotypic changes are rather likely introduced via mutations elsewhere on the genome.
+Data from our experiments indicate that evolution in a defined environment does not alter hierarchy in mixed-sugar utilization in bacteria.

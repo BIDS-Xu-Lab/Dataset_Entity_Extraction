@@ -1,0 +1,6 @@
+This paper describes the efficiency of Dutch hospitals using the method of Data Envelopment Analysis (DEA).
+In particular the analysis focuses on explaining cost inefficiency measures due to each hospital's operating environment.
+In previous works, the resulting DEA score is regressed on environmental factors via a Tobit approach.
+Previously, these approaches have been used (Simar and Wilson, J Prod Anal 7(1):63-80, 2000) but later these authors (Simar and Wilson 2007) demonstrated that bias is incurred since the efficiency score is a point estimate without a probability distribution around it that is required by the Tobit methodology.
+In this paper we use the Simar and Wilson bootstrapping techniques in order to obtain more efficient estimates of the environmental effects.
+It is shown that differences in estimated effects exist between the non-bootstrapped and bootstrapped models.

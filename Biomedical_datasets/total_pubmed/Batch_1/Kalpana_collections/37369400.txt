@@ -1,0 +1,13 @@
+The study assessed the prevalence of physical violence against pregnant women and its associated factors in sub-Saharan Africa (SSA).
+We analysed cross-sectional data of 108971 women in sexual unions from the most recent Demographic and Health Surveys of 26 countries in SSA.
+The predictors of physical violence were examined using a multilevel binary logistic regression.
+All the results were presented as adjusted odds ratios (aORs) with their corresponding 95% confidence intervals (CIs).
+108 971 women who had ever been pregnant.
+Physical violence was identified in 6.0% of pregnant women in SSA.
+The highest prevalence (14.0%) was reported in South Africa, while Burkina Faso recorded the lowest (2.1%).
+Women who had primary (aOR=1.26, 95% CI=1.15, 1.38) and secondary education (aOR=1.15, 95% CI=1.01,1.32); those who were cohabiting (aOR=1.21, 95% CI=1.11, 1.32); those who were working (aOR=1.17, 95% CI=1.08, 1.28); and those whose partners had primary (aOR=1.15, 95% CI=1.04, 1.28) and secondary education (aOR=1.14, 95% CI=1.01, 1.28) were more likely to experience physical violence during pregnancy compared with those who had no formal education; those who were married; those who were not working, and those whose partners had no formal education, respectively.
+Moreover, women whose partners consumed alcohol (aOR=2.37, 95% CI=2.20, 2.56); those who had parity of four or more (aOR=2.06, 95% CI=1.57, 2.72); and those who perceived intimate partner violence (IPV) as a culturally accepted norm (aOR=1.55, 95% CI=1.44, 1.67) had higher odds of experiencing physical violence during pregnancy compared to those whose partners did not consume alcohol, those with parity zero, and those who did not perceive IPV as culturally accepted, respectively.
+On the contrary, women who were aged 35-39, those who were of the richest wealth index, and those in rural areas had reduced odds of experiencing physical violence during pregnancy.
+Based on the findings, community leaders are encouraged to liaise with law enforcement agencies to strictly enforce laws on gender-based violence by prosecuting perpetrators of IPV against pregnant women as a deterrent.
+Also, intensifying education on what constitutes IPV and the potential consequences on the health of pregnant women, their children, and their families will be laudable.
+Improving the socioeconomic status of women may also help to eliminate IPV perpetration against women at their pregnancy stage.

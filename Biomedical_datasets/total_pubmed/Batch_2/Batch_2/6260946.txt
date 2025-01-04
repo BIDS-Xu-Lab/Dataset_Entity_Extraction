@@ -1,0 +1,5 @@
+We studied 99mTc- pertechnetate (TcO4) uptake measurements in rabbit knee joints.
+Results in non-inflamed rabbit knee joints indicated that the difference between paired measurements of both knees (R-L difference) was an accurate measure, independent of age and weight.
+In the early phase of unilateral antigen-induced arthritis, there was a particularly close correlation between R-L difference values and clinical scores of inflammation, reflecting an acute type of inflammation.
+Data obtained after the early phase of arthritis suggested that R-L difference measurements provide a more sensitive measure of inflammation than clinical scores.
+99mTcO4 uptake measurements can reliably be used to detect and quantitate joint inflammation in animals as small as rabbits.

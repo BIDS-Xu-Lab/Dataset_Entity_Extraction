@@ -1,0 +1,8 @@
+This paper reports results obtained using white light diffraction phase microscopy (wDPM) on captured images of breast and colon tissue samples, marking a contribution to the advancement in biomedical imaging.
+Unlike conventional brightfield microscopy, wDPM offers the capability to capture intricate details of biological specimens with enhanced clarity and precision.
+It combines high resolution, enhanced contrast, and quantitative capabilities with non-invasive, label-free imaging.
+These features make it a useful tool for tissue imaging, providing detailed and accurate insights into tissue structure and dynamics without compromising the integrity of the samples.
+Our findings underscore the potential of quantitative phase imaging in histopathology, in the context of automating the process of tissue analysis and diagnosis.
+Of particular note are the insights gained from the reconstructed phase images, which provide physical data regarding peripheral glandular cell membranes.
+These observations serve to focus attention on pathologies involving the basal membrane, such as early invasive carcinoma.
+Through our analysis, we aim to contribute to catalyzing further advancements in tissue (breast and colon) imaging.

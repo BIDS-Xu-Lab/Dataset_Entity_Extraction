@@ -1,0 +1,11 @@
+Crown dimensions data of deciduous teeth hold anthropological, forensic, and archaeological value.
+However, such information remains scarce for the Chinese population.
+This multi-center study aimed to collect a large sample of deciduous crown data from Chinese children using three-dimensional measurement methods and to analyze their dimensions.
+A total of 1592 children's deciduous dentition samples were included, and the sample size was distributed according to Northeast, North, East, Northwest, Southwest and South China.
+Digital dental models were reconstructed from plaster dental models.
+Independent sample t test, paired t test, principal component analysis (PCA), and factor analysis (FA) were used to analyze the tooth crown dimensions.
+18,318 deciduous teeth from 1592 children were included.
+Males exhibited slightly larger values than females.
+The range of sexual dimorphism percentages for each measurement was as follows: mesiodistal diameter (0.40-2.08), buccolingual diameter (0.13-2.24), and maxillogingival diameter (0.48-3.37).
+The FA results showed that the main trend of crown dimensions changes was the simultaneous increase or decrease in mesiodistal diameter, buccolingual diameter and maxillogingival diameter in three directions.
+This is the first large-scale survey of deciduous tooth crown dimensions in China, which supplements the data of deciduous tooth measurement and provides a reference for clinical application.

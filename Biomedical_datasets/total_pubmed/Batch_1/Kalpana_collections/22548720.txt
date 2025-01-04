@@ -1,0 +1,10 @@
+Vitamin D deficiency is adversely associated with diseases characterized by inflammation.
+The combination of the high incidence of vitamin D deficiency in patients undergoing allogeneic stem cell transplants (SCT) and the potential role of vitamin D deficiency in influencing graft-versus-host disease led us to further characterize the expression of VDR on alloreactive T cells.
+We hypothesized that vitamin D receptor expression may directly regulate alloreactive T cell responses.
+To overcome existing limitations in measuring VDR in bulk cellular populations, we developed a flow cytometric assay to measure cytoplasmic VDR in human T cells.
+Upon stimulation, VDR was expressed extremely early and exhibited sustained upregulation with chronic stimulation.
+VDR expression was also coupled to cytokine production, proliferation, and ERK1/2 phosphorylation.
+In addition, VDR exhibited a maturation stage-specific pattern of expression, with greatest expression on cells known to mediate GVHD, naïve and early memory T cells.
+Alloreactive T cells upregulated VDR, whereas the nonreactive T cells did not.
+Finally, repletion of vitamin D in vitro was sufficient to significantly reduce alloreactive T cell responses.
+These data suggest that vitamin D effects on T cells may be important in reducing graft versus host disease (GVHD) in the allogeneic stem cell transplant setting.

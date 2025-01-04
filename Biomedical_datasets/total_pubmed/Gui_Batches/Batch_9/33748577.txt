@@ -1,0 +1,9 @@
+An MXene-graphene field-effect transistor (FET) sensor for both influenza virus and 2019-nCoV sensing was developed and characterized.
+The developed sensor combines the high chemical sensitivity of MXene and the continuity of large-area high-quality graphene to form an ultra-sensitive virus-sensing transduction material (VSTM).
+Through polymer linking, we are able to utilize antibody-antigen binding to achieve electrochemical signal transduction when viruses are deposited onto the VSTM surface.
+The MXene-graphene VSTM was integrated into a microfluidic channel that can directly receive viruses in solution.
+The developed sensor was tested with various concentrations of antigens from two viruses: inactivated influenza A (H1N1) HA virus ranging from 125 to 250,000 copies/mL and a recombinant 2019-nCoV spike protein ranging from 1 fg/mL to 10 pg/mL. The average response time was about ∼50 ms, which is significantly faster than the existing real-time reverse transcription-polymerase chain reaction method (>3 h).
+The low limit of detection (125 copies/mL for the influenza virus and 1 fg/mL for the recombinant 2019-nCoV spike protein) has demonstrated the sensitivity of the MXene-graphene VSTM on the FET platform to virus sensing.
+Especially, the high signal-to-viral load ratio (∼10% change in source-drain current and gate voltage) also demonstrates the ultra-sensitivity of the developed MXene-graphene FET sensor.
+In addition, the specificity of the sensor was also demonstrated by depositing the inactivated influenza A (H1N1) HA virus and the recombinant 2019-nCoV spike protein onto microfluidic channels with opposite antibodies, producing signal differences that are about 10 times lower.
+Thus, we have successfully fabricated a relatively low-cost, ultrasensitive, fast-responding, and specific inactivated influenza A (H1N1) and 2019-nCoV sensor with the MXene-graphene VSTM.
