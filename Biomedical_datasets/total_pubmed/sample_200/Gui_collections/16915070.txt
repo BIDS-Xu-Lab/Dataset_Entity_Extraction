@@ -1,0 +1,3 @@
+Bleomycin is a widely used chemotherapeutic that has been shown to induce life-threatening interstitial lung disease in a small subset of patients.
+We report a case of bleomycin-induced pneumonitis in a patient treated for Hodgkin lymphoma with severe clinical respiratory symptoms, a marked restrictive pattern on pulmonary function tests, and FDG avid lymphadenopathy and diffuse increased uptake involving both lungs on imaging.
+To our knowledge, the in-line computed tomography/18F-fluorodeoxyglucose positron emission tomography of bleomycin induced pneumonitis has not been previously reported in the literature.

@@ -1,0 +1,8 @@
+We present the rationale for and the design of a prospective trial to evaluate the role of preoperative frailty and mobility assessments in older women undergoing surgery for the treatment of pelvic organ prolapse (POP) as a planned prospective supplemental trial to the ASPIRe (Apical Suspension Repair for Vault Prolapse In a Three-Arm Randomized Trial Design) trial.
+The Frailty ASPIRe Study (FASt) examines the impact of preoperative frailty and mobility on surgical outcomes in older women (≥65 years) participating in the ASPIRe trial.
+The primary objective of FASt is to determine the impact of preoperative age, multimorbidity, frailty, and decreased mobility on postoperative outcomes in older women (≥65 years old) undergoing surgery for POP.
+The selection of the preoperative assessments, primary outcome measures, and participant inclusion is described.
+Frailty and mobility measurements will be collected at the preoperative visit and include the 6 Robinson frailty measurements and the Timed Up and Go mobility test.
+The main outcome measure in the FASt supplemental study will be moderate to severe postoperative adverse events according to the Clavien-Dindo Severity Classification.
+This trial will assess impact of preoperative age, multimorbidity, frailty, and decreased mobility on postoperative outcomes in older women (≥65 years old) undergoing surgical procedures for the correction of apical POP.
+Information from this trial may help both primary care providers and surgeons better advise/inform women on their individual risks of surgical complications and provide more comprehensive postoperative care to women at highest risk of complications.

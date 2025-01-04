@@ -1,0 +1,6 @@
+It is common for a cardiac mass to be discovered accidentally during an echocardiographic examination.
+Following the relief of a cardiac mass, being able to evaluate and characterize it using non-invasive imaging methods is critical.
+Echocardiography, computed tomography (CT), cardiac magnetic resonance imaging (CMR), and positron emission tomography (PET) are the main imaging modalities used to evaluate cardiac masses.
+Although multimodal imaging often allows for a better assessment, CMR is the best technique for the non-invasive characterization of tissues, as the different MR sequences help in the diagnosis of cardiac masses.
+This article provides detailed descriptions of each CMR sequence employed in the evaluation of cardiac masses, underlining the potential information it can provide.
+The description in the individual sequences provides useful guidance to the radiologist in performing the examination.

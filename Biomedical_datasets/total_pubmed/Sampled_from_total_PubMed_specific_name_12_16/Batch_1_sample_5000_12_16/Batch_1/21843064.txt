@@ -1,0 +1,7 @@
+The multidomain metalloprotease ADAMTS13 limits thrombus formation via the cleavage of large multimeric forms of von Willebrand factor.
+Deficiency of functional ADAMTS13 is associated with a number of disease pathologies including thrombotic thrombocytopenic purpura, cardiovascular disease and inflammation.
+To date, deficiency is known to result from mutations in the ADAMTS13 gene or from inhibitory and non-neutralizing antibodies.
+The exact contributory effect of genetic variation in ADAMTS13 on observable pathology is unclear, and specifically, polymorphisms of ADAMTS13 have not been the focus of much systematic study.
+Here we have amassed an up-to-date collection of ADAMTS13 polymorphisms described in the literature and from the National Center for Biotechnology Information's SNP database.
+This article considers the effect that these polymorphisms may have on the expression and function of ADAMTS13 and speculates on their relevance in future therapies based on pharmacogenomics.
+Y: National Center for Biotechnology Information's SNP database (No need to annotate, just for notice).

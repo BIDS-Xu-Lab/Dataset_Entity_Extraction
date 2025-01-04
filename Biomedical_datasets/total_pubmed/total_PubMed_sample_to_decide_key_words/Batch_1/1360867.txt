@@ -1,0 +1,5 @@
+The effects of various doses of the alpha-2 adrenoceptor agonist clonidine administered systemically (30, 50 and 100 micrograms/kg i.v.), were investigated on the vocalization threshold to paw pressure in normal rats and in rats with Freund's adjuvant-induced arthritis.
+Previous results have suggested that there is an increase in the activity of the bulbospinal noradrenergic systems in these arthritic animals.
+In the present study, clonidine led to significant antinociceptive effects in both groups of rats.
+Clonidine was found to be highly effective in arthritic animals, even at the lower concentration: the elevation in threshold produced by 30 micrograms/kg i.v. was 160% in arthritic vs. 124% in normal rats.
+The effects of clonidine were prevented dose-dependently by pretreatment with yohimbine or idazoxan 250 to 1000 micrograms/kg i.v., in the two groups of rats, indicating clearly that the dose-dependent effects of i.v. clonidine are mediated by alpha-2 adrenoceptors.

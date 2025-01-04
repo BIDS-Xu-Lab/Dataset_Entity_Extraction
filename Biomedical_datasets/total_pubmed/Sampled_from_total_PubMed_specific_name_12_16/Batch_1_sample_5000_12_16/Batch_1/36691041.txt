@@ -1,0 +1,14 @@
+Currently in the United Kingdom, cardiovascular disease (CVD) risk assessment is based on the QRISK3 score, in which 10% 10-year CVD risk indicates clinical intervention.
+However, this benchmark has limited efficacy in clinical practice and the need for a more simple, non-invasive risk stratification tool is necessary.
+Retinal photography is becoming increasingly acceptable as a non-invasive imaging tool for CVD.
+Previously, we developed a novel CVD risk stratification system based on retinal photographs predicting future CVD risk.
+This study aims to further validate our biomarker, Reti-CVD, (1) to detect risk group of ≥ 10% in 10-year CVD risk and (2) enhance risk assessment in individuals with QRISK3 of 7.5-10% (termed as borderline-QRISK3 group) using the UK Biobank.
+Reti-CVD scores were calculated and stratified into three risk groups based on optimized cut-off values from the UK Biobank.
+We used Cox proportional-hazards models to evaluate the ability of Reti-CVD to predict CVD events in the general population.
+C-statistics was used to assess the prognostic value of adding Reti-CVD to QRISK3 in borderline-QRISK3 group and three vulnerable subgroups.
+Among 48,260 participants with no history of CVD, 6.3% had CVD events during the 11-year follow-up.
+Reti-CVD was associated with an increased risk of CVD (adjusted hazard ratio [HR] 1.41; 95% confidence interval [CI], 1.30-1.52) with a 13.1% (95% CI, 11.7-14.6%) 10-year CVD risk in Reti-CVD-high-risk group.
+C statistics increased by 0.014 (0.010-0.017) in non-statin cohort, 0.013 (0.007-0.019) in stage 1 hypertension cohort, and 0.023 (0.018-0.029) in middle-aged cohort for CVD event prediction after adding Reti-CVD to QRISK3.
+Reti-CVD has the potential to identify individuals with ≥ 10% 10-year CVD risk who are likely to benefit from earlier preventative CVD interventions.
+For borderline-QRISK3 individuals with 10-year CVD risk between 7.5 and 10%, Reti-CVD could be used as a risk enhancer tool to help improve discernment accuracy, especially in adult groups that may be pre-disposed to CVD.
+Y: UK Biobank (No need to annotate, just for notice).

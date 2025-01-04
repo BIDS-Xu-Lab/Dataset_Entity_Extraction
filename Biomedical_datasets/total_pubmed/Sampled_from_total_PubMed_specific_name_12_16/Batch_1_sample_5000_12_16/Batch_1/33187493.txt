@@ -1,0 +1,18 @@
+Both bullying victimization and perpetration were associated with depression, social phobia, physical and psychological child abuse and Internet addiction in Lebanon.
+The prevalence of bullying in Lebanon is alarming, with 50% of school-aged children and adolescents reporting being bullied at some point.
+The high rate of both bullying victimization can be reflective of the inefficacy of current prevention and intervention policies in targeting associated problematic individual and contextual factors.
+The objective of the present study was to analyze factors associated with bullying victimization and validate the Illinois Bully Scale among Lebanese adolescents.
+This is cross-sectional study that took place between January and May 2019.
+We enrolled 1810 adolescents between 14 and 17 years of age.
+The Illinois Bully scale was used to measure bullying victimization.
+In order to ensure the adequacy of the sample with values greater than 0.8 - an indicator that component or factor analysis was useful for these variables - we used Kaiser-Meyer-Olkin (KMO) measurement.
+Statistical significance considered if the p-value < 0.05.
+The results showed that 841 (46.5%, CI: 44.1% - 48.7%) participants were classified as having been previously bullied.
+None of the bullying scale items was removed.
+Items on the bullying scale converged on a two-factor solution with Eigenvalues greater than 1, accounting for a total of 73.63% of the variance (Factor 1: bullying victimization; Factor 2: bullying perpetration; KMO = 0.899, Bartlett's sphericity test p < 0.001; αCronbach = 0.955).
+Having a separate parents (ORa = 3.08), Mild (ORa-4.71) to moderate (ORa = 3.84) internet addiction test, higher social fear (ORa = 1.50), higher psychological abuse (ORa = 3.59), higher child neglect (ORa = 2.21) and physical (ORa = 4.55) abuse were significantly associated with higher odds of being bullied.
+However, higher social avoidance (ORa = 0.49), poor (ORa = 0.20), fair (ORa = 0.94) and very good (ORa = 0.04) physical activity as compared to sedentary were significantly associated with lower odds of being bullied.
+Our findings attest that bullying victimization is likely to be associated with certain factors such as child abuse of all forms, Internet addiction, social fear and avoidance.
+In addition, the Illinois Bully Scale was validated in Lebanon.
+More attention should be paid to students vulnerable to bullying victimization, such as those with environmental or domestic problems, and adolescents with psychological disorders such as behavioral addictions.
+Y: Illinois Bully Scale (No need to annotate, just for notice).

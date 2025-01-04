@@ -1,0 +1,12 @@
+Quick reversal of warfarin anticoagulation is important in life threatening bleeding.
+The aim of this study is to improve the administration delay when using Prothrombin Complex Concentrate (PCC) for the emergent reversal of warfarin anticoagulation in the emergency department.
+An audit and feedback quality improvement project was conducted in three phases: a retrospective audit phase, an analysis and feedback phase and prospective evaluation phase.
+The charts of all eligible patients in a single Emergency Department (ED) in Québec, Canada, who received PCC since the introduction of this product in 2009 until October 31, 2011, were retrospectively audited.
+The administration delay of PCC was calculated from the time of prescription to the time of administration.
+With the data, we determined where improvements could be attained, and jointly with all stakeholders in the ED and the blood bank, we created an action plan to ensure the timely administration of PCC.
+The action plan was then implemented and a six-month prospective evaluation study was conducted to determine any improvement.
+Seventy-seven charts were reviewed in the retrospective chart audit.
+We found that this delay was principally due to the following barriers: communication problems between the ED and the blood bank as well as delivery inefficiencies.
+An action plan that involved a flowchart to remind all clinicians how to order PCC and a new delivery method from the blood bank to the ED were developed.
+By implementing an action plan comprising of a flowchart and a new delivery process, this audit and feedback quality improvement project reduced the administration time of PCC by more than half.
+Future studies to measure the impact of a similar audit and feedback process involving an action plan in other centers should be conducted before this type of quality improvement process is implemented on wider scale.

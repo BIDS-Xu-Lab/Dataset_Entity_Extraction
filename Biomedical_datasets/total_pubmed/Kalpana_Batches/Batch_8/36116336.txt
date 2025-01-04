@@ -1,0 +1,10 @@
+The United Nation's Sustainable Development Goal 3.1 aims to reduce maternal mortality worldwide to 70 per 100,000 live births by 2030, which requires greater skilled birth attendant (SBA) coverage and increased health awareness.
+By evaluating relevant sociodemographic factors, this study aimed to identify different groups of women who lack health awareness and access to SBA services in eight selected low-and-middle-income countries (LMICs) of South and South-East Asia (SSEA), namely, Afghanistan, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines, and Timor-Leste.
+Nationally representative Demographic and Health Surveys (DHS) on women aged 15-49 years were analysed with a pooled sample of 95,521.
+Complex survey-adjusted logistic regression models were fitted to assess sociodemographic factors, SBA coverage, and health awareness.
+Women with higher health awareness were 44.4% (95% CI:1.32-1.58, p<0.001) more likely to access SBAs compared to the rest.
+Women and/or their partners with no or primary-level education, who were poorer, became young mothers (≤20 years), not involved in decision-making, or hardly exposed to media were less likely to seek SBAs and have higher health awareness.
+Women in rural areas with more children were also less likely to use SBAs.
+Timor-Leste, Afghanistan, Myanmar, and Nepal underperformed on SBA coverage amongst the selected LMICs of the SSEA region.
+Health education and mass-media-driven awareness could be an interventional avenue for LMICs to increase SBA coverage.
+Future studies comparing health policies within the SSEA region are required to identify reasons behind some nations' underperformance, while others are on track to achieve SDG 3.1.

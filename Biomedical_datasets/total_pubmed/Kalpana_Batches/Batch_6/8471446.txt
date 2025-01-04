@@ -1,0 +1,11 @@
+Little information is currently available on the use of hospital resources and the resulting costs of treating any advanced cancer.
+Such data may be useful for planning purposes and for calculating the cost effectiveness of measures designed to reduce the incidence of advanced disease (such as the National Breast Screening Programme).
+A retrospective analysis of the medical records of 50 patients with advanced breast cancer who attended the Guy's Hospital Oncology Unit and who died between October 1988 and December 1990 has therefore been undertaken.
+For each patient, the duration of in-patient stays and principal indications for admissions were recorded, together with the number of out-patient attendances.
+Details of endocrine treatment, chemotherapy and radiotherapy were abstracted as were all radiological and laboratory investigations.
+Costs for each of these activities were calculated.
+The median duration of advanced disease was 17 months (mean 27 months; range 7 days-12 years).
+The mean cost of treatment per patients was calculated to be 7,620 pounds (range 317 pounds-27,860 pounds).
+Mean duration of in-patient stay was 32 days (0-133) and this accounted for 56% of total costs.
+The large majority (> 80%) of the time spent as an in-patient was for the care of serious illness rather than for specific antitumour treatment.
+Cytotoxic drugs accounted for 9% of the total cost, compared with 8% for radiotherapy and 13% for laboratory and radiological investigations.

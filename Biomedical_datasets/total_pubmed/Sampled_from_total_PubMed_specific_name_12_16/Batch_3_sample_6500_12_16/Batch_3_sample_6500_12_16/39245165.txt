@@ -1,0 +1,15 @@
+Routine milk samples are commonly subjected to spectroscopic analysis within the mid-infrared (MIR) region of the electromagnetic spectrum to estimate macro-constituents of milk like fat, protein, lactose, and urea content.
+These spectra, however, can also be used to predict other traits, such as daily body condition score (BCS) change.
+The objective of the present study was to assess the transferability across countries of equations to predict daily body condition score change (ΔBCS) developed using milk MIR data collected in Ireland and in Canada.
+Body condition was scored on a scale from 1 (emaciated) to 5 (obese) in both countries.
+A total of 347,254 BCS records from 80,400 Canadian cows were available along with 73,193 BCS records from 6,572 Irish cows.
+Partial least squares regression (PLSR) and neural networks (NN) were separately used to predict daily ΔBCS.
+Two scenarios were studied 1) using Canadian and Irish data combined as the calibration data set to predict daily ΔBCS in Canada and in Ireland separately, and 2) Canadian and Irish data used separately to predict daily ΔBCS in each country separately.
+These prediction methods were applied to data with and without pretreatment (i.e., first derivative of the spectrum) as well as with and without standardizing daily ΔBCS across countries.
+For all the scenarios investigated, the correlation between actual and predicted daily ΔBCS when calibrated and validated (using cross-validation) in the same country ranged from 0.92 to 0.94, and from 0.85 to 0.87 for the Canadian and Irish data sets, respectively.
+When the data from Canada and Ireland were combined in the calibration process to predict daily ΔBCS, the correlations between actual and predicted ΔBCS were ≥ 0.90 and ≥ 0.80 for Canadian and Irish daily ΔBCS, respectively indicating no improvement in predictive ability.
+Predictive performance when calibrated using just Canadian data and validated using just Irish data was poor, and vice versa.
+Nonetheless, when developing equations for a country for which a limited database (i.e., 100 records) of gold standard and MIR data were available, predictive performance improved when the limited database was supplemented with the large data set from the other country.
+In general, for some of the investigated scenarios, standardizing the daily ΔBCS data within country before undertaking the calibration improved prediction accuracy.
+In conclusion, the benefit of merging data from different countries, at least based on the trait (i.e., daily ΔBCS) and countries (i.e., Ireland and Canada) considered in the present study were limited and, in cases, counter-productive.
+Y Canada, Ireland (No need to annotate, just for notice).

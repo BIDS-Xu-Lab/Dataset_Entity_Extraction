@@ -1,0 +1,12 @@
+Resting-state functional magnetic resonance imaging (rs-fMRI) has been extensively used to study brain aging, but the age effect on the frequency content of the rs-fMRI signal has scarcely been examined.
+Moreover, the neuronal implications of such age effects and age-sex interaction remain unclear.
+In this study, we examined the effects of age and sex on the rs-fMRI signal frequency using the Leipzig mind-brain-body data set.
+Over a frequency band of up to 0.3 Hz, we found that the rs-fMRI fluctuation frequency is higher in the older adults, although the fluctuation amplitude is lower.
+The rs-fMRI signal frequency is also higher in men than in women.
+Both age and sex effects on fMRI frequency vary with the frequency band examined but are not found in the frequency of physiological-noise components.
+This higher rs-fMRI frequency in older adults is not mediated by the electroencephalograph (EEG)-frequency increase but a likely link between fMRI signal frequency and EEG entropy, which vary with age and sex.
+Additionally, in different rs-fMRI frequency bands, the fMRI-EEG amplitude ratio is higher in young adults.
+This is the first study to investigate the neuronal contribution to age and sex effects in the frequency dimension of the rs-fMRI signal and may lead to the development of new, frequency-based rs-fMRI metrics.
+Our study demonstrates that Fourier analysis of the fMRI signal can reveal novel information about aging.
+Furthermore, fMRI and EEG signals reflect different aspects of age- and sex-related brain differences, but the signal frequency and complexity, instead of amplitude, may hold their link.
+Y and Leipzig mind-brain-body data set (No need to annotate, just for notice).

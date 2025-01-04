@@ -1,0 +1,9 @@
+In 2000 to 2016 the highest number of suicides among Dutch youths under 20 in any given year was 58 in 2013.
+In 2017 this number increased to 81 youth suicides.
+To get more insight in what types of youths died by suicide, particularly in recent years (2013-2017) we looked at micro-data of Statistics Netherlands and counted suicides among youths till 23, split out along gender, age, regions, immigration background and place in household and compared this to the general population of youths in the Netherlands.
+We also compared the demographics of young suicide victims to those of suicide victims among the population as a whole.
+We found higher suicide rates among male youths, older youths, those of Dutch descent and youths living alone.
+These differences were generally smaller than in the population as a whole.
+There were also substantial geographical differences between provinces and healthcare regions.
+The method of suicide is different in youth compared to the population as a whole: relatively more youth suicides by jumping or lying in front of a moving object and relatively less youth suicides by autointoxication or drowning, whereas the most frequent method of suicide among both groups is hanging or suffocation.
+Y Statistics Netherlands (No need to annotate, just for notice).

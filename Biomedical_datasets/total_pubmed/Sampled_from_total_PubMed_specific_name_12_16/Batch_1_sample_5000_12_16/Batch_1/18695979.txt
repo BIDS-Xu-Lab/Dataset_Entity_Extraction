@@ -1,0 +1,11 @@
+To examine the association between educational level and the use of newly marketed drugs (NMD) among elderly persons.
+We conducted a register-based, retrospective, cross-sectional study of 626,258 people aged 75-89 years who filled at least one drug prescription from August to October 2005 and who, consequently, were registered in the Swedish Prescribed Drug Register (SPDR).
+Data from the SPDR were record-linked to the Swedish National Inpatient Register and the Education Register.
+Newly marketed drugs were defined as new chemical entities that had been approved in Sweden between 2000 and 2004.
+Overall, NMD were prescribed to 7.3% of the study population.
+The use of NMD increased with increasing educational level (6.9% for the lowest educated elderly and 8.1% for the highest educated elderly), and education was associated with NMD [odds ratio (OR) 0.82; 95% confidence interval (CI)]
+0.80-0.88 for <9 compared with > or =13 years of education) after adjustment for age, sex, type of residential area and number of dispensed drugs.
+Decreasing educational level was associated with a lower probability of using most of the NMD, especially oseltamivir (adjusted OR 0.16; 95% CI 0.12-0.22 for <9 years of education compared with > or =13 years of education) and ezetimibe.
+This study suggests that education-related inequalities in NMD use may exist even in a healthcare system that claims to ensure a high degree of equity.
+Future research is required to explain why educational level influences the selection of new drugs and whether it has any impact on health outcomes.
+Y: Swedish Prescribed Drug Register (SPDR), Swedish National Inpatient Register, Education Register (No need to annotate, just for notice).

@@ -1,0 +1,10 @@
+The aim of this study was to evaluate the influence of antiepileptic drugs (AEDs) on lipid levels in adult epilepsy patients.
+We retrospectively reviewed blood data of 5053 patients with epilepsy (aged 20-94 years) and divided them into 3 groups: non AED group (without AED treatment), non-inducer group (using non-inducer AEDs), and inducer group (taking inducer AEDs; phenytoin (PHT), phenobarbital (PB), and carbamazepine (CBZ)).
+As a marker of dyslipidemia, the level of non-high-density lipoprotein cholesterol (non-HDL-C) was calculated by subtracting HDL-cholesterol from total cholesterol.
+The mean non-HDL-C level of non AED group, non-inducer group, and inducer group was 124, 130, and 138mg/dL, respectively.
+In inducer group, patients using CBZ had a higher non-HDL-C level than patients taking PHT or PB.
+When a non-HDL-C level exceeding 180mg/dL was defined as dyslipidemia, use of CBZ was associated with a significantly higher risk of dyslipidemia (adjusted odds ratio (OR); 2.6: 95% confidence interval (CI): 1.8-3.8) in comparison with non AED group.
+Use of valproic acid (VPA) was also associated with a higher non-HDL-C level (OR; 2.1: 95% CI: 1.4-3.2).
+An elevated non-HDL-C level was associated with increasing age, increasing BMI, and male gender, and use of inducers enhanced the risk of dyslipidemia.
+We recommend routine monitoring of the non-HDL-C level when using VPA and inducers, especially CBZ.
+While CBZ and VPA are first-line AEDs, medication should be selected by considering risk factors for dyslipidemia, such as age gender, and obesity.

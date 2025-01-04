@@ -1,0 +1,7 @@
+Treatment of pain with morphine and its congeners in sickle cell anemia is suboptimal, warranting the need for analgesics devoid of side effects, addiction and tolerance liability.
+Small-molecule nociceptin opioid receptor ligands show analgesic efficacy in acute and chronic pain models.
+We show that AT-200, a high affinity nociceptin opioid receptor agonist with low efficacy at the mu opioid receptor, ameliorated chronic and hypoxia/reoxygenation-induced mechanical, thermal and deep tissue/musculoskeletal hyperalgesia in HbSS-BERK sickle mice.
+The antinociceptive effect of AT-200 was antagonized by SB-612111, a nociceptin opioid receptor antagonist, but not naloxone, a non-selective mu opioid receptor antagonist.
+Daily 7-day treatment with AT-200 did not develop tolerance and showed a sustained anti-nociceptive effect, which improved over time and led to reduced plasma serum amyloid protein, neuropeptides, inflammatory cytokines and mast cell activation in the periphery.
+These data suggest that AT-200 ameliorates pain in sickle mice via the nociceptin opioid receptor by reducing inflammation and mast cell activation without causing tolerance.
+Thus, nociceptin opioid receptor agonists are promising drugs for treating pain in sickle cell anemia.

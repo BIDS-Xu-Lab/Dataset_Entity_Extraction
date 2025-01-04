@@ -1,0 +1,10 @@
+For at least the last 200 years it has been suspected that somatic manifestations of psychological distress play a role in the medical recognition and treatment of coronary artery disease (CAD).
+The cardiovascular system is intricately linked to the experience of emotion, and these links may explain how and when neuroticism can cloud the diagnosis of cardiovascular disease.
+A possible source of anginal symptoms in the absence of angiographically documented CAD is high standing on the personality dimension of neuroticism, which is a broad dimension of individual differences in the tendency to experience negative, distressing emotions and to possess associated behavioral and cognitive traits.
+A brief review of the clinical cardiologic literature on chest pain is presented, with special attention to distinguishing true angina pectoris from pseudoangina and related syndromes.
+After a brief description of the major dimensions of normal personality, especially the domain of neuroticism, empirical evidence is reviewed on 1,191 adult men and women who 10 years earlier had made chest pain or discomfort reports part of the National Health and Nutrition Examination Survey.
+The findings illustrate neuroticism's links to illness and disease.
+When the mean initial neuroticism levels of the chest pain groups were compared, significantly higher initial levels of neuroticism were found for those who reported any pain or discomfort.
+As hypothesized, logistic regression results on myocardial infarction death indicated no increased risk due to neuroticism.
+Neuroticism was related to increased somatic complaints, including chest pain or angina-like complaints, but was not causally or etiologically related to objective signs or pathophysiologic evidence of disease, especially CAD.(ABSTRACT TRUNCATED AT 250 WORDS)
+Y: National Health and Nutrition Examination Survey (No need to annotate, just for notice).

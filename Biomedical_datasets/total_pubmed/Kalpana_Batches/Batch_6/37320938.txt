@@ -1,0 +1,15 @@
+Multiple sclerosis (MS) is a demyelinating disease of the central nervous system that leads to neurological impairment and disability, mostly in young-aged people.
+Depression and anxiety are important associated mental disorders for people with MS (PwMS), which influence their life quality.
+During the COVID-19 pandemic, fear and stress levels enhanced dramatically for the general population, but mostly in progressive chronic pathologies such as MS.
+This study aimed to analyze the dynamic of psychological aspects in PwMS pre-pandemic and during pandemic, their connection with clinical outcomes, and with the coronavirus disease.
+We included 95 PwMS with relapsing-remitting MS (RRMS) and secondary progressive MS (SPMS), who were first evaluated 4 years before the pandemic outbreak and the second time 2 years after.
+They completed a series of psychological tests for depression, anxiety, negative automatic thoughts, and stress: Beck Depression Inventory-II (BDI-II), Beck Anxiety Inventory (BAI), Endler Multidimensional Anxiety Scales (EMAS), Automatic Thoughts Questionnaire (ATQ).
+A neurologist evaluated the Expanded Disability Status Scale (EDSS) and a COVID-19 survey was completed by 78 patients.
+During the pandemic, depression was encountered in 9.47% of PwMS, only 1.05% with a severe form, and 6.3% with suicidal thoughts, while anxiety was more frequent (39% of cases).
+Compared to the pre-pandemic period, depression levels remained stable over time (p = 0.55), anxiety was reduced (p<0.001), and stress levels significantly increased (p = 0.001).
+Some social aspects, such as having sufficient income, reduced the risk for psychological comorbidities.
+There was a mild correlation between emotional well-being and neurological disability.
+Of all patients who responded to the survey, 53.84% had previous COVID-19 infections, no patient was hospitalized and 69.23% were vaccinated.
+There was no relationship between the COVID-19 infection and psychological test results.
+During the pandemic, in the MS population depression remained stable, anxiety decreased, and stress levels were enhanced compared to the pre-pandemic period.
+Psychiatric comorbidities were not influenced by the coronavirus infection.

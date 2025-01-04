@@ -1,0 +1,9 @@
+The ORF135 of Helicoverpa armigera single nucleocapsid nucleopolyhedrovirus (HearSNPV)(Ha135) is one of the 20 genes that are unique to HearSNPV.
+Computer-assisted analysis revealed that four potential post translation modification sites, four transcription factor associated domains and a DNA binding protein domain were found in Ha135 amino acid sequence.
+Northern blot analysis of Ha135 indicated that Ha135 transcript was detected at 12 h.p.i. and remained detectable at up to 122 h.p.i.
+RT-PCR method was used to understand the temporal regulation of the transcript at earlier stages, the result showed that the Ha135 transcript was detected as early as 3 h p.i. suggesting that Ha135 was an early gene, which is in agreement with the early promoter motifs.
+The Ha135 protein was also detected at 12 h.p.i and remained detectable until 122 h.p.i.
+by western blot using an anti-Ha135 antiserum.
+The product of Ha135 was found to be about 29 kDa, bigger than the predicted 24 kDa molecular weight, suggesting that post translational modification of the Ha135 protein occur in host cells.
+The subcellular location was studied using EGFP-Ha135, which suggested that the Ha135 protein is primarily localized in the nucleus, which is compatible with several functional domains present in Ha135 amino acid sequence.
+Together, these results suggest the possibility that HearSNPV ORFI35 might be involved in viral DNA transcription and/or replication.

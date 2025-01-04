@@ -1,0 +1,10 @@
+Doxorubicin (DOX) is a well-known cytotoxic agent used extensively as a chemotherapeutic drug to eradicate a wide variety of human cancers.
+Reactive oxygen species (ROS)-mediated oxidative stress during DOX treatment can induce cardiac, renal, and hepatic toxicities, which can constrain its use as a potential cytotoxic agent.
+The present work investigates the antioxidant potential of naringenin (NAR) against DOXinduced toxicities of a Dalton's lymphoma ascites (DLA) tumor-bearing mouse model.
+Mice were randomized into four groups: a negative control, positive control, DOX (2.5 mg/kg) treated, and DOX (2.5 mg/kg)
+DOX administration significantly altered the levels of functional markers in blood and antioxidant enzymes in kidney, heart, lung, liver, spleen, and tumor tissues.
+These changes in antioxidant enzymes and successive lipid peroxidation were prevented by NAR supplementation, resulting in decreases in the risk of toxicity due to DOX therapy.
+Histopathology results and electron paramagnetic resonance imaging (EPRI) of the tumor microenvironment confirmed this evidence.
+Using EPRI, pharmacokinetics of the nitroxide, 3-carbamoyl-2,2,5,5-tetramethylpyrrolidine-1-oxyl (3-CP) was monitored intratumorally before and after chemotherapy.
+EPRI of the DOX + NAR-treated mouse model showed reduced tumor size with significant modification of the hypoxic condition inside the tumor microenvironment.
+Consequently, these findings suggest that NAR treatment significantly reduces DOX-induced toxicity and the hypoxic condition in a DLA tumor-bearing mouse model.

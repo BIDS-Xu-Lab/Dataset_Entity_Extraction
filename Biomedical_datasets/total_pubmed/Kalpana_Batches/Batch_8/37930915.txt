@@ -1,0 +1,11 @@
+In today's machine learning (ML), the need for vast amounts of training data has become a significant challenge.
+Transfer learning (TL) offers a promising solution by leveraging knowledge across different domains/tasks, effectively addressing data scarcity.
+However, TL encounters computational and communication challenges in resource-constrained scenarios, and negative transfer (NT) can arise from specific data distributions.
+This article presents a novel focus on maximizing the accuracy of instance-based TL in multisource resource-constrained environments while mitigating NT, a key concern in TL.
+Previous studies have overlooked the impact of resource consumption in addressing the NT problem.
+To address these challenges, we introduce an optimization model named multisource resource-constrained optimized TL (MSOPTL), which employs a convex combination of empirical sources and target errors while considering feasibility and resource constraints.
+Moreover, we enhance one of the generalization error upper bounds in domain adaptation setting by demonstrating the potential to substitute the H ∆ H divergence with the Kullback-Leibler (KL) divergence.
+We utilize this enhanced error upper bound as one of the feasibility constraints of MSOPTL.
+Our suggested model can be applied as a versatile framework for various ML methods.
+Our approach is extensively validated in a neural network (NN)-based classification problem, demonstrating the efficiency of MSOPTL in achieving the desired trade-offs between TL's benefits and associated costs.
+This advancement holds tremendous potential for enhancing edge artificial intelligence (AI) applications in resource-constrained environments.

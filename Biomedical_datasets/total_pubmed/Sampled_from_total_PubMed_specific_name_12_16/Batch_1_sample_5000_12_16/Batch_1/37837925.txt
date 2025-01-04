@@ -1,0 +1,13 @@
+Over the last decades, ovarian cancer mortality in Europe has been decreasing, but disparities in trends were observed.
+In this paper, we analysed ovarian cancer mortality trends in Europe over the period 1990-2020 and predicted the number of deaths and rates by 2025.
+We extracted population and death certification data from ovarian cancer in women for 31 European countries, between 1990 and 2020 from the World Health Organization database.
+We computed age-standardised mortality rates (ASMR) per 100,000 women-years, based on the world standard population.
+We also obtained predictions for 2025 using a joinpoint regression model and calculated the number of avoided deaths over the period 1994-2025.
+Over the observed period, mortality from ovarian cancer showed a favourable pattern in most countries.
+In the EU-27, rates declined by 5.9% from 2010-2014 to 2015-2019, reaching an ASMR of 4.66/100,000.
+During the same period, the decline in ovarian cancer mortality was more pronounced in the EU-14 countries (-7.0%) compared to Transitional countries (-2.1%).
+Declines were also observed in the United Kingdom, to reach an ASMR of 5.29.
+Decreases in mortality from ovarian cancer are predicted until 2025, to 4.17/100,000 for the EU-27.
+Favourable trends in ovarian cancer mortality are expected to persist in Europe and can be mainly attributed to the increased use of oral contraceptives in subsequent generations of European women.
+Decreased use of menopausal Hormone Replacement Therapy and improved diagnosis and management may also have played a role.
+Y: World Health Organization database (No need to annotate, just for notice).

@@ -1,0 +1,8 @@
+Speech comprehension requires listeners to rapidly parse continuous speech into hierarchically-organized linguistic structures (i.e. syllable, word, phrase, and sentence) and entrain the neural activities to the rhythm of different linguistic levels.
+Aging is accompanied by changes in speech processing, but it remains unclear how aging affects different levels of linguistic representation.
+Here, we recorded magnetoencephalography signals in older and younger groups when subjects actively and passively listened to the continuous speech in which hierarchical linguistic structures of word, phrase, and sentence were tagged at 4, 2, and 1 Hz, respectively.
+A newly-developed parameterization algorithm was applied to separate the periodically linguistic tracking from the aperiodic component.
+We found enhanced lower-level (word-level) tracking, reduced higher-level (phrasal- and sentential-level) tracking, and reduced aperiodic offset in older compared with younger adults.
+Furthermore, we observed the attentional modulation on the sentential-level tracking being larger for younger than for older ones.
+Notably, the neuro-behavior analyses showed that subjects' behavioral accuracy was positively correlated with the higher-level linguistic tracking, reversely correlated with the lower-level linguistic tracking.
+Overall, these results suggest that the enhanced lower-level linguistic tracking, reduced higher-level linguistic tracking and less flexibility of attentional modulation may underpin aging-related decline in speech comprehension.

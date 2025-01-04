@@ -1,0 +1,9 @@
+In the setting of surveillance for hepatocellular carcinoma (HCC) detection, the use of serum biomarkers in addition to ultrasonography (US) is still a matter of debate.
+Hence, we performed a meta-analysis to evaluate the diagnostic accuracy of protein induced by vitamin K absence or antagonist-II (PIVKA-II) and alpha-fetoprotein (AFP) alone or in combination for HCC detection in patients at risk of tumor development.
+We performed a systematic search in PubMed and Scopus database for original articles published in English from 2011 to 2017, investigating the accuracy of PIVKA-II alone or in combination with AFP (reported as area under the curve [AUC]) for HCC detection among patients at risk of tumor development.
+Furthermore, we focused on studies in which serum PIVKA-II was assessed by highly sensitive chemiluminescence immunoassay (CLEIA).
+A total of 11 studies (873 patients with HCC and 1244 patients with advanced liver disease/cirrhosis) were included in the meta-analysis.
+The weighted summary AUC (sAUC) of PIVKA-II and AFP for the discrimination between patients with HCC and those without was 0.791 (0.746-0.837) and 0.767 (0.732-0.803), respectively.
+The combination of PIVKA-II + AFP results in a sAUC of 0.859 (0.837-0.882).
+The performance for HCC detection of PIVKA-II + AFP was significantly superior to each biomarker used alone (ΔsAUC = 0.068, p = .032 and ΔsAUC = 0.092, p < .001, respectively).
+In clinical practice, the use of PIVKA-II + AFP in addition to US examination may improve the effectiveness of surveillance among patients at risk for HCC development.

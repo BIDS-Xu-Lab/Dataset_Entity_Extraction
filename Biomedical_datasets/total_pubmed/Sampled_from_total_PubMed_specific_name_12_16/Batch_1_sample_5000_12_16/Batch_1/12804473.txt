@@ -1,0 +1,17 @@
+Early skin-to-skin contact involves placing the naked baby prone on the mother's bare chest at birth or soon afterwards (< 24 hour).
+This could represent a 'sensitive period' for priming mothers and infants to develop a synchronous, reciprocal, interaction pattern, provided they are together and in intimate contact.
+Routine separation shortly after hospital birth is a uniquely Western cultural phenomenon that may be associated with harmful effects including discouragement of successful breastfeeding.
+To assess the effects of early skin-to-skin contact on breastfeeding, behavior, and physiology in mothers and their healthy newborn infants.
+The Cochrane Pregnancy and Childbirth Group and Neonatal Group trials registers (December 2002), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 4, 2002), MEDLINE (1976 to 2002).
+Randomized and quasi-randomized clinical trials comparing early skin-to-skin contact with usual hospital care.
+Two reviewers independently assessed trial quality and extracted data.
+We contacted study authors for additional information.
+We collected adverse effects information from the trials.
+Seventeen studies, involving 806 participants, were included.
+We found statistically significant and positive effects of early skin-to-skin contact on breastfeeding at one to three months postbirth (odds ratio (OR) 2.15, 95% confidence interval (CI) 1.10 to 4.22), breastfeeding duration (weighted mean difference (WMD) 41.99, 95% CI 13.97 to 70.00), maintenance of infant temperature in the neutral thermal range (OR 12.18, 95% CI 2.04 to 72.91), infant blood glucose (WMD 11.07, 95% CI 3.97 to 18.17), infant crying (OR 21.89, 95% CI 5.19 to 92.30) and summary scores of maternal affectionate love/touch (SMD 0.73, 95% CI 0.36 to 1.11) during an observed breastfeeding within the first few days postbirth.
+We found no statistically significant benefit of early skin-to-skin contact for other major clinical variables: breastmilk maturation, maternal chest circumference, infant heart rate.
+Limitations included the methodological quality of the studies, variations in the implementation of the intervention and outcome variability.
+Early skin-to-skin contact appears to have some clinical benefit especially regarding breastfeeding outcomes and infant crying and has no apparent short or long-term negative effects.
+To facilitate meta-analysis of the data, future research in this area should involve outcome measures consistent with those used in the studies included here.
+Published reports should also clearly indicate if the intervention was skin-to-skin contact and include means, standard deviations and exact probability values.
+Y: Cochrane Pregnancy and Childbirth Group and Neonatal Group trials registers, Cochrane Central Register of Controlled Trials, MEDLINE (No need to annotate, just for notice).

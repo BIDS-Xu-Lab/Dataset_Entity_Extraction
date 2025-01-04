@@ -1,0 +1,6 @@
+The distinct biophysical and pharmaceutical properties of camelid single-domain antibodies, referred to as VHHs or nanobodies, are associated with their nanometric dimensions, elevated stability, and antigen recognition capacity.
+These biomolecules can circumvent a number of diagnostic system limitations, especially those related to the size and stability of conventional immunoglobulins currently used in enzyme-linked immunosorbent assays and point-of-care, electrochemical, and imaging assays.
+In these formats, VHHs are directionally conjugated to different molecules, such as metallic nanoparticles, small peptides, and radioisotopes, which demonstrates their comprehensive versatility.
+Thus, the application of VHHs in diagnostic systems range from the identification of cancer cells to the detection of degenerative disease biomarkers, viral antigens, bacterial toxins, and insecticides.
+The improvements of sensitivity and specificity are among the central benefits resulting from the use of VHHs, which are indispensable parameters for high-quality diagnostics.
+Therefore, this review highlights the main biotechnological advances related to camelid single-domain antibodies and their use in in vitro and in vivo diagnostic approaches for human health.

@@ -1,0 +1,8 @@
+Organisms adapt their metabolism to meet ever changing environmental conditions.
+This metabolic adaptation involves at a cellular level the fine tuning of mitochondrial function, which is mainly under the control of the transcriptional co-activator proliferator-activated receptor gamma co-activator (PGC)-1alpha.
+Changes in PGC-1alpha activity coordinate a transcriptional response, which boosts mitochondrial activity in times of energy needs and attenuates it when energy demands are low.
+Reversible acetylation has emerged as a key way to alter PGC-1alpha activity.
+Although it is well established that PGC-1alpha is deacetylated and activated by Sirt1 and acetylated and inhibited by GCN5, less is known regarding how these enzymes themselves are regulated.
+Recently, it became clear that the energy sensor, AMP-activated kinase (AMPK) translates the effects of energy stress into altered Sirt1 activity by regulating the intracellular level of its co-substrate nicotinamide adenine dinucleotide (NAD)(+).
+Conversely, the enzyme ATP citrate lyase (ACL), relates energy balance to GCN5, through the control of the nuclear production of acetyl-CoA, the substrate for GCN5's acetyltransferase activity.
+We review here how these metabolic signaling pathways, affecting GCN5 and Sirt1 activity, allow the reversible acetylation-deacetylation of PGC-1alpha and the adaptation of mitochondrial energy homeostasis to energy levels.

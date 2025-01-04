@@ -1,0 +1,14 @@
+The observed molecular weight of a protein on a 1D polyacrylamide gel can provide meaningful insight into its biological function.
+Differences between a protein's observed molecular weight and that predicted by its full length amino acid sequence can be the result of different types of post-translational events, such as alternative splicing (AS), endoproteolytic processing (EPP), and post-translational modifications (PTMs).
+The characterization of these events is one of the important goals of total proteome profiling (TPP).
+LC/MS/MS has emerged as one of the primary tools for TPP, but since this method identifies tryptic fragments of proteins, it has not generally been used for large-scale determination of the molecular weight of intact proteins in complex mixtures.
+We have developed a set of computational tools for extracting molecular weight information of intact proteins from total proteome profiles in a high throughput manner using 1D-PAGE and LC/MS/MS.
+We have applied this technology to the proteome profile of a human lymphoblastoid cell line under standard culture conditions.
+From a total of 1 x 10(7) cells, we identified 821 proteins by at least two tryptic peptides.
+Additionally, these 821 proteins are well-localized on the 1D-SDS gel.
+656 proteins (80%) occur in gel slices in which the observed molecular weight of the protein is consistent with its predicted full-length sequence.
+A total of 165 proteins (20%) are observed to have molecular weights that differ from their predicted full-length sequence.
+We explore these molecular-weight differences based on existing protein annotation.
+We demonstrate that the determination of intact protein molecular weight can be achieved in a high-throughput manner using 1D-PAGE and LC/MS/MS.
+The ability to determine the molecular weight of intact proteins represents a further step in our ability to characterize gene expression at the protein level.
+The identification of 165 proteins whose observed molecular weight differs from the molecular weight of the predicted full-length sequence provides another entry point into the high-throughput characterization of protein modification.

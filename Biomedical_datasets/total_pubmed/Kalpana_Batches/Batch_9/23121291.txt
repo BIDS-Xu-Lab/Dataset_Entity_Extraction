@@ -1,0 +1,8 @@
+The flexor pollicis longus (FPL), a key muscle involved in fractionated thumb movements, may be relatively spared in amyotrophic lateral sclerosis (ALS) compared to the thenar group of muscles, termed the split-hand plus sign.
+Consequently, the diagnostic utility of the split-hand plus sign was prospectively assessed in ALS.
+In total, 103 patients (37 ALS and 66 non-ALS) with neuromuscular symptoms underwent assessment of FPL and APB strength using the Medical Research Council (MRC) score.
+A median nerve strength index (MSI) was developed to quantify differential involvement by expressing the APB strength score as a fraction of the FPL strength score.
+The APB muscle strength was significantly reduced compared to FPL strength in ALS patients (p < 0.0001), but was comparable in the non-ALS disorders (p = 0.91).
+In addition, there was a significant reduction of MSI scores in ALS patients (MSIALS 0.8; MSInon-ALS 1.0, p < 0.01).
+Analysis of receiver operating characteristic (ROC) curves disclosed that MSI < 0.9 exhibited an area under the curve of 0.86 (p < 0.001) with a sensitivity of 85% and specificity of 86% for limb-onset ALS.
+In conclusion, split-hand plus sign distinguished ALS from non-ALS neuromuscular disorders, thereby suggesting a diagnostic utility of this novel clinical sign in ALS.

@@ -1,0 +1,18 @@
+The pervasive use of mobile phones has raised concerns about their impact on musculoskeletal health, particularly neck pain.
+This issue is notably relevant in the Eastern Province of Saudi Arabia, where high mobile phone usage intersects with demographic diversity.
+While extensive phone use has been linked to neck pain and other musculoskeletal disorders globally, specific data on this issue in the Eastern Province are limited.
+This study addresses this gap by examining phone use patterns, neck positions, and associated symptoms in the region.
+Using an online, self-administered survey, this cross-sectional study investigated the relationship between phone use and neck pain in the Eastern Province of Saudi Arabia.
+Participants aged 18 years and older were recruited via social media, community groups, and university networks.
+The survey collected data on demographics, phone use patterns, neck positions, awareness of health risks, and pain symptoms.
+It was pre-tested, administered through Google Forms (Google, Mountain View, CA), and available for four weeks.
+Data were analyzed using descriptive statistics and cross-tabulations with SPSS 26.0 (IBM Corp., Armonk, NY).
+The study included 400 participants, with 273 females (68.3%) and 127 males (31.8%).
+Most participants were single (245, 61.3%) and held a university degree (301, 75.3%).
+Daily phone use varied: 228 participants (57.0%) used their phones for less than five hours daily, while 43 (10.8%) used them for 10-15 hours or more.
+Neck positions ranged from 0° to 60°, with 168 participants (42.0%) maintaining a 30° angle.
+Awareness of health risks associated with phone use was high, with 364 participants (91.0%) aware of these risks.
+Neck pain was reported by 244 participants (61.0%), with additional symptoms including headache (22 participants, 5.5%) and upper back pain (five participants, 1.3%).
+This study found a significant link between prolonged phone use and neck pain in the Eastern Province of Saudi Arabia.
+Despite high awareness of the risks, many individuals report discomfort.
+These findings underscore the need for public health interventions and ergonomic education to improve phone use practices and musculoskeletal health.

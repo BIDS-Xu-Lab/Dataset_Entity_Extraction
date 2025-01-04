@@ -1,0 +1,11 @@
+Multisystem inflammatory syndrome in neonates (MIS-N) related to severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has increasingly been reported worldwide amid the spread of the SARS-CoV-2 pandemic.
+We searched PubMed, EMBASE, and CINAHL and preprint servers (BioRxiv.org and MedRxiv.org) using a specified strategy integrating Medical Subject Headings terms and keywords until October 20, 2021.
+Our aim was to systematically review demographic profiles, clinical features, laboratory parameters, complications, treatments, and outcomes of neonates with MIS-N. Studies were selected when fulfilling the inclusion criteria.
+Articles were included if they fulfilled the World Health Organization (WHO), Centers for Disease Control (CDC) definitions of MIS-C, or our proposed definition.
+Sixteen reports of MIS-N including 47 neonates meeting MIS-N criteria were identified.
+Presentation included cardiovascular compromise (77%), respiratory involvement (55%), and fever in (36%).
+Eighty-three percent of patients received steroids, and 76% received immunoglobulin.
+Respiratory support was provided to 60% of patients and inotropes to 45% of patients.
+The common presentation of MIS-N included cardiorespiratory compromise with the possibility of high mortality.
+Neonates with MIS-N related to SARS-CoV-2 may be at higher risk of adverse outcomes.
+Y PubMed, EMBASE, CINAHL, BioRxiv.org, MedRxiv.org (No need to annotate, just for notice).

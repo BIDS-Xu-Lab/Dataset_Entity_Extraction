@@ -1,0 +1,11 @@
+Equity in healthcare services utilization is on the agenda for both research and policy makers, especially after the Millennium Development Goals.
+Despite the recognition of the importance of mental health services utilization, equity in terms of access has not been widely researched.
+This study aims to investigate the degree and progress of equity in mental healthcare services utilization in Turkey from a gender perspective.
+The Horizontal Inequity (HI) index is calculated using a nationally representative dataset from the Health Surveys (2014 and 2016) conducted by the Turkish Statistical Institute.
+The index is calculated for males, females, and all individuals separately to identify gender differences.
+The results from the HI index indicate pro-poor inequities in the utilization of mental healthcare services in Turkey for both 2014 and 2016.
+For all individuals, the standardized HI indices were found to be - 0.3320 and - 0.3374 for 2014 and 2016, respectively.
+In 2014, the standardized HI indices were calculated to be - 0.3504 and - 0.3173 for males and females, respectively.
+In 2016, the HI indices were found to be - 0.3241 and - 0.3541 for females and males, respectively.
+There is a great need for gender-focused policies to improve horizontal equity in mental healthcare services utilization.
+Y Health Surveys (2014 and 2016) (No need to annotate, just for notice).

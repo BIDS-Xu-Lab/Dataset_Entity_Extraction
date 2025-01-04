@@ -1,0 +1,15 @@
+Analysis of the rib vertebra angle difference (RVAD) on coronal plane radiographs and the 3-dimensional (3D) RVAD and Local RVAD in the vertebral reference frame from 3D reconstructions of the spine and rib cage of early-onset scoliosis patients (cross-sectional study).
+To determine the relationship of RVAD with the geometry of the chest wall.
+Although scoliosis is a complex 3D deformity, RVAD is measured on coronal plane radiographs.
+No clear physical significance has been established for this measurement from a 3D perspective.
+We measured RVAD on posteroanterior radiographs of 42 infantile scoliotic patients (Cobb > 20°) from T4 to T10 using Mehta's method.
+We computed RVAD 3D using the same landmarks from the 3D reconstruction generated from the calibrated biplanar radiographs.
+Local RVAD was measured in the local vertebral frontal plane, based on the axial rotation of each vertebra.
+We divided cases into Phase I and II, based on the rib head overlap with the apical vertebral body on coronal plane radiographs.
+Apical Local RVAD correlated with Metha's RVAD (Phase I: r = 0.690; Phase II: r = 0.666), and RVAD 3D (Phase I: r = 0.908; Phase II: r = 0.862).
+Maximal values of RVAD and RVAD 3D were above the apex.
+Rib vertebra angle difference and Local RVAD were significantly different at the level of maximal RVAD (p < .001) but not at the apex (p = .800).
+The difference between Local RVAD and maximal RVAD correlated with vertebral axial rotation (Phase I: r = 0.691; Phase II: r = 0.659).
+Rib vertebra angle difference not only indicates asymmetry of the ribs in relation to the spine, it is a compound of physical factors including vertebral axial rotation.
+The root of its prognostic value remains unclear.
+Rib vertebra angle difference 3D can serve as an alternative to determine true asymmetry in the costovertebral geometry.

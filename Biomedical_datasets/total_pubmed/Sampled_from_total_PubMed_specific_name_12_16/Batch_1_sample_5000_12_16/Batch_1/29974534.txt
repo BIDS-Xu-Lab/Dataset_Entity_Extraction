@@ -1,0 +1,12 @@
+Familial hypercholesterolemia could be prevalent among patients with acute coronary syndrome.
+To investigate both the frequency of causative mutations for familial hypercholesterolemia (FH) and the optimal selection of patients for genetic testing among patients with an acute coronary syndrome (ACS).
+One hundred and sixteen patients with an ACS during 2009-2015 were identified through the SWEDEHEART registry.
+Patients who had either a high total cholesterol level ≥7 mmol L-1 combined with a triglyceride level ≤2.6 mmol L-1 , or were treated with lipid-lowering medication and had a total cholesterol level >4.9 mmol L-1 and a triglyceride level ≤2.6 mmol L-1 were included.
+Genetic testing was performed first with a regionally designed FH mutation panel (118 mutations), followed by testing with a commercially available FH genetic analysis (Progenika Biopharma).
+A total of 6.9% (8/116) patients had a FH-causative mutation, all in the LDL-receptor.
+Five patients were detected on the panel, and further testing of the remaining 111 patients detected an additional 3 FH-causative mutations.
+Baseline characteristics were similar in FH-positive and FH-negative patients with respect to age, gender, prior ACS and diabetes.
+Patients with a FH-causative mutation had higher Dutch Lipid Clinical Network (DLCN) score (5.5 (5.0-6.5) vs 3.0 (2.0-5.0), P < 0.001) and a higher low-density lipoprotein level (5.7 (4.7-6.5) vs 4.9 (3.5-5.4), P = 0.030).
+The Dutch Lipid Clinical Network (DLCN) score had a good discrimination with an area under the curve of 0.856 (95% CI 0.763-0.949).
+Genetic testing for FH should be considered in patients with ACS and high DLCN score.
+Y: SWEDEHEART registry (No need to annotate, just for notice).

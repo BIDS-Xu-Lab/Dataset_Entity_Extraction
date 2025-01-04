@@ -1,0 +1,12 @@
+Primary mediastinal large B-cel l lymphoma (PMBCL) is a rare subtype of B-cell lymphoma that is not yet fully understood.
+This population-based study aimed to assess the latest survival and treatment strategies for patients with PMBCL.
+The study used the dataset from the Surveillance, Epidemiology, and End Results Program registry to retrospectively analyze adult patients diagnosed with PMBCL between 2001 and 2018.
+The primary outcome measures included overall survival (OS) and disease-specific survival (DSS).
+Among the 814 identified cases, the study revealed a 5-year OS rate of 86.7% and a 5-year DSS rate of 88.2% after a median follow-up of 54 months.
+Cox regression analysis indicated that age over 60 years, pre-2010 diagnosis, non-White ethnicity, advanced stage, and absence of chemotherapy significantly reduced both OS and DSS.
+It also found that chemotherapy has remained the primary therapeutic protocol for PMBCL over the last 20 years, whereas the utilization of surgery and radiation declined significantly.
+Patients diagnosed with PMBCL between 2010 and 2018 had a significantly reduced mortality risk (∼50%) compared to those diagnosed between 2001 and 2009.
+Notably, in the era of rituximab's widespread usage, recipients of radiotherapy exhibited a poorer OS rate than non-recipients.
+Survival outcomes for patients with PMBCL have significantly improved in the current era, possibly due to the evolving treatment paradigm.
+The value of radiotherapy in PMBCL is still debated and requires further prospective evaluation.
+Y: Surveillance, Epidemiology, and End Results Program registry (No need to annotate, just for notice).

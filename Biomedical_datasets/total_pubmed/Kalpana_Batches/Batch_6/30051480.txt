@@ -1,0 +1,9 @@
+Adverse environmental stresses affect plant growth and crop yields.
+Tzvel), an important forage grass that is widely distributed in the east of Eurasia steppe, has high tolerance to extreme low temperature.
+Many genes that respond to cold stress were identified in sheepgrass by RNA-sequencing, but more detailed studies are needed to dissect the function of those genes.
+Here, we found that LcFIN2, a sheepgrass freezing-induced protein 2, encoded a chloroplast-targeted protein.
+Expression of LcFIN2 was upregulated by freezing, chilling, NaCl and abscisic acid (ABA) treatments.
+Overexpression of LcFIN2 enhanced the survival rate of transgenic Arabidopsis after freezing stress.
+Importantly, heterologous expression of LcFIN2 in rice exhibited not only higher survival rate but also accumulated various soluble substances and reduced membrane damage in rice under chilling stress.
+Furthermore, the chlorophyll content, the quantum photochemistry efficiency of photosystem II (ΦPSII), the non-photochemical quenching (NPQ), the net photosynthesis rate (Pn) and the expression of some chloroplast ribosomal-related and photosynthesis-related genes were higher in the transgenic rice under chilling stress.
+These findings suggested that the LcFIN2 gene could potentially be used to improve low-temperature tolerance in crops.

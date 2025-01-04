@@ -1,0 +1,8 @@
+In this article we report that the distribution of serotonin in the lobster nervous system parallels the distribution of octopamine and that the same tissues that contain endogenous serotonin can synthesize it from tryptophan.
+Octopamine and serotonin are highly concentrated in a neurosecretory region of the second thoracic roots in association with a group of neurosecretory cells.
+The roots possess separate high-affinity uptake systems for both serotonin and tryptophan.
+Radioactive serotonin, accumulated in tissues during incubations with either tritiated serotonin or tritiated tryptophan, can be released, in a calcium-dependent manner, by depolarization with potassium.
+A detailed morphological examination of the second thoracic roots shows four distinct categories of nerve endings in the vicinity of the neurosecretory cells.
+Octopamine is synthesized in one of these types of endings and serotonin in another.
+The high-affinity uptake systems for serotonin and tryptophan are found only in association with the endings that make serotonin.
+These endings and all the biochemical parameters of serotonin metabolism in the roots are selectively destroyed by previous injection of animals with the neurotoxin 5,7-dihydroxytryptamine.

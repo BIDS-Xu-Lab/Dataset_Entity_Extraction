@@ -1,0 +1,10 @@
+The European "Healthy Lifestyle in Europe by Nutrition in Adolescence" (HELENA) project evaluated two different approaches to harmonize the matching procedures between 24-h recall data and food composition databases.
+In the first approach, the 24-h recall data were linked to the local/national food composition databases using standardized procedures, while in the second approach, the 24-h recall data were linked to the German BLS database which includes a larger food list.
+The aim of this paper was to compare the intakes of energy and eight nutrient components calculated via both approaches.
+Two non-consecutive 24-h recalls were performed in 1268 adolescents.
+Energy, carbohydrates, proteins, fat, fiber, water, alcohol, calcium and vitamin C were calculated via the two approaches at individual level.
+Paired samples t test and Pearson's correlations were used to compare the mean intakes of energy and the eight mentioned nutrients and to investigate the possible associations between the two approaches.
+Small but significant differences were found between the intakes of energy and the eight food components when comparing both approaches.
+Very strong and strong correlations (0.70-0.95) were found between both methods for all nutrients.
+The dietary intakes obtained via the two different linking procedures are highly correlated for energy and the eight nutrients under study.
+Y, "European 'Healthy Lifestyle in Europe by Nutrition in Adolescence' (HELENA) project", "German BLS database" (No need to annotate, just for notice).

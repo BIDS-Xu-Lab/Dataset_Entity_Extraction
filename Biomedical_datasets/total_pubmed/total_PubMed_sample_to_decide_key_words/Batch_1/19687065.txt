@@ -1,0 +1,8 @@
+Electron holography allows the reconstruction of the complete electron wave, and hence offers the possibility of correcting aberrations.
+In fact, this was shown by means of the uncorrected CM30 Special Tübingen transmission electron microscope (TEM), revealing, after numerical aberration correction, a resolution of approximately 0.1 nm, both in amplitude and phase.
+However, it turned out that the results suffer from a comparably poor signal-to-noise ratio.
+The reason is that the limited coherent electron current, given by gun brightness, has to illuminate a width of at least four times the point-spread function given by the aberrations.
+As, using the hardware corrector, the point-spread function shrinks considerably, the current density increases and the signal-to-noise ratio improves correspondingly.
+Furthermore, the phase shift at the atomic dimensions found in the image plane also increases because the collection efficiency of the optics increases with resolution.
+In total, the signals of atomically fine structures are better defined for quantitative evaluation.
+In fact, the results achieved by electron holography in a Tecnai F20 Cs-corr TEM confirm this.

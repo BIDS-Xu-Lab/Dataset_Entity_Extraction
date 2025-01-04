@@ -1,0 +1,10 @@
+The reasons for developing second-generation MAOI are outlined.
+The expected advantage of reversibility as a safety valve with respect to tyramine potentiation is discussed.
+Earlier data from in vitro and some ex vivo experiments had suggested an irreversible interaction of brofaromine with MAO-A, whereas the short duration of action, the absence of cumulation of effect and the displaceability by endogenously released substrates indicated reversibility.
+This apparent conflict could be solved by the demonstration that brofaromine behaves as a tight-binding reversible inhibitor.
+In in vivo binding experiments with [3H]brofaromine given i.v., clorgyline, brofaromine and moclobemide were shown to dose-dependently displace the radioligand from MAO-A in the rat brain when administered after it.
+In corresponding experiments in the rat intestine in which the radioligand was administered p.o., similar results were obtained.
+Moreover, tyramine given orally in pressor doses after the radioligand also displaced it, confirming the idea that reversibility could act as a safety valve.
+The evidence from animal and human experiments is presented that brofaromine is safer than classical MAO inhibitors with respect to tyramine potentiation.
+5. Based on computer simulations, it is suggested that reduced liability of the new MAO reversible inhibitors to cause tyramine potentiation may potentially be linked to a reduced therapeutic efficacy.
+The evidence is discussed that 5-HT uptake inhibition by brofaromine is relevant in its therapeutic effect in humans and may synergize with MAO-A inhibition, thus enhancing the impact of the latter on serotonergic transmission.

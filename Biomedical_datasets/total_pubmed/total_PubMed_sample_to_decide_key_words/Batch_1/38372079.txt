@@ -1,0 +1,14 @@
+Sepsis frequently causes systemic inflammatory response syndrome and multiple organ failure in patients.
+Neoastilbin (NAS) is a flavonoid that plays vital functions in inflammation.
+This work aims to investigate the protective effects of NAS against sepsis-induced liver and kidney injury and elucidate its underlying mechanisms.
+The mouse model was established using cecal ligation puncture (CLP) induction.
+NAS was given to mice by gavage for 7 consecutive days before surgery.
+Liver and kidney function, oxidative stress, and inflammatory factors in serum or tissues were examined by ELISA or related kits.
+The expression of relevant proteins was assessed by Western blot.
+Hematoxylin and eosin and/or periodic acid-Schiff staining revealed that NAS ameliorated the pathological damage in liver and kidney tissues of CLP-induced mice.
+NAS improved liver and kidney functions, as evidenced by elevated levels of blood urea nitrogen, Creatinine, ALT, and AST in the serum of septic mice.
+TUNEL assay and the expression of Bcl-2 and Bax showed that NAS dramatically reduced apoptosis in liver and renal tissues.
+NAS treatment lowered the levels of myeloperoxidase and malondialdehyde, while elevated the superoxide dismutase content in liver and kidney tissues of CLP-induced mice.
+The levels of inflammatory cytokines (IL-6, TNF-α, and IL-1β) in the serum and both tissues of CLP-injured mice were markedly decreased by NAS.
+Mechanically, NAS downregulated TLR4 expression and inhibited NF-κB activation, and overexpression of TLR4 reversed the protective effects of NAS against liver and kidney injury.
+Collectively, NAS attenuated CLP-induced apoptosis, oxidative stress, inflammation, and dysfunction in the liver and kidney by restraining the TLR4/NF-κB pathway.

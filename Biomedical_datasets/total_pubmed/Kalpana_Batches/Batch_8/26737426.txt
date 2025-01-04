@@ -1,0 +1,6 @@
+Recent advances in the MEMS devices make it happen to wirelessly integrate miniature motion capturing devices with Smartphones and to use them in personal health care and physical activity monitoring in daily life.
+There is no ground truth, though, to measure the physical activity (PA) in daily life and because of this, there is no common validation procedure adapted by the researchers for benchmarking the performance of algorithms for PA classification.
+The major issue in the existing studies for PA classification is the utilization of structured protocol in a controlled setting or simulated daily environment, which limits their implementation in real life conditions where activities are unplanned and unstructured, both in occurrence and in duration.
+This study provides a critical review on the validation procedures used for PA classification, types of activities classified and limitations in the exiting studies to implement them in daily life settings.
+Only those studies are considered which classify PA based on wearable accelerometers as an objective measure.
+The pros and cons of existing methodologies are highlighted and future possibilities are addressed for the development of a robust PA classification system which is feasible under real life conditions.

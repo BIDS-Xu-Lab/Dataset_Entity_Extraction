@@ -1,0 +1,10 @@
+An in-depth understanding of the prognostic value of patient-reported outcomes (PRO) is essential to facilitate person-centred care in heart failure (HF).
+This study aimed to clarify the prognostic role of subjective mental and physical health status in patients with HF.
+Patients with HF were identified from the DenHeart Survey (n = 1499) and PRO data were obtained at hospital discharge, including the EuroQol five-dimensional questionnaire (EQ-5D), the HeartQoL, and the Hospital Anxiety and Depression Scale (HADS).
+Clinical baseline data were obtained from medical records and linked to nationwide registries with patient-level data on sociodemographics and healthcare contacts.
+Outcomes were all-cause and cardiovascular (CV) mortality, CV events, and HF hospitalization with 1- and 3-year follow-up.
+Analysing the PRO data on a continuous scale, a worse score in the following were associated with risk of all-cause and CV mortality after 1 year: the HeartQoL (adjusted hazard ratios (HRs) 1.91, 95% confidence interval (CI) 1.42-2.57 and 2.17, 95% CI 1.50-3.15, respectively), the EQ-5D (adjusted HRs 1.26, 95% CI 1.15-1.38 and 1.27, 95% CI 1.13-1.42, respectively), the HADS depression subscale (adjusted HRs 1.12, 95% CI 1.07-1.17 and 1.11, 95% CI 1.05-1.17, respectively), and the HADS anxiety subscale (adjusted HRs 1.08, 95% CI 1.03-1.13 and 1.09, 95% CI 1.04-1.15, respectively).
+Three-year results were overall in concordance with the 1-year results.
+A similar pattern was also observed for non-fatal outcomes.
+Health-related quality of life and symptoms of anxiety and depression at discharge were associated with all-cause and CV mortality at 1- and 3-year follow-up.
+Y: DenHeart Survey, EuroQol five-dimensional questionnaire (EQ-5D), HeartQoL, Hospital Anxiety and Depression Scale (HADS) (No need to annotate, just for notice).

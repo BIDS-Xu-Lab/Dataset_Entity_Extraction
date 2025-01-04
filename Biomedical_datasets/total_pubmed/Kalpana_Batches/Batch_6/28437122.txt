@@ -1,0 +1,7 @@
+Prescription drug misuse is a growing public health concern and has been understudied in Latino populations.
+The current study tests the relationships between childhood and family characteristics and prescriptions drug misuse among adult Latinos.
+A subsample of 8,308 Latinos from the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) were examined.
+Logistic regression analyses tested associations between parental alcoholism, parental divorce before age 18, and parental death before age 18 and prescription drug misuse and prescription drug use disorder.
+Parental alcoholism and parental divorce increased the odds of both prescription drug misuse and use disorder.
+Parental death increased the odds of prescription drug use disorders.
+The results have important implications for understanding the complex associations between family psychosocial history and prescription drug misuse.

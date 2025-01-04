@@ -1,0 +1,13 @@
+Tissue necrosis as a consequence of ischemia-reperfusion injury and oxidative damage is a leading cause of permanent disability and death worldwide.
+The complete mechanism by which cells undergo necrosis upon oxidative stress is not understood.
+In response to an oxidative insult, wild-type p53 has been implicated as a central regulatory component of the mitochondrial permeability transition (mPT), triggering necrosis.
+This process is associated with cellular stabilization and translocation of p53 into the mitochondrial matrix.
+Here, we probe the mechanism by which p53 activates the key mPT regulator cyclophilin D (CypD).
+We explore the involvement of Trap1, an Hsp90-related mitochondrial matrix protein and a member of the mitochondrial unfolded protein response, and its ability to suppress mPT in a p53-dependent manner.
+Our study finds that catalytically active CypD causes strong aggregation of wild-type p53 protein (both full-length and isolated DNA-binding domain) into amyloid-type fibrils in vitro.
+The responsible CypD residues for this activity were mapped by NMR to the active site amino acids R55, F60, F113, and W121.
+The data also present a new proline isomerization assay for CypD by monitoring the aggregation of p53 as an indicator of CypD activity.
+Moreover, we find that the inhibition of Trap1 by the mitochondria-specific HSP90 ATPase antagonist Gamitrinib strongly sensitizes primary mouse embryonic fibroblasts to mPT and permeability transition pore opening in a p53- and CypD-dependent manner.
+We propose a mechanism by which the influx of unfolded p53 into the mitochondrial matrix in response to oxidative stress indirectly activates the normally inhibited CypD by displacing it from Trap1 complexes.
+Liberated CypD then isomerizes multiple proteins including p53 (causing p53 aggregation) and the structural components of the mPTP pore, inducing pore opening.
+This working model can now be tested in the future.

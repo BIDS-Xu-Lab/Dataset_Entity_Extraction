@@ -1,0 +1,7 @@
+Event 5307 transgenic maize produces the novel insecticidal protein eCry3.1Ab, which is active against certain coleopteran pests such as Western corn rootworm (Diabrotica virgifera virgifera).
+Laboratory tests with representative nontarget organisms (NTOs) were conducted to test the hypothesis of no adverse ecological effects of cultivating Event 5307 maize.
+Estimates of environmental eCry3.1Ab concentrations for each NTO were calculated from the concentrations of eCry3.1Ab produced by 5307 maize in relevant plant tissues.
+Nontarget organisms were exposed to diets containing eCry3.1Ab or diets comprising Event 5307 maize tissue and evaluated for effects compared to control groups.
+No statistically significant differences in survival were observed between the control group and the group exposed to eCry3.1Ab in any organism tested.
+Measured eCry3.1Ab concentrations in the laboratory studies were equal to or greater than the most conservative estimates of environmental exposure.
+The laboratory studies corroborate the hypothesis of negligible ecological risk from the cultivation of 5307 maize.

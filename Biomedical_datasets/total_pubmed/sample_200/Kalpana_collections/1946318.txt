@@ -1,0 +1,8 @@
+A general protein sequence alignment methodology for detecting a priori unknown common structural and functional regions is described.
+The method proposed in this paper is based on two basic requirements for a meaningful alignment.
+First, each sequence or segment of a sequence is characterized by a multivariate physicochemical profile.
+Second, the alignment is performed by considering all the sequences simultaneously, and the algorithm detects those regions that form a set of similar profiles.
+In order to test the structural meaning of the alignment obtained from the sequences, quantitative comparisons are performed with structurally conserved regions (SCR) determined from the X-ray structures of three serine proteases.
+Results suggest that the limits of the SCR may be predicted from the similarities between the physicochemical profiles of the sequences.
+The procedures are not completely automated.
+The final step requires a visual screening of alternative pathways in order to determine an optimal alignment.

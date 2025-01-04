@@ -1,0 +1,9 @@
+Research has suggested the positive impact of physical activity on health and wellbeing in older age, yet few studies have investigated the associations between physical activity and heterogeneous trajectories of healthy ageing.
+We aimed to identify how physical activity can influence healthy ageing trajectories using a harmonised dataset of eight ageing cohorts across the world.
+Based on a harmonised dataset of eight ageing cohorts in Australia, USA, Mexico, Japan, South Korea, and Europe, comprising 130,521 older adults (Mage = 62.81, SDage = 10.06) followed-up up to 10 years (Mfollow-up = 5.47, SDfollow-up = 3.22), we employed growth mixture modelling to identify latent classes of people with different trajectories of healthy ageing scores, which incorporated 41 items of health and functioning.
+Multinomial logistic regression modelling was used to investigate the associations between physical activity and different types of trajectories adjusting for sociodemographic characteristics and other lifestyle behaviours.
+Three latent classes of healthy ageing trajectories were identified: two with stable trajectories with high (71.4%) or low (25.2%) starting points and one with a high starting point but a fast decline over time (3.4%).
+Engagement in any level of physical activity was associated with decreased odds of being in the low stable (OR: 0.18; 95% CI: 0.17, 0.19) and fast decline trajectories groups (OR: 0.44; 95% CI: 0.39, 0.50) compared to the high stable trajectory group.
+These results were replicated with alternative physical activity operationalisations, as well as in sensitivity analyses using reduced samples.
+Our findings suggest a positive impact of physical activity on healthy ageing, attenuating declines in health and functioning.
+Physical activity promotion should be a key focus of healthy ageing policies to prevent disability and fast deterioration in health.

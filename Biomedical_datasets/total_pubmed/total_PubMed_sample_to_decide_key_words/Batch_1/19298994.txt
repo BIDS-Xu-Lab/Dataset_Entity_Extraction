@@ -1,0 +1,5 @@
+Recent HIV vaccine failures have prompted calls for more preclinical vaccine testing in non-human primates.
+However, similar to HIV infection of humans, developing a vaccine that protects macaques from infection following pathogenic SIV(MAC251) challenge has proven difficult, and current vaccine candidates at best, only reduce viral loads after infection.
+Here we demonstrate that prior infection with a chimeric simian-human immunodeficiency virus (SHIV) containing an HIV envelope gene confers protection against intravenous infection with the heterologous, highly pathogenic SIV(MAC251) in rhesus macaques.
+Although definitive immune correlates of protection were not identified, preservation and/or restoration of intestinal CD4(+) memory T cells were associated with protection from challenge and control of viremia.
+These results suggest that protection against pathogenic lentiviral infection or disease progression is indeed possible, and may correlate with preservation of mucosal CD4(+) T cells.

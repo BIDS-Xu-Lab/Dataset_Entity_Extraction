@@ -1,0 +1,10 @@
+Investigating ecology of marine animals imposes a continuous challenge due to their temporal and/or spatial unavailability.
+Light-based geolocators (GLS) are animal-borne devices that provide relatively cheap and efficient method to track seabird movement and are commonly used to study migration.
+Here, we explore the potential of GLS data to establish individual behavior during the breeding period in a rock crevice-nesting seabird, the Little Auk, Alle alle.
+By deploying GLS on 12 breeding pairs, we developed a methodological workflow to extract birds' behavior from GLS data (nest attendance, colony attendance, and foraging activity), and validated its accuracy using behavior extracted from a well-established method based on video recordings.
+We also compared breeding outcome, as well as behavioral patterns of logged individuals with a control group treated similarly in all aspects except for the deployment of a logger, to assess short-term logger effects on fitness and behavior.
+We found a high accuracy of GLS-established behavioral patterns, especially during the incubation and early chick rearing period (when birds spend relatively long time in the nest).
+We observed no apparent effect of logger deployment on breeding outcome of logged pairs, but recorded some behavioral changes in logged individuals (longer incubation bouts and shorter foraging trips).
+Our study provides a useful framework for establishing behavioral patterns (nest attendance and foraging) of a crevice-nesting seabird from GLS data (light and conductivity), especially during incubation and early chick rearing period.
+Given that GLS deployment does not seem to affect the breeding outcome of logged individuals but does affect fine-scale behavior, our framework is likely to be applicable to a variety of crevice/burrow nesting seabirds, even though precautions should be taken to reduce deployment effect.
+Finally, because each species may have its own behavioral and ecological specificity, we recommend performing a pilot study before implementing the method in a new study system.

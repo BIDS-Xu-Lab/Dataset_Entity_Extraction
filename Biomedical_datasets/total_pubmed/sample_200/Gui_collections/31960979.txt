@@ -1,0 +1,15 @@
+Medical schools are challenged to create academic environments that stimulate students to improve their study progress without compromising their well-being.
+This prospective comparative cohort study investigated the effects of raising Year-1 standards on academic performance and on students' chronic psychological and biological stress levels.
+In a Dutch medical school, students within the last Bachelor's degree cohort (n = 410) exposed to the 40/60 (67%) credit Year-1 standard (67%-credit cohort) were compared with students within the first cohort (n = 413) exposed to a 60/60 (100%) credit standard (100%-credit cohort).
+Main outcome measures were Year-1 pass rate (academic performance), mean score on the Perceived Stress Scale (PSS, psychological stress) and hair cortisol concentration (HCC, biological stress).
+Year-1 pass rates were significantly higher in the 100%-credit cohort (odds ratio [OR] 4.65).
+Interestingly, there was a significant interaction effect (OR 0.46), indicating that raising the standard was more effective for male than for female students.
+[RR: 59%] in the 67%- and 100%-credit cohorts, respectively) were also significantly higher in the 100%-credit cohort (F(1,474)  = 15.08, P < .001).
+This applied specifically to female students in the 100%-credit cohort.
+[RR: 39%] respectively) did not differ between cohorts, but were significantly higher in female students (F(1,332)  = 7.93, P < .01).
+In separate models including cohort and gender, both PSS score (OR 0.91) and HCC (OR 0.38) were significantly associated with Year-1 performance.
+Only students with both high PSS scores and high HCC values were significantly at risk of lower Year-1 pass rates (OR 0.27), particularly male students.
+Raising the Year-1 performance standard increased academic performance, most notably in male students.
+However, it also increased levels of perceived stress, especially in female students.
+In particular, the combination of high levels of perceived stress and biological stress, as measured by long-term cortisol, was related to poor academic performance.
+The study suggests a relationship between raising performance standards and student well-being, with differential effects in male and female students.

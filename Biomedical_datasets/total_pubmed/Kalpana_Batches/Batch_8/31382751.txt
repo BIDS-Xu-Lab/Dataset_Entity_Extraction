@@ -1,0 +1,22 @@
+Nowadays radiotherapy is the standard treatment care for patients with uveal melanoma.
+In Slovakia the only one option is a one-day session stereotactic radiosurgery at linear accelerator LINAC.
+Irradiation of surrounding tissues of the eye and orbit causes radiation complications.
+One of the most serious and vision-threatening is the radiation retinopathy, which divides into maculopathy and peripheric retinopathy.
+The clinical signs include microanerysms, teleangiectases, hard exsudates, cotton wool spots and macular edema, neovascularisation, and vitreous hemorrhage.
+Radiation macular edema can be classified by optical coherence tomography into cystoid or noncystoid edema.
+On fluorescein angiography macular edema is divided into non-ischemic and ischemic, while the latter means usually irreversible loss of the visual acuity.
+This paper is focused on risk factors of radiation retinopathy although it strongly influences functional result of radiotherapy and preservation of the visual acuity.
+By means of bivariate and multivariate analysis to determine the association of radiation dose and other variables with the development of radiation maculopathy.
+The retrospective analysis of 168 patients with ciliary body or choroidal melanoma who performed one-day session stereotactic radiosurgery on a linear accelerator LINAC in a period 2007-2016.
+The prevalence of the radiation maculopathy was 29% with the median time from the irradiation to maculopathy 16 months.
+Median radiation dose on the macula was 37 Gy.
+Variables statistically significantly associated with the maculopathy were: radiation dose (p = 0.0016), postequatorial location of the tumor (p = 0.0271) and better visual acuity before treatment (p = 0.0007).
+The tumor touch of the macula was strongly associated with the visual acuity in the bivariate analysis (p = 0.0006), thus it could be omitted from the final model.
+The radiation dose on a macula is the key determinant for radiation-induced maculopathy, according to other authors and our study approvingly.
+Other variables were related to proximity of the tumor to the macula, so the radiation dose on the macula was higher indirectly.
+Better visual acuity before treatment as a risk factor for maculopathy can be a consequence of: a) earlier diagnostics of tumor with proximity to the posterior pole, b) lower enucleation rate; frequency of the enucleation was 1.6 higher in patients without maculopathy.
+Naturally, on enucleated eyes maculopathy was not diagnosed.
+Five patients underwent intravitreal application of the bevacizumab as a treatment of the radiation maculopathy, without improvement of the visual acuity.
+Radiation complications can be vision and eye threatening.
+Radiation maculopathy is a consequence of higher radiation dose on the macula.
+The treatment modalities of radiation maculopathy are rather ineffective.

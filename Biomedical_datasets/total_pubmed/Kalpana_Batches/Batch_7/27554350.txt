@@ -1,0 +1,9 @@
+Insulin-like growth factor 1 (IGF1) gene single nucleotide polymorphism (rs5742612) has been associated with adolescent idiopathic scoliosis (AIS) in several studies with limited sample size and inconsistent outcomes.
+So we perform this meta-analysis to assess the precise association between IGF1 gene single nucleotide polymorphism (rs5742612) and AIS.
+We systematically searched Pubmed, Embase, Web of Science and Cochrane Library up to January 19, 2016 to obtain relevant studies using our research strategy.
+Four articles all belonging to case-control studies were included in our meta-analysis.
+A total of four studies containing 763 cases and 559 controls satisfied the inclusion criteria after judgment by two reviewers.
+No significant associations were detected between IGF1 gene single nucleotide polymorphism (rs5742612) and AIS (T vs. C, OR = 1.10, 95 % CI 0.91-1.34, p = 0.32; TT vs. CC: OR = 1.28, 95 % CI 0.82-2.02, p = 0.28; TC vs. CC: OR = 1.29, 95 % CI 0.82-2.06, p = 0.27; TT/TC vs. CC: OR = 1.28, 95 % CI 0.83-1.98, p = 0.27; TT vs.
+IGF1 gene single nucleotide polymorphism (rs5742612) is not significant associated with susceptibility to AIS in either Asian or Caucasian populations.
+However, IGF1 gene rs5742612 may be associated with severity of AIS.
+Further studies with larger sample size and different population groups involving the relationship are required to confirm the potential association.

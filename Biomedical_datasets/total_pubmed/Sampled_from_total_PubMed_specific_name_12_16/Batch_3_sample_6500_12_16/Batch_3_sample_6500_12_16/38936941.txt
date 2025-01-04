@@ -1,0 +1,12 @@
+The management of patients with clear cell renal cell carcinoma (ccRCC) includes prognosis assessment based on TNM classification and biochemical markers.
+This approach stratifies patients with advanced ccRCC into groups of favorable, intermediate, and poor prognosis.
+The aim of the study was to improve prognosis estimation using microRNAs involved in the pathogenesis of ccRCC.
+The study was based on a histologically-verified set of matched ccRCC FFPE tissue samples (normal renal tissue, primary tumor, metastasis, n=20+20+20).
+The expression of 2,549 microRNAs was analyzed using the SurePrint G3 Human miRNA microarray kit (Agilent Technologies).
+Prognostic value of significantly deregulated microRNAs was further evaluated on microRNA expression and clinical data of 475 patients obtained from TCGA Kidney Clear Cell Carcinoma (KIRC) database.
+There were 13 up-regulated and 6 down-regulated microRNAs in tumor tissues compared to control tissues.
+Among them, survival analysis revealed those with prognostic significance.
+Patients with high expression of miR-21, miR-27a, miR-34a, miR-106b, miR-210, and miR-342 showed significantly unfavorable outcome.
+The opposite was observed for miR-30e, patients with low expression had significantly shorter survival.
+The inclusion of these microRNAs in a prognostic panel holds the potential to enhance stratification scoring systems, on which the treatment of ccRCC patients is based.
+Y TCGA Kidney Clear Cell Carcinoma (KIRC) database (No need to annotate, just for notice).

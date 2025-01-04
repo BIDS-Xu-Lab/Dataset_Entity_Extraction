@@ -1,0 +1,14 @@
+This study investigates the impact of social media on pro-environmental behavior (PEB) through the lenses of the Theory of Planned Behavior (TPB) and Social Impact Theory.
+The research aims to elucidate how social media influences Environmental Attitude (EA) and Subjective Norms (SN), and how these factors contribute to Behavioral Intentions (BI) that ultimately affect PEB.
+Additionally, it examines the moderating effect of Perceived Behavioral Control (PBC) on the relationship between BI and PEB.
+To explore these relationships, the study employs a dual methodological approach using Variance-Based Structural Equation Modeling (VBSEM) and Artificial Neural Networks (ANN).
+Data were collected from two distinct samples: 1200 participants from Taiwan for the SEM analysis and 602 respondents for the ANN study.
+SEM was utilized to explore causal relationships, while ANN was employed to enhance predictive accuracy.
+The SEM analysis reveals that social media significantly affects both EA and SN, except for Social Networking Site Involvement (SNSI), which does not significantly impact EA.
+Additionally, the findings indicate that BI mediates the relationship between EA and PEB.
+However, BI does not mediate the SN-PEB relationship, and the link between SN and BI is found to be non-significant.
+Empirical evidence also suggests that PBC moderates the BI-PEB relationship, with a stronger influence observed under higher levels of PBC and a weaker influence under lower levels.
+These results underscore the complex dynamics between social media factors and pro-environmental behavior.
+The study concludes that while social media plays a significant role in shaping EA and SN, its impact on EA is not mediated by SNSI.
+Furthermore, PBC significantly moderates the BI-PEB relationship, highlighting its critical role in PEB.
+The discussion addresses the implications of these findings, acknowledges the limitations encountered, and suggests potential avenues for future research.

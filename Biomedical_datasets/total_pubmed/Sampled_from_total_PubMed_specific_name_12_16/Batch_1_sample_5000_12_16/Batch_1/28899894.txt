@@ -1,0 +1,13 @@
+Little is known about facility-level variation in the use of revascularization procedures for the management of stable obstructive coronary artery disease.
+Furthermore, it is unknown if variation in the use of coronary revascularization is associated with use of other cardiovascular procedures.
+We evaluated all elective coronary angiograms performed in the Veterans Affairs system between September 1, 2007, and December 31, 2011, using the Clinical Assessment and Reporting Tool and identified patients with obstructive coronary artery disease.
+Patients were considered managed with revascularization if they received percutaneous coronary intervention (PCI) or coronary artery bypass grafting within 30 days of diagnosis.
+We calculated risk-adjusted facility-level rates of overall revascularization, PCI, and coronary artery bypass grafting.
+In addition, we determined the association between facility-level rates of revascularization and post-PCI stress testing.
+Among 15 650 patients at 51 Veterans Affairs sites who met inclusion criteria, the median rate of revascularization was 59.6% (interquartile range, 55.7%-66.7%).
+Across all facilities, risk-adjusted rates of overall revascularization varied from 41.5% to 88.1%, rate of PCI varied from 23.2% to 80.6%, and rate of coronary artery bypass graftingvariedfrom 7.5% to 36.5%.
+Of 6179 patients who underwent elective PCI, the median rate of stress testing in the 2 years after PCI was 33.7% (interquartile range, 30.7%-47.1%).
+There was no evidence of correlation between facility-level rate of revascularization and follow-up stress testing.
+Within the Veterans Affairs system, we observed large facility-level variation in rates of revascularization for obstructive coronary artery disease, with variation driven primarily by PCI.
+There was no association between facility-level use of revascularization and follow-up stress testing, suggesting use rates are specific to a particular procedure and not a marker of overall facility-level use.
+Y: Veterans Affairs system, Clinical Assessment and Reporting Tool (No need to annotate, just for notice).

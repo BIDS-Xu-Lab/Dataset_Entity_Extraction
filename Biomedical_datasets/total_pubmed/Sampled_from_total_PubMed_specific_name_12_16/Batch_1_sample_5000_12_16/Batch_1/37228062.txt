@@ -1,0 +1,14 @@
+The mechanism of hepatocellular carcinoma (HCC) development induced by liver fibrosis is obscure.
+The objective of this study is to establish miRNAs from exosomes associated with liver fibrosis, and to identify potential biomarkers for the prediction of personalized clinical management effectiveness in HCC.
+Our research focused on miRNAs from exosomes and mRNA from liver fibrosis, which we found in the gene expression omnibus (GEO) database.
+Weighted gene co-expression network analysis (WGCNA) evaluated miRNAs from exosomes associated with liver fibrosis, and Wilcoxon analysis assessed differentially expressed mRNAs (DEGs) across liver fibrosis/normal tissues.
+Following that, DEGs were assessed through gene set enrichment analysis (GSEA), gene ontology (GO), and the Kyoto Encyclopedia of Genes and Genomes (KEGG).
+In addition, based on the screened targeted genes, including SAMD12 and CADM2, we further elucidated their correlation in HCC patients from the BEST database.
+The Kaplan-Meier Plotter platform was applied to evaluate the prognostic values of miRNA in HCC.
+In vitro and vivo experiments validated our findings.
+Six miRNAs associated with liver fibrosis were evaluated in our investigation.
+In-depth research presented exosome-derived miR-106a-5p, SAMD12 and CADM2 could exert valuable predictive implications for HCC treatment and illness assessment.
+Serum miR-106a-5p derived from liver fibrosis was decreased compared with healthy individuals.
+SAMD12 and CADM2 were diminished in liver cancer cell lines, and their knockdown of them exacerbated the proliferation capacities of liver cells in vitro.
+Exosome-derived miRNA of liver fibrosis modulated tumorigenesis by targeting SAMD12 and CADM2 in HCC.
+Y: GEO database, BEST database, Kaplan-Meier Plotter platform (No need to annotate, just for notice).

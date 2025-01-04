@@ -1,0 +1,8 @@
+The antibody HMB45 is used to diagnose lymphangioleiomyomatosis, a hyperproliferative disorder of lung smooth muscle cells with mutations in both alleles of either TSC1 or TSC2.
+A subset of these tumor cells expresses the melanoma-associated antigens gp100 and melanoma antigen recognized by T cells (MART-1).
+To explore the feasibility of targeting tumors in lymphangioleiomyomatosis by melanoma immunotherapy, we therefore assessed melanoma target antigen expression and existing immune infiltration of affected tissue compared with normal lung and melanoma as well as the susceptibility of cultured lymphangioleiomyomatosis cells to melanoma reactive cytotoxic T lymphocytes in vitro.
+Tumors expressed tyrosinase-related proteins 1 and 2 but not tyrosinase, in addition to gp100 and MART-1, and were densely infiltrated by macrophages, but not dendritic cells or T cell subsets.
+Although CD8(+) lymphocytes were sparse compared with melanoma, cells cultured from lymphangioleiomyomatosis tissue were susceptible to cytotoxic, gp100 reactive, and major histocompatibility complex class I restricted CD8(+) T cells in functional assays.
+Responder T cells selectively clustered and secreted interferon-gamma in response to HLA-matched melanocytes and cultured lymphangioleiomyomatosis cells.
+This reactivity exceeded that based on detectable gp100 expression; thus, tumor cells in lymphangioleiomyomatosis may process melanosomal antigens different from melanocytic cells.
+Therefore, boosting immune responses to gp100 in lymphangioleiomyomatosis may offer a highly desirable treatment option for this condition.

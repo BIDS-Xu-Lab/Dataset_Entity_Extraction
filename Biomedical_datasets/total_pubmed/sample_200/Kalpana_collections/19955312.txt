@@ -1,0 +1,7 @@
+Herpesvirus nucleocapsids assemble in the nucleus and must cross the nuclear membrane for final assembly and maturation to form infectious progeny virions in the cytoplasm.
+It has been proposed that nucleocapsids enter the perinuclear space by budding through the inner nuclear membrane, and these enveloped nucleocapsids then fuse with the outer nuclear membrane to enter the cytoplasm.
+Little is known about the mechanism(s) for nuclear egress of herpesvirus nucleocapsids and, in particular, which, if any, cellular proteins are involved in the nuclear egress pathway.
+UL12 is an alkaline nuclease encoded by herpes simplex virus type 1 (HSV-1) and has been suggested to be involved in viral DNA maturation and nuclear egress of nucleocapsids.
+Using a live-cell imaging system to study cells infected by a recombinant HSV-1 expressing UL12 fused to a fluorescent protein, we observed the previously unreported nucleolar localization of UL12 in live infected cells and, using coimmunoprecipitation analyses, showed that UL12 formed a complex with nucleolin, a nucleolus marker, in infected cells.
+Knockdown of nucleolin in HSV-1-infected cells reduced capsid accumulation, as well as the amount of viral DNA resistant to staphylococcal nuclease in the cytoplasm, which represented encapsidated viral DNA, but had little effect on these viral components in the nucleus.
+These results indicated that nucleolin is a cellular factor required for efficient nuclear egress of HSV-1 nucleocapsids in infected cells.

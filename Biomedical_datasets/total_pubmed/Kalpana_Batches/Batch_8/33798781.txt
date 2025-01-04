@@ -1,0 +1,14 @@
+Anterior cervical discectomy and fusion (ACDF) can induce lordosis and improve cervical sagittal vertical axis (SVA), but multilevel ACDF may inadvertently increase cervical SVA because of insufficient lordosis induction.
+Patients who underwent 1-, 2-, or ≥3-level ACDF in the subaxial spine with minimum 2-year follow up were retrospectively studied.
+C2-C7 Cobb angle (lordosis), cervical SVA, and T1 slope were measured preoperatively, immediately postoperatively, and at last follow-up.
+Inclusion criteria were met by 127 patients.
+There were no differences in baseline demographics among 1-, 2-, and ≥3-level ACDF groups.
+Mean follow-up was 43.7 months (range, 24-142 months).
+Increase of cervical SVA immediately postoperatively was 1.94 mm, -1.44 mm, and 7.25 mm for 1-, 2-, and ≥3-level ACDF (P = 0.041) and at last follow-up was 2.97 mm, 0.70 mm, and 9.32 mm for 1-, 2-, and ≥3-level ACDF (P = 0.026).
+At last follow-up, 2-level ACDF patients had the greatest decrease in T1 slope (-0.43°) compared with increase of 2.71° for 1-level and 2.84° for ≥3-level patients (P = 0.028).
+In all 3 groups, segmental (ACDF levels) lordosis, cervical SVA, and T1 slope did not decrease from immediate postoperative to last follow-up.
+Only 2-level ACDF maintained C2-7 lordosis (2.16°) compared with loss of lordosis in 1-level (-0.84°) and ≥3-level (-2.00°) ACDF (P = 0.008) at last follow-up.
+Linear regression analysis showed that T1 slope had no relationship with correction of cervical SVA (P = 0.5310) but had a significant correlation with Cobb angle loss of C2-C7 lordosis (P = 0.0016).
+Compared with 1- and 2-level ACDF, ≥3-level ACDF resulted in significant increase of cervical SVA and loss of overall lordosis.
+Compared with 1- and ≥3-level ACDF, 2-level ACDF had the greatest ability to maintain lordosis.
+T1 slope had a significant correlation with loss of C2-C7 lordosis after ACDF.

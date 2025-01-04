@@ -1,0 +1,11 @@
+Mycobacterium tuberculosis drug resistance is emerging and new drug targets are needed.
+Tryptophan biosynthesis is necessary for M. tuberculosis replication and virulence.
+Indole-3-glycerol phosphate synthase (IGPS) catalyzes a step in M. tuberculosis tryptophan biosynthesis and has been suggested as a potential anti-infective target, but our understanding of this enzyme is limited.
+To aid in inhibitor design and gain a greater mechanistic picture of this enzyme, there is a need to understand the roles of active site amino acids in ligand binding and catalysis.
+In this work, we explored the roles of conserved active site amino acids Glu57, Lys59, Lys119, Glu168, and Glu219.
+Mutation of each to Ala results in loss of all detectable activity.
+The Glu57Gln, Lys59Arg, Lys119Arg, Glu168Gln, and Glu219Asp mutations result in large activity losses, while Glu219Gln has enhanced activity.
+Analysis of the enzymatic data yields the following main conclusions: (A) Lys119 is the likely catalytic acid in the CdRP ring closure step.
+(B) Glu168 stabilizes a charged reaction intermediate and may also be the catalytic base.
+(C) Glu57, Glu219, and Lys119 form a closely arranged triad in which Glu57 and Glu219 modulate the pKa of Lys119, and thus overall activity.
+This increased understanding of inter- and intramolecular interactions and demonstration of the highly coordinated nature of the M. tuberculosis IGPS active site provide new mechanistic information and guidance for future work with this potential new drug target.

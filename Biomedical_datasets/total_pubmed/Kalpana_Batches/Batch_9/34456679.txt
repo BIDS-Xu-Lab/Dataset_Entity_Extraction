@@ -1,0 +1,10 @@
+Background: Metabolic syndrome (MetS) is more prevalent in individuals with bipolar disorder and has a negative impact on cognition, in particular on executive function, which is already impaired in individuals with bipolar disorder compared to healthy controls.
+Methods: In a cross-sectional study, we compared 148 euthymic patients with bipolar disorder and 117 healthy controls in cognitive function depending on the diagnosis of MetS. A neuropsychological test battery was used including the Trail Making Test A/B, Stroop Color and Word Interference Test, the d2 Test of Attention Revised, and the California Verbal Learning Test.
+In addition, MetS variables as well as the defining variables waist circumference, serum triglyceride levels, high-density lipoprotein cholesterol levels, blood pressure, fasting glucose levels, and body mass index were compared between patients and controls.
+In addition, illness-related variables were associated with MetS in individuals with bipolar disorder.
+The prevalence of MetS in patients with bipolar disorder was higher than in controls (30.4 vs. 15.4%).
+Patients with bipolar disorder with MetS had impaired executive function compared to patients without MetS or healthy controls with and without MetS (p = 0.020).
+No MetS effects or interaction MetS × Group was found in attention/processing speed (p = 0.883) and verbal learning/memory (p = 0.373).
+Clinical variables (illness duration, suicidality, number of affective episodes, medication, age of onset, and history of psychosis) did not relate to MetS in bipolar disorder (p > 0.05).
+Conclusion: Bipolar disorder comorbid with MetS bears additional risk for impaired executive function.
+Executive function includes action planning, inhibition, and impulse control and could play a critical role in keeping long-term goals in mind associated with gaining and maintaining a healthy weight.

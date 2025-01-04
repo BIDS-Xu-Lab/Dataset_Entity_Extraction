@@ -1,0 +1,12 @@
+Patients with schizophrenia display impaired cognitive functioning and increased sensitivity to psychomimetic drugs.
+The neurodevelopmental hypothesis of schizophrenia posits that disruption of the developing brain predisposes neural networks to lasting structural and functional abnormalities resulting in the emergence of such symptoms in adulthood.
+Given the critical role of the glutamatergic system in early brain development, we investigated whether chronic prenatal exposure to the glutamate NMDA receptor antagonist, MK-801, induces schizophrenia-like behavioural and neurochemical changes in juvenile and adult rats.
+Pregnant Long-Evans rats were administered saline or MK-801 (0.1mg/kg; s.c.)
+Object recognition memory and cognitive flexibility were assessed in the male offspring using a novel object preference task and a maze-based set-shifting procedure, respectively.
+Locomotor-activating effects of acute amphetamine and MK-801 were also assessed.
+Adult, but not juvenile, prenatally MK-801-treated rats failed to show novel object preference after a 90min delay, suggesting that object recognition memory may have been impaired.
+In addition, the set-shifting task revealed impaired acquisition of a new rule in adult prenatally MK-801-treated rats compared to controls.
+This deficit appeared to be driven by regression to the previously learned behaviour.
+There were no significant differences in drug-induced locomotor activity in juvenile offspring or in adult offspring following acute amphetamine challenges.
+Unexpectedly, MK-801-induced locomotor activity in adult prenatally MK-801-treated rats was lower compared to controls.
+Glutamate transmission dysfunction during early development may modify behavioural parameters in adulthood, though these parameters do not appear to model deficits observed in schizophrenia.

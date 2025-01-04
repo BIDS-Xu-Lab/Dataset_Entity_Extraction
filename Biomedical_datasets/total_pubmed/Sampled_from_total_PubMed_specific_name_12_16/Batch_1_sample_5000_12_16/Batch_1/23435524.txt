@@ -1,0 +1,14 @@
+To determine the effect of the off-pump technique in preventing stroke development during the early perioperative period after coronary artery bypass graft surgery (CABG).
+Patients undergoing isolated CABG surgery were enrolled from 21 Spanish cardiac-surgery centres.
+Baseline variables related to perioperative stroke risk were recorded in the preoperative (age, gender, diabetes mellitus, arterial hypertension, prior stroke, cardiac failure: preoperative New York Heart Association class III-IV and/or left ventricular ejection fraction <40%, non-elective priority of surgery, peripheral arteriopathy, chronic renal failure) and intraoperative periods (on/off-pump performance).
+The Northern New England Cardiovascular Disease Study Group (NNECDSG) stroke risk schema was used to stratify stroke risk and compare observed neurological outcomes in this study.
+A total of 26 347 patients were included in the study.
+Global perioperative stroke incidence was 1.38%.
+Non-elective priority of surgery (OR = 2.37), peripheral arteriopathy (OR = 1.62), cardiac failure (OR = 2.98), prior stroke (OR = 1.57) and chronic renal failure (OR = 6.16) were found to be independent risk factors for perioperative stroke in uni- and multivariate models; Hosmer-Lemeshow test: χ(2) = 4.62, P = 0.59.
+Perioperative stroke incidence increased whenever NNECDSG score or the number of preoperative risk factors increased.
+However, on- vs off-pump surgery did not show statistical differences in NNECDSG strata.
+For patients with two or more preoperative independent risk factors, off-pump surgery showed a significant reduction in perioperative stroke incidence (4.29 vs 6.76%, P < 0.05), particularly when one of these factors was chronic renal failure or preoperative cardiac failure.
+However, when both factors were present concomitantly there was no difference between on and off-pump techniques, P < 0.0001.
+Off-pump surgery has a lower perioperative stroke incidence than on-pump only in cases associated with cardiovascular stroke-risk factors, in particular, with chronic renal failure and preoperative cardiac failure, but also with peripheral arteriopathy, prior stroke and non-elective surgery.
+The perioperative stroke rate remains high in cases with two or more preoperative stroke risk factors, even when using the off-pump technique, particularly when chronic renal failure is present.
+Y and the Northern New England Cardiovascular Disease Study Group (NNECDSG) stroke risk schema (No need to annotate, just for notice).

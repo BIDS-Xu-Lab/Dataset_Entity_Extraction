@@ -1,0 +1,11 @@
+The unique innervation and anatomic features of dental pulp contribute to the remarkable finding that any physical stimulation of pulpal tissue is painful.
+Furthermore, when pathological processes such as caries affect teeth and produce inflammation of the pulp, the pain experienced can be quite intense and debilitating.
+To better understand these underlying neurobiological mechanisms and identify novel analgesic targets for pulpally derived pain, we have developed a powerful ex vivo model using human tooth slices.
+Noncarious, freshly extracted teeth were collected and sectioned longitudinally into 1-mm-thick slices containing both dental pulp and the surrounding mineralized tissues.
+Tooth slices from 36 patients were exposed to 60 μmol/L capsaicin to stimulate the release of calcitonin gene-related peptide (CGRP) from nerve terminals in the pulp.
+Patient factors were analyzed for their effects on capsaicin-stimulated CGRP release using a mixed model analysis of variance.
+Approximately one third of the variability observed in capsaicin-evoked CGRP release was attributable to differences between individuals.
+In terms of individual factors, there was no effect of anesthesia type, sex, or age on capsaicin-stimulated CGRP release.
+Using a within-subject study design, a significant effect of capsaicin on CGRP release was observed.
+Capsaicin-stimulated CGRP release from dental pulp is highly variable between individuals.
+A within-subject study design improves the variability and maximizes the potential of this powerful translational model to test the efficacy of novel pharmacotherapeutic agents on human peripheral nociceptors.

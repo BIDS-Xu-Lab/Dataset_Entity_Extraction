@@ -1,0 +1,531 @@
+
+PMID- 38168420
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240709
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Dec 13
+TI  - Cortical ripples mediate top-down suppression of hippocampal reactivation during 
+      sleep memory consolidation.
+LID - 2023.12.12.571373 [pii]
+LID - 10.1101/2023.12.12.571373 [doi]
+AB  - Consolidation of initially encoded hippocampal representations in the neocortex 
+      through reactivation is crucial for long-term memory formation, and is 
+      facilitated by the coordination of hippocampal sharp-wave ripples (SWRs) with 
+      cortical oscillations during non-REM sleep. However, the contribution of 
+      high-frequency cortical ripples to consolidation is still unclear. We used 
+      continuous recordings in the hippocampus and prefrontal cortex (PFC) over the 
+      course of spatial learning and show that independent PFC ripples, when 
+      dissociated from SWRs, predominantly suppress hippocampal activity in non-REM 
+      sleep. PFC ripples paradoxically mediate top-down suppression of hippocampal 
+      reactivation, which is inversely related to reactivation strength during 
+      coordinated CA1-PFC ripples. Further, we show non-canonical, serial coordination 
+      of ripples with cortical slow and spindle oscillations. These results establish a 
+      role for cortical ripples in regulating consolidation.
+FAU - Shin, Justin D
+AU  - Shin JD
+AUID- ORCID: 0000-0002-7959-7772
+AD  - Neuroscience Program, Department of Psychology, and Volen National Center for 
+      Complex Systems, Brandeis University, Waltham, MA 02453, USA.
+FAU - Jadhav, Shantanu P
+AU  - Jadhav SP
+AUID- ORCID: 0000-0001-5821-0551
+AD  - Neuroscience Program, Department of Psychology, and Volen National Center for 
+      Complex Systems, Brandeis University, Waltham, MA 02453, USA.
+LA  - eng
+GR  - R01 MH112661/MH/NIMH NIH HHS/United States
+GR  - T32 NS007292/NS/NINDS NIH HHS/United States
+PT  - Preprint
+DEP - 20231213
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Curr Biol. 2024 Jul 8;34(13):2801-2811.e9. doi: 10.1016/j.cub.2024.05.018. PMID: 
+      38834064
+PMC - PMC10760112
+COIS- Competing interests: Authors declare that they have no competing interests.
+EDAT- 2024/01/04 01:18
+MHDA- 2024/01/04 01:19
+PMCR- 2024/01/02
+CRDT- 2024/01/03 10:41
+PHST- 2024/01/04 01:18 [pubmed]
+PHST- 2024/01/04 01:19 [medline]
+PHST- 2024/01/03 10:41 [entrez]
+PHST- 2024/01/02 00:00 [pmc-release]
+AID - 2023.12.12.571373 [pii]
+AID - 10.1101/2023.12.12.571373 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2023 Dec 13:2023.12.12.571373. doi: 
+      10.1101/2023.12.12.571373.
+
+PMID- 38174763
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240105
+LR  - 20240607
+IS  - 1664-2848 (Electronic)
+IS  - 0036-7281 (Linking)
+VI  - 166
+IP  - 1
+DP  - 2024 Jan
+TI  - Reversal of arterial oxygen desaturation with the use of an oxygen concentrator 
+      during injectable anaesthesia in feral cats positioned in the Trendelenburg, 
+      dorsal or lateral surgical position.
+PG  - 31-40
+LID - 10.17236/sat00415 [doi]
+AB  - This study observed the effects of oxygen supplementation, via an oxygen 
+      concentrator, on peripheral arterial blood oxygenation (SpO2) measured by pulse 
+      oximetry in anaesthetised cats undergoing spay in three different surgical 
+      positions. A total of 192 female feral cats were investigated for a large-scale 
+      trap-neuter-release program. Cats were anaesthetised with an intramuscular 
+      combination of butorphanol (0,4 mg / kg), ketamine (7-10 mg / kg) and 
+      medetomidine (0,03-0,05 mg / kg). Cats were randomly allocated to undergo spay in 
+      either Trendelenburg (TR) (70 degrees  downward head tilt), lateral (LR) or dorsal (DR) 
+      recumbency. Cats were breathing spontaneously either room air or 2 L/minute 
+      oxygen via a tight-fitting face mask. Pulse rate (in beats per minute), 
+      respiratory rate (in breaths per minute) and SpO2 (in percentage) were measured 
+      at baseline in left lateral recumbency and afterwards continuously after being 
+      positioned in allocated surgical position. At the end of surgery, cats were 
+      placed again in left recumbency, and all parameters were re-evaluated after five 
+      minutes. Overall, 33 % of cats showed severe arterial oxygen desaturation (SpO2 < 
+      90 %) at baseline when breathing room air. When oxygen was supplemented during 
+      the procedure, arterial oxygen desaturation resolved in all cats. At the end of 
+      the procedure, 29 % of cats were hypoxaemic when oxygen was not supplemented, 
+      with an overall higher percentage of hypoxaemic cats in TR as compared to DR and 
+      LR recumbencies. All cats recovered well from surgery and were released within 24 
+      hours post-anaesthesia. Arterial oxygen desaturation is frequent in cats 
+      anaesthetised with injectable anaesthesia for spay under field conditions. Oxygen 
+      supplementation administered via a tight-fitting mask resolved arterial oxygen 
+      desaturation in this feral cat population regardless of the surgical position and 
+      therefore oxygen supplementation is recommended in any case.
+FAU - Ranninger, E
+AU  - Ranninger E
+AD  - Department for Clinical Diagnostics and Services, Section of Anaesthesiology, 
+      Vetsuisse Faculty, University of Zurich.
+FAU - Corona, D
+AU  - Corona D
+AD  - Department for Clinical Diagnostics and Services, Section of Anaesthesiology, 
+      Vetsuisse Faculty, University of Zurich.
+FAU - Goldinger, E
+AU  - Goldinger E
+AD  - NetAP Network for Animal Protection, Switzerland.
+AD  - Tezet Tiermedizinisches Zentrum AG, Mullheim, Switzerland.
+FAU - Hug, P
+AU  - Hug P
+AD  - Tezet Tiermedizinisches Zentrum AG, Mullheim, Switzerland.
+FAU - Niemann, L
+AU  - Niemann L
+AD  - Department for Clinical Diagnostics and Services, Section of Anaesthesiology, 
+      Vetsuisse Faculty, University of Zurich.
+FAU - Stefan, A
+AU  - Stefan A
+AD  - Center of Hope Veterinary Hospital, Pitesca, Ilfov, Romania.
+FAU - Torgerson, P R
+AU  - Torgerson PR
+AD  - Section of Epidemiology, Vetsuisse-Faculty, University of Zurich.
+FAU - Bettschart-Wolfensberger, R
+AU  - Bettschart-Wolfensberger R
+AD  - Department for Clinical Diagnostics and Services, Section of Anaesthesiology, 
+      Vetsuisse Faculty, University of Zurich.
+FAU - Steblaj, B
+AU  - Steblaj B
+AD  - Department for Clinical Diagnostics and Services, Section of Anaesthesiology, 
+      Vetsuisse Faculty, University of Zurich.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial, Veterinary
+TT  - Optimierung der arteriellen -Sauerstoffkonzentration durch den Einsatz eines 
+      Sauerstoffkonzentrators wahrend der Injektionsanasthesie bei verwilderten 
+      Hauskatzen in der Trendelenburg-, dorsalen oder lateralen Operationsposition.
+PL  - Switzerland
+TA  - Schweiz Arch Tierheilkd
+JT  - Schweizer Archiv fur Tierheilkunde
+JID - 0424247
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Cats/surgery
+MH  - Animals
+MH  - Female
+MH  - *Anesthesia/veterinary
+MH  - Animals, Wild
+MH  - Respiration
+MH  - Oxygen
+MH  - Oxygen Inhalation Therapy/veterinary
+OTO - NOTNLM
+OT  - Hypoxamie
+OT  - Kastration
+OT  - Katze
+OT  - Sauerstofferganzung
+OT  - Sedierung
+OT  - castrazione
+OT  - feline
+OT  - felino
+OT  - felin
+OT  - hypoxaemia
+OT  - hypoxemie
+OT  - integrazione di ossigeno
+OT  - ipossiemia
+OT  - neutering
+OT  - oxygen supplementation
+OT  - sedation
+OT  - sedazione
+OT  - spay
+OT  - sterilizzazione
+OT  - sterilisation
+OT  - supplement d›oxygene
+OT  - sedation
+EDAT- 2024/01/04 12:41
+MHDA- 2024/01/05 06:42
+CRDT- 2024/01/04 07:51
+PHST- 2024/01/05 06:42 [medline]
+PHST- 2024/01/04 12:41 [pubmed]
+PHST- 2024/01/04 07:51 [entrez]
+AID - 10.17236/sat00415 [doi]
+PST - ppublish
+SO  - Schweiz Arch Tierheilkd. 2024 Jan;166(1):31-40. doi: 10.17236/sat00415.
+
+PMID- 38240506
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240122
+LR  - 20240719
+IS  - 1530-0293 (Electronic)
+IS  - 0090-3493 (Print)
+IS  - 0090-3493 (Linking)
+VI  - 52
+IP  - 2
+DP  - 2024 Feb 1
+TI  - Defining Intensivists: A Retrospective Analysis of the Published Studies in the 
+      United States, 2010-2020.
+PG  - 223-236
+LID - 10.1097/CCM.0000000000005984 [doi]
+AB  - OBJECTIVES: The Society of Critical Care Medicine last published an intensivist 
+      definition in 1992. Subsequently, there have been many publications relating to 
+      intensivists. Our purpose is to assess how contemporary studies define 
+      intensivist physicians. DESIGN: Systematic search of PubMed, Embase, and Web of 
+      Science (2010-2020) for publication titles with the terms intensivist, and 
+      critical care or intensive care physician, specialist, or consultant. We included 
+      studies focusing on adult U.S. intensivists and excluded non-data-driven reports, 
+      non-U.S. publications, and pediatric or neonatal ICU reports. We aggregated the 
+      study title intensivist nomenclatures and parsed Introduction and Method sections 
+      to discern the text used to define intensivists. Fourteen parameters were found 
+      and grouped into five definitional categories: A) No definition, B) Background 
+      training and certification, C) Works in ICU, D) Staffing, and E) Database 
+      related. Each study was re-evaluated against these parameters and grouped into 
+      three definitional classes (single, multiple, or no definition). The prevalence 
+      of each parameter is compared between groups using Fisher exact test. SETTING: 
+      U.S. adult ICUs and databases. INTERVENTIONS: None. MEASUREMENTS AND MAIN 
+      RESULTS: Of 657 studies, 105 (16%) met inclusion criteria. Within the study 
+      titles, 17 phrases were used to describe an intensivist; these were categorized 
+      as intensivist in 61 titles (58%), specialty intensivist in 30 titles (29%), and 
+      ICU/critical care physician in 14 titles (13%). Thirty-one studies (30%) used a 
+      single parameter (B-E) as their definition, 63 studies (60%) used more than one 
+      parameter (B-E) as their definition, and 11 studies (10%) had no definition (A). 
+      The most common parameter "Works in ICU" (C) in 52 studies (50%) was more likely 
+      to be used in conjunction with other parameters rather than as a standalone 
+      parameter (multiple parameters vs single-parameter studies; 73% vs 17%; p < 
+      0.0001). CONCLUSIONS: There was no consistency of intensivist nomenclature or 
+      definitions in contemporary adult intensivist studies in the United States.
+CI  - Copyright (c) 2024 by the Society of Critical Care Medicine and Wolters Kluwer 
+      Health, Inc. All Rights Reserved.
+FAU - Halpern, Neil A
+AU  - Halpern NA
+AD  - Department of Anesthesiology and Critical Care Medicine, Critical Care Center, 
+      Memorial Sloan Kettering Cancer Center, New York, NY.
+FAU - Tan, Kay See
+AU  - Tan KS
+AD  - Biostatistics Service, Department of Epidemiology and Biostatistics, Memorial 
+      Sloan Kettering Cancer Center, New York, NY.
+FAU - Bothwell, Lilly A
+AU  - Bothwell LA
+AD  - Department of Strategy and Innovation, Memorial Sloan Kettering Cancer Center, 
+      New York, NY.
+FAU - Boyce, Lindsay
+AU  - Boyce L
+AD  - MSK Library, Technology Division, Memorial Sloan Kettering Cancer Center, New 
+      York, NY.
+FAU - Dulu, Alina O
+AU  - Dulu AO
+AD  - Department of Anesthesiology and Critical Care Medicine, Critical Care Center, 
+      Memorial Sloan Kettering Cancer Center, New York, NY.
+LA  - eng
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+PT  - Journal Article
+DEP - 20240119
+PL  - United States
+TA  - Crit Care Med
+JT  - Critical care medicine
+JID - 0355501
+SB  - IM
+CIN - Crit Care Med. 2024 Feb 1;52(2):343-345. doi: 10.1097/CCM.0000000000005998. PMID: 
+      38240515
+MH  - Adult
+MH  - Infant, Newborn
+MH  - Humans
+MH  - United States
+MH  - Child
+MH  - Retrospective Studies
+MH  - *Personnel Staffing and Scheduling
+MH  - *Intensive Care Units
+MH  - Critical Care/methods
+MH  - Intensive Care Units, Neonatal
+MH  - Workforce
+PMC - PMC11256975
+MID - NIHMS2000857
+COIS- Supported, in part, by the Core grant (P30 CA008748) and the Department of 
+      Anesthesiology and Critical Care Medicine, Memorial Sloan Kettering Cancer 
+      Center, New York, NY. Dr. Halpern received funding from Airstrip, Werfen, and 
+      Pronia Medical. Drs. Tan and Boyce received support for article research from the 
+      National Institutes of Health. The remaining authors have disclosed that they do 
+      not have any potential conflicts of interest.
+EDAT- 2024/01/19 12:43
+MHDA- 2024/01/22 06:42
+PMCR- 2025/02/01
+CRDT- 2024/01/19 08:43
+PHST- 2025/02/01 00:00 [pmc-release]
+PHST- 2024/01/22 06:42 [medline]
+PHST- 2024/01/19 12:43 [pubmed]
+PHST- 2024/01/19 08:43 [entrez]
+AID - 00003246-202402000-00007 [pii]
+AID - 10.1097/CCM.0000000000005984 [doi]
+PST - ppublish
+SO  - Crit Care Med. 2024 Feb 1;52(2):223-236. doi: 10.1097/CCM.0000000000005984. Epub 
+      2024 Jan 19.
+
+PMID- 39066312
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240728
+LR  - 20240903
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 16
+IP  - 7
+DP  - 2024 Jul 17
+TI  - Impact of Missense Mutations on Spike Protein Stability and Binding Affinity in 
+      the Omicron Variant.
+LID - 10.3390/v16071150 [doi]
+LID - 1150
+AB  - The global effort to combat the COVID-19 pandemic faces ongoing uncertainty with 
+      the emergence of Variants of Concern featuring numerous mutations on the Spike 
+      (S) protein. In particular, the Omicron Variant is distinguished by 32 mutations, 
+      including 10 within its receptor-binding domain (RBD). These mutations 
+      significantly impact viral infectivity and the efficacy of vaccines and 
+      antibodies currently in use for therapeutic purposes. In our study, we employed 
+      structure-based computational saturation mutagenesis approaches to predict the 
+      effects of Omicron missense mutations on RBD stability and binding affinity, 
+      comparing them to the original Wuhan-Hu-1 strain. Our results predict that 
+      mutations such as G431W and P507W induce the most substantial destabilizations in 
+      the Wuhan-Hu-1-S/Omicron-S RBD. Notably, we postulate that mutations in the 
+      Omicron-S exhibit a higher percentage of enhancing binding affinity compared to 
+      Wuhan-S. We found that the mutations at residue positions G447, Y449, F456, F486, 
+      and S496 led to significant changes in binding affinity. In summary, our findings 
+      may shed light on the widespread prevalence of Omicron mutations in human 
+      populations. The Omicron mutations that potentially enhance their affinity for 
+      human receptors may facilitate increased viral binding and internalization in 
+      infected cells, thereby enhancing infectivity. This informs the development of 
+      new neutralizing antibodies capable of targeting Omicron's immune-evading 
+      mutations, potentially aiding in the ongoing battle against the COVID-19 
+      pandemic.
+FAU - Mahase, Vidhyanand
+AU  - Mahase V
+AD  - Department of Biology, Howard University, Washington, DC 20059, USA.
+FAU - Sobitan, Adebiyi
+AU  - Sobitan A
+AD  - Department of Biology, Howard University, Washington, DC 20059, USA.
+FAU - Yao, Qiaobin
+AU  - Yao Q
+AD  - Department of Biology, Howard University, Washington, DC 20059, USA.
+FAU - Shi, Xinghua
+AU  - Shi X
+AD  - Department of Computer & Information Sciences, Temple University, Philadelphia, 
+      PA 19122, USA.
+FAU - Qin, Hong
+AU  - Qin H
+AUID- ORCID: 0000-0002-1060-6722
+AD  - Department of Computer Science and Engineering, University of Tennessee at 
+      Chattanooga, Chattanooga, TN 37403, USA.
+FAU - Kidane, Dawit
+AU  - Kidane D
+AD  - Department of Physiology and Biophysics, Howard University College of Medicine, 
+      Washington, DC 20059, USA.
+FAU - Tang, Qiyi
+AU  - Tang Q
+AUID- ORCID: 0000-0002-6487-2356
+AD  - Department of Microbiology, Howard University College of Medicine, Washington, DC 
+      20059, USA.
+FAU - Teng, Shaolei
+AU  - Teng S
+AD  - Department of Biology, Howard University, Washington, DC 20059, USA.
+LA  - eng
+GR  - DBI 2000296, IIS 1924092, and HRD 2011933/National Science Foundation/
+GR  - 2U54MD007597/National Institute on Minority Health and Health Disparities of the 
+      National Institutes of Health/
+GR  - 2200138/National Science Foundation/
+PT  - Journal Article
+DEP - 20240717
+PL  - Switzerland
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - 0 (spike protein, SARS-CoV-2)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Antibodies, Viral)
+RN  - SARS-CoV-2 variants
+SB  - IM
+MH  - *Spike Glycoprotein, Coronavirus/genetics/chemistry/immunology/metabolism
+MH  - *SARS-CoV-2/genetics/immunology
+MH  - Humans
+MH  - *Mutation, Missense
+MH  - *Protein Binding
+MH  - *COVID-19/virology
+MH  - *Protein Stability
+MH  - Antibodies, Neutralizing/immunology
+MH  - Binding Sites
+MH  - Antibodies, Viral/immunology
+PMC - PMC11281596
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Omicron Variant
+OT  - SARS-CoV-2
+OT  - Spike protein
+OT  - computational saturation mutagenesis
+COIS- The authors declare no competing interests.
+EDAT- 2024/07/27 10:47
+MHDA- 2024/07/28 14:52
+PMCR- 2024/07/17
+CRDT- 2024/07/27 01:31
+PHST- 2024/06/20 00:00 [received]
+PHST- 2024/07/04 00:00 [revised]
+PHST- 2024/07/10 00:00 [accepted]
+PHST- 2024/07/28 14:52 [medline]
+PHST- 2024/07/27 10:47 [pubmed]
+PHST- 2024/07/27 01:31 [entrez]
+PHST- 2024/07/17 00:00 [pmc-release]
+AID - v16071150 [pii]
+AID - viruses-16-01150 [pii]
+AID - 10.3390/v16071150 [doi]
+PST - epublish
+SO  - Viruses. 2024 Jul 17;16(7):1150. doi: 10.3390/v16071150.
+
+PMID- 39133620
+OWN - NLM
+STAT- Publisher
+LR  - 20240812
+IS  - 2385-2070 (Electronic)
+IS  - 1723-2007 (Linking)
+DP  - 2024 Aug 2
+TI  - Quality and stability studies of red blood cell concentrates from umbilical cord 
+      blood compared to their adult counterparts.
+LID - 10.2450/BloodTransfus.761 [doi]
+AB  - BACKGROUND: Prematurity is a significant health issue due to its incidence and 
+      associated complications. Anemia is common in extremely preterm infants (EPI) and 
+      often requires transfusions. Red blood cells (RBC) from adult blood (AB) donors 
+      have been linked to oxygen-related complications in EPI, leading to the 
+      exploration of cord blood (CB) as an alternative source. However, standardization 
+      of CB-RBC manufacturing and comparison with AB-RBC characteristics are necessary 
+      before clinical studies can be conducted. MATERIALS AND METHODS: This study 
+      investigated the quality and characteristics of leukoreduced, gamma-irradiated 
+      CB-RBC obtained using a commercial closed system from CB donations not meeting 
+      hematopoietic transplantation criteria. CB-RBC units were compared with AB-RBC 
+      units, both stored in saline-adenine-glucose-mannitol (SAGM). Various parameters, 
+      including hematological and biochemical characteristics, pH, 2,3-DPG levels, 
+      blood gases and potential toxicants, were evaluated during storage. RESULTS: 
+      CB-RBC units had acceptable initial quality parameters and a hematocrit (55+/-2%) 
+      comparable to AB-RBC. The main finding during storage was a faster rise in 
+      hemolysis compared to AB-RBC. Potassium (K+) significantly increased during 
+      storage in both sources. As expected, glucose levels decreased, and conversely, 
+      lactate levels increased, indicating similar patterns of anaerobic glycolysis 
+      during storage. pH decreased, affecting the oxygen dissociation curve due to 
+      reduced 2,3-DPG levels. After irradiation at 14 days of storage, CB-RBC were less 
+      stable as hemolysis and K+ significantly increased compared to AB-RBC at 24 
+      hours. Phthalate concentrations, indicative of plasticizers, increased during 
+      storage, but significantly less in CB compared to AB-RBC. Most metals measured 
+      were within acceptable ranges. DISCUSSION: The quality of CB-RBC during storage 
+      is primarily influenced by levels of hemolysis and extracellular K+ content. 
+      Based on the analyzed parameters, we suggest that the expiration date for CB-RBC 
+      stored with SAGM should be set at 14 days, with transfusion occurring within <24 
+      hours after irradiation.
+FAU - Samarkanova, Dinara
+AU  - Samarkanova D
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Codinach, Margarita
+AU  - Codinach M
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+AD  - Cell Laboratory, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Aran, Gemma
+AU  - Aran G
+AD  - Cell Laboratory, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Guitart, Mar
+AU  - Guitart M
+AD  - Life and Health Science Faculty, Pompeu and Fabra University, Barcelona, Spain.
+FAU - Valdivia, Elena
+AU  - Valdivia E
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Martorell, Lluis
+AU  - Martorell L
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Azqueta, Carmen
+AU  - Azqueta C
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Rodriguez-Aliberas, Marta
+AU  - Rodriguez-Aliberas M
+AD  - Immunohematology Laboratory, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Soria, Gloria
+AU  - Soria G
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+AD  - Microbiology Laboratory, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Martinez, Nuria
+AU  - Martinez N
+AD  - Blood Bank, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Alonso, Eva
+AU  - Alonso E
+AD  - Blood Bank, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Human Milk Bank, Blood and Tissue Bank, Barcelona, Spain.
+FAU - Farssac, Elisenda
+AU  - Farssac E
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Madrigal, Alejandro
+AU  - Madrigal A
+AD  - Instituto Tecnologico de Monterrey, Monterrey, Mexico.
+AD  - Royal Free Hospital Trust, NHS, Cancer Institute UCL, London, United Kingdom.
+FAU - Fernandez-Sojo, Jesus
+AU  - Fernandez-Sojo J
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+FAU - Rebulla, Paolo
+AU  - Rebulla P
+AD  - Department of Transfusion Medicine and Hematology, Fondazione IRCCS Ca' Granda 
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - Querol, Sergio
+AU  - Querol S
+AD  - Cell and Advanced Therapy Service, Blood and Tissue Bank, Barcelona, Spain.
+AD  - Transfusion Medicine study group of Vall de Hebron Research Institute, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20240802
+PL  - Italy
+TA  - Blood Transfus
+JT  - Blood transfusion = Trasfusione del sangue
+JID - 101237479
+SB  - IM
+EDAT- 2024/08/12 18:43
+MHDA- 2024/08/12 18:43
+CRDT- 2024/08/12 12:42
+PHST- 2024/03/13 00:00 [received]
+PHST- 2024/06/06 00:00 [accepted]
+PHST- 2024/08/12 18:43 [medline]
+PHST- 2024/08/12 18:43 [pubmed]
+PHST- 2024/08/12 12:42 [entrez]
+AID - BloodTransfus.761 [pii]
+AID - 10.2450/BloodTransfus.761 [doi]
+PST - aheadofprint
+SO  - Blood Transfus. 2024 Aug 2. doi: 10.2450/BloodTransfus.761.

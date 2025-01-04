@@ -1,0 +1,11 @@
+This study was conducted to assess the possible weekend effect in patients with upper gastrointestinal bleeding (UGIB) on the basis of a 10-year single-center experience in Serbia.
+A retrospective analysis of hospital records in the University Clinic 'Dr Dragisa Misovic-Dedinje', Belgrade, Serbia, from 2002 to 2012 was conducted.
+Patients admitted for UGIB were identified, and data on demographic characteristics, symptoms, drug use, alcohol abuse, diagnosis and treatment were collected.
+Univariate and multivariate logistic regression were used to assess the association between weekend admission and the occurrence of rebleeding and in-hospital mortality.
+Rebleeding occurred significantly more frequently on weekends (45.7 vs. 32.7%, P=0.004).
+Weekend admission [odds ratio (OR)=1.78; 95% confidence interval (CI): 1.15-2.74], older age (OR=1.02; 95% CI: 1.00-1.03), and the presence of both melaena and hematemesis (OR=2.29; 95% CI: 1.29-4.07) were associated with the occurrence of rebleeding.
+No difference between weekend and weekday admissions was observed for the in-hospital mortality rate (6.9% vs. 6.0%, P=0.70).
+Older age (OR=1.14; 95% CI: 1.08-1.20), presentation with melaena and hematemesis (OR=4.12; 95% CI: 1.56-10.90) and need for surgical treatment (OR=5.16; 95% CI: 1.61-16.53) were significant predictors of all-cause mortality.
+Patients with nonvariceal bleeding had significantly higher rebleeding rates on weekends (44 vs. 32.3%, P=0.013).
+There was no significant weekend effect in the mortality of patients admitted for UGIB, irrespective of the source of bleeding.
+Increased attention to older patients presenting with a more severe clinical picture is needed to prolong survival and prevent rebleeding.

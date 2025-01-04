@@ -1,0 +1,5 @@
+Machine learning approaches for clinical psychology and psychiatry explicitly focus on learning statistical functions from multidimensional data sets to make generalizable predictions about individuals.
+The goal of this review is to provide an accessible understanding of why this approach is important for future practice given its potential to augment decisions associated with the diagnosis, prognosis, and treatment of people suffering from mental illness using clinical and biological data.
+To this end, the limitations of current statistical paradigms in mental health research are critiqued, and an introduction is provided to critical machine learning methods used in clinical studies.
+A selective literature review is then presented aiming to reinforce the usefulness of machine learning methods and provide evidence of their potential.
+In the context of promising initial results, the current limitations of machine learning approaches are addressed, and considerations for future clinical translation are outlined.

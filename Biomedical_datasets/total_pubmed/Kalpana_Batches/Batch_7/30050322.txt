@@ -1,0 +1,13 @@
+There have been few studies that have fully elucidated the relationship between genomic mutations in pulmonary adenocarcinomas and occult lymph node (LN) metastases (pN1-2) despite a preoperative clinical N0 stage (cN0).
+It is well known that anaplastic lymphoma kinase (ALK) rearrangements are more likely to occur in younger patients with high grade tumors.
+The aim of this study was to investigate the genomic status, examine the clinicopathologic features, and evaluate whether ALK mutations are associated with occult LN metastases.
+We retrospectively evaluated 459 Japanese patients who underwent pulmonary resection of cN0 adenocarcinomas between January 2012 and December 2015.
+The clinicopathologic characteristics, including age, sex, smoking index, tumor maximum diameter and consolidation/tumor ratio on computed tomography (CT), maximum standardized uptake value on positron emission tomography (PET) and gene mutations (epidermal growth factor receptor [EGFR], ALK, and kirsten ras genes (KRAS), were evaluated.
+ALK and EGFR and KRAS mutations were all mutually exclusive.
+Among 324 patients found to have mutations, ALK was involved in 19 (5.9%), EGFR in 266 (82.1%), and KRAS in 39 (12.0%).
+The incidence of occult LN metastases did not differ significantly between those with or without mutations (p=0.27).
+On univariate and multivariate analyses, tumors with ALK were more likely to have occult LN metastases (p=0.03).
+In cN0 tumors with ALK, pN1 was diagnosed in 26.3% and pN2 in 10.5%, whereas pN1 or pN2 stage was found in <10.0% in those with EGFR or KRAS mutations or with no mutations at all.
+No significant difference was found in the 2-year disease-free survival among those with gene mutations (p=0.08).
+This study highlights the frequency of PET- and CT-negative occult LN metastases in resected adenocarcinomas with ALK rearrangement.
+Our multivariate analysis showed that ALK rearrangements were associated with a significantly higher incidence of occult LN metastasis compared with ALK-negative adenocarcinomas.

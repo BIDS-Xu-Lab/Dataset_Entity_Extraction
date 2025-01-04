@@ -1,0 +1,8 @@
+Plant metabolites are important traits for plant breeders seeking to improve nutrition and agronomic performance yet integrating selection for metabolomic traits can be limited by phenotyping expense and degree of genetic characterization, especially of uncommon metabolites.
+As such, developing generalizable genomic selection methods based on biochemical pathway biology for metabolites that are transferable across plant populations would benefit plant breeding programs.
+We tested genomic prediction accuracy for >600 metabolites measured by gas chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass spectrometry (LC-MS) in oat (Avena sativa L.) seed.
+Using a discovery germplasm panel, we conducted metabolite genome-wide association study (mGWAS) and selected loci to use in multikernel models that encompassed metabolome-wide mGWAS results or mGWAS from specific metabolite structures or biosynthetic pathways.
+Metabolite kernels developed from LC-MS metabolites in the discovery panel improved prediction accuracy of LC-MS metabolite traits in the validation panel consisting of more advanced breeding lines.
+No approach, however, improved prediction accuracy for GC-MS metabolites.
+We ranked model performance by metabolite and found that metabolites with similar polarity had consistent rankings of models.
+Overall, testing biological rationales for developing kernels for genomic prediction across populations contributes to developing frameworks for plant breeding for metabolite traits.

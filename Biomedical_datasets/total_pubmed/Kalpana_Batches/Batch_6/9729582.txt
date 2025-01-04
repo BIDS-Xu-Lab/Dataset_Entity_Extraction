@@ -1,0 +1,10 @@
+When humans hop in place or run forward, leg stiffness is increased to offset reductions in surface stiffness, allowing the global kinematics and mechanics to remain the same on all surfaces.
+The purpose of the present study was to determine the mechanism for adjusting leg stiffness.
+Seven subjects hopped in place on surfaces of different stiffnesses (23-35,000 kN/m) while force platform, kinematic, and electromyographic data were collected.
+Leg stiffness approximately doubled between the most stiff surface and the least stiff surface.
+Over the same range of surfaces, ankle torsional stiffness increased 1.75-fold, and the knee became more extended at the time of touchdown (2.81 vs. 2.65 rad).
+We used a computer simulation to examine the sensitivity of leg stiffness to the observed changes in ankle stiffness and touchdown knee angle.
+Our model consisted of four segments (foot, shank, thigh, head-arms-trunk) interconnected by three torsional springs (ankle, knee, hip).
+In the model, an increase in ankle stiffness 1.75-fold caused leg stiffness to increase 1.7-fold.
+A change in touchdown knee angle as observed in the subjects caused leg stiffness to increase 1.3-fold.
+Thus both joint stiffness and limb geometry adjustments are important in adjusting leg stiffness to allow similar hopping on different surfaces.

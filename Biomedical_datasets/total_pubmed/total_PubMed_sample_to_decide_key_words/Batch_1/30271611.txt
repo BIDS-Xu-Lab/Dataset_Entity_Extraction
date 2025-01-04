@@ -1,0 +1,9 @@
+To systematically review all randomised clinical trials to determine the efficacy of local strengthening exercises compared with other forms of conservative management for adults with posterior tibial tendon dysfunction.
+Four electronic databases (Cumulative Index to Nursing and Allied Health Literature, Cochrane, Embase and PubMed) were searched up to June 2018.
+The study included randomised clinical trials investigating individuals with posterior tibial tendon dysfunction where local strengthening was compared with other forms of conservative management with respect to pain, function and/or physical impairment outcome measures.
+Standardised mean differences (SMDs) were used to compare change scores between groups and descriptors of exercise prescription assessed according to the Template for Intervention Description and Replication and the Toigo and Boutellier recommendations.
+3 studies (n=93) were eligible for inclusion in the review.
+Varying strengthening exercises were compared with stretching and foot orthoses (n=2) or no intervention (n=1).
+Moderate effects (SMD 0.6-1.2) were found for reducing pain and disability with eccentric strengthening in conjunction with stretching and orthoses compared with concentric exercises, stretching and orthoses combined, and stretching and orthoses alone.
+Evaluation of exercise prescription parameters demonstrated minimal reporting, with the only consistent parameters being the number of sets and repetitions of the exercises, and the duration of the experimental period.
+This review demonstrates the paucity of high-quality research for the conservative management of posterior tibial tendon dysfunction, and highlights the lack of exercise prescription parameters reported in clinical trials.

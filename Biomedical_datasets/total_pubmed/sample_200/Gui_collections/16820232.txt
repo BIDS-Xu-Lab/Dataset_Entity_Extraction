@@ -1,0 +1,4 @@
+The microorganisms in rumen contents were physically separated into five fractions on the basis of size using counter-flow centrifugal elutriation (CCE).
+The use of CCE allowed the microbial population to be separated in a highly repeatable manner into two protozoal and three bacterial fractions with minimal loss of material (dry weight), and with no visible damage to the microorganisms.
+A Coulter counter was used to determine the sizes of the organisms in each fraction.
+The modified CCE method is suitable for studies of the rumen microbial ecosystem that require separation of defined fractions of the population.

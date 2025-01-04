@@ -1,0 +1,13 @@
+This study sought to assess cocaine's effects on Taser-induced ventricular fibrillation (VF) threshold in a pig model.
+Stun guns are increasingly used by law enforcement officials to restrain violent subjects, who are frequently intoxicated with cocaine and other drugs of abuse.
+The interaction of cocaine and the stun gun on VF induction is unknown.
+We tested five adult pigs using a custom device built to deliver multiples of standard neuromuscular incapacitating (NMI) discharge that matched the waveform of a commercially available electrical stun gun (Taser X-26, Taser International, Scottsdale, Arizona).
+The NMI discharges were applied in a step-up and step-down fashion at 5 body locations.
+End points included determination of maximum safe multiple, minimum VF-inducing multiple, and ventricular fibrillation threshold (VFT) before and after cocaine infusion.
+Standard NMI discharges (x1) did not cause VF at any of the 5 locations before or after cocaine infusion.
+The maximum safe multiple, minimum VF-inducing multiple, and VFT of NMI application increased with increasing electrode distance from the heart.
+There was a 1.5- to 2-fold increase in these values at each position after cocaine infusion, suggesting decreased cardiac vulnerability for VF.
+Cocaine increased the required strength of NMI discharge that caused 2:1 or 3:1 ventricular capture ratios at all of the positions.
+No significant changes in creatine kinase-MB and troponin-I were seen.
+Cocaine increased the VFT of NMI discharges at all dart locations tested and reduced cardiac vulnerability to VF.
+The application of cocaine increased the safety margin by 50% to 100% above the baseline safety margin.

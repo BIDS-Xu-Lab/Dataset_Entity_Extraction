@@ -1,0 +1,14 @@
+To estimate the association between (1) visual impairment (VI) and (2) eye disease and 6-year mortality risk within a cohort of elderly Kenyan people.
+The baseline of the Nakuru Posterior Segment Eye Disease Study was formed from a population-based survey of 4318 participants aged ≥50 years, enrolled in 2007-2008.
+Ophthalmic and anthropometric examinations were undertaken on all participants at baseline, and a questionnaire was administered, including medical and ophthalmic history.
+Participants were retraced in 2013-2014 for a second examination.
+Vital status was recorded for all participants through information from community members.
+Cumulative incidence of mortality, and its relationship with baseline VI and types of eye disease was estimated.
+Inverse probability weighting was used to adjust for non-participation.
+Cumulative incidence of mortality in relation to VI level at baseline.
+Of the baseline sample, 2170 (50%) were re-examined at follow-up and 407 (10%) were known to have died (adjusted risk of 11.9% over 6 years).
+Compared to those with normal vision (visual acuity (VA) ≥6/12, risk=9.7%), the 6-year mortality risk was higher among people with VI (<6/18 to ≥6/60; risk=28.3%; risk ratio (RR) 1.75, 95% CI 1.28 to 2.40) or severe VI (SVI)/blindness (<6/60; risk=34.9%; RR 1.98, 95% CI 1.04 to 3.80).
+These associations remained after adjustment for non-communicable disease (NCD) risk factors (mortality: RR 1.56, 95% CI 1.14 to 2.15; SVI/blind: RR 1.46, 95% CI 0.80 to 2.68).
+Mortality risk was also associated with presence of diabetic retinopathy at baseline (RR 3.18, 95% CI 1.98 to 5.09), cataract (RR 1.26, 95% CI 0.95 to 1.66) and presence of both cataract and VI (RR 1.57, 95% CI 1.24 to 1.98).
+Mortality risk was higher among people with age-related macular degeneration at baseline (with or without VI), compared with those without (RR 1.42, 95% CI 0.91 to 2.22 and RR 1.34, 95% CI 0.99 to 1.81, respectively).
+Visual acuity was related to 6-year mortality risk in this cohort of elderly Kenyan people, potentially because both VI and mortality are related to ageing and risk factors for NCD.

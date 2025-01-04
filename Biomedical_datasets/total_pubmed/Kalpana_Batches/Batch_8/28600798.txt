@@ -1,0 +1,11 @@
+Pemphigus vulgaris (PV) is a skin blistering disease caused by autoantibodies targeting the desmosomal adhesion proteins desmoglein (Dsg) 3 and 1.
+The mechanisms underlying pemphigus skin blistering are not fully elucidated but p38 mitogen-activated protein kinase (p38MAPK) activation is one of the signalling events necessary for full loss of cell cohesion.
+However, it is unclear whether ultrastructural hallmarks of desmosome morphology as observed in patients' lesions are mediated by p38MAPK signalling.
+In this study, we tested the relevance of p38MAPK for blister formation and the ultrastructural changes induced by PV autoantibodies in human skin.
+Human skin samples were injected with IgG fractions of one patient suffering from mucocutaneous PV (mcPV-IgG), one from mucosal-dominant PV (mdPV-IgG) or AK23, a pathogenic monoclonal Dsg3 antibody derived from a pemphigus mouse model.
+Samples were processed for histological and electron microscopy analyses.
+mcPV-IgG and AK23 but not mdPV-IgG reduced desmosome size, caused interdesmosomal widening and formation of split desmosomes, and altered keratin filament insertion.
+In contrast, full epidermal blister formation and lower desmosome number were evident in tissue samples exposed to mcPV-IgG only.
+Pharmacological inhibition of p38MAPK blunted the reduction of desmosome number and size, ameliorated interdesmosomal widening and loss of keratin insertion and prevented mcPV-IgG-induced blister formation.
+Our data demonstrate that blistering can be prevented by inhibition of p38MAPK in the human epidermis.
+Moreover, typical morphological alterations induced by mcPV-IgG such as interdesmosomal widening and the reduction of desmosome size at least in part require p38MAPK signalling.

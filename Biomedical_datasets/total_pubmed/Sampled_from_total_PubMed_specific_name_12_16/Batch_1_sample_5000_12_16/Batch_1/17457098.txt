@@ -1,0 +1,12 @@
+To examine recent trends in transmitted drug resistance (TDR) in the United Kingdom.
+Analysis of results of genotypic resistance tests reported to the UK HIV Drug Resistance Database, which includes virtually all tests conducted as part of routine clinical care nationally.
+Resistance was based on major mutations as defined in the 2005 International AIDS Society-USA guidelines.
+Analysis was restricted to persons who were antiretroviral treatment-naive at the time of sampling, and a test defined as relating to recent infection if the patient was co-enrolled in the UK Register of HIV Seroconverters and the sample taken within 18 months of a negative HIV antibody test.
+A total of 4454 samples from treatment-naive patients between 1996 and 2004 were analysed, including 316 from patients recently infected at the time of the resistance test.
+After an initial rise, TDR declined from a peak of around 14% in 2001-2002 to around 8% by the end of 2004 (Ptrend < 0.001), largely driven by a decrease in nucleos(t)ide reverse transcriptase inhibitor (NRTI) mutations.
+Non-NRTI resistance has become increasingly important in relative terms and is now as common as NRTI resistance.
+Among patients with recent infection, an almost identical pattern was observed but shifted approximately 2 years earlier.
+A change in the distribution of viral subtypes did not explain these temporal trends.
+This is the first clear evidence of a decrease in TDR at national level.
+The wider use of regimens that suppress viral concentration to below infectious levels is one of several plausible explanations for this finding.
+Y and the UK HIV Drug Resistance Database, the UK Register of HIV Seroconverters (No need to annotate, just for notice).

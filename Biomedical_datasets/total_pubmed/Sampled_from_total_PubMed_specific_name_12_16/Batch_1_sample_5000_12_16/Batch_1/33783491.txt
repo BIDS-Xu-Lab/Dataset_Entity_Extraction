@@ -1,0 +1,13 @@
+ICU-specific tables of antimicrobial susceptibility for key microbial species ('antibiograms'), antimicrobial stewardship (AMS) programmes and routine rounds by infectious diseases (ID) physicians are processes aimed at improving patient care.
+Their impact on patient-centred outcomes in Australian and New Zealand ICUs is uncertain.
+To measure the association of these processes in ICU with in-hospital mortality.
+The Australian and New Zealand Intensive Care Society (ANZICS)
+Adult Patient Database and Critical Care Resources registry were used to extract patient-level factors, ICU-level factors and the year in which each process took place.
+Descriptive statistics and hierarchical logistic regression were used to determine the relationship between each process and in-hospital mortality.
+The study included 799 901 adults admitted to 173 ICUs from July 2009 to June 2016.
+The proportion of patients exposed to each process of care was 38.7% (antibiograms), 77.5% (AMS programmes) and 74.0% (ID rounds).
+[OR 0.95 (99% CI 0.92-0.99), P = 0.001].
+There was no association between the use of AMS programmes [OR 0.98 (99% CI 0.94-1.02), P = 0.16] or routine rounds with ID physicians [OR 0.96 (99% CI 0.09-1.02), P = 0.09] and in-hospital mortality.
+Use of ICU-specific antibiograms was associated with lower in-hospital mortality for patients admitted to ICU.
+For hospitals that do not perform ICU-specific antibiograms, their implementation presents a low-risk infection management process that might improve patient outcomes.
+Y: Australian and New Zealand Intensive Care Society (ANZICS) Adult Patient Database, Critical Care Resources registry (No need to annotate, just for notice).

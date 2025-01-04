@@ -1,0 +1,6 @@
+100 consecutive magnetic resonance imaging (MRI) examinations were reviewed independently by two radiologists.
+Patients were selected so that the anatomical areas of clinical interest coincided with the special interests of the reviewers.
+The reviewers were both consultant radiologists, one with 3 years' and the other with 6 years' experience of MRI.
+Hard copy images from the MRI examinations were reported independently by both reviewers.
+Of the 100 MRI examinations, there was full concordance of opinion in 61/100.
+Of the remaining 39 cases, four (10%) were considered "minor unrelated" differences, 12 (31%) "minor related" differences and 23 (59%) "major related" differences resulting in a significant change in patient management.

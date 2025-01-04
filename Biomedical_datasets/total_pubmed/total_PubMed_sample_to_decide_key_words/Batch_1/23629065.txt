@@ -1,0 +1,7 @@
+National Ignition Facility experiments involve the use of a variety of materials that generate a number of radiological issues.
+Along with the use of tritium and depleted uranium, shots generating neutrons create prompt radiation fields as well as fission and activation products.
+In order to assure readiness for these hazards, a series of readiness reviews was conducted as the hazards were introduced.
+Each step was built upon the previous steps, as well as the basic infrastructure and operating capability of the laser facility.
+A detailed preparation plan for the introduction of these hazards was developed.
+This included ensuring required equipment was in place and ready, all plans and procedures were developed, and personnel were trained and qualified to perform work in the environment.
+The approach for preparing the facility for operations under the new set of conditions, the preparations for the readiness reviews, the review process, as well as the approach to initial operations are discussed.

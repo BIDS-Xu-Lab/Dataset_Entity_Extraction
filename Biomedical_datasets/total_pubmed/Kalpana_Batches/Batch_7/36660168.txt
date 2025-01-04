@@ -1,0 +1,13 @@
+Aim: Patients receiving oral anticoagulants with vitamin K antagonists (VKAs) and direct oral anticoagulants (DOACs) have an increased risk of gastrointestinal bleeding (GIB).
+We compared cases of GIB associated with VKAs and DOACs in terms of risk factors, scores, timing, location, severity, and outcome.
+Methods: Data from patients treated at a university hospital in Switzerland for GIB under VKA and DOACs between 2012 and 2018 were analyzed in this investigator-driven, retrospective, single-center study.
+A total of 248 patients (110 males; median age, 80 years; 134 VKA, 114 DOAC) were included.
+No significant differences in age, weight or sex were observed.
+The propensity of the VKA group for risk factors such as comorbidities, interacting medications, or a high risk for bleeding (HAS-BLED score) was higher than that of the DOAC group.
+56% of the VKA-treated patients had a supratherapeutic INR, and 25% in the DOAC group received an unlicensed dose.
+Significantly more patients in the DOAC group were not formally overdosed with OAC whilst receiving amiodarone compared to the VKA group (57% vs. 18%, respectively, p = 0.03).
+Latency between the documented start of oral anticoagulation and GIB was shorter in the DOAC group (median 3 months) than in the VKA group (median 23.5 months, p¡0.001).
+There were no differences in terms of location and severity of the GIB, length of hospitalization, or mortality.
+Conclusion: Patients taking VKAs displayed more risk factors for GIB than those taking DOACs.
+Treatment with DOACs was associated with early GIB and calls for increased vigilance during the first months after commencement.
+Co-medication with amiodarone appeared to be a risk factor for GIB in patients taking DOACs.

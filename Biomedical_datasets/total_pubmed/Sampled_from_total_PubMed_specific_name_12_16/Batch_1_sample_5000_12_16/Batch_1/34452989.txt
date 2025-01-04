@@ -1,0 +1,12 @@
+Balloon guide catheter (BGC) in stent retriever based thrombectomy (BGC+SR) for patients with large vessel occlusion strokes (LVOS) improves outcomes.
+It is conceivable that the addition of a large bore distal access catheter (DAC) to BGC+SR leads to higher efficacy.
+We aimed to investigate whether the combined BGC+DAC+SR approach improves angiographic and clinical outcomes compared with BGC+SR alone for thrombectomy in anterior circulation LVOS.
+Consecutive patients with anterior circulation LVOS from June 2019 to November 2020 were recruited from the ROSSETTI registry.
+Demographic, clinical, angiographic, and outcome data were compared between patients treated with BGC+SR alone versus BGC+DAC+SR.
+The primary outcome was first pass effect (FPE) rate, defined as near complete/complete revascularization (modified Thrombolysis in Cerebral Infarction (mTICI) 2c-3) after single device pass.
+We included 401 patients (BGC+SR alone, 273 (66.6%) patients).
+Patients treated with BGC+SR alone were older (median age 79 (IQR 68-85) vs 73.5 (65-82) years; p=0.033) and had shorter procedural times (puncture to revascularization 24 (14-46) vs 37 (24.5-63.5) min, p<0.001) than the BGC+DAC+SR group.
+Both approaches had a similar FPE rate (52% in BGC+SR alone vs 46.9% in BGC+DAC+SR, p=0.337).
+Although the BGC+SR alone group showed higher rates for final successful reperfusion (mTICI ≥2b (86.8% vs 74.2%, p=0.002) and excellent reperfusion, mTICI ≥2 c (76.2% vs 55.5%, p<0.001)), there were no significant differences in 24 hour National Institutes of Health Stroke Scale score or rates of good functional outcome (modified Rankin Scale score of 0-2) at 3 months across these techniques.
+Our data showed that addition of distal intracranial aspiration catheters to BGC+SR based thrombectomy in patients with acute anterior circulation LVO did not provide higher rates of FPE or improved clinical outcomes.
+Y and ROSSETTI registry (No need to annotate, just for notice).

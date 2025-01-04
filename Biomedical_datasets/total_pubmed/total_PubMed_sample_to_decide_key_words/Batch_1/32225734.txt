@@ -1,0 +1,4 @@
+We numerically demonstrate orthogonally polarized dual-comb generation in a single microcavity with normal dispersion assisted by the cross-phase modulation (XPM) effect.
+It is found that the XPM effect facilitates the emission of a secondary polarized comb with different temporal properties in a wide existence range covering the blue- to red-detuned regime and thus releases the requirements for delicate control on the detuned region of pump frequency.
+Also, the energy transfer between two polarization components together with the normal-dispersion property contributes to a more balanced intensity difference and significantly increased conversion efficiency from the pump light into the comb operation.
+This work could provide a route to a low-cost and compact mid-infrared dual-comb system with a lower power requirement as well as an effective approach to higher comb teeth power with improved efficiency for practical applications.

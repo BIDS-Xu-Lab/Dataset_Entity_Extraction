@@ -1,0 +1,4 @@
+The theory of hard target calibration of lidar backscatter data, including laboratory measurements of the pertinent target reflectance parameters, is extended to include the effects of polarization of the transmitted and received laser radiation.
+The bidirectional reflectance-distribution function model of reflectance is expanded to a 4 x 4 matrix allowing Mueller matrix and Stokes vector calculus to be employed.
+Target reflectance parameters for calibration of lidar backscatter data are derived for various lidar system polarization configurations from integrating sphere and monostatic reflectometer measurements.
+It is found that correct modeling of polarization effects is mandatory for accurate calibration of hard target reflectance parameters and, therefore, for accurate calibration of lidar backscatter data.

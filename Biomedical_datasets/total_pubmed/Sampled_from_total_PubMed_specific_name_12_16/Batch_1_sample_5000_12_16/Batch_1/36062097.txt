@@ -1,0 +1,7 @@
+With the global growth of the aging population, healthy aging and active aging has become an important goal for the future social development of all countries.
+The purpose of this study is to explore the potential relationships between the older people's perceived importance of the Internet, family atmosphere, behavioral independence, life satisfaction, and health.
+The data come from the China Family Panel Studies' fourth wave (2015-2016) and fifth wave (2017-2018) investigations.
+According to an analysis of data of 5,948 people over 60 years old performed using LISREL 8.8 software, the selected cases answered the same questions about the perceived importance of the Internet, life satisfaction, and health status in two waves of surveys.
+The results show that life satisfaction and self-rated health have cross influences, while at the same time both are persistent in the time baseline, and family atmosphere and behavioral independence play an important intermediary role.
+Therefore, strengthening parent-child interaction, promoting parent-child relationships, and improving behavioral independence can effectively improve the life satisfaction and health status of the older people.
+Y and China Family Panel Studies (No need to annotate, just for notice).

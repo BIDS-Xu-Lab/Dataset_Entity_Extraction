@@ -1,0 +1,8 @@
+Performance of biological wastewater treatment systems may be related to the composition and activity of microbial populations they contain.
+However, little information is known regarding microbial community inhabiting these ecosystems.
+The purpose of this study was to investigate archaeal and bacterial diversity, using cultivation-independent molecular techniques, in a constructed wetland receiving domestic wastewater.
+Two 16S rRNA gene libraries were constructed using total genomic DNA and amplified by PCR using primers specific for archaeal and bacterial domains.
+A high microbial diversity was detected.
+The Proteobacteria phylum is the most abundant and diversified phylogenetic group representing 31.3 % of the OTUs, followed by the Bacteroidetes (14.8 %), Planctomycetales (13.8 %), Actinobacteria (12 %), and Chloroflexi (8.2 %).
+Sequences affiliated with minor phylogenetic divisions such as the TM7, Nitrospira, OP10, and BRC1 are represented by <6 % of total OTUs.
+The Archaea domain was represented by the Thaumarchaeota phylum dominated by the Candidatus Nitrososphaera genus.

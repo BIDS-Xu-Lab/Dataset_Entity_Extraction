@@ -1,0 +1,15 @@
+Determine if perfluorooctanoic acid (PFOA) is associated with an incident disease in an occupational cohort.
+We interviewed 3713 workers or their next of kin in 2008-2011, and sought medical records for self-reported disease.
+These workers were a subset of a previously studied cohort of 32,254 community residents and workers.
+We estimated historical PFOA serum levels via a job-exposure matrix based on over 2000 serum measurements.
+Non-occupational exposure from drinking water was also estimated.
+Lifetime serum cumulative dose (combining occupational and non-occupational exposure) was our exposure metric.
+We studied 17 disease outcomes with more than 20 validated cases.
+The median measured serum level was 113 ng/mL in 2005 (n=1881), compared with 4 ng/mL in the US.
+Ulcerative colitis (10-year lag) showed a significant trend (p≤0.05) with increasing dose (quartile rate ratios (RRs)=1.00, 3.00, 3.26, 6.57, n=28, p for trend=0.05), similar to earlier findings in the community study.
+Rheumatoid arthritis (no lag) showed a positive trend in a categorical trend test (RRs=1.00, 2.11, 4.08, 4.45, n=23, p for trend=0.04).
+Positive non-significant trends were also observed for prostate cancer, non-hepatitis liver disease and male hypothyroidism, which have been implicated in other studies.
+A significant negative trend was found for bladder cancer and asthma with medication.
+No marked trends were seen for high cholesterol, which had been seen in the community study.
+Ulcerative colitis and rheumatoid arthritis were positively linked to PFOA exposure among workers.
+Data were limited by small numbers, under-representation of hard-to-trace decedents and few low-exposed referents.

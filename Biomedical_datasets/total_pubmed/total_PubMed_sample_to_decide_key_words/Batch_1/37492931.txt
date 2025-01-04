@@ -1,0 +1,9 @@
+Cochlear hair cell loss is a leading cause of deafness in humans.
+Neighboring supporting cells have some capacity to regenerate hair cells.
+However, their regenerative potential sharply declines as supporting cells undergo maturation (postnatal day 5 in mice).
+We recently reported that reactivation of the RNA-binding protein LIN28B restores the hair cell-regenerative potential of P5 cochlear supporting cells.
+Here, we identify the LIN28B target Trim71 as a novel and equally potent enhancer of supporting cell plasticity.
+TRIM71 is a critical regulator of stem cell behavior and cell reprogramming; however, its role in cell regeneration is poorly understood.
+Employing an organoid-based assay, we show that TRIM71 re-expression increases the mitotic and hair cell-forming potential of P5 cochlear supporting cells by facilitating their de-differentiation into progenitor-like cells.
+Our mechanistic work indicates that TRIM71's RNA-binding activity is essential for such ability, and our transcriptomic analysis identifies gene modules that are linked to TRIM71 and LIN28B-mediated supporting cell reprogramming.
+Furthermore, our study uncovers that the TRIM71-LIN28B target Hmga2 is essential for supporting cell self-renewal and hair cell formation.

@@ -1,0 +1,11 @@
+National guidelines recommend primary care providers (PCPs) screen patients for depression with a standardized tool and address positive screenings.
+However, depression prevalence is lower in Latinos (8% to 15%, with Spanish speakers at 8%) than non-Latino whites (22%).
+As a result of these prevalence differences, PCPs may use ethnicity and language of the patient to determine depression screening behaviors.
+This study examined standard of care (SoC) depression treatment recommendations by ethnicity and language for patients who screened positive for major depression during a medical visit.
+275 patients scored ≥10 on the Patient Health Questionnaire-9 screening; a chart review assessed treatment referrals, followed by semistructured interviews with 18 patients and 7 PCPs regarding depression treatment behaviors.
+138 patients (50%) received SoC treatment recommendations.
+After controlling for age, gender, and race, a binary logistic regression was performed to determine language and ethnicity effects on SoC depression treatment recommendations (psychotherapy/pharmacotherapy vs other).
+Spanish-speaking Latinos were 72% less likely to receive SoC recommendations than English speakers (odds ratio [OR] = 0.39).
+Interviews with Spanish-speaking patients confirmed that negative perceptions about medications, patient noncompliance, and a shortage of bilingual behavioral health providers within the clinic impacted SoC recommendations and uptake.
+Spanish-speaking Latinos did not receive or follow through with SoC recommendations as often as English speakers regardless of ethnicity.
+Future studies should explore reasons why language is a barrier to SoC recommendations for Latinos and explore culturally and linguistically sensitive methods to effectively treat Spanish speakers for depression during a medical visit.

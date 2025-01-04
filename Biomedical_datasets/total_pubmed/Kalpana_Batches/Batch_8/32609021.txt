@@ -1,0 +1,13 @@
+Wild-type transthyretin amyloid cardiomyopathy (ATTRwt) is a fast progressing and fatal disease associated with substantial delays in diagnosis.
+Between the first symptoms and diagnosis, patients are frequently hospitalized, primarily with cardiac symptoms.
+After diagnosis, patients continue to experience frequent hospital admissions.
+The objective of this study was to estimate the Danish diagnostic and lifetime hospital costs associated with the treatment of patients with ATTRwt both before and after they are diagnosed.
+We developed a cost model for Danish hospital costs associated with ATTRwt, including the costs of diagnosis, cardiac implants, and hospital admissions covering inpatient hospitalization and outpatient hospital care (ambulatory and emergency services).
+The number of diagnoses, cardiac implants, inpatient hospitalization and outpatient hospital care were estimated based on published data.
+Estimates of the unit costs were based on publicly available Danish reference costs.
+We calculated the total hospital costs covering the median lifespan of patients from onset of symptoms, which is 13 months prior to diagnosis, to 52 months after diagnosis which is the median survival time after diagnosis.
+The average cost of diagnosing ATTRwt was USD 3,424 per patient; the average costs of cardiac implants were USD 1,851 per patient.
+Hospital admissions costs totaled USD 3,345 pre-diagnosis and USD 59,449 post-diagnosis per patient, on average.
+The total diagnostic and lifetime (65 months) hospital costs associated with ATTRwt were USD 68,069.
+Caring for patients with ATTRwt places a significant economic burden on the healthcare system.
+The study emphasizes the cost saving potential for medical interventions in this patient population.

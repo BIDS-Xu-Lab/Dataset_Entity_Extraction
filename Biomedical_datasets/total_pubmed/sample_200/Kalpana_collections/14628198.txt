@@ -1,0 +1,9 @@
+There is no simple, cost effective bedside method available for measuring global cerebral blood flow (CBF) rapidly and repeatedly.
+Based on the ultrasound technique a device was developed to measure flow volume per unit of time in the internal carotid artery.
+The system utilizes dual beam, angle-independent Doppler technology, and employs simultaneous sampling and full spectrum determination.
+The aim of this study was to evaluate this device in comparison with cerebral blood flow measurements using the well established Xenon(133) clearance technique.
+10 patients suffering from SAH were included.
+CBF was measured employing the Xenon(133) clearance technique.
+Velocity profiles across the ICA were obtained with the high-resolution FlowGuard Doppler ultrasound flow system (Cardiosonix Ltd., Israel).
+According to the statistical analysis the ICA flow correlated significantly to the mean rCBF15 index of the hemisphere (p<0.0001).
+This new device seems to be promising for monitoring cerebral blood flow in critically ill neurological and neurosurgical patients.

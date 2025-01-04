@@ -1,0 +1,3 @@
+The increase in the extracellular potassium concentration ([K(+)](o)) is a well-established model of epilepsy (the so-called high potassium model).
+Therefore, it is generally accepted that for the prevention of abnormal excitability and seizure generation, increases of [K(+)](o) must be avoided.
+In this paper, however, we show that on the contrary, a reduction of [K(+)](o) also elicits epileptic activity in brain slices of man.

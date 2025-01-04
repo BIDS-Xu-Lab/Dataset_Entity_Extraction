@@ -1,0 +1,15 @@
+Hypotension after pediatric traumatic brain injury (TBI) is associated with poor outcomes, but definitions of low systolic blood pressure (SBP) vary.
+Age- and sex-specific, percentile-based definitions of hypotension may help to better identify children at risk for poor outcomes compared with traditional thresholds recommended in pediatric trauma care.
+Using the National Trauma Data Bank between 2007 and 2014, we conducted a retrospective cohort study of children with isolated severe TBI.
+We classified admission SBP into 5 percentile categories according to population-based values: (1) SBP less than the fifth percentile, (2) SBP in the fifth to 24th percentile, (3) SBP in the 25th to 74th percentile, (4) SBP in the 75th to 94th percentile, and (5) SBP ≥95th percentile.
+These definitions were compared with the American College of Surgeons (ACS) hypotension definition.
+The association between SBP percentiles and in-hospital mortality was analyzed by using multivariable Poisson regression models.
+There were 10 473 children with severe TBI included in this study.
+There were 2388 (22.8%) patients who died while in the hospital.
+[CI] 2.9-3.6), SBP in the fifth to 24th percentile (RR 2.3; 95% CI 2.0-2.7), and SBP in the 25th to 74th percentile (RR 1.4; 95% CI 1.2-1.6).
+An increased risk of mortality with SBP <75th percentile was present across all age subgroups.
+SBP targets using the ACS hypotension definition were higher than the fifth percentile hypotension definition, but were lower than the 75th percentile hypotension definition.
+Admission SBP <75th percentile was associated with a higher risk of in-hospital mortality after isolated severe TBI in children.
+SBP targets based on the 75th percentile were higher compared with traditional ACS targets.
+Percentile-based SBP targets should be considered in defining hypotension in pediatric TBI.
+Y and National Trauma Data Bank (No need to annotate, just for notice).

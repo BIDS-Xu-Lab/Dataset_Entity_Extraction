@@ -1,0 +1,10 @@
+To assess the predictive capacity for the diagnosis of ventilator-associated pneumonia (VAP) of serum procalcitonin levels before and on the day it is suspected.
+Single-center observational study in the intensive care unit of a teaching hospital.
+Consecutive patients whose serum procalcitonin levels were available on the day that VAP was clinically suspected (day 1) and at some time within the preceding 5 days ("before").
+Serum procalcitonin levels were determined on day 1 and "before".
+Among the 73 suspected episodes VAP was confirmed by quantitative bronchoalveolar lavage cultures in 32 and refuted in 41.
+Respective median "before" procalcitonin levels were 1.89 ng/ml (interquartile range 0.18-6.01) and 2.14 (0.76-5.75) in patients with and without VAP, but their respective median day-1 procalcitonin levels did not differ: 1.07 ng/ml (0.39-6.57) vs. 1.40 (0.67-3.39).
+On day 1 a 0.5 ng/ml procalcitonin threshold had 72% sensitivity but only 24% specificity for diagnosing VAP.
+Between "before" and day 1, procalcitonin increased in 41% and 15% of patients with and without VAP, respectively.
+Thus a procalcitonin rise on day 1, compared to its "before" level, had 41% sensitivity and 85% specificity for diagnosing VAP, with respective positive and negative predictive values of 68% and 65%.
+Crude values and procalcitonin rise had poor diagnostic value for VAP in this particular setting and thus should not be used to initiate antibiotics when VAP is clinically suspected.

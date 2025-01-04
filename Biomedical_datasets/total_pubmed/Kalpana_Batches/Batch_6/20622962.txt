@@ -1,0 +1,10 @@
+To maintain the homeostasis of stem cells and prevent their ability to initiate tumorigenesis, it is important to identify and modify factors that prevent or accelerate stem cell senescence.
+We used microarrays to attempt to identify such factors in human amniotic fluid (HAF)-derived stem cells.
+To identify gene expression changes over a time course, we compared gene expression profiles of HAF-derived stem cells in different passages (1(st), 2(nd), 4(th), 6(th), 8(th), and 10(th)) using a Sentrix Human illumina microarray.
+Of the 25,804 genes in the microarray chip, 1,970 showed an over 2-fold change relative to the control (the 1(st) passage)-either upregulated or downregulated.
+Quantitative real-time PCR validated the microarray data for selected genes: markedly increased genes were CXCL12, cadherin 6 (CDH6), and folate receptor 3 (FOLR3).
+Downregulated genes included cyclin D2, keratin 8, insulin-like growth factor 2 (IGF2), natriuretic peptide precursor B (NPPB) and cellular retinoic acid binding protein 2 (CRABP2).
+The expression pattern of the selected genes was consistent with the microarray data except for CXCL12 and IGF2.
+Interestingly, the expression of NPPB was dramatically downregulated along the time course; it was almost completely shut-down by the 10(th) passage.
+In contrast, FOLR3 mRNA expression was dramatically increased.
+Taken together, although a function for NPPB and FOLR3 in stem cell senescence has not been reported, our results strongly suggest that NPPB and/or FOLR3 play a significant role in the regulation of stem cell senescence.

@@ -1,0 +1,13 @@
+Corneal allograft rejection in rats can be prevented by subconjunctival injections of liposomes containing dichloromethylene diphosphonate (clodronate-LIP), which selectively eliminate macrophages.
+In this study, the effect of clodronate-LIP treatment on cytokine mRNA levels in corneal allografts was examined.
+AO rats received corneal grafts of PVG rats.
+Rats were either not treated or injected subconjunctivally with clodronate-LIP on the day of transplantation and on postoperative days (PODs) 2, 4, 6, and 8.
+RNA was isolated from the graft and rim of corneas at different times after transplantation and from normal controls.
+Interleukin (IL)-1beta, IL-1 receptor antagonist (IL-1RA), IL-2, IL-4, IL-6, IL-10, IL-12p40, tumor necrosis factor (TNF)-alpha, TNF-beta/lymphotoxin (LT), interferon (IFN)-gamma, monocyte chemotactic protein 1 (MCP-1), and macrophage inflammatory protein 2 (MIP-2) mRNA levels were analyzed by semiquantitative reverse transcription-polymerase chain reaction (RT-PCR).
+Corneal rejection, observed in all untreated rats by POD 12, was associated with increased mRNA levels of all cytokines investigated in grafts and rims.
+Clodronate-LIP treatment prevented allograft rejection and strongly decreased the levels of IL-1beta, IL-1RA, IL-2, IL-4, IL-6, IL-10, IFN-gamma, TNF-beta/LT, MCP-1, and MIP-2 mRNA in grafts and IL-1 beta, IL-2, IL-4, IL-6, and IFN-gamma mRNA in rims.
+Interleukin-12p40 mRNA levels were unaltered in clodronate-treated rats, except for a transient increase in grafts at POD 3.
+TNF-alpha mRNA levels were increased by clodronate-LIP in grafts and rims early after transplantation (PODs 3 and 7).
+Despite a normal appearance, long-term accepted corneal grafts (POD 100) contained mRNA for IL-10, IL-12p40, TNF-alpha, MCP-1, and MIP-2.
+Clodronate-liposome treatment markedly altered the mRNA levels of all cytokines investigated in corneal allografts.
+These results may explain in part the mechanism by which clodronate-LIP treatment prevents corneal allograft rejection.

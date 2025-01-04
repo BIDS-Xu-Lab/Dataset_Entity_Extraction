@@ -1,0 +1,9 @@
+The characteristics of electrocardiogram (ECG) signal are fuzzy and random, so that they are difficult for automatic analysis and diagnosis.
+To solve this problem, an uncertainties transformation model-Cloud Model, which is a fusion of qualitative and quantitative information, was tried to use to analyze the ECG signal.
+The model fusions the characters of fuzzy and random, just suit to the ECG automatic analysis and diagnosis system.
+Based on the theory of the cloudy transform and comprehensive cloud, the clustering of ECG signal was finished.
+Further more, the clinic experience of expert was summarized as classification rules based on the theory.
+The experiment data were from MIT/ BIH database.
+The experiment results showed more close to those of the expert's analysis.
+The describing result was more close to those of the more expert's with qualitative and quantitative information.
+It is well concluded that the method is an effective ECG signal analysis method.

@@ -1,0 +1,6 @@
+The cerebral ischemia-reperfusion injury (CIRI) after the cardiac arrest (CA)-cardiopulmonary resuscitation (CPR) was a complex pathophysiology process.
+Nitric oxide (NO) is a small molecule that mediates cell signal transduction in vivo and plays an important role in the regulation of brain function during ischemia/reperfusion (I/R).
+S-nitrosoglutathione reductase (GSNOR) inhibitor can regulate the synthesis and release of NO in vivo and has a protective effect on CIRI.
+Therefore, early administration of GSNOR to CA-CPR patients could be the main treatment method to improve the prognosis of those patients.
+A large number of studies have been done to improve the prognosis of CA-CPR in recent years.
+In order to provide reference for further research on the treatment and brain protection of CIRI after CA-CPR, the article reviewed the main mechanisms of brain injury after CA-CPR, the protective effect and mechanism of NO on cerebral I/R injury, the production and regulation of NO, in vivo, and the protective effect of GSNOR inhibitors on CIRI, especially the research progress of GSNOR inhibitors.

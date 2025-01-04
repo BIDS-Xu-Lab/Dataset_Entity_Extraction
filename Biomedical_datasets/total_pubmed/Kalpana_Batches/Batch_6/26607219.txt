@@ -1,0 +1,12 @@
+To review the literature on neck recurrence in esthesioneuroblastoma.
+A PubMed database search was performed using keywords "esthesioneuroblastoma," "olfactory neuroblastoma," and "esthesioneuroblastoma neck metastasis."
+Articles written in English with greater than 10 subjects that had data regarding the association of neck recurrence and mortality and/or the association of neck recurrence with Kadish stage were included for analysis.
+Thirteen studies met inclusion criteria with information regarding the association of neck recurrence and mortality, and 15 studies had data associating neck recurrence and Kadish stage.
+The neck recurrence rate was 14.1% in studies analyzing mortality.
+Among those patients who developed regional metastases, mortality was 60%.
+Of patients without regional recurrence, the mortality rate from disease was 26% (P < 0.0001) and overall mortality was 32% (P < 0.0001).
+The rate of neck recurrence within each Kadish stage was 0%, 11%, 21%, and 18% for Kadish stages A, B, C, and D, respectively.
+The trend toward an increased incidence of neck recurrence from stage A to stage D is statistically significant, with P value 0.003.
+The rate of neck recurrence in esthesioneuroblastoma is close to 15%.
+There is a strong association of recurrence with Kadish stage B and C. Mortality from disease in patients with recurrence in cervical lymph nodes is significant when compared to those who never develop neck disease.
+Prospective studies are needed to evaluate a potential role for elective neck dissection versus elective neck radiation for patients with esthesioneuroblastoma.

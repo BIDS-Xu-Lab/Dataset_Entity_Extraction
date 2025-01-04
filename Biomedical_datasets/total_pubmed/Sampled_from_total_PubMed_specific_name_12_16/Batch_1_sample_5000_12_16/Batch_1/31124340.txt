@@ -1,0 +1,16 @@
+Liver fibrosis is a major cause of morbidity and mortality and the outcome of various chronic liver diseases.
+Activation of hepatic stellate cells (HSCs) is the key event in liver fibrosis.
+Studies have confirmed that miR-140-3p plays a potential regulatory effect on HSC activation.
+However, whether miR-140-3p mediates the liver fibrosis remains unknown.
+Expression of miR-140-3p was detected by real-time quantitative PCR (qPCR).
+Cell proliferation was measured by MTT, while cell apoptosis rate was determined via flow cytometry.
+Western blot assay was used to detect the expression of cleaved PARP.
+The fibrogenic effect was evaluated by expression of α-smooth muscle actin and desmin.
+Functional experiments were performed in transforming growth factor β1 (TGF-β1)-induced HSC-T6 cells with transfection of anti-miR-140-3p and/or siPTEN.
+Target binding between miR-140-3p and PTEN was predicted by the TargetScan database and identified using luciferase reporter assay and RNA immunoprecipitation.
+TGF-β1 induced the activation of HSC-T6 cells, and miR-140-3p expression varied according to HSC-T6 cell activation status.
+Knockdown of miR-140-3p reduced cell proliferation and the expressions of α-SMA and desmin, as well as increased apoptosis, in TGF-β1-induced HSC-T6 cells, which could be blocked by PTEN silencing.
+Additionally, inactivation of the AKT/mTOR signaling pathway stimulated by miR-140-3p knockdown was abolished when silencing PTEN expression.
+PTEN was negatively regulated by miR-140-3p via direct binding in HSC-T6 cells.
+miR-140-3p is an important mediator in HSC-T6 cell activation, and miR-140-3p knockdown suppresses cell proliferation and fibrogenesis in TGF-β1-induced HSC-T6 cells, indicating that miR-140-3p may be a potential novel molecular target for liver fibrosis.
+Y and TargetScan database (No need to annotate, just for notice).

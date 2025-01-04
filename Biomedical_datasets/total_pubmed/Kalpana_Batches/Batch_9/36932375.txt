@@ -1,0 +1,14 @@
+Neurogenic detrusor overactivity (NDO) is a serious and common complication after spinal cord injury, affecting patients' quality of life seriously.
+Therefore, we developed this research protocol to evaluate the efficacy of repetitive functional magnetic stimulation (rFMS) in the sacral nerve in patients with neurogenic detrusor overactivity (NDO) after suprasacral spinal cord injury (SCI) and provide more options for rFMS in treating NDO after suprasacral SCI.
+This study is a single-center, randomized, parallel-group clinical trial.
+We will recruit the patients with NDO after suprasacral SCI in the Rehabilitation Department of the Affiliated Hospital of Southwest Medical University from September 2022 to August 2023.
+They will be assigned to the rFMS group and the sham stimulation group randomly.
+The sample size is 66, with 33 patients in each group.
+The rFMS group will receive real rFMS treatment of the sacral nerve (100% stimulation intensity, 5 Hz, 20 min each time, five times a week), and the sham group will receive sham stimulation.
+Both groups will receive similar treatment strategies, including medication, standard urine management, acupuncture treatment, and health education.
+The bladder compliance (bladder capacity/detrusor pressure) and pudendal nerve electromyography will be evaluated at baseline, 8th week of treatment.
+The residual volume of the bladder and bladder diary will be recorded once a week during 8 weeks of treatments.
+SCI-QOL and NBSS will be evaluated at baseline, the 4th and 8th week of treatment.
+In addition, the above assessments will be followed up at 8 weeks after the end of treatment.
+It is expected that the bladder function, symptoms, and quality of life might be significantly improved after rFMS of the sacral nerve.
+The China Clinical Trials Registry has approved this study, registration number: ChiCTR2100045148.

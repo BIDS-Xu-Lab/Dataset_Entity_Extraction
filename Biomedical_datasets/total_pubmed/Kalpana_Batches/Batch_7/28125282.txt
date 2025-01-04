@@ -1,0 +1,7 @@
+The plant vascular system plays a central role in coordinating physiological and developmental events through delivery of both essential nutrients and long-distance signaling agents.
+The enucleate phloem sieve tube system of the angiosperms contains a broad spectrum of RNA species.
+Grafting and transcriptomics studies have indicated that several thousand mRNAs move long distances from source organs to meristematic sink tissues.
+Ribonucleoprotein complexes play a pivotal role as stable RNA-delivery systems for systemic translocation of cargo RNA.
+In this review, we assess recent progress in the characterization of phloem and plasmodesmal transport as an integrated local and systemic communication network.
+We discuss the roles of phloem-mobile small RNAs in epigenetic events, including meristem development and genome stability, and the delivery of mRNAs to specific tissues in response to environmental inputs.
+A large body of evidence now supports a model in which phloem-mobile RNAs act as critical components of gene regulatory networks involved in plant growth, defense, and crop yield at the whole-plant level.

@@ -1,0 +1,6 @@
+Free L-tryptophan (L-Trp) stalls ribosomes engaged in the synthesis of TnaC, a leader peptide controlling the expression of the Escherichia coli tryptophanase operon.
+Despite extensive characterization, the molecular mechanism underlying the recognition and response to L-Trp by the TnaC-ribosome complex remains unknown.
+Here, we use a combined biochemical and structural approach to characterize a TnaC variant (R23F) with greatly enhanced sensitivity for L-Trp.
+We show that the TnaC-ribosome complex captures a single L-Trp molecule to undergo termination arrest and that nascent TnaC prevents the catalytic GGQ loop of release factor 2 from adopting an active conformation at the peptidyl transferase center.
+Importantly, the L-Trp binding site is not altered by the R23F mutation, suggesting that the relative rates of L-Trp binding and peptidyl-tRNA cleavage determine the tryptophan sensitivity of each variant.
+Thus, our study reveals a strategy whereby a nascent peptide assists the ribosome in detecting a small metabolite.

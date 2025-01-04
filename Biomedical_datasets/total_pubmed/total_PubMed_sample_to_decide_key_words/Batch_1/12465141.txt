@@ -1,0 +1,8 @@
+N-acetyltransferase 2 (NAT2) is a key enzyme for the acetylation of sulfasalazine (SSZ).
+We examine whether there was a correlation between diplotype configurations (combinations of 2 haplotypes for a subject) at the NAT2 gene and the adverse effects of SSZ used for the treatment of rheumatoid arthritis (RA).
+The findings from 144 patients with RA who had been treated with SSZ were collected from our outpatient department and used for a retrospective study.
+Haplotype analysis was performed by the maximum-likelihood estimation based on the EM algorithm using the obtained polymorphism data.
+Sixteen patients (11.1%) had experienced adverse effects from SSZ, the most common being allergic reactions including rash and fever.
+The slow acetylators who had no NAT2*4 haplotype had experienced adverse effects more frequently (62.5%) than the fast acetylators who had at least one NAT2*4 haplotype (8.1%) (p < 0.001, OR 7.73, 95% CI 3.54-16.86).
+In 25% of the slow acetylators, the adverse effects were so severe that they were hospitalized.
+Genotyping the NAT2 gene followed by estimation of diplotype configuration before administration of SSZ is likely to reduce the frequency of adverse effects in Japanese patients with RA.

@@ -1,0 +1,12 @@
+Glioma, characterized by invasive growth and high recurrence, is the main cause of brain-tumor-related deaths.
+Currently, proline rich 11 (PRR11) has served as a reliable predictor in diagnosis, prognosis, and immunotherapeutic response of several human cancers.
+However, the predictive significance of PRR11 in prognosis and immune infiltration of glioma patients is still uncertain.
+Therefore, glioma-related information from multiple data sets and single-cell sequencing (scRNA-seq), including CGGA, TCGA_GTEx, GEO, 10x Genomics, and Smart-seq, was included in this study.
+Then, clinical correlation analysis, univariate and multivariate Cox analysis, Kaplan-Meier survival analysis, and receiver operating characteristic curve analysis were utilized to explore diagnostic and prognostic value of PRR11 in glioma.
+Besides, functional mechanisms of PRR11 in glioma were also carried out via Spearman's correlation, immune infiltration, scRNA-seq, gene ontology enrichment, and Kyoto encyclopedia of genes and genomes analysis.
+Finally, we selected two glioma cell lines, U251 and LN229, for validation of oncogenic role of PRR11 in glioma.
+As a result, PRR11 is a promising and reliable predictor in diagnosis and prognosis of glioma patients, positively correlates with clinical malignancy, World Health Organization grades, IDH mutation status, 1p19q codeletion status, histology, and poor survival time.
+Mechanically, PRR11 is specifically overexpressed in Mano/Macro_C21 and CD8Tex cells and interferes with cell-cycle, transcription factors, immune infiltration, MYC targets, and PI3K/AKT/mTOR signaling.
+Further exploration of biological mechanisms of PRR11 in glioma patients reveals that PRR11 might exert its oncogenic effects via involvement with chromosome segregation, coenzyme binding, cell cycle, and pyruvate metabolism.
+Moreover, PRR11 knockdown suppressed cell viability, migration, cell-cycle progression, and induced apoptosis and autophagy in glioma cells.
+In summary, our results suggest that PRR11 might be a novel and reliable diagnostic and prognostic predictor in glioma patients, providing a promising clinical therapeutic target for glioma.

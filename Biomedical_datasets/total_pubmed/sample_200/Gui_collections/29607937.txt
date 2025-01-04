@@ -1,0 +1,9 @@
+Denosumab is an anti-bone resorptive drug consisting of complete human monoclonal antibodies that targets receptor activator of nuclear factor κB ligand (RANKL), which is responsible for osteoclast formation.
+The drug has been adapted for bone diseases, such as osteoporosis and bone metastasis related to cancer, but is not used for alveolar bone destruction related to periodontitis.
+In the present study, we aimed to clarify whether denosumab prevents bone destruction associated with lipopolysaccharide (LPS)-induced calvaria inflammation and experimental periodontitis in model mice.
+Denosumab does not bind to mouse RANKL, thus we used anti-mouse monoclonal RANKL antibodies.
+We also examined the inhibitory effects toward bone destruction of another anti-bone resorptive drug zoledronate, a nitrogen-containing bisphosphonate.
+Local administration of anti- RANKL antibodies into the calvaria area inhibited LPS-induced osteoclast formation and bone destruction, while zoledronate inhibited bone destruction but not osteoclast formation due to its different action mechanism.
+In periodontitis model mice, in which the second molars were ligated with a silk suture to induce inflammation, intraperitoneal administration of anti-RANKL antibodies significantly inhibited alveolar bone destruction and tooth root exposure.
+On the other hand, zoledronate only weakly repressed alveolar bone destruction and failed to inhibit root exposure.
+These results suggest that denosumab is a promising candidate to prevent alveolar bone destruction associated with periodontitis.

@@ -1,0 +1,6 @@
+As radiologic technology advances, quantitative imaging is becoming more prevalent in clinical practice.
+This article reviews quantitative hepatic MRI, specifically involving fat and iron deposition, by demonstrating how they were iteratively improved.
+These iterative improvements involved incorporating more knowledge about the physiology of liver disease and MRI physics to reduce the adverse effects caused by confounding factors.
+The relevant foundations of MRI physics and liver pathophysiology are briefly reviewed, followed by the various improvements made by expanding on this foundational knowledge.
+Results from the literature are then discussed within this context, validating the improvement of these resultant methods into clinically robust and useful techniques.
+Fibrosis quantification, which has been more difficult to robustly perform in clinical practice, is similarly reviewed in an online appendix, with proposals for future multiparametric directions to improve performance on the basis of the insights gained from fat and iron quantification in the liver.

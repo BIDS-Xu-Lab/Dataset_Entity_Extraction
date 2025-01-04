@@ -1,0 +1,20 @@
+Lactoferrin, a normal component of human colostrum and milk, can enhance host defense and may be effective in the prevention of sepsis and necrotizing enterocolitis (NEC) in preterm neonates.
+Primary objective To assess the safety and effectiveness of oral lactoferrin in the prevention of sepsis and NEC in preterm neonates.
+To determine the effects of oral lactoferrin used to prevent neonatal sepsis and/or NEC on duration of positive-pressure ventilation, development of chronic lung disease (CLD) or periventricular leukomalacia (PVL), length of hospital stay to discharge among survivors, and adverse neurological outcomes at two years of age or later.2.
+To determine the adverse effects of oral lactoferrin in the prophylaxis of neonatal sepsis and/or NEC.When data were available, we analyzed the following subgroups.1.
+Gestational age < 32 weeks and 32 to 36 weeks.2.
+1000 g (extremely low birth weight (ELBW) infants) and birth weight <
+1500 g (very low birth weight (VLBW) infants).3.
+Type of feeding: breast milk versus formula milk.
+We used the search strategy of the Cochrane Neonatal Review Group (CNRG) and updated our search in July 2014.
+We searched the databases Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PREMEDLINE, EMBASE, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), as well as trials registries and conference proceedings.
+Randomized controlled trials (RCTs) evaluating oral lactoferrin at any dose or duration to prevent sepsis or NEC in preterm neonates.
+Review authors used standard methods of the CNRG.
+Four RCTs are included in this review.
+Oral lactoferrin supplementation decreased late-onset sepsis (typical risk ratio (RR) 0.49, 95% confidence interval (CI) 0.32 to 0.73; typical risk difference (RD) -0.09, 95% CI -0.14 to -0.04; number needed to treat for an additional beneficial outcome (NNTB) 11, 95% CI 7 to 25; four trials, 678 participants, moderate-quality evidence), NEC stage II or greater (typical RR 0.30, 95% CI 0.12 to 0.76; typical RD -0.05, 95% CI -0.08 to -0.01; NNTB 20, 95% CI 12.5 to 100; two studies, 505 participants, low-quality evidence), and "all-cause mortality" (typical RR 0.30, 95% CI 0.12 to 0.75; typical RD -0.05, 95% CI -0.08 to -0.01; NNTB 20, 95% CI 12.5 to 100; two studies, 505 participants, low-quality evidence).Oral lactoferrin supplementation with a probiotic decreased late-onset sepsis (RR 0.27, 95% CI 0.12 to 0.60; RD -0.13, 95% CI -0.19 to -0.06; NNTB 8, 95% CI 5 to 17; one study, 321 participants, low-quality evidence) and NEC stage II or greater (RR 0.04, 95% CI 0.00 to 0.62; RD -0.05, 95% CI -0.08 to -0.03; NNTB 20, 95% CI 12.5 to 33.3; one study, 496 participants, low-quality evidence), but not "all-cause mortality.
+"Oral lactoferrin with or without probiotics decreased fungal sepsis but not chronic lung disease or length of hospital stay (from one study, low-quality evidence).
+Long-term neurological outcomes or periventricular leukomalacia was not evaluated.
+Evidence of moderate to low quality suggests that oral lactoferrin prophylaxis with or without probiotics decreases late-onset sepsis and NEC stage II or greater in preterm infants without adverse effects.
+Completion of ongoing trials will provide evidence from more than 6000 preterm neonates and may enhance the quality of the evidence.
+Clarifications regarding optimum dosing regimens, type of lactoferrin (human or bovine), and long-term outcomes are still needed.
+Y: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PREMEDLINE, EMBASE, Cumulative Index to Nursing and Allied Health Literature (CINAHL) (No need to annotate, just for notice).

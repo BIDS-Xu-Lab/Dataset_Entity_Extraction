@@ -1,0 +1,10 @@
+This study illustrates how retention models can be used to accurately predict the retention behaviour of polydisperse macromolecules in LC separations.
+It highlights that the number of experiments required can be drastically reduced when the relationship between the model parameters and molecular structure parameters (e.g. molar mass) can be incorporated into one global model.
+A practical implication of this work is that an appropriate model can then be used for the determination of molar-mass distributions for polydisperse samples.
+The globalised model can predict retention time as a function of molar mass and gradient slope.
+Both the original and globalised versions of the model were rigorously validated in terms of the difference between the predicted and experimental retention times.
+The original model had very low residuals and there was no apparent dependence of the errors on the applied gradient, the molar mass or the retention times.
+Confidence intervals for the model parameters (S and ln k0) were determined using a bootstrapping analysis of the residual errors in the predicted retention times.
+Confidence intervals were seen to broaden significantly as the mass of the polymer increased.
+The parameters were also seen to be highly correlated.
+For the global model, retention-time residuals remained quite low, even when the number of experiments used to determine the model parameters was reduced from approximately 100 to 10.

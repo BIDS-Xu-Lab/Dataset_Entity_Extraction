@@ -1,0 +1,17 @@
+Cuproptosis, a new type of programmed cell death, is involved in the development and progression of malignancies.
+The study of cuproptosis-associated long non-coding RNAs (lncRNAs) in soft tissue sarcomas (STSs) is however limited.
+There is also uncertainty regarding the prognostic accuracy of cuproptosis-associated lncRNAs in STSs and their relationship to the tumor immune microenvironment.
+The aim of this study was to determine the prognostic significance of cuprotosis-associated lncRNAs in STSs and their relationship to the tumor immune microenvironment.
+Transcriptomic and clinical data from patients with STSs were obtained through The Cancer Genome Atlas (TCGA).
+Overall, 259 patients were randomly allocated to a training group or a testing group.
+In the training group, a cuproptosis-associated lncRNA signature was constructed, and the signature was verified in the testing group.
+On the basis of risk scores and clinical features, we later developed a hybrid nomogram.
+We also performed functional and tumor immune microenvironment analysis based on the cuproptosis-associated lncRNA signature.
+A signature of 5 cuproptosis-associated lncRNAs was created.
+Based on this signature, we categorized STS patients into high-risk and low-risk groups.
+The study showed that patients at high risk had a worse prognosis than those at low risk.
+A nomogram was then constructed combining clinical characteristics with the risk scores, and it was shown to have credible predictive power.
+Functional enrichment and tumor immune microenvironmental analyses showed that high-risk STSs tend to be immunologically sensitive tumors.
+In our study, we found a cuproptosis-associated lncRNAs signature, which serves as an independent prognostic indicator.
+Cuproptosis-associated lncRNAs may play a role in the tumor immune microenvironment, which might be a therapeutic target for patients with STSs.
+Y The Cancer Genome Atlas (TCGA) (No need to annotate, just for notice).

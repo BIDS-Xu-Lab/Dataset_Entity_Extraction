@@ -1,0 +1,12 @@
+Three studies explored whether self-distancing, a method where the self is treated as an other, can impact help-seeking among those with depression.
+Self-distancing was expected to reduce the negative biases associated with depression by minimizing self-relevance through taking the perspective of an objective other.
+We hypothesized that when thinking about a past experience of help-seeking, a selfdistancing prompt would cause increased help-seeking intentions and more favorable help-seeking outcome expectations.
+The influence of selfdistancing on the self-stigma of help-seeking was also explored.
+Participants were randomly assigned to write (Studies 1 and 3) or watch a video (Study 2) where they were prompted to think about helpseeking from their own perspective or an objective other's perspective.
+Studies 2 and 3 were pre-registered on the Open Science Framework.
+In Study 1, self-distancing increased help-seeking intentions but did not influence help-seeking expectations or self-stigma.
+The a priori hypotheses were not supported in Study 2 or 3.
+However, exploratory analyses of Study 3 revealed an interaction between condition and level of depressive symptomatology indicating that the distancing condition weakened the relationship between higher levels of depressive symptomatology and lower help-seeking intentions, and between higher levels of depressive symptomatology and higher self-stigma.
+Additionally, analyses of written responses indicated participants in the distancing condition were significantly less likely to write responses void of positive content.
+Although a priori hypotheses were not supported, further research is warranted as results indicate the potential for using self-distancing approaches to increasing help-seeking among some people with depressive symptomatology.
+Y Open Science Framework (No need to annotate, just for notice).

@@ -1,0 +1,11 @@
+Geomagnetic dipole moment variations associated with polarity reversals and excursions are expressed by large changes of the cosmogenic nuclide beryllium-10 (10Be) production rates.
+Authigenic 10Be/9Be ratios (proxy of atmospheric 10Be production) from oceanic cores therefore complete the classical information derived from relative paleointensity (RPI) records.
+This study presents new authigenic 10Be/9Be ratio results obtained from cores MD05-2920 and MD05-2930 collected in the west equatorial Pacific Ocean.
+Be ratios from cores MD05-2920, MD05-2930 and MD90-0961 have been stacked and averaged.
+Variations of the authigenic 10Be/9Be ratio are analyzed and compared with the geomagnetic dipole low series reported from global RPI stacks.
+The largest 10Be overproduction episodes are related to dipole field collapses (below a threshold of 2 × 1022 Am2) associated with the Brunhes/Matuyama reversal, the Laschamp (41 ka) excursion, and the Iceland Basin event (190 ka).
+Other significant 10Be production peaks are correlated to geomagnetic excursions reported in literature.
+The record was then calibrated by using absolute dipole moment values drawn from the Geomagia and Pint paleointensity value databases.
+The 10Be-derived geomagnetic dipole moment record, independent from sedimentary paleomagnetic data, covers the Brunhes-Matuyama transition and the whole Brunhes Chron.
+It provides new and complementary data on the amplitude and timing of millennial-scale geomagnetic dipole moment variations and particularly on dipole moment collapses triggering polarity instabilities.
+Y: Geomagia, Pint paleointensity value databases (No need to annotate, just for notice).

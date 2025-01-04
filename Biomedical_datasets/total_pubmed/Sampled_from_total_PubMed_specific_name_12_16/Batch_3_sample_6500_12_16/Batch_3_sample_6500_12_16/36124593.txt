@@ -1,0 +1,16 @@
+The aim of this study is to construct an inflammatory response-related genes (IRRGs) signature to monitor biochemical recurrence (BCR) and treatment effects in prostate cancer patients (PCa).
+A gene signature for inflammatory responses was constructed on the basis of the data from the Cancer Genome Atlas (TCGA) database, and validated in external datasets.
+It was analyzed using receiver operating characteristic curve, BCR-free survival, Cox regression, and nomogram.
+Distribution analysis and external model comparison were utilized.
+Then, enrichment analysis, tumor mutation burden, tumor immune microenvironment, and immune cell infiltration signatures were investigated.
+The role of the signature in immunotherapy was evaluated.
+The expression patterns of core genes were verified by RNA sequencing.
+We identified an IRRGs signature in the TCGA-PRAD cohort and verified it well in two other independent external datasets.
+The signature was a robust and independent prognostic index for predicting the BCR of PCa.
+The high-risk group of our signature predicted a shortened BCR time and an aggressive disease progression.
+A nomogram was constructed to predict BCR-free time in clinical practices.
+Neutrophils and CD8+ T cells were in higher abundance among the low-risk individuals.
+Immune functions varied significantly between the two groups and immune checkpoint therapy worked better for the low-risk patients.
+The expression of four IRRGs showed significant differences between PCa and surrounding benign tissues, and were validated in BPH-1 and DU145 cell lines by RNA sequencing.
+Our signature served as a reliable and promising biomarker for predicting the prognosis and evaluating the efficacy of immunotherapy, facilitating a better outcome for PCa patients.
+Y Cancer Genome Atlas (TCGA) (No need to annotate, just for notice).

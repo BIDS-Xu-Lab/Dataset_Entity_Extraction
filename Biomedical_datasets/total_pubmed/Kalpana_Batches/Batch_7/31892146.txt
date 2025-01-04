@@ -1,0 +1,10 @@
+Cancer is a disease that involves impaired genome stability with a high mortality index globally.
+Since its discovery, many have searched for effective treatment, assessing different molecules for their anticancer activity.
+One of the most studied sources for anticancer therapy is natural compounds and their derivates, like alkaloids, which are organic molecules containing nitrogen atoms in their structure.
+Among them, oxoisoaporphine and sampangine compounds are receiving increased attention due to their potential anticancer effects.
+Boldine has also been tested as an anticancer molecule.
+Boldine is the primary alkaloid extract from boldo, an endemic tree in Chile.
+These compounds and their derivatives have unique structural properties that potentially have an anticancer mechanism.
+Different studies showed that this molecule can target cancer cells through several mechanisms, including reactive oxygen species generation, DNA binding, and telomerase enzyme inhibition.
+In this review, we summarize the state-of-art research related to oxoisoaporphine, sampangine, and boldine, with emphasis on their structural characteristics and the relationship between structure, activity, methods of extraction or synthesis, and anticancer mechanism.
+With an effective cancer therapy still lacking, these three compounds are good candidates for new anticancer research.

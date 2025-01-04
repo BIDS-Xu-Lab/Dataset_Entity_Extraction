@@ -1,0 +1,10 @@
+To examine the influence of a number of variables, including age and medical school entrance category, on postgraduate retention of New Zealand (NZ) medical graduates.
+An anonymised database was created of all graduates from the Otago School of Medicine (1999-2010), with demographic and entry category data.
+The NZ Medical Register was checked in January 2012 to identify which graduates remained in NZ.
+Risk Differences (RD) were calculated to compare retention between medical school entrance categories by year of graduation using the random effects Mantel-Haenszel method.
+The influence of covariates on remaining on the New Zealand Medical Register was evaluated using logistic regression.
+The odds of remaining on the NZ Medical Register increased by 7% for each additional year of age at graduation (Odds Ratio=1.070, 95%CI 1.038-1.113, p<0.001).
+Compared with students who entered medical school after a competitive first year exam, retention of students who entered after completion of a bachelor's degree was 7% higher, and 20% higher for "Other Category" (older, work experienced) students.
+Multiple logistic regression identified medical school entry category as the only significant predictor of higher retention.
+Admission policies favouring graduate entry and "Other Category" students could contribute to increased retention of NZ medical graduates.
+Y NZ Medical Register (No need to annotate, just for notice).

@@ -1,0 +1,12 @@
+Lassa fever is a hemorrhagic disease caused by Lassa fever virus (LV).
+Although the precise host defense mechanism(s) that affords protection against LV is not completely understood, cellular immunity mediated by cytotoxic T lymphocytes (CTLs) plays a pivotal role in controlling viral replication and LV infection.
+To date, there have been no reports mapping major histocompatibility complex (MHC) class I-binding CTL epitopes for LV.
+Using computer-assisted algorithms, we identified five HLA-A2.1-binding peptides of LV glycoprotein (GP) and two peptides from LV nucleoprotein (NP).
+Synthesized peptides were examined for their ability to bind to MHC class I molecules using a flow cytometric assay that measures peptide stabilization of class I. Three of the LV-GP peptides tested (LLGTFTWTL, SLYKGVYEL, and YLISIFLHL) stabilized HLA-A2.
+The LV-NP peptides tested failed to stabilize this HLA-A2.
+We then investigated the ability of the HLA-A2-binding LV-GP peptides to generate peptide-specific CTLs in HLA-A2.1 transgenic mice.
+Functional assays used to confirm CTL activation included gamma interferon enzyme-linked immunospot (ELISPOT) assays and intracellular cytokine staining of CD8+ T cells from peptide-primed mice.
+CTL assays were also performed to verify the cytolytic activity of peptide-pulsed target cells.
+Each of the LV-GP peptides induced CTL responses in HLA-A2-transgenic mice.
+MHC class I tetramers prepared using one LV-GP peptide that showed the highest cytolytic index (LLGTFTWTL) confirmed that peptide-binding CD8+ T cells were present in pooled lymphocytes harvested from peptide-primed mice.
+These findings provide direct evidence for the existence of LV-derived GP epitopes that may be useful in the development of protective immunogens for this hemorrhagic virus.

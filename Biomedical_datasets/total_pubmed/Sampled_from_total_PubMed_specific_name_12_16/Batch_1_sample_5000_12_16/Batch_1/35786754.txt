@@ -1,0 +1,14 @@
+Hospital-based resuscitation interventions, such as therapeutic temperature management (TTM), emergency percutaneous coronary intervention (PCI) and extracorporeal membrane oxygenation (ECMO) can improve outcomes in out-of-hospital cardiac arrest (OHCA).
+We investigated post-resuscitation interventions and hospital characteristics on OHCA outcomes across public hospitals in Singapore over a 9-year period.
+This was a prospective cohort study of all OHCA cases that presented to 6 hospitals in Singapore from 2010 to 2018.
+Data were extracted from the Pan-Asian Resuscitation Outcomes Study Clinical Research Network (PAROS CRN) registry.
+We excluded patients younger than 18 years or were dead on arrival at the emergency department.
+The outcomes were 30-day survival post-arrest, survival to admission, and neurological outcome.
+There was an increasing rate of provision of TTM, emergency PCI and ECMO (P<0.001) in hospitals, and a positive trend of survival outcomes (P<0.001).
+Relative to hospital F, hospitals B and C had lower provision rates of TTM (≤5.2%).
+ECMO rate was consistently <1% in all hospitals except hospital F. Hospitals A, B, C, E had <6.5% rates of provision of emergency PCI.
+Relative to hospital F, OHCA cases from hospitals A, B and C had lower odds of 30-day survival (adjusted odds ratio [aOR]<1; P<0.05 for hospitals A-C) and lower odds of good neurological outcomes (aOR<1; P<0.05 for hospitals A-C).
+OHCA cases from academic hospitals had higher odds ratio (OR) of 30-day survival (OR 1.3, 95% CI 1.1-1.5) than cases from hospitals without an academic status.
+Post-resuscitation interventions for OHCA increased across all hospitals in Singapore from 2010 to 2018, correlating with survival rates.
+The academic status of hospitals was associated with improved survival.
+Y: Pan-Asian Resuscitation Outcomes Study Clinical Research Network (PAROS CRN) registry (No need to annotate, just for notice).

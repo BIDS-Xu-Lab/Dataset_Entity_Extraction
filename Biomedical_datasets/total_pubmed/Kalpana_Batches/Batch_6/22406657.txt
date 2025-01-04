@@ -1,0 +1,12 @@
+Carbamazepine is a commonly used antiepileptic drug in elderly patients.
+This study analyzed prospective data collected as part of a randomized, double-blinded trial of newly diagnosed epilepsy patients.
+The aims of this study were to determine the pharmacokinetic parameters and their variability of carbamazepine in elderly patients and to quantify the effect of covariates on these parameters.
+Prospectively collected carbamazepine concentrations from 121 patients aged 60 years or older were used to develop a population pharmacokinetic model.
+Data were analyzed by a nonlinear mixed effects model (NONMEM).
+A 1-compartment model with first-order absorption and elimination was used to characterize the time course of carbamazepine concentration.
+Model evaluation and the predictive performance of the final model were assessed using the nonparametric bootstrap approach.
+The apparent clearance (CL/F) of carbamazepine in this community-dwelling elderly population was estimated to be 3.59 L/h with an interindividual variability of 18.1%.
+The CL/F increases 23% in patients comedicated with phenytoin.
+The volume of distribution (V/F) was estimated to be 102 L with an interindividual variability of 74.7%.
+Carbamazepine clearance was not associated with body weight or any parameterization of body size nor was age or race or any marker of hepatic or renal function in community dwelling elderly patients.
+Elderly patients on concurrent phenytoin therapy may require a smaller 23% higher dose on average, about half that reported for younger patients.

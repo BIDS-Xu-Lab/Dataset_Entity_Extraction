@@ -1,0 +1,4 @@
+A nonlinear model generating a self-exciting point process is formulated and identification of the model using maximum likelihood estimations is discussed.
+Simulations have been performed and parameters are estimated numerically.
+(Dis)advantages with respect to identification approaches based on correlation densities are outlined.
+This method may function as a basis to interpret simultaneous recordings of single units in terms of underlying wiring diagrams.

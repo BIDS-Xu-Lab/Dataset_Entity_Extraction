@@ -1,0 +1,8 @@
+With recent progress in the treatment of people living with HIV (PLWH) and their increased rate of survival, health-related quality of life (HRQoL) has become an important issue.
+In the present study, we aimed to investigate the association of current CD4 cell count, baseline CD4 cell count, nadir CD4 cell count, and plasma viral load with health-related quality of life in PLWH.
+Participants were 67 PLWH who were under the treatment of antiretroviral therapy (ART) in Imam Khomeini Hospital of Tehran, Iran in 2016.
+Participants were divided into the two groups with high and low levels of current CD4 cell count, baseline CD4 cell count, nadir CD4 cell count and plasma viral load.
+We used independent sample t-test for data analysis using SPSS 22 software.
+Our results demonstrated that for current CD4 cell count, the group differences were significant for total scores of HRQoL (P=0.028), also in the components of physical functioning (P=0.032), role limitation due to physical health problems (P=0.006), and role limitation due to emotional problems (P=0.009).
+Our data analysis showed that for baseline CD4 cell count (P=0.62), nadir CD4 cell count (P=0.29), and viral load group (P=0.78), the differences were not significant for HRQoL.
+Knowing the association between current CD4 count and health-related quality of life, adherence to ART might be a motivator for PLWH to enhance their health-related quality of life.

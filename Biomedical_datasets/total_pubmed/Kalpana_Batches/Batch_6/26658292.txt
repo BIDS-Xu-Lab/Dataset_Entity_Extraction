@@ -1,0 +1,14 @@
+Disparity refers to the morphological variation in a sample of taxa, and is distinct from diversity or taxonomic richness.
+Diversity and disparity are fundamentally decoupled; many groups attain high levels of disparity early in their evolution, while diversity is still comparatively low.
+Diversity may subsequently increase even in the face of static or declining disparity by increasingly fine sub-division of morphological 'design' space (morphospace).
+Many animal clades reached high levels of disparity early in their evolution, but there have been few comparable studies of plant clades, despite their profound ecological and evolutionary importance.
+This study offers a prospective and some preliminary macroevolutionary analyses.
+Classical morphometric methods are most suitable when there is reasonable conservation of form, but lose traction where morphological differences become greater (e.g. in comparisons across higher taxa).
+Discrete character matrices offer one means to compare a greater diversity of forms.
+This study explores morphospaces derived from eight discrete data sets for major plant clades, and discusses their macroevolutionary implications.
+Most of the plant clades in this study show initial, high levels of disparity that approach or attain the maximum levels reached subsequently.
+These plant clades are characterized by an initial phase of evolution during which most regions of their empirical morphospaces are colonized.
+Angiosperms, palms, pines and ferns show remarkably little variation in disparity through time.
+Conifers furnish the most marked exception, appearing at relatively low disparity in the latest Carboniferous, before expanding incrementally with the radiation of successive, tightly clustered constituent sub-clades.
+Many cladistic data sets can be repurposed for investigating the morphological disparity of plant clades through time, and offer insights that are complementary to more focused morphometric studies.
+The unique structural and ecological features of plants make them ideally suited to investigating intrinsic and extrinsic constraints on disparity.

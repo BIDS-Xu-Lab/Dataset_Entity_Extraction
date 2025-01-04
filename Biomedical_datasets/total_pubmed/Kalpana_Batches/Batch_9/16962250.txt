@@ -1,0 +1,11 @@
+This study investigated the expression of DNA fragmentation factor (DFF45), MIB-1, and p53 in formalin-fixed, paraffin-embedded archival tissues of 50 ovarian serous carcinomas.
+In addition, 10 benign serous cystadenomas and 10 serous neoplasms of low malignant potential (LMP) were included in this DFF45 immunostudy.
+With regard to quantity and intensity of positively stained cells, immunostaining for DFF45 was scored as low or strong.
+MIB-1 labeling indexes (LIs) were quantitated as the percentage of positively stained nuclei in 1000 nuclei.
+For p53, at least 10% of tumor cells had to display nuclear staining to consider a case positive.
+DFF45 staining was noted predominantly in the nucleus.
+Low DFF45 expression was identified in all serous cystadenomas and in LMPs, as well as in 18 (36%) ovarian serous carcinomas.
+The latter displayed strong expression in 32 cases (64%).
+DFF45 immunoreactivity increased with FIGO stage and with grade (P=0.0213 and 0.0084, respectively), as well as with p53 positivity (P=0.04), but not with MIB-1 LIs (P=0.076).
+A trend towards poor outcome was observed in patients whose tumors displayed high levels of DFF45 immunoexpression (P=0.0187).
+This study indicates that DFF45 expression is frequently upregulated in ovarian serous carcinomas and may serve as a marker of aggressive behavior with prognostic value.

@@ -1,0 +1,9 @@
+Hepatic gene transfer with adeno-associated viral (AAV) vectors shows much promise for the treatment of the X-linked bleeding disorder hemophilia B in multiple clinical trials.
+In an effort to further innovate this approach and to introduce alternative vector designs with potentially superior features into clinical development, we recently built a vector platform based on AAV serotype 3 because of its superior tropism for human hepatocytes.
+A vector genome with serotype-matched inverted terminal repeats expressing hyperactive human coagulation factor IX (FIX)-Padua was designed for clinical use that is optimized for translation using hepatocyte-specific codon-usage bias and is depleted of immune stimulatory CpG motifs.
+Here, this vector genome was packaged into AAV3 (T492V + S663V) capsid for hepatic gene transfer in non-human primates.
+FIX activity within or near the normal range was obtained at a low vector dose of 5 × 1011 vector genomes/kg.
+Pre-existing neutralizing antibodies, however, completely or partially blocked hepatic gene transfer at that dose.
+No CD8+ T cell response against capsid was observed.
+Antibodies against the human FIX transgene product formed at a 10-fold higher vector dose, albeit hepatic gene transfer was remarkably consistent, and sustained FIX activity in the normal range was nonetheless achieved in two of three animals for the 3-month duration of the study.
+These results support the use of this vector at low vector doses for gene therapy of hemophilia B in humans.

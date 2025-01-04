@@ -1,0 +1,4 @@
+The external static electric field (SEF) of man-made origin brings to the substantially increased SEF background in a human environment the biological activity of which is a moot question.
+The paper reports on rats blood plasma/serum proteome modifications by means of 1D polyacrilamide gel electrophoresis and clotting process alterations after the short- and long-term SEF exposures of 200 kV/m. The results indicate decrease of fast α1 and α2 globular proteins in plasma coinciding with clotting acceleration after the short-term SEF, and attenuation of clotting-dependent proteome modifications reflected with incomplete coagulation after the long-term SEF exposure.
+Increased lysozyme activity in serum unlike plasma was observed after both SEF exposures.
+Applied model of the high-voltage SEF environment indicates dependence of biological systems functioning on the external SEF.

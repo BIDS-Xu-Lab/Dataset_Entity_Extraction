@@ -1,0 +1,6 @@
+Municipal solid waste (MSW) sorting not only reduces the total quantity of domestic waste but also has positive effects on urban air quality.
+In this study, using a careful identification strategy and air quality data at the monitoring station level in Shanghai, we estimate the causal effect of the MSW sorting policy on urban air quality.
+The results show that after the MSW sorting policy was implemented, the air quality index (AQI), nitrogen dioxide (NO2) and carbon monoxide (CO) decreased significantly by 2.71%, 2.07% and 3.62%, respectively.
+We also find a positive spillover effect from the Shanghai MSW sorting policy on the air quality of adjacent cities.
+The implementation of this policy has triggered changes in residents' behaviors.
+However, the government needs further efforts to maintain the sustainability of MSW sorting policies.

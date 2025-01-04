@@ -1,0 +1,11 @@
+The proximal promoter of the rat aromatase CYP19 gene contains two functional regions that, by 5'-deletion analyses, have been shown to confer hormone/
+cAMP inducibility to chimeric genes in primary cultures of rat granulosa cells and constitutive expression in R2C Leydig cells.
+Promoter region A binds Steroidogenic Factor-1 (SF-1); region B binds cAMP-regulatory element binding protein (CREB) and two other factors (designated X and Y).
+Mutations were generated within the context of the intact promoter to selectively eliminate the binding of either SF-1, CREB, CREB plus factors X and Y, or all of the above.
+When expression vectors that failed to bind either CREB alone or CREB plus factors X and Y were transfected into granulosa cells, cAMP-dependent chloramphenicol acetyltransferase (CAT) activity was reduced 65% indicating that CREB alone, and not factors X and Y, mediates the cAMP response of this cAMP response element-like domain.
+Similarly, cAMP-dependent CAT activity was reduced 50% in constructs that failed to bind SF-1 and was abolished with vectors that were unable to bind either factor.
+In R2C Leydig cells, the absence of either CREB or SF-1 binding resulted in an almost complete loss in CAT activity.
+Both immunoreactive CREB and phosphorylated CREB (phospho-CREB) were present in extracts and nuclei of R2C cells.
+Immunoreactive phosphoCREB was low in granulosa cell extracts and nuclei but increased rapidly (90 min) in response to FSH/cAMP and was highest at 48 h, at a time when SF-1 was also phosphorylated and expression of the endogenous gene was elevated.
+Although the amount of CREB and SF-1 remained unchanged in response to FSH, LH mediated a rapid decrease in the amount of SF-1 (but not CREB) that is coincident with decreased aromatase mRNA in luteinizing granulosa cells.
+Taken together, the data indicate that expression of the aromatase gene is dependent on the additive interactions of regions A and B of the aromatase promoter in granulosa cells and the synergistic interactions of these same regions in R2C cells and that these interactions are dependent, in turn, on the phosphorylation of CREB and SF-1 and the content of these factors, as well as the presence of putative coregulatory molecules.

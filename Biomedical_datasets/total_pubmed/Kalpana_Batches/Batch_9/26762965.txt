@@ -1,0 +1,8 @@
+Previous research demonstrates that both physical activity and multimorbidity are associated with cognitive function.
+However, the extent to which physical activity may moderate the relationship between multimorbidity and cognitive function has not been thoroughly evaluated.
+Data from the 1999-2002 NHANES were used (60+ years; N = 2157).
+A multimorbidity index variable was created based on physician diagnosis of a multitude of chronic diseases.
+Physical activity was self-reported and cognitive function was evaluated from the digit symbol substitution test.
+Multimorbidity was inversely associated with cognitive function for the unadjusted and adjusted models.
+However, generally, multimorbidity was no longer associated with cognitive function for the majority of older adults who achieved the minimum recommended physical activity level (≥2000 MET-min-month), as issued by the United States Department of Health and Human Services.
+In this national sample of older adults, there was some evidence to suggest that physical activity moderates the relationship between multimorbidity and cognitive function.

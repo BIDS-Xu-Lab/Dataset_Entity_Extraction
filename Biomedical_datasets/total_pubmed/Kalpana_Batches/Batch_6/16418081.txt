@@ -1,0 +1,14 @@
+The fabrics associated with protective clothing affect heat stress, which influences productivity and risks of heat-related disorders.
+This study compared the work limiting effects of five protective coveralls and a semiclothed condition (t-shirt and shorts).
+Two fabric characteristics determined from bench tests, moisture vapor transmission rate (MVTR), and air permeability were also examined as possible predictors of ensemble performance.
+A progressive metabolic rate protocol was used where environmentalconditions (T(db) = 32 degrees C; T(pwb)
+= 26 degrees C) were held constant while treadmill speed was slowly increased.
+The limiting metabolic rate to just maintain thermal equilibrium was the critical point.
+At this point, critical speed and critical metabolic rate were noted and total evaporative resistance was calculated for each ensemble.
+Five acclimatized subjects wore each of the six clothing conditions in a random order.
+Statistically significant differences were found among the five protective garments and a semiclothed ensemble for critical treadmill speed (S(crit)), critical metabolic rate (M(crit)), and total evaporative resistance (R(e-t)).
+The semiclothed condition (S(crit) = 1.77 m/sec; M(crit)
+= 0.0099 kPa m2/W) and ensembles made from spunbonded, melt blown, spunbonded polypropylene (SMS) (1.72 m/sec; 560 W; 0.0135 kPa m2/W) and spunbonded polypropylene (1.67 m/sec; 550 W; 0.0126 kPa m2/W) were able to support higher work rates than fabrics made from Tyvek 1422-A (a nonwoven spunbonded olefin) (1.48 m/sec; 470 W; 0.0183 kPa m2/W) and a microporous film supported by spunbonded polypropylene (1.34 m/sec; 420 W; 0.0231 kPa m2/W).
+A tightly woven polyester ensemble (1.59 m/sec; 510 W; 0.0130 kPa m2/W) had intermediate values and was not significantly different from either group.
+Air permeability was a better predictor of fabric work limiting performance than MVTR.
+An air permeability on the order of 10,000 L/min cm2 bar would have little effect on maximum sustainable work.

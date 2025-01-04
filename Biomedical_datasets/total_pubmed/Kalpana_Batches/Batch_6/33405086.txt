@@ -1,0 +1,8 @@
+DNA hydroxymethylation plays a very important role in some biological processes, such as DNA methylation process.
+In addition, its presence can also cause some diseases.
+In this paper, the electrical properties of cytosine hydroxymethylated (Chm) DNA sequences are studied.
+The density functional theory (DFT) and Landauer-Büttiker framework are used to study the decoherence conductance and transmission of the Chm strands in different configurations, which provides a theoretical basis for the detection of Chm.
+The results show that the conductance of the hydroxymethylated DNA strand is smaller than that of the native and methylated strands.
+The length dependence of the Chm strands is also studied.
+With the length increasing, the conductance becomes larger.
+This study shows that DNA methylation can be detected electrically.

@@ -1,0 +1,6 @@
+A three-dimensional crystal structure of the biotin-binding core of streptavidin has been determined at 3.1-A resolution.
+The structure was analyzed from diffraction data measured at three wavelengths from a single crystal of the selenobiotinyl complex with streptavidin.
+Streptavidin is a tetramer with subunits arrayed in D2 symmetry.
+Each protomer is an 8-stranded beta-barrel with simple up-down topology.
+Biotin molecules are bound at one end of each barrel.
+This study demonstrates the effectiveness of multiwavelength anomalous diffraction (MAD) procedures for macromolecular crystallography and provides a basis for detailed study of biotin-avidin interactions.

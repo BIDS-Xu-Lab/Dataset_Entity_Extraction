@@ -1,0 +1,11 @@
+Telemedicine is still in its infancy, but undergoing rapid development.
+It is very difficult to evaluate telemedicine.
+We performed a literature survey (Medline).
+During the period 1990-8, over 1500 articles on telemedicine were published.
+Of these, 246 mentioned economic aspects in the abstract (16%).
+We selected 29 studies although few had demonstrated cost-effectiveness.
+Benefits for the patients in the form of reduced travel and waiting time must often be weighed against increased provider costs.
+Up to now, telemedicine in general has not had any significant effect on medical practice, or the structure and organization of health-care.
+In order to utilize the potential of telemedicine, its integration with traditional health-care is very important.
+There are country-specific variations in the health systems that make it difficult to generalize the results from one country to another.
+Y and Medline (No need to annotate, just for notice).

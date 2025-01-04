@@ -1,0 +1,6 @@
+We present wide electrical tuning of microring resonators with auto-realigned nematic liquid crystal (NLC) cladding.
+By applying electric field, homeotropically-aligned negative Δε NLC with non-rubbed alignment layers is auto-realigned along the microring waveguide due to the protruding of the ridge structure.
+The consistent cladding index distribution along the microring waveguide produces effective tuning of the resonant wavelength.
+It achieves a large tuning range of 13nm for TM mode and 2.1nm for TE mode.
+The NLC reorientation characteristics are investigated by minimizing Oseen-Frank energy.
+The proposed microring resonator owns the features of large tuning range and bi-polarization wavelength tuning.

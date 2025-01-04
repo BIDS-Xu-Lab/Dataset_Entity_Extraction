@@ -1,0 +1,8 @@
+Hyoscyamine-6beta-hydroxylase (H6H; EC 1.14.11.11) catalyses oxidative reactions in the biosynthetic pathway leading from hyoscyamine to the more pharmaceutically valuable tropane alkaloid scopolamine.
+The h6h gene encoding H6H from Hyoscyamus niger was introduced, under the control of the CaMV 35S promoter, into non-hyoscyamine-producing Nicotiana tabacum and hyoscyamine-producing Hyoscyamus muticus.
+The transformation was performed using a binary vector system based on Agrobacterium rhizogenes.
+Production of scopolamine in hairy roots was clearly correlated with the 35S-h6h transcript expression.
+The engineered N. tabacum and H. muticus hairy roots were studied for the production of scopolamine and other tropane and nicotine alkaloids after feeding the cultures with exogenous hyoscyamine.
+N. tabacum hairy roots carrying the 35S-h6h transgene showed a more efficient uptake of hyoscyamine from the culture medium and a higher rate of bioconversion of hyoscyamine to scopolamine than those of H. muticus.
+In particular, the secretion of scopolamine in N. tabacum hairy roots was remarkably high, up to 85% of the total scopolamine being released to the culture medium.
+Exogenous hyoscyamine also caused changes in nicotine alkaloid accumulation in N. tabacum hairy roots.

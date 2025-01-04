@@ -1,0 +1,14 @@
+Intra-articular (IA) injections represent a commonly used modality in the treatment of hip osteoarthritis (OA).
+Commonly used injections include corticosteroids (CCS), hyaluronic acid (HA) and platelet-rich plasma (PRP).
+A network meta-analysis allows for comparison among more than two treatment arms and uses both direct and indirect comparisons between interventions.
+The objective of this network meta-analysis is to compare the efficacy of the various IA injectable treatments in treating hip OA at up to 6 months of follow-up.
+This is a systematic review and network meta-analysis.
+Bayesian random-effects model was performed to assess the direct and indirect comparisons of all treatment options.
+PubMed, Embase, Cochrane Central Register of Controlled Trials, Scopus and Web of Science, from inception to October 2019.
+Randomised controlled trials assessing the efficacy of CCS, HA, PRP and placebo in the form of IA saline injection for patients with hip OA.
+Eleven randomised controlled trials comprising 1353 patients were included.
+For pain outcomes at both 2-4 and 6 months, no intervention significantly outperformed placebo IA injection.
+For functional outcomes at both 2-4 and 6 months, no intervention significantly outperformed placebo IA injection.
+Regarding change from baseline at 2-4 months and 6 months, pooled data demonstrated that all interventions (including placebo), with the exception of HA+PRP, led to a clinically important improvement in both pain, exceeding the minimal clinically important difference.
+Evidence suggests that IA hip saline injections performed as well as all other injectable options in the management of hip pain and functional outcomes.
+Y: PubMed, Embase, Cochrane Central Register of Controlled Trials, Scopus, Web of Science (No need to annotate, just for notice).

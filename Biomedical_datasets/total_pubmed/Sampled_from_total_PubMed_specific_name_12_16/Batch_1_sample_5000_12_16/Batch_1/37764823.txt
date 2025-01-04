@@ -1,0 +1,9 @@
+Background and Aims: The genetic risk score (GRS) is an important tool for estimating the total genetic contribution or susceptibility to a certain outcome of interest in an individual, taking into account their genetic risk alleles.
+This study aims to systematically review the association between the GRS of low vitamin D with different noncommunicable diseases/markers.
+Methods: The article was first registered in PROSPERO CRD42023406929.
+PubMed and Embase were searched from the time of inception until March 2023 to capture all the literature related to the vitamin D genetic risk score (vD-GRS) in association with noncommunicable diseases.
+Eleven eligible studies were included in this study.
+Three studies reported a significant association between vD-GRS and metabolic parameters, including body fat percentage, body mass index, glycated hemoglobin, and fasting blood glucose.
+Moreover, colorectal cancer overall mortality and the risk of developing arterial fibrillation were also found to be associated with genetically deprived vitamin D levels.
+Conclusions: This systematic review highlights the genetic contribution of low-vitamin-D-risk single nucleotides polymorphisms (SNPs) as an accumulative factor associated with different non-communicable diseases/markers, including cancer mortality and the risk of developing obesity, type 2 diabetes, and cardiovascular diseases such as arterial fibrillation.
+Y and PubMed, Embase (No need to annotate, just for notice).

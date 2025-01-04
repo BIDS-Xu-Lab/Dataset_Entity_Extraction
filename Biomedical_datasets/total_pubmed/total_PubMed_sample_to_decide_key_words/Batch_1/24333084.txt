@@ -1,0 +1,16 @@
+Receipt of blood transfusions is associated with the major consequences of prematurity such as bronchopulmonary dysplasia.
+Transfusion-mediated (iron-induced) oxidative damage, coupled with the limited ability of the premature baby to deal with enhanced iron and oxidative load may contribute to this.
+Adverse effects of transfusion may be related to duration of storage.
+This study examined the influence of storage on iron and oxidative status in paediatric packed red blood cell units.
+Paediatric packed red blood cell units were sampled 3 days post-donation, then at 7 days and weekly until day 35.
+The extracellular medium was separated and the following measured: total iron concentration, total iron binding capacity, non-transferrin-bound iron, haemoglobin, total and reduced ascorbate, glutathione and malondialdehyde.
+Measurable total and non-transferrin bound iron were present in the extracellular fluid of paediatric packs on day 3.
+Both parameters rose almost linearly to maximal values at 35 days.
+Haemoglobin and malondialdehyde levels rose gradually from day 3 to day 21, then more steeply to day 35.
+Ascorbate existed mainly in the oxidised form and fell rapidly towards the end of storage.
+Intracellular GSH fell throughout the period of storage.
+Strong correlations existed between biomarkers of oxidative damage and iron parameters.
+These data suggest that iron released following the initial preparation of packed red blood cell units may derive from free radical-mediated oxidative damage to the red blood cells and haemoglobin, rather than from extracellular haemoglobin.
+Iron continues to be released during storage as antioxidant protection declines.
+A cycle of free radical-mediated damage may initiate and then further exacerbate iron release during storage which, in turn, may mediate further free radical-mediated cellular damage.
+The potential consequences to recipients of older stored blood may be significant.

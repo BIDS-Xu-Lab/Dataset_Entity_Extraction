@@ -1,0 +1,7 @@
+Even though the reptiles and amphibians of Cyprus are of scientific and conservation importance and although several books, guides and scientific reports have been published the past 30 years, there is a clear absence of a systematic recording and archiving scheme of all available data in a structural database.
+Towards this end, the Cyprus Herp (= reptiles and amphibians) Atlas has been developed.
+The Atlas constitutes the first effort to collect all existing locality data of the herpetofauna species of the island (i.e. scientific reports, books, journals, grey literature) in a single database and simultaneously promote a citizen-science approach in order to collect and constantly update the database with new records.
+The website of the Atlas contains basic educational and informational material for the public, along with the visibility tool of the database in the form of occurrence maps, in 5 km x 5 km grid cells, openly available for download in kmz format.
+The Atlas is a powerful tool for citizens, scientists and decision-makers, aiming to contribute to the study and conservation of the reptile and amphibian species of Cyprus.
+In this short communication, we give details on the structure of the Atlas.
+Y - Cyprus Herp Atlas (No need to annotate, just for notice).

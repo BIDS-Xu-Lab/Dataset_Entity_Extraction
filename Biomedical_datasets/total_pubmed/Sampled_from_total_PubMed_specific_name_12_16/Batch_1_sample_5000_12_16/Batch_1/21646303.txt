@@ -1,0 +1,11 @@
+Deep brain stimulation (DBS) has developed during the past 20 years as a remarkable treatment option for several different disorders.
+Advances in technology and surgical techniques have essentially replaced ablative procedures for most of these conditions.
+Stimulation of the ventralis intermedius nucleus of the thalamus has clearly been shown to markedly improve tremor control in patients with essential tremor and tremor related to Parkinson disease.
+Symptoms of bradykinesia, tremor, gait disturbance, and rigidity can be significantly improved in patients with Parkinson disease.
+Because of these improvements, a decrease in medication can be instrumental in reducing the disabling features of dyskinesias in such patients.
+Primary dystonia has been shown to respond well to DBS of the globus pallidus internus.
+The success of these procedures has led to application of these techniques to multiple other debilitating conditions such as neuropsychiatric disorders, intractable pain, epilepsy, camptocormia, headache, restless legs syndrome, and Alzheimer disease.
+The literature analysis was performed using a MEDLINE search from 1980 through 2010 with the term deep brain stimulation, and several double-blind and larger case series were chosen for inclusion in this review.
+The exact mechanism of DBS is not fully understood.
+This review summarizes many of the current and potential future clinical applications of this technology.
+Y MEDLINE (No need to annotate, just for notice).

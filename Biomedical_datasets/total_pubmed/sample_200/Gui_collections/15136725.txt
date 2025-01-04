@@ -1,0 +1,9 @@
+We have investigated in whole cells whether, at low oxygen concentrations ([O(2)]), endogenous nitric oxide (NO) modulates the redox state of the mitochondrial electron transport chain (ETC), and whether such an action has any signaling consequences.
+Using a polarographic-and-spectroscopic-coupled system, we monitored redox changes in the ETC cytochromes b(H), cc(1), and aa(3) during cellular respiration.
+The rate of O(2) consumption (VO(2)) remained constant until [O(2)] fell below 15 microM, whereas the onset of reduction of cytochromes aa(3), part of the terminal ETC enzyme cytochrome c oxidase, occurred at approximately 50 microM O(2).
+Incubation of the cells with an inhibitor of NO synthase lowered significantly (P < 0.05)
+the [O(2)] at which reduction of the cytochromes occurred.
+We also measured intracellular superoxide (O(2)(-))
+and found there was no increase in O(2)(-) generation in control cells, or those treated with the NO synthase inhibitor, when incubated at 21% O(2).
+However, after 30-min exposure of control cells to 3% O(2), an increase in O(2)(-) generation was observed, accompanied by translocation to the nucleus of the transcription factor NF-kappa B. Both of these responses were diminished by NO synthase inhibition.
+This, in turn, favors the release of O(2)(-), which initiates the transcriptional activation of NF-kappa B as an early signaling stress response.

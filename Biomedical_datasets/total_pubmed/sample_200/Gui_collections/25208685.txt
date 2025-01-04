@@ -1,0 +1,11 @@
+[25(OH)D3] concentration with pregnancy and birth outcomes.
+Four geographical areas of Spain, 2003-2008.
+Of 2382 mother-child pairs participating in the INfancia y Medio Ambiente (INMA) Project.
+We tested associations of maternal 25(OH)D3 concentration with pregnancy and birth outcomes.
+Gestational diabetes mellitus (GDM), preterm delivery, caesarean section, fetal growth restriction (FGR) and small-for-gestational age (SGA), anthropometric birth outcomes including weight, length and head circumference (HC).
+After adjustment, there was no association between maternal 25(OH)D3 concentration and risk of GDM or preterm delivery.
+Women with sufficient vitamin D [25(OH)D3 ≥ 30 ng/ml] had a decreased risk of caesarean section by obstructed labour compared with women with vitamin D deficiency [relative risk (RR) = 0.60, 95% CI 0.37, 0.97).
+Offspring of mothers with higher circulating 25(OH)D3 concentration tended to have smaller HC [coefficient (SE) per doubling concentration of 25(OH)D3, -0.10 (0.05), P = 0.038].
+No significant associations were found for other birth outcomes.
+This study did not find any evidence of an association between vitamin D status in pregnancy and GDM, preterm delivery, FGR, SGA and anthropometric birth outcomes.
+Results suggest that sufficient circulating vitamin D concentration [25(OH)D3 ≥ 30 ng/ml] in pregnancy may reduce the risk of caesarean section by obstructed labour.

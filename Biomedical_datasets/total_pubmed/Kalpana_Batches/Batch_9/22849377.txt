@@ -1,0 +1,7 @@
+Activin A, a stimulator of follicle-stimulating hormone secretion from the pituitary, acts as a neurotrophic and neuroprotective factor in the central nervous system.
+Activin receptor-interacting protein 1 (ARIP1) has been identified as a cytoplasmic protein that interacts with the type II receptor of activin (ActRII).
+However, the distribution pattern and function of ARIP1 are not well characterised in the brain.
+In the present study, we confirmed the existence of mRNA and protein of ARIP1 in the mouse brain, and found that ARIP1 was mainly localised at the hippocampus and hypothalamus in the cerebrum, granular layers in the cerebellum (especially in Purkinje cells of the cerebellum) and choroid epithelial cells by immunohistochemical staining.
+Furthermore, in contrast to the significant increase of activin A mRNA, ARIP1 mRNA and protein expression decreased in the mechanically lesioned brain of the mouse.
+Using neuroblastoma-derived Neuro-2a cells to investigate the function of ARIP1, we found that overexpression of ARIP1 down-regulated the activin A-induced signal transduction and significantly decreased the voltage-gated Na(+)  current (I(Na) ).
+These data indicate that ARIP1 is a key molecule for the regulation of the action of activin in neurones, and also that decreased ARIP1 expression in the lesioned brain may be beneficial to the neurotrophic and neuroprotective roles of activin A in recovery after brain injury.

@@ -1,0 +1,10 @@
+Persistent fetal vasculature (PFV) is a pathological condition accounting for 4.8% of children's blindness in the United States.
+However, the PFV cell composition and pathogenetic mechanisms are poorly understood.
+This study aims to characterize PFV cell composition and associated molecular features and attempts to lay a foundation for further understanding the disease.
+Immunohistochemistry was conducted to characterize cell types at the tissue level.
+Single-cell RNA sequencing (sc-RNAseq) was performed on the vitreous cells derived from normal and Fz5 mutant mice at two early postnatal ages and human PFV samples.
+Bioinformatic tools were used to cluster cells and analyze their molecular features and functions.
+The findings of this study are as follows: (1) a total of 10 defined and one undefined cell types were characterized in both the hyaloid vessel system and PFV by sc-RNAseq and immunohistochemistry; (2) neural crest-derived melanocytes, astrocytes, and fibroblasts were specifically retained in the mutant PFV; (3) Fz5 mutants were found to possess more vitreous cells at early postnatal age 3 but returned to similar levels as the wild type at postnatal age 6; (4) altered phagocytic and proliferation environments and cell-cell interactions were detected in the mutant vitreous; (5) the human PFV samples shared fibroblast, endothelial and macrophage cell types with the mouse, but having distinct immune cells including T cells, NK cells and Neutrophils; and last, (6) some neural crest features were also shared between certain mouse and human vitreous cell types.
+We characterized PFV cell composition and associated molecular features in the Fz5 mutant mice and two human PFV samples.
+The excessively migrated vitreous cells, intrinsic molecular properties of these cells, phagocytic environment, and cell-cell interactions may together contribute to PFV pathogenesis.
+Human PFV shares certain cell types and molecular features with the mouse.

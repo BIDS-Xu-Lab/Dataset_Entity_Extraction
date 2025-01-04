@@ -1,0 +1,10 @@
+Learning from data with long-tailed and open-ended distributions is highly challenging.
+In this work, we propose OLPR, which is a new dual-stream Open-set Long-tailed recognition framework based on orthogonal Prototype learning and false Rejection correction.
+It consists of a Probabilistic Prediction Learning (PPL) branch and a Distance Metric Learning (DML) branch.
+The former is used to generate prediction probability for image classification.
+The latter learns orthogonal prototypes for each class by computing three distance losses, which are the orthogonal prototype loss among all the prototypes, the balanced Softmin distance based cross-entropy loss between each prototype and its corresponding input sample, and the adversarial loss for making the open-set space more compact.
+Furthermore, for open-set learning, instead of merely relying on binary decisions, we propose an Iterative Clustering Module (ICM) to categorize similar open-set samples and correct the false rejected closed-set samples simultaneously.
+If a sample is detected as a false rejection, i.e., a sample of the known classes is incorrectly identified as belonging to the unknown classes, we will re-classify the sample to the closest known/closed-set class.
+We conduct extensive experiments on ImageNet-LT, Places-LT, CIFAR-10/100-LT benchmark datasets, as well as a new long-tailed open-ended dataset that we build.
+Experimental results demonstrate that OLPR improves over the best competitors by up to 2.2% in terms of overall classification accuracy in closed-set settings, and up to 4% in terms of F-measure in open-set settings, which are very remarkable.
+Y: ImageNet-LT, Places-LT, CIFAR-10/100-LT (No need to annotate, just for notice).

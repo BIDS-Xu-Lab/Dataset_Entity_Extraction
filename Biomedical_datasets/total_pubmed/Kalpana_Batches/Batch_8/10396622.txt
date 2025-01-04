@@ -1,0 +1,6 @@
+The ABCR gene encodes a rod photoreceptor specific ATP-binding cassette transporter.
+Mutations in ABCR are associated with at least four inherited retinal dystrophies: Stargardt disease, Fundus Flavimaculatus, cone-rod dystrophy, and retinitis pigmentosa.
+A statistically significant increase in heterozygous ABCR alterations has been identified in patients with age-related macular degeneration (AMD).
+A pedigree is described which manifests both Stargardt disease and AMD in which an ABCR mutation cosegregates with both disease phenotypes.
+These data from this case report support the hypothesis that ABCR is a dominant susceptibility locus for AMD.
+Recent work regarding ABCR is reviewed and a model is presented in which decreased ABCR function correlates with severity of retinal disease.

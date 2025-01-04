@@ -1,0 +1,13 @@
+I(Ks), the slow component of the delayed rectifier potassium current, underlies a strong beta-adrenergic regulation in the heart.
+Catecholamines, like isoproterenol, induce a strong increase in I(Ks).
+Recent work has pointed to an opposing biological effect of beta(1)- and beta(3)-adrenoceptors in the heart.
+However the role of these subtypes in the regulation of cardiac ion channel function is unknown.
+We investigated the effects of beta(1)- and beta(3)-adrenoceptor modulation on I(Ks) in guinea-pig ventricular myocytes, using patch-clamp techniques.
+Superfusion with 100 nmol/l isoproterenol increased the step current amplitude by 81.3+/-8.0%.
+In contrast, after block of beta(1)- (1 micromol/l atenolol) and beta(2)-receptors (1 micromol/l ICI118,551), isoproterenol induced a reduction of the step current amplitude by 34.3+/-3.5%.
+The beta(3)-selective agonist BRL37344 significantly reduced the I(Ks) step current at +70 mV in a concentration-dependent manner (IC(50): 5.01 nmol/l).
+In the presence of bupranolol (beta(1)-, beta(2)- and beta(3)-adrenoceptor antagonist), the effect of BRL37344 was markedly attenuated, from 27.3+/-5.6% (100 nmol/l BRL37344 alone) to 4.0+/-1.3% (100 nmol/l BRL37344+1 micromol/l bupranolol).
+BRL37344 (100 micromol/) did not alter current amplitudes of KvLQT1/minK expressed in CHO cells or in Xenopus oocytes, excluding a direct effect of BRL37344 on the channel.
+1 micromol/l BRL37344 mildly prolonged action potentials in guinea pig ventricle (APD(90):+7.8%)
+We have demonstrated a functional coupling between the beta(3)-adrenoceptor and ion channel function in the mammalian heart.
+Our findings point to a potential role for beta(3)-adrenoceptors in cardiac electrophysiology and pathophysiology.

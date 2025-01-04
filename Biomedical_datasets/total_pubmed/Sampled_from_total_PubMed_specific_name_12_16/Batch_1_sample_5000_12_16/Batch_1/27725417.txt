@@ -1,0 +1,8 @@
+Since cardiovascular disease accounts for one-quarter of deaths in the Japanese population, we developed a nationwide database using the administrative case-mix Diagnostic Procedure Combination (DPC) system (ie, theJapaneseRegistryOfAll cardiac and vascularDiseases (JROAD)-DPC) to reveal the current status of cardiovascular medicine in Japan.
+Methods and Results:The JROAD-DPC database included 704,593 health records' data of 2012 from 610 certificated hospitals of the Japanese Circulation Society.
+The 35,824 patients with acute myocardial infarction (AMI) and 108,665 patients with heart failure (HF) were admitted to hospitals.
+Increased hospital case volume was associated with reduced in-hospital mortality rates for both AMI and HF (P for trend <0.001).
+Although there was little variation among AMI patients in terms of aspirin use at discharge (median prescription rate, 83.0%; interquartile range [IQR], 76.9-88.0%), there were wide variations in the proportions of patients prescribed β-blockers (BB) and angiotensin-converting enzyme inhibitors (ACEI)/angiotensin-receptor blockers (ARB) at discharge (BB, 41.4%, IQR 27.6-55.7%; ACEI/ARB, 52.0%, IQR 40.3-62.3%).
+In patients with HF, there were between-hospital variations in medications at discharge (BB, 38.1%, IQR, 27.8-47.6%; ACEI/ARB, 41.0%, IQR 31.7-49.1%).
+A nationwide administrative database of patients with cardiovascular diseases (JROAD-DPC) provided useful information that will contribute to improved quality of medical care, especially in the aging society of Japan, where HF has become an important health problem.
+Y: JapaneseRegistryOfAll cardiac and vascularDiseases (JROAD)-DPC (No need to annotate, just for notice).

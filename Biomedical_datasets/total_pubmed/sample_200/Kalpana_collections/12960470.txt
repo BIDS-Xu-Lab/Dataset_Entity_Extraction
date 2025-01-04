@@ -1,0 +1,6 @@
+In addition to necrosis, apoptosis makes a significant contribution to cell death following acute myocardial ischemia; apoptosis is particularly enhanced during reperfusion.
+Several studies are beginning to indicate that the cell death by apoptosis may be preventable.
+A boost in the research in this direction has been provided by noninvasive means of detection of apoptosis, such as that achieved by technetium-99m labeled Annexin-A5 scintigraphy.
+Various levels within the apoptotic cascade are being investigated as therapeutic targets.
+Caspase inhibitors, mitochondrial stabilizers, and Na+-H+ exchanger inhibitors reduce cell death by apoptosis and infarct size.
+Although most of the evidence at present is limited to the laboratory animals, this approach seems to hold a promise for the future.

@@ -1,0 +1,10 @@
+A meta-analysis was performed to evaluate the relationship between chronic obstructive pulmonary disease (COPD) and occupational dust exposure, and to provide a scientific basis for the prevention and treatment of COPD caused by occupational factors.
+PubMed and Embase databases were used to search for original epidemiological literature related to theme.
+Both random and fixed effects models were used to calculate pooled odds ratios and their corresponding 95% confidence intervals.
+Review Manager was used to perform data analysis.
+Nine studies were included in the meta-analysis in accordance with the inclusion criteria.
+There was a significantly obvious correlation between occupational dust exposure and COPD of the population-based studies assessed in this article.
+The risk of developing COPD for workers exposed to dust was 1.51 times higher than for controls (I = 40%, 95% confidence interval: 1.27-1.79).
+The presence of publication bias was not found.
+The study provided evidence supporting the association between occupational dust exposure and the risk of developing COPD.
+Y: PubMed, Embase (No need to annotate, just for notice).

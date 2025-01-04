@@ -1,0 +1,11 @@
+Visual effects of hypoxia relevant to viewing through night vision devices (NVD), or beneath them at dim instrument panel (IP) information, include elevation of color discrimination and contrast acuity thresholds, whereas supplementary oxygen enhances sensitivity.
+This study examined the effects of respiratory disturbance on low contrast acuity and color sensitivity under steady state visual adaptation representative of NVD and IP viewing.
+Foveal low contrast acuity (with and without distractors) and color signal thresholds were estimated using versions of the Contrast Acuity Assessment (CAA) test (8) and Color Assessment and Diagnosis (CAD) test (2).
+NVD viewing was simulated using an isochromatic green background field at 1.0 and 3.0 cd x m-2 while IP adaptation employed an achromatic background at 1.0 and 0.1 cd x m(-2).
+Respiratory conditions were normoxia (breathing air), hyperoxia (100% oxygen), and hypoxia (13.7% oxygen, balance nitrogen).
+Breathing gas was a significant determinant of contrast acuity and color thresholds under all four viewing conditions.
+Contrast acuity thresholds were elevated consistently under hypoxia by up to 25% relative to breathing oxygen.
+Both red-green and S-cone color thresholds were elevated by -20-25% during NVD viewing and up to 50% during IP viewing at 0.1 cd x m(-2).
+Hypoxia degrades mesopic visual performance substantially during steady state IP viewing, but also compromises NVD viewing at low photopic luminance.
+Low contrast acuity and color sensitivity will be compromised upon arrival at 10,000 ft (3048 m) viewing through or beneath NVDs.
+Unexpectedly, visual distractors enhanced acuity at 0.1 cd x m(-2), with possible implications for mesopic visual displays.

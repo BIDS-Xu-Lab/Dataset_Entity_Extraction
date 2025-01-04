@@ -1,0 +1,7 @@
+Optical coherent detection is widely used for highly sensitive sensing applications, but nonlinearity issues pose challenges in accurately interpreting the system outputs.
+Most existing compensation methods require access to raw measurement data, making them not useful when only demodulated data are available.
+In this study, we propose a compensation method designed for direct application to demodulated data, effectively addressing the 1st and 2nd-order nonlinearities in both homodyne and heterodyne systems.
+The approach involves segmenting the distorted signal, fitting and removing baselines in each section, and averaging the resulting distortions to obtain precise distortion shapes.
+These shapes are then used to retrieve compensation parameters.
+Simulation shows that the proposed method can effectively reduce the deviation caused by the nonlinearities without using the raw data.
+Experimental results from a silicon-photonics-based homodyne laser Doppler vibrometry prove that this method has a similar performance as the conventional Heydemann correction method.

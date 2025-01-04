@@ -1,0 +1,13 @@
+Gliomatosis cerebri (GC) comprises a rare widespread infiltrating growth pattern of diffuse gliomas.
+We explored the incidence patterns and survival rates of GC in a population-based registration sample from the Surveillance, Epidemiology and End, Results database (1973-2012).
+GC cases (n = 176) were identified based on their International Classification of Diseases in Oncology (ICD-O-3) morphology code (9381).
+We calculated age-adjusted incidence rates (AIR) and evaluated temporal trends.
+Survival was assessed with Kaplan-Meier curves and Cox regression models.
+The annual AIR of GC was 0.1/million.
+We noted increasing trends in the preceding registration years (1973-2002; annually, + 7%) and a tendency of clinical/radiological approaches to substitute the gold-standard histological assessment for diagnosis.
+GC was diagnosed in the entire age spectrum (range 1-98 years), but higher incidence rates (0.43/million) were noted among the elderly (≥ 65 years).
+A slight male preponderance was identified (male-to-female ratio: 1.4).
+Median overall survival was 9 months with a 5 year survival rate of 18%.
+Increasing age, primary tumor location not restricted to the cerebral hemispheres and rural residence at diagnosis were identified as negative prognostic factors, whereas receipt of radiotherapy, surgical treatment, race and method of diagnosis were not associated with outcome.
+This first comprehensive overview of GC epidemiology exemplifies the rarity of the disease, provides evidence for male preponderance and increased incidence among the elderly and shows lower survival rates compared to the published single center reports.
+Expansion of registration to histological and molecular characteristics would allow emergence of clinical prognostic factors at the population level.

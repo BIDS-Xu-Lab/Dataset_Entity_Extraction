@@ -1,0 +1,15 @@
+Foot orthoses (FOs) are prescribed as an important conservative treatment option in patients with foot problems related to rheumatoid arthritis.
+However, a broad variation in FOs is used, both in clinical practice and in research.
+To date, there is no overview on the outcomes of the treatment with different kinds of FOs in patients with rheumatoid arthritis and a specific foot problem.
+The objectives of the present study were to summarize the comparative effectiveness of FOs in the treatment of various foot problems in patients with rheumatoid arthritis, on the primary outcomes foot function and foot pain, and the secondary outcomes physical functioning, health related quality of life, compliance, adverse events, the costs of FOs and patient satisfaction.
+Studies comparing different kinds of FOs, with a presumed therapeutic effect, in the treatment of foot problems related to rheumatoid arthritis were included.
+A literature search was conducted in The Cochrane Central Registry for Controlled Trials (CENTRAL), PubMed, EMBASE and PEDro up to May 18th, 2018.
+Data was meta-analyzed, when this was not possible qualitative data analysis was performed.
+Ten studies were identified, with a total number of 235 patients.
+These studies made a comparison between different materials used (soft versus semi-rigid), types of FOs (custom-made versus ready-made; total-contact versus non-total contact), or modifications applied (metatarsal bars versus domes).
+Also, different techniques to construct custom-made FOs were compared (standard custom-molding techniques versus more sophisticated techniques).
+A medium effect for (immediate) reduction of forefoot plantar pressure was found in favor of treatment with soft FOs compared to semi-rigid FOs (SMD 0.60, 95% CI 0.07-1.14; P = 0.03; 28 participants).
+Other comparisons between FOs resulted in non-significant effects or inconclusive evidence for one kind of FOs over the other.
+Foot orthoses made of soft materials may lead to more (immediate) forefoot plantar pressure reduction compared to foot orthoses constructed of semi-rigid materials.
+Definitive high quality RCTs, with adequate sample sizes and long-term follow-up, are needed to investigate the comparative (cost-) effectiveness of different kinds of foot orthoses for the treatment of foot problems related to rheumatoid arthritis.
+Y and The Cochrane Central Registry for Controlled Trials (CENTRAL), PubMed, EMBASE, PEDro (No need to annotate, just for notice).

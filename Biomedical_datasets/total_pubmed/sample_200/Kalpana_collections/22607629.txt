@@ -1,0 +1,10 @@
+Burning mouth syndrome (BMS) is an idiopathic and chronic pain condition for which patients may experience high levels of pain, anxiety, and depression.
+So far, it has not yet been well investigated whether specific psychiatric features (anxious traits, personality disorder, or somatization) may play a role in the BMS pathogenesis or whether some BMS symptoms, or BMS itself, may cause secondary psychiatric symptoms.
+The aim of this study was to evaluate the relationship between pain, depression, and anxiety in BMS and healthy patients in order to hypothesize a possible underlying pathogenetic model.
+Fifty-three patients with BMS and 51 healthy volunteers matched for sex and age were enrolled.
+All patients underwent a physical examination, laboratory screening tests, and psychiatric assessment with the following instruments: Visual Analog Scale, the Hamilton Rating Scale for Depression, the State-Trait Anxiety Inventory Form Y 1-2 (STAI Y1-Y2), and the Symptom Checklist-90-Revised (SCL-90-R).
+BMS patients and healthy volunteers showed a statistically significant difference in psychiatric features: Regression analysis showed that pain is affected by depression (R = 0.373; R(2) corrected = 0.123; F = 8.563; P < .005), and depression is affected by anxiety (R = 0.512; R(2) corrected = 0.248; F = 18.519; P < .001).
+BMS patients have statistically significant higher scores of anxiety (STAI Y1, P = .026 and STAI Y2, P = .046) and depression (P < .001), and higher SCL-90-R scores on somatization (P = .036) and hostility dimensions (P = .028) than the control group.
+We may hypothesize that anxiety could determine a secondary demoralization in BMS patients (depression) and depressive symptoms could contribute to pain, accordingly.
+Therefore, pain could be a somatic feature of depression.
+Our findings provide an example of a possible pathogenetic model for BMS.

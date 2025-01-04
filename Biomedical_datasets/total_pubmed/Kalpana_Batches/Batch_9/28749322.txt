@@ -1,0 +1,13 @@
+Practitioners of epidemiology require efficient real-time communication and shared access to numerous documents in order to effectively manage a study.
+Much of this communication involves study logistics and does not require use of Protected Health Information.
+Slack is a team collaboration app; it archives all direct messages and group conversations, hosts documents internally, and integrates with the Google Docs application.
+Slack has both desktop and mobile applications, allowing users to communicate in real-time without the need to find email addresses or phone numbers or create contact lists.
+METHOD: We piloted the integration of Slack into our research team of one faculty member, one research coordinator, and approximately 20 research assistants.
+Statistics describing the app's usage were calculated twelve months after its implementation.
+Results indicating heavy usage by both research professionals and assistants are presented.
+Our Slack group included a cumulative 51 users.
+Between October 2015 and November 2016, approximately 10,600 messages were sent through Slack; 53% were sent by RA's and 47% were sent by us.
+Of the 106 files stored on Slack, 82% were uploaded by research staff.
+In a January 2016 survey, 100% of RA's agreed or strongly agreed that Slack improved communication within the team.
+We demonstrate a model for integration of communication technology into academic activities by research teams.
+Slack is easily integrated into the workflow at an urban, academic medical center and is adopted by users as a highly effective tool for meeting research teams' communication and document management needs.

@@ -1,0 +1,9 @@
+Hand gesture recognition (HGR) takes a central role in human-computer interaction, covering a wide range of applications in the automotive sector, consumer electronics, home automation, and others.
+In recent years, accurate and efficient deep learning models have been proposed for real-time applications.
+However, the most accurate approaches tend to employ multiple modalities derived from RGB input frames, such as optical flow.
+This practice limits real-time performance due to intense extra computational cost.
+In this paper, we avoid the optical flow computation by proposing a real-time hand gesture recognition method based on RGB frames combined with hand segmentation masks.
+We employ a light-weight semantic segmentation method (FASSD-Net) to boost the accuracy of two efficient HGR methods: Temporal Segment Networks (TSN) and Temporal Shift Modules (TSM).
+We demonstrate the efficiency of the proposal on our IPN Hand dataset, which includes thirteen different gestures focused on interaction with touchless screens.
+The experimental results show that our approach significantly overcomes the accuracy of the original TSN and TSM algorithms by keeping real-time performance.
+Y IPN Hand dataset (No need to annotate, just for notice).

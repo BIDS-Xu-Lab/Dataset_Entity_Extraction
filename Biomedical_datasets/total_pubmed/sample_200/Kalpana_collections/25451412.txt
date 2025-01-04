@@ -1,0 +1,11 @@
+Older adults worldwide are at a greater risk of suicide than other age groups.
+There is a scarcity of prospective studies exploring risk factors for suicide in older people and their discriminative ability to identify future suicide.
+We examined a prospective cohort of senior Taipei City residents between 2005 and 2009 (N=101,764).
+Cox proportional hazards regression analysis was used to determine significant risk factors and to construct a predictive score.
+The accuracy of the derived score in the prediction was tested by Receiver Operating Characteristic analysis.
+[HR]=3.41, p<0.001), lower education (HR=3.31, p<0.001) and lower income (HR=2.52, p=0.01) were associated with an increased risk of suicide, as well as depressed mood (HR=1.44, p=0.02; per unit increase in a 4-point scale) and insomnia (HR=1.30, p=0.03; per unit increase in a 4-point scale).
+The derived prediction score yielded a sensitivity of 0.63 a specificity of 0.73 and an area under curve of 0.73.
+Removing depressed mood from the prediction model did not significantly alter suicide predictability (P=0.11).
+The dataset examined did not contain information regarding to important risk factors such as substance misuse and prescribed medications and the measures of mental health were relatively limited.
+Prediction of suicide based on factors recorded in a routine health screen of elderly people was unsatisfactory; the strongest predictors were factors that cannot be easily altered.
+Further understanding of how the socioeconomic condition of seniors contributes to suicide may provide valuable insights for intervention targeting this growing population-at-risk.

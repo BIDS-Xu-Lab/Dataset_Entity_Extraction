@@ -1,0 +1,3 @@
+A fully automatized software package for detection and measurements of randomly occurring synaptic transients embedded in background noise is described.
+It is based on waveform recognition protocols, allows analysis of long data segments, and provides quantitative information about event amplitudes and kinetics.
+Simulated postsynaptic recordings have been used to assess its performance over a wide range of conditions mimicking those seen in physiological experiments.

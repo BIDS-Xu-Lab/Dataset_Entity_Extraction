@@ -1,0 +1,8 @@
+Allopregnanolone (3alpha-hydroxy-5alpha-pregnan-20-one) is an endogenously derived metabolite of progesterone, and a potent positive modulator of gamma-aminobutyric acid(A) (GABA(A)) receptors.
+A withdrawal syndrome, characterized by central nervous system (CNS) hyperexcitability, has been demonstrated following abrupt discontinuation of high progesterone levels in rats, which was due in part to altered levels of allopregnanolone.
+The purpose of the present study was to determine if a single administration of pregnanolone or allopregnanolone could produce an acute withdrawal response in mice selected for susceptibility (Withdrawal Seizure-Prone, WSP) or resistance (Withdrawal Seizure-Resistant, WSR) to ethanol withdrawal convulsions.
+WSP mice administered 75 mg/kg pregnanolone showed a significant increase in handling-induced convulsion (HIC) scores over a 25-h testing period.
+In contrast, HIC scores in WSR mice were negligible after acute administration of 25, 50, 75, or 100 mg/kg pregnanolone.
+WSP mice also showed a similar increase in HIC after withdrawal from 75 mg/kg allopregnanolone.
+This effect was evident at both the 10-h and 25-h overall withdrawal severity assessment.
+These results demonstrate that neuroactive steroids can elicit an acute withdrawal response similar to that of other positive modulators of GABA(A) receptors in WSP mice, supporting the notion that a common set of genes underlie acute and chronic withdrawal severity from multiple agents with depressant effects on the central nervous system.

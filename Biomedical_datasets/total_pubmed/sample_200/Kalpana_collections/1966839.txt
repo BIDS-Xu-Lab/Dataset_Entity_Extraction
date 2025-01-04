@@ -1,0 +1,8 @@
+The int-2 gene, which encodes a member of the fibroblast growth factor family, was discovered as a protooncogene transcriptionally activated following proviral insertion into adjacent chromosomal DNA.
+Analyses of the synthesis and processing of the int-2 protein, using an SV40-based vector to express cloned cDNA, showed four major products in the size range 27.5-31.5 kd that were associated with the secretory pathway.
+Further experiments using a cell-free translation system programmed with int-2 cRNA revealed a larger N-terminally extended protein.
+Site-directed mutagenesis of possible initiation codons confirmed that the first in-frame AUG codon would specify the start of a protein that includes a signal peptide for transport into the endoplasmic reticulum.
+However, protein synthesis also initiates at an upstream CUG codon to yield a polypeptide extended at the N-terminus by 29 amino acids.
+Immunofluorescent staining showed that a substantial proportion of the CUG-initiated protein resides in the cell nucleus, while a truncated int-2, lacking both the N-terminal extension and the signal peptide, was exclusively nuclear.
+These observations suggest that a nuclear localisation signal occurs in the body of the int-2 molecule, but is only accessible to the nuclear transport system if entry to the secretory pathway is compromised.
+Thus, the choice of initiation codon changes the subcellular fate of the int-2 protein and provides the potential for a duality of function through alternative transport pathways.

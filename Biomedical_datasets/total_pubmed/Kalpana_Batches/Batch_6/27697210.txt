@@ -1,0 +1,5 @@
+Excess and ectopic fat accumulation in obesity is a major risk factor for developing hyperlipidemia, type 2 diabetes and cardiovascular disease.
+The activation of brown and/or beige adipocytes is a promising target for the treatment of metabolic disorders as the combustion of excess energy by these thermogenic adipocytes may help losing weight and improving plasma parameters including triglyceride, cholesterol and glucose levels.
+The regulation of heat production by thermogenic adipose tissues is based on a complex crosstalk between the autonomous nervous system, intracellular and secreted factors.
+This multifaceted alignment regulates thermogenic demands to environmental circumstances in dependence on available energy resources.
+This review summarizes the current knowledge how thermogenic tissues can be targeted to combat the burden of diseases with a special focus on lipid metabolism and diseases related to lipoprotein metabolism.

@@ -1,0 +1,10 @@
+Mutations in vascular endothelial growth factor (VEGF) receptor-3 (VEGFR3 or FLT4) cause Milroy disease, an autosomal dominant condition that presents with congenital lymphedema.
+Mutations in VEGFR3 are identified in only 70% of patients with classic Milroy disease, suggesting genetic heterogeneity.
+To investigate the underlying cause in patients with clinical signs resembling Milroy disease in whom sequencing of the coding region of VEGFR3 did not reveal any pathogenic variation.
+Exome sequencing of 5 such patients was performed, and a novel frameshift variant, c.571_572insTT in VEGFC, a ligand for VEGFR3, was identified in 1 proband.
+The variant cosegregated with the affected status in the family.
+An assay to assess the biological function of VEGFC activity in vivo, by expressing human VEGFC in the zebrafish floorplate was established.
+Forced expression of wild-type human VEGFC in the floorplate of zebrafish embryos leads to excessive sprouting in neighboring vessels.
+However, when overexpressing the human c.571_572insTT variant in the floorplate, no sprouting of vessels was observed, indicating that the base changes have a marked effect on the activity of VEGFC.
+We propose that the mutation in VEGFC is causative for the Milroy disease-like phenotype seen in this family.
+This is the first time a mutation in one of the ligands of VEGFR3 has been reported to cause primary lymphedema.

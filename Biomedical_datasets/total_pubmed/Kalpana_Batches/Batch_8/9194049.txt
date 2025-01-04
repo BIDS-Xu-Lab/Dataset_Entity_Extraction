@@ -1,0 +1,11 @@
+We have previously shown that risperidone, an antipsychotic drug with high affinity for 5-hydroxytryptamine (5-HT)2A and dopamine (DA)2 receptors, as well as for alpha 2- and alpha 2-adrenoceptors, enhances 5-HT metabolism selectively in the rat frontal cortex (FC).
+To further study the influence of risperidone on central 5-HT systems, we compared its effects on dialysate 5-HT in the FC, as assessed by microdialysis, with those obtained with other antipsychotic drugs, i.e., clozapine, haloperidol, and amperozide, as well as with the selective alpha 2- or 5-HT2A receptor antagonists idazoxan or MDL 100,907, respectively.
+The underlying mechanism for risperidone's effect on 5-HT output in the FC was also investigated using single-cell recording in the dorsal raphe nucleus (DRN).
+Administration of risperidone (0.2, 0.6, and 2.0 mg/kg, SC) dose-dependently increased 5-HT levels in the FC.
+This stimulatory action was mimicked by amperozide (10 mg/kg, SC) and, to some extent, by idazoxan (0.25 mg/kg, SC).
+In contrast, clozapine (10 mg/kg, SC), haloperidol (2.0 mg/kg, SC), and MDL 100,907 (1.0 mg/kg, SC) exerted only minor effects on 5-HT output in brain.
+Local administration of risperidone or idazoxan (1.0-1000 mumol/L) in the FC dose-dependently increased dialysate levels of 5-HT in this region.
+On the other hand, risperidone 25-800 micrograms/kg, IV) dose-dependently decreased the firing rate of 5-HT cells in the DRN, an effect that was largely antagonized by pretreatment with the selective 5-HT1A receptor antagonist WAY 100,635 (5.0 micrograms/kg, IV).
+These results indicate that the risperidone-increased 5-HT output in the FC may be related to its alpha 2-adrenoceptor antagonistic action, a property shared with both amperozide and idazoxan, and that this action probably is executed at the nerve terminal level.
+The inhibition of 5-HT cell firing by risperidone is probably secondary to increased 5-HT availability, e.g., in the DRN, since it could be antagonized by a 5-HT1A receptor antagonist.
+The enhanced 5-HT output in the FC by risperidone may be of particular relevance for the treatment of schizophrenia when associated with depression and in schizoaffective disorder.

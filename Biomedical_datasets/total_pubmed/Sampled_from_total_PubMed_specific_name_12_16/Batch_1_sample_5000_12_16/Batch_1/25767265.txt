@@ -1,0 +1,9 @@
+Concurrently with a workshop sponsored by the National Cancer Institute, we identified key "drivers" for accelerating cancer epidemiology across the translational research continuum in the 21st century: emerging technologies, a multilevel approach, knowledge integration, and team science.
+To map the evolution of these "drivers" and translational phases (T0-T4) in the past decade, we analyzed cancer epidemiology grants funded by the National Cancer Institute and published literature for 2000, 2005, and 2010.
+For each year, we evaluated the aims of all new/competing grants and abstracts of randomly selected PubMed articles.
+Compared with grants based on a single institution, consortium-based grants were more likely to incorporate contemporary technologies (P = 0.012), engage in multilevel analyses (P = 0.010), and incorporate elements of knowledge integration (P = 0.036).
+Approximately 74% of analyzed grants and publications involved discovery (T0) or characterization (T1) research, suggesting a need for more translational (T2-T4) research.
+Our evaluation indicated limited research in 1) a multilevel approach that incorporates molecular, individual, social, and environmental determinants and 2) knowledge integration that evaluates the robustness of scientific evidence.
+Cancer epidemiology is at the cusp of a paradigm shift, and the field will need to accelerate the pace of translating scientific discoveries in order to impart population health benefits.
+While multi-institutional and technology-driven collaboration is happening, concerted efforts to incorporate other key elements are warranted for the discipline to meet future challenges.
+Y and PubMed (No need to annotate, just for notice).

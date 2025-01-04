@@ -1,0 +1,15 @@
+Recently, PFASs toxicity for the human immune system has become a growing concern.
+However, there is currently limited information on PFASs immunotoxicity beyond PFHxS, PFOA, PFOS, and PFNA.
+Therefore, it is urgent to close the present knowledge gap by testing a wider range of compounds.
+In the present study, twelve compounds were tested for a relationship between the chain-length and headgroup of a PFAS and its cytotoxic for THP-1.
+As such, THP-1, either as monocytes or differentiated macrophages, were exposed to PFASs in a concentration range of 0-800 μM for either 3 or 24 h. After that, cell viability and reactive oxygen species (ROS) generation were assessed using MTT and DCFH assay, respectively.
+PFASs' cytotoxicity is dependent on both their chain-length and headgroups.
+Cell viability decreased with increasing chain-length, and FTOHs displayed markedly higher toxicity than PFCAs and PFSAs.
+PFASs were ranked based on their calculated Relative Potency Factor.
+The ranking for the cytotoxicity data on monocytes appears to be 6:2 FTOH ≫ PFNA > PFDA > PFOS > PFOA >4: 2 FTOH >
+For macrophages, this ranking was as follows: 6:2 FTOH >4:2 FTOH > PFOS > PFDA > PFNA > PFOA > PFHxS.
+The results observed for the ROS generating potential differed as FTOHs generated no ROS.
+Here, the ranking in monocytes was PFOA > PFNA > PFOS > PFHxS > PFDA > PFHxA = PFBS = PFBA.
+The ranking for macrophages was PFNA > PFDA ≥ PFOA > PFOS > PFHxA > PFHxS > PFBA = PFBS.
+In conclusion, the carbon chain-length and functional headgroup of a PFAS are major determinants for their toxicity to THP-1 cells.
+Furthermore, our study demonstrates the most potent cytotoxic effect for FTOHs in vitro, which has not been observed before to the authors' knowledge.

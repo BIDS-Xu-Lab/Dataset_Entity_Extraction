@@ -1,0 +1,11 @@
+A hospital-based case-control study was conducted to evaluate and compare risk factors for abomasal volvulus (AV) and left displaced abomasum (LDA) in cattle.
+Medical record abstracts were derived from 17 North American veterinary schools by the Veterinary Medical Data Program for all cattle admitted between Jan 1, 1977 and Dec 31, 1986, and for those with a diagnosis of AV or LDA.
+From a total of 108,956 individual cattle records, 1,036 cases of AV and 7,695 cases of LDA were identified, with a ratio of LDA to AV cases of 7.4 to 1.
+In-hospital mortality was 23.5% for AV and 5.6% for LDA.
+Age, breed, gender, and season each had significant (P less than 0.05) effects on risk for AV and LDA.
+Risk for AV and LDA increased with increasing age, with greater risk in cattle aged 4 to 7 years.
+Dairy cattle were at higher risk of developing AV (adjusted odds ratio, 36.4) and LDA (adjusted odds ratio, 95.2) than were beef cattle.
+The odds of AV in Brown Swiss cattle were significantly (P less than 0.0001) lower, and the odds of LDA in Guernsey cattle were significantly (P less than 0.0001) higher than those in Holstein cattle.
+Female cattle were also at higher risk of developing AV (adjusted odds ratio, 3.3) and LDA (adjusted odds ratio, 29.1) than were male cattle.
+The odds of AV and LDA varied considerably throughout the year, with the lowest number of cases observed in autumn.
+Seasonal development of AV differed significantly (P less than 0.0001) from that of LDA, with the odds of AV and LDA being highest in January and March, respectively.(ABSTRACT TRUNCATED AT 250 WORDS)

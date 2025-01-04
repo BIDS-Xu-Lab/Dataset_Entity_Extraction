@@ -1,0 +1,11 @@
+Advances in medical care have resulted in nearly 95% of all children with sickle cell disease (SCD) living to adulthood.
+There is a lack of effective transition programming, contributing to high rates of mortality and morbidity among adolescents and young adults (AYAs) during the transition from pediatric to adult healthcare.
+This nonrandomized study evaluated the feasibility, acceptability, and preliminary outcomes of a novel medical student mentor intervention to improve transition outcomes for AYA with SCD.
+Eligible participants were ages 18-25 years, either preparing for transition or had transferred to adult care within the past year.
+Twenty-four AYA with SCD (Mage = 20.3, SD = 2.6) enrolled in the program and were matched with a medical student mentor.
+Feasibility and acceptability of the intervention was assessed through enrollment rates, reasons for refusal, retention rates, engagement with the intervention, satisfaction, and reasons for drop-out.
+Dependent t-tests were used to evaluate the preliminary effects of the intervention on patient transition readiness, health-related quality of life, self-efficacy, SCD knowledge, medication adherence, and health literacy.
+Participants (N = 24) demonstrated adequate retention (75.0%), adherence to the intervention (M = 5.3 of 6 sessions), and satisfaction with the intervention components.
+Participants demonstrated significant improvements in transition readiness (p = .001), self-efficacy (p = .002), medication adherence (p = .02), and health literacy (p = .05).
+A medical student mentor intervention to facilitate transition from pediatric to adult care for AYA with SCD is both feasible and acceptable to patients and medical students.
+Preliminary results suggest benefits for patients, warranting a larger efficacy study.

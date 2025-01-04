@@ -1,0 +1,4 @@
+The diameter of long-period fiber gratings (LPFGs) fabricated in optical fibers with a low cutoff wavelength was be reduced by hydrofluoric acid etching, enhancing the sensitivity to refractive index by more than a factor of 3, to 2611 nm/refractive index unit in the range from 1.333 to 1.4278.
+The grating period selected for the LPFGs allowed access to the dispersion turning point at wavelengths close to the visible range of the optical spectrum, where optical equipment is less expensive.
+As an example of an application, a pH sensor based on the deposition of a polymeric coating was analyzed in two situations: with an LPFG without diameter reduction and with an LPFG with diameter reduction.
+Again, a sensitivity increase of a factor of near 3 was obtained, demonstrating the ability of this method to enhance the sensitivity of thin-film-coated LPFG chemical sensors.

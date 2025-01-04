@@ -1,0 +1,6 @@
+Two methods for assessing accommodative facility were compared: the Computer Orthoptics Diagnostic Program and the standard Lens Flipper Method.
+In random fashion, 40 visually normal [modified clinical technique (MCT) screening] subjects, ages 10 to 18 years, were tested monocularly and binocularly on both methods.
+Scatter-plot comparisons of the data showed no apparent relation between the two methods, with correlation coefficients close to zero for both monocular (r = 0.0205) and binocular (r = 0.1180) results.
+In addition, the subject's diagnostic classification (pass or fail) was compared between the two methods.
+The kappa statistic indicated a low level of agreement between the two methods both monocularly and binocularly.
+These results suggest that the Computer Orthoptics' diagnostic test is not a valid method for diagnosing accommodative facility deficiencies.

@@ -1,0 +1,15 @@
+The purposes of this study are (1) to measure the ischiofemoral distance (IFD) in nondiseased hips and (2) to reveal patient demographic and anatomical factors associated with IFD.
+In this retrospective study, we identified patients who had unilateral osteonecrosis of the femoral head on computed tomography (CT) scan from November 2005 to July 2018 and assessed the unaffected contralateral hips of the patients.
+Among the contralateral hips, we excluded hips with hip pain, incomplete or poor-quality CT image, incomplete medical record, degenerative arthritis of the hip, or previous hip surgery.
+IFD was measured on the axial CT image, and correlated demographic factors (age, sex, height, weight, and body mass index) and anatomical parameters (neck-shaft angle of the femur and femoral anteversion) with IFD were evaluated.
+Five hundred seventeen patients (517 hips) were evaluated.
+There were 302 men and 215 women, and their mean age was 51.7 years (range 15-83 years).
+The mean IFD was 33.2 (±9.2) mm in men and 24.3 (±8.9) mm in women (P < .001).
+Interobserver and intraobserver reliability (intraclass correlation coefficients) were 0.99 (95% confidence interval 0.98-1.0) and 0.98 (95% confidence interval 0.97-0.99), respectively.
+The mean neck-shaft angle was 129.31° ± 5.04° in males and 129.93° ± 6.29° in females.
+The mean femoral anteversion was 9.72° ± 7.95° in males and 12.61° ± 8.91° in females.
+IFD was positively correlated with height (correlation coefficient [r] = 0.464, P < .001) and weight (0.286, P < .001), whereas it was negatively correlated with age (-0.198, P < .001), neck-shaft angle (-0.123, P = .005), and femoral anteversion (-0.346, P < .001).
+There was no correlation between body mass index and IFD (P = .522).
+In multivariate regression analysis, IFD was positively associated with height (β = .632), and negatively associated with neck-shaft angle of the femur and femoral anteversion (β = -0.155 and -0.328.
+In asymptomatic hips, the mean IFD was 33.2 ± 9.2 mm in males and 24.3 ± 8.9 mm in females.
+The IFD was positively correlated with height and negatively with neck-shaft angle of the femur and femoral anteversion.

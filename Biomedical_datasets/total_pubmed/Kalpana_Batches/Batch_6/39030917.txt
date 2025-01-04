@@ -1,0 +1,10 @@
+Ischaemic stroke remains a significant global health challenge, associated with high mortality rates.
+While the Braden Scale is traditionally employed to assess pressure ulcer risk, its potential to predict mortality among the intensive care unit (ICU) patients with ischaemic stroke has not been thoroughly investigated.
+This study evaluates the predictive value of the Braden Scale for 30-day mortality among patients with ischaemic stroke admitted to ICU.
+We conducted a retrospective analysis of 4710 adult patients with ischaemic stroke from the Medical Information Mart for Intensive Care (MIMIC)-IV database.
+The association between the Braden Scale scores and 30-day mortality was assessed using receiver operating characteristic (ROC) curve analysis, Cox regression models and Kaplan-Meier survival estimates.
+Patients with Braden Scale scores ≤ 15.5 showed significantly higher 30-day mortality rates (p-value < 0.001; hazard ratio (HR): 2.08, 95% confidence interval (CI): 1.71-2.53).
+The area under the ROC curve (AUC) was 0.71, demonstrating good predictive performance.
+Multivariate analysis confirmed the Braden Scale as an independent predictor of mortality, after adjusting for age, gender and comorbidities.
+The Braden Scale effectively identifies high-risk ischaemic stroke patients in ICU settings, endorsing its integration into routine assessments to facilitate early intervention strategies.
+Integrating the Braden Scale into routine ICU evaluations can enhance mortality risk stratification and improve patient care tailoring.

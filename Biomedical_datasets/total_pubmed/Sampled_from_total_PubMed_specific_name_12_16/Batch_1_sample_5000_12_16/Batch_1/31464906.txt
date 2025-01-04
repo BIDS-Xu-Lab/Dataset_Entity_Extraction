@@ -1,0 +1,8 @@
+Considerable controversy exists on the association between serum vitamin D concentrations and Alzheimer disease (AD) risk.
+This study aimed to synthesize the association of serum vitamin D concentrations with AD in adults.
+PubMed, Embase, and Cochrane library databases were searched for prospective cohort studies with data on serum vitamin D concentrations and AD risk.
+The studies that reported the adjusted relative risks (RRs) with 95% confidence intervals (CIs) of AD associated with serum vitamin D concentrations were included and subjected to subgroup analyses.
+Six prospective cohort studies with 1607 AD cases and 21,692 individuals were included in the meta-analysis.
+In 4 cohort studies with information about serum vitamin D concentrations <25 and 25 to 50 nmol/L, the random effects summary estimate did not show an increased risk of AD after adjustment for the established risk factors, while 3 cohort studies reported the RRs for incident AD per standard deviation (SD) decrease in serum vitamin D concentration and the random effects summary estimate did not show an increased risk of AD after adjustment for the established risk factors.
+The current meta-analysis indicated that serum vitamin D deficiency (<25 nmol/L) or insufficiency (25-50 nmol/L) was not statistically significant and associated with the risk of AD.
+Y: PubMed, Embase, Cochrane library databases (No need to annotate, just for notice).

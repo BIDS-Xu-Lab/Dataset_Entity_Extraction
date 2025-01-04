@@ -1,0 +1,14 @@
+The In-Center Hemodialysis Consumer Assessment of Healthcare Providers and Systems (ICH CAHPS) survey, introduced into the End-Stage Renal Disease Quality Incentive Program, is the only patient-reported outcome currently used for value-based reimbursement in dialysis.
+Current response rates are ∼30% and differences in long-term clinical outcomes between survey responders and nonresponders are unknown.
+Patients from all Dialysis Clinic Incorporated facilities from across the United States who met survey eligibility (aged ≥18 years and had been treated at their facility for at least 3 months).
+Patient-level demographic, clinical, and treatment-related characteristics.
+Mortality, all-cause hospitalization, and kidney transplantation.
+Sensitivity analyses performed after multiple imputation for missing covariate data.
+Among 10,395 eligible patients, 3,794 (36%) responded to the survey.
+During a median follow-up of 33 months, 4,588 patients died, 7,638 patients were hospitalized at least once, and 789 patients received a transplant.
+In multivariable models, survey response was associated with lower mortality (subdistribution hazard ratio [sHR], 0.80; 95% CI, 0.75-0.86) and hospitalization (sHR, 0.94; 95% CI, 0.89-0.99) and higher likelihood for a kidney transplant (sHR, 1.27; 95% CI, 1.10-1.46).
+Results were consistent across sensitivity analyses after multiple imputation for missing covariates.
+Small amount of missing covariate data, baseline covariate data assigned at the first month of the 3-month survey administration period, reasons for nonresponse unknown.
+Response to the ICH CAHPS survey is associated with lower risk for mortality and hospitalization and higher likelihood for kidney transplantation.
+These findings suggest that survey responders are healthier than nonresponders, emphasizing the need for caution when interpreting facility-level survey results to inform quality improvement and public policy efforts and the critical need to better capture patient-reported outcomes from more vulnerable patients.
+Y - In-Center Hemodialysis Consumer Assessment of Healthcare Providers and Systems (ICH CAHPS) survey (No need to annotate, just for notice).

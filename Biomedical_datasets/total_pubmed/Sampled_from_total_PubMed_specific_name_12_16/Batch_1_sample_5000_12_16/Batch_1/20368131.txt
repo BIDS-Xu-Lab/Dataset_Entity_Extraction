@@ -1,0 +1,9 @@
+A single in utero exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) on gestation day 15 decreased epididymal sperm count in adult rats and thus was used to establish a tolerable daily intake for TCDD.
+However, several laboratories have been unable to replicate these findings.
+Moreover, conflicting reports of TCDD effects on daily sperm production suggest that spermatogenesis may not be as sensitive to the adverse effects of TCDD as previously thought.
+We performed a PubMed search using relevant search terms linking dioxin exposure with adverse effects on reproduction and spermatogenesis.
+Developmental exposure to TCDD is consistently linked with decreased cauda epididymal sperm counts in animal studies, although at higher dose levels than those used in some earlier studies.
+However, the evidence linking in utero TCDD exposure and spermatogenesis is not convincing.
+Animal studies provide clear evidence of an adverse effect of in utero TCDD exposure on epididymal sperm count but do not support the conclusion that spermatogenesis is adversely affected.
+The mechanisms underlying decreased epididymal sperm count are unknown; however, we postulate that epididymal function is the key target for the adverse effects of TCDD.
+Y: PubMed (No need to annotate, just for notice).

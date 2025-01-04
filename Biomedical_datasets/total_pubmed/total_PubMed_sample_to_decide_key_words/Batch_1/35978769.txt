@@ -1,0 +1,5 @@
+Are causal explanations (e.g., "she switched careers because of the COVID pandemic") treated differently from the corresponding claims that one factor caused another (e.g., "the COVID pandemic caused her to switch careers")?
+We examined whether explanatory and causal claims diverge in their responsiveness to two different types of information: covariation strength and mechanism information.
+We report five experiments with 1,730 participants total, showing that compared to judgments of causal strength, explanatory judgments tend to be more sensitive to mechanism and less sensitive to covariation - even though explanatory judgments respond to both types of information.
+We also report exploratory comparisons to judgments of understanding, and discuss implications of our findings for theories of explanation, understanding, and causal attribution.
+These findings shed light on the potentially unique role of explanation in cognition.

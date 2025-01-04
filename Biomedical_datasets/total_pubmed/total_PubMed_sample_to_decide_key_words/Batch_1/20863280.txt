@@ -1,0 +1,8 @@
+The availability of entire genome sequences and the wealth of literature on gene regulation have enabled researchers to model an organism's transcriptional regulation system in the form of a network.
+In such a network, TFs (transcription factors) and TGs (target genes) are represented as nodes and regulatory interactions between TFs and TGs are represented as directed links.
+In the present review, I address the following topics pertaining to transcriptional regulatory networks.
+first, I introduce the concept of networks and discuss our understanding of the structure and organization of transcriptional networks.
+(ii) Evolution: I then describe the different mechanisms and forces that influence network evolution and shape network structure.
+(iii) Dynamics: I discuss studies that have integrated information on dynamics such as mRNA abundance or half-life, with data on transcriptional network in order to elucidate general principles of regulatory network dynamics.
+In particular, I discuss how cell-to-cell variability in the expression level of TFs could permit differential utilization of the same underlying network by distinct members of a genetically identical cell population.
+Finally, I conclude by discussing open questions for future research and highlighting the implications for evolution, development, disease and applications such as genetic engineering.

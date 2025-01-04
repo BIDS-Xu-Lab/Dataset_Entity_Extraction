@@ -1,0 +1,15 @@
+Congenital anomalies (CAs) are a leading cause of neonatal death.
+Many CAs can be diagnosed prenatally.
+To estimate the prenatal detection rate (PDR) of CA in hospitals participating in the RENAC (National Network of Congenital Anomalies of Argentina) and to analyze the PDR according to different factors.
+Sources were reports of RENAC from the 2013-2016 period.
+Congenital anomalies included were those detectable by ultrasound or by a prenatal karyotype.
+PDR was calculated by region, health subsector, clinical presentation, maternal age, sex, and twining.
+Using multiple logistic regression analysis, we evaluated predictors of prenatal detection.
+In total, 9976 cases were defined as prenatal detectable; 5021 were detected (PDR = 50.3%).
+Multiple presentation increased the chances of prenatal detection (Adj. OR = 1.6; 95%CI 1.4-1.9).
+Prenatal detection was lower in the public subsector (Adj. OR = 0.8; 95%CI 0.7-0.9) and in the northern regions of the country.
+PDR was higher than 75% in isolated cases of urinary malformation, anencephaly, and gastroschisis.
+Prenatal detection increased the chance of birth in higher complexity-level hospitals (Adj. OR = 2.5; 95%CI 2.3-2.8).
+PDR was within the range previously reported.
+Heterogeneity between regions and health subsector suggests the need for training to achieve equity in detection.
+Y and RENAC (National Network of Congenital Anomalies of Argentina) (No need to annotate, just for notice).

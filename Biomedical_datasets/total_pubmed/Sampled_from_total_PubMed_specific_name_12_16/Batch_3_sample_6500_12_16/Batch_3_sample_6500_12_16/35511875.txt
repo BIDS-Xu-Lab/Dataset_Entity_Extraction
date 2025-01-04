@@ -1,0 +1,10 @@
+The death of children under-five years is one of the critical issues in public health and improving child survival continues to be a matter of urgent concern.
+In this paper, we assessed the proximate and socio-economics determinants of child mortality in Guinea.
+Using the 2018 Guinea Demographic and Health Survey (GDHS), we extracted demographic and mortality data of 4,400 children under-five years.
+Both descriptive and multivariable logistic regression analyses were conducted.
+Under-five mortality was 111 deaths per 1,000 live births in Guinea.
+The likelihood of death was higher among children born to mothers who belong to other religions compared to Christians (aOR = 2.86, 95% CI: 1.10-7.41), smaller than average children compared to larger than average children (aOR = 1.97, 95% CI: 1.28-3.04) and those whose mothers had no postnatal check-up visits after delivery (aOR = 1.72, 95% CI: 1.13-2.63).
+Conversely, the odds of death in children with 2-3 birth rank & >2 years of birth interval compared to ≥4 birth rank and ≤2 years of birth interval were low (aOR = 0.53, 95% CI: 0.34-0.83).
+We found that household/individual-level socioeconomic and proximate factors predict under-five mortality in Guinea.
+With just about a decade left to the 2030 deadline of the Sustainable Development Goals (SDGs), concerted efforts across all key stakeholders, including government and development partners, need to be geared towards implementing interventions that target these predictors.
+Y 2018 Guinea Demographic and Health Survey (GDHS) (No need to annotate, just for notice).

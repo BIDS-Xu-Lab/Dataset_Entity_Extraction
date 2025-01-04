@@ -1,0 +1,7 @@
+This study examines travel patterns for hospitalization among elderly patients to address whether there are differences by age and race/ethnicity, and whether the differences persist even when a severe illness occurs.
+Using the Healthcare Cost and Utilization Project (HCUP) State Inpatient database (SID) of the Agency for Healthcare Research and Quality, the study focuses on New York residents in the 65-and-over age group who are hospitalized in New York or neighboring states.
+Two types of hospital admissions are used: referral-sensitive admissions (fairly discretionary, high-technology procedures) and ambulatory care-sensitive admissions (avoidable with appropriate primary care).
+The study found that, after adjusting for other covariates, travel progressively declines with age among the elderly.
+Travel patterns across elderly age cohorts were not significantly different when patients were more severely ill.
+Members of racial/ethnic minority groups were less likely to travel than whites, and this gap persisted even when a severe illness occurred.
+Y: Healthcare Cost and Utilization Project (HCUP) State Inpatient database (SID) (No need to annotate, just for notice).

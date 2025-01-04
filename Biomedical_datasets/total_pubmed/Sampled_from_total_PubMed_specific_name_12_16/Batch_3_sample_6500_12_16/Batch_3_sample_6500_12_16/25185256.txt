@@ -1,0 +1,15 @@
+A study was undertaken to investigate the association between A69S in age-related maculopathy susceptibility 2 (ARMS2) and the response to anti-angiogenesis treatment in exudative age-related macular degeneration (AMD).
+A literature-based meta-analysis was performed of studies relevant to A69S and the response to anti-angiogenesis treatment.
+PubMed, Web of Science, China National Knowledge Infrastructure (CNKI) and Sinomed databases were used to retrieve articles up to July 2014.
+Pooled ORs and 95% CIs were estimated using fixed and random effects models in Stata V.9.0.
+Q-statistic testing was used to assess heterogeneity.
+Twelve articles comprising 2389 cases were included in the final meta-analysis.
+The analysis of the overall population indicated a statistically significant association between A69S and the response to anti-angiogenesis treatment in exudative AMD (GG vs TT: OR 1.34 (95% CI 1.01 to 1.77), p=0.039; GT vs TT: OR 1.58 (95% CI 1.08 to 2.31), p=0.018; GG+GT vs TT:
+OR 1.74 (95% CI 1.19 to 2.52), p=0.004).
+In subgroup analysis, A69S appeared more likely to be a predictor for anti-angiogenic response in the East Asian population (GG vs TT:
+OR 1.65 (95% CI 1.02 to 2.68), p=0.042;
+GT vs TT: OR 1.66 (95% CI 1.17 to 2.37), p=0.005; GG+GT vs TT: OR 1.82 (95% CI 1.07 to 3.10), p=0.027; G vs T: OR 1.56 (95% CI 1.01 to 2.41))
+However, no statistical significance was found in the Caucasian subgroup analysis.
+This study shows an association between A69S polymorphism in the ARMS2 gene and the anti-angiogenesis treatment response.
+A69S could be considered predictive of the anti-angiogenic effects, especially in Asian populations.
+Y PubMed, Web of Science, China National Knowledge Infrastructure (CNKI), Sinomed (No need to annotate, just for notice).

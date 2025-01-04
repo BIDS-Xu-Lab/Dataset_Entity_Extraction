@@ -1,0 +1,12 @@
+Bronchial artery embolization (BAE) is currently an important treatment for hemoptysis.
+However, there is no consensus in the efficacy and safety of BAE compared to conservative treatment for hemoptysis, which limits the widespread use of BAE in hemoptysis.
+The objective was to assess the clinical benefit of BAE versus conservative treatment in patients with hemoptysis.
+A systematic search was conducted on the PubMed, Embase, ScienceDirect, CochraneLibrary, and ClinicalTrials up to March 2023.
+Both randomized controlled trials (RCTs) and cohort studies reporting rates of recurrent hemoptysis, clinical success, mortality, and complication by BAE and conservative treatment alone for hemoptysis were included.
+Data were pooled and compared by the use of odds ratio (OR) and 95% confidence interval (CI).
+Twelve studies (three RCTs, nine cohorts) involving 1231 patients met the eligibility criteria.
+Patients treated with BAE had lower recurrence rates of hemoptysis (26.5% vs. 34.6%; OR 0.37, 95% CI 0.14-0.98), higher clinical success rates (92.2% vs. 80.9%; OR 2.77, 95% CI 1.66-4.61), and lower hemoptysis-related mortality (0.8% vs. 3.2%; OR 0.20, 95% CI 0.05-0.84) compared with conservative treatment alone.
+There was no significant difference in all-cause mortality between the two groups.
+In terms of security, the incidence of major complications and minor complications in patients undergoing BAE treatment was 0.2% (1/422) and 15.6%, respectively.
+BAE was more effective than conservative treatment alone in controlling hemoptysis, reducing recurrence, and decreasing hemoptysis-related mortality, with an almost negligible risk of major complications.
+Y: PubMed, Embase, ScienceDirect, CochraneLibrary, ClinicalTrials (No need to annotate, just for notice).

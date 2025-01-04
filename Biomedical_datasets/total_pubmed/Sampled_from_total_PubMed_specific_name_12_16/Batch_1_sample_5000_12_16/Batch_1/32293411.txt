@@ -1,0 +1,14 @@
+The burgeoning field of biomedical research involving the mixture of human and animal materials has attracted significant ethical controversy.
+Due to the many dimensions of potential ethical conflict involved in this type of research, and the wide variety of research projects under discussion, it is difficult to obtain an overview of the ethical debate.
+This paper attempts to remedy this by providing a systematic review of ethical reasons in academic publications on human-animal chimera research.
+We conducted a systematic review of the ethical literature concerning human-animal chimeras based on the research question: "What ethical reasons have been given for or against conducting human-animal chimera research, and how have these reasons been treated in the ongoing debate?"
+Our search extends until the end of the year 2017, including MEDLINE, Embase, PhilPapers and EthxWeb databases, restricted to peer-reviewed journal publications in English.
+Papers containing ethical reasons were analyzed, and the reasons were coded according to whether they were endorsed, mentioned or rejected.
+Four hundred thirty-one articles were retrieved by our search, and 88 were ultimately included and analyzed.
+Within these articles, we found 464 passages containing reasons for and against conducting human-animal chimera research.
+We classified these reasons into five categories and, within these, identified 12 broad and 31 narrow reason types.
+15% of the retrieved passages contained reasons in favor of conducting chimera research (Category P), while 85% of the passages contained reasons against it.
+The reasons against conducting chimera research fell into four further categories: reasons concerning the creation of a chimera (Category A), its treatment (Category B), reasons referring to metaphysical or social issues resulting from its existence (Category C) and to potential downstream effects of chimera research (Category D).
+A significant proportion of identified passages (46%) fell under Category C.
+We hope that our results, in revealing the conceptual and argumentative structure of the debate and highlighting some its most notable tendencies and prominent positions, will facilitate continued discussion and provide a basis for the development of relevant policy and legislation.
+Y: MEDLINE, Embase, PhilPapers, EthxWeb (No need to annotate, just for notice).

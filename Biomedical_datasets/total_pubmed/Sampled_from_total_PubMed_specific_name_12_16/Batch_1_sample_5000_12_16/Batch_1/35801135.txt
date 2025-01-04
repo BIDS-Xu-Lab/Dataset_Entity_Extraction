@@ -1,0 +1,10 @@
+Egyptian henbane (Hyoscyamus muticus L. Mant.
+Pl. 1767) is an important medicinal plant of the family Solanaceae.
+Its complete chloroplast (cp) genome was assembled using Illumina high-throughput sequencing technology to contribute to its conservation genetics studies.
+Here, we report the complete sequence of the chloroplast genome of H. muticus.
+The cp genome was 156,271 bp in length with an asymmetric base composition (30.9% A, 18.9% C, 18.6% G and 31.6% T).
+It encodes 132 genes comprising 87 protein-coding genes, 29 tRNA genes, and 8 rRNA genes.
+The overall GC content of the H. muticus chloroplast genome was 37.5%, and the corresponding values in the large single-copy (LSC), the small single-copy (SSC), and the inverted repeat (IR) regions were 35.5%, 31.5%, and 43.0%, respectively.
+The complete chloroplast genome sequence was deposited to the GenBank (NCBI, Accession number: MZ450974).
+The maximum likelihood phylogenetic analysis showed that the H. muticus and H. niger were clustered into one clade with strong support values, indicating their closer relationship.
+Y: GenBank (No need to annotate, just for notice).

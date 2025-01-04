@@ -1,0 +1,8 @@
+Microevolutionary studies often find that complex quantitative characters are highly evolvable and adapted to the local environment, while macroevolutionary studies often show evidence of strong phylogenetic effects and stasis.
+In this contribution, we show how phylogenetic comparative methods can be used to test hypotheses that may help resolve this paradox.
+As a test case, we studied the interplay between adaptation and phylogenetic inertia on the thermobiology of 32 species of Liolaemus (Squamata: Liolaemidae), a genus of South American lizards living under diverse climatic conditions.
+Despite a strong phylogenetic effect in the preferred (selected) body temperature, we found clear evidence that this variable is adapted to local temperature and climate.
+After controlling for adaptation to the thermal environment, little influence of phylogeny was left.
+This indicates that the phylogenetic effect was not caused by a lag or slowness in adaptation but primarily by the distribution of the thermal environments on the phylogeny.
+This can be due to thermal niche tracking.
+In contrast, we found little or no evidence for adaptation to the thermal environment in either cooling or heating rates, critical thermal minimum, or body size.

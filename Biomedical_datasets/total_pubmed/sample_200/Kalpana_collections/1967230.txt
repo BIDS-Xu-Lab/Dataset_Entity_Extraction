@@ -1,0 +1,15 @@
+The aim of this study has been to define cytotoxic mechanisms that may cause clonal expansion in the liver of pre-carcinogenic cells.
+An in vitro model, which has been described previously, was used.
+Hepatocytes were isolated from carcinogen-treated rats and a high proportion of the cells were gamma-glutamyltranspeptidase (GGT)-positive.
+The cells were incubated in suspension and exposed to toxic agents in concentrations that induced a moderate increase in cellular leakage within 3 h. Samples were withdrawn and sampled cells were then allowed to attach to collagen-coated plates.
+Attached cells were stained and the ratio of GGT-positive/GGT-negative cells (GGT-ratio) was determined.
+The initial GGT-ratio was 10.4 +/- 4.7% and an increased ratio was taken as a sign of toxicity that resulted in a selection of GGT-positive cells.
+In a first series of experiments it was shown that hydroquinone and menadione increase the GGT-ratio, while diquat, sodium selenite, diethyl maleate or phorone do not.
+However, diethyl maleate in combination with diquat increased the GGT-ratio.
+Hydrogen peroxide (5 mM) increased the GGT-ratio as effectively as hydroquinone (0.3 mM).
+Lower concentrations of H2O2 (0.05 mM) increased the GGT-ratio in GSH-depleted cells.
+The changes induced by hydroquinone and H2O2 in low concentration were reversible.
+In another series of experiments, plates coated with antibodies against beta 1-integrin were used.
+An increase in the GGT-ratio was obtained with anti beta 1-integrin, but not with broad spectrum anti-rat hepatocyte or anti-rat beta 2-microglobulin antibodies as substrata.
+These data suggested an involvement of the beta 1-integrin in the selection.
+Taken together, these data indicate that GGT-positive hepatocytes are protected against GSH depletion and oxidative stress that may result in reversible receptor alterations.

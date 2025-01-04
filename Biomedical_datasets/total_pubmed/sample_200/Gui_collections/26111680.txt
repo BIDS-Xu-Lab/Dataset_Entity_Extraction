@@ -1,0 +1,8 @@
+To construct a RNA interference lentiviral vector for human glutathione peroxidase 2 (GPX2) gene and observe the effect of GPX2 knockdown on cell apoptosis.
+The sequence of the small interfering RNA (siRNA) for GPX2 interference was inserted into the pSicoR vector.
+HepG2 cells were infected by the packaged si-GPX2 lentivirus and the expression of GPX2 in the infected cells was detected by both RT-PCR and Western blotting.
+Changes of cell apoptosis following the infection were analyzed by flow cytometry.
+The lentiviral particles pSicoR-GPX2 were successfully packaged.
+The expression of GPX2 in the infected cells was obviously down-regulated at both RNA and protein levels.
+GPX2 knockdown caused increased apoptosis rate, increased Bax expression and lowered Bcl-2 expression in HepG2 cells.
+We have successfully constructed the lentiviral vector for RNA interference of human GPX2 gene.

@@ -1,0 +1,10 @@
+Three new sandwich immunoassays for detection of nitrated biomarker have been established with potential applications in biomedical studies and clinical practice.
+In this study, nitrated human fibrinogen, a potential oxidative stress biomarker for several pathologies, was chosen as the target.
+To improve the sensitivity and overcome the interference caused by the complexity of human biofluids, we developed three sandwich strategies using various combinations of primary antibody and secondary antibody.
+All three strategies demonstrated high sensitivity and selectivity towards nitrated forms of fibrinogen in buffer, but their performances were dramatically reduced when tested with human plasma and serum samples.
+Systematically optimizations were carried out to investigate the effects of numerous factors, including sampling, coating, blocking, and immunoreactions.
+Our final optimization results indicate that two of these strategies retain sufficient sensitivity and selectivity for use as assays in human physiological samples.
+Specifically, detection limits reached the pM level and the linear response ranges were up to nM level with a correlation coefficient>0.99.
+To our best knowledge, this is the first example of using an electrochemical immunoassay for a nitrated biomarker in a physiological fluid.
+This novel approach provides a rapid, sensitive, selective, cost efficient and robust bioassay for detection of oxidative stress in pathology and for clinical applications.
+Moreover, the sandwich strategies developed in this paper can be readily used to establish effective methods targeting other nitration biomarkers.

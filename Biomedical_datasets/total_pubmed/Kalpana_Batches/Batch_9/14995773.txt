@@ -1,0 +1,3 @@
+We show that light pulses can be stopped and stored coherently, with an all-optical adiabatic and reversible pulse bandwidth compression process.
+Such a process overcomes the fundamental bandwidth-delay constraint in optics and can generate arbitrarily small group velocities for any light pulse with a given bandwidth, without any coherent or resonant light-matter interactions.
+We exhibit this process in optical resonators, where the bandwidth compression is accomplished only by small refractive-index modulations performed at moderate speeds.

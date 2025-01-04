@@ -1,0 +1,7 @@
+Arterial baroreflex assessment using vasoactive substances enables investigators to collect data pairs over a wide range of blood pressures and reflex reactions.
+These data pairs relate intervals between heartbeats or sympathetic neural activity to blood pressure values.
+In an X-Y plot the data points scatter around a sigmoidal curve.
+After fitting the parameters of a sigmoidal function to the data, the graph's characteristics represent a rather comprehensive quantitative reflex description.
+Variants of the 4-parameter Boltzmann sigmoidal equation are widely used for curve fitting.
+Unfortunately, their 'slope parameters' do not correspond to the graph's actual slope which complicates the analysis and bears the risk of misreporting.
+We propose a modified Boltzmann sigmoidal function with preserved goodness of fit whose parameters are one-to-one equivalent to the sigmoidal curve's characteristics.

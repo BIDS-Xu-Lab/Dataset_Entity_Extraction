@@ -1,0 +1,11 @@
+Clinical interventions and death in the intensive care unit (ICU) depend on complex patterns in patients' longitudinal data.
+We aim to anticipate these events earlier and more consistently so that staff can consider preemptive action.
+We use a temporal convolutional network to encode longitudinal data and a feedforward neural network to encode demographic data from 4713 ICU admissions in 2014-2018.
+For each hour of each admission, we predict events in the subsequent 1-6 hours.
+We compare performance with other models including a recurrent neural network.
+Our model performed similarly to the recurrent neural network for some events and outperformed it for others.
+This performance increase was more evident in a sensitivity analysis where the prediction timeframe was varied.
+Average positive predictive value (95% CI) was 0.786 (0.781-0.790) and 0.738 (0.732-0.743) for up- and down-titrating FiO2, 0.574 (0.519-0.625) for extubation, 0.139 (0.117-0.162) for intubation, 0.533 (0.492-0.572) for starting noradrenaline, 0.441 (0.433-0.448) for fluid challenge, and 0.315 (0.282-0.352) for death.
+Events were better predicted where their important determinants were captured in structured electronic health data, and where they occurred in homogeneous circumstances.
+We produce partial dependence plots that show our model learns clinically-plausible associations between its inputs and predictions.
+Temporal convolutional networks improve prediction of clinical events when used to represent longitudinal ICU data.

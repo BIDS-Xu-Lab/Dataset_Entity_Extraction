@@ -1,0 +1,7 @@
+A cellular phosphoprotein with an apparent molecular mass of 90 kd (p90) that forms a complex with both mutant and wild-type p53 protein has been characterized, purified, and identified.
+The protein was identified as a product of the murine double minute 2 gene (mdm-2).
+The mdm-2 gene enhances the tumorigenic potential of cells when it is overexpressed and encodes a putative transcription factor.
+To determine if mdm-2 could modulate p53 transactivation, a p53-responsive element from the muscle creatine kinase gene was employed.
+A wild-type p53-expressing plasmid enhanced the expression of the p53-responsive element when cotransfected into cells that contain no endogenous p53.
+When a cosmid expressing mdm-2 was transfected with this p53-expressing plasmid, the transactivation of the p53-responsive element was inhibited.
+Thus, a product of the mdm-2 oncogene forms a tight complex with the p53 protein, and the mdm-2 oncogene can inhibit p53-mediated transactivation.

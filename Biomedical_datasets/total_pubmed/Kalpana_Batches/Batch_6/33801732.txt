@@ -1,0 +1,9 @@
+In cattle, greenhouse gas (GHG) emissions and nutrient balance are influenced by factors such as diet composition, intake, and digestibility.
+This study evaluated CH4 emissions and surpluses of crude protein, using five simulated scenarios of supplementation in small-scale dairy systems (SSDS).
+In addition, two pasture managements (cut-and-carry versus grazing) and two varieties of legumes (red clover vs. white clover) were considered.
+The diets were tested considering similar milk yield and chemical composition; CH4 emission was estimated using Tier-2 methodology from the Intergovernmental Panel on Climate Change (IPCC), and the data were analyzed in a completely randomized 5 × 2 × 2 factorial design.
+Differences (p < 0.05) were found in predicted CH4 emissions per kg of milk produced (g kg-1 FCM 3.5%).
+The lowest predicted CH4 emissions were found for S3 and S4 as well as for pastures containing white clover.
+Lower dietary surpluses of CP (p < 0.05) were observed for the control diet (1320 g CP/d), followed by S5 (1793 g CP/d), compared with S2 (2175 g CP/d), as well as in cut-and-carry management with red clover.
+A significant correlation (p < 0.001) was observed between dry matter intake and CH4 emissions (g-1 and per kg of milk produced).
+It is concluded that the environmental impact of formulating diets from local inputs (S3 and S4) can be reduced by making them more efficient in terms of methane kg-1 of milk in SSDS.

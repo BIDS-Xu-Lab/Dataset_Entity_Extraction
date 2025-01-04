@@ -1,0 +1,12 @@
+The U.S. Department of Veterans Affairs provides transitional residential treatment to homeless veterans through three types of programs: VA-staffed Domiciliary care, and two types of community-based treatment (one funded through locally managed contracts and the other through national grants).
+This study compared treatment process and outcomes in these three programs and also sought to identify differences in outcome between dually diagnosed veterans, veterans with substance abuse problems or psychiatric problems alone, and those with no psychiatric diagnoses.
+Altogether, 1,338 veterans admitted to the 3 types of program were recruited to participate in a prospective naturalistic study which evaluated housing, clinical and community adjustment outcomes during the year following discharge.
+Data on 1,003 veterans for whom psychiatric diagnostic, social climate and length of stay data were available were used to compare participants in the three program types at baseline.
+Regression models were used to compare outcomes across program and diagnostic types net of baseline differences between study participants, and of differences in social climate and length of stay.
+The overall follow-up rate across all time points was 72%.
+Significant differences across programs were observed on only 2 baseline measures as well as on several baseline values of the outcome measures, length of stay and a measure of social climate.
+Adjusting for veteran baseline differences alone there were no differences in outcomes by program after correction for multiple comparisons.
+Dually diagnosed veterans had poorer mental health and overall quality of life outcomes.
+Longer length of stay and more positive social climate were associated with superior outcomes on several measures.
+The adjusted mean estimate of the proportion of veterans housed at 12 months follow-up was 78%, similar to published outcomes for supported housing.
+Length of stay, rather than program funding configuration or diagnostic group, was the strongest predictor of outcomes in time-limited residential treatment programs in which 1-year housing was similar to those in direct-placement supported housing programs.

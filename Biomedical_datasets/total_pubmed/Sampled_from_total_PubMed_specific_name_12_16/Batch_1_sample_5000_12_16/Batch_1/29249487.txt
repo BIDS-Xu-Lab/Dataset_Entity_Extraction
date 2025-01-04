@@ -1,0 +1,12 @@
+The association of body mass index (BMI) with survival after lung transplantation remains controversial, owing to conflicting evidence in the literature.
+Previous reports have used traditional BMI categories, included patients who underwent transplantation before implementation of the lung allocation score (LAS), or were limited by single-center experiences.
+Here we evaluated the association of individual BMI units with short-term and long-term mortality in a large national database following implementation of the LAS.
+The Scientific Registry of Transplant Recipients database was used to collect data for 17,233 adult lung transplantations performed between May 2005 and June 2016.
+The primary outcome was all-cause mortality at 90 days and 1 year posttransplantation.
+Logistic regression modeling was used to independently predict mortality per BMI unit, adjusting for donor and recipient factors.
+BMI was an independent predictor of mortality at both 90 days and 1 year.
+[CI], 0.047-0.049), with increased odds of mortality at BMI ≤20 and ≥28.
+At 1 year, a BMI of 26 was associated with the lowest predicted probability of death (0.12; 95% CI, 0.11-0.13), with increased odds of mortality at BMI ≤24 and ≥28.
+Each individual BMI unit has a quantifiable effect on posttransplantation survival, and the patterns of effect do not fit into the predefined BMI categories.
+The mortality risk associated with BMI should be considered by transplant centers when making listing decisions and by regulatory bodies for estimating expected outcomes.
+Y: Scientific Registry of Transplant Recipients database (No need to annotate, just for notice).

@@ -1,0 +1,9 @@
+Background and Rational: Obstructive Sleep Apnea (OSA) is a common disorder, affecting almost 10% of adults, but very underdiagnosed.
+This is largely due to limited access to overnight sleep testing using polysomnography (PSG).
+Our goal was to distinguish OSA from healthy individual using a simple maneuver during wakefulness in combination with machine learning methods.
+Methods: Participants have undergone an overnight PSG to determine their ground truth OSA severity.
+Separately, they were asked to breathe through a nasal mask or a mouth piece through which negative pressure (NP) was applied, during wakefulness.
+Airflow waveforms were acquired and several features were extracted and used to train various classifiers to predict OSA.
+Results and Discussion: The performance of each classifier and experimental setup was calculated.
+The best results were obtained using Random Forest classifier for distinguishing OSA from healthy individuals with a very good area under the curve of 0.80.
+To the best of our knowledge, this is the first study to deploy machine learning and NP with promising path to diagnose OSA during wakefulness.

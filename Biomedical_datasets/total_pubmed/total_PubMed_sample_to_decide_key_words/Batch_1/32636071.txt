@@ -1,0 +1,12 @@
+Demand is increasing for polyetheretherketone (PEEK) as a fixed dental prosthesis core material.
+However, information is lacking about how the precision of these restorations is affected by the fabrication procedures.
+The purpose of this in vitro study was to evaluate the influence of different fabrication techniques on the marginal precision of PEEK single-crown copings.
+A stainless-steel master die was designed to simulate a prepared mandibular second molar to receive ceramic crowns.
+Thirty PEEK copings were fabricated and divided into 3 groups (n=10) according to the fabrication technique: milled from a prefabricated PEEK blank by using a computer-aided design and computer-aided manufacturing (CAD-CAM) system (PC); pressed from prefabricated PEEK pellets (PP); and pressed from PEEK granules (PG); in addition, 3-mol yttria-stabilized tetragonal zirconia polycrystal (3Y-TZP) copings (n=10) were produced by using the same CAD-CAM system and served as a control.
+Marginal precision measurements (in μm) were recorded at 4 reference points on each coping by using a digital microscope.
+The data obtained were statistically analyzed by using 1-way ANOVA and the pair-wise Tukey (HSD) test to study the difference between group mean values (α=.05).
+The overall mean ±standard deviation marginal gap at the marginal opening for the copings was 78 ±10 μm for PEEK granules copings, 72 ±9 μm for PEEK pellet copings, 45 ±6 μm for PEEK CAD-CAM copings, and 43 ±1 μm for the 3Y-TZP CAD-CAM control.
+A statistically significant difference was found between the milled and pressed copings as indicated by the ANOVA test (P<.001).
+The pair-wise Tukey honestly significant difference (HSD) test showed a nonsignificant difference (P>.05) between milled 3Y-TZP and milled PEEK copings; moreover, no significant difference was observed between the PEEK copings pressed from pellets or granules (P>.05).
+The marginal precision of PEEK CAD-CAM-fabricated copings showed significantly lower mean marginal gap values than PEEK pressed copings.
+The marginal gap mean values recorded were all within a clinically acceptable range (120 μm).

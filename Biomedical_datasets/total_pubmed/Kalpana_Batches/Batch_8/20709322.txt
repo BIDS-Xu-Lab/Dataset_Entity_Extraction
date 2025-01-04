@@ -1,0 +1,12 @@
+A new solvent extraction system was developed for extraction of PFCs from food.
+The extraction is carried out with 75:25 (v/v) tetrahydrofuran:water, a solvent mixture that provides an appropriate balance of hydrogen bonding, dispersion and dipole-dipole interactions to efficiently extract PFCs with chains containing 4-14 carbon atoms from foods.
+This mixture provided recoveries above 85% from foods including vegetables, fruits, fish, meat and bread; and above 75% from cheese.
+Clean-up with a weak anion exchange resin and Envi-carb SPE, which were coupled in line for simplicity, was found to minimize matrix effects (viz. enhancement or suppression of electrospray ionization).
+The target analytes (PFCs) were resolved on a perfluorooctyl phase column that proved effective in separating mass interferences for perfluorooctane sulfonate (PFOS) in fish and meat samples.
+The mass spectrometer was operated in the negative electrospray ionization mode and used to record two transitions per analyte and one per mass-labeled method internal standard.
+The target PFCs were quantified from solvent based calibration curves.
+The limits of detection (LODs) were as low as 1-5 pg analyte g(-1) food; by exception, those for C(4) and C(5) PFCs were somewhat higher (25-30 pg g(-1)) owing to their less favourable mass response.
+To the best of our knowledge these are among the best LODs for PFCs in foods reported to date.
+The analysis of a variety of foods revealed contamination with PFCs at levels from 4.5 to 75 pg g(-1) in 25% of samples (fish and packaged spinach).
+C(10)-C(14) PFCs were found in fish, which testifies to the need to control long-chain PFCs in this type of food.
+The proposed method is a useful tool for the development of a large-scale database for the presence of PFCs in foods.

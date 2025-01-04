@@ -1,0 +1,16 @@
+The coronavirus SARS-CoV-2 is highly contagious.
+Hydroxychloroquine (HCQ) has in vitro activity against SARS-CoV-2.
+The FDA authorized emergency use of HCQ against COVID-19.
+This clinical trial received ethical approval on May 15, 2020, operationalized in June to evaluate a low prophylaxis dose of HCQ (200mg BID) in household contacts of COVID-19-positive patients without physical contact between investigators and participants.
+It represents the first report of the FDA approved 6-lead EKGs with a smartphone KardiaMobile® 6L application.
+To reach a sample size of 170, household members were contacted by telephone, emailed consent forms with electronic signature capability, and randomized 2:1 to HCQ or observation for 10 days with follow-up of 14 days.
+Home saliva PCR tests recorded COVID status on days 1 and 14.
+Symptoms and 6-lead EKGs were obtained daily.
+Fifty-one participants were randomized with 42 evaluable at day 14.
+Remote monitoring of 407 EKGs revealed no QTc prolongation or other ECG changes in either group.
+At time of consent, no participants were symptomatic or COVID+.
+On days 1 and 14, COVID tests were positive in 4 and 2 in the HCQ group and 4 and 0 in the observation group.
+There were no deaths or hospitalizations.
+A clinical trial without personal contact, rapidly initiated and operationalized to exclude cardiac toxicity using daily remote 6-lead EKG monitoring, is feasible.
+Of 407 EKGs from 42 participants, there was no evidence of cardiac toxicity.
+Clinicaltrials.gov : NCT04652648 registration date: December 3, 2020.

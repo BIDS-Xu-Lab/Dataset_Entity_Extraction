@@ -1,0 +1,17 @@
+About one-fifth of patients with COVID-19 need to be hospitalized.
+Predicting factors affecting the hospital length of stay (LOS) can be effective in prioritizing patients, planning for services, and preventing the increase in LOS and death of patients.
+The present study aimed to identify the factors that predict LOS and mortality in COVID-19 patients in a retrospective cohort study.
+A total of 27,859 patients were admitted to 22 hospitals from February 20, 2020 to June 21, 2021.
+The data collected from 12,454 patients were screened according to the inclusion and exclusion criteria.
+The data were captured from the MCMC (Medical Care Monitoring Center) database.
+The study tracked patients until their hospital discharge or death.
+Hospital LOS and mortality were assessed as the study outcomes.
+As the results revealed, 50.8% of patients were male and 49.2% were female.
+The mean hospital LOS of the discharged patients was 4.94.
+Yet, 9.1% of the patients (n = 1133) died.
+Among the predictors of mortality and long hospital LOS were the age above 60, admission to the ICU, coughs, respiratory distress, intubation, oxygen level less than 93%, cigarette and drug abuse, and a history of chronic diseases.
+Masculinity, gastrointestinal symptoms, and cancer were the effective variables in mortality, and positive CT was a factor significantly affecting the hospital LOS.
+Paying special attention to high-risk patients and modifiable risk factors such as heart disease, liver disease, and other chronic diseases can diminish the complications and mortality rate of COVID-19.
+Providing training, especially for those who care for patients experiencing respiratory distress such as nurses and operating room personnel can improve the qualifications and skills of medical staff.
+Also, ensuring the availability of sufficient supply of medical equipment is strongly recommended.
+Y, MCMC (Medical Care Monitoring Center) database (No need to annotate, just for notice).

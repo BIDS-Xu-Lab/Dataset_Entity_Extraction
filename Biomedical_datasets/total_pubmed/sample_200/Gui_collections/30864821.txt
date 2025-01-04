@@ -1,0 +1,8 @@
+To evaluate the influence of cone beam CT (CBCT) volume orientation on alveolar bone measurements for dental implant planning using CBCT in patients with different facial profiles.
+74 CBCT volumes were selected from a database and classified according to the facial profile of the patient.
+Height and width measurements of the alveolar bone were carried out with the volume of the mandible in two different orientations: occlusal plane and mandibular base parallel to the horizontal plane.
+The data were subjected to the mixed model methodology for repeated measures, through the PROC MIXED procedure.
+Multiple comparisons were performed by Tukey Kramer test (α = 0.05).
+Alveolar bone width was significantly greater when the CBCT volume was oriented with the mandibular base parallel to the horizontal plane, for all facial profiles (p ≤ 0.05).
+Alveolar bone height was significantly higher (p ≤ 0.05) for dolichofacial individuals when compared to that of mesofacial and brachyfacial individuals, who did not differ significantly between each other (p > 0.05), regardless of the CBCT volume orientations used in this study.
+CBCT-based alveolar bone width is increased when the image volume is oriented with the mandibular base parallel to the horizontal plane and dolichofacial individuals present greater alveolar bone height.

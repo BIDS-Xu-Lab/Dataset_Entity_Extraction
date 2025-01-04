@@ -1,0 +1,19 @@
+Conventional wisdom suggests that for small data sets having substantial skew, one should attempt to determine the correct distributional form, if possible, and apply statistical methods appropriate for that distribution.
+Transformations such as the log or square root are often used.
+If an appropriate distributional form cannot be determined, a distribution-free procedure such as a rank transformation or a randomization test procedure can be used.
+To better appreciate the effect of such alternatives on both the type I error and power of detecting differences between treatment groups, simulation studies were conducted for responses having specific gamma G(r, theta) and log-normal ln(M, V) distributions.
+The gamma and log-normal distributions were selected so that they had the same first two moments.
+A simple two group design was assumed.
+The reference group always had an average disease level mu = 3.0 (mu = r theta for gamma, mu = M for log-normal), and the treatment group always had means whose reductions ranged from 0 per cent to 50 per cent.
+The effect of distributional type and the degree of skewness was investigated by varying the population parameter values.
+Six statistical test procedures were compared for the gamma distributions.
+All test procedures were robust relative to the type I error.
+The UMP test based on a ratio of sample means produced the greatest power for all combinations of n, r and RT.
+The power losses associated with the randomization test, the t-test on original scale, and the t-test on the square root scale were very small, (3 per cent to 6 per cent in absolute value) for n = 10 and 15, and less than 2 per cent for group sizes of 25 or more.
+The power loss associated with the t-test on the log scale was much larger, ranging from 5 per cent to 10 per cent smaller power than the t-test on original scale.
+The Wilcoxon rank test produced similar results to that of the LOG t-test for small samples.
+The power for the shifted LOG (X+c) test increased monotonically to the asymptotic value of the ORIG t-test.
+The same five test procedures based on differences in sample means were then compared for the corresponding log-normal distributions.
+The UMP test, that is, LOG(X), produced the highest power.
+There was very little power lost for the SQRT t-test.
+The loss in power varied between 2 per cent and 5 per cent for the RANK test.(ABSTRACT TRUNCATED AT 400 WORDS)

@@ -1,0 +1,7 @@
+After acclimating individually housed male rats to temperatures of either 24.5 +/- 0.1 or 29.2 +/- 0.1 degrees C for 14 days, randomly paired animals from each group were acutely exposed (3 h) in series to experimental temperatures between 18.0 and 34.5 degrees C in a controlled environment room.
+Relative humidity of 50 +/- 0.3% and a 12-h light-dark photoperiod (light from 0900 to 2100 h) were maintained.
+Metabolic rate (MR) and evaporative water loss (EWL) were-measured using an open-flow system; thermistors were used to measure the rectal (Tre) and tail skin (Tts) temperatures.
+MR was relatively constant over a temperature range of 22.2 to 27.0 degrees C for rats acclimated to 24.5 degrees C and 20.0 to 29.2 degrees C for rats acclimated to 29.2 degrees C. Above and below these ranges, MR for both groups was significantly (P less than 0.05) elevated.
+At their respective acclimation temperatures, the absolute Tre and Tts of 29.2 degrees C rats were maintained at an elevated level compared with 24.5 degrees C rats.
+Although EWL for both groups was relatively constant between 18.0 and 27.0 degrees C, 24.5 degrees C rats displayed higher EWL changes at most environmental temperatures above 27.0 degrees C. At 34.5 degrees C, 29.2 degrees C rats dissipated 26% more metabolic heat by evaporation compared with 24.5 degrees C rats.
+These data suggest that acclimation temperatures of rats affected the thermoneutral zone and alter the set-point temperature around which thermal responses are regulated.

@@ -1,0 +1,6 @@
+Multiferroic materials have attracted great interest because of their underlying new science and promising applications in data storage and mutual control devices.
+However, they are still very rare and highly imperative to be developed.
+Here, we report an organic-inorganic hybrid perovskite trimethylchloromethylammonium chromium chloride (TMCM-CrCl3), showing the coexistence of magnetic and electric orderings.
+It displays a paraelectric-ferroelectric phase transition at 397 K with an Aizu notation of 6/mFm, and spin-canted antiferromagnetic ordering with a Néel temperature of 4.8 K. The ferroelectricity originates from the orientational ordering of TMCM cations, and the magnetism is from the [CrCl3]- framework.
+Remarkably, TMCM-CrCl3 is the first experimentally confirmed divalent Cr2+-based multiferroic material as far as we know.
+A new category of hybrid multiferroic materials is pointed out in this work, and more Cr2+-based multiferroic materials will be expectedly developed in the future.

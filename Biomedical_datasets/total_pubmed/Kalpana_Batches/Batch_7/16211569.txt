@@ -1,0 +1,13 @@
+In order to modulate the mechanical properties of gelatin, we previously developed a biodegradable composite composed by tricalcium phosphate and glutaraldehyde crosslinking gelatin (GTG) feasible for surgical manipulation.
+In this study, we evaluated the in vivo applications of GTG conduit for peripheral nerve repair.
+The effect of sciatic nerve reconstruction was compared between resorbable permeable GTG conduits and durable impermeable silicone tubes.
+Traditional methods of assessing nerve recovery following peripheral nerve repair including histomorphometric and electrophysiologic features were conducted in our study.
+In addition, autotomy score and sciatic function index (SFI) in walking tract analysis were used as additional parameters for assessing the return of nerve function.
+Twenty-four weeks after sciatic nerve repair, the GTG conduits were harvested.
+Microscopically, regeneration of nerves was observed in the cross-section at the mid portion of all implanted GTG conduits.
+The cross-sectional area of regenerated nerve of the GTG group was significant larger than that of the silicone group.
+In the compound muscle action potentials (CMAP), the mean recovery index of CMAP amplitude was 0.24 +/- 0.02 for the silicone group, 0.41 +/- 0.07 for the GTG group.
+The mean SFI increased with time in the GTG group during the evaluation period until 24 weeks.
+Walking tract analysis showed a higher SFI score in the GTG group at both 12 and 24 weeks.
+The difference reached a significant level at 24 weeks.
+Thus, the histomorphometric, electrophysiologic, and functional assessments demonstrate that GTG can be a candidate for peripheral nerve repair.

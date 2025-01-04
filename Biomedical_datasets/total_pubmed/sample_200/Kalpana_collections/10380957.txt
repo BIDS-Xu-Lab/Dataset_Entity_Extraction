@@ -1,0 +1,6 @@
+The biological basis for the phenotype of delayed Wallerian degeneration in the WLDs mouse has yet to be elucidated, although it is known that the characteristic is intrinsic to the axon.
+Previous data suggested that nerves from the WLD(S) are relatively resistant to proteolytic degradation.
+We investigated the time-course of neurofilament degradation in response to addition of the calcium-activated protease m-calpain, comparing nerves from WLD(S) and wild-type mice.
+During 10 min of in vitro proteolysis, neurofilaments from the WLD(S) were consistently slower to degrade than were neurofilaments from wild-type mice.
+Direct comparisons were performed on Western blots, with statistically significant differences in neurofilament immunoreactivity at 2, 4, and 6 min of reaction time (p < 0.01).
+These findings suggest that the mutation leading to the WLD(S) phenotype may affect the proteolytic interaction between calpain and neurofilaments.

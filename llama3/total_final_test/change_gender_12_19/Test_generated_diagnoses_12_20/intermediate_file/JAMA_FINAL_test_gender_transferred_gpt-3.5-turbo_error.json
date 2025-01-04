@@ -1,0 +1,59 @@
+[
+    {
+        "id": "JAMA_FINAL7",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 62-year-old female was referred for evaluation of a painless right lower-eyelid lesion noted during routine glaucoma follow-up. The lesion had been present for 3 years with slow, gradual enlargement. The patient denied any associated symptoms. She was a former smoker and had no history of skin cancer or immunosuppression. The remainder of her medical history was noncontributory. Inspection of the right lower eyelid revealed a cystic-appearing nodule that transilluminated and had a few overlying telangiectasias. The cystic portion was continuous with a deeper, smooth subcutaneous component that was well defined, firm, and nonmobile, with a total lesion length of 1 cm (Figure 1A). There was no madarosis, eyelid margin effacement or preauricular lymphadenopathy. Although no overt features of malignancy were present, the deeper component was atypical for a hidrocystoma and an excisional biopsy was performed. Histopathologic evaluation showed a neoplasm composed of low-grade round nuclei growing in a micropapillary pattern within pools of extracellular mucin (Figure 1B). There was tumor present at the margin. Immunostains were positive for estrogen receptor and progesterone receptor. Variable staining for INSM1, a sensitive nuclear stain for neuroendocrine differentiation, and focal staining for synaptophysin, another neuroendocrine marker, were also seen. This immunophenotype is consistent with a primary tumor derived from endocrine mucin-producing sweat gland carcinoma or a metastatic mucinous carcinoma of breast origin.\n### OUTPUT:\n    ",
+        "true": "Mucinous carcinoma of the eyelid",
+        "predict": "1. Endocrine mucin-producing sweat gland carcinoma",
+        "topic": "['Dermatology', 'External Eye Disease', 'Facial Plastic Surgery', 'Oculoplastic Surgery', 'Oncology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL302",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 3-year-old girl presented with a vascular lesion involving the left orbit and face. She had a pink macule on her left cheek at birth, which became raised and discolored around age 3 to 4 weeks. She was diagnosed with a capillary hemangioma, and propranolol was started at age 1 month with progression despite dosage increases. Topical timolol was tried without improvement; oral prednisolone decreased the size of the lesion, but was poorly tolerated and discontinued. An ophthalmic evaluation at an outside hospital was concerning for amblyopia because of anisohypermetropia, greater on the left, and a left esotropia and hypertropia. A magnetic resonance image revealed an orbital mass surrounding the left lateral rectus muscle with mass effect on the globe and extension into the eyelid, pterygopalatine fossa, and cheek. Given the risk of amblyopia, the patient underwent 2 embolization and debulking procedures of the orbital and cheek components of the lesion, which were positive for glucose transporter 1 on pathology. However, the esotropia abruptly worsened after the second debulking. At age 3 years, she presented to the clinic with a persistent cheek and orbit lesion, dense amblyopia, large-angle monocular esotropia and hypertropia, and proptosis of the left eye. The left extraocular muscle showed inability to abduct past midline (Figure 1A). A repeated magnetic resonance image showed persistent orbital involvement causing medial displacement of the lateral rectus muscle and mass effect on the globe (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Infantile hemangioma",
+        "predict": "1. Rhabdomyosarcoma",
+        "topic": "['Dermatology', 'Pediatrics', 'Cutaneous Vascular Malformations', 'External Eye Disease', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL481",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA boy in his midteens presented to an ophthalmology practice with his parents reporting worsening blurry vision on the right side for the past 2 weeks. He had a history of migraine headaches, for which he took nonsteroidal anti-inflammatory drugs for symptomatic relief. At his examination, he reported feeling tired but denied other medical problems. On examination, his visual acuity was 20/20 OU. Intraocular pressure was 15 mm Hg OU, extraocular motility was normal, and findings of the anterior segment examination were normal. There was no afferent pupillary defect, and dilated fundus examination revealed healthy-appearing optic nerves and normal retinas. Automated perimetry demonstrated a right-sided homonymous hemianopia. Magnetic resonance imaging of the brain performed the same day revealed subacute infarction of portions of the left occipital, temporal, and parietal lobes (Figure).\n### OUTPUT:\n    ",
+        "true": "Moyamoya disease",
+        "predict": "1. Acute Ischemic Stroke",
+        "topic": "['Headache', 'Neurology', 'Clinical Challenge', 'Ophthalmology', 'Pediatrics', 'Adolescent Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

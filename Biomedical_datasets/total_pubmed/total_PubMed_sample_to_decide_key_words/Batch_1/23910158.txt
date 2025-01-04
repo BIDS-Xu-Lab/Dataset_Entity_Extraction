@@ -1,0 +1,12 @@
+The aim of this study was to detect the levels of CD34(+)/Flk-1(+) endothelial progenitor cells (EPCs) in renal cell carcinoma (RCC)-adjacent tissues and explore the correlation of RCC-adjacent tissues EPCs and tumor invasion.
+An orthotopic renal tumor model was successfully established.
+At days 7, 12, 17 and 21, eight mice were put to death respectively.
+Tumor diameters were measured and RCC-adjacent tissues were collected.
+The percentage of EPCs within the kidney mononuclear cell population was detected.
+The expression levels of Stromal cell-derived factor-1 (SDF-1), vascular endothelial growth factor (VEGF) and their receptors CXCR4, Flk-1 mRNA and protein were probed respectively.
+And then, mean microvascular density (MVD) was examined.
+EPC numbers in RCC-adjacent tissues were significantly higher than those in control groups.
+The ratios of EPCs were increased gradually, and so were tumor diameters.
+The levels of SDF-1 and VEGF were also increased gradually, but significantly reduced compared with control group at each time point.
+In addition, CXCR4 and Flk-1 expression were decreased gradually.
+Our investigation suggested that EPCs in RCC-adjacent tissues play an important role in early stage RCC invasion, involving the promotion on angiogenesis through releasing several angiogenic factors.

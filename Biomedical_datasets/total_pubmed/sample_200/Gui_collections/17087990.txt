@@ -1,0 +1,9 @@
+Are surfaces' colours judged from weighted averages of the light that they reflect to the eyes and the colour contrast at their borders?
+To find out we asked subjects to set the colour and luminance of test disks to match reference disks, on various backgrounds, and analysed the variability in their settings.
+Most of the variability between repeated settings was in luminance.
+The standard deviations in the set colour were smallest when the disk and background were the same colour, irrespective of the colour itself.
+Matches were equally precise for greenish or reddish disks on a grey background, as for grey disks on a greenish or reddish background.
+The precision was less dependent on the colour contrast at the disks' borders when the backgrounds were more complex and when there was a large luminance contrast at the disks' borders.
+Subjects were less precise when different colours surrounded the two disks.
+These findings are consistent with the perceived colour at any position being a weighted average of the local cone excitation ratio and the change in the cone excitation ratio at the borders of the surface in question.
+However, the involved weights must be variable and depend systematically on parameters such as the luminance contrast at the surface's borders and other chromatic contrasts within the scene.

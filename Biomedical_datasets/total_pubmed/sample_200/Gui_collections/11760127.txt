@@ -1,0 +1,6 @@
+A new method is described for the esterification of carboxyl groups in proteins by reaction of the lyophilized protein in vacuo with gaseous alcohol and HCI catalyst.
+Carboxyl groups are rapidly esterified with no protein degradation.
+13C-Methyl or 13C-ethyl esters of the alpha-, gamma- and delta-carboxyl groups could be distinguished by the distinct chemical shifts of their resonances.
+Within the class of gamma- or delta-esters, the chemical shifts have little variation; however, the chemical shift of a C-terminal esterified alpha-carboxyl group shows a strong dependence on the nature of the C-terminal amino acid and sequence.
+Iodomethane reacts with deprotonated carboxyl groups in lyophilized proteins to form methyl esters, but unlike the reaction with gaseous methanol/HCI, it does not selectively methylate carboxyl groups.
+The procedure permits the cost-effective incorporation of isotopic labels and provides a new approach using 13C-NMR spectroscopy for determining the number of different C-termini present in a protein preparation.

@@ -1,0 +1,9 @@
+Compared with non-Hispanic Whites (NHW), racial-ethnic minorities bear a disproportionate burden of stroke and receive fewer evidence-based stroke care processes and treatments.
+Since 2015, mechanical thrombectomy (MT) has become standard of care for acute ischemic stroke (AIS) patients with proximal anterior circulation large vessel occlusion (LVO).
+Our objectives were to: assess recent trends in nationwide MT utilization among patients with AIS; determine if there were racial differences; and identify what factors were associated with such differences.
+We performed a retrospective cohort study using nationally representative data of a non-institutionalized population sample from 2006 to 2014 obtained from the Nationwide Inpatient Sample (NIS).
+We identified a total of 889,309 observations of AIS, of which there were 5,256 MT observations.
+In the fully adjusted model, rate of thrombectomy utilization was significantly lower in African Americans (AA) (OR .67, CI .58-.76, P<.001) compared with NHW and Hispanics (OR .94, CI .78-1.13, P=.5).
+We found a significant disparity in MT utilization for AA compared with NHW and Hispanics.
+More work is needed to understand the drivers of this racial disparity in stroke treatment.
+Y Nationwide Inpatient Sample (NIS) (No need to annotate, just for notice).

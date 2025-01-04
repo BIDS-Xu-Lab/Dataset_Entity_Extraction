@@ -1,0 +1,2130 @@
+[
+    {
+        "id": "JAMA_FINAL2",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA female patient was evaluated by the dermatology inpatient consult service. She reported a 5-week history of a skin lesion on the right anterior thigh with intermittent itching and mild tenderness to palpation. There was no preceding trauma to the area. The lesion was stable in size. She denied systemic symptoms of fever, chills, cough, shortness of breath, and dyspnea on exertion. She was unhoused and sleeping on the streets with her dog prior to hospitalization. Physical examination was remarkable for a 5-cm erythematous plaque studded with papules and pustules (Figure 1A). No pus or granules could be expressed with pressure. The patient had no similar skin lesions elsewhere on the body. A 6-mm punch biopsy was obtained from the lesion. One half was sent for routine histopathology with special stains, and the other half was submitted for bacterial, fungal, and mycobacterial culture (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Deep dermatophytosis",
+        "predict": "**Step 1:** Bacterial Folliculitis",
+        "topic": "['Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL3",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 74-year-old man with a history of breast cancer, now in remission, presented for evaluation of a conjunctival lesion of the right eye. Per his history, the lesion was noted over 18 years in the past by his optometrist. He reported no noticeable growth or changes to the lesion but was sent for evaluation with ocular oncology. Visual acuity with correction was 20/40 in the right eye and 20/30 in the left eye. Intraocular pressure was 14 mm Hg in the right eye and 16 mm Hg in the left eye. Anterior segment examination results were within normal limits for the left eye, and dilated fundus examination results for both eyes did not reveal concerning pathology. The conjunctiva of the right eye was notable for a small elevated pigmented lesion measuring approximately 2 × 2 mm with sentinel vessels (Figure 1A). Fundus photographs and autofluorescence (Figure 1B) as well as optical coherence tomography (OCT) were normal bilaterally. An anterior-segment OCT was performed and revealed a small elevated subepithelial lesion with shadowing vs possible scleral extension (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Ciliary body melanoma with extrascleral extension masquerading as a conjunctival nevus",
+        "predict": "Step 1: Conjunctival Melanoma",
+        "topic": "['External Eye Disease', 'Ophthalmology', 'Breast Cancer', \"Women's Health\", 'Oncology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL8",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 40s presented with a 10-year history of pruritic lesions on the vulva and buttock. She was diagnosed with eczema and treated at the local clinic with little improvement. She had no relevant medical history and no family history of similar skin problems. Physical examination revealed scattered, well-defined, annular gray hyperkeratotic plaques with an atrophic center and a slightly elevated edge on the vulva, buttock, groin, and intergluteal cleft (Figure 1A). There was no inguinal adenopathy, and results of routine blood work, including blood biochemistry, syphilis serologies, and HIV testing, were normal or negative. We took 2 specimens from the vulva and buttock, respectively, for histopathological examination (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Genital porokeratosis",
+        "predict": "1. Lichen sclerosus",
+        "topic": "['Dermatology', 'Urology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL9",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 47-year-old woman presented to our clinic with a sudden decrease in vision in the right eye. One month prior, she had presented to the emergency department with binocular diplopia, bilateral cranial nerve 6 palsies, and an undifferentiated pontine mass on brain magnetic resonance imaging. Broad serologic workup results were negative, except for a positive syphilis total antibody with a nonreactive rapid plasma reagin test. Lumbar puncture with flow cytometry and cerebrospinal fluid venereal disease research laboratory test (CSF VDRL) result was also negative. The patient reported a history of syphilis treated with intramuscular penicillin 9 years prior. She was treated with systemic corticosteroids and discharged home on a steroid taper. On our examination, her visual acuity was count fingers in the right eye and 20/20 in the left. She had a right afferent pupillary defect and intraocular pressures were 12 in the right eye and 11 in the left. Anterior segment examination was normal. Posterior examination of the right eye revealed 3+ vitreous cell, 2+ vitreous haze, and a large optic nerve head mass with optic disc hyperemia, scattered dot hemorrhages, and a subtle placoid lesion in the posterior pole (Figure 1A). Optical coherence tomography of the optic nerve demonstrated a large spherical mass protruding out of the optic nerve head (Figure 1B) and granular disruption of the ellipsoid zone in adjacent peripapillary retina.\n### OUTPUT:\n    ",
+        "true": "Syphilitic gumma of optic nerve head and presumed neurosyphilis",
+        "predict": "Step 1: Syphilitic uveitis",
+        "topic": "['Infectious Diseases', 'Neuro-ophthalmology', 'Neurology', 'Sexually Transmitted Infections', 'LGBTQIA Medicine']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL11",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 11-year-old girl presented to our department with progressive unilateral skin hardening on her right thigh and buttock for 7 years. Recently, the motion of her right limb joint was slightly limited. She was born to healthy parents and did not have any medical disease. On physical examination, there was an ill-defined, stony-hard plaque involving her right thigh above the patella extending to her right buttocks with loss of skin elasticity. The affected skin was associated with mild hypertrichosis and hyperpigmentation (Figure 1A). Laboratory tests revealed normal results for routine blood tests, autoantibodies, immunoglobulins, C-reactive protein, and erythrocyte sedimentation rate. Magnetic resonance imaging of the right thigh demonstrated slight thickening of subcutaneous tissue and T2 signal abnormality (Figure 1B). A skin biopsy was taken from the affected thigh for histopathological examination and alcian blue staining.\n### OUTPUT:\n    ",
+        "true": "Segmental stiff skin syndrome",
+        "predict": "1. Localized scleroderma (morphea)",
+        "topic": "['Dermatology', 'Connective Tissue Disease of the Skin', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL23",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 50s underwent clinical assessment for a 4-month history of recurrent palpitations, fatigue, and progressive exertion dyspnea. She had no history of cardiac disease, and there was no family history of heart disease or sudden death. Physical examination revealed an irregular pulse and a systolic murmur at the heart apex. Holter monitoring and 12-lead electrocardiogram (ECG) recordings documented irregular narrow-QRS tachycardia in an incessant, repetitive fashion with heart rates up to 180 beats per minute and occasional short runs of wide-QRS tachycardia. Transthoracic echocardiogram showed a dilated and diffusely hypokinetic left ventricle (ejection fraction, 30%) associated with moderate to severe functional mitral regurgitation. Blood test results were within normal limits, including thyroid function, C-reactive protein, and myocardial enzymes. The patient was hospitalized, and medical therapy was initiated, including ACE inhibitors, mineralocorticoid receptor antagonists, β-blockers, and diuretics. Coronary angiography revealed no significant coronary stenoses. A representative 12-lead ECG of the arrhythmia is shown in Figure 1.\n### OUTPUT:\n    ",
+        "true": "Dual atrioventricular nodal nonreentrant tachycardia",
+        "predict": "Step 1: Dilated Cardiomyopathy",
+        "topic": "['Cardiology', 'Rhythm Disorders', 'Heart Failure']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL30",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 30s presented with progressive, multiple itchy erythematous to violaceous papules and plaques localized to the left shin for more than 10 years (Figure, A and B). On close inspection, milia and a few erosions with partially detached epidermis were identified. There were no abnormalities of the mucous membranes, nails, hair, or teeth. No extracutaneous involvement was observed.\n### OUTPUT:\n    ",
+        "true": "Epidermolysis bullosa pruriginosa (EBP)",
+        "predict": "**Step 1: Lichen Planus**",
+        "topic": "['Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL31",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 13-year-old girl with a history of sports-related blunt trauma to the left eye was referred for evaluation of an asymptomatic, pigmented iris lesion in the left eye. On examination, her best-corrected visual acuity was 20/20 OU, and intraocular pressures were normal in both eyes. Results of slitlamp examination of the right eye were unremarkable. Slitlamp examination of the left eye revealed a round, pigmented lesion measuring 3 × 3 mm in basal dimension and with gravitational shifting within the anterior chamber fluid with patient head tilt (Video). There was no corneal guttatae or edema. Anterior segment optical coherence tomography depicted the lesion in the anterior chamber angle abutting the corneal endothelium and resting on the iris stroma with no internal fluid level and no solid component. Ultrasound biomicroscopy confirmed the lesion to be cystic with a thickness of 1.6 mm. Dilated fundus examination revealed normal findings in both eyes.\n### OUTPUT:\n    ",
+        "true": "Free-floating iris pigment epithelium cyst",
+        "predict": "Step 1: Iris Melanoma",
+        "topic": "['Adolescent Medicine', 'Ophthalmology', 'Sports Medicine', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL32",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA male patient in his early 50s presented with multiple (approximately 10) bluish, partially keratotic papules and nodules on the lower legs (Figure, A). Since the age of 24 years, the lesions had been growing very slowly in number and size and had been bleeding occasionally after a trauma. The patient used a wheelchair due to a right-sided hemiparesis and hemianopsia caused by an intracranial hemorrhage. At the age of 4 years, recurrent seizures had led to the diagnosis of cerebral venous malformations. Clinical examination also demonstrated a lipolymphedema of the lower legs that had been attributed to a functional venous insufficiency with insufficient venous pump activity. The patient had been wearing compression stockings for years. The family history was positive for cerebral venous malformations involving the patient’s father and uncle, the father having died of an intracranial hemorrhage in his early 70s.\n### OUTPUT:\n    ",
+        "true": "Familial cerebral cavernous malformations",
+        "predict": "Step 1: Blue Rubber Bleb Nevus Syndrome",
+        "topic": "['Cerebrovascular Disease', 'Dermatology', 'Cutaneous Vascular Malformations', 'Neurology', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL44",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 15-year-old female presented to the pediatric otolaryngology clinic with dysphagia to solid foods, and dyspnea when lying on the right side that was progressive during 8 months. She denied pain, aspiration, noisy breathing, obstructive episodes, dysphonia, and weight loss. A physical examination revealed fullness in the left oropharynx and left level 3 of the neck. Findings of flexible laryngoscopy showed a submucosal mass in the left oropharynx extending inferiorly into the hypopharynx, obliterating the left pyriform sinus, abutting the base of tongue with hooding over the epiglottis. The supraglottis and glottis were unremarkable. Computed tomography imaging with contrast of the neck revealed a 4.6 × 4.0 × 8.0-cm heterogeneously enhancing mass in the left oropharynx and hypopharynx with cystic components and clear planes separating the mass from the spinal musculature and carotid sheath (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Pediatric fibromyxoid soft tissue tumor",
+        "predict": "**Step 1: Oropharyngeal carcinoma**",
+        "topic": "['Otolaryngology', 'Swallowing and Dysphagia', 'Pediatrics', 'Adolescent Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL70",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 11-year-old boy with no significant medical history was referred to the pediatric otolaryngology department for a painless, left-sided neck mass that had been slowly enlarging for 8 months. On examination, there was an easily palpable 3-cm firm, fixed, well-circumscribed left supraclavicular mass without overlying skin changes or cutaneous involvement. He had no other masses, cervical lymphadenopathy, or systemic symptoms. In workup for this mass, he initially underwent ultrasound imaging, which demonstrated a hypoechoic mass. Findings from fine-needle aspiration and core-needle biopsy were inconclusive, demonstrating histiocytes. Magnetic resonance imaging demonstrated a well-circumscribed mass of mainly soft tissue density with contrast enhancement (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Soft tissue aneurysmal bone cyst",
+        "predict": "**Step 1: Lymphoma**",
+        "topic": "['Oncology', 'Pediatrics', 'Soft-Tissue Tumors']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL71",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 72-year-old female patient presented with 2 days of conjunctival injection in the right eye, chemosis, eyelid edema, and pain with eye movements. Her medical history included hypothyroidism, psoriasis, and recent diagnosis of multiple myeloma, and she was taking daratumumab and zoledronic acid. She denied eye trauma, dental surgery, or sinus disease. Examination of the right eye was notable for visual acuity of 20/50, reduced ocular motility in all gazes, proptosis, and chemosis. There was no afferent pupillary defect. Examination of the left eye was unremarkable. Computed tomography of the orbits with contrast demonstrated right preseptal edema and intraorbital fat stranding of the extraconal and intraconal fat without sinus disease. Nasal endoscopy performed by the otolaryngology service showed no evidence of invasive fungal sinusitis. The patient received a single dose of intravenous vancomycin and ceftriaxone, then was transitioned to ampicillin-sulbactam for presumed orbital cellulitis. After 48 hours, motility, proptosis, and chemosis worsened (Figure 1A).\n### OUTPUT:\n    ",
+        "true": "Zoledronic acid-induced orbital inflammation",
+        "predict": "1. Orbital Cellulitis",
+        "topic": "['Clinical Pharmacy and Pharmacology', 'Orbit', 'Adverse Drug Events', 'Hematologic Cancer', 'Myeloma']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL75",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 80s initially presented with numerous, primarily photodistributed, crusted, and ulcerated plaques of the trunk and extremities. He had a medical history of essential thrombocytosis (ET), which was treated with hydroxyurea for 14 years, with a total cumulative dose of approximately 2500 g. He was otherwise reasonably well and denied any other constitutional symptoms. The ulcerations had slowly increased in number and size over several years and were quite painful (Figure, A-C). He did have a medical history of nonmelanoma skin cancer (NMSCa), which had previously been treated surgically. Several tangential shave biopsies were performed to help clarify the patient’s diagnosis.\n### OUTPUT:\n    ",
+        "true": "Hydroxyurea-induced squamous dysplasia",
+        "predict": "1. Hydroxyurea-induced cutaneous ulceration",
+        "topic": "['Cutaneous Drug Reactions', 'Clinical Pharmacy and Pharmacology', 'Hematology', 'Adverse Drug Events', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL84",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 54-year-old White man with a history of lobular breast carcinoma in situ treated with lumpectomy as well as chromophobe kidney cell carcinoma treated with partial nephrectomy was referred for evaluation of an asymptomatic, amelanotic choroidal mass in his left eye, suspicious for metastatic disease. On examination, best-corrected visual acuity was 20/20 OU and intraocular pressures were normal in both eyes at 10 mm Hg. Slitlamp biomicroscopy of the anterior chamber was within normal limits in both eyes. Dilated fundus examination revealed normal findings in the right eye and clear vitreous with a subretinal mass in the left eye inferior to the optic disc and measuring 3 × 2 mm in base. Color fundus photography of the left eye (Figure, A) showed an amelanotic lesion under the retina inferior to the optic disc and 3 mm from the foveola surrounded by a subtle orange halo. Fundus autofluorescence (Figure, B) showed the lesion to be hyperautofluorescent. Optical coherence tomography (OCT) imaging of the lesion showed the mass was primarily in the sclera and pushed and thinned the overlying choroid (Figure, C).\n### OUTPUT:\n    ",
+        "true": "Focal scleral nodule",
+        "predict": "Step 1: Choroidal metastasis",
+        "topic": "['Nephrology', 'Breast Cancer', 'Oncology', 'Ophthalmology', 'Choroidal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL85",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 72-year-old woman presented with mild proximal weakness developing into progressive camptocormia, head drop, and prominent dysphagia over a 2-year period. She reported a 20-kg weight loss and numbness to the ankles. Her medical history was significant for thyroid cancer treated with total thyroidectomy resulting in a chronic left accessory nerve injury, type 2 diabetes, hypertension, and gout. Her medications were metformin, allopurinol, perindopril, thyroxine, and rabeprazole. She had no history of smoking and drank 3 glasses of wine per week. Her family history was unremarkable. Examination revealed significant wasting of proximal and paraspinal muscles with a flexed spine posture in the upright position (Figure 1A). She had symmetric Medical Research Council grade 4/5 weakness of neck flexion, shoulder abduction, elbow flexion and extension, and hip flexion and extension bilaterally. She had weakness of left shoulder elevation and winging of the left scapula secondary to the accessory nerve injury. Her deep tendon reflexes were normal and symmetric. Pinprick sensation was reduced in both feet.\n### OUTPUT:\n    ",
+        "true": "Sporadic late-onset nemaline rod myopathy",
+        "predict": "**Step 1: Myasthenia Gravis**",
+        "topic": "['Hematology', 'Neurology', 'Neuromuscular Diseases', 'Swallowing and Dysphagia']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL86",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nCase report: A healthy 12-year-old male individual received a diagnosis of SARS-CoV-2 and reported visual symptoms 2 days later, with bilateral blurry vision, large blue paracentral scotomata, and a migraine without a scintillating scotoma. On clinical examination, visual acuity measured 20/70 + 1 in the right eye and 20/100 in the left eye, while he previously had visual acuity of 20/25 in each eye on examination 8 years prior. Motility, visual fields, and anterior segment examination results were normal. Dilated fundus examination revealed subtle reddish geographic irregularities at the level of the retinal pigment epithelial at a nasal juxtafoveal location in both eyes. The optic discs, vessels, and periphery were normal. Near-infrared (IR) imaging highlighted the irregularities in both eyes (Figure 1).\n### OUTPUT:\n    ",
+        "true": "COVID-19–associated acute macular neuroretinopathy",
+        "predict": "Step 1: Acute Macular Neuroretinopathy (AMN)",
+        "topic": "['Infectious Diseases', 'Retinal Disorders', 'Coronavirus (COVID-19)', 'Ophthalmology']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL87",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 50s presented with a 3-month history of rapidly spreading intensively pruritic papules on his extremities. The lesions consisted of scattered, erythematous, annular papules measuring up to 5 mm wide (Figure 1). Further examination revealed a few asymptomatic brown flat papules scattered on his face; the palms, soles, and oral mucosa were not involved. The patient had no remarkable medical or family history and was not concurrently being treated with any medications. He had been previously diagnosed with eczema and treated with topical steroid ointments and oral compound glycyrrhizin tablets, which had no obvious effect.\n### OUTPUT:\n    ",
+        "true": "Eruptive pruritic papular porokeratosis (EPPP)",
+        "predict": "Step 1: Psoriasis",
+        "topic": "['Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL88",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 80s with a history of heart failure with preserved ejection fraction, permanent atrial fibrillation, and coronary artery bypass graft 10 years ago presented with recurrent presyncope and bradycardia. Review of prior physician encounters revealed reports of lightheadedness and electrocardiograms (ECGs) with atrial fibrillation with ventricular rates of 40 to 50 beats per minute. Current medications included carvedilol, 25 mg, twice daily and apixaban, 5 mg, twice daily. An ECG (Figure, A) showed atrial fibrillation with an irregular ventricular rate of around 60 beats per minute, right bundle branch block (RBBB), and left posterior fascicular block (LPFB).\n### OUTPUT:\n    ",
+        "true": "RBBB with left posterior hemiblock and left arm–left leg lead reversal mimicking alternating left anterior fascicular block and LPFB (trifascicular block or Rosenbaum syndrome)",
+        "predict": "1. Sick sinus syndrome",
+        "topic": "['Cardiology', 'Rhythm Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL90",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA school-aged boy presented to the dermatology clinic with a 6-year history of hair loss and short hair. His scalp hair was relatively normal in terms of density and length at birth. Since the age of 1 year, the boy had begun to have frequent hair loss without pulling. His mother also found that his hair grew to approximately the same maximum length down to the upper neck without trimming. On clinical examination, diffuse, short, sparse, lanugolike, black hair over the scalp was found (Figure, A and B). The surface of the scalp was smooth without inflammatory changes or focal alopecic patches. No involvement of eyebrows, eyelashes, nails, teeth, or body hair was found. His intellectual performance was normal at presentation and no developmental delay had ever been noted. He denied experiencing a stressful event recently, and no habitual pulling of hair was observed by his family. Family history regarding hair loss was unremarkable.\n### OUTPUT:\n    ",
+        "true": "Hypotrichosis simplex of the scalp",
+        "predict": "**Step 1 Differential Diagnosis:** Alopecia Areata",
+        "topic": "['Dermatology', 'Genetics and Genomics', 'Hair Disorders', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL92",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 16-year-old female patient developed acute-onset right-sided periorbital swelling several days after being hit in that area by a snowball. The swelling worsened over the following 3 weeks despite use of warm compresses and a course of doxycycline prescribed by her outside eye care professionals. She had progressive binocular diplopia and right periorbital pain, swelling, and redness. Blurriness of the right eye that started the week before presentation eventually caused enough concern that the patient presented to her local emergency department where magnetic resonance imaging (MRI) of the brain and orbits revealed an intraconal mass (Figure, A). She then came to our institution’s emergency department for urgent ophthalmology consultation.\n### OUTPUT:\n    ",
+        "true": "Orbital lymphangioma",
+        "predict": "Step 1: Orbital Cellulitis",
+        "topic": "['Emergency Medicine', 'Intraocular Tumors', 'Oncology', 'Ophthalmology', 'Orbit']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL96",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 80s with a medical history of gastric adenocarcinoma treated with total gastrectomy presented with asymptomatic lesions on her tongue that gradually developed during the previous 3 months. Intraoral examination revealed multiple yellowish to erythematous papules and verrucous cobblestone-like plaques on the mucosal surface on both sides of her tongue (Figure, A and B). The skin of the face, neck, arms, and other sun-exposed areas did not reveal any associated lesions. She reported occasional alcohol intake, and there was no history of tobacco-related habits or oral trauma. The results of laboratory investigations, including a complete blood cell count, serum chemistry panel, liver and kidney function test, C-reactive protein levels, lipid profile, and serum and urine electrophoresis disclosed no abnormalities. With the clinical suspicion of squamous cell carcinoma, an incisional biopsy was performed (Figure, C and D).\n### OUTPUT:\n    ",
+        "true": "Nodular colloid degeneration",
+        "predict": "Step 1: Squamous Cell Carcinoma",
+        "topic": "['Dermatology', 'Otolaryngology', 'Dental Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL102",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 3-month-old girl was referred for evaluation of multiple cutaneous red papules. The guardian reported first noticing the papules at birth. During the following months, the papules grew in number and size, involving the head and neck, trunk, extremities, right palm, mons pubis, and buttocks. At the height of severity, the patient had 39 lesions, some of which were associated with ulceration and bleeding. The patient was born at full term via spontaneous vaginal delivery; the birth mother had not received prenatal care. Neither the birth mother nor the infant had any known history of environmental or occupational exposure to hazardous substances. The paternal family medical history was unremarkable; maternal family medical history was unknown. Physical examination revealed numerous bright red macules, papules, and plaques ranging in size from 1.0 × 1.0 mm to 2.2 × 2.3 cm, many of which had hemorrhagic crust and dark scale (Figure, A and B). Additional examination findings included retrognathia, thickened maxillary frenulum, and anterior ankyloglossia.\n### OUTPUT:\n    ",
+        "true": "Congenital disseminated pyogenic granuloma",
+        "predict": "Step 1: Infantile hemangioma",
+        "topic": "['Pediatrics', 'Dermatology', 'Neonatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL112",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her mid-50s with a history of mitral valve repair presented to the emergency department with complaints of recent-onset palpitation within the last hour. On physical examination, the patient showed a rhythmic tachycardia with a rate of 178 beats/min and blood pressure of 130/80 mm Hg. The 12-lead electrocardiogram (ECG) revealed a regular tachycardia with a rate of 178 beats/min; no obvious P waves were recognizable (Figure 1A). The QRS complexes displayed 2 different morphologies occurring with a definite allorhythmic distribution: pairs of beats exhibiting complete right bundle branch block (RBBB) and QRS duration of 140 milliseconds followed by a third beat with normal configuration and QRS duration of 70 milliseconds. This trigeminal variation in intraventricular conduction occurred without any change in cycle length and was maintained. Adenosine administration quickly slowed the ventricular rate allowing recognition of an atrial tachycardia with a rate of 178/min and a 2:1 atrioventricular (AV) ratio (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Atypical atrial flutter with RBBB aberration and conduction improvement every third beat resulting from concealed type I (Wenckebach) second-degree block in the right bundle branch with 3:2 ratio",
+        "predict": "1. Atrial tachycardia",
+        "topic": "['Cardiology', 'Rhythm Disorders', 'Cardiothoracic Surgery', 'Surgery']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL115",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 21-year-old woman was referred to our tertiary care hospital with a congenital left hemifacial weakness and a chronic unilateral left-sided hearing loss that evolved since birth. On audiometry, normal hearing sensitivity in the right ear and a severe to profound sensorineural hearing loss with poor word recognition score in the left ear were noted. On physical examination, the patient presented a grade VI peripheral left facial paralysis. Findings from the rest of the clinical examination were within normal limits. Results of cerebral magnetic resonance imaging (MRI) and temporal bone computed tomography (CT) revealed a left internal auditory canal mass, measuring 13×12 mm, developed at the expense of nerve VII, with a dilation of the various portions of the facial nerve with extension to its distal branches. It presented a hypointensity on T2, isointensity on T1, and was strongly enhanced after the injection of gadolinium. This mass was responsible for the enlargement of the internal auditory canal and was in close contact with the left middle cerebral fossa, without intraparenchymal extension (Figure 1A and B).\n### OUTPUT:\n    ",
+        "true": "Neuromuscular choristoma",
+        "predict": "Step 1: Vestibular Schwannoma",
+        "topic": "['Facial Nerve', 'Facial Plastic Surgery', 'Head and Neck Cancer', 'Oncology', 'Head and Neck Surgery']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL122",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 79-year-old male patient presented with a 2-year history of asymptomatic erythematous-infiltrated patches and plaques on the right side of his scalp and face. The lesions gradually enlarged and coalesced into large plaques and nodules. Mild erosions occurred occasionally on the surface of the lesions. He denied having fever, fatigue, chills, night sweats, or weight loss. Physical examination demonstrated ill-defined, indurated erythematous-violaceous patches, nodules, and plaques involving the surface of his head and face with sporadic erosion and brownish crusts (Figure, A). The findings of systemic reviews were unremarkable, and there was no lymphadenopathy. The complete blood cell count revealed normal white blood cell count. The biopsy from an erythematous nodule displayed sheets of medium to large mononuclear cells infiltrated in the dermis, some of which filled and expanded apparent dermal blood vessels and had large, irregular, pleomorphic nuclei (Figure, B). In addition, some neoplastic cells formed a balloon appearance. No epidermotrophism was found. The initial immunohistochemical stain revealed the tumor cells were positive for CD3 and negative for CD20, AE1/AE3, CK20, chromogranin A, and melan-A. The Ki-67 labeling index was 70%.\n### OUTPUT:\n    ",
+        "true": "Intravascular anaplastic large cell lymphoma",
+        "predict": "1. Cutaneous T-cell lymphoma (CTCL)",
+        "topic": "['Dermatology', 'Oncology', 'Soft-Tissue Tumors', 'Lymphomas']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL123",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 11-year-old girl was referred to assess a retinal mass in the left eye found on her first routine ophthalmic evaluation. She reported no present or past ocular symptoms and had negative findings on a review of systems. Her history included full-term birth by cesarean delivery from an uncomplicated pregnancy. She had healthy, nonconsanguineous parents. The ocular examination showed a visual acuity of 20/20 OU with no anterior segment abnormalities. Findings of dilated fundus examination of the right eye were within normal limits. In the left eye, a white, translucent solid lesion with calcification was noticeable in the inferonasal quadrant (Figure, A). The lesion measured approximately 1.6 mm in height, exhibited mild underlying chorioretinal changes, and had associated 3 vitreous seeds (Figure, A). There were no signs of internal vascularization or vitritis. Optical coherence tomography confirmed an intraretinal location and calcified deposits within the lesion (Figure, B).\n### OUTPUT:\n    ",
+        "true": "Retinoma",
+        "predict": "1. Retinoblastoma",
+        "topic": "['Ophthalmology', 'Pediatrics', 'Retinal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL127",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 58-year-old man with a history of intravenous heroin use and chronic inactive hepatitis B virus (HBV) infection with a low serum HBV DNA value, normal liver enzyme values, and no evidence of cirrhosis presented to the emergency department with sudden onset of painless jaundice and 8 days of malaise. His last intravenous heroin use occurred 9 days prior to presentation. He was not taking any prescription or herbal medications and had not been prescribed suppressive antiviral medication for chronic HBV infection. He reported no history of travel outside the US and no raw meat ingestion. His vital signs, mentation, and physical examination were normal except for scleral icterus (Figure). Results of blood testing were negative for hepatitis C virus RNA, anti–hepatitis A IgM, and HIV antibody. Other selected laboratory values are shown in the Table. A liver ultrasound performed 6 months prior to presentation and a repeat liver ultrasound with Doppler revealed no abnormalities.\n### OUTPUT:\n    ",
+        "true": "Hepatitis D superinfection",
+        "predict": "**Step 1: Acute Hepatitis B Reactivation**",
+        "topic": "['Infectious Diseases', 'Hepatitis B', 'Hepatobiliary Disease', 'Gastroenterology and Hepatology', 'Viral Hepatitis']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL129",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 32-year-old man who was admitted to the hospital for fever, flulike symptoms, and altered mental status developed sudden-onset blurry vision in his right eye. His history was notable for phthisis in his left eye due to a left orbit clear cell sarcoma with metastatic disease, after surgical excision and radiation, with recent enrollment in a palliative immunotherapy research protocol. After completing 2 days of broad-spectrum intravenous antibiotics and antivirals for presumed septic meningitis, his laboratory and imaging results returned negative and he was transitioned to intravenous methylprednisolone (1 mg/kg). One day later, his mental status improved, and he reported central blurry vision in his right eye. On examination, his visual acuity was 20/40 in this eye, he had normal intraocular pressure, and there was no evidence of anterior chamber or vitreous cells. Dilated fundus examination revealed segmental areas of venous sheathing (Figure 1A) in the right eye and was not possible in the left eye owing to phthisis. An optical coherence tomography scan of the right eye revealed hyperreflective changes along the outer plexiform and outer nuclear layers, small intraretinal cysts, and disruption of the ellipsoid and especially the interdigitation zone (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Atezolizumab-associated retinopathy",
+        "predict": "**Step 1: Central Retinal Vein Occlusion (CRVO)**",
+        "topic": "['Targeted and Immune Therapy', 'Oncology', 'Ophthalmology', 'Sarcomas', 'Adverse Drug Events']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL133",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 32-year-old Black man presented with a 1-year history of facial swelling, predominantly in the right preauricular and left submandibular regions. His symptoms began after relocation to California and occurred more frequently at his home. However, he could not discern any environmental or dietary triggers. He reported pruritus and swelling, which were usually moderate but occasionally severe, prompting several emergency department visits. During an emergency department visit, he was diagnosed with acute parotitis based on clinical and radiographic findings of diffuse gland edema, without salivary stones or masses. His symptoms responded to oral prednisone bursts and diphenhydramine, but not to second-generation antihistamines or montelukast. His workup included immune serology and total immunoglobulin (Ig) E measurements, all of which were within normal limits. A differential blood cell count revealed 10% eosinophils (normal, <6%) and an absolute eosinophil count 500/µL (to convert to ×109/L, multiply by 0.001). Titers for antinuclear antibodies, rheumatoid factor, anti-Ro (SS-A), and anti-La (SS-B) were negative. Sialendoscopy of his right parotid and left submandibular glands found no obstructing stones or strictures. Concurrent steroid irrigation did not provide any substantial benefit. An open biopsy of the right parotid tail revealed nonspecific inflammatory changes and otherwise normal parenchyma. Given the frequency and severity of his symptoms along with multiple treatment failures, he opted to undergo a right superficial parotidectomy, which proceeded without complications. Further histologic examination of the surgical specimen revealed substantial periductal inflammatory infiltrate with eosinophils, as seen in the Figure.\n### OUTPUT:\n    ",
+        "true": "Eosinophilic sialodochitis",
+        "predict": "Step 1: Allergic Reaction",
+        "topic": "['Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL136",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 47-year-old man with a history of metastatic neuroendocrine carcinoid tumor (NET) status in remission after liver transplant was hospitalized for workup of a new pancreatic mass concerning for recurrence. Several days into his hospital course, he developed acute-onset severe bilateral periorbital swelling, chemosis, and ophthalmoplegia as well as occasional flushing and palpitations. His best-corrected visual acuity was 20/70 in both eyes. Pupils, intraocular pressure, and color vision were normal. He had bilateral proptosis to 20/21 mm by Hertel exophthalmometer, −3 restriction of extraocular movements in all directions of gaze, diffuse punctate epithelial erosions, and mechanical lower lid entropion secondary to severe chemosis in both eyes (Figure 1A). Anterior segment examination and dilated ophthalmoscopy results were otherwise unremarkable.\n### OUTPUT:\n    ",
+        "true": "Recurrent NET metastatic to the EOMs",
+        "predict": "Step 1: Carcinoid syndrome",
+        "topic": "['Ophthalmology', 'Oncology', 'Surgery', 'Surgical Oncology', 'External Eye Disease']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL137",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 60s with a history of hypertension and hyperlipidemia presented to dermatology clinic with a 4-month history of fatigue, night sweats, and weight loss and 2 months of enlarging lesions on her scalp and hands. She reported no new medications or recent infection. Her temperature was 37.5 °C (99.5 °F); heart rate, 102/min; blood pressure, 98/72 mm Hg; respiratory rate, 12/min; and oxygen saturation, 94% on room air. Her skin examination revealed 3 tender, nonfluctuant 10-cm scalp plaques with overlying hemorrhagic crust and necrosis on an erythematous indurated base (Figure, left panel). Similar-appearing papules and plaques were present on the dorsal surfaces of her hands. The remainder of her physical examination was normal.\n### OUTPUT:\n    ",
+        "true": "Sweet syndrome with myelodysplastic syndrome (MDS)",
+        "predict": "Step 1: Cutaneous Lymphoma",
+        "topic": "['Geriatrics', 'Hematology', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL138",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 51-year-old man presented with a 24-hour history of severe dizziness that he described as “room spinning,” right aural fullness, and a subjective right-sided hearing loss. He denied any medical history of vertigo, recent upper respiratory infection, head trauma, or prior otologic surgery. A physical examination revealed no abnormalities on otoscopic evaluation; however, a strongly positive right-sided Dix−Hallpike test was elicited with rotary nystagmus; a subsequent Epley maneuver was performed. The patient’s symptoms subjectively worsened during the following several days. Therefore, an audiogram test (Figure 1) and computed tomography (CT) of the temporal bone were performed.\n### OUTPUT:\n    ",
+        "true": "Pneumolabyrinth",
+        "predict": "Step 1: Benign Paroxysmal Positional Vertigo (BPPV)",
+        "topic": "['Vestibular Disorders', 'Otolaryngology', 'Otology', 'Audiology and Hearing']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL140",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 2-year-old boy who was otherwise healthy presented with a 10-month history of asymptomatic skin depressions in his neck, nape, and submandibular regions. The lesion initially occurred as an erythema in the neck and progressed centrifugally to the nape and submandibular areas. Atrophy was observed in the center of the lesion, surrounded by an erythematous border, with underlying blood vessels being visible deep to the atrophy (Figure, A).\n### OUTPUT:\n    ",
+        "true": "Lipodystrophia centrifugalis abdominalis infantilis",
+        "predict": "1. Morphea (Localized scleroderma)",
+        "topic": "['Dermatology', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL141",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA healthy 27-year-old man received a COVID-19 mRNA booster vaccine (Moderna) on December 7, 2021. He had not experienced adverse effects after the first 2 vaccine doses on January 17 and February 5, 2021. Twelve days after the booster vaccination, he developed pruritic wheals on his face and bilateral, transient eyelid swelling. Over the next week, a pruritic rash spread over his neck, chest, trunk, and arms; each lesion faded without scarring within 24 hours. He did not experience lip, tongue, or neck swelling; shortness of breath; wheezing; chest pain; or palpitations. Application of pressure to his forearm in a circular motion using a pen cap elicited wheal and flare lesions (Figure, left panel). On physical examination, performed 17 days after the onset of rash, his vital signs were normal. He had no tongue, lip, or throat swelling, and his lungs were clear to auscultation bilaterally. Wheal and flare lesions developed on his upper eyelids during the examination and resolved after approximately 30 minutes (Figure, right panel). Light pressure applied to his skin with a tongue depressor elicited wheal and flare lesions within 3 to 5 minutes.\n### OUTPUT:\n    ",
+        "true": "Inducible urticaria (symptomatic dermatographism) and acute urticaria",
+        "predict": "Step 1: Chronic Spontaneous Urticaria",
+        "topic": "['Dermatology', 'Coronavirus (COVID-19)', 'Allergy and Clinical Immunology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL145",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue. He denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits. On examination, corrected visual acuity was 20/20 bilaterally, with normal color vision, visual fields, intraocular pressure, extraocular movements, alignment, and pupils. External examination was notable for left upper eyelid ptosis (Figure 1), with a margin-to-reflex distance 1 of 3.5 mm on the right and 0.5 mm on the left, intact levator function, and no fatiguability on sustained upgaze. There was no evidence of eyelid edema, erythema, or tenderness to palpation. There were no palpable adnexal masses or orbital rim deformities, but there was mild fullness in the left superior sulcus and mildly increased left-sided resistance to retropulsion. However, Hertel exophthalmometry did not reveal any relative proptosis. No lacrimal gland abnormalities or conjunctival masses were seen with upper eyelid eversion. There was no palpable preauricular or cervical lymphadenopathy. Slitlamp and fundus examination findings were normal. Serological testing results for antiacetylcholine receptor antibody were negative.\n### OUTPUT:\n    ",
+        "true": "Unilateral ptosis secondary to mantle cell lymphoma of the left lacrimal gland",
+        "predict": "Step 1: Myasthenia Gravis",
+        "topic": "['External Eye Disease', 'Neuro-ophthalmology', 'Oncology', 'Ophthalmology', 'Lymphomas']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL148",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 63-year-old man with osteoarthritis and obstructive sleep apnea treated with nasal continuous positive airway pressure (CPAP) presented with several months of worsening pain in his hands (first metacarpophalangeal joints), wrists, and feet. Radiographs of the hands and wrists performed 1 month prior showed degenerative changes but no bone erosions. His vital signs and physical examination findings were normal. He had no redness, warmth, or swelling of any joints, and his skin examination was unremarkable. However, a deformity of the nasal bridge was noted after he was asked to remove his face mask, which he was wearing as required during the COVID-19 pandemic (Figure). He reported no history of facial trauma, recent travel, illicit drug use, or high-risk sexual behavior. The nasal deformity, which he attributed to use of his CPAP mask, had developed gradually over the past several years.\n### OUTPUT:\n    ",
+        "true": "Granulomatosis with polyangiitis (GPA) with rapidly progressive pauci-immune glomerulonephritis (RPGN)",
+        "predict": "Step 1: Rheumatoid Arthritis",
+        "topic": "['Nephrology', 'Rheumatology', 'Pulmonary Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL150",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA patient in their 60s with a medical history of hypertension was referred for new-onset fluctuating diplopia and worsening right upper eyelid ptosis. The patient underwent right-sided ptosis repair at another hospital less than 1 year earlier without improvement. Best-corrected visual acuity was 20/30 OU, and pupil examination revealed no anisocoria or afferent pupillary defect. Color vision was full in both eyes. External examination revealed a margin reflex distance 1 (MRD1) of 0 mm OD, 4 mm OS without fatigability in extended upgaze (Figure 1A). The patient had a small exotropia in primary gaze with a −2 supraduction deficit. No proptosis was observed. An ice pack was applied in the clinic to the ptotic eyelid for 2 minutes, which led to a 1.5-mm improvement (Figure 1B) in ptosis and no appreciable change in strabismus. The patient reported no associated headache, weakness, or difficulty swallowing.\n### OUTPUT:\n    ",
+        "true": "Superior divisional oculomotor nerve palsy due to internal carotid artery aneurysm",
+        "predict": "Step 1: Myasthenia Gravis",
+        "topic": "['Neuro-ophthalmology', 'Ophthalmology', 'Carotid and Intracranial Artery Disease']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL152",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 20-year-old man presented with complaints of blurred vision in his left eye over several weeks and a growing, bulging left-eye mass. His history was notable for bilateral colobomas involving the iris, optic nerve, and retina; congenital cataracts after lensectomy of the left eye; retinal detachment with proliferative vitreoretinopathy of the left eye requiring a scleral buckle and silicone oil; and intractable glaucoma in the left eye requiring a superior trabeculectomy, an inferotemporal Ahmed tube implant, and multiple diode cyclophotocoagulation treatments. Because of the high risk of retinal redetachment, the silicone oil was retained throughout the glaucoma procedures. The patient presented 9 months after the last cyclophotocoagulation procedure. At presentation, he was taking dorzolamide-timolol, brimonidine, netarsudil, and latanoprost for his left eye. Best-corrected visual acuity was 20/80 OD and light perception OS. Intraocular pressures (IOPs) were 11 mm Hg OD and 20 mm Hg OS. Examination of the left eye revealed a large, firm, pink subconjunctival mass inferotemporally near the Ahmed valve (Figure 1). There was a left hypertropia of more than 45° by Hirschberg test. The anterior chamber was deep with fine silicone oil bubbles superiorly. The aphakic left eye revealed a well-positioned tube. Cup-disc ratios were 0.7 OD and 0.8 OS. The retina was centrally attached under silicone oil with a stable peripheral tractional retinal detachment.\n### OUTPUT:\n    ",
+        "true": "Subconjunctival silicone oil granuloma",
+        "predict": "**Step 1: Conjunctival Tumor**",
+        "topic": "['Ophthalmology', 'Retinal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL164",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA previously healthy 25-year-old man presented with headache, dysarthria, double vision, and dizziness for 1 week. He denied any history of fever, head trauma, vomiting, diarrhea, abdominal pain, or cough. He had traveled to northeastern Brazil 2 months before the onset of the neurological symptoms. On examination, he had a mild right-side hemiparesis with hyperreflexia and hemiataxia. He could walk unassisted but presented with a broad base. There were no meningeal signs. He did not present with hepatosplenomegaly of lymphadenopathy. His cranial magnetic resonance imaging showed a T2-weighted fluid-attenuated inversion recovery hyperintense lesion with heterogeneous gadolinium enhancement in the pons (Figure). There were no signs of diffusion restriction on diffusion-weighted imaging or hemorrhages on susceptibility-weighted imaging.\n### OUTPUT:\n    ",
+        "true": "Neuroschistosomiasis",
+        "predict": "**Step 1: Brainstem Glioma**",
+        "topic": "['Infectious Diseases', 'Neurology', 'CNS Infections', 'Radiology', 'Neuroimaging']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL169",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 58-year-old woman was referred for evaluation of a retinal detachment in her left eye. Her visual acuity on presentation was 20/20 in the right eye and hand motion only in the left eye. Examination of the right eye was normal. Anterior segment examination of the left eye revealed around 30 cells per high-power field of a 1 mm × 1 mm light beam and diffuse stellate-appearing keratic precipitates. Posterior examination results showed a vitreous cell that precluded a clear view of the posterior pole and inferior snow banking. Most notable was a large, white, preretinal lesion in the inferior macula and a near-total retinal detachment with no identifiable retinal break and shifting subretinal fluid (Figure).\n### OUTPUT:\n    ",
+        "true": "Ocular and disseminated toxoplasmosis with toxoplasmic myocarditis",
+        "predict": "**Step 1: Primary Retinal Detachment**",
+        "topic": "['Global Health', 'Infectious Diseases', 'Ophthalmology', 'Retinal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL183",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 40-year-old woman presented with a large left neck mass in the setting of recently treated mixed nonseminomatous germ cell tumor (NSGCT) of the right ovary with metastasis to the retroperitoneal and mediastinal lymph nodes. She was treated with a right oophorectomy and 4 cycles of etoposide, ifosfamide, and cisplatin (VIP) chemotherapy with resulting reduction in metastatic tumor burden and normalization of α-fetoprotein and β-human chorionic gonadotropin. The patient’s neck swelling, which initially decreased in size while undergoing chemotherapy, progressively enlarged shortly after concluding treatment. She underwent magnetic resonance imaging and computed tomography of the neck that showed a clearly defined, bulky supraclavicular mass confined to left neck levels 3, 4, and 5 (Figure).\n### OUTPUT:\n    ",
+        "true": "Growing teratoma syndrome",
+        "predict": "Step 1: Recurrence of nonseminomatous germ cell tumor (NSGCT)",
+        "topic": "['Oncology', 'Urology', 'Urologic Cancer']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL188",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 45-year-old man was referred to the medical retina service for evaluation of bilateral macular atrophy noted by his general ophthalmologist. Medical history was positive for bilateral sensorineural hearing loss with cochlear origin as determined by an otolaryngologist and headache since age 35 years. He had no history of longer-term use of medications. There was no family history of hearing and vision loss in all immediate family members. His best-corrected visual acuity was 20/20 OD and 20/63 OS. His pupils were round and reactive. The anterior segment was unremarkable. Fundus examination confirmed the presence of bilateral macular atrophy. Fundus autofluorescence revealed a fairly symmetric loss of autofluorescence in the macula and in the regions surrounding the optic disc (Figure). In proximity of these areas of reduced autofluorescence, a speckled fundus autofluorescence pattern of alternating spots of increased and decreased autofluorescence was also noted. Optical coherence tomography displayed the presence of a bilateral atrophy of the outer retina and retinal pigment epithelium (Figure). The patient’s family underwent a complete ophthalmologic evaluation, which did not display any alteration.\n### OUTPUT:\n    ",
+        "true": "Mitochondrial encephalopathy with lactic acidosis and strokelike episodes–related syndrome",
+        "predict": "Step 1: Usher Syndrome",
+        "topic": "['Dermatology', 'Pediatrics', 'Otolaryngology', 'Audiology and Hearing', 'Retinal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL190",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 70-year-old man with an ocular history of primary open-angle glaucoma on latanoprost, bilateral trabeculectomies, and argon laser trabeculoplasties presented with several months of worsening vision in the left eye. On examination, his best-corrected distance visual acuity was 20/40 OD and 20/60 OS (baseline 20/40 OU). Pupils were equally round and reactive, without afferent pupillary defect. Findings of Amsler grid testing were notable for a small area of distortion inferiorly in the left eye. Intraocular pressures (IOPs) were 13 mm Hg in both eyes. Findings of anterior segment examination were unremarkable. Findings of dilated fundus examination were notable for cup-disc ratio of 0.9 in the right eye and 0.85 in the left eye with temporal thinning, stable from prior, and new intraretinal thickening in the left eye. Optical coherence tomography (OCT) imaging of the left eye revealed schiticlike separation of the outer plexiform and outer nuclear layers extending from the temporal edge of the optic nerve head to the fovea (Figure 1A), continuous with the peripapillary nerve sheath.\n### OUTPUT:\n    ",
+        "true": "Macular retinoschisis in the setting of glaucomatous optic atrophy",
+        "predict": "Step 1: Macular edema",
+        "topic": "['Macular Diseases', 'Ophthalmology', 'Retinal Disorders', 'Glaucoma', 'Ophthalmic Imaging']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL199",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 36-year-old woman presented to the emergency department with 3 weeks of generalized weakness and a dry cough. She reported hair loss for 1 month. Medical history was significant for opioid and alcohol use disorders, injection drug use, and chronic HIV infection. She discontinued her antiretroviral therapy 2 years prior to presentation. At that time, her CD4+ cell count was 820/μL and her HIV viral load was undetectable. On presentation, her heart rate was 88/min and regular; blood pressure, 90/58 mm Hg; oxygen saturation, 100% on room air; and respiratory rate, 20/min. She was afebrile. Cardiorespiratory auscultation was deferred because a diagnosis of COVID-19 was considered. She had a faint maculopapular rash on her arms and torso and patchy hair loss on her scalp (Figure). There were no genital lesions or mucosal ulcerations.\n### OUTPUT:\n    ",
+        "true": "“Moth-eaten” alopecia caused by secondary syphilis",
+        "predict": "Step 1: HIV/AIDS progression or opportunistic infection",
+        "topic": "['Hair Disorders', 'Sexually Transmitted Infections', 'HIV', 'Infectious Diseases', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL203",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 47-year-old woman presented with gradual onset of blurry vision in both eyes for several months. Best-corrected visual acuity was 20/20 OD and 20/40 OS. Intraocular pressure was 23 mm Hg in both eyes and was more than 21 mm Hg in both eyes on multiple visits. Medical history included hypertension, obesity, left adrenalectomy, and pterygium excision surgery in the left eye. The patient denied previous episodes of blurry vision, history of corticosteroid use, sleep apnea, or type-A personality. Complete review of systems was otherwise negative. Amsler grid testing revealed paracentral metamorphopsia in both eyes. Extraocular motility, pupillary light reactions, and confrontational visual fields were normal. Slitlamp examination and gonioscopy results were normal in both eyes. An external photograph of the patient is shown in Figure 1A. Fluorescein angiography demonstrated multiple areas of late pinpoint leakage and patches of mottled hyperfluorescence in both eyes (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Bilateral central serous chorioretinopathy secondary to pituitary microadenoma",
+        "predict": "Step 1: Age-related Macular Degeneration",
+        "topic": "['Neurology', 'Neurosurgery', 'Ophthalmology', 'Diabetes and Endocrinology', 'Endocrinology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL207",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 50s presented with painful palmar and plantar purpura that lasted for 2 months (Figure, A). The lesions first appeared on the volar aspect of the left hand and resolved spontaneously within a few days. However, the purpura soon relapsed on the left plantar area. Oral administration of aspirin and limaprost alfadex was ineffective, and the purpura spread on the palms and feet, followed by onset of left hemiplegia with dysarthria. The patient had no history of arterial or coronary catheterization, hyperlipidemia, hepatitis, nor endocrine neoplasia. The patient’s body temperature and laboratory test results, including inflammatory markers, were slightly elevated. Autoimmune blood tests, including antinuclear antibody, anticardiolipin antibody, and lupus anticoagulant, were not detected. Lentiginosis was not evident. A skin biopsy of the purpura of the left plantar area was conducted (Figure, B).\n### OUTPUT:\n    ",
+        "true": "Cutaneous embolization of cardiac myxoma",
+        "predict": "Step 1: Cholesterol embolism syndrome",
+        "topic": "['Cardiology', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL217",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 65-year-old woman presented with worsening right eye pain and purulent discharge. She reported being hit in the face by a tree branch several days prior. Her medical history was notable for HIV, with a last known CD4 lymphocyte count of 112 cells/mm3 and variable adherence to antiretroviral therapy. At an outside hospital, cultures were obtained, and treatment was initiated with ofloxacin eye drops, 0.3%, ciprofloxacin hydrochloride ointment, 0.3%, and oral moxifloxacin hydrochloride, 400 mg daily. Her symptoms worsened, and she was referred 3 days later for further evaluation. On examination, visual acuity in the right eye was hand motions. The left eye examination results were unremarkable. Slitlamp examination was limited by patient discomfort but revealed purulent discharge, a markedly inflamed conjunctiva, diffuse cornea opacification and thinning, and a flat anterior chamber. Given the history of tree branch trauma, the patient was brought to the operating room. Intraoperatively, a 0.5-mm corneal perforation was identified within an area of thinning (Figure, A). Microbial cultures were repeated, and corneal glue was applied. Gram stain of the purulent discharge demonstrated numerous polymorphonuclear leukocytes only. All subsequent microbiology cultures were negative. Despite treatment with topical fortified vancomycin, 25 mg/mL, tobramycin, 13.3 mg/mL, intravenous levofloxacin, 750 mg daily, and doxycycline, 100 mg twice daily, the purulent conjunctivitis and corneal stromal necrosis did not improve (Figure, B).\n### OUTPUT:\n    ",
+        "true": "Gonococcal keratoconjunctivitis",
+        "predict": "1. **Bacterial Keratitis** - Given the initial presentation of purulent discharge and eye pain following trauma. This is a common infection following ocular surface damage.",
+        "topic": "['Cornea', 'Sexually Transmitted Infections', 'External Eye Disease', 'Ophthalmology', 'HIV']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL221",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 14-month-old girl presented with a sudden-onset, rapidly enlarging lesion in the right eye detected by her parents 2 weeks earlier. The patient had normal tracking bilaterally. Under anesthesia, findings from an examination of the right eye revealed an inferonasal translucent gray-white iris mass with numerous intralesional lacy cystic structures (Figure 1). There was no microphthalmia, cataract, lens subluxation, anterior or posterior synechiae, glaucoma, or uveitis. Findings from a fundus examination were normal. High-resolution anterior segment echography results revealed an iridociliary mass that extended posteriorly to the pars plicata with overall dimensions of 7.7 × 6.0 × 1.9 mm. There were no associated calcifications, retrolental membranes, or seeding.\n### OUTPUT:\n    ",
+        "true": "Iridociliary medulloepithelioma",
+        "predict": "Step 1: Iris Cyst",
+        "topic": "['Ophthalmology', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL222",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 80s with a history of asthma and bronchiectasis who was receiving immunosuppression therapy presented to an outside hospital with dyspnea and right arm swelling and tenderness 8 days before transfer to our center. The immunosuppression therapy consisted of methylprednisolone, 12 mg every other day, and the patient’s medical history included cerebrovascular accident, atrial flutter, and aortic stenosis. On initial evaluation, her vital signs were stable. On physical examination, the patient had edema of the right arm, hand, and fingers with overlying diffuse violaceous nonblanching and edematous nodules (Figure, A). Purpuric plaques were also noted on the right cheek, central chest, left arm, and left posterior shoulder. Laboratory findings were significant for a hemoglobin level of 8.6 g/dL (reference range 13.5-17.5 g/dL [to convert to g/L, multiply by 10]). Results of blood cultures from the outside hospital showed “yeast” at the time of transfer.\n### OUTPUT:\n    ",
+        "true": "Disseminated protothecosis",
+        "predict": "**Step 1: Deep Vein Thrombosis (DVT)**",
+        "topic": "['Dermatology', 'Geriatrics', 'Infectious Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL223",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 65-year-old man was referred for symptoms of painless and progressive bilateral loss of central and peripheral vision over the last 6 months, associated with floaters in the left eye. The patient reported difficulty in performing essential daily tasks, such as driving and walking without assistance. He denied photopsias. His previous ocular and medical history were unremarkable. He denied any systemic symptoms as well as any family history of inherited ocular diseases. On examination, best-corrected visual acuity was 20/32 OU. Fundus examination results showed attenuated arterial and venous retinal vessels and slight retinal pigmented epithelium changes at the posterior pole, consisting of atrophy and pigment migration in both eyes, associated with vitreous opacities in the left eye. Fluorescein angiography examination results showed a mild leakage of arterial and venous retinal vasculature (Figure). Spectral-domain optical coherence tomography exhibited disruption at the photoreceptor level and multifocal hyperreflective material depositions at the retinal pigmented epithelium level.\n### OUTPUT:\n    ",
+        "true": "Paraneoplastic autoimmune retinopathy",
+        "predict": "Step 1: Age-related macular degeneration (AMD)",
+        "topic": "['Gastroenterology', 'Gastrointestinal Cancer', 'Oncology', 'Ophthalmology', 'Gastric Cancer']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL228",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 60s presented to our dermatology outpatient department with a 5-year history of pruritic papules on the right side of her lower back. She was otherwise healthy, with no family history of a similar condition. Physical examination results showed multiple dome-shaped, skin-colored, firm papules on her right lower back, arranged in a blaschkoid distribution (Figure 1A). The lesions varied in size, with some coalescing into irregular-shaped, larger papules. Telangiectasis could be seen on some of the lesions. A skin biopsy was performed on her back and submitted for further histopathologic analysis (Figure 1B and C).\n### OUTPUT:\n    ",
+        "true": "Mucinous nevus",
+        "predict": "Step 1: Linear lichen planus",
+        "topic": "['Dermatology', 'Nevi']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL235",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 30s presented with a chronic history of slowly expanding asymptomatic papules on the dorsal hands since childhood, with more recent involvement of both forearms. He denied photosensitivity, arthritis, or muscle weakness. Examination revealed multiple discrete reddish-brown, well-defined, smooth 2- to 6-mm dome-shaped papules (Figure, A). There were no nail changes or mucous membrane involvement.\n### OUTPUT:\n    ",
+        "true": "Progressive mucinous histiocytosis",
+        "predict": "1. Porokeratosis",
+        "topic": "['Dermatology', 'Hematology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL245",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 71-year-old man with non-Hodgkin lymphoma receiving maintenance obinutuzumab (anti-CD20 monoclonal antibody) infusions underwent uneventful pars plana vitrectomy of the right eye for vitreomacular traction. Diluted triamcinolone acetonide (TA) was used to stain the posterior hyaloid. After removal of 25-gauge trocar cannulas, subconjunctival TA and ceftazidime was injected. Owing to cystoid changes in the central macula, a short-acting gas tamponade with sulfur hexafluoride was used to tamponade any cystoid abnormalities that may have been unroofed. Despite unremarkable postoperative day 1 (POD1) examination findings, the patient presented on postoperative week 3 with a painless central scotoma and worsening floaters. His visual acuity was 20/400 OD and intraocular pressure was normal. There was no external hyperemia or chemosis, and the anterior chamber was deep and quiet with no cells or flare. On dilated fundus examination, there were 15 to 20 cells per high-power field (using a 1 × 1-mm2 high-intensity incidental slit beam) and a white macular lesion with disc edema and scattered intraretinal and peripapillary hemorrhages and mixed venous and arterial sheathing. Optical coherence tomography of the macula showed atrophy, full-thickness hyperreflectivity, and a residual epiretinal membrane (Figure).\n### OUTPUT:\n    ",
+        "true": "Cytomegalovirus retinitis and papillitis",
+        "predict": "Step 1: Endophthalmitis",
+        "topic": "['Infectious Diseases', 'Ophthalmology', 'Retinal Disorders', 'Macular Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL246",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA boy younger than 2 years presented with a 1-year history of slightly pruritic lesions involving his face. He was born after an uncomplicated pregnancy and delivery, and his growth and development were appropriate for his age. No associated symptoms such as fever, anorexia, or weight loss were noted. Physical examination revealed multiple skin-colored and erythematous follicular papules, 1 to 2 mm in diameter, distributed in a segmental pattern on the right side of the forehead, as well as the dorsum and tip of the nose. A small, excoriated plaque was also noted on the right malar area (Figure 1A). No mucosal lesions were present, and the rest of the physical examination findings were unremarkable. A complete hematological and biochemical survey, including blood cell count, liver and renal function tests, C-reactive protein levels, thyroid function, rheumatoid factor, and antinuclear antibodies, disclosed no abnormalities. Two skin punch biopsies were taken from the forehead and nose. Representative histopathological features are shown in Figure 1B and C.\n### OUTPUT:\n    ",
+        "true": "Idiopathic follicular mucinosis",
+        "predict": "1. Atopic dermatitis",
+        "topic": "['Dermatology', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL250",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA female in her 60s presented with a hoarse and weak voice. She has a history of follicular lymphoma with multiple relapses treated with an allogeneic stem cell transplant complicated by graft-vs-host disease and was treated with sirolimus and steroids. Flexible fiber-optic nasolaryngoscopy demonstrated symmetric nodular projections with edema along the whole length of both true vocal folds (Figure 1A). The patient underwent microdirect laryngoscopy and biopsy of the vocal fold lesions. The histopathologic image is shown in Figure 1B.\n### OUTPUT:\n    ",
+        "true": "Rhabdomyoma",
+        "predict": "1. Laryngeal Candidiasis",
+        "topic": "['Laryngology', 'Otolaryngology', 'Allergy and Clinical Immunology', 'Stem Cell Transplantation', 'Hematology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL252",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 11-year-old boy presented to the dermatology clinic in autumn with an asymptomatic rash on his arms, face, and legs of a 3-week duration. He was otherwise healthy with a history of having seasonal allergies and taking cetirizine. He had negative results from the review of systems and denied any recent illnesses, vaccinations, or new medications. Physical examination was notable for erythematous annular thin plaques without surface change on his right cheek (Figure 1A), an erythematous, edematous plaque on his nose (Figure 1A), and erythematous, edematous, annular papules and plaques on his arms, hands, and thighs (Figure 1B). A biopsy specimen was obtained from the right arm for histopathologic analysis.\n### OUTPUT:\n    ",
+        "true": "Cutaneous lupus erythematosus",
+        "predict": "1. Granuloma annulare",
+        "topic": "['Dermatology', 'Rheumatology', 'Connective Tissue Disease of the Skin', 'Pediatrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL265",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 30s presented for evaluation of asymptomatic erythematous scaly plaques over the face and proximal extremities. The lesions started as an erythematous papule on the face, which had progressed to larger plaques within 10 years. There was involvement of the upper respiratory tract, causing palatal perforation and stridor, necessitating a tracheostomy a year ago. In addition, there was history of wheezing and breathlessness. There was no history of preceding trauma, fever, malaise, joint pain, cough, epistaxis, hemoptysis, or hematuria. Examination revealed multiple well-defined brown erythematous scaly plaques with central scarring measuring 2 × 1 to 8 × 7 cm on the face, arm, and thighs. The patient also had saddle nose deformity, perforation of the hard palate, and necrotic plaques on the ear, causing destruction of ear cartilage (Figure, A and B). There was cervical lymphadenopathy: multiple, nontender, discrete nodes, ranging from 1.5 to 2 cm without any surface changes. The results of sensory examination and peripheral nerve examination were within normal limits. Respiratory examination and chest radiography results were normal. Hemogram showed anemia (hemoglobin, 10.1 g/dL [to convert to g/L, multiply by 10.0]); the results of a kidney function test, a liver function test, a fasting blood glucose test, and routine urinalysis were within normal limits. Serologic analysis results for HIV-1/2, antinuclear antibody, and antineutrophil cytoplasmic antibodies were negative. Punch skin biopsy was obtained for histopathologic analysis and culture (Figure, C).\n### OUTPUT:\n    ",
+        "true": "Phaeohyphomycosis",
+        "predict": "**Step 1 Differential Diagnosis: Leprosy**",
+        "topic": "['Dermatology', 'Facial Plastic Surgery', 'Fungal Infections', 'Global Health', 'Infectious Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL268",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 62-year-old healthy woman with no recent travel history or sick contacts presented with 2 weeks of midline sore throat without systemic signs, such as fever, myalgia, or rash. A physical examination, including flexible laryngoscopy, revealed cobbling, adherent, thick yellow mucus and ulceration of the uvula (Figure 1A).\n### OUTPUT:\n    ",
+        "true": "Leishmaniasis",
+        "predict": "**Step 1: Infectious Mononucleosis**",
+        "topic": "['Dermatology', 'Otolaryngology', 'Infectious Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL277",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 70-year-old man with hypertension, atrial fibrillation, congestive heart failure, and gallstones presented to the emergency department with 3 days of nausea, vomiting, and abdominal pain. He reported no hematemesis, hematochezia, or melena and had no history of abdominal surgery. On admission to the emergency department, he was afebrile, his blood pressure was 80/60 mm Hg, and heart rate was 122/min. On physical examination, his abdomen was distended, tympanic, and slightly tender to palpation diffusely. Blood testing showed a white blood cell count of 10 450/μL (84.1% neutrophils); C-reactive protein level, 9.5 mg/dL; potassium level, 3.0 mEq/L (reference, 3.6-5.2 mEq/L); and creatinine level, 5.57 mg/dL (429.39 μmol/L, up from a baseline level of 0.80 mg/dL [70.72 μmol/L]). Sodium and liver function values were normal. In the emergency department, he received a 500-mL bolus of intravenous crystalloid fluid and 1 g of intravenous ceftriaxone. A nasogastric tube was placed and initially drained 300 mL of biliary fluid. A non–contrast-enhanced abdominal computed tomography (CT) scan was performed (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Gallstone ileus",
+        "predict": "**Step 1: Acute Mesenteric Ischemia**",
+        "topic": "['Surgery', 'Hepatobiliary Surgery', 'Hepatobiliary Disease', 'Gastroenterology and Hepatology', 'Radiology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL292",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 19-year-old female presented for evaluation of painful lesions on the tongue that had been present for at least 3 months. She stated that the pain was exacerbated by spicy foods. She had initially presented to a primary care practitioner, was prescribed clotrimazole lozenges, and reported mild initial improvement followed by symptom progression. Subsequently, the practitioner referred the patient to an otolaryngologist. The patient denied any enlarged lymph nodes, fevers, fatigue, rash, weight loss, or abnormal gastrointestinal symptoms and had no noteworthy medical history. She reported mild alcohol consumption, denied any cigarette or illicit substance use, and endorsed engaging in oral and anal intercourse. A physical examination was notable for bilateral raised leukoplakia on the tongue; it was larger on the right side than the left and had a slightly hairy appearance. The lesion was tender to touch and could not be scraped off (Figure 1A). The lips and oral mucosa were without lesions, masses, or ulcers. The patient had no cervical lymphadenopathy. The findings of the physical examination were otherwise unremarkable.\n### OUTPUT:\n    ",
+        "true": "Secondary syphilis",
+        "predict": "1. **Oral Hairy Leukoplakia**",
+        "topic": "['Otolaryngology', 'Dental Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL295",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his late 70s with a history of immunoglobulin A monoclonal gammopathy of unknown significance presented with a tender, draining lesion of the central face despite several courses of treatment with antibiotics (Figure, A). The patient lived in Southern California but had visited Kenya for an extended trip a few years prior. Review of systems was negative for fevers, night sweats, weight loss, headache, vision changes, respiratory distress, or arthralgias. On the left nasal dorsum and medial cheek, there was a 3 × 4 cm violaceous plaque with focal purulent drainage. Within several weeks, the lesion rapidly expanded into a vegetative, freely draining plaque covering the cheeks and glabella and approaching the medial canthi (Figure, B). Computed tomography revealed findings consistent with abscess that did not involve the orbits, sinuses, or bone. Chest radiography results were unremarkable. Punch biopsy specimens were obtained for histopathological analysis and tissue cultures (Figure, C). Tissue culture results at 2 weeks remained negative, and a QuantiFERON-TB Gold test result was negative.\n### OUTPUT:\n    ",
+        "true": "Pyoderma gangrenosum",
+        "predict": "Step 1: Cutaneous Leishmaniasis",
+        "topic": "['Dermatology', 'Hematology', 'Pathology and Laboratory Medicine', 'Rheumatology', 'Skin Infections']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL306",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 67-year-old woman presented to her primary care physician with new-onset pain and erythema of her left eye and left ear, cough for 1 month, and a 9-kg weight loss over the past 3 months. Twelve months prior, she experienced a self-limited episode of right eye pain and redness, and 2 months later, a similar episode occurred in her left eye. She reported no fevers, chills, headaches, visual changes, hearing loss, hoarseness, shortness of breath, wheezing, chest pain, arthralgias, or rash. Physical examination revealed normal vital signs, and no abnormalities on nasal, cardiopulmonary, joint, and skin examination. Her left eye had scleral erythema, and the cartilaginous portion of her left ear was swollen and erythematous (Figure).\n### OUTPUT:\n    ",
+        "true": "Relapsing polychondritis",
+        "predict": "1. Relapsing Polychondritis",
+        "topic": "['Ophthalmology', 'Otolaryngology', 'Rheumatology', 'Otology', 'Geriatrics']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL313",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 23-year-old man presented with 6 months of intermittent bilateral retro-orbital pain associated with blurred vision and wavy lines in the vision of both eyes, followed by worsening numbness and tingling of his hands and legs. Medical history was notable for mild obesity (body mass index of 30 [calculated as weight in kilograms divided by height in meters squared]). Visual acuity was 20/20 OU, with briskly reactive pupils OU and no relative afferent pupillary defect. Intraocular pressure was 17 mm Hg OU. Ishihara color plates were 13/13 OU. Extraocular movements were full. Ophthalmoscopic examination revealed blurring and elevation of the nasal margins of the optic disc consistent with grade 1 optic disc edema in both eyes (Figure). Optical coherence tomography showed an elevated mean peripapillary retinal nerve fiber layer thickness of 170 μm OD and 150 μm OS. Automated visual fields demonstrated subtle enlargement of the blind spots.\n### OUTPUT:\n    ",
+        "true": "POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes) syndrome",
+        "predict": "**Step 1: Multiple Sclerosis**",
+        "topic": "['Hematology', 'Neuro-ophthalmology', 'Neurology', 'Hematologic Cancer', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL316",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 51-year-old man was referred for evaluation of headache, right-side jaw pain, paresthesia, and trismus. The patient reported that the facial and jaw symptoms had evolved gradually over the past 5 years and that multiple medical therapies had provided only minimal relief of pain. The patient’s medical history included anxiety, depression, emphysema, hyperlipidemia, migraines, and pseudoseizures. He denied prior head trauma and had no pertinent surgical history. On physical examination, the patient had normal body habitus and reported bilateral tenderness of the temporomandibular joints and paresthesia of the right trigeminal nerve in the V2 and V3 distribution with intact masseteric nerve and symmetric facial nerve. Audiometric evaluation showed normal hearing bilaterally. Magnetic resonance imaging (MRI) revealed a cystic mass in the right side of infratemporal fossa (ITF) that was nonenhancing on T1 sequencing with contrast and hyperintense on T2 (Figure 1A).\n### OUTPUT:\n    ",
+        "true": "Encephalocele",
+        "predict": "1. Temporomandibular joint disorder (TMJ disorder)",
+        "topic": "['Neurology', 'Neurosurgery', 'Otolaryngology', 'Skull Base', 'Head and Neck Surgery']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL330",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 44-year-old man presented to the oculoplastic surgery clinic with a mass on the lateral canthus of his right eye. The mass had gradually grown over 2 months and was tender to palpation. He denied any vision changes, facial trauma, redness, or discharge from the lesion. He had an unremarkable ocular and medical history. On examination, visual acuity was 20/20 OD and 20/20 OS. Ocular motility was full and pupils were equal, round, and reactive to light. His examination was notable for a 3-mm subcutaneous, firm, mobile, noncompressible lesion near the lateral canthus of the right eye without overlying erythema, warmth, telangiectasia, or ulceration (Figure 1). The rest of the ophthalmic and orbital examination was normal.\n### OUTPUT:\n    ",
+        "true": "Granular cell tumor, benign",
+        "predict": "**Step 1: Basal Cell Carcinoma**",
+        "topic": "['Pathology and Laboratory Medicine', 'External Eye Disease', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL333",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA young woman nearing the end of her second decade with no significant medical history presented to the emergency department with a 1-day history of intermittent palpitations and chest pain associated with shortness of breath. On presentation, the patient appeared anxious with a heart rate of 101 beats per minute, respiratory rate of 20 breaths per minute, blood pressure of 151/79 mm Hg, and pulse oximetry of 96% in room air. Her cardiopulmonary examination results, complete blood cell count, basic metabolic panel, and cardiac troponins were all within normal limits. Her electrocardiogram on presentation and echocardiogram are shown in Figure 1 and the Video. \n### OUTPUT:\n    ",
+        "true": "Arrhythmogenic right ventricular dysplasia/cardiomyopathy",
+        "predict": "Step 1: Panic Disorder",
+        "topic": "['Genetics and Genomics', 'Rhythm Disorders', 'Pediatrics', 'Adolescent Medicine', 'Cardiology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL344",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 50s was admitted to the hospital with new left-sided nasal congestion, facial pain, and cheek numbness. His medical history included kappa light chain multiple myeloma refractory to multiple chemotherapeutic regimens. He had been admitted 4 months earlier with similar symptoms of facial pain and sinus pressure. At that time, he was found to have persistent sinus mucormycosis, which required multiple rounds of surgical debridement. On this admission, his vital signs were stable, and he was afebrile. Laboratory test results showed a white blood cell count of 0.97 × 109 per liter with absolute neutrophil count of 650 × 106 per liter and platelet level of 17 × 109 per liter. A computed tomography scan showed complete opacification of the left paranasal sinuses (Figure, A). The patient underwent surgical debridement, and a prominent erythematous soft-tissue mass was seen in his left nasal vestibule (Figure, B). The nasal mass was resected for pathologic analysis (Figure, C).\n### OUTPUT:\n    ",
+        "true": "Extramedullary plasmacytoma",
+        "predict": "Step 1: Recurrent sinus mucormycosis",
+        "topic": "['Myeloma', 'Oncology', 'Hematology', 'Hematologic Cancer', 'Head and Neck Surgery']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL347",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 5-month-old girl presented to the emergency department with acute oropharyngeal bleeding that self-resolved. Prior to presentation, she had a several-month history of slow feeding and intermittent noisy breathing. Physical examination revealed inspiratory stridor that was worse when supine. Bedside flexible endoscopy findings revealed a fleshy supraglottic mass obscuring a view of the glottis. The patient’s airway was secured in the operating room with an endotracheal tube over a 0° Hopkins rod. The mass was pedunculated on the lingual surface of the epiglottis and had areas of high vascularity and other areas of thrombosis (Figure, A). The vallecula, aryepiglottic folds, arytenoids, glottis, and subglottis were otherwise uninvolved. A biopsy was obtained, and pathology results revealed relatively high proliferation of small, irregular vessels with plump endothelial cells staining positive for glucose transporter 1 (GLUT1) (Figure, B and C).\n### OUTPUT:\n    ",
+        "true": "Infantile hemangioma",
+        "predict": "1. Hemangioma",
+        "topic": "['Pediatrics', 'Head and Neck Surgery', 'Laryngology', 'Otolaryngology']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL352",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 70-year-old White man with a history of hypertension and hyperlipidemia was referred to our institution for evaluation of bilateral asymmetric corneal lesions by his primary eye care professional. The patient required spectacles for best-corrected visual acuity but otherwise had no other significant ocular complaints. He was not taking medications known to cause corneal depositions, nor was there a known family history of corneal dystrophy. Best-corrected visual acuity was 20/20 OU. Slitlamp examination of the cornea of the right eye revealed multiple, discrete nodular opacities in the superior and inferior quadrants without neovascularization or surface elevation. Similar findings were seen in the left eye, but the superior lesions were notable for possessing well-circumscribed, plaquelike features located in the posterior stroma without involvement of the anterior surface (Figure, A). No crystalline changes were noted with these deposits.\n### OUTPUT:\n    ",
+        "true": "Monoclonal gammopathy of undetermined significance",
+        "predict": "1. Fuchs' Endothelial Corneal Dystrophy",
+        "topic": "['Cornea', 'Ophthalmology', 'Cardiology', 'Cardiovascular Risk Factors', 'Hypertension']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL354",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 50s presented with an edematous, massively enlarged right auricle. The patient had immigrated to Israel 9 years before admission. He was adamant that the lesion had been present since early childhood but had gradually increased with a recent appearance of foul-smelling otorrhea. On examination, the auricle was markedly enlarged, edematous, and encircled by an erythematous, indurated plaque partially covered with a fine scale (Figure 1A). Diascopy revealed an “apple jelly” appearance. There was no local or distant lymphadenopathy; general physical examination findings were unremarkable.\n### OUTPUT:\n    ",
+        "true": "Lupus vulgaris",
+        "predict": "Step 1: Cutaneous leishmaniasis",
+        "topic": "['Infectious Diseases', 'Tuberculosis', 'Dermatology', 'Global Health']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL360",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 60s presented as a transfer from an outside hospital. The division of dermatology was consulted for evaluation of lesions on the face, chest, back, and arms that were gradually increasing in size and number over the past year. Physical examination revealed leonine facies with madarosis and an eschar on the nasal dorsum (Figure, A). Red-to-brown dome-shaped papules coalescing into plaques were present on the upper extremities. The lesions were nontender and nonpruritic. Cervical and axillary lymph nodes were palpable. The patient had a muffled voice and reported shortness of breath with exertion. Results of laboratory investigation demonstrated marked leukocytosis with a white blood cell count of 77.5 × 103/uL with 76.5% lymphocytes. No blasts were present on peripheral smear. Computed tomography of the chest, abdomen, and pelvis demonstrated multiple enlarged mediastinal, axillary, subpectoral, abdominopelvic, and inguinal lymph nodes. Small pulmonary nodules were also detected. A punch biopsy was obtained from the right arm (Figure, B, C, and D).\n### OUTPUT:\n    ",
+        "true": "Mantle cell lymphoma",
+        "predict": "**Step 1: Lepromatous Leprosy**",
+        "topic": "['Dermatology', 'Oncology', 'Ophthalmology', 'Skin Lymphomas']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL361",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 16-year-old girl with acute leukemia of ambiguous lineage developed tender, 1- to 2-cm erythematous plaques and nodules during treatment with chemotherapy. Previously, she had been well, with morphological remission found on a recent bone marrow biopsy. The patient had no significant dermatological history, except an allergy to cashew nuts and a prior episode (6 mo) of urticaria during a platelet transfusion that had resolved with 1 dose of oral antihistamine. The patient’s medications included ondansetron, aprepitant, prednisolone, and oxycodone (supportive care initiated with chemotherapy), and long-term posaconazole and trimethoprim/sulfamethoxazole treatment. Lesions were noted on day 2 of the fourth cycle of a chemotherapy regimen comprising fludarabine, cytarabine, and filgrastim (G-CSF). Initially present over the distal limbs, palms, and soles, the lesions progressed to the proximal limbs and lower trunk during 24 hours (Figure, A and B). The patient developed a fever, which we extensively investigated. Intravenous cefotaxime was commenced, but because no infectious source was identified, the fever was thought to be secondary to cytarabine.\n### OUTPUT:\n    ",
+        "true": "Neutrophilic eccrine hidradenitis",
+        "predict": "1. Sweet's Syndrome",
+        "topic": "['Pediatric Cancer', 'Cutaneous Drug Reactions', 'Hematology', 'Hematologic Cancer', 'Leukemias']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL362",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 18-year-old woman with unremarkable medical history was referred to the oculoplastics service for evaluation of progressive gradual-onset ptosis and ophthalmoplegia in both eyes in the past 2 years (Figure). She had emigrated from Ghana 2 years before but denied any illness there. Her visual acuity without correction was 20/20 OD and 20/20 OS, although she had to manually elevate her eyelids to see the Snellen chart. She had no movement of the right eye past midline in elevation, adduction, depression, and abduction and no movement of the left eye past midline in elevation, depression, and abduction, with 50% deficit of adduction. Her external examination results were notable for a margin reflex distance 1 of −4 mm OU and a levator function of 0 OU. On funduscopic examination, her optic nerves were sharp and pink without atrophy, maculae and retinal vasculature were normal, and peripheral retina appeared normal without pigment abnormalities. A review of systems was negative for fatigue, generalized muscle weakness, or neurologic deficits.\n### OUTPUT:\n    ",
+        "true": "Kearns-Sayre syndrome",
+        "predict": "Step 1: Myasthenia Gravis",
+        "topic": "['Adolescent Medicine', 'Cardiology', 'Neuro-ophthalmology', 'Neurology', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL363",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn otherwise healthy woman in her 50s was referred to the Department of Dermatology with a 5-year history of an asymptomatic, gradually enlarging, reddish hematomalike plaque with a brownish peripheral border in her left axilla (Figure 1). The patient described the spontaneous onset of the lesion and reported no previous history of trauma or any other systemic symptoms; she had previously applied a topical antifungal cream but observed no lesion improvement. Physical examination revealed a nonindurated and well-defined 10 × 8-cm reddish-brown annular plaque with peripheral ecchymosis. No local lymphadenopathy was observed. Two biopsy specimens were obtained from different areas of the lesion for immunohistochemical studies; vascular channel endothelial cells were positive for CD31, CD34, and D2-40 and negative for human herpesvirus 8 (HHV-8) (latent nuclear antigen) and Wilms tumor 1 (WT1). Serologic tests for HIV and hepatitis B and C were negative.\n### OUTPUT:\n    ",
+        "true": "Benign lymphangioendothelioma",
+        "predict": "Step 1: Kaposi Sarcoma",
+        "topic": "['Dermatology', 'Oncology', 'Surgery', 'Surgical Oncology', 'Pathology and Laboratory Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL369",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 27-year-old man with history of heroin use presented with syncope. He was standing and laying out a blanket for his dog before passing out. He denied prodromal symptoms and reported this was his first syncopal episode. He reported a few episodes of dizziness in the couple days prior to presentation but denied chest pain, shortness of breath, palpitations, or the recent use of illicit drugs or new medications. Shortly after arrival at the emergency department, he had a 50-second run of polymorphic ventricular tachycardia. His vital signs and the results of his physical examination were normal. Troponin levels, thyroid levels, and the results of a complete blood cell count and metabolic panel were all normal. The results of imaging studies, including echocardiography, computed tomography (CT) pulmonary angiography, and brain CT, were also unremarkable. Coronary angiography found no evidence of obstructive coronary disease. The results of the urine toxicology test were negative. An initial electrocardiogram (ECG) at presentation was reviewed (Figure).\n### OUTPUT:\n    ",
+        "true": "Drug-induced QT prolongation",
+        "predict": "1. Arrhythmogenic right ventricular cardiomyopathy (ARVC)",
+        "topic": "['Clinical Pharmacy and Pharmacology', 'Emergency Medicine', 'Adverse Drug Events', 'Rhythm Disorders', 'Cardiology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL375",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 44-year-old White woman presented with a 15-year history of dull midline lower back pain associated with bilateral hip pain. She also noted bilateral hand pain along the metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints and prolonged morning stiffness lasting approximately 45 minutes. Family history was notable for a brother with osteoarthritis, hypogonadism, and type 2 diabetes. Vital signs were within normal limits (heart rate, 92/min; blood pressure, 136/84 mm Hg; respiratory rate, 16/min; oxygen saturation, 97%; temperature, 37.0 °C). Musculoskeletal examination revealed swelling of the second, third, and fifth MCP joints and second and third PIP joints bilaterally as well as decreased knee and hip range of motion with minimal knee effusions. Lower back flexion was decreased with only 4-mm excursion on the modified Schober test. Results of cardiopulmonary, abdominal, neurologic, and dermatologic examinations were unremarkable. Results of laboratory testing, including complete blood cell count, basic metabolic panel, and liver function tests, were within normal limits, and results for HLA-B27 were negative. Erythrocyte sedimentation rate was 8 mm/h and C-reactive protein level was 0.5 mg/dL. A plain radiograph of the hands (Figure, left panel) showed hook-like osteophytes at the second and third MCP joints bilaterally as well as asymmetric joint swelling in multiple MCP and PIP joints. A plain radiograph of the pelvis (Figure, right panel) showed sclerosis and joint narrowing at both sacroiliac joints as well as joint narrowing and osteophytes in the hip joints bilaterally.\n### OUTPUT:\n    ",
+        "true": "Hereditary hemochromatosis",
+        "predict": "**Step 1: Rheumatoid Arthritis**",
+        "topic": "['Osteoarthritis', 'Rheumatology', 'Radiology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL379",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 41-year-old woman presented with a 7-month history of episodes of back and abdominal pain associated with nausea, vomiting, and flushing. Immediately following workup with noncontrast abdominal ultrasonography, she experienced intense flushing and vomiting. Subsequent contrast-enhanced magnetic resonance imaging identified a 5-cm thoracic paraspinal mass (Figure, A). Computed tomography–guided biopsy of the paraspinal mass revealed a dense cellular infiltrate on histopathology composed of cells with round nuclei and abundant pale cytoplasm (Figure, B).\n### OUTPUT:\n    ",
+        "true": "Mastocytoma",
+        "predict": "**Step 1: Pheochromocytoma**",
+        "topic": "['Allergy and Clinical Immunology', 'Hematology', 'Oncology', 'Hematologic Cancer']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL383",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA previously healthy 64-year-old woman was referred for a neuro-ophthalmological evaluation of bilateral optic nerve head edema that was noticed 2 months previously during a routine optometric examination. She denied having any symptoms of increased intracranial pressure (ICP), including headaches, pulsatile tinnitus, and transient visual obscurations. Findings on computed tomography of the brain without contrast were unremarkable. She was then seen by an ophthalmologist who confirmed bilateral severe optic nerve edema and requested magnetic resonance imaging of the brain and orbits without contrast. It demonstrated signs of increased ICP, including empty sella, posterior flattening of the globes, and widened optic nerve sheaths, but no other abnormalities (Figure 1A).\n### OUTPUT:\n    ",
+        "true": "Papilledema",
+        "predict": "1. Idiopathic Intracranial Hypertension (IIH)",
+        "topic": "['Neuro-ophthalmology', 'Neurology', 'Ophthalmology', 'Ophthalmic Imaging', 'Retinal Disorders']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL385",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 75-year old man with a history of follicular lymphoma and breast cancer presented with a 3-month history of gradual vision loss and 1-month history of confusion and difficulty with word finding. He had been diagnosed with hormone receptor–positive right breast cancer 8 years prior and underwent lumpectomy and treatment with an aromatase inhibitor, with remission since. Five years later, he subsequently developed left inguinal adenopathy, which biopsy results showed was follicular lymphoma. At that time, he was treated with a course of bendamustine and rituximab with subsequent maintenance treatment with rituximab for 2 years. Magnetic resonance imaging (MRI) of the brain was performed, demonstrating T2 fluid-attenuated inversion recovery hyperintensity in the left occipital and temporal lobes, crossing the corpus callosum and extending into the right occipital lobe without enhancement (Figure).\n### OUTPUT:\n    ",
+        "true": "Progressive multifocal leukoencephalopathy",
+        "predict": "Step 1: Metastatic cancer",
+        "topic": "['Infectious Diseases', 'Neurology', 'Oncology', 'Neuroimaging', 'Hematology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL386",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 60s presented for evaluation of asymptomatic skin lesions on the chest that had been stable since onset 4 months prior. Her medical history was significant for hyperlipidemia, familial polyposis, and acute myelogenous leukemia (AML) for which she had undergone an allogenic hematopoietic stem cell transplant 13 months earlier. Cutaneous examination revealed green-gray nodules and plaques on the left and right upper chest (Figure 1). Bilateral cervical, axillary, and inguinal lymph node chains were negative for adenopathy. The patient had not attempted measures to alleviate the nodules and denied experiencing exacerbating factors or pain. Biopsies of the skin lesions were performed.\n### OUTPUT:\n    ",
+        "true": "Chloroma",
+        "predict": "Step 1: Cutaneous graft-versus-host disease (GvHD)",
+        "topic": "['Hematology', 'Hematologic Cancer', 'Sarcomas', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL388",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 66-year-old healthy woman presented with a 9-day history of a progressively enlarging right lower eyelid lesion. She was seen by an outside ophthalmologist and prescribed oral amoxicillin/clavulanic acid (675 mg/125 mg) and ophthalmic tobramycin for presumed bacterial infection without improvement. The lesion was not painful but was associated with ipsilateral facial numbness. On examination, she manifested a 9 × 6-mm ulcerated marginal lesion of the central right lower eyelid with surrounding edema and erythema (Figure 1). There was no associated lash loss and the region was nontender to palpation. There was notable hypoesthesia in the distribution of the trigeminal maxillary branch. On examination, her best-corrected visual acuity was 20/20 OU. The pupils were round and brisk without an afferent pupillary defect. She manifested full extraocular movements. The anterior segment examination, applanation tonometry, and dilated fundus examination results were within normal limits.\n### OUTPUT:\n    ",
+        "true": "Varicella-zoster virus",
+        "predict": "Step 1: Basal Cell Carcinoma",
+        "topic": "['Dermatology', 'External Eye Disease', 'Infectious Diseases', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL394",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 4-year-old boy with no previous medical or ocular history presented with 10 days of right painless, periorbital swelling and erythema. The patient was previously treated with an oral combination of amoxicillin and clavulanic acid and topical gentamicin therapy without any improvement. The patient’s visual acuity, color vision, and pupillary examination results were within normal limits, and intraocular pressures were 28 mm Hg OD and 20 mm Hg OS. The extraocular movements and confrontational visual fields were normal. There was right upper and lower eyelid edema with mild erythema and 3 mm of proptosis. The eyelids were nontender to palpation. There was trace vasodilation and chemosis of the conjunctiva in the right eye. The remainder of the slitlamp and dilated fundus examination results were within normal limits. Computed tomography of the orbits and magnetic resonance imaging (MRI) of the brain and orbits showed a large lesion of the right greater wing of the sphenoid bone extending toward the orbital apex with edema and enhancement of the right temporal lobe of the brain (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Langerhans cell histiocytosis",
+        "predict": "Step 1: Orbital cellulitis",
+        "topic": "['Hematology', 'Pediatrics', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL395",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 55-year old man presented with a 6-week history of an enlarging, tender, pruritic, 4-cm erythematous patch with central inflammatory papules distributed on the medial forehead (Figure, A). No inciting events, such as arthropod bite or trauma, were noted. He was initially treated for presumed shingles with valacyclovir, cephalexin, gabapentin, and hydrocortisone 2.5% topical ointment with no improvement in appearance or symptoms. No other cutaneous abnormalities were noted. A punch biopsy specimen of the left medial forehead was obtained, and histological and immunohistochemical analyses were performed (Figure, B and C).\n### OUTPUT:\n    ",
+        "true": "Angiosarcoma",
+        "predict": "Step 1: Cellulitis",
+        "topic": "['Dermatology', 'Oncology', 'Sarcomas', 'Soft-Tissue Tumors']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL402",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA healthy man in his 60s was referred by his dentist to an oral surgeon for evaluation of a palatal swelling of unknown duration. The patient first presented to his dentist with a complaint of “it feels like there is something on the roof of [his] mouth.” He was never aware of the palatal lesion before his initial presentation. He denied any pain or discomfort from the site, and stated that the increasing size of the mass was what first alerted him to its presence. The extraoral examination results were within normal limits, with no evidence of swelling, expansion, trismus, or lymphadenopathy. Intraoral examination revealed a focally ulcerated, fluctuant 2.5 × 2 × 1-cm pink-red submucosal swelling in the right palatal mucosa (Figure, A). The lesion involved almost the entire right side of the hard palatal mucosa and soft palate and terminated at the palatal midline. Imaging studies were unremarkable.\n### OUTPUT:\n    ",
+        "true": "Diffuse large B-cell lymphoma",
+        "predict": "Step 1: Palatal mucocele",
+        "topic": "['Head and Neck Cancer', 'Otolaryngology', 'Hematologic Cancer', 'Lymphomas', 'Hematology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL403",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn infant girl, born to a nonconsanguineously wed couple, presented to the dermatology outpatient clinic with recurrent skin blisters since age 2 months. The lesions initially started over the trunk and subsequently progressed to involve the face, hands, and feet. The episodes of skin blisters were accompanied by pruritus and redness all over the body. There was no history of oral erosions or difficulty in feeding. Bowel and bladder movements were normal. The child had an older sibling who had no skin ailments, and none of the other family members were affected. On examination, multiple tense, angulated vesicles and bullae on a background of erythema were seen over the face, trunk, and extremities (Figure, A and B). Few urticated papules and wheals were seen in isolation over the trunk. The ruptured bullae were healing with hypopigmentation with accompanying scarring and discrete milia formation. The mucosae and nails were normal. No contractures or webbing of fingers was noted. There was no organomegaly. A punch biopsy from a vesicle was subsequently performed (Figure, C and D).\n### OUTPUT:\n    ",
+        "true": "Bullous mastocytosis",
+        "predict": "1. Epidermolysis Bullosa Acquisita",
+        "topic": "['Allergy and Clinical Immunology', 'Pediatrics', 'Dermatology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL408",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 73-year-old African American man was referred for the evaluation of a pigmented lesion on his left upper eyelid margin of 6 weeks’ duration. The patient first noted an erythematous, tender swelling with yellow discharge, which later evolved to the pigmented mass. His ocular history was unremarkable. His medical history revealed hypertension, type 2 diabetes mellitus, and hyperlipidemia. On examination, his visual acuity was 20/40 OD and 20/30 OS. There was a sausage-shaped, darkly pigmented (black), focally ulcerated nodule involving the medial upper eyelid margin and measuring 8 × 6 × 4 mm. Associated madarosis, eyelid margin notching, and telangiectasia were noted (Figure 1). The remainder of the anterior segment and a dilated fundus examination were unremarkable.\n### OUTPUT:\n    ",
+        "true": "Pigmented basal cell carcinoma",
+        "predict": "**Step 1: Malignant Melanoma**",
+        "topic": "['Dermatology', 'External Eye Disease', 'Ophthalmology', 'Skin Cancer']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL409",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 31-year-old Hispanic man had a 3-year history of a steadily growing, increasingly pruritic, painless mass behind the right ear. The patient denied bleeding from the mass, ear pain, trauma, fever, fatigue, night sweats, or recent illnesses. His medical history included eczema treated with triamcinolone acetonide cream. Otherwise, the patient had no family history or exposure to tobacco or alcohol. On physical examination, a 2-cm, nontender, mobile retroauricular mass with superficial excoriations was palpable over the right mastoid cortex. The patient had no hearing deficits and no fistula into the external auditory canal. There was no palpable head and neck lymphadenopathy. Serologic studies revealed an elevated absolute eosinophil count of 790/μL (reference range, <700/μL; to convert to ×109 per liter, multiply by 0.001) and an eosinophilia percentage of 9.7% (reference range, <6.0%). The T1-weighted postcontrast magnetic resonance imaging of the head and neck showed a heterogeneously enhancing mass with irregular borders in the right retroauricular space, with a tract coursing anteriorly toward the parotid gland (Figure, A).\n### OUTPUT:\n    ",
+        "true": "Kimura disease",
+        "predict": "Step 1: Cutaneous Basal Cell Carcinoma",
+        "topic": "['Radiology', 'Dermatology', 'Otolaryngology', 'Otology', 'Equity, Diversity, and Inclusion']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL411",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 30s with a medical history of epilepsy and alcohol use disorder who was taking lamotrigine presented with severe head trauma. His Glasgow Coma Score (GCS) was 11 M5V4E2 on admission, and a computed tomographic (CT) scan showed a right frontal epidural hematoma with a maximum thickness of 19 mm and a volume of 30 cm3 (Figure 1A). The hematoma was evacuated by neurosurgery, and his GCS improved to 14 postoperatively. On postoperative day 2, he developed isolated dysphagia and dysphonia. Laryngoscopic examination revealed right vocal cord paralysis (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Cerebral vein thrombosis",
+        "predict": "**Step 1: Right frontal epidural hematoma**",
+        "topic": "['Otolaryngology', 'Swallowing and Dysphagia', 'Traumatic Brain Injury', 'Neurology', 'Substance Use and Addiction Medicine']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL415",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 50s was referred to the dermatology clinic with a diagnosis of granuloma annulare made on the basis of prior skin biopsy results. She had been treated by a rheumatologist for polyarticular inflammatory arthritis involving the wrists, metacarpophalangeal joints, and proximal interphalangeal joints, as well as fatigue and dyspnea on exertion. Examination revealed numerous, pink-purple dermal papules on the trunk and extremities, with preference for the extensor surfaces of the arms (Figure, A) and legs. No lymphadenopathy was noted. The patient reported a 5- to 7-kg weight loss without fever or sweats. Her pulmonary and joint symptoms were relieved by daily oral prednisone and flared with taper below 10 mg. Other medications prescribed included hydroxychloroquine, 400 mg, daily for 18 months and weekly adalimumab injections for 7 months, without improvement.\n### OUTPUT:\n    ",
+        "true": "Cutaneous T-cell lymphoma",
+        "predict": "Step 1: Rheumatoid arthritis",
+        "topic": "['Dermatology', 'Skin Lymphomas']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL416",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 53-year-old woman developed patchy numbness in her right arm. The numbness progressed over 10 months to involve her entire right arm, patches of her left arm, and her distal lower extremities. She also developed right-hand incoordination and imbalance. A magnetic resonance image (MRI) of the brain is shown in Figure 1A. A complete blood cell count with a differential; liver function testing; tests for HIV, rapid plasma reagin, serum aquaporin-4 antibody, and antinuclear antibodies; and levels of sodium, calcium, creatinine, glucose, thyroxine, and vitamin B12 were unremarkable. Examinations of the cerebrospinal fluid had normal results twice, including for white blood cell count with a differential, glucose level, total protein level, IgG index, oligoclonal bands, cultures, and cytology testing.\n### OUTPUT:\n    ",
+        "true": "Erdheim-Chester disease",
+        "predict": "**Step 1: Multiple Sclerosis**",
+        "topic": "['Hematology', 'Neurology', 'Oncology', 'Hematologic Cancer']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL418",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her mid-50s with no significant medical history was referred with 2 years of insidious exertional dyspnea and neck fullness. Examination of the jugular venous contour with the patient sitting upright at 90° is shown in Video 1. Auscultatory findings at the left lower sternal border showed normal S1 and S2 heart sounds with a diastolic sound and no murmurs (Figure 1; Video 2). Abdominal examination revealed an enlarged, pulsatile liver with smooth edges palpable 4 cm below the costal margin. Electrocardiography showed resting abnormalities (rightward axis and inferolateral T-wave inversions). Posteroanterior chest radiography showed normal heart size and clear lungs (Figure 1). Transthoracic echocardiography was performed, which showed normal left ventricular size and function without valvular abnormalities.\n### OUTPUT:\n    ",
+        "true": "Constrictive pericarditis",
+        "predict": "1. Constrictive Pericarditis",
+        "topic": "['Cardiology']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL422",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 65-year-old woman who had been treated for hypertension for the past 10 years presented with increasing fatigue, dizziness, and palpitations. She did not have chest pain or any other symptoms. An electrocardiogram (ECG) was obtained (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Atrial fibrillation",
+        "predict": "**Step 1: Atrial fibrillation**",
+        "topic": "['Atrial Fibrillation', 'Cardiology', 'Rhythm Disorders']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL424",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nAn 81-year-old Mexican woman was evaluated in the retina clinic for scattered subretinal lesions in the right eye. She complained of a gradual decline in her vision bilaterally over the past 2 years. She denied flashes, floaters, or eye pain but endorsed a chronic cough. She had no known ocular or medical history and took no systemic medications. She was born and raised in Mexico prior to her immigration to the United States 5 years before presentation. She worked as a farmer and denied recent illnesses, contacts with illnesses, alcohol or tobacco use, and having pets. Her visual acuity was 20/60 OD and 20/40 OS with normal intraocular pressures. Her slitlamp examination results were notable for mild nuclear sclerosis in both eyes and were negative for conjunctival or corneal lesions. She had round, reactive pupils and no anterior chamber inflammation in either eye. Dilated fundus examination results revealed a few pigmented anterior vitreous cells, a normal optic disc, and flat and large yellowish chorioretinal lesions with overlying pigment scattered throughout the macula and periphery in the right eye (Figure). The left eye had several similar chorioretinal lesions in the superotemporal periphery.\n### OUTPUT:\n    ",
+        "true": "Ocular tuberculosis",
+        "predict": "Step 1: Age-related macular degeneration (AMD)",
+        "topic": "['Ophthalmology', 'Choroidal Disorders', 'Infectious Diseases', 'Tuberculosis', 'Intraocular Inflammation']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL425",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 30s was referred to the department of Otorhinolaryngology–Head & Neck Surgery for a medical history of severe dysphagia and dysphonia. The patient reported fever and rhinorrhea in the few days preceding the emergency consultation. She did not take medication over the past 3 months. There was no relevant family medical history. At the clinical examination, the patient had several macules and desquamatory lesions on the mucosa of the oral cavity, lips, and vulva, and she had hemorrhage lesions of the eye sclera (Figure). The skin of the patient was unremarkable. The nasofibroscopy results showed generalized desquamatory lesions of the upper aerodigestive tract mucosa affecting the laryngeal and vocal fold mucosa (Figure). There was no dyspnea and the airway was clear. The patient revealed that she had a similar but less severe clinical event 5 years previously. At that time, no diagnosis was found and the lesions disappeared following treatment with corticosteroids. Dermatopathologic analysis, biology, serology, and biopsy were performed.\n### OUTPUT:\n    ",
+        "true": "Multiforme erythema",
+        "predict": "1. Stevens-Johnson Syndrome",
+        "topic": "['Laryngology', 'Otolaryngology', 'Swallowing and Dysphagia', 'Dermatology', 'Cutaneous Drug Reactions']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL431",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 51-year-old woman with a history of hypertension, hypercholesterolemia, and nephrolithiasis presented to the emergency department with left flank and left upper quadrant abdominal pain. She stated that “I think I have a kidney stone blocking my kidney” but denied nausea, vomiting, fever, dysuria, hematuria, or weight loss. She had no history of chronic abdominal pain. Past surgical history was noteworthy for emergency exploratory laparotomy and splenectomy for blunt trauma 14 years prior. Physical examination revealed a comfortable-appearing patient in no acute distress. Her temperature was 36.8°C; pulse, 77/min; and blood pressure, 125/86 mm Hg. Abdominal palpation elicited only mild epigastric tenderness without masses or rebound. There was no costovertebral angle tenderness. Laboratory data revealed normal levels of serum urea nitrogen and creatinine and normal liver function. A complete blood cell count showed leukocytosis (15 300/μL with 54% neutrophils, 38% lymphocytes, 8% monocytes); hemoglobin level, 15.5 g/dL; and hematocrit, 45.2%. Urinalysis revealed no red or white blood cells and was negative for leukocyte esterase and nitrate. A contrast-enhanced computed tomography (CT) scan of the abdomen and pelvis revealed a well-circumscribed mass with a small focus of central high density resulting in surrounding streak artifact (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Gossypiboma (retained surgical sponge)",
+        "predict": "Step 1: Renal cell carcinoma",
+        "topic": "['Surgery', 'Radiology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL434",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 60s with a history of end-stage renal disease who had a kidney transplant 9 months previously presented with progressive cough, dyspnea, and hoarseness. His history also included chronic gastroesophageal reflux disease and a 14-pack-year smoking history. He initially presented 3 months prior with upper respiratory symptoms, which continued to worsen despite oral antibiotic therapy. His cough became productive with white, frothy phlegm that was accompanied by fever, wheezing, hoarseness, and fatigue. His dyspnea worsened in the supine position. Flexible laryngotracheoscopy results revealed diffuse, white-to-yellow pseudomembranous changes involving the glottis and supraglottis (Figure, A), posterior tracheal wall, and left mainstem bronchus with skip lesions in the subglottis and distal 1 cm of the trachea (Figure, B). Glottic mobility was limited in both abduction and adduction with substantial airway obstruction. Computed tomographic findings revealed posterior tracheal wall thickening with the loss of the fat plane between the trachea and esophagus, and a moderate to severe obstruction within the distal left mainstem bronchus. Biopsy results are shown in Figure, C.\n### OUTPUT:\n    ",
+        "true": "Aspergillosis",
+        "predict": "Step 1: Post-transplant lymphoproliferative disorder (PTLD)",
+        "topic": "['Otolaryngology', 'Transplantation', 'Laryngology', 'Nephrology', 'Renal Replacement']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL444",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 30s presented with painless swelling of the left upper limb and nodules on the left side of the chest and abdomen. The lesions had started a month previously as red nodules on the left axilla, ipsilateral chest, and back. Twenty days later, she developed edema in the left upper limb. While being evaluated for the cutaneous lesions, the patient was diagnosed with AIDS and began antiretroviral therapy. On examination, 6 erythematous, firm, subcutaneous nodules were present on the left side of the chest, abdomen, and left upper limb, varying in size from 2 × 2 cm to 4 × 4 cm (Figure, A). There was diffuse erythema and edema on the left upper limb, leading to difficulty in limb movement (Figure, A). Multiple dilated superficial vessels were present on the posterior aspect of the left arm and ipsilateral chest wall. Left axillary lymph nodes were grossly enlarged, firm, nontender, and nonmatted, with the largest lymph node measuring 6 × 4 cm. The patient’s CD4 cell count was 141/μL (to convert to ×109/L, multiply by 0.001), and her HIV load was 504 473 copies/mL. A skin biopsy sample was obtained from the plaque and sent for histopathologic examination (Figure, B and C).\n### OUTPUT:\n    ",
+        "true": "Burkitt lymphoma",
+        "predict": "Step 1: Kaposi's sarcoma",
+        "topic": "['Oncology', 'Dermatology', 'Hematology', 'Hematologic Cancer', 'Lymphomas']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL445",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 44-year-old woman with a 2-week history of fevers, night sweats, chills, and petechiae presented with painless, blurry vision in the left eye. Her ocular symptoms began 2 days prior when she noticed dark scotomas in her central field and decreased visual acuity. There was no recent trauma or strenuous physical activity. She had no relevant medical, ocular, or family history, and she denied use of illicit drugs or anticoagulants. Uncorrected visual acuity was 20/30 OD and 20/400 OS. Extraocular motility and intraocular pressures were normal. Results of an anterior examination was unremarkable. Dilated funduscopic examination of the left eye revealed a pink optic nerve with sharp margins, diffuse intraretinal hemorrhages and Roth spots extending from the posterior pole to the far periphery, and preretinal hemorrhage overlying the central macula (Figure, A). Spectral-domain optical coherence tomography through the preretinal macular hemorrhage demonstrated layered blood in the sub–internal limiting membrane space (Figure, B). The right fundus exhibited a similar appearance aside from the preretinal hemorrhage.\n### OUTPUT:\n    ",
+        "true": "Acute myeloid leukemia",
+        "predict": "Step 1: Endocarditis",
+        "topic": "['Retinal Disorders', 'Ophthalmology', 'Hematologic Cancer', 'Leukemias', 'Hematology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL447",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA white woman in her 20s presented with numerous pink and brown papules and plaques, some with ulceration, on the head and along the midline of the neck and spine (Figure). Medical history included medulloblastoma treated with irradiation of the brain and spine at age 2 years. She also received radiation therapy for a meningioma of the posterior fossa in adulthood. She was also treated for several seemingly similar lesions on the face and scalp and had a family history of similar cutaneous lesions reported in 2 brothers and 1 niece.\n### OUTPUT:\n    ",
+        "true": "Basal cell carcinoma",
+        "predict": "1. Basal Cell Carcinoma (BCC)",
+        "topic": "['Dermatology', 'Neuro-oncology', 'Neurology', 'Oncology', 'Radiation Oncology']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL450",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her mid-50s presented with painless blurry vision in the left eye. According to the patient’s report, she had experienced this vision abnormality in the left eye for 1 week. At presentation, visual acuity was 20/20 OD and 20/400 OS. Results of a dilated fundus examination were normal in the right eye and notable for a macular serous retinal detachment in the left eye (Figure 1A). Findings on optical coherence tomography (OCT) showed a dome-shaped collection of subretinal fluid in the macula (not shown). Late-phase fluorescein angiography revealed multifocal pinpoint areas of hyperfluorescence with mild leakage within the area of detachment (Figure 1B).\n### OUTPUT:\n    ",
+        "true": "Acute myeloid leukemia",
+        "predict": "Step 1: Central Serous Chorioretinopathy (CSCR)",
+        "topic": "['Ophthalmology', 'Macular Diseases', 'Retinal Disorders', 'Hematology', 'Oncology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL453",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 70s with a history of pulmonary embolism presented to the emergency department with acute right eye vision loss. He described a 2-week medical history of diplopia and blurry vision as well as 4 months of nasal congestion and progressive headaches despite multiple antibiotic courses. He denied a medical history of sinonasal issues, immunodeficiency, autoimmune disease, malignant disease, or diabetes. On examination, he was afebrile with stable vital signs. Ophthalmologic evaluation revealed a right afferent pupillary defect and cranial sixth-nerve palsy. Computed tomographic and magnetic resonance imaging of the sinuses revealed abnormal soft tissue throughout his sinuses with destruction of the sinus walls and skull base as well as extension of abnormal appearing tissue into the right orbital apex and posterior nasal septum. Laboratory evaluation demonstrated a normal white blood cell count and an elevated erythrocyte sedimentation rate and C-reactive protein level. Nasal endoscopy showed bloody mucus and crusting around the right middle turbinate and sphenoethmoidal recess. The acute nature of his vision loss amid concern for a destructive sinonasal process warranted operative intervention. Abnormal soft tissue with associated destruction throughout his sinonasal cavities and right orbital apex was identified. Frozen sections revealed negative results for fungal elements and cellular dysplasia but demonstrated widespread inflammation with giant cells. A representative final pathology slide is shown in the Figure.\n### OUTPUT:\n    ",
+        "true": "Granulomatosis with polyangiitis",
+        "predict": "1. Mucormycosis",
+        "topic": "['Ophthalmology', 'Otolaryngology', 'Clinical Challenge', 'Infectious Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL459",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his mid-60s with a history of breast cancer (status post lumpectomy 7 years earlier [N0, M0]) and benign thyroid nodules presented for evaluation of right-sided proptosis. Bulging of the right eye was first noted 6 months earlier elsewhere when he reported progressive proptosis, worsening vision, and tearing in the right eye. He did not report any pain or diplopia. Visual acuity was 20/150 OD (no improvement with pinhole) and 20/20 OS. Pupillary reaction and confrontational visual fields were normal. External examination was notable for proptosis of 7 mm, hypoglobus, and resistance to retropulsion. A firm, nontender mass was palpable in the right superotemporal orbit. The palpebral lobe of the right lacrimal gland was erythematous and prominent compared with the normal-appearing left lacrimal gland. Ocular motility showed −2 abduction deficit, right eye. Slitlamp examination revealed pseudophakia and posterior capsular opacification (right > left), but was otherwise normal. Sensation was normal in the V1, V2 distribution, and there was no preauricular, submandibular, or anterior cervical lymphadenopathy. Computed tomographic scan of the orbits without contrast from an outside facility revealed a spherical mass of unclear cause in the area of the right lacrimal gland. No lytic bone changes or bone remodeling could be seen (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Solitary fibrous tumor",
+        "predict": "Step 1: Orbital Metastasis from Breast Cancer",
+        "topic": "['Ophthalmology', 'Orbit', \"Women's Health\", 'Breast Cancer', 'Oncology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL461",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 63-year-old healthy man presented with a 3-week history of fluctuating left eye swelling and redness. He also reported a 1-week history of left eye discomfort and left-sided tinnitus and a 1-day history of binocular horizontal diplopia. He denied any history of recent trauma. Ophthalmologic examination at the time revealed visual acuities of 20/30 OD and 20/40 OS. Intraocular pressures were 15 mm Hg OD and 21 mm Hg OS, with a widened pulse pressure of the left eye. Extraocular motility revealed a left eye abduction deficit. Pupils and confrontational visual fields were unremarkable. Hertel measured 16 mm and 17 mm, respectively. Slitlamp examination of the right eye was unremarkable, but examination of the left eye revealed a large subconjunctival hemorrhage and engorged episcleral veins (Figure 1). Fundus examination of both eyes was unremarkable.\n### OUTPUT:\n    ",
+        "true": "Dural cavernous fistula",
+        "predict": "1. Cavernous Sinus Thrombosis",
+        "topic": "['Ophthalmology', 'Otolaryngology', 'Audiology and Hearing']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL466",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA woman in her 50s with a history of chronic hepatitis C, hypothyroidism, and alcoholism presented to the outpatient clinic complaining of nasal congestion and epistaxis. Nonenhanced computed tomography of the paranasal sinuses revealed a soft-tissue mass extending from the nasopharynx into the left sphenoid sinus with erosion of the sphenoid sinus floor and the clivus (Figure 1A). The sella was apparently normal with no disruption of its floor. The intracranial and orbital soft tissues were grossly normal, as were the remaining soft tissues under the skull base.\n### OUTPUT:\n    ",
+        "true": "Ectopic pituitary adenoma",
+        "predict": "1. Nasopharyngeal carcinoma",
+        "topic": "['Radiology', 'Otolaryngology', 'Rhinology and Sinus Disease', 'Clinical Decision Support', 'Endocrinology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL467",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his late 40s with a history of hypertension presented to the emergency department after multiple episodes of palpitations with near syncope. While in the emergency department, he developed monomorphic ventricular tachycardia (VT) with hemodynamic instability and was successfully cardioverted. He continued to have nonsustained monomorphic VT, so intravenous amiodarone and oral metoprolol were initiated. He was admitted for further evaluation. Results of tests of electrolyte levels and coronary angiography were normal. Cardiac magnetic resonance imaging with gadolinium contrast revealed normal-sized cardiac chambers and normal biventricular function without delayed enhancement. The presenting electrocardiogram (ECG) is shown in Figure 1.\n### OUTPUT:\n    ",
+        "true": "Outflow tract ventricular tachycardia",
+        "predict": "Step 1: Idiopathic Ventricular Tachycardia",
+        "topic": "['Cardiology', 'Rhythm Disorders', 'Challenges in Clinical Electrocardiography']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL470",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his early 50s with a history of polycystic ovarian syndrome, diabetes, stroke, and coronary artery disease that required coronary artery bypass graft 6 years earlier presented to the emergency department with 12 hours of sudden-onset, constant, right lower quadrant abdominal pain associated with vomiting and melena. He denied any hematochezia or history of peptic ulcer disease. He had no other surgical history and denied alcohol use or smoking. On examination, he was hypertensive (blood pressure, 185/85 mm Hg) although not tachycardic and was afebrile. He was locally tender to palpation in the right lower quadrant with rebound and voluntary guarding. His abdomen was not tympanitic. The patient had no abdominal scars, hernias, or palpable masses. Laboratory results were significant for the following: leukocyte count, 23 600/µL (to convert to ×109/L, multiply by 0.001) with neutrophilia (94%); blood urea nitrogen level, 28 mg/dL (to convert to millimoles per liter, multiply by 0.357); creatinine concentration, 0.01 mg/dL (to convert to micromoles per liter, multiply by 88.4); lipase concentration, 195 U/L (to convert to microkatals per liter, multiply by 0.0167); and lactate concentration, 2.02 mg/dL (to convert to millimoles per liter, multiply by 0.111). Electrolyte levels and liver function test results were within normal limits. An electrocardiogram showed normal sinus rhythm. Computed tomography of the abdomen and pelvis with oral and intravenous contrast enhancement was performed (Figure).\n### OUTPUT:\n    ",
+        "true": "Colonic ischemia",
+        "predict": "Step 1: Appendicitis",
+        "topic": "['Gastroenterology', 'Surgery', 'Gastroenterology and Hepatology', 'Bleeding and Transfusion', 'Ischemic Heart Disease']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL473",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA white woman in her early 50s presented to the emergency department of Massachusetts Eye and Ear with a 1-day history of sudden decreased visual acuity in the right eye. She denied any recent trauma, flashes, floaters, pain, or any prior similar episodes. Her medical history was remarkable for asthma and prostate cancer, and review of systems was negative except for her visual loss. On examination, her best-corrected visual acuity was 20/400 OD and 20/20 OS. Pupils were reactive with no relative afferent pupillary defect, and intraocular pressure measurements were unremarkable, as were results of the external and slitlamp examinations. Dilated fundus examination of the right eye showed submacular hemorrhage with pigment epithelial detachment (Figure 1A). Results of a dilated fundus examination of the left eye were unremarkable. Optical coherence tomography (OCT) of the right eye (Figure 1B) revealed subretinal and sub–retinal pigment epithelium (RPE) hemorrhage; results were unremarkable in the left eye.\n### OUTPUT:\n    ",
+        "true": "Polypoidal choroidal vasculopathy",
+        "predict": "Step 1: Age-related Macular Degeneration (AMD)",
+        "topic": "['Ophthalmology', 'Retinal Disorders', 'Macular Diseases']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL475",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA man in his 80s presented to hospital with somnolence and fatigue of 2 days’ duration. Medical history included lower urinary tract symptoms of 1-week duration for which he was prescribed cotrimoxazole with no improvement. He also reported progressively worsening buttock pain of 5 days’ duration. The patient was admitted to the intensive care unit 3 weeks prior to presentation for pneumonia and remained hospitalized for 10 days. He was not sexually active and had no medical history of sexually transmitted infections. Anogenital examination revealed buttock ulcers (Figure 1B) tender to palpation. Initial blood workup showed leukopenia with a white blood cell count of 2400 cells/μL (to convert to cells/L, multiply by 106), a differential of 72% neutrophils, and a hemoglobin level of 8.5 g/dL with a hematocrit differential of 27% (to convert hemoglobin to g/L, multiply by 10.0). Cotrimoxazole was discontinued on admission. A biopsy specimen was obtained from the left buttock ulcer (Figure 1C).\n### OUTPUT:\n    ",
+        "true": "Cytomegalovirus ulcers",
+        "predict": "Step 1: Sepsis",
+        "topic": "['Dermatology', 'Geriatrics', 'Urology', 'Gynecology', 'Obstetrics and Gynecology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL476",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA pregnant man in his late 30s had normal findings on anatomic ultrasonography at 19 weeks’ gestation. Follow-up ultrasonography at 32 weeks’ gestation identified fetal hydrops. The fetal ultrasonogram showed a large left-sided hydrothorax, mediastinal shift, and ascites. After ruling out infectious causes, an ultrasonography-guided thoracoamniotic shunt was placed successfully at 32 weeks’ gestation. Results of follow-up ultrasonography on postoperative day 3 showed improvement in the fetal hydrothorax and resolution of hydrops and identified a feeding vessel originating from the descending aorta supplying a lung mass (Figure 1A).\n### OUTPUT:\n    ",
+        "true": "Bronchopulmonary sequestration",
+        "predict": "1. Congenital Cystic Adenomatoid Malformation (CCAM)",
+        "topic": "['Surgery', \"Women's Health\", 'Obstetrics and Gynecology', 'Obstetrics']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL483",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 44-year-old African American man without traditional atherosclerotic risk factors or known coronary artery disease (CAD) presented to the emergency department with chest pain. He had 3 previous children (2 live births and 1 spontaneous abortion); his last child was born more than 5 years ago. His chest pain began spontaneously 1 hour prior to presentation and was described as retrosternal with radiation to his upper and middle back. On physical examination, his blood pressure was 128/88 mm Hg, his pulse was regular at 96 beats per minute, his respiratory rate was 16 breaths per minute, and his temperature was 36.9° C. Pulse oximetry was 100% in room air. The chest was nontender. Pertinent physical findings included normal central venous pressures, clear lung fields, normal first and second heart sounds, an audible fourth heart sound, and no murmurs. The electrocardiogram (Figure 1A) demonstrated anterior ST-segment elevations consistent with an anterior acute current of injury. Results from the chest radiography were normal. Initial troponin I concentration was 0.02 ng/mL but rose to 177.76 ng/mL over the ensuing 4 hours (the patient’s chest pain had resolved by this time). Urgent coronary angiography was performed (Figure 1B). Thrombolysis in myocardial infarction flow grade 2 was observed in the left anterior descending artery and second diagonal branch.\n### OUTPUT:\n    ",
+        "true": "Spontaneous coronary artery dissection",
+        "predict": "Step 1: Acute Myocardial Infarction",
+        "topic": "['Radiology', 'Emergency Medicine', 'Acute Coronary Syndromes', 'Cardiology', 'Cardiac Imaging']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL486",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA 40-year-old healthy man presented with an 8-year history of a slowly growing erythematous plaque on the left lower eyelid, with occasional discomfort. Physical examination revealed a single erythematous scaling plaque involving the left lower eyelid, including its border. Eyelashes were totally absent (Figure 1A). No other lesions were found after complete physical examination. Dermoscopy showed an erythematous background, telangiectatic vessels, whitish structureless areas, and whitish scales (Figure 1B). A 4-mm punch biopsy specimen was obtained (Figure 1C).\n### OUTPUT:\n    ",
+        "true": "Discoid lupus erythematosus",
+        "predict": "1. Basal cell carcinoma",
+        "topic": "['Dermatology', 'External Eye Disease', 'Ophthalmology']",
+        "acc": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": "JAMA_FINAL491",
+        "input": "Develop a 10-Step differential diagnosis, for each step, give only one differential diagnosis with only the disease name at current step, do not provide repeated hypotheses or diagnoses that appear in previous steps. Rerank all 10 differential diagnosis using all patient information and test results. Let’s think step by step.\n### INPUT:\nA previously healthy 61-year-old woman presented to the emergency department with a 4-week history of severe weakness and difficulty ambulating independently. She had difficulty rising from a seated position. Additional symptoms included progressive numbness and tingling of the hands and feet. Her family also reported progressive memory impairment during this period. An extensive review of systems was otherwise unremarkable, except for a few months of intermittent nausea, increased abdominal bloating, and anorexia. Physical examination revealed normal vital signs, normal cardiopulmonary findings, atrophy in the calf muscles bilaterally, 4 of 5 symmetric strength in the upper and lower extremity extensor muscles, and an unsteady shuffling gait. She had decreased vibration and proprioception in both lower extremities, with hyperreflexia and a positive Babinski reflex on the left side. Mental status examination revealed delayed recall of 1 of 4 words. Complete blood cell count revealed a white blood cell count of 4.7 × 103/μL; hemoglobin level, 10.9 g/dL; hematocrit, 31.8%; and platelet count, 202 × 103/μL. Mean corpuscular volume was 119 fL. Results of renal function and liver function tests were normal. Because of the asymmetric hyperreflexia and concern for a spinal cord lesion, magnetic resonance imaging (MRI) of the spine was performed (Figure 1).\n### OUTPUT:\n    ",
+        "true": "Vitamin B12 deficiency",
+        "predict": "1. Vitamin B12 deficiency",
+        "topic": "['Neurology', 'Neuroimaging', 'Pathology and Laboratory Medicine', 'Hematology', 'Dementia and Cognitive Impairment']",
+        "acc": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

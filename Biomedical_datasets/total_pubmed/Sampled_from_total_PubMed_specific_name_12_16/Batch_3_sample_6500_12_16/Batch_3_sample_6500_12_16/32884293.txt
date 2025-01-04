@@ -1,0 +1,12 @@
+Metastasis is the leading cause of death for patients with osteosarcoma (OS).
+In the present study, we explore the biomarkers for metastatic OS and provide potential therapeutic approaches.
+RNA-Seq data and clinical follow-up information were downloaded from TARGET and GEO databases.
+A Cox regression model was used to analyze metastatic events.
+L1000FWD, DGIdb, and CMap databases were used to identify potential drugs related to metastasis.
+Invasion and migration transwell assays and an adhesion assay were used to identify biological functions of genes.
+A total of 15 metastasis-related signatures (MRSs) were associated with the prognosis based on the TARGET or GSE21257 cohorts, among which IL10RA and TLR7 genes were especially significant.
+In the DGIdb drug-gene interaction database, TLR7 and IFNGR1 were found to have potential interactions with drugs.
+After inhibiting the expression of TLR7, the migration, invasion, and adhesion ability of OS cells were significantly enhanced, which further promoted metastasis.
+We identified a set of MRS that may be related to OS metastases.
+Among them, TLR7 plays a vital role and may be a potential target for OS metastasis treatment.
+Y TARGET, GEO, L1000FWD, DGIdb, CMap, GSE21257 (No need to annotate, just for notice).

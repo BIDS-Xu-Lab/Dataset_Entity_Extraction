@@ -1,0 +1,14 @@
+Proteins in the antiapoptotic B-cell lymphoma 2 (BCL-2) family play a role in the pathophysiology of multiple myeloma (MM).
+Venetoclax is a highly selective, potent, oral BCL-2 inhibitor that induces apoptosis of MM cells, and its efficacy may be potentiated through combination with agents that increase BCL-2 dependency or have complementary mechanisms of action.
+The safety, tolerability, pharmacokinetics, and antitumor activity of venetoclax in combination with carfilzomib and dexamethasone (VenKd) in adults with relapsed/refractory MM (RRMM) were investigated in this phase 2 dose-escalation study.
+Oral venetoclax (400 or 800 mg) was administered daily in combination with intravenous carfilzomib (27, 56, or 70 mg/m2) and oral dexamethasone (20 or 40 mg) in 4 dose-finding cohorts.
+The expansion cohort received venetoclax 800 mg, carfilzomib 70 mg/m2, and dexamethasone 40 mg.
+Median prior lines of therapy was 1 (range, 1-3), and median time in the study was 27 months.
+The most common treatment-emergent adverse events were diarrhea (65%), fatigue (47%), nausea (47%), and lymphopenia (35%).
+Serious adverse events occurred in 26 (53%) patients.
+Of 3 treatment-emergent deaths, 1 was considered treatment related.
+The overall response rate was 80% in all patients, 92% in patients with t(11;14) (n = 13), and 75% in patients without (n = 36).
+The rate of complete response or better was 41%.
+Median progression-free survival was 22.8 months.
+Treatment with VenKd was well tolerated and showed promising response rates in this RRMM patient population, with greater responses observed in patients with t(11;14).
+This trial is registered at www.clinicaltrials.gov as #NCT02899052.

@@ -1,0 +1,6 @@
+To determine the net direct medical cost of asthma and to investigate factors influencing costs, a case-control study using data from North Carolina Medicaid (May 1996-April 1998) was used.
+Comparison subjects were matched 1:1 on age, gender, and race.
+Multivariate generalized least-squares models were estimated.
+The adjusted net cost of asthma (N = 27,493) was 1250 dollars.
+The number of beta-agonist and oral corticosteroid prescriptions was significantly associated with higher costs.
+The adjusted net cost of asthma to North Carolina Medicaid is approximately 1250 dollars, and the cost of asthma is influenced by beta-agonist and oral corticosteroid exposure.

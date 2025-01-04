@@ -1,0 +1,6 @@
+We describe a novel adaptation of the TaqMan PCR assay which potentially allows for highly sensitive detection of any eubacterial species with simultaneous species identification.
+Our system relies on a unique multiprobe design in which a single set of highly conserved sequences encoded by the 16S rRNA gene serves as the primer pair and is used in combination with both an internal highly conserved sequence, the universal probe, and an internal variable region, the species-specific probe.
+A pre-PCR ultrafiltration step effectively decontaminates or removes background DNA.
+The TaqMan system described reliabAly detected 14 common bacterial species with a detection limit of 50 fg.
+Further, highly sensitive and specific pathogen detection was demonstrated with a prototype species-specific probe designed to detect Staphylococcus aureus.
+This assay has broad potential in the clinical arena for rapid and specific diagnosis of infectious diseases.

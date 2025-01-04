@@ -1,0 +1,10 @@
+Indoor navigation systems (indoor positioning systems) can improve orientation for patients in hospitals and help employees to track assets.
+Many hospitals would like to implement indoor positioning systems but do not know how.
+To support them in doing this, and to gain knowledge about the requirements for indoor positioning system implementation, our research identifies the design criteria relevant to indoor positioning system implementation projects.
+A design science research process is built to design and evaluate an artifact.
+For this, five indoor positioning system developers and five hospital IT management representatives from various hospitals and companies in Germany are interviewed.
+Further, controlled experiments are conducted in Germany, using an ultrasound-based indoor positioning system.
+We determined and tested indoor positioning system functions, evaluated indoor positioning system performance criteria, and identified the operating conditions in hospitals.
+Our results show that indoor positioning system functions should provide a benefit to a hospital's daily operations, that some performance criteria are more important than others, and that operating conditions are important, e.g., radiation.
+As a theoretical contribution, we show how design science research can be applied to the context of indoor positioning systems in hospitals.
+In addition, we make a practical contribution in that our propositions can be used for future indoor positioning system developments.

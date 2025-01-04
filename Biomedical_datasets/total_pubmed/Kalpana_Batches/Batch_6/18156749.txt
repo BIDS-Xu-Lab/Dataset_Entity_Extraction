@@ -1,0 +1,11 @@
+In many studies, oxidative stress markers have been employed to serve as a measure of a disease process or to reflect oxidative status.
+These oxidative stress markers must have some degree of predictive validity, but full substantiation of this relation is still lacking.
+This paper presents data on levels of three biomarkers, oxidized low-density lipoproteins (LDL), carbonyl, and 8-hydroxy-2'-deoxyguanosine (8-OHdG), and a number of life style factors associated with oxidative stress in healthy adults.
+For 237 healthy adults aged 40-60 years, a number of life style factors, biochemical characteristics and oxidative status were evaluated.
+Markers of oxidative stress were measured by an ELISA method.
+Waist-hip ratio and use of vitamin supplement were associated with serum oxidized LDL (P<0.05).
+Body mass index and stress had a relationship (P<0.05) with protein carbonyl.
+Creactive protein was related to serum oxidized LDL (P<0.01).
+There was no correlation among three oxidative stress markers, oxidized LDL, carbonyl, and 8-OHdG.
+The oxidative stress markers used in this study could not be regarded as a general estimate of the healthy individual oxidative status.
+Further studies focusing on the development of biomarkers to reflect changes in the oxidative status under normal, non-pathological conditions in humans will be required.

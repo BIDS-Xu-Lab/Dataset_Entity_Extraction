@@ -1,0 +1,14 @@
+To evaluate the association between adolescent and young adult (AYA) breast cancer (BC) and the adverse pregnancy outcomes of preterm birth, small for gestational age birth, cesarean delivery, and preeclampsia, and the effect of fertility treatment on this association.
+Population-based cohort study with universal coverage health data for Ontario, Canada.
+BC was identified from the Ontario Cancer Registry.
+All births >220 weeks gestation between April 2006 to March 2018 were included.
+Modified Poisson regression generated risk ratios between AYA BC and adverse pregnancy outcomes, adjusted for maternal characteristics.
+Models were stratified by fertility treatment.
+Among 1 189 980 deliveries, 474 mothers had AYA BC history (exposed), while 1 189 506 had no cancer history (unexposed).
+AYA BC was associated with cesarean delivery (adjusted risk ratio [aRR] 1.26; 95% CI 1.14-1.39).
+There was no association between AYA BC and other adverse outcomes.
+Modelling cesarean delivery subtypes, AYA BC was associated with increased risk of planned (aRR 1.27; 95% CI 1.08-1.49) and unplanned cesarean delivery (aRR 1.41; 95% CI 1.20-1.66).
+An increased risk of cesarean delivery in exposed persisted among singleton pregnancies (aRR 1.27; 95% CI 1.15-1.41), but not in models stratified by mode of conception (fertility treatment: aRR 1.07; 95% CI 0.84-1.36; unassisted conception: aRR 1.30; 95% CI 1.16-1.46).
+A history of AYA BC did not confer an elevated risk of adverse pregnancy outcomes, except for planned and unplanned cesarean delivery.
+The risk of adverse pregnancy outcomes does not appear to be an indication for delayed pregnancy after AYA BC diagnosis.
+Y and the Ontario Cancer Registry (No need to annotate, just for notice).

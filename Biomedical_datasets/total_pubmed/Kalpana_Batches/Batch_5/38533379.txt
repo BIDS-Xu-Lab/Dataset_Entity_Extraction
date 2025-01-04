@@ -1,0 +1,10 @@
+This work presents a novel electromagnetic driving system that consists of eight optimized electromagnets arranged in an optimal configuration and employs a control framework based on an active disturbance rejection controller (ADRC) and virtual boundary.
+The optimal system configuration enhances the system's compatibility with other ophthalmic surgical instruments, while also improving its capacity to generate magnetic force in the vertical direction.
+Besides, the optimal electromagnet parameters provide a superior comprehensive performance on magnetic field generation capacity and thermal power.
+Hence, the presented design achieves a stronger capacity for sustained work.
+Furthermore, the ADRC controller effectively monitors and further compensates the total disturbance as well as gravity to enhance the system's robustness.
+Meanwhile, the implementation of virtual boundaries substantially enhances interactive security via collision avoidance.
+The magnetic and thermal performance tests have been performed on the electromagnet to verify the design optimization.
+The proposed electromagnet can generate a superior magnetic field of 2.071 mT at a distance of 65 mm with an applied current of 1 A. Moreover, it demonstrates minimal temperature elevation from room temperature (25 °C) to 46 °C through natural heat dissipation in 3 h, thereby effectively supporting prolonged magnetic manipulation of intraocular microsurgery.
+Furthermore, trajectory tracking experiments with disturbances have been performed in a liquid environment similar to the practical ophthalmic surgery scenarios, to verify the robustness and security of the presented control framework.
+The maximum root mean square (RMS) error of performance tests in different operation modes remains 35.8 μm, providing stable support for intraocular microsurgery.

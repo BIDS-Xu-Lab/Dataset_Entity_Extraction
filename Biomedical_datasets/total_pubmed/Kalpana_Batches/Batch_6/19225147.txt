@@ -1,0 +1,10 @@
+Carnosine (beta-alanyl-l-histidine), an endogenous dipeptide substrate of the proton-coupled oligopeptide transporter PEPT2, plays an important role in many physiological processes.
+This study examined the effect of PEPT2 on the disposition of endogenous and exogenous carnosine in wild-type and Pept2 null mice.
+After exogenous dosing of [(3)H]carnosine (1 nmol/g iv bolus), a marked increase was observed in its systemic clearance in Pept2 null mice (0.50 vs. 0.29 ml/min), resulting in a decreased systemic exposure of dipeptide (area under the curve = 43.7 vs. 73.0 microM).
+Carnosine uptake was substantially reduced in the kidney of Pept2 null mice, and renal clearance increased 18-fold in this genotype (206 vs. 11.5 microl/min).
+Fractional reabsorption of carnosine in Pept2 null mice was only one-fifth that in wild-type animals (0.20 vs. 0.94).
+PEPT2 also had a substantial impact in brain where the cerebrospinal fluid (CSF)-to-plasma concentration ratio of carnosine was eightfold greater in Pept2 null mice (0.70 vs. 0.08).
+With respect to endogenous carnosine levels, significant reductions were observed in Pept2 null compared with wild-type mice for choroid plexus (0.026 vs. 0.20 mmol/kg), olfactory bulb (1.12 vs. 1.79 mmol/kg), and spleen (0.019 vs. 0.029 mmol/kg).
+In contrast, carnosine levels in the skeletal muscle of Pept2 null mice were significantly increased (1.70 vs. 1.14 mmol/kg), and no differences were observed between genotypes for endogenous carnosine levels in plasma and CSF.
+These results demonstrate that PEPT2 significantly modulates the disposition of exogenous carnosine.
+However, endogenous carnosine levels may be under homeostatic control to maintain systemic and central concentrations under physiological in vivo conditions.

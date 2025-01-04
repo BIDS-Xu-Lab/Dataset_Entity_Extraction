@@ -1,0 +1,3 @@
+The superoxide dismutase (SOD) activity of beef heart cytochrome oxidase, both in the resting (as isolated) and pulsed (reduced and reoxidized) states, has been investigated using their ability to inhibit the autoxidation rate of pyrogallol and epinephrine.
+Resting oxidase showed variable SOD activity, while in the pulsed state the SOD activity of cytochrome oxidase (CcO) increased by an order of magnitude.
+These results are discussed in terms of a physiological role for the pulsed oxidase.

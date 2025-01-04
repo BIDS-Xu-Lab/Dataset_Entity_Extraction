@@ -1,0 +1,7 @@
+Tetrabromobisphenol A (TBBPA) is the most widely used brominated flame retardant (BFR), and it bioaccumulates throughout the food chains.
+Its fate in the first trophic level, plants, is of special interest.
+In this study, a four-day hydroponic exposure of TBBPA at a concentration of 1 μmol L-1 to pumpkin seedlings was conducted.
+A nontarget screening method for hydrophilic bromine-containing metabolites was modified, based on both typical isotope patterns of bromine and mass defect, and used to process mass spectra data.
+A total of 20 glycosylation and malonyl glycosylation metabolites were found for TBBPA in the pumpkin plants.
+Representative glycosyl TBBPA reference standards were synthesized to evaluate the contribution of this glycosylation process.
+Approximately 86% of parent TBBPA was metabolized to form those 20 glycosyl TBBPAs, showing that glycosylation was the most dominant metabolism pathway for TBBPA in pumpkin at the tested exposure concentration.

@@ -1,0 +1,9 @@
+From a library of sequences binding preferentially to nuclear matrix (matrix attachment regions, MARs), a fragment of about 300 bp in length (CEA (carcinoembryonic antigen)-MAR) was isolated and characterized.
+The CEA-MAR sequence was found in more than ten loci of chromosome 19 containing elements similar to genes of the CEA family.
+No sequences of this group were found on other human chromosomes.
+Two CEA-MAR-containing loci were sequenced, and sequences for another seven loci were found in GenBank.
+A comparative analysis of CEA-MARs and the flanking sequences is reported.
+Based on the sequence of the CEA-containing chromosome 19 loci, a hypothetical model of the domain structure of a 2-Mb chromosome region was constructed and the mutual arrangement of CEA-MARs and genes of CEA family was elucidated.
+The CEA-MARs were located 5-20 kb downstream of the CEA genes.
+These results suggest that the duplication unit of the CEA family may coincide with chromatin domains containing these genes.
+Y GenBank (No need to annotate, just for notice).

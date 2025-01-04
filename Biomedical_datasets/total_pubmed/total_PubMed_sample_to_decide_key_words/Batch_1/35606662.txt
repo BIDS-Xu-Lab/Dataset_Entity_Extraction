@@ -1,0 +1,9 @@
+Mitochondrial metabolism and function are modulated by changes in matrix Ca2+.
+Small increases in the matrix Ca2+ stimulate mitochondrial bioenergetics, whereas excessive Ca2+ leads to cell death by causing massive matrix swelling and impairing the structural and functional integrity of mitochondria.
+Sustained opening of the non-selective mitochondrial permeability transition pores (PTP) is the main mechanism responsible for mitochondrial Ca2+ overload that leads to mitochondrial dysfunction and cell death.
+Recent studies suggest the existence of two or more types of PTP, and adenine nucleotide translocator (ANT) and FOF1-ATP synthase were proposed to form the PTP independent of each other.
+Here, we elucidated the role of ANT in PTP opening by applying both experimental and computational approaches.
+We first developed and corroborated a detailed model of the ANT transport mechanism including the matrix (ANTM), cytosolic (ANTC), and pore (ANTP) states of the transporter.
+Then, the ANT model was incorporated into a simple, yet effective, empirical model of mitochondrial bioenergetics to ascertain the point when Ca2+ overload initiates PTP opening via an ANT switch-like mechanism activated by matrix Ca2+ and is inhibited by extra-mitochondrial ADP.
+We found that encoding a heterogeneous Ca2+ response of at least three types of PTPs, weakly, moderately, and strongly sensitive to Ca2+, enabled the model to simulate Ca2+ release dynamics observed after large boluses were administered to a population of energized cardiac mitochondria.
+Thus, this study demonstrates the potential role of ANT in PTP gating and proposes a novel mechanism governing the cryptic nature of the PTP phenomenon.

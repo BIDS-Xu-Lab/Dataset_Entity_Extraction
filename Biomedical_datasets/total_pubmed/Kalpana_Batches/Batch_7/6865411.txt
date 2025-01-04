@@ -1,0 +1,8 @@
+Steroids have been coupled to pyrimidines to give potentially target-specific anti-tumor agents.
+We report here on the molecular structures of two such adducts.
+The structures of these have been determined by X-ray crystallographic techniques.
+The uracil substituent of the former compound is observed to be oriented below the alpha-face in the plane of the steroid skeleton.
+In contrast, upon introduction of a 17 alpha-hydroxyl group, as in the latter compound, the base substituent is found to be in a perpendicular orientation bent towards the beta-face of the steroid skeleton.
+In the uracil derivative the bases stack between steroid portions of other molecules.
+In the thymine adduct this does not occur.
+The molecule conformations are correlated with the differences in receptor affinity for these two steroid adducts.

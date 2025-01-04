@@ -1,0 +1,15 @@
+Burn survivors undergoing complex glycemic derangements in the acute period after burn are at significantly increased risk of worse outcomes.
+Although most critical care investigations recommend intensive glycemic control to prevent morbidity and mortality, conflicting recommendations exist.
+To date, no literature review has studied outcomes associated with intensive glucose control in the burn intensive care unit (ICU) population.
+This review addresses this gap to improve practice guidelines and support further research regarding glycemic control.
+This is a narrative review of literature utilizing PubMed for articles published at any time.
+Inclusion criteria were English studies describing glucose management in ICU adult burn patients.
+Studies involving pediatric patients, non-human subjects, care non-ICU care, case reports, editorials, and position pieces were excluded.
+Our literature search identified 2154 articles.
+Full text review of 61 articles identified eight meeting inclusion criteria.
+Two studies reported mortality benefit of intensive glucose control ( mg/dL) compared to controls ( mg/dL), while two studies showed no mortality differences.
+Three studies reported reduced infectious complications such as pneumonia, urinary tract infection, sepsis, and bacteremia.
+A majority of the studies (6/8) reported higher risk for hypoglycemia with tight glucose control, but few reported instances of adverse sequela associated with hypoglycemia.
+Intensive glucose control may provide benefit to burn patients, but complications associated with hypoglycemia must be considered.
+This review recommends an individualized patient-centered approach factoring comorbidities, burn injury characteristics, and risk factors when determining whether to employ intensive glucose control.
+Y and PubMed (No need to annotate, just for notice).

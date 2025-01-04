@@ -1,0 +1,8 @@
+Salivary immune responses depend on localization of immunocytes in salivary glands.
+We tested effects of anti-adhesion molecule antibodies and several ligand analogs on in vitro adherence of rat thoracic duct lymphocytes (TDL) to parotid and submandibular gland sections.
+While TDL adherence to both tissues was markedly decreased by anti-L-selectin mAbs, binding ability after removal of L-selectin by chymotrypsin or PMA suggested that other adhesion systems were involved.
+Integrin involvement in parotid interactions was indicated by inhibitory effects of anti-HEBF(PP), LFA-1, ICAM-1, and alpha4 integrin antibodies as well as by the PMA-enhanced adherence.
+Anti-Thy-1 partially inhibited TDL binding to parotid gland, and anti-CD44 partially inhibited submandibular binding.
+The majority of salivary gland-bound TDL were sIg+ B cells.
+FACS analysis showed differences in parotid and submandibular endogenous lymphocyte adhesion molecule expression with greater percentages of L-selectin, HEBF(PP), alpha4 integrin, LFA-1, ICAM-1, CD44, and Thy-1-positive cells present in parotid gland.
+While precise roles of known or novel adhesion molecules in salivary gland lymphocyte retention are not clear, these data suggest that selectins (parotid, submandibular), integrins (parotid), Thy-1 (parotid), and CD-44 (submandibular), as well as other unidentified molecules, are involved.

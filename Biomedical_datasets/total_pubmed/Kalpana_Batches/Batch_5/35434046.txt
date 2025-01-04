@@ -1,0 +1,14 @@
+The lung is one of the most sensitive organs, and is vulnerable to injury caused by limb ischemia-reperfusion (LIR).
+Dexmedetomidine, an anesthetic adjunct, has been shown to have therapeutic effects on lung injury secondary to LIR.
+This study aimed to investigate the role of dexmedetomidine in ameliorating LIR-induced lung injury in a mouse model of bilateral hind LIR.
+In this study, 75 mice were randomly divided into 5 groups to prepare the LIR model.
+After the model was established, arterial blood was extracted for blood gas analysis.
+The pathological changes of lung tissue, lung wet/dry weight ratio, arterial blood gas analysis, detection of myeloperoxidase (MPO) activity, the content of reactive oxygen species (ROS), superoxide dismutase (SOD), glutathione peroxidase (GSH-Px) and malondialdehyde (MDA) in oxidative stress indexes, mitochondrial membrane potential (MMP), adenosine triphosphate (ATP) content and cytochrome c content were measured, and the relative protein expression levels of sirtuin-3 (SIRT3) and apoptosis factor Bcl-2 related X protein (Bax), B-cell Lymphoma 2 (Bcl-2), cleaved caspase 3, and nuclear factor erythroid 2-related factor 2 (Nrf2) and cytoplasmic heme oxygenase-1 (HO-1).
+Pretreatment with dexmedetomidine dramatically ameliorated LIR-induced lung injury, the wet/dry weight ratio, the arterial blood gas parameters, and enhanced SIRT3 expression.
+Moreover, dexmedetomidine significantly inhibits ROS and MDA level and restores antioxidant enzyme activities (SOD, GSH-Px).
+Of note, dexmedetomidine suppressed LIR-induced lung tissue apoptosis by modulating apoptosis-associated protein such as Bax, Bcl-2, and cleaved caspase 3.
+Moreover, dexmedetomidine inhibited the LIR-induced decreases in MMP, ATP levels, and the release of cytochrome c of LIR to maintain mitochondrial function.
+Latest study has shown that activating Nrf2 could promote SIRT3 expression to alleviate IR injury.
+Intriguingly, dexmedetomidine could facilitate nuclear Nrf2 and cytoplasmic HO-1 expression.
+Our findings suggest that dexmedetomidine protects against LIR-induced lung injury by inhibiting the oxidative response, mitochondrial dysfunction and apoptosis.
+The mechanism appears to be at least partly mediated through the upregulation of SIRT3 expression.

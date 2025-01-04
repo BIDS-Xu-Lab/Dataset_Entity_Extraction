@@ -1,0 +1,7 @@
+To illustrate the academic influence of Chinese Journal of Integrated Traditional and Western medicine, and provide suggestions for further development of the Journal.
+Taking the China National Knowledge Infrastructure (CNKI) database as main source and the Chinese Science Citation Database (CSCD) as reference, the researchers retrieved the related data of the Journal such as its publication quantity, citations, fund projects, authors, institutions and regions from 1981 to 2018, analyzed these data by means of bibliometrics and information visualization with EXCEL, SPSS, VISIO, MATLAB and other softwares.
+Through the analysis of the main indicators, the relevant indicators of the Journal's academic influence revealed the developing trend of the Journal.
+Cardiovascular and cerebrovascular diseases, endocrine, digestive system, pharmacological research of Chinese medicine and gynecology, as the hot topics in the discipline and academic, were clarified.
+All indicators show that the Journal is a high-quality journal reflecting the excellent achievements in the field of integrated Chinese and Western medicine in China.
+Through further analysis of relevant indicators, the authors put forward some specific suggestions on how to run the Journal well.
+Y: China National Knowledge Infrastructure (CNKI), Chinese Science Citation Database (CSCD) (No need to annotate, just for notice).

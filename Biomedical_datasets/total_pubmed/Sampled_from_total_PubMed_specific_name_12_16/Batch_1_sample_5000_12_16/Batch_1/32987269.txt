@@ -1,0 +1,9 @@
+In this work, a painting suspected of counterfeiting was analyzed using the synchrotron-based scanning macro X-ray fluorescence (MA-XRF) technique.
+The canvas has erasures including a signature erasure; however, some visible numbers indicate that the artwork may be from the 17th century.
+Through the studies' elemental maps, Cl-K and Ca-K were observed, which allowed us to reconstruct the signature present in the painting.
+Elemental maps of Ba-K, Ti-K, Fe-K, Zn-K, and Pb-K were also obtained from the painting, which made possible to visualize how the pigments based on these elements were used in the creative composition of the painting.
+In addition to the signature region, a region of the painting with dimensions of approximately 120 mm × 120 mm was investigated by synchrotron radiation induced MA-XRF, while keeping a high spatial resolution and elemental sensitivity.
+The measurements were carried out at the D09B micro-XRF beamline of the Brazilian Synchrotron Light Laboratory (LNLS), part of the Brazilian Center of Research in Energy and Materials, in Campinas Brazil.
+The painting was also investigated by SEM-EDS, and FTIR techniques.
+Those results, in addition to the supporting elemental maps, allowed additional information to be obtained, such as the binders used on the painting.
+Y: Brazilian Synchrotron Light Laboratory (LNLS) (No need to annotate, just for notice).

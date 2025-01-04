@@ -1,0 +1,4 @@
+Escherichia coli is a Gram-negative, rod-shaped bacterium that is commonly found in the intestine of warm-blooded organisms.
+Most E. coli strains are harmless, but some serotypes can cause serious food poisoning in humans.
+Here, we present the complete genome sequence of Escherichia coli LCT-EC106, which was isolated from CGMCC 1.2385.
+Y Escherichia coli LCT-EC106, CGMCC 1.2385 (No need to annotate, just for notice).

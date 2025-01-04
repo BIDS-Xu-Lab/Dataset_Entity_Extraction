@@ -1,0 +1,7 @@
+Poliovirus-specific immunoglobulin A (IgA) is detected after infection with wild-type virus or vaccination with live attenuated oral poliovirus (OPV) but not after vaccination with inactivated poliovirus (IPV).
+We examined whether the presence of IgA in serum can be used as a marker for poliovirus circulation in IPV-vaccinated populations in The Netherlands.
+In seronegative persons challenged with OPV, the sensitivity of this marker was 76%-86%.
+Results from a serosurvey showed a high seroprevalence (63%-73%) of IgA in the population born before vaccination was introduced in The Netherlands, which reflects natural exposure.
+The start of the vaccination program in 1957 corresponded to a reduction in the IgA seroprevalence in both vaccinated (2.1%-4.5%) and nonvaccinated groups (8.3%-11.7%).
+The presence of IgA-positive persons in the population could largely be explained by the occurrence of episodes of proven poliovirus circulation.
+We propose to use the detection of poliovirus-specific IgA as a tool to monitor virus circulation in IPV-vaccinated and nonvaccinated populations, to aid the poliovirus eradication process.

@@ -1,0 +1,6 @@
+Reduced levels of naturally occurring autoantibodies against amyloid-β (Aβ) have been described in Alzheimer's disease (AD).
+Lifetime depression doubles the risk of AD, thus these autoantibodies may also be reduced in this group.
+We measured serum IgG autoantibody titers against Aβ1-42, S100b and α-synuclein in 214 individuals with depression and 419 controls.
+Titers against Aβ1-42 were lower in individuals with lifetime depression (5544.6 ± 389.3) compared to controls (7208.7 ± 482.4; p = 0.048).
+Titers against S100b and α-synuclein were comparable between the cohorts.
+These data suggest an AD-like impairment of the humoral immune response in a relevant proportion of individuals with depression.

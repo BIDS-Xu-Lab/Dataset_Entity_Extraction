@@ -1,0 +1,7 @@
+In patients with end-stage left ventricular (LV) heart failure who receive LV assist device (LVAD) implantation, right ventricular (RV) failure represents a possible critical complication that heavily affects morbidity and mortality.
+Several clinical, laboratory, hemodynamic, and echocardiographic variables have been found to be associated with RV failure occurrence after surgery.
+Different models and risk scores have been proposed, with poor results.
+No accordance has ever been reached about RV pre-operative evaluation, and time has come to introduce a standardized systematic protocol for LVAD suitability assessment according to RV function.
+We analyzed imaging parameters associated with LVAD implantation-related RV failure, in order to identify the minimum number for pre-operative reliable prediction of post-operative RV failure.
+A few echocardiographic parameters have been identified as the most reliable, or promising, and reproducible tools in this field: free-wall RV longitudinal strain, RV fractional area change, RV sphericity index, and RV ejection fraction with 3D-echocardiography.
+We propose the Systematic LVAD Implant Eligibility with Non-invasive Assessment protocol-the SIENA protocol-as a new and simple way of pre-operative evaluation of patients candidates to LVAD implantation.

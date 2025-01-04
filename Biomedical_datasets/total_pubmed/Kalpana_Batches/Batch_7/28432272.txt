@@ -1,0 +1,7 @@
+Theca cells, including theca interna cells and theca externa cells, are vital components of ovarian follicles.
+The aim of the present study is to identify a reliable method for the in vitro culture of theca cells from duck ovarian hierarchical (F4-F2) follicles.
+We improved the method for cell separation by using trypsin to further remove granular cells, and we increased the concentration of fetal bovine serum used in in vitro culture to improve cytoactivity.
+Cell antibody immunofluorescence (IF) showed that all inoculated cells could be stained by the CYP17A1/19A1 antibody but not by the FSHR antibody, which could stain granulosa cells.
+Furthermore, morphological differences were observed between the outlines of theca interna and externa cells and in their nuclei.
+Growth curve and CYP17A1/19A1 mRNA relative expression analyses suggested that the growth profile of theca interna cells may have been significantly different from that of theca externa cells in vitro Theca interna cells experienced the logarithmic phase on d1-d2, the plateau phase on d2-d3, and the senescence phase after d3, while theca externa cells experienced the logarithmic phase on d1-d3, the plateau phase on d3-d5, and the senescence phase after d5.
+Taken together, these results suggested that we have successfully established a reliable theca cell culture model and further defined theca cell characteristics in vitro.

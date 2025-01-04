@@ -1,0 +1,14 @@
+To evaluate the influence on bond strength and interface quality of different canal drying protocols in roots filled with Bio-C Sealer.
+Ninety-six roots of upper canines were prepared with R50 file and irrigated with 2.5% NaOCl and 17% EDTA under ultrasonic agitation.
+Roots were divided according to the drying protocol: Dry -White Mac tip for 5 s, followed by aspiration with a capillary tip for 5 s and paper points; Slightly moist -White Mac tip followed by capillary aspiration without paper points; Wet -White Mac tip followed by a single paper point.
+The roots were filled with Bio-C Sealer (BCS) or AH Plus (AHP) (n = 16) and sectioned for the push-out test after 3 months.
+Failure modes were assessed and the interface morphology was analyzed under SEM.
+After 6 months, the other half of roots were evaluated.
+Data were analyzed by ANOVA/Tukey test at 5%.
+Chi-square test were used in the failure analysis and Kruskal-Wallis/Dwass-Steel-Critchlow-Fligner for interface analysis.
+The AHP-filled roots had the highest bond strength when the canal was dried (P < .05).
+No difference was found for periods (P > .05).
+For BCS, the highest bond strength was found in the slightly moist canals (P < .05).
+A predominance of adhesive failures was observed.
+The dried canals filled with AHP had the highest percentage of good adaptation, while BCS had no difference.
+The best drying protocol for AH Plus is using the White Mac tip, followed by the capillary tip aspiration and paper points until complete dryness; and for Bio-C Sealer is using the White Mac tip, followed by capillary aspiration without paper points.

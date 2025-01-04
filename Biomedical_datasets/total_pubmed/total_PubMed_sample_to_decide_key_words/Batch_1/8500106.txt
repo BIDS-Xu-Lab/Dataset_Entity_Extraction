@@ -1,0 +1,5 @@
+The Li-Fraumeni familial cancer syndrome was initially described in 1969 in a retrospective epidemiologic review of more than 600 pediatric sarcoma patients.
+The clinical definition of the syndrome has been refined in the last two decades by prospective analyses of several families.
+Despite these exhaustive studies, the gene or genes responsible for the unusual constellation of tumors in these families remained elusive until 1990, when it was demonstrated that germline abnormalities of the p53 tumor suppressor gene could account for the occurrence of cancer in many classic Li-Fraumeni families.
+Identification of the molecular events that yield this phenotype has led many researchers to pursue several lines of investigation to improve our understanding of the significance of such alterations.
+We discuss the clinical, epidemiologic, genetic, and biologic aspects of the association between p53 and the Li-Fraumeni family cancer syndrome.

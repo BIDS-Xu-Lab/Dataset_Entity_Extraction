@@ -1,0 +1,8 @@
+Flexible sensors are highly advantageous for integration in portable and wearable devices.
+In this work, we propose and validate a simple strategy to achieve whole wafer-size flexible SERS substrate via a one-step metal-assisted chemical etching (MACE).
+A pre-patterning Si wafer allows for PSi structures to form in tens of microns areas, and thus enables easy detachment of PSi film pieces from bulk Si substrates.
+The morphology, porosity, and pore size of PS films can be precisely controlled by varying the etchant concentration, which shows obvious effects on film integrity and wettability.
+The cracks and self-peeling of Psi films can be achieved by the drying conditions after MACE, enabling transfer of Psi films from Si wafer to any substrates, while maintaining their original properties and vertical alignment.
+After coating with a thin layer of silver (Ag), the rigid and flexible PSi films before and after transfer both show obvious surface-enhanced Raman scattering (SERS) effect.
+Moreover, flexible PSi films SERS substrates have been demonstrated with high sensitivity (down to 2.6 × 10-9 g/cm2) for detection of methyl parathion (MPT) residues on a curved apple surface.
+Such a method provides us with quick and high throughput fabrication of nanostructured materials for sensing, catalysis, and electro-optical applications.

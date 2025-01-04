@@ -1,0 +1,9 @@
+We investigated and characterized the patterns of meridional anisotropies in newly diagnosed refractive amblyopes using pattern onset-offset visual evoked potentials (POVEPs) and psychophysical grating acuity (GA).
+Twenty-five refractive amblyopes were recruited and compared with non-amblyopic controls from our previous study.
+Monocular POVEPs were recorded in response to sinewave 4 cycles per degree (cpd) grating stimuli oriented along each individual participants' principal astigmatic meridians, which were approximately horizontal (meridian 1) and vertical (meridian 2).
+Binocular POVEPs in response to the same stimuli, but oriented at 45°, 90°, 135°, and 180°, were recorded.
+Psychophysical GAs were assessed along the same meridians using a two-alternative non-forced-choice technique.
+[D]), moderate (1.75-2.75 D) and high (≥3.00 D) astigmatism.
+In the newly diagnosed refractive amblyopes, there were no significant meridional anisotropies across all outcome measures, but the post hoc analysis demonstrated that C3 amplitude was significantly higher in those with low (P = 0.02) and moderate (P = 0.004) astigmatism compared to those with high astigmatism.
+Refractive amblyopes had poorer GA and C3 amplitudes compared to controls by approximately two lines on the logMAR chart (monocular: P = 0.013; binocular: P = 0.014) and approximately 6 µV (monocular: P = 0.009; binocular: P = 0.027), respectively.
+Deleterious effects of high astigmatism was evident in newly diagnosed refractive amblyopes, but the neural deficits do not seem to be orientation-specific for the stimulus parameters investigated.

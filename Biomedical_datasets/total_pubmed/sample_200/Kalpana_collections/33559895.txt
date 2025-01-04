@@ -1,0 +1,15 @@
+Vitamins A and E play important roles in sustaining life activities and maintaining a good physical condition.
+However, most people, particularly the elderly, experience micronutrient deficiencies.
+This study aimed to establish reference intervals (RIs) for vitamins A and E in Chinese elderly people using a liquid chromatography-tandem mass spectrometry (LC-MS/MS) method.
+A total of 356 apparently healthy individuals aged ≥64 years who underwent health checkups were randomly selected for the study.
+Vitamin A and E levels were measured using LC-MS/MS.
+The effect of sex on vitamin A and E levels was evaluated, and RIs were established using a parametric method.
+Females showed significantly higher levels of vitamin E than males (p < 0.05).
+However, no significant sex-specific difference was observed with vitamin A levels.
+The RI for vitamin A in the elderly was 0.283-0.730 mg/L.
+For vitamin E, the RIs were 4.39-15.63, 4.51-16.14, and 4.41-14.67 mg/L for the total, female, and male participants, respectively.
+In multiple linear regression, alanine aminotransferase, glutamyl transpeptidase, urea, glucose, and uric acid levels increased with increasing vitamin A levels (p < 0.05), and total cholesterol and low-density lipoprotein cholesterol levels increased with increasing vitamin E levels (p < 0.05).
+Direct bilirubin levels decreased with increasing vitamin E levels (p < 0.05).
+This study established RIs for vitamins A and E in Chinese elderly individuals using an LC-MS/MS method.
+We also found that females had significantly higher vitamin E levels than males.
+The findings could provide a scientific basis for interpreting vitamin status in the elderly.

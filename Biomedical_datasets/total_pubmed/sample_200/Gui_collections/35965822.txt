@@ -1,0 +1,13 @@
+Allergic rhinitis (AR) is a non-infectious chronic inflammatory disease of the nasal mucosa mainly mediated by immunoglobulin E (IgE), which seriously affects the life quality of affected patients.
+This study aimed to observe the effects of 1,1-dimethyl-4-diphenylacetoxypiperidinium iodide (4-DAMP; a selective M3 receptor antagonist) on ovalbumin (OVA)-induced AR guinea pigs, and to explore its potential mechanism of involvement.
+An AR model was established by inducing male guinea pigs (4-6 weeks of age) with OVA.
+AR guinea pigs were randomly divided into a model group, 0.6 mg/kg ipratropium bromide (IB) group, 0.12 and 0.6 mg/kg 4-DAMP group (n=18).
+The 0.6 mg/kg IB group, 0.12 and 0.6 mg/kg 4-DAMP group animals were treated with IB (0.6 mg/kg) and 4-DAMP (0.12 or 0.6 mg/kg) by intranasal instillation per nostril daily.
+Animals in the model group and normal group were treated with saline as control.
+The AR symptom scores were counted and nasal secretion weights were measured.
+Histopathological methods were used to observe nasal mucosa.
+Enzyme-linked immunosorbent assay (ELISA) was used to detect the levels of histamine and cytokines.
+Western blot and quantitative real-time polymerase chain reaction (qRT-PCR) were used to detect the expressions of mucin 5AC (MUC5AC), matrix metalloproteinase 9 (MMP9), and epidermal growth factor receptor (EGFR).
+Compared with model group animals, the AR symptom scores and nasal secretion weights of animals treated with 4-DAMP were reduced significantly, goblet cell metaplasia was reversed, and eosinophil infiltration was visibly alleviated.
+The levels of histamine and cytokines in nasal lavage fluid (NLF) were decreased, and the protein and messenger RNA (mRNA) expressions of MUC5AC, MMP9, and EGFR were inhibited.
+Treatment with 4-DAMP has a certain effect on AR, especially for mucus hypersecretion, which provides a new idea for clinical treatment of AR.

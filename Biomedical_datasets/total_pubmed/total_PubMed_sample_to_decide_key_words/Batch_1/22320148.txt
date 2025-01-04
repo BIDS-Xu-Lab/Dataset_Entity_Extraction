@@ -1,0 +1,13 @@
+This Phase III study evaluated the efficacy and safety of twice-daily aclidinium 200 μg and 400 μg versus placebo in the treatment of moderate-to-severe COPD.
+In this 12-week, double-blind, multicenter trial, patients were randomized (1:1:1) to inhaled twice-daily aclidinium 200 μg, aclidinium 400 μg, or placebo.
+Primary and secondary endpoints were changes from baseline in trough FEV₁ and peak FEV₁ at Week 12, respectively.
+[TDI], night and early morning symptoms), and safety were also assessed.
+A total of 561 patients (mean age, 64 ± 9 years) with a mean baseline FEV₁ of 1.36 ± 0.54 L (47.2% of predicted value) were randomized.
+At Week 12, aclidinium 200 μg and 400 μg showed significant improvements from baseline in mean (95% CI)
+trough FEV₁ compared with placebo by 86 (45, 127) mL and 124 (83,164) mL, respectively, and in peak FEV₁ by 146 (101, 190) mL and 192 (148, 236) mL, respectively (p ≤ 0.0001 for all).
+Both aclidinium doses also provided significant improvements in SGRQ, TDI and almost all COPD symptom scores compared with placebo (p < 0.05 for all).
+Incidences of adverse events (AEs) were similar across treatment groups.
+The incidence of anticholinergic AEs was low and similar across groups (dry mouth: 0.5%-1.6%; constipation: 0%-1.1%).
+Treatment of moderate-to-severe COPD patients with twice-daily aclidinium 200 μg and 400 μg was associated with significant improvements in bronchodilation, health status, and COPD symptoms.
+Both doses were well tolerated and had safety profiles similar to placebo.
+This ACCORD I study (AClidinium in Chronic Obstructive Respiratory Disease I) was registered on clinicaltrials.gov (NCT00891462) as "Efficacy and Safety of Aclidinium Bromide for Treatment of Moderate to Severe Chronic Obstructive Pulmonary Disease (COPD)".

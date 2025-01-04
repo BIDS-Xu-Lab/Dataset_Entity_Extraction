@@ -1,0 +1,7 @@
+The ovary serves as the source of oocytes for the maintenance of female fertility and is a major supplier of sex hormones for endocrine homeostasis.
+Various circumstances such as genetic defects, autoimmune disorders, natural aging and environmental toxins can damage the ovaries leading to diminished ovarian function, and there are currently no effective treatment regimens for such loss of function.
+Stem cells show promise for treating many refractory diseases, and stem cell transplantation has been shown to be effective and safe as a new therapeutic method for ovarian injuries and ovarian aging in both animal models and women with premature ovarian insufficiency.
+However, the specific mechanisms that underlie the observed positive outcomes of improving ovarian function are not well understood.
+Evidence is mounting that stem cell-derived conditioned medium, exosomes, and trophic growth factors can also inhibit ovarian damage and alleviate the age-related fertility decline in female mice, indicating that stem cells exert the paracrine effects.
+Further studies to elucidate the cellular and molecular mechanisms, including signaling pathways, for improving ovarian function and promoting the secretory capacity of stem cells will fill the bench-to-bedside gap of stem cell therapy in the clinic.
+Furthermore, in-depth analyses of the stem cell secretome and identification of the key effective components will underlie a new paradigm in cell-free therapeutic strategies for ovarian insufficiency and ovarian aging.

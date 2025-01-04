@@ -1,0 +1,12 @@
+To assess the electromechanical properties of human knee articular cartilage with compression-induced streaming potentials for reliability among users and correlation with macroscopic and histological evaluation tools and sulfated glycosaminoglycan (sGAG) content.
+Streaming potentials are induced in cartilage in response to loading when mobile positive ions in the interstitial fluid temporarily move away from negatively charged proteoglycans.
+Streaming potential integrals (SPIs) were measured with an indentation probe on femoral condyles of 10 human knee specimens according to a standardized location scheme.
+Interobserver reliability was measured using an interclass correlation coefficient (ICC).
+The learning curves of 3 observers were evaluated by regression analysis.
+At each SPI measurement location the degradation level of the tissue was determined by means of the International Cartilage Repair Society (ICRS) score, Mankin score, and sGAG content.
+The computed ICC was 0.77 (0.70-0.83) indicating good to excellent linear agreement of SPI values among the 3 users.
+A significant positive linear correlation of the learning index values was observed for 2 of the 3 users.
+Statistically significant negative correlations between SPI and both ICRS and Mankin scores were observed (r = 0.502, P < 0.001, and r = 0.255, P = 0.02, respectively).
+No correlation was observed between SPI and sGAG content (r = 0.004, P = 0.973).
+SPI values may be used as a quantitative means of cartilage evaluation with sufficient reliability among users.
+Due to the significant learning curve, adequate training should be absolved before routine use of the technique.

@@ -1,0 +1,9 @@
+Real-time object identification and classification are essential in many microfluidic applications especially in the droplet microfluidics.
+This paper discusses the application of convolutional neural networks to detect the merged microdroplet in the flow field and classify them in an on-the-go manner based on the extent of mixing.
+The droplets are generated in PMMA microfluidic devices employing flow-focusing and cross-flow configurations.
+The visualization of binary coalescence of droplets is performed by a CCD camera attached to a microscope, and the sequence of images is recorded.
+Different real-time object localization and classification networks such as You Only Look Once and Singleshot Multibox Detector are deployed for droplet detection and characterization.
+A custom dataset to train these deep neural networks to detect and classify is created from the captured images and labeled manually.
+The merged droplets are segregated based on the degree of mixing into three categories: low mixing, intermediate mixing, and high mixing.
+The trained model is tested against images taken at different ambient conditions, droplet shapes, droplet sizes, and binary-fluid combinations, which indeed exhibited high accuracy and precision in predictions.
+In addition, it is demonstrated that these schemes are efficient in localization of coalesced binary droplets from the recorded video or image and classify them based on grade of mixing irrespective of experimental conditions in real time.

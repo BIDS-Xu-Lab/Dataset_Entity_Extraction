@@ -1,0 +1,8 @@
+A new approach for testing batch "similarity" through comparison of drug dissolution profiles, based on principal component analysis with the establishment of a confidence region (PCA-CR), is presented.
+The dissolution curves corresponding to three brands each of Furosemide and Acetaminophen tablets, taken as model drugs, were prepared by dissolution measurements at multiple pre-specified time points.
+Reference and test data were simultaneously subjected to PCA and pairwise comparisons between the dissolution characteristics of lots of the same and different brands were carried out.
+The comparisons involved plotting the weighed scores of the first two principal components of reference and test lots, while decision about "similarity" was made by checking for inclusion of more than 80% of the tablets of the test lot in the 95% confidence ellipse of the reference samples.
+Two published datasets were also analyzed in the same fashion and all the results were compared with information provided by the difference (f1) and similarity (f2) factor tests.
+Unlike the f2 criterion, the proposed method reflects variability within the individual dissolution curves, being also highly sensitive to profile (shape and size) variations.
+Comparison between the area enclosed by the confidence ellipses of the weighed scores plot and the region obtained from the bootstrap-calculated acceptable values of the corresponding f2 tests suggested that PCA-CR represents, in general, a more discriminating standard.
+Y Two published datasets (No need to annotate, just for notice).

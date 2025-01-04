@@ -1,0 +1,11 @@
+Previous dosimetry protocols allowed calibrations of proton beamline dose monitors to be performed in plastic phantoms.
+Nevertheless, dose determinations were referenced to absorbed dose-to-muscle or absorbed dose-to-water.
+The IAEA Code of Practice TRS 398 recommended that dose calibrations be performed with ionization chambers only in water phantoms because plastic-to-water dose conversion factors were not available with sufficient accuracy at the time of its writing.
+These factors are necessary, however, to evaluate the difference in doses delivered to patients if switching from calibration in plastic to a protocol that only allows calibration in water.
+This work measured polystyrene-to-water dose conversion factors for this purpose.
+Uncertainties in the results due to temperature, geometry, and chamber effects were minimized by using special experimental set-up procedures.
+The measurements were validated by Monte Carlo simulations.
+At the peak of non-range-modulated beams, measured polystyrene-to-water factors ranged from 1.015 to 1.024 for beams with ranges from 36 to 315 mm.
+For beams with the same ranges and medium sized modulations, the factors ranged from 1.005 to 1.019.
+The measured results were used to generate tables of polystyrene-to-water dose conversion factors.
+The dose conversion factors can be used at clinical proton facilities to support beamline and patient specific dose per monitor unit calibrations performed in polystyrene phantoms.

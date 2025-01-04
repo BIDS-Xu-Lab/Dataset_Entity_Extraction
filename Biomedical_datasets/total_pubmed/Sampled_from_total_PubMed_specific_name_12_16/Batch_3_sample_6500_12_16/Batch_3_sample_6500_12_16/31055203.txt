@@ -1,0 +1,12 @@
+Heavy metal accumulation in agriculture soils is of particular concern in China, while the status and probabilistic health risks of metal contamination in Chinese agriculture soils have been rarely studied at the national scale.
+In this study, we compiled a database of heavy metal concentrations in Chinese agriculture soils and selected six heavy metals for pollution assessment and risk screening: arsenic (As), cadmium (Cd), chromium (Cr), nickel (Ni), lead (Pb) and Zinc (Zn).
+Monte Carlo simulation was employed to assess the probabilistic health risks, the associated uncertainties, as well as variations in toxicity parameters, ingestion rate and body weight.
+Results indicated that the concentrations of Cd were elevated above their reference standard and Cd had the highest mean geo-accumulation index (Igeo) of 1.79.
+Moreover, the mean hazard index (HI) through exposure to six heavy metals was 1.85E-01 and 2.87E-02 for children and adults, respectively, with 2.2% of non-cancer risks for children that exceeded the guideline value of 1.
+In contrast, 95.0% and 90.0% of the total cancer risks (TCR) through exposure to six heavy metals for children and adults, respectively, exceeded the guideline value of 1E-06.
+Six metals were ranked based on their percent of risk outputs exceeding the guideline values.
+Arsenic had the high exceedance of both cancer and non-cancer risks, while both Cr and Cd were metals with high concern that had high exceedance of cancer risk.
+Sensitivity analyses indicated that metal concentrations and ingestion rate of soil were the predominant contributors to total risk variance.
+Overall, the adverse health risks induced by exposure to heavy metals contaminated farmland were elevated.
+Results from this study may provide valuable implications for public health professionals and policy-makers to design effective strategy to manage nation-wide farmland and reduce heavy metal exposure.
+Y database of heavy metal concentrations in Chinese agriculture soils (No need to annotate, just for notice).

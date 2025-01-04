@@ -1,0 +1,10 @@
+This study i) describes the number of police personnel with PTSD who are working and those who are on sick leave before and after an out-patient-clinic treatment program and ii) examines which factors are related to return to work.
+Police personnel treated for PTSD (n=121).
+In this retrospective study all police officers had an intake interview before and an outtake interview following a 16-week treatment for PTSD.
+Information about several personal characteristics, PTSD complaints, and work related factors were gathered.
+A t-test and chi-square test were used to evaluate differences between working police personnel and police personnel on sick leave at intake and outtake.
+Binary logistic regression was used to test whether the intake data were related to returning to work at outtake.
+At the start of the treatment half of the police personnel were on sick leave (n=59) and at outtake 48 participants who were not working at intake had returned to work.
+None of the variables at intake contributed significantly to return to work at outtake.
+The majority of police officers returned to work after the treatment program.
+We recommend that attention be paid to successful return to work as part of the treatment program, therefore the occupational health professional and employer should be involved.

@@ -1,0 +1,13 @@
+The inverted repeat-lacking clade (IRLC) is one of the most derived clades within the subfamily Papilionoideae of the legume family, and includes various economically important plants, e.g., chickpeas, peas, liquorice, and the largest genus of angiosperms, Astragalus.
+Tribe Wisterieae is one of the earliest diverged groups of the IRLC, and its generic delimitation and spatiotemporal diversification needs further clarifications.
+Based on genome skimming data, we herein reconstruct the phylogenomic framework of the IRLC, and infer the inter-generic relationships and historical biogeography of Wisterieae.
+We redefine tribe Caraganeae to contain Caragana only, and tribe Astragaleae is reduced to the Erophaca-Astragalean clade.
+The chloroplast capture scenario was hypothesized as the most plausible explanation of the topological incongruences between the chloroplast CDSs and nuclear ribosomal DNA trees in both the Glycyrrhizinae-Adinobotrys-Wisterieae clade and the Chesneyeae-Caraganeae-Hedysareae clade.
+A new name, Caragana lidou L. Duan & Z.Y. Chang, is proposed within Caraganeae.
+Thirteen genera are herein supported within Wisterieae, including a new genus, Villosocallerya L. Duan, J. Compton & Schrire, segregated from Callerya.
+Our biogeographic analyses suggest that Wisterieae originated in the late Eocene and its most recent common ancestor (MRCA) was distributed in continental southeastern Asia.
+Lineages of Wisterieae remained in the ancestral area from the early Oligocene to the early Miocene.
+By the middle Miocene, Whitfordiodendron and the MRCA of Callerya-Kanburia-Villosocallerya Clade became disjunct between the Sunda area and continental southeastern Asia, respectively; the MRCA of Wisteria migrated to North America via the Bering land bridge.
+The ancestor of Austrocallerya and Padbruggea migrated to the Wallacea-Oceania area, which split in the early Pliocene.
+In the Pleistocene, Wisteria brachybotrys, W. floribunda and Wisteriopsis japonica reached Japan, and Callerya cinerea dispersed to South Asia.
+This study provides a solid phylogenomic for further evolutionary/biogeographic/systematic investigations on the ecologically diverse and economically important IRLC legumes.

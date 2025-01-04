@@ -1,0 +1,5 @@
+Periodic metal-dielectric structures attract substantial interest since it was previously proposed that the spontaneous emission amplification rates (the Purcell factor) in such structures can reach enormous values up to 105.
+However, the role of absorption in real metals has not been thoroughly considered.
+We provide a theoretical analysis showing that absorption leads to diminishing values of Purcell factor.
+We also suggest that using emitting organic compounds such as CBP (4,4-Bis(N-carbazolyl)-1,1-biphenyl) can lead to a moderate increase of about an order of magnitude in the Purcell factor.
+Defining the experimentally measured Purcell factor as a ratio between the excited state lifetimes in bare CBP and in periodic structure, this increase in the fabricated periodic structure is demonstrated through a 4-8 times decrease in excited state radiative lifetime compared to a bare organic material in a wide emission spectrum.

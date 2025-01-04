@@ -1,0 +1,7 @@
+The healthcare industry has increasingly been targeted by cybercrime putting patients, organizations, and employees at risk for financial loss and breach of privacy.
+Malware events compromise system integrity and patient privacy which could lead to delays in treatment, loss of patient data, inability to provide care, and increase in patient harm.
+In addition, these attacks may also compromise private and personal information for those targeted.
+Nurses represent a large portion of frontline healthcare workers and are uniquely positioned to help prevent cyber-attacks.
+Nursing curriculum should include education about the risks to patient safety from cybercrime and the nurse's role in preventing cybercrime.
+Nursing education has focused on hygiene for patient safety.
+Adding cyber hygiene to the essential practices of pre-licensure and advanced practice nurses is a first step to protecting patients, organizations, and employees from the repercussions of a healthcare cyber-attack.

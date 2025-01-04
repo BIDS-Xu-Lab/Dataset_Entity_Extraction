@@ -1,0 +1,13 @@
+The emergence of SARS-CoV2 in 2019 showed again that the world's healthcare system is not fully equipped and well-designed for preventing the transmission of nosocomial respiratory infections.
+One of the great tools for preventing the spread of infectious organisms in hospitals is the anteroom.
+Several articles have investigated the role of the anteroom in disease control but the lack of a comprehensive study in this field prompted us to provide more in-depth information to fill this gap.
+Also, this study aimed to assess the necessity to construct an anteroom area for hospital staff members at the entrance of each ward of the hospital, and specify the equipment and facilities which make the anteroom more efficient.
+Articles were identified through searches of Scopus, Web of Sciences, PubMed, and Embase for studies published in English until May 2020 reporting data on the effect of the anteroom (vestibule) area in controlling hospital infections.
+Data from eligible articles were extracted and presented according to PRISMA's evidence-based data evaluation search strategy.
+Also, details around the review aims and methods were registered with the PROSPERO.
+From the database, 209 articles were identified, of which 25 studies met the study criteria.
+Most studies demonstrated that an anteroom significantly enhances practical system efficiency.
+The results showed that the equipment such as ventilation system, high-efficiency particulate absorption filter, hand dispensers, alcohol-based disinfection, sink, mirror, transparent panel, UVC disinfection, and zone for PPE change, and parameters like temperature, door type, pressure, and size of the anteroom are factors that are effective on the safety of the hospital environment.
+Studies demonstrated that providing an anteroom for changing clothing and storing equipment may be useful in reducing the transmission of airborne infections in hospitals.
+Since the transmission route of SARS-CoV2 is common with other respiratory infectious agents, it can be concluded that a well-designed anteroom could potentially decrease the risk of SARS-CoV2 transmission during hospitalization as well.
+Y: Scopus, Web of Sciences, PubMed, Embase, PRISMA, PROSPERO (No need to annotate, just for notice).

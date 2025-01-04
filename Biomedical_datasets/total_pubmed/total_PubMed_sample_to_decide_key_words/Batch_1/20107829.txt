@@ -1,0 +1,13 @@
+Ophthalmodynamometric studies can provide useful clinical information regarding glaucoma, cerebrospinal fluid pressure, and vascular disease but are affected by variable reproducibility and unknown calibration of force in terms of intraocular pressure (IOP).
+The aim of this study was to calculate calibration factors and identify key design principles using three different types of ophthalmodynamometers.
+We constructed a modified ophthalmodynamometer named OcuDyn using a large contact lens inside a ring force transducer with continuous signal acquisition and averaging.
+OcuDyn and Sisler ophthalmodynamometers were applied to isolated pig eyes which were cannulated and connected to a fluid reservoir and a pressure transducer to measure induced IOP at increasing force application.
+Using these two devices and a Meditron ophthalmodynamometer, we measured the minimum ophthalmodynamometric force (ODF) required to induce pulsation in the hemi-veins and diastolic retinal artery of each eye in glaucoma patient volunteers and family members.
+Blood pressure was measured with the sphygmomanometer cuff held at eye level.
+In pigs, the relationship between induced IOP and ODF was strong (minimum r > 0.98, p < 0.001).
+In humans, the pressure increment (blood pressure - baseline IOP) correlated highly with human arterial ODF (r = 0.83, n = 75, p < 0.001, mean slope 0.32).
+Mean coefficients of variation were 12.4% (n = 66) for veins and 5.6% (n = 39) for arteries in diastole; these results did not differ significantly with those from the Meditron but were significantly lower than results with the Sisler (20%, p = 0.0014).
+Linearity between induced IOP and ODF is strong, suggesting that calibration of 0.32 mmHg/g for OcuDyn or using two point blood pressure measures allows for valid interpolation.
+The better optics of the Meditron and OcuDyn result in more repeatable end-point determination and outweigh benefits conferred by signal averaging or slit lamp mounting.
+We calculate calibration factors of 0.89 mmHg/arbitrary unit for Meditron and 0.82 mmHg/g for Sisler.
+These factors may be useful in the estimation of ocular vascular, orbital, and cerebrospinal fluid pressures.

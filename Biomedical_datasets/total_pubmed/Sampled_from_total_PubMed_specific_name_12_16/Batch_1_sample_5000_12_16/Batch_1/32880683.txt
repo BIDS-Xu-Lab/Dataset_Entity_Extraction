@@ -1,0 +1,10 @@
+No data are available on extended dual anti-platelet therapy (DAPT) duration which may influence long-term prognosis (later than 1 year) after transcatheter aortic valve replacement (TAVR).
+Therefore, this study is aimed to evaluate whether discontinuing DAPT within 1 year had an impact on adverse events after TAVR.
+Using data from the OCEAN-TAVI registry, we assessed 1008 patients who survived the first year after TAVR with DAPT since discharge.
+Patients were divided into 'DAPT group' (n = 462), comprising patients who took DAPT at both discharge and 1 year, and 'stop-DAPT group' (n = 546), comprising patients who took DAPT at discharge and single anti-platelet therapy (SAPT) at 1 year.
+We compared the incidence of cardiovascular (CV) death, major and minor bleeding, and ischemic stroke later than 1 year after TAVR between the two groups.
+A total of 28 CV deaths were observed later than 1 year after TAVR.
+The stop-DAPT group had a significantly lower incidence of CV death than the DAPT group (1.8% vs. 4.9%, log-rank P = 0.029).
+Stop DAPT was associated with lower CV death later than 1 year of TAVR in Cox regression analysis (adjusted hazard ratio [HR], 0.46; 95% confidence interval [CI], 0.20-0.99), and in analysis with inverse probability of treatment weighting method using propensity score (adjusted HR, 0.45; 95% CI, 0.20-0.98).
+Our study demonstrated that switching from DAPT to SAPT within 1 year of TAVR was significantly associated with a lower CV death later than 1 year after TAVR.
+Y: OCEAN-TAVI registry (No need to annotate, just for notice).

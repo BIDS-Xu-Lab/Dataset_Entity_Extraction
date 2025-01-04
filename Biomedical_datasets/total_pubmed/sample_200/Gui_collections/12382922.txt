@@ -1,0 +1,5 @@
+Rare earth doped oxide, phosphate, etc. are radioluminescent phosphors that have a broad application in X ray imaging, in luminescent screens, image transformers and in fluorescent lamp manufacturing.
+Some of them have interesting thermoluminescence features as well, which makes the phosphors applicable also in dosimetry.
+Two of these materials are Sr3(PO4)2 and BaFCl activated with europium.
+The general radioluminescence (RL) and thermoluminescence (TL) characteristics of these materials was investigated earlier and the preliminary results have already been published elsewhere.
+The aim of the present work is to investigate the interesting properties of these phosphors mainly from a dosimetric point of view (sensitivity, dose dependence, etc.).

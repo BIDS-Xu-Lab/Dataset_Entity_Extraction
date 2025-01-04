@@ -1,0 +1,4 @@
+Myelodysplastic Syndromes are oligo-clonal stem cell disorders that are associated with cytopenias in the peripheral blood.
+Major causes for morbidity and mortality in myelodysplastic syndromes (MDS) patients are infections mostly due to bacteria or fungi.
+Beside leucopenia per se in affected patients, function of white blood cells particularly that of neutrophils seems to be impaired.
+Here we summarize the available data on infections in MDS patients in general and particularly those treated with 5-azacitidine.

@@ -1,0 +1,14 @@
+With the rapid advances of genetic and genomic technologies, the pathophysiological mechanisms of idiopathic pulmonary fibrosis (IPF) were gradually becoming clear, however, the prognosis of IPF was still poor.
+This study aimed to systematically explore the ferroptosis-related genes model associated with prognosis in IPF patients.
+Datasets were collected from the Gene Expression Omnibus (GEO).
+The least absolute shrinkage and selection operator (LASSO)
+Cox regression analysis was applied to create a multi-gene predicted model from patients with IPF in the Freiburg cohort of the GSE70866 dataset.
+The Siena cohort and the Leuven cohort were used for validation.
+Nineteen differentially expressed genes (DEGs) between the patients with IPF and control were associated with poor prognosis based on the univariate Cox regression analysis (all P < 0.05).
+According to the median value of the risk score derived from an 8-ferroptosis-related genes signature, the three cohorts' patients were stratified into two risk groups.
+Prognosis of high-risk group (high risk score) was significantly poorer compared with low-risk group in the three cohorts.
+According to multivariate Cox regression analyses, the risk score was an independently predictor for poor prognosis in the three cohorts.
+Receiver operating characteristic (ROC) curve analysis and decision curve analysis (DCA) confirmed the signature's predictive value in the three cohorts.
+According to functional analysis, inflammation- and immune-related pathways and biological process could participate in the progression of IPF.
+These results imply that the 8-ferroptosis-related genes signature in the bronchoalveolar lavage samples might be an effective model to predict the poor prognosis of IPF.
+Y: Gene Expression Omnibus (GEO), GSE70866 dataset (No need to annotate, just for notice).

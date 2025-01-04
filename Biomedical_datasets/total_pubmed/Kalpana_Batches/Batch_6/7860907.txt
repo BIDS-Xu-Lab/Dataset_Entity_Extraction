@@ -1,0 +1,14 @@
+This study attempted to determine why there is a discrepancy between angiographic and intravascular ultrasound measurements after coronary balloon angioplasty.
+Previous studies have shown a poor correlation between angiographic and intravascular ultrasound measurements after percutaneous coronary balloon angioplasty.
+After successful balloon angioplasty, 91 lesions in 84 patients were studied by intravascular ultrasound.
+Plaque morphology on intravascular ultrasound was classified as demonstrating a superficial injury if there was either no fracture or only a small tear that did not extend to the media versus a deep injury defined as the presence of a plaque fracture that reached the media.
+Measurements of minimal lumen diameter were compared between angiography and intravascular ultrasound.
+On ultrasound imaging, a superficial injury pattern was observed in 44 lesions, whereas a deep injury was seen in 47 lesions.
+There were no statistical differences at baseline in patient or lesion characteristics.
+In the superficial injury group there was a significant correlation between angiography and intravascular ultrasound for minimal lumen diameter (r = 0.67) and lumen cross-sectional area (r = 0.69).
+In the deep injury group there was a poor correlation for minimal lumen diameter (r = 0.05) and lumen cross-sectional area (r = 0.28).
+After balloon angioplasty, the angiographic appearance showed a normal contour in 34%, the presence of dissection in 38% or a hazy appearance in 23%.
+On ultrasound imaging after angioplasty, the superficial injury group comprised 65% of lesions with a normal angiographic appearance and 67% of lesions with a hazy appearance, whereas 77% of lesions with an angiographic diagnosis of dissection were in the deep injury group by ultrasound (p = 0.0005).
+These observations suggest that the discrepancies between angiographic and ultrasound measurements are due to differences in plaque morphology created by balloon dilation.
+Superficial injuries demonstrate similar results by angiography or ultrasound, whereas a deep injury to the plaque produces a difference in measurements between angiography and ultrasound.
+When angiography reveals a dissection, there is a high probability that intravascular ultrasound will demonstrate a plaque fracture extending to the media.

@@ -1,0 +1,11 @@
+To establish the safety of endoscopic procedures performed in patients with recent myocardial infarction (MI) based upon specific cardiac risk categories.
+There are no specific guidelines that dictate when to perform endoscopy in patients after recent MI, as this population may be at increased risk for cardiopulmonary complications at the time of endoscopy.
+Retrospective analysis of data collected over 48 months on 135 patients who experienced a MI and within the next 30 days had an endoscopic procedure performed.
+Data on chronology of complications and certain cardiac risk categories were collected and analyzed.
+There was early termination of endoscopic procedures for a major cardiopulmonary complication in 2 of 135 patients (1.5%).
+The complications occurred on hospital day 0 postMI.
+Performance of endoscopic procedures on the day of the MI was found to be a risk factor for a procedure-related complication (P=0.02).
+ST segment elevation myocardial infarction was seen in 19 patients (16.0%), severely depressed ejection fraction in 30 patients (22.2%), and troponin-I peak greater than 1.6 ng/mL in 96 patients (71.0%).
+No statistically significant increased risk of endoscopy was found in these subsets of patients (P=0.99).
+Endoscopic procedures can be safely performed early post-MI without imparting a significant cardiopulmonary risk.
+Timing of endoscopy increases risk of complications, but evidence of significant recent cardiac damage as demonstrated by ST segment elevation, depressed left ventricular ejection fraction, or troponin-I peak greater than 1.6 ng/mL does not increase risk of cardiopulmonary complication.

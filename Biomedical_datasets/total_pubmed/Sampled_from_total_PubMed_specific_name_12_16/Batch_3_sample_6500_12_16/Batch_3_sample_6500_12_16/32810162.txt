@@ -1,0 +1,11 @@
+Microfinance is a widely promoted developmental initiative to provide poor women with affordable financial services for poverty alleviation.
+One popular adaption in South Asia is the Self-Help Group (SHG) model that India adopted in 2011 as part of a federal poverty alleviation program and as a secondary approach of integrating health literacy services for rural women.
+However, the evidence is limited on who joins and continues in SHG programs.
+This paper examines the determinants of membership and staying members (outcomes) in an integrated microfinance and health literacy program from one of India's poorest and most populated states, Uttar Pradesh across a range of explanatory variables related to economic, socio-demographic and area-level characteristics.
+Using secondary survey data from the Uttar Pradesh Community Mobilization project comprising of 15,300 women from SHGs and Non-SHG households in rural India, we performed multivariate logistic and hurdle negative binomial regression analyses to model SHG membership and duration.
+While in general poor women are more likely to be SHG members based on an income threshold limit (government-sponsored BPL cards), women from poorest households are more likely to become members, but less likely to stay members, when further classified using asset-based wealth quintiles.
+Additionally, poorer households compared to the marginally poor are less likely to become SHG members when borrowing for any reason, including health reasons.
+Only women from moderately poor households are more likely to continue as members if borrowing for health and non-income-generating reasons.
+The study found that an increasing number of previous pregnancies is associated with a higher membership likelihood in contrast to another study from India reporting a negative association.
+The study supports the view that microfinance programs need to examine their inclusion and retention strategies in favour of poorest household using multidimensional indicators that can capture poverty in its myriad forms.
+Y Uttar Pradesh Community Mobilization project (No need to annotate, just for notice).

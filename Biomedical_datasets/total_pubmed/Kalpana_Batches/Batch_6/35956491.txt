@@ -1,0 +1,9 @@
+Seedless 'SL' with Allahabad Safeda 'AS'.
+On the basis of phenotypic observations, high ARI1 content was observed in the cross 'AS' × 'PG' (0.214).
+Further, an SSR-markers-based genetic linkage map was developed from a mapping population of 238 F1 individuals derived from cross 'AS' × 'PG'.
+The linkage map comprised 11 linkage groups (LGs), spanning 1601.7 cM with an average marker interval distance of 29.61 cM between adjacent markers.
+Five anthocyanin-content related gene-specific markers from apple were tested for parental polymorphism in the genotypes 'AS' and 'PG'.
+Subsequently, a marker, viz., 'MdMYB10F1', revealed a strong association with leaf anthocyanin content in the guava mapping population.
+QTL (qARI-6-1) on LG6 explains much of the variation (PVE = 11.51% with LOD = 4.67) in levels of leaf anthocyanin colouration.
+This is the first report of amplification/utilization of apple anthocyanin-related genes in guava.
+The genotypic data generated from the genetic map can be further exploited in future for the enrichment of linkage maps and for identification of complex quantitative trait loci (QTLs) governing economically important fruit quality traits in guava.

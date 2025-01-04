@@ -1,0 +1,15 @@
+Tremor is the most common movement disorder and strongly increases in incidence and prevalence with aging.
+Although not life threatening, upper-limb tremors hamper the independence of 65% of people suffering from them affected persons, greatly impacting their quality of life.
+Current treatments include pharmacotherapy and surgery (thalamotomy and deep brain stimulation).
+However, these options are not sufficient for approximately 25% of patients.
+Therefore, further research and new therapeutic options are required to effectively manage pathological tremor.
+This paper presents findings of two research projects in which two different wearable robots for tremor management were developed based on force loading and validated.
+The first consisted of a robotic exoskeleton that applied forces to tremulous limbs and consistently attenuated mild and severe tremors.
+The second was a neuroprosthesis based on transcutaneous neurostimulation.
+A total of 22 patients suffering from parkinsonian or essential tremor (ET) of different severities were recruited for experimental validation, and both systems were evaluated using standard tasks employed for neurological examination.
+The inclusion criterion was a postural and/or kinetic pathological upper-limb tremor resistant to medication.
+The results demonstrate that both approaches effectively suppressed tremor in most patients, although further research is required.
+The work presented here is based on clinical evidence from a small number of patients (n = 10 for robotic exoskeleton and n = 12 for the neuroprosthesis), but most had a positive response to the approaches.
+In summary, biomechanical loading is non-invasive and painless.
+It may be effective in patients who are insufficiently responsive (or have adverse reactions) to drugs or in whom surgery is contraindicated.
+This paper identifies and evaluates biomechanical loading approaches to tremor management and discusses their potential.

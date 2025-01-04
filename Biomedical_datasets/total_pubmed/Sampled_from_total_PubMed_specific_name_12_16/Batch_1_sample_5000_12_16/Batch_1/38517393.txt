@@ -1,0 +1,11 @@
+Chronic pain following amputation is debilitating.
+Due to its mechanisms in modulating muscle contraction and pain, botulinum toxin has been investigated as a treatment option for phantom limb pain (PLP) and residual limb pain (RLP).
+The objective of this study was to determine the efficacy of botulinum toxin injection in the management of PLP and RLP following major limb amputation using a systematic review of the literature.
+The databases Medline, CINAHL, EMBASE, Scopus, Web of Science, and Cochrane were searched from inception through October 30, 2023.
+The search identified 50 articles; 37 underwent full-text review, and 11 were included in the final review.
+Eighty-nine individuals with pain were investigated by the included studies; 53 had RLP and 63 had PLP.
+There was significant variation in botulinum toxin type, injection method, and dosage.
+Twenty-one (53.9%) and 27 (64.3%) participants had improvement in PLP and RLP following botulinum toxin injection, respectively.
+Therefore, there is potential for use of botulinum toxin for the treatment of PLP and RLP.
+However, due to the minimal number of studies, small sample sizes, and heterogenous methodologies, our ability to conclude with certainty the efficacy of botulinum toxin injection on the treatment of PLP and RLP following amputation is limited.
+Y and the names: Medline, CINAHL, EMBASE, Scopus, Web of Science, Cochrane (No need to annotate, just for notice).

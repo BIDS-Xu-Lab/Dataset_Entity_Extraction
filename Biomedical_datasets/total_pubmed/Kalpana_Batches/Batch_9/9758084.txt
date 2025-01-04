@@ -1,0 +1,8 @@
+The accuracy of a semi-automated oscillometric blood pressure measuring device (Visomat OZ D2 International) was studied by simultaneous comparison with a standard sphygmomanometer in 407 normotensive subjects and hypertensive patients.
+Four pairs of measurements, at least 1 min apart, were obtained from all patients.
+The oscillometric device tended to give lower measurements than the standard device; the mean difference was -0.9 mmHg for diastolic blood pressure and -6.4 mmHg for systolic blood pressure.
+The size of this difference was not dependent on the mean blood pressure.
+Intra-individual standard deviations were similar with the two techniques.
+The oscillometric device tended to produce higher readings on the first measurement than on the subsequent three, whereas the reverse was true of the standard sphygmomanometer.
+It is concluded that the oscillometric device used in the HOT Study provides reliable measurements of blood pressure.
+The slight difference in mean readings between the two methods is unlikely to be of importance for the comparison of differences in treatment blood pressure values in the HOT Study.

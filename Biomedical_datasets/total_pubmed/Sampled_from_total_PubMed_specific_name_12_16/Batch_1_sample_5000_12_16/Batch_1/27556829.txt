@@ -1,0 +1,12 @@
+This study assessed the association of the Medicare Part D coverage gap with medication adherence among beneficiaries with chronic obstructive pulmonary disease (COPD).
+Retrospective observational study based on Medicare claims data.
+A 5% random sample of Medicare claims data (2006-2010) was used in this study.
+Beneficiaries diagnosed with COPD and treated with long-acting bronchodilators (LABDs) were assigned to an exposure cohort (at risk of the coverage gap) or a control cohort (otherwise).
+The exposure and control cohorts were matched using high-dimensional propensity scores.
+Adherence was defined as ≥80% of the proportion of days covered by LABDs.
+Logistic regressions controlling for unbalanced covariates post matching were applied to assess the association of the coverage gap with adherence.
+The final matched exposure and control cohorts each included 4147 patient-year observations with about 42% and 46% of them adherent to LABDs, respectively.
+About 17% of the exposure cohort hit the coverage gap after October 31.
+or had a lower likelihood without statistical significance if otherwise (OR, 0.931; 95% CI, 0.846-1.024).
+The findings suggest that the Part D coverage gap was associated with lower adherence in patients with COPD, which may serve as evidentiary support for phasing out the coverage gap by 2020.
+Y and Medicare claims data (No need to annotate, just for notice).

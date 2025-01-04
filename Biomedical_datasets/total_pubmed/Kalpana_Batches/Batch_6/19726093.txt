@@ -1,0 +1,8 @@
+Benzo[a]pyrene (BaP) is a known genotoxicant that affects both mitochondrial and nuclear DNA (mtDNA, nDNA).
+Here, we examined mtDNA and nDNA damage in the Atlantic killifish (Fundulus heteroclitus) from a highly contaminated Superfund site (Elizabeth River, VA, USA) and from a reference site (King's Creek, VA, USA) that were dosed with 10 mg/kg BaP.
+Using the long amplicon quantitative PCR technique, we observed similar increases in mitochondrial and nuclear DNA damage in King's Creek fish treated with BaP. Killifish from the Elizabeth River showed high levels of basal nDNA and mtDNA damage compared to fish from the reference site, but the level of damage induced due to BaP treatment was much lower in Elizabeth River killifish compared to King's Creek fish.
+Laboratory-reared offspring from both populations showed increased BaP-induced damage in mtDNA, relative to nDNA.
+Similar to the adult experiment, the Elizabeth River larvae had higher levels of basal DNA damage than those from the reference site, but were less impacted by BaP exposure.
+Measurements of oxidative DNA damage (8-oxo-deoxyguanine by LC-MS/MS) showed no differences among treatment groups, suggesting that the majority of DNA damage is from covalent binding of BaP metabolites to DNA.
+This study shows for the first time that mitochondria can be an important target of BaP toxicity in fish, indicating that BaP exposures could have important energetic consequences.
+Results also suggest that multi-generational exposures in the wild may lead to adaptations that dampen DNA damage arising from BaP exposure.

@@ -1,0 +1,13 @@
+Studies suggest a positive association between dietary energy density (DED) and body weight in adults, but evidence in children is inconclusive.
+The objective of this study was to compare usual DED distributions of nonoverweight vs. overweight or obese (OW/O) Mexican children.
+The study used 24-h recall (24HR) data from 2367 children aged 5-11 y from the 2012 Mexican National Health and Nutrition Survey (ENSANUT 2012).
+Repeated 24HR measures were obtained in a random sample (∼10%) to estimate usual intake distributions by using the Iowa State University (PC-Side) method.
+Multivariate linear regression models were used to evaluate the relation between DED and body mass index status and to compare results with and without PC-Side adjustment and restriction to plausible reporters.
+OW/O. The usual DED mean was ∼175 kcal/100 g in both the complete sample and the plausible reporters subsample.
+Regression models adjusted by PC-Side and for potential confounders showed higher DED in OW/O relative to nonoverweight children for both plausible reporters (9.7 kcal/100 g; n = 1452, P < 0.0001) and the complete sample (7.9 kcal/100 g; n = 2367, P < 0.0001).
+The DED difference in plausible reporters translates into 88 additional kilocalories in daily energy intake of OW/O children.
+In the absence of PC-side adjustment, the difference was significant for plausible reporters (P < 0.05) but not for the complete sample (P > 0.10).
+A positive association between usual DED and OW/O was found in Mexican children.
+The association was stronger when only plausible reporters were considered.
+This suggests that there is a need for strategies to reduce energy density in the diet of Mexican children.
+Y ENSANUT 2012 (No need to annotate, just for notice).

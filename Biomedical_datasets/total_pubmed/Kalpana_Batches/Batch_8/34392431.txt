@@ -1,0 +1,8 @@
+A bacterial lipase producing bacterium, designated SCS 2-3, was isolated from deep-sea sediment of the South China Sea.
+NRRL B-51270T as the closest relative strain.
+MLSA using four protein-coding genes (dnaK, gyrA, recA, and rpoB) showed strain SCS 2-3 to form a separate branch.
+ANI and in silico DDH values between strain SCS 2-3 and related type strains of Pseudomonas were less than 81.51% and 23.80%, respectively.
+Genome comparison showed that strain SCS 2-3 shared 1875 core gene families with other eight closely related type strains in Pseudomonas, and the number of strain-unique genes was 263.
+Through gene annotations, genes related to lipase were found in the genome.
+Furthermore, a combination of phenotypic, chemotaxonomic, phylogenetic and genotypic data clearly indicated that strain SCS 2-3 represents a novel species of the genus Pseudomonas, for which the name Pseudomonas nanhaiensis sp.
+The type strain is SCS 2-3T (= GDMCC 1.2219T = JCM 34440T).

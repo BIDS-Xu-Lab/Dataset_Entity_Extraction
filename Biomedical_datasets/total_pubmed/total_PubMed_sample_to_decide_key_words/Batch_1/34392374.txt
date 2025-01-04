@@ -1,0 +1,11 @@
+Our previous study found degradation to subthalamic neuronal encoding of speech features in Parkinson disease (PD) patients suffering from speech disorders.
+To find how timing of speech-related neuronal firing changes in PD patients with speech disorders compared to PD patients without speech disorders.
+During the implantation of deep brain stimulator (DBS), we recorded the activity of single neurons in the subthalamic nucleus (STN) of 18 neurosurgical patients with PD while they articulated, listened to, or imagined articulation of 5 vowel sounds, each following a beep.
+We compared subthalamic activity of PD patients with (n = 10) vs without speech disorders.
+In this comparison, patients with speech disorders had longer reaction times and shorter lengths of articulation.
+Their speech-related neuronal activity preceding speech onset (planning) was delayed relative to the beep, but the time between this activity and the emission of speech sound was similar.
+Notwithstanding, speech-related neuronal activity following the onset of speech (feedback) was delayed when computed relative to the onset.
+Only in these patients was the time lag of planning neurons significantly correlated with the reaction time.
+Neuronal activity in patients with speech disorders was delayed during imagined articulation of vowel sounds but earlier during speech perception.
+Our findings indicate that longer reaction times in patients with speech disorders are due to STN or earlier activity of the speech control network.
+This is a first step in locating the source(s) of PD delays within this network and is therefore of utmost importance for future treatment of speech disorders.

@@ -1,0 +1,4 @@
+RAD51 is a pivotal protein of the homologous recombination DNA repair pathway, and is overexpressed in some cancer cells, disrupting then the efficiency of cancer-treatments.
+The development of RAD51 inhibitors appears as a promising solution to restore these cancer cells sensitization to radio- or chemotherapy.
+From a small molecule identified as a modulator of RAD51, the 4,4'-diisothiocyanostilbene-2,2'-disulfonic acid (DIDS), two series of analogues with small or bulky substituents on the aromatic parts of the stilbene moiety were prepared for a structure-activity relationship study.
+Three compounds, the cyano analogue (12), and benzamide (23) or phenylcarbamate (29) analogues of DIDS were characterized as novel potent RAD51 inhibitors with HR inhibition in the micromolar range.

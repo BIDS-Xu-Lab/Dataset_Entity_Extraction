@@ -1,0 +1,11 @@
+Cardiovascular diseases (CVDs) are one of the main causes of morbidity and disability worldwide.
+Due to modern methods of diagnosis and treatment, it is possible to protect patients with acute coronary syndromes from myocardial infarction as well from its early complications.
+However, the challenge remains to improve the long-term prognosis of CVDs.
+Analysis of body composition using the bioelectrical impedance (BIA) appears to be a good method for assessing changes in patients' organisms following various cardiac incidents, as well as those participating in rehabilitation programmes.
+This study aims to provide a complementary analysis of the scientific literature and a critical review of the data from the use of BIA to assess phase angle in people with a history of cardiac diseases.
+This critical literature review was prepared based on the Scale for the Assessment of Narrative Review Articles recommendations.
+Inclusion criteria included 1) original publications of a research nature, 2) papers indexed in PubMed, Scopus, Embase databases, 3) full-text articles in English, 4) recent papers published between 2013-2023, 5) papers on the use of BIA with phase angle assessment as a prognostic factor in multiple aspects of health and disease, 6) papers showing changes in body composition in the process of cardiac rehabilitation.
+Based on a review of PubMed, Scopus and Embase databases, 36, 31 and 114 publications were found, respectively, chosen on the basis of precisely selected keywords and included for further full-text analysis.
+Exploring the role of the BIA holds lots of hope as a non-invasive method that can be used as a predictive marker for changes in the state of health in various fields of medicine.
+In young, healthy adults, BIA parameters may be important in identifying risk factors for the development of particular diseases, in predicting the rapid development of disease symptoms and in promoting motivation to lifestyle changes.
+Y: PubMed, Scopus, Embase (No need to annotate, just for notice).

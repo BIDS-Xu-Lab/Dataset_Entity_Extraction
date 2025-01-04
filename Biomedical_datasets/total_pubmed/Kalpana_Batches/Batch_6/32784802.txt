@@ -1,0 +1,13 @@
+Cellular entry of SARS-CoV-2 is thought to occur through the binding of viral spike S1 protein to ACE2.
+The entry process involves priming of the S protein by TMPRSS2 and ADAM17, which collectively mediate the binding and promote ACE2 shedding.
+In this study, microarray and RNA-sequencing (RNA-seq) expression data were utilized to profile the expression pattern of ACE2, ADAM17, and TMPRSS2 in type 2 diabetic (T2D) and non-diabetic human pancreatic islets.
+Our data show that pancreatic islets express all three receptors irrespective of diabetes status.
+The expression of ACE2 was significantly increased in diabetic/hyperglycemic islets compared to non-diabetic/normoglycemic.
+Islets from female donors showed higher ACE2 expression compared to males; the expression of ADAM17 and TMPRSS2 was not affected by gender.
+The expression of the three receptors was statistically similar in young (≤40 years old) versus old (≥60 years old) donors.
+Obese (BMI > 30) donors have significantly higher expression levels of ADAM17 and TMPRSS2 relative to those from non-obese donors (BMI < 25).
+TMPRSS2 expression correlated positively with HbA1c and negatively with age, while ADAM17 and TMPRSS2 correlated positively with BMI.
+The expression of the three receptors was statistically similar in muscle and subcutaneous adipose tissues obtained from diabetic and nondiabetic donors.
+Lastly, ACE2 expression was higher in sorted pancreatic β-cell relative to other endocrine cells.
+In conclusion, ACE2 expression is increased in diabetic human islets.
+More studies are required to investigate whether variations of ACE2 expression could explain the severity of COVID-19 infection-related symptoms between diabetics and non-diabetic patients.

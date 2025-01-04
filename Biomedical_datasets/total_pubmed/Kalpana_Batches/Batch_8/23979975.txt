@@ -1,0 +1,7 @@
+Published studies on the association between FAS 1377G>A polymorphism and breast cancer susceptibility were inconclusive.
+To derive a more precise assessment of the association, a meta-analysis of published studies was performed.
+PubMed, Embase, and Web of Science were searched for eligible studies on the association between FAS 1377G>A polymorphism and breast cancer susceptibility.
+Five studies with a total of 2,905 cases and 3,090 controls were included into the meta-analysis.
+Overall, FAS 1377G>A polymorphism was significantly associated with increased susceptibility to breast cancer (for AA versus GG: odds ratio (OR) = 1.39, 95% confidence interval (95% CI) 1.12-1.72, P = 0.003; for AA/GA versus GG: OR = 1.18, 95% CI 1.06-1.32, P = 0.004; for AA versus GG/GA: OR = 1.28, 95% CI 1.05-1.56, P = 0.015).
+Subgroup analysis by ethnicity found that FAS 1377G>A polymorphism was significantly associated with increased susceptibility to breast cancer in Asians (for AA versus GG: OR = 1.48, 95% CI 1.16-1.89, P = 0.001; for AA/GA versus GG: OR = 1.24, 95% CI 1.06-1.46, P = 0.008; for AA versus GG/GA: OR = 1.35, 95% CI 1.08-1.69, P = 0.008), but the association was not found in Caucasians.
+Therefore, the findings of the meta-analysis suggest that FAS 1377G>A polymorphism is significantly associated with increased susceptibility to breast cancer in Asians.

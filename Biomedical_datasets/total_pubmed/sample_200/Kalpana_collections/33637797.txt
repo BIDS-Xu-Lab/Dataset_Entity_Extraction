@@ -1,0 +1,11 @@
+Recent studies identified cyclase-associated proteins (CAPs) as important regulators of actin dynamics that control assembly and disassembly of actin filaments (F-actin).
+While these studies significantly advanced our knowledge of their molecular functions, the physiological relevance of CAPs largely remained elusive.
+Gene targeting in mice implicated CAP2 in heart physiology and skeletal muscle development.
+Heart defects in CAP2 mutant mice were associated with altered activity of serum response factor (SRF), a transcription factor involved in multiple biological processes including heart function, but also skeletal muscle development.
+By exploiting mouse embryonic fibroblasts (MEFs) from CAP2 mutant mice, we aimed at deciphering the CAP2-dependent mechanism relevant for SRF activity.
+Reporter assays and mRNA quantification by qPCR revealed reduced SRF-dependent gene expression in mutant MEFs.
+Reduced SRF activity in CAP2 mutant MEFs was associated with altered actin turnover, a shift in the actin equilibrium towards monomeric actin (G-actin) as well as and reduced nuclear levels of myocardin-related transcription factor A (MRTF-A), a transcriptional SRF coactivator that is shuttled out of the nucleus and, hence, inhibited upon G-actin binding.
+Moreover, pharmacological actin manipulation with jasplakinolide restored MRTF-A distribution in mutant MEFs.
+Our data are in line with a model in which CAP2 controls the MRTF-SRF pathway in an actin-dependent manner.
+While MRTF-A localization and SRF activity was impaired under basal conditions, serum stimulation induced nuclear MRTF-A translocation and SRF activity in mutant MEFs similar to controls.
+In summary, our data revealed that in MEFs CAP2 controls basal MRTF-A localization and SRF activity, while it was dispensable for serum-induced nuclear MRTF-A translocation and SRF stimulation.

@@ -1,0 +1,5 @@
+This paper treats the very specific history of one aspect of space policy and how it, or more specifically its name, developed in the first two decades of the Space Age.
+The concepts of preventing the biological and organic contamination of other planetary bodies, which also protect the biosphere from the consequences of finding extraterrestrial life and returning it to Earth, were established in the late 1950s with the beginning of the Space Age.
+Within their first decade, those concepts were labeled "planetary quarantine," a name that suggested the concepts but unfortunately came with latent baggage of its own.
+Over time, that sobriquet was replaced by the more prosaic "planetary protection," which has less of a baggage problem and has come to be used in common parlance to describe this contamination avoidance within the spaceflight community.
+This paper does not duplicate material found in the "official" NASA history of planetary protection (Meltzer, 2011 ), which covered this specific subject only broadly, nor was the same material presented by Meltzer's predecessor (Phillips, 1974 ), who could not cover it because it had not happened yet.

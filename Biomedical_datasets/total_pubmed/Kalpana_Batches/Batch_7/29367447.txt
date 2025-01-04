@@ -1,0 +1,13 @@
+To explore structural and functional changes of the brain and cervical cord in patients with amyotrophic lateral sclerosis (ALS) due to mutation in the superoxide dismutase (SOD1) gene compared with sporadic ALS.
+Twenty patients with SOD1 ALS, 11 with sporadic ALS, and 33 healthy controls underwent clinical evaluation and brain MRI.
+Cortical thickness analysis, diffusion tensor MRI of the corticospinal tracts (CST) and corpus callosum, and resting-state functional connectivity were performed.
+Patients with ALS also underwent cervical cord MRI to evaluate cord cross-sectional area and magnetization transfer ratio (MTR).
+Patients with SOD1 ALS showed longer disease duration and slower rate of functional decline relative to those with sporadic ALS.
+No cortical thickness abnormalities were found in patients with ALS compared with controls.
+Fractional anisotropy showed that sporadic ALS patients had significant CST damage relative to both healthy controls (p = 0.001-0.02) and SOD1-related ALS (p = 0.05), although the latter showed alterations that were intermediate between controls and sporadic ALS.
+Functional hyperconnectivity of the motor cortex in the sensorimotor network was observed in patients with sporadic ALS relative to controls.
+Conversely, patients with SOD1 ALS showed lower cord cross-sectional area along the whole cervical cord relative to those with sporadic ALS (p < 0.001).
+No cord MTR differences were found between patient groups.
+Patients with SOD1 ALS showed cervical cord atrophy relative to those with sporadic ALS and a relative preservation of brain motor structural and functional networks.
+Neurodegeneration in SOD1 ALS is likely to occur primarily in the spinal cord.
+An objective and accurate estimate of spinal cord damage has potential in the future assessment of preventive SOD1 ALS therapies.

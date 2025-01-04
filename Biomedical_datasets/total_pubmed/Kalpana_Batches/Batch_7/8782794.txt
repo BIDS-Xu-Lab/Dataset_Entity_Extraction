@@ -1,0 +1,5 @@
+This paper identifies the data sources available in OPCS on cancer among ethnic groups, shows some of the findings of previous analyses and outlines the potential for further analyses and data collection.
+The main source of data comes from the registration of deaths in which country of birth of the decreased is recorded.
+Other sources of data include the General Household Survey (GHS) which enables analyses of risk factors such as smoking, alcohol and contraception.
+Data on cancer incidence among ethnic groups is currently limited.
+However in the future, both the Longitudinal Study and cancer registration data should provide measures of cancer incidence among ethnic groups.

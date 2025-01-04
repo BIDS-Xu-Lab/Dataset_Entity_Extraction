@@ -1,0 +1,12 @@
+The Organ Procurement and Transplant Network (OPTN) Final Rule guides national organ transplantation policies, mandating equitable organ allocation and organ-specific priority stratification systems.
+Current allocation scores rely on mortality predictions.
+We examined the alignment between the ethical priorities across organ prioritization systems and the statistical design of the risk models in question.
+We searched PubMed for literature on organ allocation history, policy, and ethics in the United States.
+We identified 127 relevant articles, covering kidney (19), liver (60), lung (24), and heart transplants (23), and transplant accessibility (1).
+Current risk scores emphasize model performance and overlook ethical concerns in variable selection.
+The inclusion of race, sex, and geographical limits as categorical variables lacks biological basis; therefore, blurring the line between evidence-based models and discrimination.
+Comprehensive ethical and equity evaluation of risk scores is lacking, with only limited discussion of the algorithmic fairness of the Model for End-Stage Liver Disease (MELD) and the Kidney Donor Risk Index (KDRI) in some literature.
+We uncovered the inconsistent ethical standards underlying organ allocation scores in the United States.
+Specifically, we highlighted the exception points in MELD, the inclusion of race in KDRI, the geographical limit in the Lung Allocation Score, and the inadequacy of risk stratification in the Heart Tier system, creating obstacles for medically underserved populations.
+We encourage efforts to address statistical and ethical concerns in organ allocation models and urge standardization and transparency in policy development to ensure fairness, equitability, and evidence-based risk predictions.
+Y PubMed (No need to annotate, just for notice).

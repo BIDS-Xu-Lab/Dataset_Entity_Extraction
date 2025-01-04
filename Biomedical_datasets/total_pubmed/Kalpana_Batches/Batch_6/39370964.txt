@@ -1,0 +1,5 @@
+Genomic selection is revolutionizing both plant and animal breeding, with its practical application depending critically on high prediction accuracy.
+In this study, we aimed to enhance prediction accuracy by exploring the use of graph models within a linear mixed model framework.
+Our investigation revealed that incorporating the graph constructed with line connections alone resulted in decreased prediction accuracy compared to conventional methods that consider only genotype effects.
+However, integrating both genotype effects and the graph structure led to slightly improved results over considering genotype effects alone.
+These findings were validated across 14 datasets commonly used in plant breeding research.

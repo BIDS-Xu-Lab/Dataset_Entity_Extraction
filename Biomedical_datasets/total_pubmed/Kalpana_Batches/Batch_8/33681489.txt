@@ -1,0 +1,10 @@
+Foodborne outbreaks caused by parasites have long been a public health issue.
+Among the available contamination detection methods, qPCR is one of the most sensitive and specific.
+However, it can be cumbersome and error-prone, if used by unexperienced users.
+Moreover, qPCR reagents usually require freezer temperatures for transportation and storage.
+We present a gelified reaction format that allows the reagents to be stored at 2-8 °C for up to 90 days without losing performance.
+The gelification process eliminates most operator mistakes during reaction setup, and renders the qPCR plates ready-to-use.
+The new reaction makeup was evaluated using artificially contaminated samples of distinct food matrices for sensitivity, specificity, repeatability, reproducibility, and stability.
+Samples consisted of cilantro leaves and raspberry fruits spiked with Cyclospora cayetanensis oocysts, as well as açai pulp and sugarcane juice tainted with Trypanosoma cruzi trypomastigotes.
+No significant difference between the gelified and the non-gelified qPCR was found.
+Our results suggest that gelifying the assay may help to achieve more reproducible qPCR data across laboratories, thus supporting surveillance actions.

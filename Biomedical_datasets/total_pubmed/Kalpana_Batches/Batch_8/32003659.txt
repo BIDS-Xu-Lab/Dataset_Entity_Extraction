@@ -1,0 +1,7 @@
+Computational approaches have been proven to be complementary tools of interest in identifying potential candidates for drug repurposing.
+However, although the methods developed so far offer interesting opportunities and could contribute to solving issues faced by the pharmaceutical sector, they also come with their constraints.
+Indeed, specific challenges ranging from data access, standardization and integration to the implementation of reliable and coherent validation methods must be addressed to allow systematic use at a larger scale.
+In this mini-review, we cover computational tools recently developed for addressing some of these challenges.
+This includes specific databases providing accessibility to a large set of curated data with standardized annotations, web-based tools integrating flexible user interfaces to perform fast computational repurposing experiments and standardized datasets specifically annotated and balanced for validating new computational drug repurposing methods.
+Interestingly, these new databases combined with the increasing number of information about the outcomes of drug repurposing studies can be used to perform a meta-analysis to identify key properties associated with successful drug repurposing cases.
+This information could further be used to design estimation methods to compute a priori assessment of the repurposing possibilities.

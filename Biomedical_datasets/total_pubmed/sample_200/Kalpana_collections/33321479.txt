@@ -1,0 +1,16 @@
+The search for diagnostic biomarkers for pulmonary embolism (PE) has mainly been focused on blood samples.
+Exhaled breath condensate (EBC) is a possible source for biomarkers specific for chronic lung diseases and cancer, yet no previous studies have investigated the potential of EBC for diagnosis of PE.
+The protein content in the EBC is very low, and efficient condensing of the EBC is important in order to obtain high quality samples for protein analysis.
+We investigated if advanced proteomic techniques in a porcine model of acute intermediate-high-risk PE was feasible using two different condensing temperatures for EBC collection.
+Seven pigs were anaesthetized and intubated.
+EBC was collected one hour after intubation.
+Two autologous emboli were induced through the right external jugular vein.
+Two hours after the emboli were administered, EBC was collected again.
+Nano liquid chromatography-tandem mass spectrometry (nLC-MS/MS) was used to identify and quantify proteins of the EBC.
+A condensing temperature of -80 °C significantly increased the EBC volume compared with -21 °C (1.78 ± 0.25 ml vs 0.71 ± 0.12 ml) while the protein concentration in the EBC was unaltered.
+The mean protein concentration in the EBCs was 5.85 ± 0.93µg ml-1, unaltered after PE.
+In total, 254 proteins were identified in the EBCs.
+Identified proteins included proteins of the cytoplasm, nucleus, plasma membrane and extracellular region.
+The protein composition did not differ according to condensing temperature.
+The EBC from pigs with acute intermediate-high-risk PE contained sufficient amounts of protein for analysis by nLC-MS/MS.
+The proteins were from relevant cellular compartments, indicating that EBC is a possible source for biomarkers for acute PE.

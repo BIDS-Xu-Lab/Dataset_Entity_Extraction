@@ -1,0 +1,14 @@
+To assess the use of brachytherapy (BT) with or without external beam radiation (EBRT) in inoperable stage I endometrial adenocarcinoma in the United States and to determine the effect of BT on overall survival (OS) and cause-specific survival (CSS).
+Data between 1998 and 2011 from the National Cancer Institute's Surveillance, Epidemiology and End Results database were analyzed.
+Coarsened exact matching was used to adjust for differences in age and grade between patients who received BT and those who did not.
+Prognostic factors affecting OS and CSS were evaluated using the Kaplan-Meier product-limit method and a Cox proportional hazards regression model.
+A total of 460 patients with inoperable stage I endometrial adenocarcinoma treated with radiation therapy were identified.
+Radiation consisted of either EBRT (n=260) or BT with or without EBRT (n=200).
+The only factor associated with BT use was younger patient age (median age, 72 vs 76 years, P=.001).
+Patients who received BT had a higher 3-year OS (60% vs 47%, P<.001) and CSS (82% vs 74%, P=.032) compared with those who did not.
+On multivariate analysis, BT use was independently associated with an improved OS (hazard ratio [HR] 0.67, 95% confidence interval [CI] 0.52-0.87) and CSS (HR 0.61, 95% CI 0.39-0.93).
+When patients were matched on age, BT use remained significant on multivariate analysis for OS (HR 0.65, 95% CI 0.48-0.87) and CSS (HR 0.52, 95% CI 0.31-0.84).
+When matched on age and grade, BT remained independently associated with improved OS and CSS (OS HR 0.62, 95% CI 0.46-0.83; CSS HR 0.57, 95% CI 0.34-0.92).
+Brachytherapy is independently associated with improved OS and CSS.
+It should be considered as part of the treatment regimen for stage I inoperable endometrial cancer patients undergoing radiation.
+Y: Surveillance, Epidemiology and End Results database (No need to annotate, just for notice).

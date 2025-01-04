@@ -1,0 +1,9 @@
+The availability of molecular and genetic tools has made the mouse the most common animal model for a variety of human diseases in toxicology studies.
+However, little is known about the factors that will influence the dose delivery to murine lungs during an inhalation study.
+Among these factors are the respiratory tract anatomy, lung physiology, and clearance characteristics.
+Therefore, the objective of this paper is to briefly review the current knowledge on the aforementioned factors in mice and their implications to the dose delivered to mouse models during inhalation studies.
+Representative scientific publications were chosen from searches using the NCBI PubMed and ISI Web of Knowledge databases.
+Relevant respiratory physiological differences have been widely reported for different mouse strains and sexes.
+The limited data on anatomical morphometry that is available for the murine respiratory tract indicates significant differences between mouse strains.
+These differences have implications to the dose delivered and the biological outcomes of inhalation studies.
+Y: NCBI PubMed, ISI Web of Knowledge (No need to annotate, just for notice).

@@ -1,0 +1,11 @@
+Studies on the prevalence of multimorbidity, defined as having two or more chronic conditions, have predominantly focused on the elderly.
+We estimated the prevalence and specific patterns of multimorbidity across different adult age groups.
+Furthermore, we examined the associations of multimorbidity with socio-demographic factors.
+Using data from the Health Quality Council of Alberta (HQCA) 2010 Patient Experience Survey, the prevalence of self reported multimorbidity was assessed by telephone interview among a sample of 5010 adults (18 years and over) from the general population.
+Logistic regression analyses were performed to determine the association between a range of socio-demographic factors and multimorbidity.
+The overall age- and sex-standardized prevalence of multimorbidity was 19.0% in the surveyed general population.
+Of those with multimorbidity, 70.2% were aged less than 65 years.
+The most common pairing of chronic conditions was chronic pain and arthritis.
+Age, sex, income and family structure were independently associated with multimorbidity.
+Multimorbidity is a common occurrence in the general adult population, and is not limited to the elderly.
+Future prevention programs and practice guidelines should take into account the common patterns of multimorbidity.

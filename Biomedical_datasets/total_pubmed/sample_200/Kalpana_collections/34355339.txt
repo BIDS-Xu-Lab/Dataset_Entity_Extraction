@@ -1,0 +1,11 @@
+Peripheral polyneuropathy (PPN) can occur in diabetes mellitus (DM), obesity, and after bariatric surgery (BS).
+We decided to evaluate PPN prevalence before (PreBS-PPN) and after BS (PostBS-PPN) and to look for variables that may be independently associated with both.
+In this cross-sectional study, we evaluated 1467 participants with obesity and without DM before and 10.4 ± 6.8 months after Roux-en-Y gastric bypass (RYGB) or sleeve gastrectomy (SG).
+The Michigan Neuropathy Screening Instrument and the International Physical Activity Questionnaire were used to define the presence of PPN and the Metabolic Equivalent Task (MET) spent per week, respectively.
+Using Poisson regression models with a robust estimator, the prevalence of PreBS-PPN and PostBS-PPN was analyzed as dependent variables.
+Prevalence of PostBS-PPN (10.5%) was lower than PreBS-PPN (20.4%, p < 0.001), with a prevalence of 12.7% post-RYGB and 8.4% post-SG (p = 0.072).
+In the univariate analysis, PreBS-PPN was associated with post-menopausal status (PMS), older age, and taller height.
+In twelve regression models, we found an independent association of PreBS-PPN with older age, PMS, and taller height.
+PostBS-PPN prevalence was associated with a higher fasting glycemia and stature, and a lower MET on univariate analysis, and with higher fasting glycemia, stature and RYGB in four multivariate regression models.
+PPN occurs frequently in subjects with obesity without DM and is lower after BS. SG is not likely to be harmful in the development of neuropathy.
+Studies of PPN incidence and persistence after BS should clarify these factors.

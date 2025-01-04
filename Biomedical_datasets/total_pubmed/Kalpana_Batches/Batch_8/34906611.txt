@@ -1,0 +1,8 @@
+Chromatin assembly factor-1, subunit b (CHAF1b), the p60 subunit of the chromatin-assembly factor-1 (CAF-1) complex, is an evolutionarily conserved protein that has been implicated in various biological processes.
+Although a variety of functions have been attributed to CHAF1b, its function in preimplantation embryos remains obscure.
+In this study, we showed that CHAF1b knockdown did not affect the blastocyst rate, but resulted in a low blastocyst hatching rate, outgrowth failure in vitro, and embryonic lethality after implantation in vivo.
+Notably, CHAF1b depletion increased apoptosis and caused down-regulated expression of key regulators of cell fate specification, including Oct4, Cdx2, Sox2, and Nanog.
+Further analysis revealed that CHAF1b mediated the replacement of H3.3 with H3.1/3.2, which was associated with decreased repressive histone marks (H3K9me2/3 and H3K27me2/3) and increased active histone marks (H3K4me2/3).
+Moreover, RNA-sequencing analysis revealed that CHAF1b depletion resulted in the differential expression of 1508 genes, including epigenetic modifications genes, multiple lineage-specific genes, and several genes encoding apoptosis proteins.
+In addition, assay for transposase-accessible chromatin-sequencing analysis demonstrated that silencing CHAF1b altered the chromatin accessibility of lineage-specific genes and epigenetic modifications genes.
+Taken together, these data imply that CHAF1b plays significant roles in preimplantation embryos, probably by regulating epigenetic modifications and lineage specification.

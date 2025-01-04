@@ -1,0 +1,11 @@
+Parental hypercholesterolemia would be a better predictor of hypercholesterolemia than family medical history in children.
+To compare the strength of association and predictive values of parental hypercholesterolemia versus a positive family history in pediatric hypercholesterolemia.
+Cholesterol levels were measured in children aged ≥ 6 and < 12 years and in their biological parents.
+A survey was administered to parents.
+The association was estimated using the odds ratio (OR), and its predictive value was determined.
+The relationship between hypercholesterolemia in parents and their children was studied with multilevel regression.
+A total of 332 children, 304 mothers, and 206 fathers were assessed.
+A cholesterol level ≥ 240 mg/dL in one or both parents and ≥ 200 mg/dL in children showed: OR= 6.40; 95 % confidence interval (CI)= 2.85-14.48; p < 0.0001; sensitivity= 69 %; specihcity= 74 %; positive predictive value (PPV)= 34 %; negative predictive value (NPV)= 93 %; positive likelihood ratio (LR+)= 2.69; negative likelihood ratio (LR-)= 0.42.
+Family medical history versus children with cholesterol level ≥ 200 showed: OR= 1.86; 95 % CI= 0.84-4.11; p= 0.1272; sensitivity= 69 %; specihcity= 46 %; PPV= 19 %; NPV= 89 %; LR+= 1.27; LR-= 0.68.
+Cholesterol was 2.9 and 2.5 mg/dL higher per every 10 mg/dL of increased cholesterol in mothers and fathers, respectively.
+Parental hypercholesterolemia was significantly associated with hypercholesterolemia in children and showed a higher predictive power than a positive family medical history.

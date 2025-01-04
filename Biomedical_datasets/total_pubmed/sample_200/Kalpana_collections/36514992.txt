@@ -1,0 +1,10 @@
+Paediatric studies have shown serum N-terminal pro b-type natriuretic peptide levels to be a valuable tool in the surveillance of myocardial function and an early biomarker for rejection in transplant patients.
+The correlation between low mean right atrial pressure and increased inferior vena cava collapsibility index is well studied in adults.
+right atrial pressure in paediatric heart transplant patients).
+A single centre, retrospective chart review of the paediatric transplant patients from 0 to 21 years of age was performed between 2015 and 2017.
+Thirty-nine patients had complete data which includes cardiac catheterisation, transthoracic echocardiogram, and serum N-terminal pro b-type natriuretic peptide levels done within a two weeks of interval.
+A higher inferior vena cava collapsibility index correlated with a lower mean right atrial pressure (r = -0.21, p = 0.04) and a larger inferior vena cava diameter in expiration indexed to body surface area (IVCmax/BSA0.5) correlated with a higher mean right atrial pressure (r = 0.29, p = 0.01).
+There was a correlation between elevated N-terminal pro b-type natriuretic peptide and inferior vena cava collapsibility index (r = -0.38, p = 0.0001), IVCmax/BSA0.5 (r = 0.25, p = 0.0002), and mean right atrial pressure (r = 0.6, p = 0.0001).
+Serum N-terminal pro b-type natriuretic peptide levels correlated to non-invasive measurements (inferior vena cava collapsibility index and IVCmax/BSA0.5) and to the invasive mean right atrial pressure.
+Non-invasive (IVC-CI IVCmax/BSA0.5) correlates with elevated mean right atrial pressure in this population.
+Together, these may serve as a reliable surveillance tool in assessing right heart filling pressures and cardiac function within the paediatric heart transplant patient.

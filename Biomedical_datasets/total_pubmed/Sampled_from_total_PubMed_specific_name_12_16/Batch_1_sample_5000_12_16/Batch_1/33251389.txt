@@ -1,0 +1,14 @@
+The recent dissemination of SARS-CoV-2 from Wuhan city to all over the world has created a pandemic.
+COVID-19 has cost many human lives and created an enormous economic burden.
+Although many drugs/vaccines are in different stages of clinical trials, still none is clinically available.
+We have screened a marine seaweed database (1110 compounds) against 3CLpro of SARS-CoV-2 using computational approaches.
+High throughput virtual screening was performed on compounds, and 86 of them with docking score <  - 5.000 kcal mol-1 were subjected to standard-precision docking.
+Based on binding energies (< - 6.000 kcal mol-1), 9 compounds were further shortlisted and subjected to extra-precision docking.
+Free energy calculation by Prime-MM/GBSA suggested RC002, GA004, and GA006 as the most potent inhibitors of 3CLpro.
+An analysis of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties of RC002, GA004, and GA006 indicated that only RC002 (callophysin A, from red alga Callophycus oppositifolius) passed Lipinski's, Veber's, PAINS and Brenk's filters and displayed drug-like and lead-like properties.
+Analysis of 3CLpro-callophysin A complex revealed the involvement of salt bridge, hydrogen bonds, and hydrophobic interactions.
+callophysin A interacted with the catalytic residues (His41 and Cys145) of 3CLpro; hence it may act as a mechanism-based competitive inhibitor.
+Docking energy and docking affinity of callophysin A towards 3CLpro was - 8.776 kcal mol-1 and 2.73 × 106 M-1, respectively.
+Molecular dynamics simulation confirmed the stability of the 3CLpro-callophysin A complex.
+The findings of this study may serve as the basis for further validation by in vitro and in vivo studies.
+Y: marine seaweed database (No need to annotate, just for notice).

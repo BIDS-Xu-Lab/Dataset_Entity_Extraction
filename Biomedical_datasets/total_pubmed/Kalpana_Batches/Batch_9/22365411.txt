@@ -1,0 +1,6 @@
+Recently our group has demonstrated that cellular triglyceride (TG) levels play an important role in rotavirus replication.
+In this study, we further examined the roles of the key enzymes for TG synthesis (lipogenesis) in the replication of rotaviruses by using inhibitors of fatty acid synthase, long chain fatty acid acyl-CoA synthetase (ACSL), and diacylglycerol acyltransferase and acyl-CoA:cholesterol acyltransferase in association with lipid droplets of which TG is a major component.
+Triacsin C, a natural ACSL inhibitor from Streptomyces aureofaciens, was found to be highly effective against rotavirus replication.
+Thus, novel triacsin C analogs were synthesized and evaluated for their efficacies against the replication of rotaviruses in cells.
+Many of the analogs significantly reduced rotavirus replication, and one analog (1e) was highly effective at a nanomolar concentration range (ED(50) 0.1μM) with a high therapeutic index in cell culture.
+Our results suggest a crucial role of lipid metabolism in rotavirus replication, and triacsin C and/or its analogs as potential therapeutic options for rotavirus infections.

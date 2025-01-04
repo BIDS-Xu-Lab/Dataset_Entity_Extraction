@@ -1,0 +1,10 @@
+Strobilurin fungicides are used primarily in fruits and vegetables, but recently, a patent was issued for one strobilurin fungicide, azoxystrobin, in mold-resistant wallboard.
+This raises concerns about the potential presence of these chemicals in house dust and potential exposure indoors, particularly in young children.
+Furthermore, recent toxicological studies have suggested that strobilurins may cause neurotoxicity.
+Currently, it is not clear whether or not azoxystrobin applications in wallboard lead to exposures in the indoor environments.
+The purpose of this study was to determine if azoxystrobin, and related strobilurins, could be detected in house dust.
+We also sought to characterize the concentrations of azoxystrobin in new wallboard samples.
+To support this study, we collected and analyzed 16 new dry wall samples intentionally marketed for use in bathrooms to inhibit mold.
+We then analyzed 188 house dust samples collected from North Carolina homes in 2014-2016 for azoxystrobin and related strobilurins, including pyraclostrobin, trifloxystrobin, and fluoxastrobin using liquid chromatography tandem mass spectrometry.
+Detection frequencies for azoxystrobin, pyraclostrobin, trifloxystrobin, and fluoxastrobin ranged from 34-87%, with azoxystrobin being detected most frequently and at the highest concentrations (geometric mean = 3.5 ng/g; maximum = 10,590 ng/g).
+Azoxystrobin was also detected in mold-resistant wallboard samples, primarily in the paper covering where it was found at concentrations up to 88.5 µg/g. Cumulatively, these results suggest that fungicides present in wallboard may be migrating to the indoor environment, leading to exposure in the residences that would constitute a separate exposure pathway independent of dietary exposures.

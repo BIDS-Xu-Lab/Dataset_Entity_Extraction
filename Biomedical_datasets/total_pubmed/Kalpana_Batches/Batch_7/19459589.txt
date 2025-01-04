@@ -1,0 +1,6 @@
+We report on the self-assembly of selected phospholipids on a Zr phosphate-terminated thiol self-assembled monolayer (SAM) formed on a planar Au surface.
+The gold substrates were first reacted with 6-mercapto-1-hexanol and then treated with POCl(3) and ZrOCl(2)(aq) prior to exposure to phospholipids.
+The phospholipids used for adlayer formation were 1,2-dimyristoyl-sn-glycero-3-phosphatidic acid (DMPA), 1,2-dimyristoyl-sn-glycero-3-phosphatidylcholine (DMPC), 1,2-dimyristoyl-sn-glycero-3-phosphatidylethanolamine (DMPE), 1,2-dimyristoyl-sn-glycero-3-[phospho-rac-(1-glycerol)] (DMPG), and 1,2-dimyristoyl-sn-glycero-3-[phospho-L-serine] (DMPS), and deposition was accomplished through vesicle fusion.
+The resulting interfaces were characterized using optical ellipsometry and water contact angle measurements, and cyclic voltammetry was used to interrogate the quality of the phospholipid adlayers.
+Our data indicate that the strongest lipid-interface interaction is with DMPA, whereas DMPC produces a slightly less organized adlayer.
+Phospholipids DMPE, DMPG, and DMPS were all found to interact relatively weakly with the zirconated interface, and we understand these results in the context of steric and hydrogen bonding effects in the adlayer that are dominated by the phospholipid headgroup.

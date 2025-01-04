@@ -1,0 +1,9 @@
+Age at sexual debut and age gap between partners at debut are modifiable characteristics that may be related to risky sexual behaviors.
+Understanding any such relationships is a necessary first step toward strengthening risk interventions.
+Age at sexual debut and partner age gap were examined for 3,154 female and 2,713 male respondents to the 2011-2013 National Survey of Family Growth who first had intercourse before age 18.
+Multivariable logistic regression was used to assess associations between these measures and teenage parenthood and reporting a high lifetime number of partners (i.e., a number above the sample median).
+Females' odds of teenage parenthood were elevated if sexual debut occurred at ages 15-17 and involved a partner age gap of 3-4 years (odds ratio, 1.8) or more (2.0); they were reduced if debut occurred before age 15 and the gap was 3-4 years (0.8).
+Females' likelihood of reporting a high lifetime number of partners was negatively associated with age gap (0.4-0.7, depending on age at debut and length of age gap).
+Males' likelihood of reporting a large number of partners was positively associated with age gap if sexual debut was before age 15 and the gap was five or more years (1.7) or if debut was at ages 15-17 and involved a 3-4-year gap (2.0).
+Identifying the mechanisms underlying these associations could inform program design and implementation.
+Y and the names: 2011-2013 National Survey of Family Growth (No need to annotate, just for notice).

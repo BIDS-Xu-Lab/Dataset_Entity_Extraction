@@ -1,0 +1,13 @@
+Graves' disease (GD) is an autoimmune condition of the thyroid.
+The hyperthyroidism manifested by patients affected by this disease is caused by the production of autoantibodies against the thyroid-stimulating hormone (TSH, or thyrotropin) receptor (TSHR), which mimic the effects of the hormone on thyroid cells, thereby stimulating autonomic production of thyroxine and triiodothyronine.
+Deciding on a therapeutic approach to this condition presents intricate dilemmas for both clinicians and patients.
+Each of the three available treatment modalities is grounded in evidence-based medicine, affirming its efficacy.
+This systematic review and meta-analysis aimed to assess the effect of carbimazole (CBM), radioactive iodine (RAI), and surgery in treating GD and provide evidence-based recommendations for healthcare providers regarding the optimal management of the condition based on a comprehensive analysis of effectiveness, safety, patient satisfaction, and recovery outcomes.
+This systematic review and meta-analysis adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.
+We used the PubMed and Google Scholar databases to conduct a thorough web search for articles published between January 2019 and September 2023.
+The meta-analysis was carried out using Resource Manager (Revman) 5.4.1.
+The study found that propylthiouracil (PTU) or methimazole/carbimazole (MMI/CBM) treatment increases the risk of hyperlipidemia in patients with hyperthyroidism.
+Once in a euthyroid state, glucose tolerance increases; for children with GD, a computer model for customized dosing has been created.
+To sum up, CBM, surgery, and RAI are all useful treatment options for GD.
+Using steroids in conjunction with radiation therapy may help prevent Graves' ophthalmopathy (GO).
+Y: PubMed, Google Scholar (No need to annotate, just for notice).

@@ -1,0 +1,17 @@
+Zika virus (ZIKV) infection has potential result in severe birth effects.
+An improved understanding of global trend and regional differences is needed.
+Annual ZIKV infection episodes and incidence rates were collected from Global Burden of Disease Study 2019.
+Episodes changes and estimated annual percentage changes (EAPCs) of age-standardized incidence rate (ASR) were calculated.
+Top passenger airport-pairs were obtained from the International Air Transport Association to understand places susceptible to imported ZIKV cases.
+Globally, the ASR increased by an average of 72.85% (95%CI: 16.47% to 156.53%) per year from 2011 to 2015 and subsequently decreased from 20.25 per 100,000 in 2015 to 3.44 per 100,000 in 2019.
+Most of ZIKV infections clustered in Latin America.
+The proportion of episodes in Central and Tropical Latin America decreased in 2019 with sporadic episodes elsewhere.
+High Socio-Demographic Index (SDI) regions had more episodes in 2019 than in 2015.
+Additionally, 15-49 years group had the largest proportion of episodes, females had a higher number of episodes, and a higher incidence rate of 70 plus group was observed in males than females.
+Certain cities in Europe, North America and Latin America/Caribbean had a high population mobility in ZIKV outbreak areas considered a high risk of imported cases.
+ZIKV infection is still a public health threat in Latin America and Caribbean and high SDI regions suffered an increasing trend of ZIKV infection.
+Interventions such as development of surveillance networks and vector-control should be attached to ZIKV control in these key regions.
+Reproductive suggestions should be taken to reduce ZIKV-related birth defects for the people of reproductive age who are facing a higher threat of ZIKV infection, especially females.
+Moreover, surveillance of travellers is needed to reverse the uptrends of travel-related imported ZIKV infection.
+More studies focusing on ZIKV should be performed to make targeted and effective prevention strategies in the future.
+Y: Global Burden of Disease Study 2019, International Air Transport Association (No need to annotate, just for notice).

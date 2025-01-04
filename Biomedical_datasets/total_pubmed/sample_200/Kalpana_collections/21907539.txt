@@ -1,0 +1,8 @@
+Social phobics exhibit an attentional bias for threat in probe detection paradigms.
+Attention training, whereby probes always replace non-threat in a display presenting both threat and non-threat, reduces attentional bias for threat and social anxiety.
+However, it remains unclear whether therapeutic benefits result from learning to disengage attention from threat or learning to orient attention towards non-threat.
+In this experiment, social phobics were randomly assigned to one of four training conditions: (1) disengagement from threat, (2) engagement towards non-threat, (3) disengagement from threat and re-engagement towards non-threat, and (4) a control condition.
+Effects were examined on subjective and behavioral responses to a subsequent stressor.
+Data revealed that training to disengage from threat reduces behavioral indices of anxiety.
+Engagement towards non-threat faces did not have effects in itself.
+These results support that the difficulty in disengaging attention from threat is a critical process in maintenance of the disorder.

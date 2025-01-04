@@ -1,0 +1,11 @@
+Our study aimed to identify the optimal scoring system for predicting the prognosis of patients with sepsis-associated acute respiratory failure (SA-ARF).
+All data were taken from the fourth version of the Markets in Intensive Care Medicine (MIMIC-IV) database.
+Independent risk factors for death in hospitals were confirmed by regression analysis.
+The predictive value of the five scoring systems was evaluated by receiving operating characteristic (ROC) curves.
+Kaplan‒Meier curves showed the impact of acute physiology score III (APSIII) on survival and prognosis in patients with SA-ARF.
+Decision curve analysis (DCA) identified a scoring system with the highest net clinical benefit.
+ROC curve analysis showed that APS III (AUC: 0.755, 95% Cl 0.714-0.768) and Logical Organ Dysfunction System (LODS) (AUC: 0.731, 95% Cl 0.717-0.7745) were better than Simplified Acute Physiology Score II (SAPS II) (AUC: 0.727, 95% CI 0.713-0.741), Oxford Acute Severity of Illness Score (OASIS) (AUC: 0.706, 95% CI 0.691-0.720) and Sequential Organ Failure Assessment (SOFA) (AUC: 0.606, 95% CI 0.590-0.621) in assessing in-hospital mortality.
+Kaplan‒Meier survival analysis patients in the high-APS III score group had a considerably poorer median survival time.
+The DCA curve showed that APS III may provide better clinical benefits for patients.
+We demonstrated that the APS III score is an excellent predictor of in-hospital mortality.
+Y MIMIC-IV (No need to annotate, just for notice).

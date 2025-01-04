@@ -1,0 +1,18 @@
+Lupus nephritis (LN) is a major and severe complication of systemic lupus erythematosus (SLE).
+Neutrophil gelatinase-associated lipocalin (NGAL), as a promising next-generation biomarker in clinical nephrology, has received extensive attention.
+However, its diagnostic performance in LN has high variability.
+Therefore, we performed an updated meta-analysis to further evaluate the diagnostic accuracy of urinary NGAL (uNGAL).
+PubMed, Embase, and Cochrane Library were searched from inception to October 27, 2019.
+Meta-analysis was performed with a bivariate random effects model.
+Additionally, the summary receiver operating characteristic (SROC) curves were established.
+The sources of heterogeneity were explored by meta-regression, subgroup analysis, and sensitivity analysis.
+Publication bias was assessed using the Deeks test.
+19 articles consisting of 21 eligible studies were included.
+In diagnosing LN, the estimates (95% confidence interval (CI)) were as follows: sensitivity, 0.84 (0.71-0.91); specificity, 0.91 (0.70-0.98); and the SROC-AUC value, 0.92 (0.90-0.94).
+In identifying active LN, the estimates were as follows: sensitivity, 0.72 (0.56-0.84); specificity, 0.71 (0.51-0.84); and the AUC value, 0.77 (0.74-0.81).
+With respect to predicting renal flare, the estimates were as follows: sensitivity, 0.80 (0.57-0.92); specificity, 0.67 (0.58-0.75); and the AUC value, 0.74 (0.70-0.78).
+For the studies to distinguish proliferative LN, the estimates were as follows: sensitivity, 0.87 (0.66-0.97), and specificity, 0.69 (0.39-0.91).
+Deeks' funnel plot suggested that there was no significant publication bias.
+Our meta-analysis indicates that uNGAL was a useful biomarker for diagnosis, estimation of activity, and prediction of renal flare of LN.
+In addition, the usefulness of uNGAL to distinguish pathological types of LN needs to be further investigated.
+Y PubMed, Embase, Cochrane Library (No need to annotate, just for notice).

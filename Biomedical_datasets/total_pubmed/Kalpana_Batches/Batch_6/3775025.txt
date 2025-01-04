@@ -1,0 +1,3 @@
+A computerized database management system is being used in our radiology research laboratory.
+Daily lab activities, inventory records, and experimental data are retrieved easily for editing and reporting purposes.
+Our database management system is an accurate, efficient system that is easily accessible and requires minimal manpower to maintain.

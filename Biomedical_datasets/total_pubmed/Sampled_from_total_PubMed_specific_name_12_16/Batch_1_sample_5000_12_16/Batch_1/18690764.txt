@@ -1,0 +1,13 @@
+To test several patient-oriented asthma outcome measures and the Healthcare Effectiveness Data and Information Set (HEDIS) measure of appropriate medication for persistent asthma to determine the most useful quality indicator of asthma care.
+Prospective mail survey of adult employees and dependents with asthma.
+The medical and pharmacy claims of all subjects from 12 months before and after the survey were abstracted.
+Outcomes measures included the Asthma Control Test (ACT), workday loss, unscheduled healthcare utilization (emergency department and inpatient care), and satisfaction with care.
+Although 81% of all responders had wellcontrolled asthma, persistent asthma was uncontrolled in 28%.
+Only 64.5% received appropriate controller medication.
+Well-controlled asthma is associated with a high degree of satisfaction, less workday loss, fewer prednisone bursts, and minimal unscheduled healthcare utilization.
+Except for a reduced incidence of more than 2 oral corticosteroid dispensings (6.4% vs 13.6%, P = .012), compliance with the HEDIS appropriate medication for asthma was not positively associated with any of the patient-centered outcomes studied.
+Asthma control was the most useful patient outcome quality indicator in this study.
+Compliance with the HEDIS asthma measure in this population was not associated with a better patient-oriented outcome.
+This finding may be different with different levels of asthma control.
+The positive association between well-controlled asthma and patient satisfaction, minimal unscheduled healthcare utilization, and low workday loss suggests that asthma control as measured by ACT may be a better performance measure in asthma.
+Y Healthcare Effectiveness Data and Information Set (HEDIS) (No need to annotate, just for notice).

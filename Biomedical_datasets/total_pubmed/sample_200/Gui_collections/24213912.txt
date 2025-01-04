@@ -1,0 +1,5 @@
+A model of the labyrinthine membranes in mammals may be useful in the study of conditions that involve membrane stress and deformation such as Meniere's disease and diving injuries.
+Conceptual design of a model of the labyrinthine membranes in mammals.
+The model is constructed by emulating each of the several chambers of the membranous labyrinth and their connections with mathematically defined geometric shapes.
+The model design uses a torus to emulate each semicircular canal, prolate spheroids for each ampulla, cylinders for the crus commune and utricle, an oblate spheroid for the saccule, hyperboloids of revolution for junctional zones, and a spiral torus for the cochlea membranes.
+A complete model of the labyrinthine membranes has been designed that can serve as a platform for stress analysis when numerical dimensions are available for any particular species including man.

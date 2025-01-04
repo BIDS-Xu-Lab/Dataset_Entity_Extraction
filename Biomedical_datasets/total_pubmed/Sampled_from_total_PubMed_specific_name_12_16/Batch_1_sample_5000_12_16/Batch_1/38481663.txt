@@ -1,0 +1,13 @@
+Acute haemorrhagic diarrhoea syndrome (AHDS) in dogs is a condition of unknown aetiology.
+Providencia alcalifaciens is suspected to play a role in the disease as it was commonly found in dogs suffering from AHDS during a Norwegian outbreak in 2019.
+The role of this bacterium as a constituent of the canine gut microbiota is unknown, hence this study set out to investigate its occurrence in healthy dogs using metagenomics.
+To decrease the likelihood of false detection, we established a metagenomic threshold for P. alcalifaciens by spiking culture-negative stool samples with a range of bacterial dilutions and analysing these by qPCR and shotgun metagenomics.
+The detection limit for P. alcalifaciens was determined and used to establish a metagenomic threshold.
+The threshold was validated on naturally contaminated faecal samples with known cultivation status for P. alcalifaciens.
+Finally, the metagenomic threshold was used to determine the occurrence of P. alcalifaciens in shotgun metagenomic datasets from canine faecal samples (n=362) collected in the HUNT One Health project.
+The metagenomic assay and qPCR had a detection limit of 1.1x103 CFU P. alcalifaciens per faecal sample, which corresponded to a Cq value of 31.4 and 569 unique k-mer counts by shotgun metagenomics.
+[0.0, 6.8]) of the samples, and then in low relative abundances (median: 0.04%; range: 0.00 to 0.81%).
+The sensitivity of the qPCR and shotgun metagenomics assay was low, as only 40% of culture-positive samples were also positive by qPCR and metagenomics.
+Using our detection limit, the occurrence of P. alcalifaciens in faecal samples from healthy dogs was low.
+Given the low sensitivity of the metagenomic assay, these results do not rule out a significantly higher occurrence of this bacterium at a lower abundance.
+Y: HUNT One Health project (No need to annotate, just for notice).

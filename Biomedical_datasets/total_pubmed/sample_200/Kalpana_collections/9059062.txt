@@ -1,0 +1,7 @@
+To clarify the efficacy of allogeneic bone marrow transplantation (BMT) for adult ALL in first remission we retrospectively studied long-term outcomes of adult ALL patients of age between 15 and 44 years who were treated in our institute from 1980 to 1990.
+In this period thirteen patients with HLA compatible donors were offered allogeneic BMT during the first remission, while 16 patients without HLA-compatible donor were treated with maintenance chemotherapy (Cancer Chemoth Pharmacology 33:359-365, 1994).
+Patient and disease characteristics (age, leukocyte count at presentation, immunophenotype, Ph1 chromosome, and duration to first remission) in the two groups were not significantly different (chi-square test p > 0.1).
+As causes of treatment failure, relapse was 90% for chemotherapy while relapse and therapy-related death were 67% and 33%, respectively, for transplantation.
+The leukemia-free survival (LFS) rates at 10 years were 52 +/- 13% for transplantation and 30 +/- 11% for chemotherapy (P > 0.2, g-Wilcoxon, Logrank).
+The 10-year-LFS rates of Ph1-negative patients of 15 to 29 year-old were 67 +/- 15% for transplantation (n = 9) and 62 +/- 15% for chemotherapy (n = 8) (P > 0.9).
+Although the present data are derived from a non randomized retrospective study and a relatively small number of patients, this study revealed no superiority of BMT over chemotherapy for the prolongation of first remission in adult ALL, especially, in a standard risk group such as young patients without Ph1 chromosome.

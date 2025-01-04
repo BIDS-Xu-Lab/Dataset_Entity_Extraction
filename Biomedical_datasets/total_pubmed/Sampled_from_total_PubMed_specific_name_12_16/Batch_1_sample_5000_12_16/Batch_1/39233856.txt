@@ -1,0 +1,13 @@
+Chronic rhinosinusitis is one of the common diseases that cause morbidity and affects a person's quality of life.
+We tried to provide a more appropriate and effective approach to selecting patients for endoscopic sinus surgery.
+The study population is chronic rhinosinusitis children referred to the ear, nose, and throat clinic of two general hospitals in Tehran, Iran, who have previously undergone sufficient drug treatment and have not recovered.
+The Lund-Mackay score is calculated by examining the computed tomography (CT) scan.
+The Sino-nasal Outcome Test-22 (SNOT-22) questionnaire was provided to the patients before the operation, after the operation, and 3 and 6 months later in the clinic.
+Before the operation, the most SNOT-22 score people were in the range of 40-59 points.
+The SNOT-22 score before the operation is significantly different from 3 and 6 months after the operation.
+The highest frequency of Lund-Mackay CT (LMCT) scan score was in the range of 18-23 points.
+The LMCT scan score did not show any significant relationship with the SNOT-22 score before surgery, 3 months, and 6 months after surgery.
+Sensitivity to aspirin had a significant relationship with SNOT-22 scores and the history of asthma and nasal polyps had a significant relationship with the preoperative LMCT scan score.
+The LMCT scan scoring system cannot be a good measure of chronic rhinosinusitis severity or the prognosis of patients after surgery.
+The SNOT-22 questionnaire can be used as a predictive tool to help the doctor and the patient in deciding to operate and the possibility of obtaining a relative recovery.
+Y: Sino-nasal Outcome Test-22 (SNOT-22) questionnaire (No need to annotate, just for notice).

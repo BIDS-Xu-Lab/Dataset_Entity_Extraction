@@ -1,0 +1,20 @@
+Patients suffering from rheumatoid arthritis (RA) are repeatedly affected by oral diseases or complaints, including xerostomia, periodontitis and dental caries.
+The aim of this systematic review was the evaluation of caries prevalence and/or incidence in patients with RA.
+Within this review, there is a systematic search of the literature based on PubMed, Web of Science and Scopus.
+Two independent researchers performed the search in February 2023.
+The search terms were "dental caries" AND "rheumatoid arthritis".
+Additionally, a manual search completed the review process.
+Studies on adult patients (age ≥ 18 years) only suffering from RA were included.
+Studies had to explicitly report on the prevalence or incidence of dental caries.
+The respective studies were checked regarding suitability and, if they were eligible, analyzed qualitatively.
+A quality appraisal was performed for all of the analyzed studies.
+A total of 336 studies were detected, of which 16 studies met the in- and exclusion criteria.
+The sample sizes of the clinical investigations ranged between 13 and 1337 participants.
+Twelve studies evaluated a healthy control group.
+In 8/12 studies, a significant difference in the prevalence/incidence of caries was found between RA patients and controls.
+The majority of the studies applied the decayed (DT), missing and filled teeth index (DMFT) for the diagnosis of caries.
+On average (mean value), 0.8 to 5.79 carious teeth per patient were reported across the studies.
+There was no information on the stadium, activity or location of caries (e.g., root caries) in any study.
+Quality appraisal revealed a moderate quality for most studies.
+In conclusion, caries prevalence was heterogeneous across studies, while a higher caries prevalence was repeatedly reported in RA patients against controls.
+Further research regarding dental caries in RA appears recommendable; multidisciplinary, patient-centered dental care for patients with RA should be fostered to improve patients' dental health status.

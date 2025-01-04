@@ -1,0 +1,4 @@
+The authors analyse data from a case series of 1500 attempted suicides, gathered by the University of Parma, Institute of Psychiatry.
+The attempted suicides were studied according to sex, age, class, place where the subject was born and where the attempt took place, marital status, family background, level of education, financial position, occupation, as well as the method of the attempted suicide and the mental condition of the patient when under observation.
+The main points to emerge were the similarities between these data and those of the literature, as well as the psychological features and social background of these patients.
+Our study also confirms the results of a previous research on 500 attempted suicides, here included: the obtained out of the last 1.000 cases confirms those out of previous 500.

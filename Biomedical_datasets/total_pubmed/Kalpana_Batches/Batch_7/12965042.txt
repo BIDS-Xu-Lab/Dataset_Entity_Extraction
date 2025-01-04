@@ -1,0 +1,9 @@
+Numerous studies investigated physiological correlates of the processing of musical information in adults.
+How these correlates develop during childhood is poorly understood.
+In the present study, we measured event-related electric brain potentials elicited in 5- and 9-year-old children while they listened to (major-minor tonal) music.
+Stimuli were chord sequences, infrequently containing harmonically inappropriate chords.
+Our results demonstrate that the degree of (in)appropriateness of the chords modified the brain responses in both groups according to music-theoretical principles.
+This suggests that already 5-year-old children process music according to a well-established cognitive representation of the major-minor tonal system and according to music-syntactic regularities.
+Moreover, we show that, in contrast to adults, an early negative brain response was left predominant in boys, whereas it was bilateral in girls, indicating a gender difference in children processing music, and revealing that children process music with a hemispheric weighting different from that of adults.
+Because children process, in contrast to adults, music in the same hemispheres as they process language, results indicate that children process music and language more similarly than adults.
+This finding might support the notion of a common origin of music and language in the human brain, and concurs with findings that demonstrate the importance of musical features of speech for the acquisition of language.

@@ -1,0 +1,10 @@
+Conductive atomic force microscopy (CAFM) analyzes electronic phenomena in materials and devices with nanoscale lateral resolution, and it is widely used by companies, research institutions, and universities.
+Most data published in the field of CAFM is collected in air at a relative humidity (RH) of 30-60%.
+However, the effect of RH in CAFM remains unclear because previous studies often made contradictory claims, plus the number of samples and locations tested is scarce.
+Moreover, previous studies on this topic did not apply current limitations, which can degrade the CAFM tips and generate false data.
+This article systematically analyzes the effect of RH in CAFM by applying ramped voltage stresses at over 17,000 locations on ten different samples (insulating, semiconducting, and conducting) under seven different RH.
+An ultra-reliable setup with a 110-pA current limitation during electrical stresses is employed, and excellent CAFM tip integrity after thousands of tests is demonstrated.
+It is found that higher RH results in increased currents due to the presence of a conductive water meniscus at the tip/sample junction, which increases the effective area for electron flow.
+This trend is observed in insulators and ultra-thin semiconductors; however, in thicker semiconductors the electron mean free path is high enough to mask this effect.
+Metallic samples show no dependence on RH.
+This study clarifies the effect of relative humidity in CAFM, enhances understanding of the technique, and teaches researchers how to improve the reliability of their studies in this field.

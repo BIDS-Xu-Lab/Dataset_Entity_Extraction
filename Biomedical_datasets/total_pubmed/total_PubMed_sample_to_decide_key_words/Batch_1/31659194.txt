@@ -1,0 +1,7 @@
+We present a statistical analysis of nearshore waves observed during two major North-East Atlantic storms in 2015 and 2017.
+Surface elevations were measured with a 5-beam acoustic Doppler current profiler (ADCP) at relatively shallow waters off the west coast of Ireland.
+To compensate for the significant variability of both sea states in time, we consider a novel approach for analyzing the non-stationary surface-elevation series and compare the distributions of crest and wave heights observed with theoretical predictions based on the Forristall, Tayfun and Boccotti models.
+In particular, the latter two models have been largely applied to and validated for deep-water waves.
+We show here that they also describe well the characteristics of waves observed in relatively shallow waters.
+The largest nearshore waves observed during the two storms do not exceed the rogue thresholds as the Draupner, Andrea, Killard or El Faro rogue waves do in intermediate or deep-water depths.
+Nevertheless, our analysis reveals that modulational instabilities are ineffective, third-order resonances negligible and the largest waves observed here have characteristics quite similar to those displayed by rogue waves for which second order bound nonlinearities are the principal factor that enhances the linear dispersive focusing of extreme waves.

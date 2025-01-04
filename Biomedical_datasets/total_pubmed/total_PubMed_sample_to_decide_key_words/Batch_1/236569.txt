@@ -1,0 +1,7 @@
+The effect of severe anoxia produced by gassing with 100% nitrogen on gastric mucosal permeability and hydrogen ion back diffusion was investigated using an in vitro preparation of rabbit fundic gastric mucosa mounted in an Ussing chamber.
+Permeability was estimated by determination of the flux of the water soluble, nonlipidsoluble molecule erythritol from the mucosal to serosal solution.
+The flux rate across normal tissue was 2.80 plus or minus 0.41 pmoles/cm-2/sec, and rose to 3.32 plus or minus 0.57 pmoles/cm-2/sec after 2 hr of severe anoxia.
+Hydrogen ion ack diffusion was measured by determining with a pH stat the amount of hydrogen required to maintain the [H+] of the mucosal solution at 0.1, 1.0, 2.0 and 3.2 mEq/L in both normal and anoxic tissues.
+One hour of anoxia increased the back diffusion of H+, but the changes only became statistically significant at all pH values after 1.5 hr.
+Anoxia did however cause an immediate fall in potential difference to zero, and a rise in resistance which after 30 min fell progressively to preanoxic levels.
+Anoxia produces a small increase in gastric mucosal, permeability, an effect which may be enhanced by other factors.

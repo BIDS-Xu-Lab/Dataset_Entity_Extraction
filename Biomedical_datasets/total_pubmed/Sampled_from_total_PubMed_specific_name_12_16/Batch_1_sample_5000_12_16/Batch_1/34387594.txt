@@ -1,0 +1,13 @@
+Currently, there have been few studies on the function and molecular mechanism of miR-141-3p in the development of clear cell renal cell carcinoma (CCRCC).
+This study aimed to explore the relationship between miR-141-3p and NIMA (never in mitosis, gene A)-related kinase-6 (NEK6) and investigate the role of the interaction in CCRCC cell proliferation, migration, invasion and apoptosis.
+Starbase database was used to predict the target gene of miR-141-3p in CCRCC and dual-luciferase reporter assay was performed to verify the targeting relationship between miR-141-3p and the target gene.
+Real-time quantitative PCR was conducted to detect the expression of miR-141-3p and NEK6 mRNA in cells.
+Western blot was carried out to detect the protein level of NEK6 in cells.
+Cell Counting Kit-8 assay, transwell assay and wound healing assay were conducted to detect CCRCC cell proliferation, invasion and migration abilities.
+Flow cytometry was performed to detect CCRCC cell apoptosis.
+miR-141-3p was markedly lowly expressed, and NEK6 was a target of miR-141-3p and was remarkably highly expressed in CCRCC cells.
+Over-expressing miR-141-3p could inhibit CCRCC cell proliferation, migration, invasion and promote apoptosis.
+The inhibitory effect of miR-141-3p over-expression on cell proliferation, migration and invasion was significantly weakened by over-expressing NEK6.
+miR-141-3p could regulate CCRCC cell proliferation, migration, invasion and apoptosis by targeting NEK6.
+This study lays the basis for the exploration of the molecular mechanism underlying CCRCC pathogenesis and research on targeted therapies for CCRCC.
+Y: Starbase database (No need to annotate, just for notice).

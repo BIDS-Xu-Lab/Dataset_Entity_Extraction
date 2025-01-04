@@ -1,0 +1,15 @@
+Internationally wheelchair users are an emerging demographic phenomenon due to their rapidly increasing life-span coupled with accelerated general population ageing.
+While having significant healthcare and social implications, basic robust epidemiological information of wheelchair users is often lacking due in part to this population's "hidden" nature.
+Increasingly popular in epidemiological research, Respondent Driven Sampling (RDS) provides a mechanism for generating unbiased population-based estimates for hard-to-reach populations, overcoming biases inherent within other sampling methods.
+This paper reports the first published study to employ RDS amongst wheelchair users.
+Between October 2015 and January 2016, a short, successfully piloted, internet-based national survey was initiated.
+Twenty seeds from diverse organisations were invited to complete the survey then circulate it to peers within their networks following a well-defined protocol.
+A predetermined reminder protocol was triggered when seeds or their peers failed to respond.
+All participants were entered into a draw for an iPad.
+Overall, 19 people participated (9 women); 12 initial seeds, followed by seven second-wave participants arising from four seeds .
+Completion time for the survey ranged between 7 and 36 minutes.
+Despite repeated reminders, no further people were recruited.
+While New Zealand wheelchair user numbers are unknown, an estimated 14% of people have physical impairments that limited mobility.
+The 19 respondents generated from adopting the RDS methodology here thus represents a negligible fraction of wheelchair users in New Zealand, and an insufficient number to ensure equilibrium.
+While successful in other hard-to-reach populations, applying RDS methodology to wheelchairs users requires further consideration.
+Formative research exploring areas of network characteristics, acceptability of RDS, appropriate incentive options, and seed selection amongst wheelchair users is needed.

@@ -1,0 +1,7 @@
+Due to chromatic aberration, blue images are defocused when the eye is focused to the middle of the visible spectrum, yet we normally are not aware of chromatic blur.
+The eye suffers from monochromatic aberrations which degrade the optical quality of all images projected on the retina.
+The combination of monochromatic and chromatic aberrations is not additive and these aberrations may interact to improve image quality.
+Using Adaptive Optics, we investigated the optical and visual effects of correcting monochromatic aberrations when viewing polychromatic grayscale, green, and blue images.
+Correcting the eye's monochromatic aberrations improved optical quality of the focused green images and degraded the optical quality of defocused blue images, particularly in eyes with higher amounts of monochromatic aberrations.
+Perceptual judgments of image quality tracked the optical findings, but the perceptual impact of the monochromatic aberrations correction was smaller than the optical predictions.
+The visual system appears to be adapted to the blur produced by the native monochromatic aberrations, and possibly to defocus in blue.

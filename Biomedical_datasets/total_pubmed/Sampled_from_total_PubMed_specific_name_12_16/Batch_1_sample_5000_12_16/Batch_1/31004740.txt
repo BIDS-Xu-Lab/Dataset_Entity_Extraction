@@ -1,0 +1,14 @@
+To characterize the structural and functional neurobiology of a large group of adolescents exhibiting a behaviorally and emotionally dysregulated phenotype.
+Adolescents aged 14 years from the IMAGEN study were investigated.
+Latent class analysis (LCA) on the Strengths and Difficulties Questionnaire (SDQ) was used to identify a class of individuals with elevated behavioral and emotional difficulties ("dysregulated"; n = 233) who were compared to a matched sample from a low symptom class (controls, n = 233).
+Whole-brain gray matter volume (GMV) images were compared using a general linear model with 10,000 random label permutations.
+Regional GMV findings were then probed for functional differences from three functional magnetic resonance imaging (fMRI) tasks.
+Significant brain features then informed mediation path models linking the likelihood of psychiatric disorders (DSM-IV) with dysregulation.
+Whole-brain differences were found in the right orbitofrontal cortex (R.OFC; p < .05; k = 48), with dysregulated individuals exhibiting lower GMV.
+The dysregulated group also exhibited higher activity in this region during successful inhibitory control (F1,429 = 7.53, p < .05).
+Path analyses indicated significant direct effects between the likelihood of psychopathologies and dysregulation.
+Modeling the R.OFC as a mediator returned modest partial effects, suggesting that the path linking the likelihood of an anxiety or conduct disorder diagnoses to dysregulation is partially explained by this anatomical feature.
+A large sample of dysregulated adolescents exhibited lower GMV in the R.OFC relative to controls.
+Dysregulated individuals also exhibited higher regional activations when exercising inhibitory control at performance levels comparable to those of controls.
+These findings suggest a neurobiological marker of dysregulation and highlight the role of the R.OFC in impaired emotional and behavioral control.
+Y and the IMAGEN study (No need to annotate, just for notice).

@@ -1,0 +1,11 @@
+A new approach for biogeography to find patterns of sympatry, based on network analysis, is proposed.
+Biogeographic analysis focuses basically on sympatry patterns of species.
+Sympatry is a network (= relational) datum, but it has never been analyzed before using relational tools such as Network Analysis.
+Our approach to biogeographic analysis consists of two parts: first the sympatry inference and second the network analysis method (NAM).
+The sympatry inference method was designed to propose sympatry hypothesis, constructing a basal sympatry network based on punctual data, independent of a priori distributional area determination.
+In this way, two or more species are considered sympatric when there is interpenetration and relative proximity among their records of occurrence.
+In nature, groups of species presenting within-group sympatry and between-group allopatry constitute natural units (units of co-occurrence).
+These allopatric units are usually connected by intermediary species.
+The network analysis method (NAM) that we propose here is based on the identification and removal of intermediary species to segregate units of co-occurrence, using the betweenness measure and the clustering coefficient.
+The species ranges of the units of co-occurrence obtained are transferred to a map, being considered as candidates to areas of endemism.
+The new approach was implemented on three different real complex data sets (one of them a classic example previously used in biogeography) resulting in (1) independence of predefined spatial units; (2) definition of co-occurrence patterns from the sympatry network structure, not from species range similarities; (3) higher stability in results despite scale changes; (4) identification of candidates to areas of endemism supported by strictly endemic species; (5) identification of intermediary species with particular biological attributes.

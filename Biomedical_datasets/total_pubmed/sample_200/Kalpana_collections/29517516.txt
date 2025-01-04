@@ -1,0 +1,14 @@
+Hybrid revascularization (HCR) has been recently proposed as an alternative strategy in multivessel coronary disease, particularly in patients with high SYNTAX scores and risk scores.
+The objective of this study is to evaluate the outcomes of HCR versus percutaneous coronary intervention (PCI) drug-eluting stenting in left main treatment.
+A series of 198 consecutive patients with left main stenosis have been treated.
+HCR, was performed in 77 patients (G1) whereas 121 patients (G2) received PCI on left main.
+An adjusted analysis using inverse probability weighting (IPW) was performed.
+Primary outcomes include: 30-day mortality, postoperative acute myocardial infarction, 18 months' MACCEs: cardiac death, stroke, acute myocardial infarction (AMI), repeated target vessel revascularization (TVR).
+SYNTAX score was 29.5 ± 6.9 in G1 and 29.1 ± 6.5 in G2 (P = 0.529).
+In G2, three patients (2.7%) died because of cardiogenic shock; no deaths occurred in G1 (P = 0.603).
+No major complications were reported in G1 and there was no mortality at 18 months' follow-up in both groups.
+Survival freedom from MACCEs at 18 months' follow-up was significantly higher in G1 (G1: 93.3 ± 4.6% versus G2: 72.3 ± 6.3; P = 0.001) mostly because of the higher freedom from TVR (G1: 93.3 ± 4.6% versus G2: 75.5 ± 5.6; P = 0.002).
+At Cox regression analysis, PCI was an independent predictor of MACCEs and TVR (hazard ratio 3.9, CI 1.36-9.6; P = 0.027).
+PCI in patients with left main and multivessel disease is a viable strategy, with a good outcome.
+HCR, demonstrated a lower incidence of cardiac adverse events such as AMI and TVR.
+Future comparative studies will be helpful to identify the optimal patient population for HCR.

@@ -1,0 +1,14 @@
+To establish the colonic expression quantitative trait locus map in Han Chinese population and provide a functional reference for interpreting genetic associations of diseases such as inflammatory bowel disease (IBD).
+Colonic mucosal biopsies and peripheral blood samples were obtained from 48 Chinese Han individuals (24 ulcerative colitis patients and 24 healthy controls).
+Transcription profiling was performed using human whole genome expression array.
+Genotyping was done using a population-specific genotype array.
+Association between genotypes and gene expression was analyzed using a Matrix Expression Quantitative Trait Loci (eQTL) R package to identify eQTL.
+We used ChIPpeakAnno R package for annotation of the eQTL.
+Linkage disequilibrium between the eQTL and IBD risk loci was also investigated.
+We identified 6 377 single nucleotide polymorphism-transcript interactions (cis-eQTL) in the colon of the Chinese participants.
+Most of the eQTL located near the transcription starting sites and overlapped with histone modification marks on the genome.
+A significant proportion of the eQTL were found to be within transcription factor-binding sites.
+Two IBD risk loci were found to be colon cis-eQTL in Chinese individuals, and 51 cis-eQTL were identified in another 18 IBD risk loci.
+This study defined a population-specific catalogue of colon eQTL in the Chinese population.
+Potential functional variants of IBD association signals were identified.
+We provided a useful reference dataset for fine mapping IBD risk loci and identifying causal variants in the Chinese Han population.

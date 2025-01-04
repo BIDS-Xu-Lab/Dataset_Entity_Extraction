@@ -1,0 +1,12 @@
+Lung eosinophilia is a hallmark of asthma, and eosinophils are believed to play a crucial role in the pathogenesis of allergic inflammatory diseases.
+Short-chain fatty acids (SCFAs), such as acetate, propionate, and butyrate, are produced in high amounts in the gastrointestinal tract by commensal bacteria and can be absorbed into the bloodstream.
+Although there is recent evidence that SCFAs are beneficial in allergic asthma models, the effect on eosinophils has remained elusive.
+The role of SCFAs was investigated in human eosinophil function and a mouse model of allergic asthma.
+Eosinophils were purified from self-reported allergic or healthy donors.
+Migration, adhesion to the endothelium, and eosinophil survival were studied in vitro.
+Ca2+ flux, apoptosis, mitochondrial membrane potential, and expression of surface markers were determined by using flow cytometry and in part by using real-time PCR.
+Allergic airway inflammation was assessed in vivo in an ovalbumin-induced asthma model by using invasive spirometry.
+For the first time, we observed that SCFAs were able to attenuate human eosinophils at several functional levels, including (1) adhesion to the endothelium, (2) migration, and (3) survival.
+These effects were independent from GPR41 and GPR43 but were accompanied by histone acetylation and mimicked by trichostatin A, a pan-histone deacetylase inhibitor.
+In vivo butyrate ameliorated allergen-induced airway and lung eosinophilia, reduced type 2 cytokine levels in bronchial fluid, and improved airway hyperresponsiveness in mice.
+These in vitro and in vivo findings highlight the importance of SCFAs, especially butyrate as a promising therapeutic agent in allergic inflammatory diseases.

@@ -1,0 +1,8 @@
+Few studies have examined geographic variation in hypertension disparities, but studies of other health outcomes indicate that racial residential segregation may help to explain these variations.
+The authors used data from 8,071 black and white participants in the National Health and Nutrition Examination Survey (1999-2006) who were aged 25 years or older to investigate whether black-white hypertension disparities varied by level of metropolitan-level racial residential segregation and whether this was explained by race differences in neighborhood poverty.
+Racial segregation was measured by using the black isolation index.
+After adjustment for demographics and individual-level socioeconomic position, blacks had 2.74 times higher odds of hypertension than whites (95% confidence interval (CI): 2.32, 3.25).
+However, race differences were significantly smaller in low- than in high-segregation areas (P(interaction) = 0.006).
+Race differences in neighborhood poverty did not explain this heterogeneity, but poverty further modified race disparities: Race differences were largest in segregated, low-poverty areas (odds ratio = 4.14, 95% CI: 3.18, 5.38) and smallest in nonsegregated, high-poverty areas (odds ratio = 1.24, 95% CI: 0.77, 2.01).
+These findings suggest that racial disparities in hypertension are not invariant and are modified by contextual levels of racial segregation and neighborhood poverty, highlighting the role of environmental factors in the genesis of disparities.
+Y and National Health and Nutrition Examination Survey (No need to annotate, just for notice).

@@ -1,0 +1,13 @@
+UK cardiovascular disease (CVD) incidence and mortality have declined in recent decades but socioeconomic inequalities persist.
+To present a new CVD model, and project health outcomes and the impact of guideline-recommended statin treatment across quintiles of socioeconomic deprivation in the UK.
+A lifetime microsimulation model was developed using 117 896 participants in 16 statin trials, 501 854 UK Biobank (UKB) participants, and quality-of-life data from national health surveys.
+A CVD microsimulation model was developed using risk equations for myocardial infarction, stroke, coronary revascularisation, cancer, and vascular and non-vascular death, estimated using trial data.
+The authors calibrated and further developed this model in the UKB cohort, including further characteristics and a diabetes risk equation, and validated the model in UKB and Whitehall II cohorts.
+The model was used to predict CVD incidence, life expectancy, quality-adjusted life years (QALYs), and the impact of UK guideline-recommended statin treatment across socioeconomic deprivation quintiles.
+Age, sex, socioeconomic deprivation, smoking, hypertension, diabetes, and cardiovascular events were key CVD risk determinants.
+Model-predicted event rates corresponded well to observed rates across participant categories.
+The model projected strong gradients in remaining life expectancy, with 4-5-year (5-8 QALYs) gaps between the least and most socioeconomically deprived quintiles.
+Guideline-recommended statin treatment was projected to increase QALYs, with larger gains in quintiles of higher deprivation.
+The study demonstrated the potential of guideline-recommended statin treatment to reduce socioeconomic inequalities.
+This CVD model is a novel resource for individualised long-term projections of health outcomes of CVD treatments.
+Y and UK Biobank (UKB), Whitehall II cohorts (No need to annotate, just for notice).

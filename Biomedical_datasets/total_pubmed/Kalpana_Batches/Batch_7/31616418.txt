@@ -1,0 +1,12 @@
+Mouse models that combine specific loxP-flanked gene sequences with Cre recombinase expressed from cell-regulated promoters have become important tools to investigate gene function.
+Critically however, expression of Cre recombinase may not always be restricted to the target cell or tissue of interest due to promiscuous activity of the driving promoter.
+Expression of Cre recombinase and, by extension, excision of the loxP-flanked gene may occur in non-target cells and may not be readily apparent.
+Here we report on the fidelity of Cre recombinase expressed from the il17a or Foxp3 promoters by combining them with a constitutively expressed floxed-stopped tdTomato reporter gene.
+Foxp3-driven Cre recombinase in F1 mice induced tdTomato red fluorescent protein in Treg cells but also in a range of other immune cells.
+Frequency of tdTomato expression was variable but positively correlated (p < 0.0001) amongst lymphoid (B cells and CD8 T cells) and blood-resident myeloid cells (dendritic cells, monocytes, neutrophils) suggesting stochastic activity of the Foxp3 promoter rather than developmental regulation in common ancestral progenitors.
+Interestingly, frequency of tdTomato+ dendritic cells, monocytes and neutrophils did not correlate with the tdTomato+ fraction in eosinophils, indicating that activity of the Foxp3 promoter in eosinophils occurred after the split from a common multipotent progenitor.
+When these F1 mice were crossed to achieve homozygosity of the promoter and reporter gene, a novel visually red phenotype was observed segregating amongst littermates.
+The red coloration was widespread and prevalent in non-immune tissues.
+Thymocytes examined from these red mice showed that all four subsets of immature thymocytes (CD4- CD8-) based on differential expression of CD25 and CD44 were expressing tdTomato.
+Finally, we show evidence of Foxp3 Cre recombinase independent tdTomato expression, suggesting germ line transmission of an activated tdTomato reporter gene.
+Our data highlights potential issues with conclusions drawn from using specifically the B6.129(Cg)-Foxp3tm4(YFP/Cre)Ayr/J mice.

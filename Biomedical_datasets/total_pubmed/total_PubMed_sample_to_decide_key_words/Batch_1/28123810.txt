@@ -1,0 +1,9 @@
+In this study we investigated the potential anti-epileptogenic effect of neuronal connexin Cx36 gap junction blockage via inhibition of microtubule-associated protein 2 (MAP-2) and synaptophysin (SYP) overexpression.
+Thirty adult male Wistar rats were divided into five groups (six animals per group): control, sham, carbenoxolone (CBX), quinine (QN), and quinidine (QND).
+An epilepsy model was produced by injecting kainic acid (KA) into the rat amygdala.
+Broad-spectrum and selective blockers of the Cx36 channel (CBX, QN, and QND) were administered via intraperitoneal injection.
+Expression of MAP-2 and SYP was assessed by immunofluorescent and immunohistochemical examination.
+Expression of MAP-2 and SYP was significantly increased after KA administration in the sham group compared with the control group.
+Expression of MAP-2 and SYP was significantly decreased in the CBX, QN, and QND groups compared with the sham group.
+The results provide new evidence regarding the key role of MAP-2 and SYP overexpression in three important mechanisms: the modulation of neuronal plasticity, hyperexcitability of the hippocampal neuronal network, and persistent seizure discharge.
+Furthermore, the reversal of MAP-2 and SYP overexpression following administration of Cx36 channel blockers indicates a potential role for Cx36 channel blockers in anti-epileptogenic treatment and in doing so, highlights a critical need for further investigation of these compounds.

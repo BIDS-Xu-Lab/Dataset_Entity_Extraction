@@ -1,0 +1,9 @@
+Type 1 narcolepsy is strongly (98%) associated with human leukocyte antigen (HLA) class II DQA1*01:02/DQB1*06:02 (DQ0602) and highly associated with T cell receptor (TCR) alpha locus polymorphism as well as other immune regulatory loci.
+Increased incidence of narcolepsy was detected following the 2009 H1N1 pandemic and linked to Pandemrix vaccination, strongly supporting that narcolepsy is an autoimmune disorder.
+Although recent results suggest CD4+ T cell reactivity to neuropeptide hypocretin/orexin and cross-reactive flu peptide is involved, identification of other autoantigens has remained elusive.
+Here we study whether autoimmunity directed against Regulatory Factor X4 (RFX4), a protein co-localized with hypocretin, is involved in some cases of narcolepsy.
+Studying human serum, we found that autoantibodies against RFX4 were rare.
+Using RFX4 peptides bound to DQ0602 tetramers, antigen RFX4-86, -95, and -60 specific human CD4+ T cells were detected in 4/10 patients and 2 unaffected siblings, but not in others.
+Following culture with each cognate peptide, enriched autoreactive TCRαβ clones were isolated by single-cell sorting and TCR sequenced.
+Homologous clones bearing TRBV4-2 and recognizing RFX4-86 in patients and one twin control of patient were identified.
+These results suggest the involvement of RFX4 CD4+ T cell autoreactivity in some cases of narcolepsy, but also in healthy donors.

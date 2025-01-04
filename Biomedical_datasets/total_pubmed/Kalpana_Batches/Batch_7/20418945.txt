@@ -1,0 +1,10 @@
+Reporting of influenza-like illness (ILI) from general practice/family doctor (GPFD) clinics is an accurate indicator of real-time epidemic activity and requires little effort to set up, making it suitable for developing countries currently experiencing the influenza A (H1N1-2009) pandemic or preparing for subsequent epidemic waves.
+We established a network of GPFDs in Singapore.
+Participating GPFDs submitted returns via facsimile or e-mail on their work days using a simple, standard data collection format, capturing: gender; year of birth; "ethnicity"; residential status; body temperature (degrees C); and treatment (antiviral or not); for all cases with a clinical diagnosis of an acute respiratory illness (ARI).
+The operational definition of ILI in this study was an ARI with fever of 37.8 degrees C or more.
+The data were processed daily by the study co-ordinator and fed into a stochastic model of disease dynamics, which was refitted daily using particle filtering, with data and forecasts uploaded to a website which could be publicly accessed.
+Twenty-three GPFD clinics agreed to participate.
+Data collection started on 2009-06-26 and lasted for the duration of the epidemic.
+The epidemic appeared to have peaked around 2009-08-03 and the ILI rates had returned to baseline levels by the time of writing.
+This real-time surveillance system is able to show the progress of an epidemic and indicates when the peak is reached.
+The resulting information can be used to form forecasts, including how soon the epidemic wave will end and when a second wave will appear if at all.

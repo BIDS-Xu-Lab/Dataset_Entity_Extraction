@@ -1,0 +1,12 @@
+This study investigates the asymmetric effects of economic growth, energy use, and financial development, on carbon dioxide emissions in Saudi Arabia, from 1971 to 2014, using the nonlinear autoregressive distributed lag (NARDL) model.
+Prior to the application of the model, the integration proprieties of the variables were examined employing the recently RALS-LM (Residual Augmented Least squares-Lagrange Multiplier) unit root test, with two endogenous structural breaks.
+The main finding is that there exists an asymmetric cointegration relationship among the variables.
+In the long-run, both positive and negative shocks in economic growth rise emissions, but the effect of positive shocks is larger.
+In addition, both positive shocks in energy consumption and negative shocks in financial development surge CO2 emissions.
+In the short-run, the increasing economic growth is being made at the expense of the polluted environment.
+In contrast, any decrease in the economic growth would contribute to the improvement of environmental quality.
+Furthermore, positive shocks on energy consumption surges CO2 emissions and positive shocks in financial development reduces emissions.
+The asymmetric causality test of Hatemi-J (2012) suggests that economic growth (positive shocks) causes carbon dioxide emissions.
+At the same time, CO2 emissions (positive shocks) cause energy consumption.
+However, no significant causal relationship is found between financial development and CO2 emissions.
+In light of these findings, some policy implications are recommended.

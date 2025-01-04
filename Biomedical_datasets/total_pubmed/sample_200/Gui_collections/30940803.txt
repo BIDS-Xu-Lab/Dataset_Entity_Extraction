@@ -1,0 +1,8 @@
+The inflammasome has an essential function in innate immune, responding to a wide variety of stimuli.
+Here we show that the lncRNA Neat1 promotes the activation of several inflammasomes.
+Neat1 associates with the NLRP3, NLRC4, and AIM2 inflammasomes in mouse macrophages to enhance their assembly and subsequent pro-caspase-1 processing.
+Neat1 also stabilizes the mature caspase-1 to promote interleukin-1β production and pyroptosis.
+Upon stimulation with inflammasome-activating signals, Neat1, which normally resides in the paraspeckles, disassociates from these nuclear bodies and translocates to the cytoplasm to modulate inflammasome activation using above mechanism.
+Neat1 is also up-regulated under hypoxic conditions in a HIF-2α-dependent manner, mediating the effect of hypoxia on inflammasomes.
+Moreover, in the mouse models of peritonitis and pneumonia, Neat1 deficiency significantly reduces inflammatory responses.
+These results reveal a previously unrecognized role of lncRNAs in innate immunity, and suggest that Neat1 is a common mediator for inflammasome stimuli.

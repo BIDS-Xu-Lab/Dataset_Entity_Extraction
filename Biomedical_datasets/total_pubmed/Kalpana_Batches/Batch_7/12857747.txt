@@ -1,0 +1,11 @@
+Phosphatase and tensin homologue deleted on chromosome 10 (PTEN) is a tumor suppressor that is lost in many human tumors and encodes a phosphatidylinositol phosphate phosphatase specific for the 3-position of the inositol ring.
+Here we report a novel mechanism of PTEN regulation.
+Binding of di-C8-phosphatidylinositol 4,5-P2 (PI(4,5)P2) to PTEN enhances phosphatase activity for monodispersed substrates, PI(3,4,5)P3 and PI(3,4)P2.
+PI(5)P also is an activator, but PI(4)P, PI(3,4)P2, and PI(3,5)P2 do not activate PTEN.
+Activation by exogenous PI(4,5)P2 is more apparent with PI(3,4)P2 as a substrate than with PI(3,4,5)P3, probably because hydrolysis of PI(3,4)P2 yields PI(4)P, which is not an activator.
+In contrast, hydrolysis of PI(3,4,5)P3 yields a potent activator, PI(4,5)P2, creating a positive feedback loop.
+In addition, neither di-C4-PI(4,5)P2 nor inositol trisphosphate-activated PTEN.
+Hence, the interaction between PI(4,5)P2 and PTEN requires specific, ionic interactions with the phosphate groups on the inositol ring as well as hydrophobic interactions with the fatty acid chains, likely mimicking the physiological interactions that PTEN has with the polar surface head groups and the hydrophobic core of phospholipid membranes.
+Mutations of the apparent PI(4,5)P2-binding motif in the PTEN N terminus severely reduced PTEN activity.
+In contrast, mutation of the C2 phospholipid-binding domain had little effect on PTEN activation.
+These results suggest a model in which a PI(4,5)P2 monomer binds to PTEN, initiates an allosteric conformational change and, thereby, activates PTEN independent of membrane binding.

@@ -1,0 +1,6 @@
+This article describes a research study comparing the effects of two computer-based writing tools on the story-writing skills of fourth-through eighth-grade students with language-related learning disabilities.
+The first tool, the prompted writing feature of FrEdWriter (Rogers, 1985), allowed students to answer story grammar questions, then type stories using those responses as the plan; the second tool, Once Upon a Time (Urban, Rushing, & Star, 1990), allowed students to create graphic scenes, then type stories about those scenes.
+Nine students attended a series of after-school writing labs twice weekly for 11 weeks, using each tool for half of the writing sessions.
+Group results did not clearly favor either tool; however, individual differences suggested that use of planning features should be linked to student needs.
+Students who had less internal organizational ability benefited from the computer-presented story grammar prompts and wrote less mature stories when using the graphics-based tool.
+Students with relatively strong organizational skills wrote more mature stories with the graphics-based tool.

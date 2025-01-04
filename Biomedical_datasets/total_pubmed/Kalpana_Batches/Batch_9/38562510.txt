@@ -1,0 +1,11 @@
+Over the past few years, the use of DC-DC buck-boost converters for Photovoltaic (PV) in renewable energy applications has increased for better results.
+One of the main issues with this type of converter is that output voltage is achieved with the undesired ripples.
+Many models are available in the literature to address this issue, but very limited work is available that achieves the desired goal using deep learning-based models.
+Whenever it comes to the PV, then it is further limited.
+Here, a deep learning-based model is proposed to reduce the steady-state time and achieve the desired buck- or boost mode for PV modules.
+The deep learning-based model is trained using data collected from the conventional PID controller.
+The output voltage of the experimental setup is 12V while the input voltage from the PV modules is 10V (when the sunlight decreases) to 24V (for 3.6 kVA) to 48V (for more than 5 kVA).
+It is among the few models using a single big battery (12V) for off-grid and on-grid for a single building.
+Experimental results are validated using objective measures.
+The proposed model outperforms the conventional PID controller-based buck-boost converters.
+The results clearly show improved performance in terms of steady-state and less overshoot.

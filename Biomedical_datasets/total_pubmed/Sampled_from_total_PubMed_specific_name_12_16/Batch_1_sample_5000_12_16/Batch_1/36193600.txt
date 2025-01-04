@@ -1,0 +1,15 @@
+To review the therapeutic effects of deep brain stimulation of the anterior nuclei of the thalamus (ANT-DBS) and the predictors of its effectiveness, safety, and adverse effects.
+A comprehensive search of the medical literature (PubMed) was conducted to identify relevant articles investigating ANT-DBS therapy for epilepsy.
+Out of 332 references, 77 focused on focal epilepsies were reviewed.
+The DBS effect is probably due to decreased synchronization of epileptic activity in the cortex.
+The potential mechanisms from cellular to brain network levels are presented.
+The ANT might participate actively in the network elaborating focal seizures.
+The effects of ANT-DBS differed in various studies; ANT-DBS was linked with a 41% seizure frequency reduction at 1 year, 69% at 5 years, and 75% at 7 years.
+The most frequently reported adverse effects, depression and memory impairment, were considered non-serious in the long-term follow-up view.
+ANT-DBS also has been used in a few cases to treat status epilepticus.
+We reviewed the clinical literature and identified several factors that may predict seizure outcome following DBS therapy.
+More large-scale trials are required since there is a need to explore stimulation settings, apply patient-tailored therapy, and identify the presurgical predictors of patient response.
+A critical review of the published literature on ANT-DBS in focal epilepsy is presented.
+ANT-DBS mechanisms are not fully understood; possible explanations are provided.
+Biomarkers of ANT-DBS effectiveness may lead to patient-tailored therapy.
+Y PubMed (No need to annotate, just for notice).

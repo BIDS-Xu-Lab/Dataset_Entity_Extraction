@@ -1,0 +1,9 @@
+Heart failure (HF) with preserved ejection fraction (HFpEF) represents half of HF patients, who are more likely older, women, and hypertensive.
+Mortality rates in HFpEF are higher compared with age- and comorbidity-matched non-HF controls and lower than in HF with reduced ejection fraction (HFrEF); the majority (50-70%) are cardiovascular (CV) deaths.
+Among CV deaths, sudden death (SD) (~ 35%) and HF-death (~ 20%) are the leading cardiac modes of death; however, proportionally, CV deaths, SD, and HF-deaths are lower in HFpEF, while non-CV deaths constitute a higher proportion of deaths in HFpEF (30-40%) than in HFrEF (~ 15%).
+Importantly, the underlying mechanism of SD has not been clearly elucidated and non-arrhythmic SD may be more prominent in HFpEF than in HFrEF.
+Furthermore, there is no specific strategy for identifying high-risk patients, probably due to wide heterogeneity in presentation and pathophysiology of HFpEF and a plethora of comorbidities in this population.
+Thus, the management of HFpEF remains problematic due to paucity of data on the clinical benefits of current therapies, which focus on symptom relief and reduction of HF-hospitalization by controlling fluid retention and managing risk-factors and comorbidities.
+Matching a specific pathophysiology or mode of death with available and novel therapies may improve outcomes in HFpEF.
+However, this still remains an elusive target, as we need more information on determinants of SD.
+Implantable cardioverter-defibrillators (ICDs) have changed the landscape of SD prevention in HFrEF; if ICDs are to be applied to HFpEF, there must be a coordinated effort to identify and select high-risk patients.

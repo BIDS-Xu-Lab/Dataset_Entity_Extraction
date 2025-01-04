@@ -1,0 +1,33 @@
+[
+    {
+        "time": "1",
+        "more_than_10": 0,
+        "less_than_10": 0,
+        "equal_than_10": 498,
+        "TOP 1 ACC": "0.3293172690763052",
+        "TOP 2 ACC": "0.38755020080321284",
+        "TOP 3 ACC": "0.4598393574297189",
+        "TOP 4 ACC": "0.4939759036144578",
+        "TOP 5 ACC": "0.5200803212851406",
+        "TOP 6 ACC": "0.5321285140562249",
+        "TOP 7 ACC": "0.5401606425702812",
+        "TOP 8 ACC": "0.5522088353413654",
+        "TOP 9 ACC": "0.5522088353413654",
+        "TOP 10 ACC": "0.5682730923694779",
+        "less_than_10_another": 0,
+        "prompt": "Your task is to identify whether the provided predicted differential diagnosis is correct based on the true diagnosis. Carefully review the information and determine the correctness of the prediction. Please notice same diagnosis might be in different words. Only return \"Y\" for yes or \"N\" for no, without any other words."
+    },
+    {
+        "time": "mean",
+        "TOP 1 ACC": "0.3293172690763052",
+        "TOP 2 ACC": "0.38755020080321284",
+        "TOP 3 ACC": "0.4598393574297189",
+        "TOP 4 ACC": "0.4939759036144578",
+        "TOP 5 ACC": "0.5200803212851406",
+        "TOP 6 ACC": "0.5321285140562249",
+        "TOP 7 ACC": "0.5401606425702812",
+        "TOP 8 ACC": "0.5522088353413654",
+        "TOP 9 ACC": "0.5522088353413654",
+        "TOP 10 ACC": "0.5682730923694779"
+    }
+]

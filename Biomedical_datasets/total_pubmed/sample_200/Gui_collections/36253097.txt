@@ -1,0 +1,10 @@
+Natural space is associated with reduced risk of, and narrower socioeconomic inequalities in, diseases that affect older populations, and some contributors to premature mortality in younger individuals.
+Burden of disease measures such as years of life lost (YLL) are influenced by premature poor health and death.
+We hypothesised some association between natural space and both rates of and inequalities in YLL might be present.
+The outcome data were the YLL component from Scottish Burden of Disease 2016, provided at small-area level (datazone) for males and females under 65 years of age in Scotland, UK.
+Exposure variables were the percentages of land cover within each datazone defined as 'natural space' (NS), and 'natural space and private gardens' (NSG).
+Together with a measure of area income deprivation, these were fitted in a multilevel Poisson model accounting for intra-datazone level variation, and spatial autocorrelation between datazones.
+An increased percentage cover of NSG was associated with lower YLL in males (incident rate ratio (IRR) 0.993, 95% credible interval (CrI) 0.989 to 0.997) and females (IRR 0.993, CrI 0.987 to 0.998); each 10% increase of natural space cover was associated with a 7% decrease in the incidence rate.
+An increased amount of natural space within local areas was associated with reduced disparity in YLL between the most and least income deprived areas.
+The health benefits of natural space also apply when indicators sensitive to health events at younger ages are used.
+An increased amount of natural space within local areas has the potential to reduce the disparity in YLL between the most and least income deprived areas-the 'equigenic' effect.

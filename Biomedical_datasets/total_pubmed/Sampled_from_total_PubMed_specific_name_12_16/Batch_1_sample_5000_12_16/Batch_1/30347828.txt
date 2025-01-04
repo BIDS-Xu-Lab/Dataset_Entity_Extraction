@@ -1,0 +1,9 @@
+To explore the potential association of plasma fatty acids (FAs) and cardiovascular fitness level (CVFL), data of 449 subjects from 2003⁻2004 National Health and Nutrition Examination Survey (NHANES) were analyzed.
+Among these 249 men and 200 women, aged 20⁻50 years (33.4 ± 8.4 year, mean ± Standard Deviation), 79 low, 166 moderate and 204 high CVFL were categorized by age- and gender- specific percentile, respectively.
+Twenty-four fatty acids were quantified from fasting plasma.
+Higher levels of 2 very long-chain saturated FAs (VLSFAs): Arachidic acid (AR1, C20:0) and Docosanoic acid (DA1, C22:0) as well as 2 n-6 polyunsaturated FAs (PUFAs): Arachidonic acid (AA, C20:4n-6) and Docosatetraenoic acid (DTA, C22:4n-6) were observed in the subjects with low CVFL.
+Notably this association exists only in men.
+Estimated maximal oxygen consumption (VO2max), the marker for cardiorespiratory fitness, was used for further regression analysis.
+After the adjustment of potential confounding factors (age, smoking, hypertension status, body mass index (BMI), insulin resistance status, and C-reactive protein (CRP), AA was the only FA correlated with low VO2max in women; while in men AR1, DA1, AA, and DTA remain negatively associated with VO2max.
+This preliminary analysis suggests a sex-dimorphic relationship between these plasma VLSFAs and n-6 PUFAs with CVFL and merits further investigation.
+Y: National Health and Nutrition Examination Survey (NHANES) (No need to annotate, just for notice).

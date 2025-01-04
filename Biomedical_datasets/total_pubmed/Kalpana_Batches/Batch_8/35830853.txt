@@ -1,0 +1,8 @@
+The establishment of centromere-specific CENP-A chromatin is influenced by epigenetic and genetic processes.
+Central domain sequences from fission yeast centromeres are preferred substrates for CENP-ACnp1 incorporation, but their use is context dependent, requiring adjacent heterochromatin.
+CENP-ACnp1 overexpression bypasses heterochromatin dependency, suggesting that heterochromatin ensures exposure to conditions or locations permissive for CENP-ACnp1 assembly.
+Centromeres cluster around spindle-pole bodies (SPBs).
+We show that heterochromatin-bearing minichromosomes localize close to SPBs, consistent with this location promoting CENP-ACnp1 incorporation.
+We demonstrate that heterochromatin-independent de novo CENP-ACnp1 chromatin assembly occurs when central domain DNA is placed near, but not far from, endogenous centromeres or neocentromeres.
+Moreover, direct tethering of central domain DNA at SPBs permits CENP-ACnp1 assembly, suggesting that the nuclear compartment surrounding SPBs is permissive for CENP-ACnp1 incorporation because target sequences are exposed to high levels of CENP-ACnp1 and associated assembly factors.
+Thus, nuclear spatial organization is a key epigenetic factor that influences centromere identity.

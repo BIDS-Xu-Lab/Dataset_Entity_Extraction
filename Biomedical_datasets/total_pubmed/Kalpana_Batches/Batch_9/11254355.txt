@@ -1,0 +1,8 @@
+The Drosophila single-minded gene controls CNS midline cell development by both activating midline gene expression and repressing lateral CNS gene expression in the midline cells.
+The mechanism by which Single-minded represses transcription was examined using the ventral nervous system defective gene as a target gene.
+Transgenic-lacZ analysis of constructs containing fragments of the ventral nervous system defective regulatory region identified sequences required for lateral CNS transcription and midline repression.
+Elimination of Single-minded:Tango binding sites within the ventral nervous system defective gene did not affect midline repression.
+Mutants of Single-minded that removed the DNA binding and transcriptional activation regions abolished ventral nervous system defective repression, as well as transcriptional activation of other genes.
+The replacement of the Single-minded transcriptional activation region with a heterologous VP16 transcriptional activation region restored the ability of Single-minded to both activate and repress transcription.
+These results indicate that Single-minded indirectly represses transcription by activating the expression of repressive factors.
+Single-minded provides a model system for how regulatory proteins that act only as transcriptional activators can control lineage-specific transcription in both positive and negative modes.

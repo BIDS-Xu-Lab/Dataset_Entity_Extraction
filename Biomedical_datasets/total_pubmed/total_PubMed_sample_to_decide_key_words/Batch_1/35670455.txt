@@ -1,0 +1,9 @@
+Self-doping is an essential method of increasing carrier concentrations in organic electronics that eliminates the need to tailor host-dopant miscibility, a necessary step when employing molecular dopants.
+Self-n-doping can be accomplished using amines or ammonium counterions as an electron source, which are being incorporated into an ever-increasingly diverse range of organic materials spanning many applications.
+Self-n-doped materials have demonstrated exemplary and, in many cases, benchmark performances in a variety of applications.
+However, an in-depth review of the method is lacking.
+Perylene diimide (PDI) chromophores are an important mainstay in the semiconductor literature with well-known structure-function characteristics and are also one of the most widely utilized scaffolds for self-n-doping.
+In this review, we describe the unique properties of self-n-doped PDIs, delineate structure-function relationships, and discuss self-n-doped PDI performance in a range of applications.
+In particular, the impact of amine/ammonium incorporation into the PDI scaffold on doping efficiency is reviewed with regard to attachment mode, tether distance, counterion selection, and steric encumbrance.
+Self-n-doped PDIs are a unique set of PDI structural derivatives whose properties are amenable to a broad range of applications such as biochemistry, solar energy conversion, thermoelectric modules, batteries, and photocatalysis.
+Finally, we discuss challenges and the future outlook of self-n-doping principles.

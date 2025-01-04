@@ -1,0 +1,10 @@
+The quaternary ammonium compounds, choline and betaine, and dimethylglycine (DMG) reside along a metabolic pathway linked to the synthesis of neurotransmitters and membrane phospholipids and to homocysteine remethylation and, therefore, folate status.
+Lack of a convenient, high-throughput method for the determination of these compounds has prevented population-based studies of their possible associations with lifestyle, nutrition, and chronic diseases.
+Serum or plasma samples were deproteinized by mixing with three volumes of acetonitrile that contained d(9)-choline and d(9)-betaine as internal standards.
+We used a normal-phase silica column for the separation of choline (retention time, 2.8 min), betaine (1.3 min), DMG (1.15 min), and internal standards, which were detected as positive ions by tandem mass spectroscopy in the multiple-reaction monitoring mode, using the molecular transitions m/z 104-->60 (choline), m/z 113-->69 (d(9)-choline), m/z 118-->59 (betaine), m/z 127-->68 (d(9)-betaine), and m/z 104-->58 (DMG).
+For all three metabolites, the assay was linear in the range 0.4-400 micromol/L, and the lower limit of the detection (signal-to-noise ratio = 5) was < or =0.3 micromol/L.
+The within- and between-day imprecision (CVs) was 2.1-7.2% and 3.5-8.8%, respectively.
+The fasting plasma concentrations (median, 25th-75th percentiles) were 8.0 (7.0-9.3) micromol/L for choline, 31.7 (27.0-41.1) micromol/L for betaine, and 1.66 (1.30-2.02) micromol/L for DMG in 60 healthy blood donors.
+In individuals who had eaten a light breakfast, plasma concentrations of all three metabolites were significantly (25-30%) higher than in fasting individuals.
+This is the first method for the combined measurement of choline, betaine, and DMG in human plasma or serum.
+The assay is characterized by simple sample preparation, no derivatization, high throughput, imprecision (CV) <10%, detection limits below the values seen in volunteers, and the high specificity provided by tandem mass spectroscopy.

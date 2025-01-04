@@ -1,0 +1,13 @@
+The world is already facing the devastating effects of the SARS-CoV-2 pandemic.
+A disseminated mucormycosis epidemic emerged to worsen this situation, causing havoc, especially in India.
+This research aimed to perform a multitargeted docking study of marine-sponge-origin bioactive compounds against mucormycosis.
+Information on proven drug targets and marine sponge compounds was obtained via a literature search.
+A total of seven different targets were selected.
+Thirty-five compounds were chosen using the PASS online program.
+For homology modeling and molecular docking, FASTA sequences and 3D structures for protein targets were retrieved from NCBI and PDB databases.
+Autodock Vina in PyRx 0.8 was used for docking studies.
+Further, molecular dynamics simulations were performed using the IMODS server for top-ranked docked complexes.
+Moreover, the drug-like properties and toxicity analyses were performed using Lipinski parameters in Swiss-ADME, OSIRIS, ProTox-II, pkCSM, and StopTox servers.
+The results indicated that naamine D, latrunculin A and S, (+)-curcudiol, (+)-curcuphenol, aurantoside I, and hyrtimomine A had the highest binding affinity values of -8.8, -8.6, -9.8, -11.4, -8.0, -11.4, and -9.0 kcal/mol, respectively.
+In sum, all MNPs included in this study are good candidates against mucormycosis.
+(+)-curcudiol and (+)-curcuphenol are promising compounds due to their broad-spectrum target inhibition potential.

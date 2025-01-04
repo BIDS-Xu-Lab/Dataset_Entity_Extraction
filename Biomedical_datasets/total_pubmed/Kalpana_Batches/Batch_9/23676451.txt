@@ -1,0 +1,13 @@
+An accurate physical fitness survey could be useful in research and clinical care.
+To estimate the validity and reliability of a Self-Reported Fitness (SRFit) survey; an instrument that estimates muscular fitness, flexibility, cardiovascular endurance, BMI, and body composition (BC) in adults ≥ 40 years of age.
+201 participants completed the SF-36 Physical Function Subscale, International Physical Activity Questionnaire (IPAQ), Older Adults' Desire for Physical Competence Scale (Rejeski), the SRFit survey, and the Rikli and Jones Senior Fitness Test.
+BC, height and weight were measured.
+SRFit survey items described BC, BMI, and Senior Fitness Test movements.
+Correlations between the Senior Fitness Test and the SRFit survey assessed concurrent validity.
+Cronbach's Alpha measured internal consistency within each SRFit domain.
+SRFit domain scores were compared with SF-36, IPAQ, and Rejeski survey scores to assess construct validity.
+Correlations between SRFit and the Senior Fitness Test domains ranged from 0.35 to 0.79.
+Cronbach's Alpha scores were .75 to .85.
+Correlations between SRFit and other survey scores were -0.23 to 0.72 and in the expected direction.
+Intraclass correlation coefficients were 0.79 to 0.93.
+Initial evaluation supports the SRFit survey's validity and reliability.

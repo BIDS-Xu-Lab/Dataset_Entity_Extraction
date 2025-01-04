@@ -1,0 +1,5 @@
+Diphtheria, tetanus, and pertussis (DTP) immunization data were collected on 103 special care nursery graduates in our neonatal follow-up clinic to determine whether DTP immunization schedules were significantly delayed relative to recommendations of the American Academy of Pediatrics (2, 4, and 6 months for DTP 1, 2, and 3, respectively).
+An inverse correlation was found between birth weight and immunization for first, second, and third DTP (r = 0.319, P less than .01; r = .205, P less than .05; and r = .236, P less than .05, respectively).
+We subsequently conducted a mail survey to determine the DTP immunization policy present in effect in 25 neonatal intensive care units in the United States and Canada.
+The survey indicates that procedural approaches remain markedly heterogeneous, and 10 of 25 (40%) units have no existing policy for implementation of DTP immunization.
+These data suggest that special care nursery populations are at potential risk for pertussis, which requires a conscious implementation of DTP immunization by the special care nursery, the follow-up clinic personnel, and the primary care physician.

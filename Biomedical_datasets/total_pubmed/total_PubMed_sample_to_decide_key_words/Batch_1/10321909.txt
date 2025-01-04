@@ -1,0 +1,14 @@
+Osteoporosis in men is a disease that is increasing in incidence, and with an increasing elderly population it poses a serious health problem.
+Since both testosterone (T) and growth hormone (GH) have an anabolic effect on bone and both decrease with aging, we were prompted to test whether the administration of these hormones in combination would increase bone mass in orchiectomized (orx) senile rats more than administration of either agent alone.
+[10 mg/kg, subcutaneous (s.c.), injection given twice a week], and (e) orx+GH+T. Testosterone and GH were given subcutaneously for 4 weeks.
+Bone histomorphometry of the tibial shaft showed that the orx group had lower cortical bone area than the intact control group.
+The decrease in cortical bone area was due to increased intracortical porosis as well as decreased periosteal bone formation rate (BFR).
+Administration of T to the orx animals prevented the development of the porosis and the decrease in periosteal BFR.
+The bone mineral content (BMC) and bone mineral density (BMD) of the femur as tested by dual-energy X-ray absorptiometry were significantly higher in the orx+T than in the orx group and were not significantly different from that of the intact control group.
+Administration of GH to the orx rats increased periosteal BFR significantly; however, the BMC and BMD measured were not increased significantly in comparison to the orx group.
+When GH and T were combined in treatment, the cortical bone area, periosteal BFR, and femoral BMD were all significantly higher than that of the orx and even higher than the intact control rats.
+Two-way analysis of variance shows that the individual effect of GH and T treatment on the periosteal BFR and cortical bone area was significant.
+The effect of T, but not GH, on femoral BMC and BMD was also significant; however, there is no synergistic interaction between the two treatments.
+Four weeks of orx with or without GH or T administration had no significant effect on tibial metaphyseal cancellous bone volume.
+In conclusion, this short-term study suggests that the combined intervention of GH and T in androgen-deficient aged male rats may have an independent effect in preventing osteopenia.
+The significant effect of GH+T may be attributed to the prevention of intracortical porosis, and an increase in periosteal bone formation and cortical bone mass.

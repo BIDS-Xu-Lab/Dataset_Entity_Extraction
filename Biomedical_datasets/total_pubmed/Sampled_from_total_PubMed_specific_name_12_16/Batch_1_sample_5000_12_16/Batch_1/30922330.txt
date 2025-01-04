@@ -1,0 +1,16 @@
+The epigenetic factor protein arginine methyltransferase 5 (PRMT5) has been reported to play vital roles in a wide range of cellular processes, such as gene transcription, genomic organization, differentiation and cell cycle control.
+However, its role in pancreatic cancer remains unclear.
+Our study aimed to investigate the roles of PRMT5 in pancreatic cancer prognosis and progression and to explore the underlying molecular mechanism.
+Real-time PCR, immunohistochemistry and analysis of a dataset from The Cancer Genome Atlas (TCGA) were performed to study the expression of PRMT5 at the mRNA and protein levels in pancreatic cancer.
+Cell proliferation assays, including cell viability, colony formation ability and subcutaneous mouse model assays, were utilized to confirm the role of PRMT5 in cell proliferation and tumorigenesis.
+A Seahorse extracellular flux analyzer, a glucose uptake kit, a lactate level measurement kit and the measurement of 18F-FDG (fluorodeoxyglucose) uptake by PET/CT (positron emission tomography/computed tomography) imaging were used to verify the role of PRMT5 in aerobic glycolysis, which sustains cell proliferation.
+The regulatory effect of PRMT5 on cMyc, a master regulator of oncogenesis and aerobic glycolysis, was explored by quantitative PCR and protein stability measurements.
+PRMT5 expression was significantly upregulated in pancreatic cancer tissues compared with that in adjacent normal tissues.
+Clinically, elevated expression of PRMT5 was positively correlated with worse overall survival in pancreatic cancer patients.
+Silencing PRMT5 expression inhibited the proliferation of pancreatic cancer cells both in vitro and in vivo.
+Moreover, PRMT5 regulated aerobic glycolysis in vitro in cell lines, in vivo in pancreatic cancer patients and in a xenograft mouse model used to measure 18F-FDG uptake.
+We found that mechanistically, PRMT5 posttranslationally regulated cMyc stability via F-box/WD repeat-containing protein 7 (FBW7), an E3 ubiquitin ligase that controls cMyc degradation.
+Moreover, PRMT5 epigenetically regulated the expression of FBW7 in pancreatic cancer cells.
+The present study demonstrated that PRMT5 epigenetically silenced the expression of the tumor suppressor FBW7, leading to increased cMyc levels and the subsequent enhancement of the proliferation of and aerobic glycolysis in pancreatic cancer cells.
+The PRMT5/FBW7/cMyc axis could be a potential therapeutic target for the treatment of pancreatic cancer.
+Y The Cancer Genome Atlas (TCGA) (No need to annotate, just for notice).

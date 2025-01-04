@@ -1,0 +1,5 @@
+A bidirectional planar-displacement waveguide tracker was devised to replace the traditional two-axis tracking system for high-concentration photovoltaics, with improved module thickness, optical field uniformity, and current matching.
+The concentrating magnification reaches 725 times, and the sun tracking angle is more than 170°, which is equivalent to 11.3 tracking hours per day.
+The module thickness is only 6.16 cm.
+This design enabled us to place the module flat on the ground, in which swing was not required.
+This will greatly improve the mechanical strength and the lifetime of the module and solve the development dilemma faced by III-V multijunction solar cells.

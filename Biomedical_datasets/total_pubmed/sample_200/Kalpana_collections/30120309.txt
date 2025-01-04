@@ -1,0 +1,12 @@
+Hyperuricemia is a risk factor for cardiovascular diseases.
+However, in very elderly, the relationship between hyperuricemia and the prevalence of atrial fibrillation (AF) is not clear.
+This study aimed to investigate hyperuricemia and the risk of AF in community very elderly.
+In this cross-sectional study, 1056 very elderly in community were enrolled.
+Serum uric acid (SUA) were measured and rest 12-lead electrocardiogram was performed.
+Multiple logistic regression models were used to explore risk factors for AF in very elderly.
+Finally, 1038 participants were included in analysis and the mean age of the study participants were 83.6 ± 3.4 years (age range 80-100 years).
+The mean SUA level was 350.1 ± 84.5 µmol/L.
+The estimated prevalence of AF was 5.3%, and there was no significant sex difference (5.8% for men and 4.8% for women, p = 0.401).
+Multiple logistic regression found that participants with hyperuricemia (SUA >416 µmol/L in men and >357 µmol/L in women) had a higher risk (odds ratio: 2.080, 95% confidence interval: 1.103-4.202, P = 0.007) of suffering AF in very elderly Chinese.
+In conclusion, AF is relatively frequent in this community very elderly Chinese in Chengdu.
+Hyperuricemia is associated with the prevalence of AF in general very elderly.

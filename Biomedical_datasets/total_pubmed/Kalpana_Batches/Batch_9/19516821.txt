@@ -1,0 +1,5 @@
+Immersion interference lithography was used to pattern gratings with 22-nm half pitch.
+This ultrahigh resolution was made possible by using 157-nm light, a sapphire coupling prism with index 2.09, and a 30-nm-thick immersion fluid with index 1.82.
+The thickness was controlled precisely by spin-casting the fluid rather than through mechanical means.
+The photoresist was a diluted version of a 193-nm material, which had a 157-nm index of 1.74.
+An analysis of the trade-off between fluid index, absorption coefficient, gap size and throughput indicated that, among the currently available materials, employing a high-index but absorbing fluid is preferable to using a highly transparent but low-index immersion media.

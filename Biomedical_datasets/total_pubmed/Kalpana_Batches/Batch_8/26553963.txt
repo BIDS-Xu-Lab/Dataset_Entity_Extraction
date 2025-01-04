@@ -1,0 +1,7 @@
+The study aimed to assess the effect of exercise intervention on the management of obese T2DM patients.
+The literature retrieval was conducted in relevant databases from their inception to 2015, with predefined searching strategy and selection criteria.
+The Cochrane Collaboration's tool was utilized to assess the quality of included studies.
+Weighted mean difference (WMD) with its corresponding 95% CI (confidence interval) was used as the effect size.
+A subset of 13 eligible studies was selected.
+Exercise significantly reduced the concentration of high sensitivity C reactive protein (4 months: WMD=-1.03, 95% CI: -1.77 to -0.29, P<0.01), triglyceride (6 months: WMD=-24.75, 95% CI: -27.67 to -21.83, P<0.01), diastolic blood pressure (6 months: WMD=-2.70, 95% CI: -4.12 to -1.28, P=0.0002), systolic blood pressure (WMD=-7.98, 95% CI: -9.87 to -6.08, P<0.01)), HbA1c (4 months: WMD=-0.25, 95% CI: -0.49 to -0.02, P=0.04) and homeostasis model assessment-insulin resistance (3 months: WMD=-0.19, 95% CI: -0.37 to -0.01, P=0.04); and a pronounced increase of HDL-C (12 months: WMD=3.57, 95% CI: 1.92 to 5.21, P<0.01).
+Exercise was beneficial to obese T2DM patients.

@@ -1,0 +1,4 @@
+The molecular structure of (+/-)-7 alpha, 8 beta-dihydroxy-7,8-dihydrobenzo[a]pyrene has been determined by X-ray crystallographic methods.
+The analysis has shown that the two hydroxyl groups are trans to each other and di-equatorial to the ring.
+The dihydrobenzene group adopts a distorted half-chair pucker.
+Trends in several bond distances indicate reactive points in the molecule.

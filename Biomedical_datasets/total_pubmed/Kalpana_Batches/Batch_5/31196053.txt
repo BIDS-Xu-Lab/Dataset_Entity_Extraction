@@ -1,0 +1,12 @@
+Multimorbidity is associated with higher healthcare utilization; however, data exploring its association with readmission are scarce.
+We aimed to investigate which most important patterns of multimorbidity are associated with 30-day readmission.
+We used a multinational retrospective cohort of 126,828 medical inpatients with multimorbidity defined as ≥2 chronic diseases.
+The primary and secondary outcomes were 30-day potentially avoidable readmission (PAR) and 30-day all-cause readmission (ACR), respectively.
+Only chronic diseases were included in the analyses.
+We presented the OR for readmission according to the number of diseases or body systems involved, and the combinations of diseases categories with the highest OR for readmission.
+Multimorbidity severity, assessed as number of chronic diseases or body systems involved, was strongly associated with PAR, and to a lesser extend with ACR.
+The strength of association steadily and linearly increased with each additional disease or body system involved.
+Patients with four body systems involved or nine diseases already had a more than doubled odds for PAR (OR 2.35, 95%CI 2.15-2.57, and OR 2.25, 95%CI 2.05-2.48, respectively).
+The combinations of diseases categories that were most strongly associated with PAR and ACR were chronic kidney disease with liver disease or chronic ulcer of skin, and hematological malignancy with esophageal disorders or mood disorders, respectively.
+Readmission was associated with the number of chronic diseases or body systems involved and with specific combinations of diseases categories.
+The number of body systems involved may be a particularly interesting measure of the risk for readmission in multimorbid patients.

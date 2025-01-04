@@ -1,0 +1,7 @@
+[3M ESPE AG, Seefeld, Germany]) by means of direct digital radiography.
+Six specimens, 5 mm in diameter and 1 mm high, were performed for each material tested.
+After the material set, radiographs were made by using a digital sensor and a graduated aluminum stepwedge varying in thickness from 1 to 14 mm.
+These samples were tested according to the international standards to compare their radiodensity to that of the aluminum stepwedge.
+Data were analyzed using analysis of variance and Tukey tests.
+The millimeters of aluminum values reported in this study were 10.41, 8.20, 6.50, 4.90, and 3.09 for AH Plus, Epiphany, Diaket, GuttaFlow, and Adseal, respectively.
+Although the materials evaluated had different radiopacities, all of them showed radiopacity above the minimum recommended by the International Organization for Standardization and the American National Standards/American Dental Association.

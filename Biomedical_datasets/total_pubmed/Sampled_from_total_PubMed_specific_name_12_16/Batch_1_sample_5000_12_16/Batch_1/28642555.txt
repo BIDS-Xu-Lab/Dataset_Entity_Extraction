@@ -1,0 +1,21 @@
+Data sourcesCochrane Oral Health's Trials Register; Cochrane Central Register of Controlled Trials (CENTRAL) Medline; clinicaltrials.gov and the World Health Organization International Clinical Trials Registry Platform.
+There were no language or date restrictions on searches.
+Study selectionRandomised controlled trials (RCTs) assessing the effects of chlorhexidine mouthrinse used as an adjunct to mechanical oral hygiene procedures for at least four weeks on gingivitis in children and adults.
+Data extraction and synthesisTwo reviewers independently abstracted data and assessed risk of bias.
+Mean and standardised mean differences were used for continuous outcomes and risk ratios for dichotomous outcomes.
+Meta-analysis was carried out where studies of similar comparisons reported the same outcomes at the same time interval.
+ResultsFifty-one RCTs involving a total of 5,345 patients were included.
+Only one study was at low risk of bias, the other 50 were at high risk.
+For patients with mild gingivitis (gingival index [GI] 0 to 3 scale) four to six weeks' use of chlorhexidine mouthrinse reduced gingivitis by 0.21 (95% CI; 0.11 to 0.31) with a similar effect at six months.
+There were insufficient data to assess the effect on patients with moderate or severe gingival inflammation.
+For plaque there was a larger effect in favour of chlorhexidine mouthrinse at four to six weeks,
+SMD (standardised mean difference) = -1.45 (95% CI; -1.90 to -1.00), with a similarly large reduction at six months.
+A large increase in extrinsic tooth staining was seen with chlorhexidine use at four to six weeks, SMD = 1.07 (95%CI; 0.80 to 1.34) and seven to twelve weeks and six months.
+A range of other adverse effects were reported including taste disturbance/alteration, oral mucosa symptoms including soreness, irritation, mild desquamation and mucosal ulceration/erosions, and a general burning sensation or a burning tongue or both.
+ConclusionsThere is high quality evidence from studies that reported the Löe and Silness Gingival Index of a reduction in gingivitis in individuals with mild gingival inflammation on average (mean score of 1 on the 0 to 3 GI scale) that was not considered to be clinically relevant.
+There is high quality evidence of a large reduction in dental plaque with chlorhexidine mouthrinse used as an adjunct to mechanical oral hygiene procedures for four to six weeks and six months.
+There is no evidence that one concentration of chlorhexidine rinse is more effective than another.
+There is insufficient evidence to determine the reduction in gingivitis associated with chlorhexidine mouthrinse use in individuals with mean GI scores of 1.1 to 3 indicating moderate or severe levels of gingival inflammation.
+Rinsing with chlorhexidine mouthrinse for four weeks or longer causes extrinsic tooth staining.
+In addition, other adverse effects such as calculus build up, transient taste disturbance and effects on the oral mucosa were reported in the included studies.
+Y: Cochrane Oral Health's Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), Medline, clinicaltrials.gov, World Health Organization International Clinical Trials Registry Platform (No need to annotate, just for notice).

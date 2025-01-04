@@ -1,0 +1,10 @@
+We examined the role of eCIRP in the pathogenesis of bleomycin-induced pulmonary fibrosis (PF).
+Publicly available gene expression omnibus datasets were analyzed for the expression of CIRP in lung samples from patients with PF.
+Wild type (WT) or CIRP-/- mice received daily injections of 10 μg/g bleomycin for 10 days.
+A subset of bleomycin-injected WT mice was treated with the eCIRP antagonist C23 (8 μg/g/day) from day 10 to day 19.
+At three weeks, transthoracic echocardiography was performed to measure the degree of pulmonary hypertension, and lung tissues were collected and analyzed for markers of fibrosis.
+Analysis of the mRNA data of human lung samples showed a significant positive correlation between CIRP and α-smooth muscle actin (α-SMA), an important marker of fibrosis.
+Moreover, the expression of CIRP was higher in patients with acute exacerbation of PF than in patients with stable PF.
+CIRP-/- mice showed attenuated induction of α-SMA and collagens (Col1a1, Col3a1), reduced hydroxyproline content, decreased histological fibrosis scores, and improved pulmonary hypertension as compared to WT mice.
+WT mice treated with C23 also had significant attenuation of the above endpoint measure.
+Our study demonstrates that eCIRP plays a key role in promoting the development of PF, and blocking eCIRP with C23 can significantly attenuate this process.

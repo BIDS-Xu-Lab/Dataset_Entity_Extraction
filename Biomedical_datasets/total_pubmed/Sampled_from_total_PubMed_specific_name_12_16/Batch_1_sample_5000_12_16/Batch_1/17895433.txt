@@ -1,0 +1,9 @@
+The (Silent Information Regulator 2) Sir2 gene has been shown to regulate the life span of several model organisms.
+In mammals, the evolutionarily conserved homologue (Sirtuin 1) SIRT1 regulates neuroprotection, metabolism, and cell survival in response to stress.
+Based on these data, we hypothesized that SIRT1 might influence the prevalence of age-related diseases and modify the life span of humans.
+In order to test this, we genotyped five single nucleotide polymorphisms (SNPs) in 1245 participants of the population-based Leiden 85-plus Study.
+SIRT1 haplotypes were assessed and tested for association with the risks of mortality, metabolic profile, age-related diseases, and cognitive functioning.
+These analyses revealed a trend for lower cardiovascular mortality for haplotype 2 and rs3758391 SNP carriers.
+In further analyses, this trend was not supported by intermediate phenotypes, albeit the rs3758391 T-allele carriers had better cognitive functioning.
+In conclusion, our results indicate a role for SIRT1 in cognitive functioning, but the role in life span remains to be elucidated.
+Y and Leiden 85-plus Study (No need to annotate, just for notice).

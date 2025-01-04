@@ -1,0 +1,9 @@
+Ischemic stroke is a life-threatening cerebral vascular disease and accounts for high disability and mortality worldwide.
+Currently, no efficient therapeutic strategies are available for promoting neurological recovery in clinical practice, except rehabilitation.
+The majority of neuroprotective drugs showed positive impact in pre-clinical studies but failed in clinical trials.
+Therefore, there is an urgent demand for new promising therapeutic approaches for ischemic stroke treatment.
+Emerging evidence suggests that exosomes mediate communication between cells in both physiological and pathological conditions.
+Exosomes have received extensive attention for therapy following a stroke, because of their unique characteristics, such as the ability to cross the blood brain-barrier, low immunogenicity, and low toxicity.
+An increasing number of studies have demonstrated positively neurorestorative effects of exosome-based therapy, which are largely mediated by the microRNA cargo.
+Herein, we review the current knowledge of exosomes, the relationships between exosomes and stroke, and the therapeutic effects of exosome-based treatments in neurovascular remodeling processes after stroke.
+Exosomes provide a viable and prospective treatment strategy for ischemic stroke patients.

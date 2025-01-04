@@ -1,0 +1,10 @@
+We examined racial/ethnic disparities in maternal morbidities (MM) and the number of MM during labor and delivery among hospital discharges in Wisconsin.
+We conducted a retrospective cohort study of hospital discharge data for 206,428 pregnant women aged 13-53 years using 2005-2007 Healthcare Cost and Utilization Project State Inpatient Dataset (HCUP-SID) for Wisconsin.
+After adjustments for covariates, MM (preterm labor, antepartum and postpartum hemorrhage, hypertension in pregnancy, gestational diabetes, membrane-related disorders, infections and 3rd and 4th perineal lacerations) were examined using logistic regression models, and number of MM (0, 1, 2, >2 MM) were examined using multivariable ordered logistic regressions with partial proportional odds models.
+African-Americans had significantly higher likelihood of infections (OR = 1.74; 95% CI 1.60-1.89), preterm labor (OR = 1.42; 1.33-1.50), antepartum hemorrhage (OR = 1.63; 1.44-1.83), and hypertension complicating pregnancy (OR = 1.39; 1.31-1.48) compared to Whites.
+Hispanics, Asian/Pacific Islanders, and Native Americans had significantly higher likelihood of infections, postpartum hemorrhage, and gestational diabetes than Whites.
+Major perineal lacerations were significantly higher among Asian/Pacific Islanders (OR = 1.53; 1.34-1.75).
+All minority racial/ethnic groups, except Asians, had significantly higher likelihood of having 0 versus 1, 2 or >2 MM, 0 or 1 versus 2 or >2 MM, and 0, 1 or 2 versus >2 MM than white women.
+Findings show significant racial/ethnic disparities in MM, and suggest the need for better screening, management, and timely referral of these conditions, particularly among racial/ethnic women.
+Disparities in MM may be contributing to the high infant mortality and adverse birth outcomes among different racial/ethnic groups in Wisconsin.
+Y: Healthcare Cost and Utilization Project State Inpatient Dataset (HCUP-SID) (No need to annotate, just for notice).

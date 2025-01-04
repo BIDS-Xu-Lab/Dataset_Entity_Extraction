@@ -1,0 +1,8 @@
+Adenocarcinoma (ADC) represents the most common histological type of non-small cell lung cancer (NSCLC), with a heterogeneous pattern of growth classified as lepidic, acinar, papillary, solid, and micropapillary.
+For ADC patients there are few available therapeutic options and a valuable therapeutic strategy is represented by angiogenesis inhibitors; however, new reliable biomarkers to identify patients with benefit from anti-angiogenic drugs are needed.
+We designed a panel of sixteen miRNAs together with six their mRNA targets involved in the angiogenesis pathway and expression analysis was performed by the nCounter System® (NanoString Technologies) in 88 ADC patients: 29 were predominantly lepidic (33%), 26 solid (29.5%), 22 acinar (25%), and for 11 patients the prevalent pattern was papillary (12.5%).
+When we compared mRNA expression levels with the different histological ADC subtypes we found a significant higher expression of VEGF in papillary and solid than in other subtypes (p = 0.008).
+Among 16 miRNAs that target the angiogenic mRNA, 4 were significantly downregulated in papillary/solid compared to other groups.
+Our data suggest a distinct angiogenic miRNA-mRNA expression profile among the subtypes of ADC, with a putative clinical application to stratify patients for anti-angiogenetic drugs.
+Moreover, the regulation of angiogenic mRNA factors by miRNAs could provide a novel therapeutic approach based on their expression pattern specific for distinct ADC subtypes.
+Further studies are needed in a larger cohort of patients to confirm our results.

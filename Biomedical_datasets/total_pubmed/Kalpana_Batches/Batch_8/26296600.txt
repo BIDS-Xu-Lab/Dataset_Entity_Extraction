@@ -1,0 +1,9 @@
+The Unitary Events (UE) method is a popular and efficient method used this last decade to detect dependence patterns of joint spike activity among simultaneously recorded neurons.
+The first introduced method is based on binned coincidence count (Grün, 1996) and can be applied on two or more simultaneously recorded neurons.
+Among the improvements of the methods, a transposition to the continuous framework has recently been proposed by Muiño and Borgelt (2014) and fully investigated by Tuleau-Malot et al. (2014) for two neurons.
+The goal of the present paper is to extend this study to more than two neurons.
+The main result is the determination of the limit distribution of the coincidence count.
+This leads to the construction of an independence test between L≥2 neurons.
+Finally, we propose a multiple test procedure via a Benjamini and Hochberg approach (Benjamini and Hochberg, 1995).
+All the theoretical results are illustrated by a simulation study, and compared to the UE method proposed by Grün et al. (2002).
+Furthermore our method is applied on real data.

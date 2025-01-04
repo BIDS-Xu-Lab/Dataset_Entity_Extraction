@@ -1,0 +1,11 @@
+Haze pollution has drawn lots of public concern due to its potential damages to human health.
+Strategic interaction of environmental regulation among local governments may lead to a race to the bottom and hinder air quality improvement.
+Still, current empirical evidence is scarce, especially from developing countries.
+Based on province-level panel data from 2004 to 2015, the paper employs a dynamic fixed effect spatial Durbin model to identify interactive patterns of environmental regulation and then investigate its environmental impact.
+Empirical results indicate that regional differences are observed in environmental regulation and haze pollution, and high-high and low-low clusters dominate the spatial pattern.
+Interactive patterns of economically similar provinces are dominated by strategic substitution, whereas provinces sharing common borders or belonging to the same region are dominated by strategic complementation.
+Further, both race to the bottom and race to the top effect are discovered in the asymmetric test.
+The reaction coefficient values are much more extensive when competitors implement laxer policies, indicating a more significant racing trend to the bottom.
+Overall, after controlling for the spillover effect and hysteresis effect of haze pollution, the strategic interaction of environmental regulation among provinces is not conducive to improve air quality.
+The consequence might be correlated with low environmental standards, weak regulation enforcement, and the "free-ride" motive in China.
+These findings will be of great significance for optimizing local government behavior and improving air quality.

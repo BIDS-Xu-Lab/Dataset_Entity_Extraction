@@ -1,0 +1,16 @@
+The role of aspirin as a means of primary prevention remains controversial.
+We have conducted a meta-analysis of all randomized controlled trials (RCTs) to evaluate the role of aspirin in primary prevention.
+Literature search was performed via PubMed, Embase, and the Cochrane Library for all related RCTs.
+All-cause mortality was the primary endpoint.
+Secondary endpoints included major adverse cardiovascular events (MACE), myocardial infarction (MI), cardiovascular mortality, cerebrovascular events, and bleeding events.
+We used a random effects model to report the risk ratios (RRs) with 95% confidence intervals (CIs).
+Our analysis included 17 RCTs (164,862 patients; 83,309 received aspirin and 81,744 received placebo).
+Our study did not demonstrate any significant reduction in all-cause mortality for patients treated with aspirin when compared with placebo (RR 0.97; 95% CI 0.93-1.01; P = 0.13).
+Sensitivity analysis performed by excluding healthy elderly (≥ 65) showed significant reductions in all-cause mortality in the aspirin-treated patients (RR 0.94; 95% CI 0.90-0.99; P = 0.01).
+There were no significant differences between both groups regarding cardiovascular mortality and cerebrovascular events (P > 0.05).
+However, aspirin-treated patients significantly reduced MACE and MI events (RR 0.89; 95% CI 0.85-0.93; P < 0.001 and RR 0.88; 95% CI 0.78-0.98; P = 0.02, respectively), respectively.
+However, aspirin was associated with a significantly higher incidence of bleeding, including major bleeding and intracranial bleeding (P < 0.001).
+Aspirin use in primary prevention has resulted in a lower incidence of MACE and MI without significantly effecting cerebrovascular events.
+However, aspirin was associated with a higher bleeding risk.
+Use of aspirin as a means of primary prevention should be thoroughly discussed with patients and pursued based on the risk of cardiovascular disease while also considering bleeding risk.
+Y PubMed, Embase, the Cochrane Library (No need to annotate, just for notice).

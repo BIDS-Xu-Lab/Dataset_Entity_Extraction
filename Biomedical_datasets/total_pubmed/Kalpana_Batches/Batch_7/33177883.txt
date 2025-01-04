@@ -1,0 +1,14 @@
+One of the prevalent treatment modalities for cancer is chemotherapy.
+Adverse drug reactions, however, are becoming the world's major public health problem.
+More than half (54.5 percent) of cancer patients need hospitalization for further management, in addition to the increased health-care costs of treatment.
+The aim of this study was to evaluate adverse drug reactions associated with chemotherapy and related factors in hospitalized paediatric cancer patients in Ethiopia's north-west hospitals.
+From July 1, 2017, to August 13, 2019, a cross-sectional study was carried out among 311 paediatric cancer patients at Gondar Comprehensive University, Specialized Hospital and Felegehiwot referral hospital.
+The data were entered into Epi Info version 7 and exported for further analysis to Statistical Product and Service Solutions (SPSS).
+To identify associated variables, both the bi-variate and multi-variate logistic regression analyses were computed.
+Variables with a P-value of less than 0.05 were considered statistically significant in the multivariate logistic regression analysis.
+The overall adverse drug reaction in this study was 41.5 percent ((95% CI: 35.8-47.2%)).
+Patients who received concomitant medications were at higher risk of experiencing adverse drug reactions (AOR: 2.60 (95% CI: 1.54-4.40)), according to the multivariate logistic regression analysis.
+Similarly, there was a risk of developing adverse drug reactions in patients taking four or more chemotherapy agents (AOR: 2.67 (95% CI: 1.52-4.68)).
+In addition, regimens based on etoposide (AOR: 1.99 (95% CI: 0.93-4.27)), mercaptopurine (AOR: 3.91 (95% CI: 1.06-14.46)) and doxorubicin (AOR: 2.32 (95% CI: 1.30-4.15)) were at higher risk for adverse drug reactions in patients.
+Adverse drug reactions developed in a significant proportion of the study patients (2 out of 5 patients).
+Therefore, for pediatric cancer patients on concomitant medications and for patients on etoposide, mercaptopurine and doxorubicin drug regimens, efficient prevention and management of adverse drug reactions should be sought.

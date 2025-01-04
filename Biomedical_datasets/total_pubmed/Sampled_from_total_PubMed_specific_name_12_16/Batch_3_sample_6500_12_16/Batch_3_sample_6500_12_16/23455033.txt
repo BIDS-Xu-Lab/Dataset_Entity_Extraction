@@ -1,0 +1,9 @@
+Thirty-day results of the double-blind, randomised Intracoronary Stenting and Antithrombotic Regimen -Rapid Early Action for Coronary Treatment (ISAR-REACT) 4 trial showed no difference in ischaemic complications and a reduction in bleeding by bivalirudin versus abciximab and heparin in 1,721 patients with non-ST-segment elevation myocardial infarction (NSTEMI) undergoing percutaneous coronary intervention (PCI).
+A longer follow-up may be required to assess the whole potential benefit of a periprocedural antithrombotic therapy.
+The primary outcome for this analysis was the composite of death, myocardial infarction or target vessel revascularisation one year after randomisation.
+Secondary outcome was the composite of death or myocardial infarction.
+The combined incidence of death or myocardial infarction was 15.7% in the abciximab and heparin group versus 16.0% in the bivalirudin group (HR 0.99; 95% CI: 0.78-1.26; p=0.94).
+The mortality rates were 4.0% and 4.7%, respectively (HR 0.85; 95% CI: 0.54-1.34; p=0.48).
+At one year, no significant differences in the primary outcome were observed with abciximab and heparin versus bivalirudin in any of the subgroups analysed.
+In patients with NSTEMI undergoing PCI, abciximab with heparin and bivalirudin provide comparable outcomes at one year, although bivalirudin reduced the rate of bleeding at 30 days.
+Y ClinicalTrials (No need to annotate, just for notice).

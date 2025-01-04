@@ -1,0 +1,12 @@
+Proper β-adrenergic signaling is indispensable for modulating heart frequency.
+Studies on extremely-low-frequency pulsed electromagnetic field (ELF-PEMF) effects in the heart beat function are contradictory and no definitive conclusions were obtained so far.
+To investigate the interplay between ELF-PEMF exposure and β-adrenergic signaling, cultures of primary murine neonatal cardiomyocytes and of sinoatrial node were exposed to ELF-PEMF and short and long-term effects were evaluated.
+The ELF-PEMF generated a variable magnetic induction field of 0-6mT at a frequency of 75Hz.
+Exposure to 3mT ELF-PEMF induced a decrease of contraction rate, Ca(2+) transients, contraction force, and energy consumption both under basal conditions and after β-adrenergic stimulation in neonatal cardiomyocytes.
+ELF-PEMF exposure inhibited β-adrenergic response in sinoatrial node (SAN) region.
+ELF-PEMF specifically modulated β2 adrenergic receptor response and the exposure did not modify the increase of contraction rate after adenylate cyclase stimulation by forskolin.
+In HEK293T cells transfected with β1 or β2 adrenergic receptors, ELF-PEMF exposure induced a rapid and selective internalization of β2 adrenergic receptor.
+Gi protein by ELF-PEMF exposure since the phosphorylation level of phospholamban and the PI3K pathway were impaired after isoproterenol stimulation in neonatal cardiomyocytes.
+Long term effects of ELF-PEMF exposure were assessed in cultures of isolated cardiomyocytes.
+ELF-PEMF counteracts cell size increase, the generation of binucleated of cardiomyocytes and prevents the up-regulation of hypertrophic markers after β-adrenergic stimulation, indicating an inhibition of cell growth and maturation.
+These data show that short and long term exposure to ELF-PEMF induces a reduction of cardiac β-adrenergic response at molecular, functional and adaptative levels.

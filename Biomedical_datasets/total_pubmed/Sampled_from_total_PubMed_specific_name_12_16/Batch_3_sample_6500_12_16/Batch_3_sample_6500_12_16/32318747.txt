@@ -1,0 +1,11 @@
+Tight junction protein 1 (TJP1) is a membrane-associated cytosolic protein important for cell-cell communication in intercellular barriers in epithelial and non-epithelial cells.
+Here, we explored the functional involvement of TJP1 in non-epithelial tumors such as soft tissue sarcoma, especially in leiomyosarcoma (LMS).
+TJP1 expression in soft tissue sarcoma was analyzed in normal and tumor tissues as well as from public datasets such as the TCGA provisional dataset, in which TJP1 expression was compared with other subtypes such as undifferentiated sarcomas, and myxofibrosarcomas.
+SK-LMS-1 cell lines with reduced TJP1 expression showed attenuated anchorage-independent colony formation as well as reduced intercellular aggregation on non-coated culture plates compared with control as well as parental SK-LMS-1 cells.
+Transcriptome profiling following TJP1 knockdown in SK-LMS-1 cells suggested the involvement of several signaling pathways, including NF-κB pathway and growth factor receptor signaling.
+In addition, TJP1 downregulation induced enhanced response against anti-cancer agents, doxorubicin and gefitinib.
+Taken together, these results suggest that TJP1 contributes to sarcoma genesis and might be useful therapeutic target.
+KEY MESSAGES: • TJP1 expression at RNA level higher in tumor than in normal tissues of sarcoma.
+Targeting TJP1 attenuates cell-cell aggregation and anchorage-independent growth.
+Targeting TJP1 is beneficial in anti-cancer therapy in LMS.
+Y TCGA provisional dataset (No need to annotate, just for notice).

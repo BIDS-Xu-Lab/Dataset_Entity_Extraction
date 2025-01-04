@@ -1,0 +1,7 @@
+The increasing complexity and scope of thoracic surgery warrants tools to monitor and improve the quality of surgical care provided to patients.
+Few data on the volume or outcome of thoracic surgical procedures are currently collected in Australasia.
+The Australia and Aotearoa New Zealand Thoracic Registry (ANZTHOR)
+Steering Group have sought to rectify this by designing a REDCap-based thoracic clinical quality registry with improved patient care as its central goal.
+This centralised thoracic registry will benefit patients, clinicians, trainees, and the practise of thoracic surgery in Australia and Aotearoa New Zealand.
+With time, the registry will also facilitate high quality thoracic research.
+Y: Australia and Aotearoa New Zealand Thoracic Registry (ANZTHOR) (No need to annotate, just for notice).

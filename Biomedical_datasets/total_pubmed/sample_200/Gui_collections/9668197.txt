@@ -1,0 +1,4 @@
+The design, synthesis and pharmacological evaluation of novel dopamine transporter ligands, based on Benztropine [3a-(diphenylmethoxy) tropane], has been a focus of our research efforts toward the development of novel cocaine-abuse pharmacotherapeutics.
+Structure-activity relationships at the dopamine transporter, for this series of compounds, have been derived and compared to those of cocaine and GBR 12909.
+These studies suggest that structurally diverse dopamine uptake inhibitors may access different binding domains on the dopamine transporter.
+The distinctive behavioral profile displayed in this series of compounds, as compared to cocaine and other dopamine uptake inhibitors, is of particular interest and is proposed to be relevant to the pharmacodynamic and pharmacokinetic properties of this class of tropane-based molecules.

@@ -1,0 +1,8 @@
+Antimicrobial use in food animals may contribute to antimicrobial resistance in bacteria of animals and humans.
+Commensal bacteria of animal intestine may serve as a reservoir of resistance-genes.
+To understand the dynamics of plasmid-mediated resistance to cephalosporin ceftiofur in enteric commensals of cattle, we developed a deterministic mathematical model of the dynamics of ceftiofur-sensitive and resistant commensal enteric Escherichia coli (E. coli) in the absence of and during parenteral therapy with ceftiofur.
+The most common treatment scenarios including those using a sustained-release drug formulation were simulated; the model outputs were in agreement with the available experimental data.
+The model indicated that a low but stable fraction of resistant enteric E. coli could persist in the absence of immediate ceftiofur pressure, being sustained by horizontal and vertical transfers of plasmids carrying resistance-genes, and ingestion of resistant E. coli.
+During parenteral therapy with ceftiofur, resistant enteric E. coli expanded in absolute number and relative frequency.
+This expansion was most influenced by parameters of antimicrobial action of ceftiofur against E. coli.
+After treatment (>5 weeks from start of therapy) the fraction of ceftiofur-resistant cells among enteric E. coli, similar to that in the absence of treatment, was most influenced by the parameters of ecology of enteric E. coli, such as the frequency of transfer of plasmids carrying resistance-genes, the rate of replacement of enteric E. coli by ingested E. coli, and the frequency of ceftiofur resistance in the latter.

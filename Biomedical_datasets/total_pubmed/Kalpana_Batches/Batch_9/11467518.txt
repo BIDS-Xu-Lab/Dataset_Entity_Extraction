@@ -1,0 +1,21 @@
+Administration of FSH increases the number of developing follicles, and affects oocyte health and cleavage rate.
+To determine the optimal level of FSH treatment, studies were conducted during the normal breeding season and seasonal anestrus.
+In Experiment 1, ewes were implanted with SyncroMate-B (SMB; norgestomet) for 14 days during the breeding season.
+Beginning on day 12 or 13 after SMB implantation, ewes were treated with saline (control; n=10), or treated with FSH for two days (2D; n=9) or three days (3D; n=10).
+In Experiment 2, conducted during seasonal anestrus, ewes were implanted with SMB for 14 days (n=23) or were not implanted (n=26).
+The SMB-implanted and nonimplanted ewes were assigned to one of three treatments as in Experiment 1: control (n=13), 2D (n=21) or 3D (n=15).
+In Experiments 1 and 2, ewes were laparotomized to count the number of follicles < or = 3 mm and > 3 mm and to retrieve oocytes.
+Healthy oocytes from each treatment were used for IVF.
+In Experiment 3, ewes (n=6) were implanted twice with SMB for 14 days during seasonal anestrus.
+Ewes were injected with FSH for 2 days, and the oocytes were collected and fertilized as in Experiments 1 and 2.
+In Experiment 1, FSH-treatment increased (P < 0.05)
+and > 3 mm, the proportion of healthy oocytes, and the number of oocytes used for IVF.
+Oocytes from control and 2D ewes had greater (P < 0.01) cleavage rates than 3D ewes (68% and 71% vs. 42%).
+In Experiment 2, implanted and nonimplanted ewes had similar (P > 0.05) numbers of follicles, total oocytes, and healthy oocytes; therefore, data were combined.
+The FSH treatment increased (P < 0.01) the number of follicles > 3 mm, and the number of oocytes recovered from follicles > 3 mm.
+The recovery rate of oocytes and the percentage of healthy oocytes were similar for control and FSH-treated ewes.
+The cleavage rate in Experiment 2 ranged from 4 to 16%.
+In Experiment 3, the cleavage rate for ewes treated twice with SMB was 27% which tended to be greater (P < 0.07) than for the 2D ewes that received one SMB implant in Experiment 2.
+These data indicate that FSH increased the number of developing follicles and the number of healthy oocytes retrieved from ewes during the breeding season and seasonal anestrus.
+However, cleavage rates during seasonal anestrus were lower than during the normal breeding season in both FSH-treated and control ewes.
+Treatment of ewes for 2 days with FSH resulted in a greater cleavage rate than treatment of ewes for 3 days.

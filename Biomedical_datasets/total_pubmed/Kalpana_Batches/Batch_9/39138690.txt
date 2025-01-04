@@ -1,0 +1,12 @@
+The temporal suppression of insulin clearance after glucose ingestion is a key determinant of glucose tolerance for people without type 2 diabetes.
+Whether similar adaptations are observed after the ingestion of a mixed-macronutrient meal is unclear.
+In a secondary analysis of data derived from two randomised, controlled trials, we studied the temporal responses of insulin clearance after the ingestion of a standardised breakfast meal consisting of cereal and milk in lean normoglycaemic individuals (n=12; Lean-NGT), normoglycaemic individuals with central obesity (n=11; Obese-NGT) and in people with type 2 diabetes (n=19).
+Pre-hepatic insulin secretion rates were determined by the deconvolution of C-peptide, and insulin clearance was calculated using a single-pool model.
+Insulin sensitivity was measured by an oral minimal model.
+There were divergent time course changes in insulin clearance between groups.
+In the Lean-NGT group, there was an immediate post-meal increase in insulin clearance compared with pre-meal values (p<0.05), whereas insulin clearance remained stable at baseline values in Obese-NGT or declined slightly in the type 2 diabetes group (p<0.05).
+The mean AUC for insulin clearance during the test was ~40% lower in the Obese-NGT (1.3 ± 0.4 l min-1 m-2) and type 2 diabetes (1.4 ± 0.7 l min-1 m-2) groups compared with Lean-NGT (1.9 ± 0.5 l min-1 m-2; p<0.01), with no difference between the Obese-NGT and type 2 diabetes groups.
+HOMA-IR and glucagon AUC emerged as predictors of insulin clearance AUC, independent of BMI, age or insulin sensitivity (adjusted R2=0.670).
+Individuals with increased glucagon AUC had a 40% reduction in insulin clearance AUC (~ -0.75 l min-1 m-2; p<0.001).
+The ingestion of a mixed-macronutrient meal augments differing temporal profiles in insulin clearance among individuals without type 2 diabetes, which is associated with HOMA-IR and the secretion of glucagon.
+Further research investigating the role of hepatic glucagon signalling in postprandial insulin kinetics is warranted.

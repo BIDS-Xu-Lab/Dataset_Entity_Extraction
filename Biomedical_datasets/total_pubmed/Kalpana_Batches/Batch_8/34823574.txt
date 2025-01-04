@@ -1,0 +1,8 @@
+In streptococci, the type M resistance to macrolides is due to the mef(A)-msr(D) efflux transport system of the ATP-Binding cassette (ABC) superfamily, where it is proposed that mef(A) codes for the transmembrane channel and msr(D) for the two ATP-binding domains.
+Phage ϕ1207.3 of Streptococcus pyogenes, carrying the mef(A)-msr(D) gene pair, is able to transfer the macrolide efflux phenotype to Streptococcus pneumoniae.
+Deletion of mef(A) in pneumococcal ϕ1207.3-carrying strains did not affect erythromycin efflux.
+In order to identify candidate genes likely involved in complementation of mef(A) deletion, the Mef(A) amino acid sequence was used as probe for database searching.
+In silico analysis identified 3 putative candidates in the S. pneumoniae R6 genome, namely spr0971, spr1023 and spr1932.
+Isogenic deletion mutants of each candidate gene were constructed and used in erythromycin sensitivity assays to investigate their contribution to mef(A) complementation.
+Since no change in erythromycin sensitivity was observed compared to the parental strain, we produced double and triple mutants to assess the potential synergic activity of the selected genes.
+Also these mutants did not complement the mef(A) function.

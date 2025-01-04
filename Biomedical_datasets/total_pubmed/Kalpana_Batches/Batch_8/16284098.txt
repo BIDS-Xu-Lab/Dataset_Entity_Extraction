@@ -1,0 +1,10 @@
+Tumour necrosis factor alpha (TNFalpha) is a cytokine of critical importance in psoriatic arthritis.
+(1) To examine the association between TNFalpha promoter gene polymorphisms and psoriatic arthritis in two well characterised Canadian populations with the disease; (2) to carry out a meta-analysis of all TNFalpha association studies in white psoriatic arthritis populations.
+DNA samples were genotyped for five TNF variants by time of flight mass spectrometry using the Sequenom platform.
+All five single nucleotide polymorphisms were in the 5' flanking region of TNFalpha gene at the following positions: -1031 (T-->C), -863 (C-->A), -857 (C-->T), -308 (G-->A), and -238 (G-->A).
+Primary analyses were based on logistic regression.
+Summary estimates of disease/genotype relations from several studies were derived from random effects meta-analyses.
+237 psoriatic arthritis subjects and 103 controls from Newfoundland and 203 psoriatic arthritis subjects and 101 controls from Toronto were studied.
+A combined analysis of data from both populations, showed a significant association between disease status and the -238(A) variant (p=0.01).
+The meta-analysis estimate for the -238(A) TNFalpha variant in eight psoriatic arthritis populations was also significant (odds ratio=2.29 (95% confidence interval, 1.48 to 3.55)).
+Analysis of TNFalpha variants in psoriatic arthritis populations shows that the -238 (A) variant is a significant risk factor for this disease.

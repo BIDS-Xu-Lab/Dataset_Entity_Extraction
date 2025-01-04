@@ -1,0 +1,12 @@
+Intensive use of agrochemicals is considered one of the major threats for soil quality.
+In an attempt to mitigate their side-effects on non-target organisms and soil functioning, many engineering and biological remediation methodologies are currently available.
+Among them, the use of biochar, a carbonaceous material produced from pyrolysing biomass, represents an attractive option enhancing both remediation and soil carbon storage potentials.
+Currently, activation of biochar with chemical or physical agents seeks for improving its remediation potential, but most of them have some undesirable drawbacks such as high costs and generation of chemical wastes.
+Alternatively, the use of biological procedures to activate biochar with extracellular enzymes is gaining acceptance mainly due to its eco-friendly nature and cost-effectiveness.
+In these strategies, microorganisms play a key role as a source of extracellular enzymes, which are retained on the biochar surface.
+Recently, several studies point out that soil macrofauna (earthworms) may act as a biological vector facilitating the adsorption of enzymes on biochar.
+This paper briefly introduces current biochar bioactivation methodologies and the mechanisms underlying the coating of biochar with enzymes.
+We then propose a new conceptual model using earthworms to activate biochar with extracellular enzymes.
+This new earthworm-biochar model can be used as a theoretical framework to produce a new product "vermichar", vermicompost produced from blended feedstock, earthworms, and biochar that can be used to improve soil quality and remove soil contaminants.
+This model can also be used to develop innovative in-situ "vermiremediation" technologies utilizing the beneficial effects of both earthworms and biochar.
+Since biochar may contain toxic chemicals generated during its production stages or later concentrated when applied to polluted soils, this paper also highlights the need for an ecotoxicological knowledge around earthworm-biochar interaction, promoting further discussion on suitable procedures for assessing the environmental risk of this conceptual model application in soil bioremediation.

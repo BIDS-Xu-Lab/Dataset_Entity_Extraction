@@ -1,0 +1,9 @@
+The levels of genetic diversity assessed from allozyme data were investigated in 25 populations of Mediterranean Bromus intermedius, B. squarrosus, B. lanceolatus, and B. hordeaceus from Algeria.
+The geographically restricted diploids B. intermedius and B. squarrosus displayed less genetic diversity (the mean population gene diversity of Nei (Hu) ranged from 0.03 to 0.12) than the widespread tetraploid colonizers B. lanceolatus and B. hordeaceus (Hu = 0.07-0.27).
+Deviations from Hardy-Weinberg expectations in diploid populations of B. intermedius and B. squarrosus were observed owing to heterozygote excess at several loci and suggested that these self-fertilizing species may have substantial amounts of allogamy.
+Tetraploid populations of B. lanceolatus and B. hordeaceus were largely homozygous at homologous loci and frequently exhibited intergenomic fixed heterozygosity in accordance with their alloploid origin.
+Genetic variation at the infraspecific level was mostly distributed within populations in the four species, B. hordeaceus showing the lowest level of interpopulation differentiation (Gst = 0.06) and the highest level of gene flow (Nm = 3.75).
+Consistent gene flows are in agreement with the strongest intercontinental invasive behaviour of B. hordeaceus.
+Less differentiation was reported in the literature among later introduced B. hordeaceus populations from England and Australia, indicating reduced differentiation under the process of colonization.
+Moderate divergence occured among the four taxa, with interspecific genetic identities ranging from 0.87 to 0.93.
+In spite of substantial genetic similarity, species were clearly differentiated, with each tetraploid being more closely related to a diploid: B. hordeaceus to B. squarrosus and B. lanceolatus to B. intermedius.

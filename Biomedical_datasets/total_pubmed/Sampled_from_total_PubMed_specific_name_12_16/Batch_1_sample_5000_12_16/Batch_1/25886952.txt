@@ -1,0 +1,11 @@
+Use of hydroxyethyl starch (HES) in septic patients is reported to increase the mortality and incidence of renal replacement therapy (RRT).
+However, whether or not use of HES would induce the same result in non-septic patients in the intensive care unit (ICU) remains unclear.
+The objective of this meta-analysis was to evaluate 6% HES versus other fluids for non-septic ICU patients.
+Randomized controlled trials (RCTs) were searched from Pubmed, OvidSP, Embase database and Cochrane Library, published before November, 2013.
+A meta-analysis was made on the effect of 6% HES versus other fluids for non-septic ICU patients, including mortality, RRT incidence, bleeding volume, red blood cell (RBC) transfusion and fluid application for non-septic patients in ICU.
+Twenty-two RCTs were included, involving 6,064 non-septic ICU patients.
+Compared with the other fluids, 6% HES was not associated with decreased overall mortality (RR = 1.03, 95%CI: 0.09 to 1.17; P = 0.67; I(2) = 0).
+There was no significant difference in RRT incidence, bleeding volume and red blood cell transfusion between 6% HES group and the other fluid groups.
+However, patients in HES group received less total intravenous fluids than those receiving crystalloids during the first day in ICU (SMD = -0.84; 95%CI: -1.39 to -0.30; P = 0.003, I(2) = 74%).
+This meta-analysis found no increased mortality, RRT incidence, bleeding volumes or RBC transfusion in non-septic ICU patients, but the sample sizes were small and the studies generally were of poor quality.
+Y and Pubmed, OvidSP, Embase database, Cochrane Library (No need to annotate, just for notice).

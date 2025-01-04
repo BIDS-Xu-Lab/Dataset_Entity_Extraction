@@ -1,0 +1,10 @@
+A nemzetközi regiszterépítési gyakorlat fejlődését is figyelembe vevő, 18 kiemelt hazai regiszter működését rendező 2018.
+évi jogi szabályozás eredményeképpen szélesebb körben rendezetté vált a személyhez kötött egészségügyi adatok kezelése, megindulhatott a működtető környezet korszerű alapokra helyezése, és megújulhatott az adatok feldolgozási és elemzési folyamata.
+A személyes adatok kezelésére vonatkozó felhatalmazás alapján technikailag lehetségessé vált a különböző adatforrásokból érkező adatok összekapcsolása, s ezt kiaknázva a Nemzeti Stroke Regiszter és a Nemzeti Affektív Betegségek Regisztere esetén egy összetett regiszterrendszer jött létre.
+A regiszterrendszer adatokat tud fogadni az ágazat központi adatrendszereiből, a kórházi informatikai rendszerből és webes űrlapokon keresztül közvetlenül a betegellátóktól.
+Az adatokat egy többszintű, automatizált feldolgozási folyamatokkal támogatott adatbázisrendszer kezeli, amelynek működését irányítópult és jelentéskészítő funkciók is segítik.
+A feldolgozás magasabb rétegeiben az elemi adatok OMOP-alapú adatmodellt alkotnak, illetve az események láncokká állnak össze, lehetővé téve a komplex betegutak elemzését.
+A rendszer jelenleg több mint 50 millió ellátási eseményt, közel 100 millió dokumentumot és több mint 200 millió receptet kezel, amely nemzetközi szinten is kiemelkedő adatvagyont képez.
+Az adatbiztonságot összetett védelmi intézkedések szolgálják, beleértve az adatok álnevesítését és a kutatói adatpiacok szeparációját is.
+Összetettségüknek, adatmélységüknek és biztonságuknak köszönhetően ezek a regiszterek számtalan kutatásnak tudnak értékes adatforrást biztosítani.
+Y: Nemzeti Stroke Regiszter, Nemzeti Affektív Betegségek Regisztere (No need to annotate, just for notice).

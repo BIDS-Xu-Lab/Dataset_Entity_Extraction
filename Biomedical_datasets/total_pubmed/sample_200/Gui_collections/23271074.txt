@@ -1,0 +1,9 @@
+Analogous to organ injury scales developed for trauma, a scoring system is needed for acute care surgery.
+The purpose of this study was to develop a disease severity score (DSS) for acute appendicitis, the most common surgical emergency.
+A panel of acute care surgery experts reviewed the literature and developed a DSS for acute appendicitis as follows: grade 1, inflamed; Grade 2, gangrenous; Grade 3, perforated with localized free fluid; Grade 4, perforated with a regional abscess; and Grade 5, perforated with diffuse peritonitis.
+We applied the DSS to 1,000 consecutive patients undergoing appendectomy from 1999 to 2009 and examined its association with outcomes (mortality, length of hospital stay, incidence of in-hospital, and postdischarge complications).
+Of the 1,000 patients, 82 were excluded owing to negative or interval appendectomy or advanced end-stage renal disease.
+Statistical analyses indicated a stepwise risk increase in adverse outcomes with higher DSS grades (c statistics ≥ 0.75 for all outcomes).
+Covariates (age, sex, and type of surgical access) did not add to the predictive power of DSS.
+Based on this single-institution study, the proposed appendicitis DSS seems to be a useful tool.
+This DSS can inform future, national efforts, which can build on the knowledge provided by the present investigation.

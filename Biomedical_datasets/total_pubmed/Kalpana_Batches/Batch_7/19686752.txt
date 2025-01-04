@@ -1,0 +1,10 @@
+The enzyme pectin methylesterase (PME) was purified from red ripe tomatoes (Lycopersicon esculentum) and through affinity chromatography two isoenzymes were fractionated (t1PME and t2PME).
+Further analysis of these two isoenzymes, both having a molar mass of 34.5kDa, revealed a difference in the N-terminal sequence and in amino acid composition.
+t1PME was identified as the major isoenzyme of PME in tomato fruit.
+In this study the aim was to develop a toolbox, consisting of monoclonal antibodies, that allows to gain insight into the in situ localization of PME in plant based food systems like tomatoes.
+A panel of six interesting monoclonal antibodies was raised against both isoenzymes, designated MA-TOM1-12E11, MA-TOM1-41B2, MA-TOM2-9H8, MA-TOM2-20G7, MA-TOM2-31H1 and MA-TOM2-38A11.
+The differences in epitopes between these monoclonal antibodies were determined using affinity tests towards denatured PME, cross-reactivity tests and inhibition tests.
+Characterization of these antibodies indicated an immunological difference between t1PME and t2PME, also revealing a conserved epitope on t2PME, carrot PME and strawberry PME.
+Different epitopes are recognized by the generated antibodies making them excellent probes for immunolocalization of PME by tissue printing.
+In tomato, t1PME and t2PME showed a pronounced co-localization, especially in the pericarp and the radial arms of the pericarp.
+Three of the generated antibodies could be used for immunolocalization of PME in carrots (Daucus carota L.), which was only present in the cortex and not in the vascular cylinder of carrots.

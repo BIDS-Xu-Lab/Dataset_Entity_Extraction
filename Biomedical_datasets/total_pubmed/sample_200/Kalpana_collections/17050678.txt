@@ -1,0 +1,6 @@
+The electrophysiological properties of rat inferior olive (IO) neurons in the dorsal cap of Kooy (DCK) and the adjacent ventrolateral outgrowth (VLO) were compared with those of IO neurons in the principal olive (PO).
+Whereas DCK/VLO neurons are involved in eye movement control via their climbing fiber projection to the cerebellar flocculus, PO neurons control limb and digit movements via their climbing fiber projection to the lateral cerebellar hemisphere.
+In vitro patch recordings from DCK/VLO neurons revealed that low threshold calcium currents, Ih currents, and subthreshold oscillations are lacking in this subset of IO neurons.
+The recordings of activity in DCK neurons obtained by using voltage-sensitive dye imaging showed that activity is not limited to a single neuron, but rather that clusters of DCK neurons can be active in unison.
+These electrophysiological results show that the DCK/VLO neurons have unique properties that set them apart from the neurons in the PO nucleus.
+This finding indicates that motor control, from the perspective of the olivocerebellar system, is fundamentally different for the oculomotor and the somatomotor systems.

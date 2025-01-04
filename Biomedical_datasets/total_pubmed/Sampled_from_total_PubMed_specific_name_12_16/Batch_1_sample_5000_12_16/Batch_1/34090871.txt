@@ -1,0 +1,14 @@
+The United States Chronic Thromboembolic Pulmonary Hypertension Registry (US-CTEPH-R) was designed to characterize the demographic characteristics, evaluation, clinical course, and outcomes of surgical and nonsurgical therapies for patients with chronic thromboembolic pulmonary hypertension.
+What are the differences in baseline characteristics and 1-year outcomes between operated and nonoperated subjects?
+This study describes a multicenter, prospective, longitudinal, observational registry of patients newly diagnosed (< 6 months) with CTEPH.
+Hg documented by right heart catheterization and radiologic confirmation of CTEPH.
+Between 2015 and 2018, a total of 750 patients were enrolled and followed up biannually until 2019.
+Most patients with CTEPH (87.9%) reported a history of acute pulmonary embolism.
+CTEPH diagnosis delays were frequent (median, 10 months), and most patients reported World Health Organization functional class 3 status at enrollment with a median mean pulmonary artery pressure of 44 mm Hg.
+The registry cohort was subdivided into Operable patients undergoing pulmonary thromboendarterectomy (PTE) surgery (n = 566), Operable patients who did not undergo surgery (n = 88), and those who were Inoperable (n = 96).
+Inoperable patients were older than Operated patients; less likely to be obese; have a DVT history, non-type O blood group, or thrombophilia; and more likely to have COPD or a history of cancer.
+PTE resulted in a median pulmonary vascular resistance decline from 6.9 to 2.6 Wood units (P < .001) with a 3.9% in-hospital mortality.
+At 1-year follow-up, Operated patients were less likely treated with oxygen, diuretics, or pulmonary hypertension-targeted therapy compared with Inoperable patients.
+A larger percentage of Operated patients were World Health Organization functional class 1 or 2 at 1 year (82.9%) compared with the Inoperable (48.2%) and Operable/No Surgery (56%) groups (P < .001).
+Differences exist in the clinical characteristics between patients who exhibited operable CTEPH and those who were inoperable, with the most favorable 1-year outcomes in those who underwent PTE surgery.
+Y: United States Chronic Thromboembolic Pulmonary Hypertension Registry (US-CTEPH-R) (No need to annotate, just for notice).

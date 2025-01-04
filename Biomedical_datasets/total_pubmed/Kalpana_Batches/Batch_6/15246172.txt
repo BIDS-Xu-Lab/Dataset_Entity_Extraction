@@ -1,0 +1,9 @@
+The influence of individual and contextual socioeconomic variables on mortality is compared in two Canadian provinces, Manitoba and Nova Scotia.
+Although differing substantially in size, ethnic mix, and history, both provinces provide greater access to health and social services as well as fewer income inequalities than the United States.
+A total of 8032 Manitoba respondents (followed from 1996-97 to 2002) and 2116 Nova Scotia respondents (followed from 1990 to 1999) were linked to the appropriate Canadian census as a source of neighborhood characteristics.
+Data were analyzed using individual- and multi-level logistic regression.
+Well-educated and higher income individuals were less likely to die during follow-up.
+No significant direct effect was found between neighborhood socioeconomic characteristics and mortality.
+However, both provinces showed an increased importance of individual income vis-à-vis mortality in advantaged neighborhoods relative to disadvantaged neighborhoods.
+Additional Manitoba analyses showed a "healthy mover" effect among respondents changing place of residence, regardless of whether they moved to more advantaged or more disadvantaged neighborhoods.
+The findings are discussed in the context of differences in health and health care among Canada, the United States, and other OECD countries.

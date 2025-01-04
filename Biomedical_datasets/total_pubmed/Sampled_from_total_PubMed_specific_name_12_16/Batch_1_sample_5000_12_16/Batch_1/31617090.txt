@@ -1,0 +1,11 @@
+Transanal total mesorectal excision (TaTME) appeared to be a challenging alternative to Laparoscopic Total Mesorectal Excision (LaTME) for low and middle rectal cancer.
+However, evidence remains low on the possible benefits of TaTME.
+The aim of this study was to perform a meta-analysis of comparative studies between TaTME and LaTME.
+A systematic review and meta-analysis based on Preferred Reporting Items for Systematic reviews and Meta-analysis (PRISMA) guidelines was conducted on Medline, Embase, and Cochrane database.
+The following outcomes were assessed: conversion, operative time, morbidity, length of stay, readmission rate, and pathological and oncological results.
+After review of 756 identified records, 14 studies were included (case-matched control n = 10, prospective cohort n = 3, retrospective study n = 1) comparing 495 TaTME and 547 LaTME.
+Following criteria were significantly improved after TaTME vs. LaTME: readmission's rate (9% after TaTME vs. 18% after LaTME, OR 0.44, 95%CI 0.26-0.74, p = 0.002), length of stay (OR - 2.17, 95%CI - 3.68 to - 0.66, p = 0.005), overall morbidity (34 vs. 41%, OR 0.65, 95%CI 0.46-0.91, p = 0.001), major morbidity (8.7 vs. 14%, OR 0.53, 95%CI 0.34-0.83, p = 0.005), anastomotic leak (6.4 vs. 11.6%, OR 0.53, 95%CI 0.31-0.93, p = 0.03), and circumferential resection margin (CRM) involvement (4 vs. 8.8%, OR 0.48, 95%CI 0.27-0.86, p = 0.01).
+No significant differences were observed between TaTME and LaTME regarding conversion's rate (3.2 vs. 8.8%, p = 0.09), operative time (OR - 10.73, p = 0.26), intraoperative complications (8.1 vs. 6.3%, p = 0.48), minor morbidity (27.9 vs. 29.6%, p = 0.27), positive distal resection margin (1.4 vs. 1.4%, p = 0.93), complete TME (75 vs. 75%, p = 0.74), harvested lymph nodes (OR 0.38, p = 0.44), and local recurrence rate (3.5 vs. 2.2%, p = 0.64).
+This meta-analysis based on nonrandomized studies suggests that TaTME seems better than LaTME in terms of overall and major morbidities, anastomotic leak, readmission rate, CRM involvement, and length of stay.
+These results need to be confirmed by randomized controlled trial.
+Y: Medline, Embase, Cochrane database (No need to annotate, just for notice).

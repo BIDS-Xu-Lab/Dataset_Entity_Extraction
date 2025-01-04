@@ -1,0 +1,11 @@
+Sunbathing and other types of exposure to ultraviolet radiation are the major preventable risk factors for skin cancer.
+Due to the continued increase in incidence of melanoma in Northern Ireland, we have conducted a questionnaire survey in an attempt to gather information about sunbathing habits and other forms of ultraviolet light exposure amongst the Northern Ireland population.
+The aim of this study was to examine the test-retest reliability of a questionnaire used in a large-scale cross-sectional population survey pertaining to sunbathing habits, use of sun screen, skin types, and frequencies of sunburn and to assess the responses given by the subjects to determine the nature of their sun-related behaviour.
+Thirty control subjects were randomly selected from a population control sample participating in a large case-control study investigating melanoma in the Northern Ireland population.
+All participants completed the interview questionnaire on two occasions, with a median of 15 days (range, 12-42 days) between interviews.
+We randomly chose control subjects who had been visited by the same research nurse, thus ruling out interobserver bias in the analyses.
+Kappa statistics were used to calculate the association between test and retest scores of all the individual items.
+If the items contained within the questionnaire are reliable, then repeated measurement after a fairly short period of time should result in high within-subject repeatability.
+Questions pertaining to hours spent in the sun and sun bed usage showed high reliability (kappa > 0.7).
+Questions about sunscreen usage showed moderately high reliability (kappa > 0.6) in all but one of the 10-year age bands and complete agreement (kappa = 1) in one age category (>50 years).
+This questionnaire is a reliable method of assessing sun-associated behaviour identifying high-risk sun-related behaviour and misconceptions about tanning, which can be targeted for improvement in public health.

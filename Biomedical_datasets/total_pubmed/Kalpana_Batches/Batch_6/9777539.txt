@@ -1,0 +1,9 @@
+This study investigated whether increased plasma levels of terminal complement complex (SC5b-9) or split products correlate with disease activity and clinical manifestations in Brazilian systemic lupus erythematosus (SLE) patients.
+Comparisons with conventional measurements of complement and other inflammatory markers were also performed.
+Plasma levels of SC5b-9, C3a desArg, C1rs-C1Inhibitor, C3b(Bb)P, C3, C4, erythrocyte sedimentation rate (ESR) and mucoproteins (MP) were measured in 41 patients with SLE of different disease activity: 10 patients with none, 15 patients with mild, and 16 patients with moderate or severe activity.
+All parameters, with the exception of C3 and C3b(Bb)P, showed a statistically significant correlation with disease activity.
+Plasma levels of SC5b-9, C3a desArg, C4, CH50, ESR and MP revealed significant differences between the groups of patients without activity and those with moderate or severe disease.
+Although none of the variables were able to discriminate between patients without and those with mild activity, SC5b-9, C3a desArg, C4, ESR and mucoproteins showed significant differences between the patients with mild and those with moderate or severe disease.
+Among all the variables, SC5b-9 levels showed the most significant results and correlated well with the severity of the disease (p < 0.0005).
+Our data suggest that elevated levels of complement activation products, particularly of SC5b-9 are more sensitive markers in assessing disease activity than conventional laboratory diagnosis.
+Modern complement diagnosis is therefore recommended for monitoring disease progress in SLE patients.

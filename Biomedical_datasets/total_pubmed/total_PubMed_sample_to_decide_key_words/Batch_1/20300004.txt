@@ -1,0 +1,18 @@
+Sorafenib is the standard treatment for patients with an advanced stage of hepatocellular carcinoma (HCC).
+The aims of this study were (i) to evaluate the tolerance and survival of sorafenib-treated patients, in a nonselected population, especially in Child-Pugh B patients; and (ii) to identify potential prognostic factors of survival.
+From April 2007 to December 2008, 50 patients received sorafenib for advanced HCC.
+Seventeen (34%) were Child-Pugh B patients.
+We recorded adverse events and the duration of treatment and survival.
+For 34 patients with histopathologically proven HCC, immunophenotypical analysis was carried out using antibodies against cluster differentiation 34, vascular endothelial growth factor, phosphorylated ERK, cytokeratin 19, and phosphorylated stat3.
+Patients with Child-Pugh B cirrhosis had a more advanced stage of the disease compared with Child-Pugh A patients.
+The occurrence of adverse events was similar in Child-Pugh A and Child-Pugh B patients.
+Duration of treatment until discontinuation for bad tolerance was lower in Child-Pugh B patients (1.8 vs. 5 months, P=0.02).
+Survival of Child-Pugh A patients was higher compared with Child-Pugh B patients (8.9 vs. 2 months, P=0.004).
+Barcelona Clinic Liver Cancer stage, Eastern Cooperative Oncology Group Performance Status, portal vein impairment, extra-hepatic spread, and alpha-foetoprotein were also prognostic factors.
+In multivariate analysis, the sole factor associated with survival was the Barcelona Clinic Liver Cancer stage.
+None of the immunohistological markers used was associated with tolerance and survival.
+Occurrence of adverse events is similar in Child-Pugh A and Child-Pugh B patients.
+Nevertheless, the survival of Child-Pugh B patients is very low.
+Whether liver function or tumor spread is responsible for mortality is unclear.
+Opportunity of treatment for Child-Pugh B patients is questionable.
+The immunophenotype of tumoral tissue was not predictive of survival.

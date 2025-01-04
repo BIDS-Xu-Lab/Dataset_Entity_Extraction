@@ -1,0 +1,7 @@
+The purpose of the research described in this paper was to analyze the biological mutational effects caused by low doses of ionizing radiation on biological samples placed nearby and around deposits of radioactive waste, as a way of monitoring the environment close to them.
+In order to do this, the plant Tradescantia pallida was chosen, and through micronuclei tests the sensitivity of the dose/response to bio-monitoring could be observed.
+The plants were exposed for a period of 24h in previously chosen sites around Brazil, within the proximity of nuclear waste deposits.
+In each location, three points were chosen for bio-monitoring.
+The results obtained at these locations showed a small increment in the frequency of micronuclei per cell of the biosensor.
+From these data, a scale of mutagenesis effects due to low-dose radiation was built up.
+T. pallida is a good alternative for environmental bio-monitoring in tropical climates, as it is an excellent alternative tool in the studies of the effects of ionizing radiation on the environment.

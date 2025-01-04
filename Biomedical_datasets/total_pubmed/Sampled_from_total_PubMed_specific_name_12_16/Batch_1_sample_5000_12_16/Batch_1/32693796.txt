@@ -1,0 +1,18 @@
+Genomic variants are considered sensitive information, revealing potentially private facts about individuals.
+Therefore, it is important to control access to such data.
+A key aspect of controlled access is secure storage and efficient query of access logs, for potential misuse.
+However, there are challenges to securing logs, such as designing against the consequences of "single points of failure".
+A potential approach to circumvent these challenges is blockchain technology, which is currently popular in cryptocurrency due to its properties of security, immutability, and decentralization.
+One of the tasks of the iDASH (Integrating Data for Analysis, Anonymization, and Sharing) Secure Genome Analysis Competition in 2018 was to develop time- and space-efficient blockchain-based ledgering solutions to log and query user activity accessing genomic datasets across multiple sites, using MultiChain.
+MultiChain is a specific blockchain platform that offers "data streams" embedded in the chain for rapid and secure data storage.
+We devised a storage protocol taking advantage of the keys in the MultiChain data streams and created a data frame from the chain allowing efficient query.
+Our solution to the iDASH competition was selected as the winner at a workshop held in San Diego, CA in October 2018.
+Although our solution worked well in the challenge, it has the drawback that it requires downloading all the data from the chain and keeping it locally in memory for fast query.
+To address this, we provide an alternate "bigmem" solution that uses indices rather than local storage for rapid queries.
+We profiled the performance of both of our solutions using logs with 100,000 to 600,000 entries, both for querying the chain and inserting data into it.
+The challenge solution requires 12 seconds time and 120 Mb of memory for querying from 100,000 entries.
+The memory requirement increases linearly and reaches 470 MB for a chain with 600,000 entries.
+Although our alternate bigmem solution is slower and requires more memory (408 seconds and 250 MB, respectively, for 100,000 entries), the memory requirement increases at a slower rate and reaches only 360 MB for 600,000 entries.
+Overall, we demonstrate that genomic access log files can be stored and queried efficiently with blockchain.
+Beyond this, our protocol potentially could be applied to other types of health data such as electronic health records.
+Y: iDASH Secure Genome Analysis Competition, MultiChain (No need to annotate, just for notice).

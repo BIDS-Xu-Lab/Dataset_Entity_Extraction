@@ -1,0 +1,10 @@
+Y. enterocolitica is the causative agent of yersiniosis.
+The objective of the article was a study of single nucleotide polymorphism in the ystB gene of Y. enterocolitica strains isolated from various wild animal species.
+High-resolution melting (HRM) analysis was applied to identify single nucleotide polymorphism (SNP) of ystB gene fragments of 88 Y. enterocolitica biotype 1A strains isolated from wild boar, roe deer, red deer and wild ducks.
+HRM analysis revealed 14 different melting profiles - 4 of them were defined as regular genotypes (G1, G2, G3, G4), whereas 10 as variations.
+24 of the examined Y. enterocolitica strains were classified as G1, 18 strains as a G2, 21 strains as a G3, and 15 strains as a G4.
+Nucleotide sequences classified as G1 revealed 100% similarity with the Y. enterocolitica D88145.1 sequence (NCBI).
+Analysis of G2 revealed one point mutation - transition T111A. One mutation was also found in G3, but SNP was placed in a different gene region - transition G193A. Two SNPs - transitions G92C and T111A - were identified in G4.
+and G193A (2 strains); V3 - transitions C118T and G193A (1 strain); V4 - transitions C141A and G193A (2 strains); and V5 characterized by 19 SNPs: G83A, T93A, A109G, G114T, C116T, A123G, T134C, T142G, T144C, A150C, G162A, T165G, T170G, T174A, T177G, G178A, A179G, A184G and G193A (2 strains).
+The predominant genotype in isolates from wild ducks was G1; in red deer G2; in wild boar G3; in roe deer G1 and G4.
+The proposed HRM method could be used to analyze Y. enterocolitica biotype 1A strains isolated from different sources, including humans.

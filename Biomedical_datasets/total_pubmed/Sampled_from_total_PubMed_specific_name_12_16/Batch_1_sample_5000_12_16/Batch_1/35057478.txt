@@ -1,0 +1,10 @@
+The COVID-19 pandemic may have changed the habitual lifestyles of children and adolescents, in particular, due to the closure of kindergartens and schools.
+To investigate the impact of the pandemic on nutrients and food intake of children and adolescents in Germany, we analyzed repeated 3-day weighed dietary records from 108 participants (3-18 years; females: n = 45, males: n = 63) of the Dortmund Nutritional and Anthropometric Longitudinally Designed (DONALD) study.
+Polynomial mixed-effects regression models were used to identify prospective changes in dietary intake (total energy (TEI), carbohydrates, fat, protein, free sugar, ultra-processed foods, fruits and vegetables, sugar sweetened beverages and juices) before and during the first months of the COVID-19 pandemic.
+For the current analysis, we have chosen the first months of the pandemic (March 2020-August 2020), as this was the period with the most restrictions in Germany so far (kindergarten, school and restaurant closures; contact and outdoor activity restrictions).
+No significant changes in either the selected nutrients or food groups were observed.
+However, children and adolescents recorded a significantly lower TEI during the pandemic (β = -109.65, p = 0.0062).
+Results remained significant after the exclusion of participants with under-reported records (β = -95.77, p = 0.0063).
+While macronutrient intake did not change, descriptive data indicate a non-significant decrease in sugar sweetened beverages and ultra-processed foods intake.
+We suggest that children and adolescents from high socioeconomic families may have adapted lifestyle changes during the pandemic.
+Y: Dortmund Nutritional and Anthropometric Longitudinally Designed (DONALD) study (No need to annotate, just for notice).

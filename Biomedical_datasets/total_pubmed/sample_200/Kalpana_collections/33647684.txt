@@ -1,0 +1,12 @@
+Visible-light driven photocatalysts are of great importance in wastewater treatment.
+In this work, fluorine and nitrogen co-doped titanium dioxide/silica nanocomposite (F-N-TiO2/SiO2) was synthetized using a sol-gel approach.
+The as-developed nanocomposite was well characterized using different techniques.
+In particular, an anatase structure with high surface area (345.69 m2/g) and a band gap of 2.97 eV were observed for the as-synthesized nanocomposite, which makes it a potential candidate for photocatalytic applications under visible light.
+A systematic density functional theory calculation was performed to get more insight into the effect of dopant atoms on the band gap of TiO2 nanoparticles.
+To enhance the reusability of the photocatalyst in semi-pilot scale, the as-developed nanocomposite was immobilized onto the glass beads by coupling dip-coating and heat attachment methods.
+A semi-pilot scale custom-designed fixed-bed photoreactor was used to evaluate the photocatalytic performance of the as-developed nanocomposite under both visible and solar irradiations.
+A mixture of three azo dyes (i.e., basic red 29, basic blue 41 and basic yellow 51) was used as the model industrial wastewater.
+The analysis of the wastewater showed that the complete removal of the pollutants under visible light and sunlight can occurred at pH of 3 and flow rate of 280 mL/min.
+The durability results demonstrated the successful degradation of the pollutants for five cycles.
+The results of this study show how careful controlling the operational parameters as well as using a highly photocatalytic nanomaterial can lead to successful decontamination of organic water pollutants.
+This approach might open up new windows to the future applications of photocatalytic nanomaterials for wastewater treatment.

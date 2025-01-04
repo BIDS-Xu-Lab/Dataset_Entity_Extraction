@@ -1,0 +1,13 @@
+Dilated cardiomyopathy (DCM) is the most common form of heart muscle disease characterized by progressive dilatation and ventricular dysfunction.
+Metabolomics is an emerging and powerful discipline that provides a global information on the phenotype of mammalian systems via the study of endogenous and exogenous metabolites in cells, tissues, and biofluids.
+These studies aid in the identification of biomarkers to prevent diseases in later life or help to early detect onset of diseases as well as aiding in the elucidation of disease mechanisms.
+Metabolomics provides a unique opportunity to discover novel biomarkers for DCM.
+This review demonstrates evidence of metabolite-based biomarkers useful for predicting, diagnosing, and monitoring therapeutic interventions of DCM.
+Key metabolites identified as potential biomarkers for diagnosing DCM include acylcarnitines, succinic acid, malate, methylhistidine, aspartate, methionine, and phenylalanine.
+In terms of differentiating DCM from ischemic cardiomyopathy, potential biomarkers including 1-pyrroline-2-carboxylate, norvaline, lysophosphatidylinositol (16:0/0:0), phosphatidylglycerol, fatty acid esters of hydroxy fatty acid, and phosphatidylcholine were identified.
+Acylcarnitines, isoleucine and linoleic acid, and tryptophan were the main biomarkers to monitor treatment response to DCM.
+Mapping metabolites to metabolic pathways revealed dysregulation of branch-chain amino acid, glycolysis, tricarboxylic acid cycle, and triacylglycerol and pentose phosphate metabolism, which have the therapeutic potential for DCM.
+This review shows several limitations including the use of small sample sizes, lack of interpretation of age and sex differences in most studies, and the fact that studies have so far been limited to case-control study designs.
+Metabolites have close proximity to disease phenotype.
+With recent advances in metabolomics field, potential biomarkers for DCM have been identified based on studies using different biological and metabolomics technologies.
+However, multicenter studies with larger populations that will lead to validation of these identified biomarkers to enable their clinical translation and utilization are still needed.

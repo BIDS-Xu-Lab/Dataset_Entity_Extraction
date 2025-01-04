@@ -1,0 +1,11 @@
+Obsessive-compulsive disorder (OCD) and internet gaming disorder (IGD), which are similar in that both involve repetitive behaviors and related with cognitive dysfunctions, frequently begin in early adolescence, which is a critical period for learning.
+Although the deterioration in cognitive functioning caused by these conditions may have adverse effects on information processing, such as text reading, there has been no comprehensive research on the objective indicators of altered reading patterns in these patients.
+Therefore, we evaluated eye-movement patterns during text reading in patients with OCD or IGD.
+In total, 20 patients with OCD, 28 patients with IGD and 24 healthy controls (HCs) participated in the reading task using an eye tracker.
+We compared the fixation durations (FDs), saccade amplitudes and eye-movement regressions of the three groups during reading.
+We explored relationships between the parameters reflecting altered reading patterns and those reflecting the severity of clinical symptoms.
+The average FDs and forward saccade amplitudes did not differ significantly among the groups.
+There were more eye-movement regressions in patients with OCD than in patients with IGD and HCs.
+No correlation was found between altered eye-movement patterns during reading and the severity of clinical symptoms in any of the patient groups.
+The significantly increased number of regressions (NRs) in the OCD group during reading may reflect these patients' difficulties with inferential information processing, whereas the reading pattern in the IGD group is relatively intact.
+These findings suggest that patients with OCD and patients with IGD have different eye-movement patterns during reading reflecting distinct cognitive impairments in the two patient groups.

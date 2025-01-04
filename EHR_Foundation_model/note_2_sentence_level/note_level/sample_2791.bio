@@ -1,0 +1,87 @@
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+The	O
+patient	O
+is	O
+an	O
+80	O
+-	O
+year	O
+-	O
+old	O
+white	O
+female	O
+with	O
+history	O
+of	O
+atrial	B-problem
+fibrillation	I-problem
+,	O
+on	O
+Coumadin	B-problem
+,	O
+who	O
+presented	O
+as	O
+outpatient	O
+,	O
+complaining	O
+of	O
+increasing	B-problem
+fatigue	I-problem
+.	O
+
+CBC	B-test
+revealed	O
+microcytic	B-problem
+anemia	I-problem
+with	O
+hemoglobin	B-test
+of	O
+8	O
+.	O
+9	O
+.	O
+
+Stool	O
+dark	O
+brown	O
+,	O
+strongly	O
+OB	B-problem
+positive	I-problem
+.	O
+
+The	O
+patient	O
+denied	O
+any	B-problem
+shortness	I-problem
+of	I-problem
+breath	I-problem
+.	O
+
+No	O
+chest	B-problem
+pain	I-problem
+.	O
+
+No	O
+GI	B-problem
+complaints	I-problem
+.	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+ABCD	O
+for	O
+further	B-test
+evaluation	I-test
+.	O
+

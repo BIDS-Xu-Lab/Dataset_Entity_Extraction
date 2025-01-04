@@ -1,0 +1,9 @@
+Comorbidity adjustment is often performed during outcomes and health care resource utilization research.
+Our goal was to develop an efficient algorithm in structured query language (SQL) to determine the Elixhauser comorbidity index.
+We wrote an SQL algorithm to calculate the Elixhauser comorbidities from Diagnosis Related Group and International Classification of Diseases (ICD) codes.
+Validation was by comparison to expected comorbidities from combinations of these codes and to the 2013 Nationwide Readmissions Database (NRD).
+The SQL algorithm matched perfectly with expected comorbidities for all combinations of ICD-9 or ICD-10, and Diagnosis Related Groups.
+Of 13 585 859 evaluable NRD records, the algorithm matched 100% of the listed comorbidities.
+The SQL Elixhauser code was efficient and computationally identical to the SAS algorithm used for the NRD.
+This algorithm may be useful where preprocessing of large datasets in a relational database environment and comorbidity determination is desired before statistical analysis.
+A validated SQL procedure to calculate Elixhauser comorbidities and the van Walraven index from ICD-9 or ICD-10 discharge diagnosis codes has been published.

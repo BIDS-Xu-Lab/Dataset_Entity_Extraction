@@ -1,0 +1,10 @@
+Wastewater treatment plants (WWTPs) receive wastewater containing antibiotic resistant bacteria (ARB) and antibiotic resistant genes (ARGs), which are predominant contributors to environmental pollution in water and soil.
+Of these sources, sludge is a more significant contributor than effluent.
+Knowing how sludge treatment affects the fate of ARGs is vital for managing the risk of these genes in both human and natural environments.
+This review therefore discusses the sources and transmission of ARGs in the environment and highlights the risks of ARGs in sludge.
+The effects of co-existing constituents (heavy metals, microplastics, etc.) on sludge and ARGs during treatment are collated to highlight the difficulty of treating sludge with complex constituents in ARGs.
+The effects of various sludge treatment methods on the abundances of ARGs in sludge and in soil from land application of treated sludge are discussed, pointing out that the choice of sludge treatment method should take into account various potential factors, such as soil and soil biology in subsequent land application.
+This review offers significant insights and explores the abundances of ARGs throughout the process of sludge treatment and disposal.
+Unintentional addition of antibiotic residues, heavy metals, microplastics and organic matter in sludge could significantly increase the abundance and reduce the removal efficiency of ARGs during treatment, which undoubtedly adds a barrier to the removal of ARGs from sludge treatment.
+The complexity of the sludge composition and the diversities of ARGs have led to the fact that no effective sludge treatment method has so far been able to completely eliminate the ecological risk of ARGs.
+In order to reduce risks resulting by transmission of ARGs, technical and management measures need to be implemented.

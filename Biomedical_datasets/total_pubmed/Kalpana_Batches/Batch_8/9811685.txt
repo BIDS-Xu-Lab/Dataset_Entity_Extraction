@@ -1,0 +1,13 @@
+The Epstein-Barr virus (EBV) Zta and Mta regulatory proteins were previously found to be required for efficient replication of oriLyt in cotransfection-replication assays, but the contribution of Mta to the replication process was unknown.
+We now demonstrate that Mta regulates replication gene expression.
+Using the polymerase processivity factor BMRF1 as an example, we found that in transfected cells, total BMRF1 mRNA levels were unaffected by Mta but that the amounts of cytoplasmic BMRF1 RNA and protein were greatly increased in the presence of Mta.
+Mta also increased cytoplasmic accumulation of the BALF2, BALF5, BSLF1, and BBLF4 replication gene mRNAs but did not affect cytoplasmic levels of BBLF2/3 mRNA.
+Thus, five of the six core replication genes require Mta for efficient accumulation of cytoplasmic RNA.
+The contribution of Mta to posttranscriptional RNA processing was examined.
+Examination of Mta localization in transfected cells by indirect immunofluorescence revealed that Mta colocalized with the splicing factor SC35.
+We also found that Mta has RNA binding activity.
+Glutathione S-transferase-Mta bound to BMRF1 and BMLF1 transcripts but not to a control cellular gene RNA.
+Mta contains a consensus leucine-rich nuclear export signal.
+Such signal sequences are characteristic of proteins that undergo nuclear export.
+Examination of Mta localization in a heterokaryon assay provided evidence that Mta shuttles between the nucleus and the cytoplasm.
+Our experiments indicate that Mta functions in RNA processing and transport and mediates cytoplasmic accumulation of a number of EBV early mRNAs.

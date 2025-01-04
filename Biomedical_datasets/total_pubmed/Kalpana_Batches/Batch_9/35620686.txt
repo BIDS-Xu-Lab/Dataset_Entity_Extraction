@@ -1,0 +1,10 @@
+Heveins and hevein-containing (hev-) lectins play important roles in stress and pathogenic responses in plants but cause health concerns in humans.
+Hev-hololectins contain multiple modular hev-peptide domains and are abundantly present in cereals and pseudocereals.
+However, it is unclear why some cereal hev-hololectins are presented as different forms of proteolytically processed proteoforms.
+Here we show the precursor architectures of hev-hololectins lead to different processing mechanisms to give either hololectins or hevein-like peptides.
+We used mass spectrometry and datamining to screen hev-peptides from common cereals, and identified from the oat plant Avena sativa nine novel hevein-like peptides, avenatide aV1-aV9.
+Bioinformatic analysis revealed that asparaginyl endopeptidase (AEP) can be responsible for the maturation of the highly homologous avenatides from five oat hev-hololectin precursors, each containing four tandemly repeating, hev-like avenatide domains connected by AEP-susceptible linkers with 13-16 residues in length.
+Further analysis of cereal hev-hololectins showed that the linker lengths provide a distinguishing feature between their cleavable and non-cleavable precursors, with the cleavables having considerably longer linkers (>13 amino acids) than the non-cleavables (<6 amino acids).
+A detailed study of avenatide aV1 revealed that it contains eight cysteine residues which form a structurally compact, metabolic-resistant cystine-knotted framework with a well-defined chitin-binding site.
+Antimicrobial assays showed that avenatide aV1 is anti-fungal and inhibits the growth of phyto-pathogenic fungi.
+Together, our findings of cleavable and non-cleavable hololectins found in cereals expand our knowledge to their biosynthesis and provide insights for hololectin-related health concerns in human.

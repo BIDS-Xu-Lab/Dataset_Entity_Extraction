@@ -1,0 +1,12 @@
+Because patients homozygous for Huntington disease (HD) receive the gain-of-function mutation in a double dose, one would expect a more toxic effect in homozygotes than in heterozygotes.
+Our aim was to investigate the phenotypic differences between homozygotes with both alleles ≥36 CAG repeats and heterozygotes with 1 allele ≥36 CAG repeats.
+This was an international, longitudinal, case-control study (European Huntington's Disease Network Registry database).
+Baseline and longitudinal total functional capacity, motor, cognitive, and behavioral scores of the Unified Huntington's Disease Rating Scale (UHDRS) were compared between homozygotes and heterozygotes.
+Four-year follow-up data were analyzed using longitudinal mixed-effects models.
+To estimate the association of age at onset with the length of the shorter and larger allele in homozygotes and heterozygotes, regression analysis was applied.
+Of 10,921 participants with HD (5,777 female [52.9%] and 5,138 male [47.0%]) with a mean age of 55.1 ± 14.1 years, 28 homozygotes (0.3%) and 10,893 (99.7%) heterozygotes were identified.
+After correcting for multiple comparisons, homozygotes and heterozygotes had similar age at onset and UHDRS scores and disease progression.
+In the multivariate linear regression analysis, the longer allele was the most contributing factor to decreased age at HD onset in the homozygotes (p < 0.0001) and heterozygotes (p < 0.0001).
+CAG repeat expansion on both alleles of the HTT gene is infrequent.
+Age at onset, HD phenotype, and disease progression do not significantly differ between homozygotes and heterozygotes, indicating similar effect on the mutant protein.
+This study provides Class II evidence that age at onset, the motor phenotype and rate of motor decline, and symptoms and signs progression is similar in homozygotes compared to heterozygotes.

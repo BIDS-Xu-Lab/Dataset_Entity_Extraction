@@ -1,0 +1,10 @@
+This study compares the demographic predictors of items assessing attitudes towards drinking across Hispanic national groups.
+Data were from the 2006 Hispanic Americans Baseline Alcohol Survey (HABLAS), which used a multistage cluster sample design to interview 5,224 individuals randomly selected from the household population in Miami, New York, Philadelphia, Houston, and Los Angeles.
+Predictive invariance of demographic predictors of alcohol attitudes over four Hispanic national groups (Puerto Rican, Cuban, Mexican, and South/Central Americans) was examined using multiple-group seemingly unrelated probit regression.
+The analyses examined whether the influence of various demographic predictors varied across the Hispanic national groups in their regression coefficients, item intercepts, and error correlations.
+The hypothesis of predictive invariance was supported.
+Hispanic groups did not differ in how demographic predictors related to individual attitudinal items (regression slopes were invariant).
+In addition, the groups did not differ in attitudinal endorsement rates once demographic covariates were taken into account (item intercepts were invariant).
+Although Hispanic groups have different attitudes about alcohol, the influence of multiple demographic characteristics on alcohol attitudes operates similarly across Hispanic groups.
+Future models of drinking behavior in adult Hispanics need not posit moderating effects of group on the relation between these background characteristics and attitudes.
+Y: Hispanic Americans Baseline Alcohol Survey (HABLAS) (No need to annotate, just for notice).

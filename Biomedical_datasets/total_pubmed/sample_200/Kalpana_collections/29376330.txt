@@ -1,0 +1,7 @@
+Lithium-sulfur (Li-S) batteries are promising candidates for high-energy storage devices due to high theoretical capacities of both the sulfur cathode and lithium (Li) metal anode.
+Considerable efforts have been devoted to improving sulfur cathodes.
+However, issues associated with Li anodes, such as low Coulombic efficiency (CE) and growth of Li dendrites, remain unsolved due to unstable solid-electrolyte interphase (SEI) and lead to poor capacity retention and a short cycling life of Li-S batteries.
+In this work, we demonstrate a facile and effective approach to fabricate a flexible and robust hybrid SEI layer through co-deposition of aromatic-based organosulfides and inorganic Li salts using poly(sulfur-random-1,3-diisopropenylbenzene) as an additive in an electrolyte.
+The aromatic-based organic components with planar backbone conformation and π-π interaction in the SEI layers can improve the toughness and flexibility to promote stable and high efficient Li deposition/dissolution.
+The as-formed durable SEI layer can inhibit dendritic Li growth, enhance Li deposition/dissolution CE (99.1% over 420 cycles), and in turn enable Li-S batteries with good cycling stability (1000 cycles) and slow capacity decay.
+This work demonstrates a route to address the issues associated with Li metal anodes and promote the development of high-energy rechargeable Li metal batteries.

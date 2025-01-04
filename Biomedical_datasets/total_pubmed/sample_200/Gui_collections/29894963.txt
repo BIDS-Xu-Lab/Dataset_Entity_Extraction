@@ -1,0 +1,13 @@
+During growth and senescence, fungal fruiting bodies accumulate essential and non-essential elements to different extent in their compartments.
+This study bases on a dataset of 32 basidiocarps of the ectomycorrhizal Lactarius pubescens sampled in a former U mining area.
+Statistical analyses were combined with rare earth element (REE, La-Lu) patterns to study the element distribution within sporocarp compartments and between three different age classes.
+For this purpose, fruiting bodies were separated into stipe, pileus trama, pileipelles and lamellae, dried and digested with HNO3.
+While macronutrient (e.g. K, Mg, P, S) contents resemble those of a non-mining affected site, several elements (e.g. Co, Mn) were site-specifically taken up relative to elevated soil contents.
+With statistics, two main element distribution groups for L. pubescens were revealed: mainly essential (Cu, Mg, Mn, P, S, Zn, Cd, Co, Ni) and mainly non-essential elements (Al, Ca, Fe, Sr, U, REE).
+The highest REE contents were found in pileipelles and lamellae, corresponding to relatively small cell sizes.
+Stipes and pileus trama had low REE contents due to their function as transport systems.
+During growth, light REE (La-Nd) were strongly enriched in lamellae and pileipelles.
+Middle REE (Sm-Dy) enrichment was found both in soil and fungal biomass.
+Contents of nutrients decrease with age, while non-essential elements are enriched especially in pileipelles and lamellae.
+A weak positive Ce anomaly appeared in the bioavailable soil fraction and in the pileipelles of younger individuals.
+Substrate dependent uptake thus gets reduced with sporocarp senescence, possibly due to redistribution.

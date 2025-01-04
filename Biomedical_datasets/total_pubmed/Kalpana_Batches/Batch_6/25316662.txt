@@ -1,0 +1,8 @@
+Prothrombin (FII) A19911G and C20221T gene variants are associated with increased prothrombin levels and potentially represent thrombotic risk factors.
+To determine the frequency of A19911G and C20221T FII gene variants in patients with thrombotic disorders and in women who have experienced pregnancy loss (PL).
+We determined the frequency of these variants in 133 patients with deep venous thrombosis (DVT), 80 patients with isolated pulmonary embolism (PE), 101 patients with idiopathic PL, and 180 control individuals.
+The FII A19911G variant was more prevalent in patients with DVT and with PL compared with controls; however, these differences were not statistically significant.
+The 19911GG genotype was associated with increased risk of PE (odds ratio, 1.91; 95% confidence interval, 1.04-3.51).
+We did not detect carriers of the FII C20221T gene variant in this study.
+This is the first study, to our knowledge, that demonstrates the FII 19911GG genotype may represent a risk factor for isolated PE.
+Also, our results show that the FII C20221T is a rare variant in this population and therefore, routine thrombophilia screening should not include screening for this genotype.

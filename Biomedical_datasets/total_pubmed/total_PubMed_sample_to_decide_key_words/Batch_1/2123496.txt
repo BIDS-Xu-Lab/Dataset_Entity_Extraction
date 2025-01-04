@@ -1,0 +1,11 @@
+Inhibin bioactivity and mRNA for inhibin subunits were measured in four dog Sertoli cell tumours and in the testes of five normal control dogs.
+The tumours contained increased levels of inhibin (P less than 0.05) and mRNA for the alpha and beta B subunits when compared with controls, whereas the mRNA for the beta A subunit was not detected in tumours or control testes.
+The inhibin bioactivity was associated with a 32 kDa molecule in both Sertoli cell tumours and normal dog testes; no higher molecular weight forms were found after sodium dodecyl sulphate-polyacrylamide gel electrophoresis.
+Peripheral levels of immunoassayable inhibin in dogs with Sertoli cell tumours were higher than those in the controls (P = 0.01), indicating that it might be possible to use this parameter as a marker for Sertoli cell tumours.
+Other testicular tumours, however, might also secrete immunoactive inhibin.
+The increased inhibin concentrations are likely to be the cause of the suppressed peripheral levels of FSH (P less than 0.02).
+However, peripheral levels of LH (P less than 0.02) and testosterone (P less than 0.01) were also suppressed in the dogs with Sertoli cell tumours, whereas the concentrations of oestradiol in the peripheral plasma of both groups did not differ.
+Finally, i.v. injection of the LHRH agonist buserelin caused a significant increase in LH and testosterone in the control dogs, but not in the dogs with Sertoli cell tumours.
+It was concluded that secretory products from the Sertoli cell tumours suppressed pituitary gonadotrophin secretion.
+It is unlikely that testosterone or oestradiol play a role in this respect.
+FSH may be suppressed by the high levels of inhibin in tumour-bearing dogs, but it remains unclear whether inhibin or another Sertoli cell product is responsible for the unresponsiveness of the pituitary gland to LHRH and the suppression of LH.

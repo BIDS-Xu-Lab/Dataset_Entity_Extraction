@@ -1,0 +1,10 @@
+The aim of this study was to investigate the impact of liver cirrhosis (LC) on postoperative complications and long-term outcomes in patients who underwent cardiac surgery.
+Three databases, including PubMed, Embase, and the Cochrane Library, were searched on July 24, 2022.
+A total of 1,535,129 patients were enrolled in the seven included studies for analysis.
+According to our analysis, LC was a risk factor for postoperative overall complications (OR = 1.48, 95% CI = 1.21 to 1.81, I2 = 90.35%, P = 0.00 < 0.1).
+For various complications, more patients developed pulmonary (OR = 1.86, 95% CI = 1.21 to 2.87, I2 = 90.79%, P = 0.00 < 0.1), gastrointestinal (OR = 2.03, 95% CI = 1.32 to 3.11, I2 = 0.00%, P = 0.00 < 0.05), renal (OR = 2.20, 95% CI = 1.41 to 3.45, I2 = 91.60%, P = 0.00 < 0.1), neurological (OR = 1.14, 95% CI = 1.03 to 1.26, I2 = 7.35%, P = 0.01 < 0.05), and infectious (OR = 2.02, 95% CI = 1.17 to 3.50, I2 = 92.37%, P = 0.01 < 0.1) complications after surgery in the LC group.
+As for cardiovascular (OR = 1.07, 95% CI = 0.85 to 1.35, I2 = 75.23%, P = 0.58 > 0.1) complications, there was no statistical significance between the 2 groups.
+As for long-term outcomes, we found that in-hospital death (OR = 2.53, 95% CI = 1.86 to 3.20, I2 = 44.58%, P = 0.00 < 0.05) and death (OR = 3.31, 95% CI = 1.54 to 5.07, I2 = 93.81%, P = 0.00 < 0.1) in the LC group were higher than the non-LC group.
+LC was a risk factor for cardiac surgery.
+Patients with LC who would undergo cardiac surgery should be fully assessed for the risks of cardiac surgery.
+Similarly, the surgeon should assess the patient's liver function before surgery.

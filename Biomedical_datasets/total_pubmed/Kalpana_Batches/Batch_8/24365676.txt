@@ -1,0 +1,9 @@
+At rest, brain activity can be characterized not by an absence of organized activity but instead by spatially and temporally correlated patterns of activity.
+In this experiment, we investigated whether and to what extent resting state functional connectivity is modulated by sex hormones in women, both across the menstrual cycle and when altered by oral contraceptive pills.
+Sex hormones have been shown to have important effects on task-related activity, but few studies have investigated the extent to which they can influence the behavior of functional networks at rest.
+These hormones are dramatically altered by the use of hormonal contraception, which is used by approximately 100 million women worldwide.
+However, potential cognitive side effects of hormonal contraception have been given little attention.
+Here, we collected resting state data for naturally-cycling women (n=45) and women using combined oral contraceptive pills (n=46) and evaluated the differences in resting state activity between these two groups using independent component analysis.
+We found that in the default mode network and in a network associated with executive control, resting state dynamics were altered both by the menstrual cycle and by oral contraceptive use.
+Specifically, the connectivity of the left angular gyrus, the left middle frontal gyrus, and the anterior cingulate cortex were different between groups.
+Because the anterior cingulate cortex and left middle frontal gyrus are important for higher-order cognitive and emotional processing, including conflict monitoring, changes in the relationship of these structures to the functional networks with which they interact may have important consequences for attention, affect, and/or emotion regulation.

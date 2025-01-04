@@ -1,0 +1,5 @@
+Analysis of Fusarium head blight (FHB) pathogen diversity revealed that 3ADON producing Fusarium graminearum are prevalent in North America and identified significant population structure associated with trichothecene chemotype differences (F(ST)>0.285; P<0.001).
+In addition, we identified a trichothecene chemotype cline in Canada and documented a recent and significant shift in FHB pathogen composition by demonstrating that the 3ADON chemotype frequency in western Canada increased more than 14-fold between 1998 and 2004.
+On average, isolates from 3ADON populations produced significantly (P<0.05) more trichothecene and had significantly (P<0.005) higher fecundity and growth rates than isolates from the 15ADON population.
+These results indicate that selection is driving the rapid spread of an introduced pathogen population that is more toxigenic and potentially more vigorous.
+The discovery of this previously unrecognized pathogen diversity has significant implications for food safety and cereal production in North America.

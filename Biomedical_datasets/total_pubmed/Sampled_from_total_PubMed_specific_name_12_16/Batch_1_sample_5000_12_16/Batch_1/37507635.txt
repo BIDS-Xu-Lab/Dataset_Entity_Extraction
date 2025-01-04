@@ -1,0 +1,11 @@
+Black adults are more likely to consume meals from fast-food restaurants than other racial/ethnic groups with implications for disparities in dietary quality and obesity outcomes.
+Family and economic characteristics are associated with fast-food consumption.
+The aim of this study was to determine the association between household composition, income, and fast-food consumption among Black women and men.
+A cross-sectional, secondary analysis of nationally representative data from the 2011-2018 National Health and Nutrition Examination Survey using multiplicative interaction terms and negative binomial regressions were used to assess whether household income moderated associations between number of children or older adults in the household and number of weekly fast-food meals consumed.
+Household composition was not associated with fast-food consumption among Black women overall.
+Yet, demonstrated by a significant interaction (incidence rate ratio (IRR) = 3.41, 95% confidence interval (CI) = 1.59-7.32), Black women with higher household income (≥ $75,000) and multiple young children consumed more fast-food compared to women with no children in the household.
+In contrast, Black men with one school-aged child in the home consumed fewer weekly fast-food meals than men with no school-aged children in the home (IRR = 0.69, 95% CI = 0.51-0.93).
+A significant interaction between number of older adults in the household and household income ≥ $75,000 (IRR = 3.56, 95% CI = 1.59-8.01) indicated that Black men with lower incomes and at least one older adult in the household consumed fewer weekly fast-food meals.
+These findings demonstrate that household composition and household income interact on fast-food consumption among Black women and men.
+Future studies should interrogate these differences, while programs and policies can be informed by the results of this study.
+Y and the names: National Health and Nutrition Examination Survey (No need to annotate, just for notice).

@@ -1,0 +1,13 @@
+Background Homozygous familial hypercholesterolemia (HoFH) is a rare, treatment-resistant disorder characterized by early-onset atherosclerotic and aortic valvular cardiovascular disease if left untreated.
+Contemporary information on HoFH in the United States is lacking, and the extent of underdiagnosis and undertreatment is uncertain.
+Methods and Results Data were analyzed from 67 children and adults with clinically diagnosed HoFH from the CASCADE (Cascade Screening for Awareness and Detection) FH Registry.
+Genetic diagnosis was confirmed in 43 patients.
+We used the clinical characteristics of genetically confirmed patients with HoFH to query the Family Heart Database, a US anonymized payer health database, to estimate the number of patients with similar lipid profiles in a "real-world" setting.
+Untreated low-density lipoprotein cholesterol levels were lower in adults than children (533 versus 776 mg/dL; P=0.001).
+At enrollment, atherosclerotic cardiovascular disease and supravalvular and aortic valve stenosis were present in 78.4% and 43.8% and 25.5% and 18.8% of adults and children, respectively.
+At most recent follow-up, despite multiple lipid-lowering treatment, low-density lipoprotein cholesterol goals were achieved in only a minority of adults and children.
+Query of the Family Heart Database identified 277 individuals with profiles similar to patients with genetically confirmed HoFH.
+Advanced lipid-lowering treatments were prescribed for 18%; 40% were on no lipid-lowering treatment; atherosclerotic cardiovascular disease was reported in 20%; familial hypercholesterolemia diagnosis was uncommon.
+Conclusions Only patients with the most severe HoFH phenotypes are diagnosed early.
+Results from the Family Heart Database indicate HoFH is systemically underdiagnosed and undertreated.
+Earlier screening, aggressive lipid-lowering treatments, and guideline implementation are required to reduce disease burden in HoFH.

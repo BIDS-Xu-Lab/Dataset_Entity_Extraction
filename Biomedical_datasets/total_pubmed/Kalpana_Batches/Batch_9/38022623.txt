@@ -1,0 +1,15 @@
+The immune response assumes a pivotal role in the underlying mechanisms of urticaria pathogenesis.
+The present study delves into an investigation of the genetic causal connections between urticaria and prevalent autoimmune afflictions, notably rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), ulcerative colitis (UC), and Crohn's disease (CD).
+A bidirectional two-sample Mendelian randomization (MR) analysis was conducted to investigate the causal relationships involving four autoimmune diseases and urticaria.
+The genome-wide association study (GWAS) summary data of four autoimmune disease were sourced from the IEU OpenGWAS database.
+The GWAS summary data for urticaria were derived from the Finnish consortium dataset.
+The principal analytical approach employed in this study was the random-effects inverse variance weighted (IVW) method.
+Subsequently, a series of sensitivity analyses were performed, encompassing assessments of heterogeneity, horizontal pleiotropy, outliers, "Leave-one-out" analyses, and tests for adherence to the assumption of normal distribution.
+Conversely, SLE, UC, and CD do not exhibit a significant genetic causal relationship with urticaria.
+However, the analysis demonstrates no substantial genetic causal relationship between urticaria and RA, UC, or CD.
+Importantly, the genetic causal assessment absence of heterogeneity, horizontal pleiotropy, and outliers.
+Furthermore, it remains unaffected by any individual single nucleotide polymorphism (SNP), demonstrating adherence to a normal distribution.
+This investigation establishing RA as a predisposing factor for urticaria.
+Moreover, urticaria as a plausible risk determinant for SLE.
+Heightened vigilance is recommended among RA patients to monitor the manifestation of urticaria within clinical settings.
+Similarly, individuals afflicted by urticaria should duly acknowledge the prospective susceptibility to SLE.

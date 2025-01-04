@@ -1,0 +1,67 @@
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+Ms	O
+.	O
+
+A	O
+is	O
+a	O
+27	O
+-	O
+year	O
+-	O
+old	O
+woman	O
+,	O
+who	O
+suffered	O
+from	O
+morbid	B-problem
+obesity	I-problem
+for	O
+many	O
+years	O
+.	O
+
+She	O
+has	O
+made	O
+multiple	O
+attempts	O
+at	O
+nonsurgical	O
+weight	O
+loss	O
+without	O
+success	O
+.	O
+
+She	O
+underwent	O
+a	O
+preoperative	O
+workup	O
+and	O
+clearance	O
+for	O
+gastric	B-treatment
+bypass	I-treatment
+and	O
+was	O
+found	O
+to	O
+be	O
+an	O
+appropriate	O
+candidate	O
+.	O
+
+She	O
+underwent	O
+her	O
+procedure	O
+.	O
+

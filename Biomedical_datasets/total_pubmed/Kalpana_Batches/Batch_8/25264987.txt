@@ -1,0 +1,12 @@
+To investigate the reproducibility of anterior segment angle (ACA) metrics measurements in normal subjects on Cirrus spectral domain optical coherence tomography (SD-OCT).
+40 eyes from 20 healthy, normal subjects underwent anterior segment imaging using a Cirrus SD-OCT.
+For each eye, 2 acquisitions of 5-line raster scans were performed perpendicularly on the inferior (270 degrees) angle.
+The Schwalbe's line-angle opening distance (SL-AOD) and Schwalbe's line-trabecular-iris space area (SL-TISA) measurements were performed by masked certified reading center graders using customized grading software.
+Intra-acquisition, intergrader, and intragrader reproducibility of SL-AOD and SL-TISA measurements were evaluated by intraclass correlation coefficients (ICC), Bland-Altman plots, and computation of mean percent difference (MPD) and coefficient of variability (CV).
+The mean SL-AOD (average of 2 acquisitions) was 0.75 mm (range, 0.32 mm to 1.39 mm); SL-TISA was 0.28 mm² (range, 0.082 mm² to 0.569 mm²).
+The repeatability of Cirrus SD-OCT was excellent for both SL-AOD (MPD 4.74%, CV=0.92, ICC=0.99) and SL-TISA (MPD 9.4%, CV=0.8, ICC=0.99).
+The intragrader reproducibility was high for SL-AOD (MPD 4.28%, CV=0.94, ICC=0.995) and SL-TISA (MPD 6.05%, CV=0.89, ICC=0.993).
+The inter-grader reproducibility was not as good but still excellent for both SL-AOD (MPD 15.47%, CV=0.95, ICC=0.94) and SL-TISA (MPD 19.43%, CV=0.99, ICC=0.93).
+Bland-Altman plots of all comparisons did not demonstrate any apparent bias, with similar repeatability at various SL-AOD and SL-TISA values.
+In our population of young healthy adults with normal eyes, there was excellent intra-acquisition, intragrader, and intergrader reproducibility for Schwalbe's line-based ACA metrics obtained from Cirrus SD-OCT images.
+These SD-OCT-derived measures may serve as reliable descriptors of angle morphometry for use in clinical trials and clinical practice.

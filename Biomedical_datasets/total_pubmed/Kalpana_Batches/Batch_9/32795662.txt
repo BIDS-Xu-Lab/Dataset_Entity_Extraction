@@ -1,0 +1,7 @@
+Natural products continue to be the inspirations for us to discover and acquire new drugs.
+The seemingly unstoppable viruses have kept records high to threaten human health and well-being.
+The diversity and complexity of natural products (NPs) offer remarkable efficacy and specificity to target viral infection steps and serve as excellent source for antiviral agents.
+The discovery and production of antiviral NPs remain challenging due to low abundance in their native hosts.
+Reconstruction of NP biosynthetic pathways in microbes is a promising solution to overcome this limitation.
+In this review, we surveyed 23 most prominent NPs (from more than 200 antiviral NP candidates) with distinct antiviral mode of actions and summarized the recent metabolic engineering effort to produce these compounds in various microbial hosts.
+We envision that the scalable and low-cost production of novel antiviral NPs, enabled by metabolic engineering, may light the hope to control and eradicate the deadliest viruses that plague our society and humanity.

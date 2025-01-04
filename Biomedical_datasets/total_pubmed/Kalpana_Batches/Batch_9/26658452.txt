@@ -1,0 +1,8 @@
+Postnatal inflammatory lymphangiogenesis presumably requires precise regulatory processes to properly assemble proliferating lymphatic endothelial cells (LECs).
+The specific mechanisms that regulate the assembly of LECs during new lymphatic vessel synthesis are unclear.
+Dynamic endothelial shuffling and rearrangement has been proposed as a mechanism of blood vessel growth.
+We developed genetic lineage-tracing strategies using an inductive transgenic technology to track the fate of entire tandem dimer tomato-positive (tdT) lymphatic vessels or small, in some cases clonal, populations of LECs.
+We coupled this platform with a suture-induced mouse model of corneal lymphangiogenesis and used different analytic microscopy techniques including serial live imaging to study the spatial properties of proliferating tdT(+) LEC progenies.
+LEC precursors and their progeny expanded from the corneal limbal lymphatic vessel and were assembled contiguously to comprise a subunit within a new lymphatic vessel.
+VE-cadherin blockade induced morphologic abnormalities in newly synthesized lymphatic vessels, but did not disrupt the tdT(+) lymphatic endothelial lineage assembly.
+Analysis of this static and dynamic data based largely on direct in vivo observations supports a model of lymphatic endothelial lineage assemblage during corneal inflammatory lymphangiogenesis.

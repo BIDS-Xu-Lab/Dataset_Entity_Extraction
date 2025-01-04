@@ -1,0 +1,8 @@
+The plasma concentrations of brain natriuretic peptide (BNP), a cardiac hormone, were measured in 30 consecutive adult patients undergoing cardiac surgery with cardiopulmonary bypass (CPB) during the perioperative period.
+BNP concentrations remained unchanged until 6 h after the cessation of bypass, and were elevated 12, 24, and 48 h post-bypass (P < 0.0001 versus baseline).
+They had returned to the baseline values when measured 3 weeks postoperatively.
+The preoperative plasma BNP concentration correlated significantly with the left ventricular ejection fraction (r = -0.895).
+The peak plasma BNP concentration 24 h after bypass correlated with the cardiac index (r = -0.64), stroke volume index (r = -0.62), injection rate of dopamine hydrochloride (r = 0.65), and aortic crossclamp time (r = 0.57).
+There was also a significant correlation between the preoperative BNP concentration and the plasma BNP concentration 24 h post-CPB.
+These findings led us to conclude that the plasma concentrations of BNP become markedly and acutely elevated after cardiac surgery with CPB, and reflect the state of left ventricular function.
+Moreover, the severity of acute heart failure after cardiac surgery can be predicted by the preoperative plasma BNP concentration.

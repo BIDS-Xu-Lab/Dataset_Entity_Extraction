@@ -1,0 +1,14 @@
+Chronic edema care is patchy and of variable quality internationally.
+This study was undertaken to develop and evaluate a system of care that would provide for patients within a geographical area of London (Wandsworth), United Kingdom.
+A prospective cohort design with intervention of a new service design following a 6-month baseline period.
+Patients were identified through health professionals.
+A stratified random sample was drawn from all patients and an implementation strategy developed.
+Clinical assessment combined with questionnaires evaluated clinical, patient, and health service outcomes at 6-month periods.
+In all, 312 patients were identified in community and acute services giving a crude ascertainment rate of 1.16 per 1000 population.
+The random sample of 107 was mostly female (82%) with mean (standard deviation) age of 72.9 (12.4) in men and 68.6 (15.0) years in women.
+Mean reductions in limb volume achieved statistical differences at 6-12 months after implementation (difference [d] = 115 mL, p = 0.0001).
+Incidence of cellulitis dropped from 41.5/100 patient years at baseline to zero at 6-12 months.
+Quality of life showed greatest improvements between baseline and 6 months postimplementation, the largest differences being in role physical (d = 32.7, p = 0.0001) and role emotion (d = 24.0, p < 0.0001).
+EuroQol increased following implementation by a mean score of 0.05 (p = 0.007).
+There was a reduction in 6 monthly healthcare costs from £50171 per 100 patients at baseline to £17618 between 6 and 12 months.
+This process of implementation improves health outcomes while reducing healthcare costs in patients with lymphedema.

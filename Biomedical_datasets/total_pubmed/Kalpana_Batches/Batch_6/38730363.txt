@@ -1,0 +1,11 @@
+The role of diet quality on malnutrition in older adults is uncertain, due the paucity of the research conducted and the use of use of screening tools that did not consider phenotypic criteria of malnutrition.
+To evaluate the association of two indices of diet quality, namely the Mediterranean Diet Adherence Screener (MEDAS) and the Alternative Healthy Eating Index (AHEI-2010), with malnutrition among community-dwelling older adults in Spain.
+Cross-sectional analysis of data from 1921 adults aged ≥ 60 years from the Seniors-ENRICA-1 (SE-1) study, and 2652 adults aged ≥ 65 years from the Seniors-ENRICA-2 (SE-2) study.
+Habitual food consumption was assessed through a validated diet history.
+Malnutrition was defined according to the Global Leadership Initiative on Malnutrition (GLIM) phenotypic criteria.
+Statistical analyses were performed with logistic regression with adjustment for socioeconomic and lifestyle variables as well as for total energy and protein intake.
+The prevalence of malnutrition in the SE-1 study was 9.5% (95% confidence interval: 8.2 to 10.9) and 11.7% (10.5 to 13.9) in the SE-2.
+Adherence to the MEDAS score was associated with lower prevalence of malnutrition [pooled odds ratio for high (≥ 9 points) vs. low adherence (< 7 points): 0.64 (0.48-0.84); p-trend < 0.001].
+Higher adherence to the AHEI-2010 also showed an inverse association with malnutrition (pooled odds ratio for quartile 4 vs. 1: 0.65 (0.49-0.86); p-trend 0.006).
+Among the individual components, higher consumption of fish and long-chain n-3 fatty acids in MEDAS and AHEI-2010, and of vegetables and nuts and legumes in AHEI-2010, and lower intake of trans-fat and sugar-sweetened beverages and fruit juice in AHEI-2010 were independently associated with lower odds of malnutrition.
+Adherence to high diet-quality patterns was associated with lower frequency of malnutrition among older adults.

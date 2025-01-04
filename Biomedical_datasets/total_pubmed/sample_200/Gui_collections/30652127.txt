@@ -1,0 +1,6 @@
+Optogenetic approaches have gathered momentum in precisely modulating and interrogating cellular signalling and gene expression.
+The use of optogenetics on the outer cell surface to interrogate how cells receive stimuli from their environment, however, has so far not reached its full potential.
+Here we demonstrate the development of an optogenetically regulated membrane receptor-ligand pair exemplified by the optically responsive interaction of an integrin receptor with the extracellular matrix.
+The system is based on an integrin engineered with a phytochrome-interacting factor domain (OptoIntegrin) and a red light-switchable phytochrome B-functionalized matrix (OptoMatrix).
+This optogenetic receptor-ligand pair enables light-inducible and -reversible cell-matrix interaction, as well as the controlled activation of downstream mechanosensory signalling pathways.
+Pioneering the application of optogenetic switches in the extracellular environment of cells, this OptoMatrix-OptoIntegrin system may serve as a blueprint for rendering matrix-receptor interactions amendable to precise control with light.

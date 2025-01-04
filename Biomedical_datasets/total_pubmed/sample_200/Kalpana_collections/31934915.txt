@@ -1,0 +1,9 @@
+Human papillomavirus (HPV) is a principal driver for most oropharyngeal squamous cell carcinomas (OPSCCs), where it is strongly associated with improved survival.
+HPV is much less frequently detected in squamous cell carcinomas arising in nonoropharyngeal sites (non-OPSCCs), and its pathogenic role and prognostic value in these tumors is unclear.
+We evaluated the clinicopathologic features of 52 non-OPSCCs considered HPV-positive based upon p16 immunohistochemistry and direct HPV detection using RNA in situ hybridization (ISH), DNA ISH, or real-time DNA polymerase chain reaction.
+The HPV-positive non-OPSCCs were from the larynx (n=27), oral cavity (n=21), and hypopharynx (n=4).
+While most cases (n=34, 65%) showed classic histologic features of HPV-positive OPSCC, including endophytic growth, minimal keratinization, and hyperchromatic nuclei without koilocytic changes, a subset (n=13, 25%) were characterized by exophytic growth, exuberant surface hyperkeratosis and parakeratosis, marked nuclear pleomorphism, and prominent koilocytic atypia.
+These antithetical features were highly reminiscent of the warty variant of HPV-positive squamous cell carcinoma described in anogenital sites.
+Compared with tumors without warty features, the warty tumors presented at lower stage and were not associated with lymph node metastasis, local recurrence, or distant spread (4 y disease-free survival of 100% vs. 66%, P=0.069).
+The presence of transcriptionally active HPV as detected by RNA ISH suggests a pathogenic role for HPV in these nonoropharyngeal sites.
+While most HPV-positive non-OPSCCs are morphologically similar to their tonsillar counterparts, this study highlights a previously unrecognized warty variant that may be associated with a highly favorable clinical outcome.

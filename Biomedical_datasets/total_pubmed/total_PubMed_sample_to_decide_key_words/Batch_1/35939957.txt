@@ -1,0 +1,10 @@
+Helical magnetic nanomotors can be actuated using an external magnetic field and have potential applications in drug delivery, colloidal manipulation, and bio-microrheology.
+Recently, they have been maneuvered in biological environments such as vitreous humour, dentinal tubules, peritoneal fluid, stromal matrix, and blood, which are promising developments for clinical applications.
+However, their biocompatibility and biodistribution are vital parameters that must be assessed before further use.
+An extensive quantitative evaluation has been performed for these parameters for the first time through in vitro and in vivo experiments.
+Investigations of cell death, proliferation, and DNA damage ascertain that the motors are non-toxic.
+Also, an unbiased transcriptomic analysis affirms that the motors are not genotoxic till 20 motors/ cell.
+Toxicity studies in mice reveal that the motors show no signs of toxicity up to a dose of 55 mg/ kg body weight.
+Further, the biodistribution studies show that they remain in the blood circulation after injection and at later stages possibly adhere to the walls of the blood vessel because of adsorption.
+However, perfusion with physiological saline decreases this adsorption/adhesion.
+Overall, we demonstrate the biocompatibility of nanomotors in live cellular and organismal systems, and a systemic biodistribution analysis reveals organ-specific retention of motors.

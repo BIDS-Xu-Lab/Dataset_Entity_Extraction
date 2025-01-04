@@ -1,0 +1,15 @@
+Kidney stone risk factors are understudied among Asians.
+Our study objective was to investigate associations of obesity and other chronic diseases with incident kidney stones among the urban Chinese.
+Included in this study are two prospective cohorts: the Shanghai Women's Health Study (N = 69,166) and Shanghai Men's Health Study (N = 58,054).
+Incident kidney stones were determined by self-report in 2004 and 2008.
+Cox regression models were used to evaluate the associations of study variables with stone risk with adjustment of demographics, medical history, and dietary intakes.
+There were 2653 incident stones over 1,007,958 person-years of follow-up.
+Overall incidence rates (per 1000 person-years, 95% confidence interval [CI]) were 2.10 (1.99, 2.21) among women and 3.80 (3.59, 4.02) among men.
+High waist-hip ratio (≥0.80 and ≥0.90 for women and men, respectively) was associated with risk (HR 1.13, 95% CI 1.01, 1.27 for women; HR 1.19, 95% CI 1.05, 1.35 for men).
+Coronary heart disease or stroke history was associated with risk in women only (HR 1.31, 95% CI 1.10, 1.56).
+Hypertension history was associated with risk in men only (HR 1.27, 95% CI 1.11, 1.45).
+No significant association with diabetes mellitus was observed.
+Among the Chinese, kidney stone incidence in men is almost twice that of women.
+Obesity is a shared risk factor.
+Hypertension history is associated with risk in men, whereas history of coronary heart disease or stroke is associated with risk in women.
+Y: Shanghai Women's Health Study, Shanghai Men's Health Study (No need to annotate, just for notice).

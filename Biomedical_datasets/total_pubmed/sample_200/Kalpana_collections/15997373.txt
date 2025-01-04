@@ -1,0 +1,4 @@
+The potential for developing improved procedures for phosphate measurement through combinations of gel electrophoresis and quadrupole-based ICP mass spectrometry utilising (47)PO(+) is investigated.
+Laser ablation of gels offers a rapid and direct quantitation route, but is subject to high blanks due to P impurities in gels and associated reagents; nevertheless optimisation of laser sampling afforded improved method sensitivity (limit of detection 0.09 microg g(-1)).
+Implementation of whole gel elution (WGE) with FI-ICP-MS (conventional solution nebulisation) following gel electrophoresis permitted quantitation at the sub microg l(-1) level, and microcolumn processing (activated alumina) was effective at rejecting phosphate contamination.
+The potential for S-induced molecular ion interference at mass 47 was demonstrated.

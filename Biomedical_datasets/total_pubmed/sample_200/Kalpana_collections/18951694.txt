@@ -1,0 +1,9 @@
+Organotin compounds and their degradation products enter the environment mainly as a result of their use as biocides and antifouling paints.
+Analysis of these compounds in environmental samples has to be very sensitive and selective so that their concentrations corresponding to the low environmental target values can also be detected.
+Generally, analysis of a complex matrix leads to high interferences during the different process steps; clean-up procedures are recommended to overcome this problem.
+For the past many years, solid phase extraction by employing imprinted materials has been extensively used for many organic substances that are used for pre-concentration and clean-up purposes with excellent results.
+Here, we present three different imprinted polymers prepared via bulk, precipitation, and emulsion polymerization methods that use similar compositions.
+The synthesized polymer particles were characterized morphologically by employing scanning electron microscopy and Brunauer-Emmett-Teller analysis.
+Binding properties were calculated using the Langmuir-Freundlich isotherm.
+Depending on the properties of the materials, different analytical applications for complex matrices are proposed.
+These applications are mainly used on tributyltin and its degradation products for environmental analysis.

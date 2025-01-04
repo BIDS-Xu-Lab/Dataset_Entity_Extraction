@@ -1,0 +1,7 @@
+Conflict and displacement are associated with poverty, disruption of services, loss of identity, reduced care for reproductive needs, and reduced provision of health care, among other things.
+This article uses the framework outlined by Obermeyer and Potter to test how refugee and native status influence utilization of reproductive health services and experience with domestic violence in a context of high refugee inhabitants and strong refugee-focused non-governmental organization presence.
+This article addresses the following: (1) coverage, source, and method of contraceptives; (2) variation in reproductive health experience by source of contraception; and finally, (3) factors determining variation in the utilization of reproductive health services and domestic violence experiences for individuals living in and out of refugee camps.
+The data is the 2012 Jordan Demographic and Health Survey, and the method utilized is logistic regression.
+Findings suggest that refugee women serviced by the United Nations Relief and Works Agency have greater access to health-related resources (family planning and contraception), but they have weaker positions in the family as evidenced by domestic violence experiences.
+It is plausible that provisional resources are the easiest for an aid organization to provide, while the complications of identity loss and the loss of a sense of space pose a challenge for refugees and aid organizations.
+Y: 2012 Jordan Demographic and Health Survey (No need to annotate, just for notice).

@@ -1,0 +1,6 @@
+The aims of this study were as follows: to investigate the association between metabolic dysfunction-associated fatty liver disease (MAFLD) and health-related quality of life (HRQoL), to evaluate whether stress perception and mental health among patients with MAFLD affect HRQoL, and to identify the underrated burden on MAFLD patients.
+Nationwide data from the 5th Korean National Health and Nutrition Examination Survey (KNHANES V, 2010 to 2012) were used.
+MAFLD was defined by a fatty liver index (FLI) of ≥60, and the EuroQol-5D (EQ-5D) was used to assess HRQoL. Logistic regression analysis and odds ratios (ORs) were used to determine the associations of MAFLD with stress, mental health, and HRQoL. Previous suicidal impulse was not found to be significantly associated with HRQoL. The risk of MAFLD increased 1.265-fold with an increase in stress levels based on the stress perception rate (confidence index (CI): 1.046-1.530; p < 0.05), while it increased 1.091-fold with a 1-point decrease in the EQ-5D score (CI: 1.019-1.169; p < 0.05).
+HRQoL impairment and stress levels are associated with MAFLD.
+It is important to evaluate stress levels among MAFLD patients and implement stress management and HRQoL improvement strategies.
+Y KNHANES V, EuroQol-5D (EQ-5D) (No need to annotate, just for notice).

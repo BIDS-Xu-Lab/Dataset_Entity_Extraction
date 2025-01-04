@@ -1,0 +1,9 @@
+Melatonin is produced in the dark by the pineal gland and is a key regulator of circadian and seasonal rhythms.
+A low melatonin level has been reported in individuals with autism spectrum disorders (ASD), but the underlying cause of this deficit was unknown.
+The ASMT gene, encoding the last enzyme of melatonin synthesis, is located on the pseudo-autosomal region 1 of the sex chromosomes, deleted in several individuals with ASD.
+In this study, we sequenced all ASMT exons and promoters in individuals with ASD (n=250) and compared the allelic frequencies with controls (n=255).
+Non-conservative variations of ASMT were identified, including a splicing mutation present in two families with ASD, but not in controls.
+Two polymorphisms located in the promoter (rs4446909 and rs5989681) were more frequent in ASD compared to controls (P=0.0006) and were associated with a dramatic decrease in ASMT transcripts in blood cell lines (P=2 x 10(-10)).
+Biochemical analyses performed on blood platelets and/or cultured cells revealed a highly significant decrease in ASMT activity (P=2 x 10(-12)) and melatonin level (P=3 x 10(-11)) in individuals with ASD.
+These results indicate that a low melatonin level, caused by a primary deficit in ASMT activity, is a risk factor for ASD.
+They also support ASMT as a susceptibility gene for ASD and highlight the crucial role of melatonin in human cognition and behavior.

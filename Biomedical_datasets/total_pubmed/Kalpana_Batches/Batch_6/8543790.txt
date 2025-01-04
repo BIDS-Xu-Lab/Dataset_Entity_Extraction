@@ -1,0 +1,6 @@
+CD14, a glycosylphosphatidyl inositol (GPI)-linked membrane protein, is a key membrane binding site for LPS (endotoxin).
+Although CD14 lacks transmembrane and cytoplasmic sequences, it activates CR3-mediated leukocyte adhesion and cytokine release.
+Since CR3 has been shown to interact with other GPI-linked membrane proteins, we tested the hypothesis that CD14 can physically associate with CR3.
+Using qualitative and quantitative resonance energy transfer microscopy, we show that LPS in the presence of serum or LPS binding protein triggers formation of CD14-CR3 complexes.
+Kinetic studies show that CD14-CR3 complexes dissociate as neutrophils attach to substrates.
+We speculate that LPS-charged CD14 enhances CR3-mediated adhesion by directly binding to CR3.

@@ -1,0 +1,13 @@
+Mandates for improved patient safety and increasing work hour restrictions have resulted in changes in surgical education.
+Educational courses increasingly must meet those needs.
+We sought to determine the experience, skill level, and the impact of simulation-based education (SBE) on two cohorts of pediatric surgery trainees.
+After Institutional Review Board (IRB) exempt determination, a retrospective review was performed of evaluations for an annual advanced minimally invasive surgery (MIS) course over 2 consecutive years.
+The courses included didactic content and hands-on skills training.
+Simulation included neonatal/infant models for rigid bronchoscopy-airway foreign body retrieval, laparoscopic common bile duct exploration, and real tissue diaphragmatic hernia (DH), duodenal atresia (DA), pulmonary lobectomy, and tracheoesophageal fistula models.
+Categorical data were analyzed with chi-squared analyses with t-tests for continuous data.
+Participants had limited prior advanced neonatal MIS experience, with 1.95 ± 2.84 and 1.16 ± 1.54 prior cases in the 2014 and 2015 cohorts, respectively.
+The 2015 cohort had significantly less previous experience in lobectomy (P = .04) and overall advanced MIS (P = .007).
+Before both courses, a significant percentage of participants were not comfortable with DH repair (39%-42%), DA repair (50%-74%), lobectomy (34%-43%), and tracheoesophageal fistula repair (54%-81%).
+After course completion, > 60% of participants reported improvement in comfort with procedures and over 90% reported that the course significantly improved their perceived ability to perform each operation safely.
+Pediatric surgery trainees continue to have limited exposure to advanced MIS during clinical training.
+SBE results in significant improvement in both cognitive knowledge and trainee comfort with safe operative techniques for advanced MIS.

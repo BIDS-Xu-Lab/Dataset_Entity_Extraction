@@ -1,0 +1,7 @@
+Accumulating evidence has suggested a shared pathophysiology between Alzheimer's disease (AD) and cardiovascular disease (CVD).
+Based on genome-wide transcriptomes, specifically those of blood samples, we identify the shared disease-related signatures between AD and CVD.
+In addition to gene expressions in blood, the following prior knowledge were utilized to identify several candidate disease-related gene (DRG) sets: protein-protein interactions, transcription factors, disease-gene relationship databases, and single nucleotide polymorphisms.
+We selected the respective DRG sets for AD and CVD that show a high accuracy for disease prediction in bulk and single-cell gene expression datasets.
+Then, gene regulatory networks (GRNs) were constructed from each of the AD and CVD DRG sets to identify the upstream regulating genes.
+Using the GRNs, we identified two common upstream genes (GPBP1 and SETDB2) between the AD and CVD GRNs.
+In summary, this study has identified the potential AD- and CVD-related genes and common hub genes between these sets, which may help to elucidate the shared mechanisms between these two diseases.

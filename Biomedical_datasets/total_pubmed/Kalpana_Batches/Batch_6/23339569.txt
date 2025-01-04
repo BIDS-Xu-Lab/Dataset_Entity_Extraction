@@ -1,0 +1,8 @@
+To quantify circulating fetal DNA (fDNA) levels in the second and third trimesters of normal healthy pregnant individuals and pregnant women with the following clinical conditions: gestational diabetes mellitus (GDM), iron deficiency anemia and gestational hypertension (GHT).
+The SRY gene located on the Y chromosome was used as a unique fetal marker.
+The fDNA was extracted from maternal plasma and the SRY gene concentrations were measured by quantitative real-time polymerase chain reaction (PCR) amplification using TaqMan dual labeled probe system.
+No significant differences were observed in the mean fDNA concentration between normal and GDM pregnancy samples (p > 0.05) and also between normal and anemic pregnancy samples (p > 0.05) in both trimesters, but significant differences were observed between the third trimester normal and GHT pregnancy samples (p = 0.001).
+GDM and iron deficiency anemia do not affect the levels of fDNA in maternal plasma while GHT significantly elevates the levels of fDNA in maternal plasma.
+Increased amount of circulating fDNA in maternal plasma could be used for early identification of adverse pregnancies.
+GDM and anemia do not affect the levels of fDNA in maternal plasma while GHT significantly elevates the levels of fDNA in maternal plasma.
+Hence, the elevated fDNA values could be used as a potential screening marker in pregnancies complicated with GHT but not with GDM and iron deficiency anemia.

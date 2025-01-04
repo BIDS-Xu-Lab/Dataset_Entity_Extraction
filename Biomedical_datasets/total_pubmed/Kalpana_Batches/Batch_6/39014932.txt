@@ -1,0 +1,7 @@
+Therapeutic oligonucleotides (ONs) have great potential to treat many diseases due to their ability to regulate gene expression.
+However, the inefficiency of standard purification techniques to separate the target sequence from molecularly similar variants is hindering development of large scale ON manufacturing at a reasonable cost.
+Multicolumn Countercurrent Solvent Gradient Purification (MCSGP) is a valuable process able to bypass the purity-yield tradeoff typical of single-column operations, and hence to make the ON production more sustainable from both an economic and environmental point of view.
+However, operating close to the optimum of MCSGP can be challenging, resulting in unstable process performance and in a drift in product quality, especially when running a continuous process for extended periods where process parameters such as temperature are prone to variation.
+In this work, we demonstrate how greater process robustness is introduced in the design and execution of MCSGP for the purification of a 20mer single-stranded DNA sequence through the implementation of UV-based dynamic control.
+With this novel approach, the cyclic steady state was reached already in the third cycle and disturbances coming from fluctuations in the feed quality, loading amount and temperature were effectively compensated allowing a stable operation close to the optimum.
+In response to the perturbations, the controlled process kept the standard deviation on product recovery below 3.4%, while for the non-controlled process it increased up to 27.5%.

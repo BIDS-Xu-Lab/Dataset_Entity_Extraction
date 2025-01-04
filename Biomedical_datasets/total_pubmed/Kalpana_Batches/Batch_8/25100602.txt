@@ -1,0 +1,10 @@
+The neuromodulator dopamine plays an important role in synaptic plasticity.
+The effects depend on receptor subtypes, affinity, concentration level, and the kind of neuroplasticity induced.
+In animal experiments, dopamine D2-like receptor stimulation revealed partially antagonistic effects on plasticity, which might be explained by dosage dependency.
+In humans, D2 receptor block abolishes plasticity, and the D2/D3, but predominantly D3, receptor agonist ropinirol has a dosage-dependent nonlinear affect on plasticity.
+Here we aimed to determine the specific affect of D2 receptor activation on neuroplasticity in humans, because physiological effects of D2 and D3 receptors might differ.
+Therefore, we combined application of the selective D2 receptor agonist bromocriptine (2.5, 10, and 20 mg or placebo medication) with anodal and cathodal transcranial direct current stimulation (tDCS), which induces nonfocal plasticity, and with paired associative stimulation (PAS) generating a more focal kind of plasticity in the motor cortex of healthy humans.
+Plasticity was monitored by transcranial magnetic stimulation-induced motor-evoked potential amplitudes.
+For facilitatory tDCS, bromocriptine prevented plasticity induction independent from drug dosage.
+However, its application resulted in an inverted U-shaped dose-response curve on inhibitory tDCS, excitability-diminishing PAS, and to a minor degree on excitability-enhancing PAS.
+These data support the assumption that modulation of D2-like receptor activity exerts a nonlinear dose-dependent effect on neuroplasticity in the human motor cortex that differs from predominantly D3 receptor activation and that the kind of plasticity-induction procedure is relevant for its specific impact.

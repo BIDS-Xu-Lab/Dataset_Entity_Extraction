@@ -1,0 +1,4 @@
+The present study was conducted to evaluate the effect of melatonin on the daily rhythms of temperature, heart rate and locomotor activity in rats that received subcutaneously a continuous infusion of two different doses e.g. 1 and 5 mg/kg per day for seven days.
+Our results indicate that melatonin does not induce a loss of the daily rhythmicity of temperature, heart rate and locomotor activity.
+Whatever the dose, melatonin slightly modifies the main parameters of these rhythms e.g. a decrease of the amplitude of the daily rhythms of temperature and heart rate and an increase of the mesor of temperature.
+Taking into account these results obtained after constant rate delivery in normal rats, we plan now to investigate the effects of melatonin on our experimental model of Parkinson's disease (double bilateral intrastriatal 6-hydroxydopamine injection).

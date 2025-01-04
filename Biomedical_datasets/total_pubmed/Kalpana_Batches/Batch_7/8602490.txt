@@ -1,0 +1,10 @@
+The first nation-wide Quit and Win Contest in Sweden was held in 1988 with 12,840 participants.
+This corresponds to a participant rate of 6.4 per 1,000 daily tobacco users in Sweden.
+In order to follow up the long-term effects of cessation and to analyse the determinants for successful cessation, a panel (n = 946) of randomized participants were followed-up at 6 and 12 months with a mailed questionnaire.
+This gave a complete set of data for 557 (panel) respondents.
+Available baseline data from the participants' entry forms included sex, age, occupation, specific tobacco habits, quitting attempts during the previous year, and place of residence.
+At the 12-month follow-up 21% had been tobacco-free for the whole year.
+In addition 9% of the participants relapsed into tobacco-use, then quit again and were tobacco-free at the 12-month follow-up.
+The success rate for those participants (14%) who used smokeless tobacco (oral snuff) was similar to that of smokers.
+The logistic regression showed a significantly better prognosis for success among those without any earlier quitting attempts during the previous year (OR 2.35), if the subjects participated of their own volition rather than having been recruited by a non-tobacco user (OR 1.74), and if they were married/co-habiting (OR 1.92), the results were also significantly improved.
+The results also show that as a population-based method, Quit and Win produced many successful tobacco quitters, and one year after the contest one-fifth of the participants were still abstinent.

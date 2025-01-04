@@ -1,0 +1,19 @@
+Digital pathology is a relatively new field.
+Inventors of technology in this field typically file for patents to protect their intellectual property.
+An understanding of the patent landscape is crucial for companies wishing to secure patent protection and market dominance for their products.
+To our knowledge, there has been no prior systematic review of patents related to digital pathology.
+Therefore, the aim of this study was to systematically identify and evaluate United States patents and patent applications related to digital pathology.
+Issued patents and patent applications related to digital pathology published in the United States Patent and Trademark Office (USPTO) database (www.uspto.gov) (through January 2014) were searched using the Google Patents search engine (Google Inc., Mountain View, California, USA).
+Keywords and phrases related to digital pathology, whole-slide imaging (WSI), image analysis, and telepathology were used to query the USPTO database.
+Data were downloaded and analyzed using the Papers application (Mekentosj BV, Aalsmeer, Netherlands).
+A total of 588 United States patents that pertain to digital pathology were identified.
+In addition, 228 patent applications were identified, including 155 that were pending, 65 abandoned, and eight rejected.
+Of the 588 patents granted, 348 (59.18%) were specific to pathology, while 240 (40.82%) included more general patents also usable outside of pathology.
+There were 70 (21.12%) patents specific to pathology and 57 (23.75%) more general patents that had expired.
+Over 120 unique entities (individual inventors, academic institutions, and private companies) applied for pathology specific patents.
+Patents dealt largely with telepathology and image analysis.
+WSI related patents addressed image acquisition (scanning and focus), quality (z-stacks), management (storage, retrieval, and transmission of WSI files), and viewing (graphical user interface (GUI), workflow, slide navigation and remote control).
+An increasing number of recent patents focused on computer-aided diagnosis (CAD) and digital consultation networks.
+In the last 2 decades, there have been an increasing number of patents granted and patent applications filed related to digital pathology.
+The number of these patents quadrupled during the last decade, and this trend is predicted to intensify based on the number of patent applications already published by the USPTO.
+Y: United States Patent and Trademark Office (USPTO) database, Google Patents (No need to annotate, just for notice).

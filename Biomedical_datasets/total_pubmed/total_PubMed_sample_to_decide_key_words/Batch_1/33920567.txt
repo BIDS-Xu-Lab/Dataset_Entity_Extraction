@@ -1,0 +1,5 @@
+Due to the redox properties closely related to numerous physiological and pathological processes, biothiols, including cysteine (Cys), homocysteine (Hcy) and glutathione (GSH), have received considerable attention in biological science.
+On account of the important physiological roles of these biothiols, it is of profound significance to develop sensitive and selective detection of biothiols to understand their biological profiles.
+In this work, we reported an efficient fluorescent probe, PHPQ-SH, for detecting biothiols in vitro and vivo, based on the phenothiazine-HPQ skeleton, with DNBS (2,4-dinitrobenzenesulfonate) as the response unit.
+Probe PHPQ-SH exhibited brilliant sensing performances toward thiols, including a large Stokes shift (138 nm), excellent sensitivity (for GSH, LOD = 18.3 nM), remarkable fluorescence enhancement (163-fold), low cytotoxicity, rapid response (8 min), and extraordinary selectivity.
+Finally, the probe PHPQ-SH illustrated herein was capable of responding and visualizing biothiols in MCF-7 cells and zebrafish.

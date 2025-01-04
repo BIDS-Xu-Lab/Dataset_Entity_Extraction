@@ -1,0 +1,8 @@
+The fans' importance in sports is acknowledged by the term 'the 12th man', a figurative extra player for the home team.
+Sport teams are indeed more successful when they play in front of their fans than when they play away.
+The supposed mechanism behind this phenomenon, termed Home Advantage (HA), is that fans' support spurs home players to better performance and biases referees, which in turn determines the outcome.
+The inference about the importance of fans' support is, however, indirect as there is normally a 12th man of this kind, even if it is an opponent's.
+The current pandemic, which forced sporting activities to take place behind closed doors, provides the necessary control condition.
+Here we employ a novel conceptual HA model on a sample of over 4000 soccer matches from 12 European leagues, some played in front of spectators and some in empty stadia, to demonstrate that fans are indeed responsible for the HA.
+However, the absence of fans reduces the HA by a third, as the home team's performance suffers and the officials' bias disappears.
+The current pandemic reveals that the figurative 12th man is no mere fan hyperbole, but is in fact the most important player in the home team.

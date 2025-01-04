@@ -1,0 +1,16 @@
+The purpose of this study was to perform an epidemiological evaluation and an economic analysis of 90-day costs associated with non-fatal gunshot wounds (GSWs) to the extremities, spine and pelvis requiring orthopaedic care in the United States.
+A retrospective epidemiological review of the Medicare national patient record database was conducted from 2005 to 2014.
+Incidence, fracture location and costs associated where evaluated.
+Those patients identified through International Classification of Disease (ICD)-9 revision codes and Current Procedural Terminology (CPT) Codes who sustained a fracture secondary to a GSW.
+Any type of surgical intervention including incision and drainage, open reduction with internal fixation, closed reduction and percutaneous fixation, etc. were identified to analyze, and evaluate costs of care as seen by charges and reimbursements to the payer.
+The 90-day period after initial fracture care was queried.
+A total of 9,765 patients required surgical orthopaedic care for GSWs.
+There was a total of 2,183 fractures due to GSW treated operatively in 2,201 patients.
+Of these, 22% were femur fractures, 18.3% were hand/wrist fractures and 16.7% were ankle/foot fractures.
+A majority of patients were male (83.3%) and under 65 years of age (56.3%).
+Total charges for GSW requiring orthopedic care were $513,334,743 during the 10-year study period.
+Total reimbursement for these patients were $124,723,068.
+Average charges per patient were highest for fracture management of the spine $431,021.33, followed by the pelvis $392,658.45 and later by tibia/fibula fractures $342,316.92.
+The 90-day direct charges and reimbursements of orthopedic care for non-fatal GSWs are of significant amounts per patient.
+While the number of fatal GSWs has received much attention, non-fatal GSWs have a large economic and societal impact that warrants further research and consideration by the public and policy makers.
+Y and Medicare national patient record database (No need to annotate, just for notice).

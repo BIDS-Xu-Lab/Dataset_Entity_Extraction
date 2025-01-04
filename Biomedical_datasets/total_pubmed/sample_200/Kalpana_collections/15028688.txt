@@ -1,0 +1,10 @@
+Streptococcus pyogenes strains can be divided into two classes, one capable and the other incapable of producing H2O2 (M. Saito, S. Ohga, M. Endoh, H. Nakayama, Y. Mizunoe, T. Hara, and S. Yoshida, Microbiology 147:2469-2477, 2001).
+In the present study, this dichotomy was shown to parallel the presence or absence of H2O2-producing lactate oxidase activity in permeabilized cells.
+Both lactate oxidase activity and H2O2 production under aerobic conditions were detectable only after glucose in the medium was exhausted.
+Thus, the glucose-repressible lactate oxidase is likely responsible for H2O2 production in S. pyogenes.
+Of the other two potential H2O2-producing enzymes of this bacterium, NADH and alpha-glycerophosphate oxidase, only the former exhibited low but significant activity in either class of strains.
+This activity was independent of the growth phase, suggesting that the protein may serve in vivo as a subunit of the H2O2-scavenging enzyme NAD(P)H-linked alkylhydroperoxide reductase.
+The activity of lactate oxidase was associated with the membrane while that of NADH oxidase was in the soluble fraction, findings consistent with their respective physiological roles, i.e., the production and scavenging of H2O2.
+Analyses of fermentation end products revealed that the concentration of lactate initially increased with time and decreased on glucose exhaustion, while that of acetate increased during the culture.
+These results suggest that the lactate oxidase activity of H2O2-producing cells oxidizes lactate to pyruvate, which is in turn converted to acetate.
+This latter process proceeds presumably via acetyl coenzyme A and acetyl phosphate with formation of extra ATP.

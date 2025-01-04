@@ -1,0 +1,14 @@
+Tuberculosis (TB) remains a leading cause of death in endemic countries and is 20 to 70 times more common in renal transplant recipients, where it contributes to both increased morbidity and mortality.
+This review will focus on the epidemiology of TB in renal transplant recipients and critically appraise the published literature on isoniazid prophylaxis in renal transplantation.
+A literature search for randomized and nonrandomized studies investigating the use of isoniazid prophylaxis in renal transplant recipients was conducted using Ovid MEDLINE, the Cochrane Library, the Transplant Library, and EMBASE.
+Relative risks (RRs) with 95% confidence intervals (CIs) are reported.
+Meta-analysis of the randomized controlled trials (RCTs) was performed with a fixed-effects model.
+Eleven relevant studies were identified; six nonrandomized and five RCTs.
+The nonrandomized studies indicate a reduced risk of TB with isoniazid prophylaxis.
+The RCTs demonstrated conflicting results, with two studies finding a reduction in TB with prophylaxis and two studies finding no difference.
+Meta-analysis of the 709 patients from the four RCTs demonstrated a reduced risk of TB with isoniazid prophylaxis (RR, 0.31; 95% CI, 0.19-0.51).
+No significant difference was found in the incidence of hepatitis (RR, 1.22; 95% CI, 0.91-1.65).
+Both randomized and nonrandomized studies support the value of isoniazid as TB prophylaxis in renal transplant recipients at risk of active infection.
+Clinicians should consider prophylaxis in renal transplant recipients in endemic areas or in recipients in nonendemic countries who are at risk.
+However, the evidence for the benefit of isoniazid prophylaxis in renal transplantation is not robust and there is still a need for a large multicenter trial of isoniazid prophylaxis in kidney transplantation in an endemic area.
+Y: Ovid MEDLINE, the Cochrane Library, the Transplant Library, EMBASE (No need to annotate, just for notice).

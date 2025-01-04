@@ -1,0 +1,10 @@
+Culex tritaeniorhynchus is the primary vector of Japanese encephalitis virus (JEV) which is a major threat to animals and humans health.
+This virus has been reported earlier from low altitude regions of Tibet, in mosquitoes, Tibetan pigs and local Tibetans, but no reports are available for the probable propagation of JE to high altitude regions (3100 m) of Tibet.
+This study aimed to find the evidence of JEV in Cx. tritaeniorhynchus and pigs from high altitude regions of Tibet, China.
+In total, 102 porcine serum samples and eight pools of Cx. tritaeniorhynchus were subjected to real-time PCR (RT-PCR) for the amplification of a fragment (~ 420 bp) of the NS1 gene.
+The resultant amplicons of the genes were subsequently analyzed and sequenced.
+Overall seroprevalence of JE in Tibetan pigs was 6.86%, while five pools of Cx. tritaeniorhynchus were found positive for JEV.
+Results showed genotype III as the most prevalent (100%) among JEV positive isolates.
+Furthermore, phylogenetic analysis of the JEV positive strains showed 98.8-99% similarity to four reference strains from China (JEV-Hubei, Whe, HYZ and CQ11-66).
+The present study revealed that JEV has extended its geographic range to high altitude regions of Tibet.
+The factors like increased tourism and transportation might play key role in the transmission of JE that comprises a potential health risk for humans and animals.

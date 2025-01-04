@@ -1,0 +1,10 @@
+RNA molecules become attractive small-molecule drug targets to treat disease in recent years.
+Computer-aided drug design can be facilitated by detecting the RNA sites that bind small molecules.
+However, very limited progress has been reported for the prediction of small molecule-RNA binding sites.
+We developed a novel method RNAsite to predict small molecule-RNA binding sites using sequence profile- and structure-based descriptors.
+RNAsite was shown to be competitive with the state-of-the-art methods on the experimental structures of two independent test sets.
+When predicted structure models were used, RNAsite outperforms other methods by a large margin.
+The possibility of improving RNAsite by geometry-based binding pocket detection was investigated.
+The influence of RNA structure's flexibility and the conformational changes caused by ligand binding on RNAsite were also discussed.
+RNAsite is anticipated to be a useful tool for the design of RNA-targeting small molecule drugs.
+Supplementary data are available at Bioinformatics online.

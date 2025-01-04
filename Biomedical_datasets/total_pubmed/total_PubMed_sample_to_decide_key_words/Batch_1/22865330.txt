@@ -1,0 +1,4 @@
+The protein Pspto_3016 is a 117-residue member of the protein domain family PF04237 (DUF419), which is to date a functionally uncharacterized family of proteins.
+In this report, we describe the structure of Pspto_3016 from Pseudomonas syringae solved by both solution NMR and X-ray crystallography at 2.5 Å resolution.
+In both cases, the structure of Pspto_3016 adopts a "double wing" α/β sandwich fold similar to that of protein YjbR from Escherichia coli and to the C-terminal DNA binding domain of the MotA transcription factor (MotCF) from T4 bacteriophage, along with other uncharacterized proteins.
+Pspto_3016 was selected by the Protein Structure Initiative of the National Institutes of Health and the Northeast Structural Genomics Consortium (NESG ID PsR293).

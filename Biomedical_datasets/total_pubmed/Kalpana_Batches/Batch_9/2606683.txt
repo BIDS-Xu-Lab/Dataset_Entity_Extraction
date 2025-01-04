@@ -1,0 +1,5 @@
+Measurements of flow rates through hollow casts of human and canine tracheobronchial airways, which extend from just below the larynx to airways 1 mm in diameter, show basic similarities in the distribution of air flow and also species differences which must be considered.
+The distribution of air flow, for both constant and pulsatile inspiratory flow, was measured for minute volumes equivalent to 6, 11, 17 and 22 L min-1 for the human and 3, 6, 8, and 11 L min-1 for the dog.
+Inertia of air flow (inertance) was found to carry more of the flow to airways of the lower lobes at higher flow rates.
+Basic differences in airway branching pattern result in a more distinct change in airflow distribution as flow rate changes for the canine cast as compared with the human cast.
+These differences should contribute to differing patterns of mass transfer of inhaled particles and gases in central airways of the two species.

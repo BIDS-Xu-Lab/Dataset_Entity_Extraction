@@ -1,0 +1,14 @@
+A history of prior cancer commonly results in exclusion from cancer clinical trials.
+However, whether a prior cancer history has an adversely impact on clinical outcomes for patients with advanced prostate cancer (APC) remains largely unknown.
+We therefore aimed to investigate the impact of prior cancer history on these patients.
+We identified patients with advanced prostate cancer diagnosed from 2004 to 2010 in the Surveillance, Epidemiology, and End Results (SEER) database.
+Propensity score matching (PSM) was used to balance baseline characteristics.
+Kaplan-Meier method and the Cox proportional hazard model were utilized for survival analysis.
+A total of 19,772 eligible APC patients were included, of whom 887 (4.5 %) had a history of prior cancer.
+Urinary bladder (19 %), colon and cecum (16 %), melanoma of the skin (9 %) malignancies, and non-hodgkin lymphoma (9 %) were the most common types of prior cancer.
+Patients with a history of prior cancer had slightly inferior overall survival (OS)
+; P = 0.017) as compared with that of patients without a prior cancer diagnosis.
+Subgroup analysis further indicated that a history of prior cancer didn't adversely impact patients' clinical outcomes, except in patients with a prior cancer diagnosed within 2 years, at advanced stage, or originating from specific sites, including bladder, colon and cecum, or lung and bronchus, or prior chronic lymphocytic leukemia.
+A large proportion of APC patients with a prior cancer history had non-inferior survival to that of patients without a prior cancer diagnosis.
+These patients may be candidates for relevant cancer trials.
+Y: Surveillance, Epidemiology, and End Results (SEER) database (No need to annotate, just for notice).

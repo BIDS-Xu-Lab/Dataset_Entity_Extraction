@@ -1,0 +1,10 @@
+Hepatocellular carcinoma (HCC) is responsible for significant morbidity and mortality throughout the world, and is clearly linked to viral infections.
+Mass vaccination programs against hepatitis B virus have reduced the incidence of HCC in Taiwanese children, and are likely to yield similar benefits elsewhere.
+In many countries, a definite increase in the incidence of HCC has been reported, largely attributable to the increasing incidence of hepatitis C virus infection.
+Although the major viral and environmental risk factors for the development of HCC have been determined, the oncogenic pathways leading to malignant transformation of liver cells have long remained obscure.
+HCC is also extremely difficult to manage.
+Although patients at risk can be identified and early detection of HCC is feasible, the current management of HCC is confusing due to the lack of well-designed, randomized clinical trials comparing various treatment modalities.
+New surgical techniques and postoperative therapies may improve the outcome in some resectable cancers; however, the vast majority of patients have unresectable tumors.
+Local ablation treatments may shrink or necrose tumors, but the clear benefit of such therapies remains to be seen.
+Further elucidation of the genetic and molecular features of HCC may lend insight that will lead to the development of innovative strategies to manage this cancer.
+In this article, the current understanding of HCC with respect to etiologic factors, genetic mechanisms responsible for hepatocarcinogenesis, diagnosis, therapy, and prevention are reviewed.

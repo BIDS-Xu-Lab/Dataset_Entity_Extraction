@@ -1,0 +1,26 @@
+In August 2006, leaf spots were observed on half-high blueberry (Vaccinium corymbosum) in a plant nursery in Dalian, China.
+The symptomatic potted 1-year-old blueberry plants were located in parts of a plant nursery with poor ventilation.
+The primary symptom was a leaf spot, 0.4 to 0.8 cm in diameter, with brown margins that enlarged and coalesced.
+Mycelium grew from symptomatic and green leaf tissue removed from the margin of a necrotic leaf spot.
+Plant tissues were surface disinfested with 0.1% mercuric chloride for 3 min and 70% ethyl alcohol for 30 s before plating onto potato dextrose agar.
+The resulting colonies were white with a regular margin and a rough surface.
+The cultures were covered with black and globular acervuli with a diameter of 100 to 200 μm.
+The base of each conidiophore was swollen and globose with phialides growing from the apical end.
+Mature conidia were straight to fusiform, measuring 19.0 to 27.5 × 6.3 to 9.2 μm, and five-celled with the three middle cells brown and darker than the end cells.
+The apical cell was triangular and hyaline with three simple setulae that were 17.2 to 29.7 μm long.
+The base cell terminated in a point 4.0 to 8.6 μm long.
+Koch's postulates were fulfilled for the fungus by spray inoculating two healthy young plants with 2 × 105 conidia per ml of sterile distilled water.
+As a control, two similar plants were sprayed with sterile water.
+Plants were placed inside plastic bags to maintain humidity and incubated in a growth chamber at 26°C under fluorescent light for 14 h and at 20°C in darkness for 10 h. After 3 days, the plastic bags were removed and plants were maintained under the same conditions.
+More than 20 days after inoculation, symptoms on inoculated plants were similar to those previously described in the nursery.
+Control plants did not show any symptoms.
+Cultures isolated from the lesions were similar to those isolated previously from plants in the nursery.
+The morphological descriptions and measurements were similar to Pestalotiopsis clavispora (1).
+The 5.8S subunit and flanking internal transcribed spacers (ITS1 and ITS2) of rDNA and partial β-tubulin gene were amplified from DNA extracted from single-spore cultures using the ITS1/ITS4 and T1/Bt2b primers (2) respectively, and sequenced (GenBank Accession Nos. EF119336 and EF152585).
+Endo 389 (96%; GenBank Accession No. AY682929).
+The partial β-tubulin gene sequence was identical to Pestalotiopsis sp. isolate PSHI 2004 Endo 86 (100%; GenBank Accession No. DQ657901).
+The morphology and sequence data support the identity of the causal fungus as P. clavispora.
+To our knowledge, this is the first report on the presence of a Pestalotiopsis sp. causing a disease of blueberry in China.
+Harvard University Press, Cambridge, MA, 1961.
+(2) W. Tao et al. Mol.
+Y, GenBank (No need to annotate, just for notice).

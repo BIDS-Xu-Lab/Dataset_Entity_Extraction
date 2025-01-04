@@ -1,0 +1,12 @@
+The Children's Post-Traumatic Cognitions Inventory (CPTCI) is a self-report questionnaire that measures maladaptive cognitions in children and young people following exposure to trauma.
+In this study, the psychometric properties of the CPTCI were examined in further detail with the objective of furthering its utility as a clinical tool.
+Specifically, we investigated the CPTCI's discriminant validity, test-retest reliability, and the potential for the development of a short form of the measure.
+Three samples (London, East Anglia, Australia) of children and young people exposed to trauma (N = 535; 7-17 years old) completed the CPTCI and a structured clinical interview to measure posttraumatic stress disorder (PTSD) symptoms between 1 and 6 months following trauma.
+Test-retest reliability was investigated in a subsample of 203 cases.
+The results showed that a score in the range of 46 to 48 on the CPTCI was indicative of clinically significant appraisals as determined by the presence of PTSD.
+The measure also had moderate-to-high test-retest reliability (r = .78) over a 2-month period.
+The Children's Post-Traumatic Cognitions Inventory-Short Form (CPTCI-S) had excellent internal consistency (α = .92), and moderate-to-high test-retest reliability (r = .78).
+The examination of construct validity showed the model had an excellent fitting factor structure (Comparative Fit index = 0.95, Tucker-Lewis index = 0.91, Root Mean Square Error of Approximation = .07).
+A score ranging from 16 to 18 was the best cutoff point on the CPTCI-S, in that it was indicative of clinically significant appraisals as determined by the presence of PTSD.
+Based on these results, we concluded that the CPTCI is a useful tool to support the practice of clinicians and that the CPTCI-S has excellent psychometric properties.
+Y Children's Post-Traumatic Cognitions Inventory (CPTCI), Children's Post-Traumatic Cognitions Inventory-Short Form (CPTCI-S) (No need to annotate, just for notice).

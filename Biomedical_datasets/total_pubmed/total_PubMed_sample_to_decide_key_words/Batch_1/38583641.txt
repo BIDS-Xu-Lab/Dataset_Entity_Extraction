@@ -1,0 +1,11 @@
+To elucidate and compare the genetic, clinical, ancillary diagnostic, and pathological characteristics across different Gerstmann-Sträussler-Scheinker disease (GSS) phenotypes and explore the underlying causes of the phenotypic heterogeneities.
+The genetic, clinical, ancillary diagnostic, and pathological profiles of GSS patients reported in the literature were obtained and analyzed.
+Additionally, 3 patients with genetically confirmed GSS from our unit were included.
+Based on clinical presentation, patients were classified into typical GSS, Creutzfeldt-Jakob disease (CJD)-like GSS, GSS with dementia, and other categories.
+A total of 329 GSS cases were included with a 1.13:1 female-to-male ratio, median onset age 44, and median duration 4 years.
+Of the 294 categorized patients, 50.7% had typical GSS, 24.8% showed CJD-like GSS, and 16.3% presented with GSS with dementia.
+Clinical classification varied significantly based on genotype, with P102L more common in typical GSS and A117V prevalent in CJD-like GSS.
+Polymorphism at codon 129 has no effect on GSS phenotype, but the 129 M allele acts as a protective factor in GSS patients in Asia and North America.
+Moderate to severe spongiform degeneration and the presence of PK-resistant small fragments migrating at <11 kDa on electrophoretic gels along with PrP27-30 fragments were more prevalent in CJD-like GSS phenotype, while hyperphosphorylated tau protein co-deposition tends to be characteristic of typical GSS and GSS with dementia.
+This study reveals GSS's intricate nature, showing significant variations in clinical presentations, diagnostic findings, and pathological features.
+Mutation sites and pathological changes play crucial roles in determining the GSS clinical heterogeneity.

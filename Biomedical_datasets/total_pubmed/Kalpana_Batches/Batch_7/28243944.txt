@@ -1,0 +1,12 @@
+Around 25% of patients with systemic lupus erythematosus (SLE) could be refractory to conventional therapies.
+P-glycoprotein expression on cell surface has been implied on drug resistance, however, to date, it is unknown if P-gp serum levels are associated with SLE disease activity.
+Evaluate the association of serum P-gp levels and SLE with disease activity despite treatment.
+A cross-sectional study was conducted on 93 female SLE patients, all receiving glucocorticoids at stable doses for the previous 6 months before to baseline.
+SLE patients were classified into two groups: (a) patients with active disease [SLE disease activity index (SLEDAI) ≥ 3] despite treatment, and (b) patients with inactive disease (SLEDAI < 3) after treatment.
+Forty-three healthy females comprised the control group.
+Serum P-gp, anti-DNA, and both anti-nucleosome antibody levels were measured using ELISA.
+Active-SLE patients despite treatment had higher P-gp levels compared with inactive-SLE after treatment (78.02 ng/mL ± 114.11 vs. 33.75 ng/mL ± 41.11; p = 0.018) or versus reference group subjects (30.56 ng/mL ± 28.92; p = 0.011).
+P-gp levels correlated with the scores of SLEDAI (r = 0.26;
+p = 0.01), Mexican-SLEDAI (MEX-SLEDAI) (r = 0.32; p = 0.002), SLICC/ACR damage index (r = 0.47; p < 0.001), and with prednisone doses (r = 0.33; p = 0.001).
+In the multivariate model, the high P-gp levels were associated with SLICC/ACR score (p = 0.001), and SLEDAI score (p = 0.014).
+Our findings support a relationship between serum P-gp levels and SLE with disease activity despite treatment, but it requires further validation in longitudinal studies.

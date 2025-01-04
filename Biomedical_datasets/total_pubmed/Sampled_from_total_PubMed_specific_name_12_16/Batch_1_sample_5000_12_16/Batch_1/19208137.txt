@@ -1,0 +1,12 @@
+Non-coding RNA (ncRNA) genes do not encode proteins but produce functional RNA molecules that play crucial roles in many key biological processes.
+Recent genome-wide transcriptional profiling studies using tiling arrays in organisms such as human and Arabidopsis have revealed a great number of transcripts, a large portion of which have little or no capability to encode proteins.
+This unexpected finding suggests that the currently known repertoire of ncRNAs may only represent a small fraction of ncRNAs of the organisms.
+Thus, efficient and effective prediction of ncRNAs has become an important task in bioinformatics in recent years.
+Among the available computational methods, the comparative genomic approach seems to be the most powerful to detect ncRNAs.
+The recent completion of the sequencing of several major plant genomes has made the approach possible for plants.
+We have developed a pipeline to predict novel ncRNAs in the Arabidopsis (Arabidopsis thaliana) genome.
+It starts by comparing the expressed intergenic regions of Arabidopsis as provided in two whole-genome high-density oligo-probe arrays from the literature with the intergenic nucleotide sequences of all completely sequenced plant genomes including rice (Oryza sativa), poplar (Populus trichocarpa), grape (Vitis vinifera), and papaya (Carica papaya).
+By using multiple sequence alignment, a popular ncRNA prediction program (RNAz), wet-bench experimental validation, protein-coding potential analysis, and stringent screening against various ncRNA databases, the pipeline resulted in 16 families of novel ncRNAs (with a total of 21 ncRNAs).
+In this paper, we undertake a genome-wide search for novel ncRNAs in the genome of Arabidopsis by a comparative genomics approach.
+The identified novel ncRNAs are evolutionarily conserved between Arabidopsis and other recently sequenced plants, and may conduct interesting novel biological functions.
+Y - RNAz, various ncRNA databases (No need to annotate, just for notice).

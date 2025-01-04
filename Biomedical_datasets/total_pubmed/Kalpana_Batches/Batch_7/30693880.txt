@@ -1,0 +1,20 @@
+This study was undertaken to evaluate the clinicopathological characteristics of patients with breast cancer at our institute, a tertiary-care cancer center in northern India.
+This retrospective study included all patients with breast cancer registered at our institute from January 1st, 2014 to December 31st, 2016.
+We retrieved data (demographic, baseline clinical characteristics, pathology, and treatment details) from prospectively maintained clinical case records.
+Patients with incomplete case records or missing baseline information were excluded.
+We included 550 patients with breast cancer.
+The median age was 48 years (23-85).
+The median clinical tumor size was 5.0 cm.
+The TNM (AJCC-7th edition) stage distribution was stage I, 22 (4%); stage II, 182 (33%); stage III, 247 (44.9%); and stage IV, 99 (18%).
+Locally advanced breast cancer constituted 40% of the cases.
+Bone (48 [48.5%]) was the most common site for metastasis followed by lung.
+Infiltrating ductal carcinoma (528 [96%]) was the most common histologic subtype.
+Majority of patients, 325 (59%), were positive for estrogen receptor/progesterone receptor whereas 160 (29%) patients were HER2/neu positive.
+Triple negative breast cancer (TNBC) constituted 28% (154) of patients.
+In the nonmetastatic subgroup, 343 (76%) patients underwent modified radical mastectomy.
+Neoadjuvant chemotherapy (NACT) was given in 120 (26.6%) patients, of these 23 (19%) achieved pathological complete remission.
+Sequential anthracyline and taxane were used as NACT/adjuvant chemotherapy in most cases.
+Of the eligible patients, 48 (30%) received anti-HER2/neu therapy.
+This is one of the largest comprehensive data from a single center in India.
+Majority of our patients are younger in age and have advanced disease.
+TNBC and HER2/neu positive breast cancer are more common in our population.

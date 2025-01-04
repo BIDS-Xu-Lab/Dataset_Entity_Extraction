@@ -1,0 +1,12 @@
+Gleditsia sinensis is widely used as a medicinal plant in Asia, especially in China.
+Triterpenes, alkaloids, and sterols were isolated from Gleditsia species.
+Among them, triterpenoid saponins are very important metabolites owing to their various pharmacological activities.
+However, the triterpenoid saponin biosynthesis pathway has not been well characterized.
+In the present study, we performed de novo transcriptome assembly for 14.3 Gbps of clean reads sequenced from nine tissues of G. sinensis.
+The results showed that 81,511 unique transcripts (unitranscripts) (47,855 unigenes) were constructed, of which 31,717 unigenes were annotated with Gene Ontology and EC numbers by Blast2GO against the NCBI-nr protein database.
+We also analyzed the metabolite contents in the same nine tissues by LS-MS/MS, and saponins including gleditsioside I were found in fruit at higher levels.
+Many of the genes with tissue-specific expression in fruit are involved in the flavonoid biosynthesis pathway, and many of those have UDP-glucosyltransferase (UGT) activity.
+We constructed a saponin biosynthesis pathway and identified two key enzyme families in the triterpenoid saponin biosynthesis pathway, cytochrome P450 and UDP-glucosyltransferase, that are encoded by 37 unigenes and 77 unigenes, respectively.
+CYP72A, CYP716A, and CYP88D, which are known as key enzymes for saponin biosynthesis, were also identified among the P450s.
+Our results provide insight into the secondary metabolite biosynthesis and serve as important resources for future research and cultivation of G. sinensis.
+Y: NCBI-nr protein database (No need to annotate, just for notice).

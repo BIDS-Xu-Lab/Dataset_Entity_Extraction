@@ -1,0 +1,15 @@
+Dose escalation of conventionally fractionated radiation therapy (CFRT) above 45-54 Gy has an unclear survival benefit.
+Prior National Cancer Database (NCDB) analyses have shown improved overall survival with induction chemotherapy (iC) prior to concurrent chemoradiation (CRT) in locally advanced pancreatic cancer.
+Our study compared dose-escalated CFRT with and without iC.
+The NCDB was queried for primary stage III, cT4 N0-1 M0 LAPC treated with CRT with or without iC (2004-2015).
+CFRT was stratified by < 55 Gy and ≥ 55 Gy.
+Cohort iC + CRT and CRT included those with and without iC, respectively.
+The primary endpoint was overall survival (OS).
+Kaplan-Meier analysis, Cox proportional hazards method, and propensity score matching were used.
+Among 2029 patients, cohort iC + CRT had 738 patients (n = 601 for 45-55 Gy and n = 137 for ≥55 Gy) and cohort CRT had 1291 patients (n = 1066 for 45-55 Gy and n = 225 for ≥55 Gy).
+Median follow-up was 24.3 months and 24.6 months for cohorts iC + CRT and CRT, respectively.
+Dose escalation showed improved survival in the multivariable analysis in cohort iC + CRT (HR 0.77, p = 0.013) but not in cohort CRT (HR 0.91, p = 0.19).
+Using 2:1 propensity score matching, a total of 387 patients for cohort iC + CRT and 549 patients for cohort CRT were matched.
+After matching, dose escalation remained significant for improved overall survival in cohort iC + CRT (median OS 16.2 vs 15.2 months; 2-yr OS 33.4% vs 25.4%; p = 0.022) but not in cohort CRT (median OS 11.8 vs 10.6 months; 2-yr OS 13.3% vs 10.1%; p = 0.16).
+Patients with locally advanced pancreatic cancer who undergo iC have improved survival with radiation dose escalation above 55 Gy.
+For patients without iC, there is no clear association between radiation dose escalation and survival.

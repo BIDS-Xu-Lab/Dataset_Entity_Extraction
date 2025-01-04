@@ -1,0 +1,17 @@
+Drug-resistant pulmonary tuberculosis (DR-TB) is a significant public health issue that considerably deters the ongoing TB control efforts in India.
+The purpose of this review was to investigate the prevalence of DR-TB and understand the regional variation in resistance pattern across India from 1995 to 2015, based on a large body of published epidemiological studies.
+A systematic review of published studies reporting prevalence of DR-TB from biomedical databases (PubMed and IndMed) was conducted.
+[CI]) of DR-TB, multidrug resistant (MDR-) TB, pre-extensively drug-resistant (pre-XDR) TB and XDR-TB were calculated across two study periods (decade 1: 1995 to 2005; decade 2: 2006 to 2015), countrywide and in different regions.
+Heterogeneity in this meta-analysis was assessed using I2 statistic.
+A total of 75 of 635 screened studies that fulfilled the inclusion criteria were selected.
+Over 40% of 45,076 isolates suspected for resistance to any first-line anti-TB drugs tested positive.
+Comparative analysis revealed a worsening trend in DR-TB between the two study decades (decade 1: 37.7% [95% CI = 29.0; 46.4], n = 25 vs decade 2: 46.1% [95% CI = 39.0; 53.2], n = 36).
+The pooled estimate of MDR-TB resistance was higher in previously treated patients (decade 1: 29.8% [95% CI = 20.7; 39.0], n = 13; decade 2: 35.8% [95% CI = 29.2; 42.4], n = 24) as compared with the newly diagnosed cases (decade 1: 4.1%
+[95% CI = 2.7; 5.6], n = 13; decade 2: 5.6%
+Overall, studies from Western states of India reported highest prevalence of DR-TB (57.8%
+[95% CI = 37.4; 78.2], n = 6) and MDR-TB (39.9%
+[95% CI = 21.7; 58.0], n = 6) during decade 2.
+Prevalence of pre-XDR TB was 7.9% (95% CI = 4.4; 11.4, n = 5) with resistance to fluoroquinolone (66.3% [95% CI = 58.2; 74.4], n = 5) being the highest.
+The prevalence of XDR-TB was 1.9% (95% CI = 1.2; 2.6, n = 14) over the 20-year period.
+The alarming increase in the trend of anti-TB drug resistance in India warrants the need for a structured nationwide surveillance to assist the National TB Control Program in strengthening treatment strategies for improved outcomes.
+Y: PubMed, IndMed (No need to annotate, just for notice).

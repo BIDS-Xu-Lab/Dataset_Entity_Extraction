@@ -1,0 +1,63 @@
+HPI	O
+:	O
+The	O
+patient	O
+is	O
+a	O
+74	O
+-	O
+year	O
+-	O
+old	O
+white	O
+female	O
+brought	O
+in	O
+by	O
+husband	O
+.	O
+
+The	O
+patient	O
+is	O
+a	O
+vague	O
+historian	O
+at	O
+times	O
+.	O
+
+She	O
+reports	O
+her	O
+appetite	O
+has	O
+been	O
+fair	O
+over	O
+the	O
+last	O
+several	O
+days	O
+.	O
+
+Today	O
+,	O
+she	O
+complains	O
+of	O
+some	B-problem
+nausea	I-problem
+.	O
+
+She	O
+feels	O
+weak	O
+.	O
+
+No	O
+other	O
+specific	O
+complaints	O
+.	O
+

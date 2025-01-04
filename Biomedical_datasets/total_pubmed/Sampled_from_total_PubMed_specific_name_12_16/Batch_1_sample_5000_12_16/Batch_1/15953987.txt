@@ -1,0 +1,13 @@
+Population-based cancer registries provide an excellent source of data for cancer surveillance and research.
+However, delays in reporting and processing can affect the accuracy of incidence rates and the availability of cases for research.
+This study was designed to describe factors related to delays in availability of cancer cases for epidemiologic analysis.
+We identified all cancer cases diagnosed in 2000 and reported to the California Cancer Registry by August 2004.
+We analyzed factors associated with time to availability, defined as the time from diagnosis until the time the case was available for research.
+A total of 137,270 cancer cases were reported during the study period.
+The median time to availability for all cases was 382 days.
+Forty-five percent of cases were available within the first 12 months and 96% were available within 24 months after diagnosis.
+Cases reported by hospitals had the shortest time to availability (373 days) followed by doctors' offices and laboratories.
+Melanoma and prostate cancers had longer times to be available than other types of cancer.
+Time to availability varied by geographic region, but differences by age, gender, race and stage at diagnosis were minimal or non-significant.
+Strategies are needed to improve timeliness without sacrificing quality and completeness.
+Y, California Cancer Registry (No need to annotate, just for notice).

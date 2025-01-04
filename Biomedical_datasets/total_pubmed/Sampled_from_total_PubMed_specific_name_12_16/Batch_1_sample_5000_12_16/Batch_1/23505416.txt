@@ -1,0 +1,15 @@
+People with schizophrenia have been demonstrated to have higher overall morbidity and all-cause mortality rates from general medical conditions.
+However, little attention has been given to the urinary system of people with schizophrenia.
+As no direct evidence has been reported demonstrating a link between schizophrenia and urinary calculi, this study utilized a population-based case-control study design to investigate the possibility of an association between schizophrenia and the occurrence of urinary calculi.
+This study used data from the Taiwan Longitudinal Health Insurance Database.
+Cases consisted of 53,965 urinary calculi patients newly diagnosed between 2002 and 2008.
+In total, 269,825 controls were randomly selected and matched with the cases in terms of age and sex.
+Each person was traced to discern whether he had previously received a diagnosis of schizophrenia.
+Conditional logistic regression models were performed for the analysis.
+A total of 3,119 (1.0%) subjects had been diagnosed with schizophrenia prior to the index date.
+This included 0.7% of the patients with urinary calculi, and 1.0% of the controls.
+A prior diagnosis of schizophrenia was independently associated with a 30% decrease (95% CI = 0.62-0.76) in the occurrence of urinary calculi.
+The reduction was even more remarkable in males (38%, 95% CI = 0.55-0.71) and in elder individuals independent of gender (48% in those aged >69, 95% CI = 0.36-0.77).
+Our findings suggest that there is an inverse association between schizophrenia and urinary calculi.
+Future studies are needed to elucidate the mechanisms by which schizophrenia negatively associates with urinary calculi.
+Y: Taiwan Longitudinal Health Insurance Database (No need to annotate, just for notice).

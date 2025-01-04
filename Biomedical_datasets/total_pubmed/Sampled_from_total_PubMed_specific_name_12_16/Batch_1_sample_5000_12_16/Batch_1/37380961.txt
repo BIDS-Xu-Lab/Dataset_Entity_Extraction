@@ -1,0 +1,13 @@
+Frequent Emergency Department (ED) visitors are identified by the policymakers to reduce avoidable ED visits and lessen the financial and operational burden.
+This study aimed to identify the factors related to the frequent use of ED services.
+This nationwide, cross-sectional observational study was conducted using information obtained from the 2019 National Emergency Department Information System (NEDIS) database.
+Frequent ED users were defined as patients with four or more ED visits a year.
+We performed multiple logistic regression analyses to verify the relationship among sociodemographic characteristics, residential characteristics, clinical characteristics, and frequency of ED visits.
+Among 4,063,640 selected patients, 137,608 patients visited the ED four or more times a year (total number of visits = 735,502 times), which accounted for 3.4% and 12.8% of the total number of ED users and ED visits, respectively.
+A high ED visit frequency was associated with male sex, age < 9 or ≥ 70 years, Medical Aid (based on the insurance type), lower number of medical institutions and beds compared with that of the national average, and conditions, such as cancer, diabetes, renal failure, and mental illness.
+A low ED-visit frequency was associated with residence in regions vulnerable to emergency medical care and regions with high income.
+The possibility of frequent ED visits was high for patients with level 5 severity (non-emergent) and those with an increased need for medical treatment, including older patients and patients with cancer or mental illness.
+The possibility of frequent ED visits was low for patients aged > 19 years with level 1 severity (resuscitation).
+Health service accessibility factors, including low income and medical resource imbalance, were associated with frequent ED visits.
+Future large-scale prospective cohort studies are warranted to establish an efficient emergency medical system.
+Y: National Emergency Department Information System (NEDIS) database (No need to annotate, just for notice).

@@ -1,0 +1,9 @@
+The aim of the present study was to evaluate the potential of oils from agricultural residues, such as Mangifera indica L. (mango) and Carica papaya (papaya) from the Papaloapan region, Mexico, as a carbon source for the production of hydrocarbon-degrading (hydrocarbonoclastic) microorganisms in an airlift bioreactor via a common metabolic pathway for hydrocarbons and fatty acids.
+Biomass growth and carbon source uptake were measured using optical density and gas chromatography, respectively.
+Gompertz, logistic, and Von Bertalanffy mathematical models were used to obtain kinetic parameters such as the lag phase, maximum specific growth, and consumption rate.
+The hydrocarbonoclastic consortium was able to grow using papaya (6.09 ± 0.23 g L-1) and mango (2.59 ± 0.30 g L-1) oils, which contain certain antibacterial fatty acids.
+Differences observed in maximum specific growth and consumption rates indicate that, although mango oil was consumed faster (0.33 day-1 for mango and 0.25 day-1 for papaya), papaya oil provided a higher rate of biomass production per microorganism (0.24 day-1 for mango and 0.44 day-1 for papaya).
+Additionally, the consortium was able to consume 13 g L-1 diesel as a sole carbon source and improve its maximum specific consumption rate following growth using the oils.
+Furthermore, the maximum specific growth rate was decreased, indicating a change in the consortium capabilities.
+Nevertheless, agricultural waste oils from the Papaloapan region can be used to cultivate hydrocarbonoclastic microorganisms.
+The present study creates the possibility of investigating carbon sources other than hydrocarbons for the production of hydrocarbonoclastic microorganisms.

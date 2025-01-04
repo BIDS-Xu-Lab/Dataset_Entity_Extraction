@@ -1,0 +1,17 @@
+The association between gestational weight gain and neonatal body composition has been inconsistent, exposing the need for further research.
+The aim of this study was to evaluate whether gestational weight gain influences the body composition of full-term newborns and infants up to 4 months old.
+A cohort study was performed with 124 participants divided into categories of gestational weight gain according to the 2009 Institute of Medicine guidelines.
+The anthropometric and body composition data of newborns and infants acquired using air displacement plethysmography (PeaPod®) were collected at 96 h, 1 month, 2 months and 4 months of life.
+In the statistical analysis, the chi-square test was used to analyze categorical variables, and ANOVA was used to analyze numerical variables.
+Univariate analysis was performed, and the absolute and relative frequencies of the categorical variables, as well as mean and standard deviation of the numerical variables, were obtained.
+Bivariate analysis was performed for the categories of gestational weight gain and gestational and neonatal characteristics.
+When adjustments to gestational hypertension, gestational diabetes, and pregestational body mass index (BMI) were analyzed by linear regression, gestational weight gain remained a significant variable for newborn percent fat mass.
+For all analyses, a significance level of 5% was adopted.
+Gestational weight gain was adequate in 33.8% of the participants, excessive in 41.1% and insufficient in 25%.
+Women with excessive weight gain had higher pregestational BMIs and a higher incidence of gestational hypertension.
+Their newborns had a higher body mass, body fat mass in grams and percent fat mass than the infants born to mothers with adequate or insufficient gestational weight gain.
+No significant differences were observed in body composition at 1, 2 and 4 months of life during infant follow-up.
+Excessive gestational weight gain may alter the body composition of newborns at birth.
+Further studies are required to better evaluate infant follow-up.
+Clinical Trial Registry: NCT00875251 on April 3, 2009.
+Y NCT00875251 (No need to annotate, just for notice).

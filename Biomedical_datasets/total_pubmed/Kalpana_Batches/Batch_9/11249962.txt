@@ -1,0 +1,8 @@
+Neurotransmitter transporters couple the transport of transmitter against its concentration gradient to the electrochemical potential of associated ions which are also transported.
+Recent studies of some neurotransmitter transporters show them to have properties of both traditional carriers and substrate-dependent ion channels, in that ion fluxes are in excess of that predicted from stoichiometric substrate fluxes.
+Whether these properties are comparable for all transporters, the extent to which these permeation states are independent, and whether the relationship between these two states can be regulated are not well understood.
+To address these questions, we expressed the Drosophila serotonin (5HT) transporter (dSERT) in Xenopus oocytes and measured both substrate-elicited ion flux and 5HT flux at various temperatures and substrate concentrations.
+We find that the ion flux and 5HT flux components of the transport process have a significant temperature dependence suggesting that ion flux and transmitter flux arise from a similar thermodynamically-coupled process involving large conformational changes (e.g., gating).
+These data are in contrast to those shown for glutamate transporters, suggesting a different permeation process for 5HT transporters.
+The relationship between ion flux and 5HT flux is differentially regulated by chloride and 5HT, suggesting that these permeation states are distinct.
+The difference in half-maximal 5HT concentration necessary to mediate ion flux and 5HT flux occurs at submicromolar 5HT concentrations suggesting that the relative participation of dSERT in ion flux and 5HT flux will be determined by the synaptic 5HT concentration.

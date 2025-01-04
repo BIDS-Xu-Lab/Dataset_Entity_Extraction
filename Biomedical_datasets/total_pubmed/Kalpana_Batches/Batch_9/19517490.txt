@@ -1,0 +1,11 @@
+Community Participatory Approach to Measuring Farmworker Pesticide Exposure, PACE3, used a longitudinal design to document pesticide biomarkers among farmworkers.
+This article presents an overview of PACE3 and provides a descriptive analysis of participant characteristics and one set of pesticide biomarkers, the dialkylphosphate (DAP) urinary metabolites of organophosphorus (OP) pesticides.
+Two hundred eighty seven farmworkers were recruited during 2007 from 44 farmworker camps in 11 eastern North Carolina counties.
+Participants provided interviews, urine samples, blood samples, and saliva samples up to four times at monthly intervals beginning in May.
+A total of 939 data points were collected.
+Farmworkers were largely men (91.3%) from Mexico (94.8%) with a mean age of 33.7 years (SE 0.82); 23.3% spoke an indigenous language.
+Across all data points, frequencies of detection and median urinary concentrations were 41.3% and 0.96 microg/L for dimethylphosphate (DMP), 78.3% and 3.61 microg/L for dimethylthiophosphate (DMTP), 33.3% and 0.04 microg/L for dimethyldithiophosphate (DMDTP), 40.5% and 0.87 microg/L for diethylphosphate (DEP), 32.3% and 0.17 microg/L for diethylthiophosphate (DETP), and 8.09% and 0.00 microg/L for diethyldithiophosphate (DEDTP).
+The frequencies of detection and urinary concentrations of the DAP metabolites increased during the season.
+More PACE3 participants were from Mexico, male, migrant workers, and spoke an indigenous language compared to national data.
+PACE3 participants had comparable frequencies of detection and urinary metabolite concentrations with participants in other studies.
+Variability in the frequencies of detection and urinary concentrations of the DAP metabolites indicates the importance of longitudinal studies of biomarkers of currently used pesticides in farmworker populations.

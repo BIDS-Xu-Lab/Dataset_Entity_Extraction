@@ -1,0 +1,7 @@
+This study, conducted by searching keywords such as "maternal lupus", "neonatal lupus", and "congenital heart block" in databases including PubMed and Scopus, provides a detailed narrative review on fetal and neonatal lupus.
+Autoantibodies like anti-Ro/SSA and anti-La/SSB may cross the placenta and cause complications in neonates, such as congenital heart block (CHB).
+Management options involve hydroxychloroquine, which is able to counteract some of the adverse events, although the drug needs to be used carefully because of its impact on the QTc interval.
+Advanced pacing strategies for neonates with CHB, especially in severe forms like hydrops, are also assessed.
+This review emphasizes the need for interdisciplinary care by rheumatologists, obstetricians, and pediatricians in order to achieve the best maternal and neonatal health in lupus pregnancies.
+This multidisciplinary approach seeks to improve the outcomes and management of the disease, decreasing the burden on mothers and their infants.
+Y: PubMed, Scopus (No need to annotate, just for notice).

@@ -1,0 +1,7 @@
+This study used data from the 2005 Health Information National Trends Survey, a national sample of U.S. households (N = 5,586), to (1) explore the extent to which specific sources of health information are associated with certain beliefs about cancer; and (2) examine whether the relationship between health information sources and beliefs about cancer is moderated by psychological distress.
+Health information on the local news was associated with greater ambiguity about cancer prevention recommendations (OR 1.22, 95% CI 1.02-1.46, p < .05), while less ambiguity was associated with cancer-specific information (OR 0.81, 95% CI 0.69-0.94, p < .05), health information in the newspaper (OR 0.82, 95% CI 0.69-0.97, p < .05), and health information on the Internet (OR 0.71, 95% CI 0.61-0.84, p < .001).
+Health information on the local news was also associated with lower likelihood of higher perceived relative risk of cancer (OR 0.67, 95% CI 0.52-0.86, p < .01).
+No source of information was associated with the belief that cancer is primarily caused by behavior/lifestyle factors.
+Psychological distress greatly increased the optimistic bias of those who read health information in the news (OR 3.68, 95% CI 1.69-8.03, p < .001) but had no other moderating effect.
+Findings suggest that information seeking using active channels of health information decreases ambiguity and corrects for optimistic bias.
+Y and 2005 Health Information National Trends Survey (No need to annotate, just for notice).

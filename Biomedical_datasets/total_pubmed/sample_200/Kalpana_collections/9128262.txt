@@ -1,0 +1,8 @@
+When unfractionated heparin is used for therapeutic anticoagulation, the heparin effect must be monitored to avoid thrombotic or hemorrhagic complications.
+The ability of a factor Xa inhibition (XaI) assay was compared with that of a low-level heparin protamine titration (LLHPT) assay to measure the concentration of heparin after heparin was added in vitro to specimens of plasma and whole blood.
+Heparin effect on the activated partial thromboplastin time also was assessed in the same specimens.
+The XaI and LLHPT assays had comparable precision and provided linear results over a wide range of heparin concentrations.
+Both assays slightly underestimated the total amount of heparin added to the specimens.
+The most rapid test was the whole blood LLHPT assay; this test therefore may be useful for bedside monitoring of heparin.
+A significant disadvantage of the LLHPT assay was the large sample size required to perform it.
+These results provide in vitro evidence that the XaI and LLHPT assays can provide equally precise monitoring of heparin concentration.

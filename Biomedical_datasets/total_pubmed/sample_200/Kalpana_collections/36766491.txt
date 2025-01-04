@@ -1,0 +1,10 @@
+Continuous and non-invasive measurement of intracranial pressure (ICP) in traumatic brain injury (TBI) is important to recognize increased ICP (IICP), which can reduce treatment delays.
+The purpose of this study was to develop an electroencephalogram (EEG)-based prediction model for IICP in a porcine TBI model.
+Thirty swine were anaesthetized and underwent IICP by inflating a Foley catheter in the intracranial space.
+Single-channel EEG data were collected every 6 min in 10 mmHg increments in the ICP from baseline to 50 mmHg.
+We developed EEG-based models to predict the IICP (equal or over 25 mmHg) using four algorithms: logistic regression (LR), naive Bayes (NB), support vector machine (SVM), and random forest (RF).
+We assessed the performance of each model based on the accuracy, sensitivity, specificity, and AUC values.
+The accuracy of each prediction model for IICP was 0.773 for SVM, 0.749 for NB, 0.746 for RF, and 0.706 for LR.
+The AUC of each model was 0.860 for SVM, 0.824 for NB, 0.802 for RF, and 0.748 for LR.
+We developed a machine learning prediction model for IICP using single-channel EEG signals in a swine TBI experimental model.
+The SVM model showed good predictive power with the highest AUC value.

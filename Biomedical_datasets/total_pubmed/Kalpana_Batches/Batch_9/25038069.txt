@@ -1,0 +1,10 @@
+Staphylococcus haemolyticus is an emerging cause of nosocomial infections, primarily affecting immunocompromised patients.
+A comparative genomic analysis was performed on clinical S. haemolyticus isolates to investigate their genetic relationship and explore the coding sequences with respect to antimicrobial resistance determinants and putative hospital adaptation.
+Whole-genome sequencing was performed on 134 isolates of S. haemolyticus from geographically diverse origins (Belgium, 2; Germany, 10; Japan, 13; Norway, 54; Spain, 2; Switzerland, 43; UK, 9; USA, 1).
+Protein coding sequences (CDSs) were predicted and homologous genes were categorized into three types: Type I, core genes, homologues present in all strains; Type II, unique core genes, homologues shared by only a subgroup of strains; and Type III, unique genes, strain-specific CDSs.
+The phylogenetic relationship between the isolates was built from variable sites in the form of single nucleotide polymorphisms (SNPs) in the core genome and used to construct a maximum likelihood phylogeny.
+SNPs in the genome core regions divided the isolates into one major group of 126 isolates and one minor group of isolates with highly diverse genomes.
+The major group was further subdivided into seven clades (A-G), of which four (A-D) encompassed isolates only from Europe.
+Antimicrobial multiresistance was observed in 77.7% of the collection.
+High levels of homologous recombination were detected in genes involved in adherence, staphylococcal host adaptation and bacterial cell communication.
+The presence of several successful and highly resistant clones underlines the adaptive potential of this opportunistic pathogen.

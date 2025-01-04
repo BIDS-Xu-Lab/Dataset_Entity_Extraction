@@ -1,0 +1,14 @@
+To determine whether there is an association between patient empowerment and diabetes management in terms of the primary outcomes of metabolic control as measured by glycaemic control (glycated haemoglobin, HbA1c), high-density lipoprotein (HDL), low-density lipoprotein (LDL), total cholesterol (TC) and triglycerides.
+Retrospective cross-sectional analysis conducted in 2012.
+Data from Diabetes Federation of Ireland from participants enrolled in the Community Orientated Diabetes Education (CODE) Programme.
+569 patients diagnosed with type 2 diabetes.
+Patient empowerment levels, as measured by the Diabetes Empowerment Scale-Short Form.
+Additional information collected included patients' gender, age, body mass index (BMI), smoking status and number of years with diabetes.
+HbA1c, HDL, LDL, TC and triglycerides values.
+Partial correlation analyses failed to show any statistically significant relationship between patient empowerment and glycaemic control or other diabetes management variables (HbA1c, p=0.32; HDL, p=0.95; LDL, p=0.77; TC, p=0.49; triglycerides, p=0.77).
+Logistic regression analysis confirmed that patient empowerment score was not a significant predictor of level of glycaemic control.
+Time since diagnosis of diabetes was associated with increased HbA1c levels.
+Age and gender were significant predictors of HDL and LDL levels, while gender and age were associated with changes in TC and triglycerides levels, respectively.
+No significant association was found between patient empowerment levels and other measures of diabetes control in this study.
+Further research into the short-term and long-term outcomes of the empowerment model, at different levels of disease management, and across different settings, is required to evaluate its value in the management of patients with diabetes.
+Y: Diabetes Federation of Ireland, Community Orientated Diabetes Education (CODE) Programme (No need to annotate, just for notice).

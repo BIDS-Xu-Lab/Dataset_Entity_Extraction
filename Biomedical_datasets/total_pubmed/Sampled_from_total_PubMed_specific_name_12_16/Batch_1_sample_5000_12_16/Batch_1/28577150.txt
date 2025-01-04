@@ -1,0 +1,9 @@
+The aim was to compare the anthropometric and metabolic profiles and lifestyle behaviours of yogurt consumers and non-consumers and to determine if the observed differences persisted after adjustment for diet quality and related variables.
+Using cross-sectional and follow-up data from the Québec Family Study, men and women were classified into yogurt consumers (n = 269; 96 men and 173 women) and non-consumers (n = 570; 279 men and 291 women), and their anthropometric measurements, metabolic profiles, and lifestyle factors were compared.
+Men yogurt consumers had a lower body weight, BMI, % body fat, waist circumference and lower plasma insulin, and C-peptide concentrations in response to oral glucose, while women yogurt consumers had lower waist circumference, BMI, % body fat, plasma glucose, insulin, and C-peptide compared with non-consumers (P < 0.05).
+After adjustment for the Nutrient-Rich Foods (NRF) index, a marker of diet quality, these differences persisted in men and only for glycemic variables in women.
+Additional adjustment for physical activity participation and % body fat did not abolish the significant differences observed between yogurt consumers and non-consumers for plasma glucose, insulin, and C-peptide responses to oral glucose in women only (P < 0.05).
+Analyses of data after a 6-year follow-up reinforced these observations, since both men and women yogurt consumers maintained a better metabolic profile compared with non-consumers after adjustments for age and NRF (P < 0.05).
+In addition, an interaction between group and time for % body fat in men suggests a benefit of yogurt consumption over time on body composition.
+Yogurt consumption is associated with body composition and metabolic health benefits that are not entirely explained by a global effect of diet quality.
+Y: Québec Family Study (No need to annotate, just for notice).

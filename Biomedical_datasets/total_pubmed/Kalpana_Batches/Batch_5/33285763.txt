@@ -1,0 +1,13 @@
+Administering activities of daily living (ADL) and recovery of ADL functions are the main treatment goals in rehabilitation for patients with stroke.
+Reablement is one form of rehabilitative intervention, which aims to restore ADL functions performed in the community.
+The purpose of this study was to investigate the effects of home-based reablement from 3 concepts of ADL (ie, actual performance, ability, and self-perceived difficulty) for patients with stroke.
+This was a single-blind pilot randomized clinical trial.
+Twenty-six patients were randomly assigned into 2 groups: home-based reablement group (n = 12) and control group (n = 14).
+The home-based reablement group received ADL training in the home environment for 6 weeks.
+The control group received conventional rehabilitation in the hospital.
+Outcome measures contained the Canadian Occupational Performance Measure (COPM) and the Barthel Index-based Supplementary Scales (BI-SS).
+The COPM was applied to identify patients' level of performance and satisfaction with ADL training.
+The BI-SS included 3 ADL scales: actual performance, ability, and self-perceived difficulty.
+The patients in the home-based reablement group showed statistically significant improvements in the ability scale and total score of the BI-SS than the control group (P < .05) and demonstrated moderate effect size (success rate difference = 0.34-0.42).
+No significant differences were noticed in the COPM and the other 2 scales of the BI-SS (actual performance and self-perceived difficulty), but small effect sizes were found (success rate difference = 0.17-0.22).
+For patients with stroke, the 6-week home-based reablement program had similar effects with the control group on patients' perceived performance, satisfaction, and difficulty in ADL, but it displayed potential for enhancing their ability in executing ADL tasks.

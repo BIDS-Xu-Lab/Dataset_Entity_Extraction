@@ -1,0 +1,18 @@
+Recent reports have suggested that angioplasty, with and without stenting (PTA/S), may have a lower perioperative mortality rate than open surgery for revascularization of acute (AMI) and chronic mesenteric ischemia (CMI).
+It is unclear if there has been nationwide adoption of this methodology or whether there is actually a mortality benefit.
+We identified all patients undergoing surgical (bypass, endarterectomy, or embolectomy) or PTA/S mesenteric revascularization from the Nationwide Inpatient Sample from 1988 to 2006.
+A diagnosis by International Classification of Diseases, 9th Revisioncoding of AMI or CMI was required for inclusion.
+We evaluated trends in management during this period and compared in-hospital death and complications between surgical bypass and PTA/S for the years 2000 to 2006.
+From 1988 to 2006, there were 6342 PTA/S and 16,071 open surgical repairs overall.
+PTA/S increased steadily, surpassing all surgery for CMI in 2002.
+PTA/S for AMI has also increased and surpassed bypass in 2002 but has not surpassed all surgical procedures for AMI even in 2006.
+The mortality rate was lower after PTA/S than after bypass for CMI (3.7% vs 13%, P < .01) and AMI (16% vs 28%, P < .01).
+Bowel resection was more common after bypass than PTA/S for CMI (7% vs 3%, P < .01).
+This subgroup showed an increased in-hospital mortality rate for both repair types (54% and 25%, respectively).
+PTA/S is being used with increasing frequency for revascularization of CMI and AMI.
+The lower in-hospital mortality rate for patients, as they are currently being selected, shows that PTA/S is appropriate therapy for selected patients with CMI.
+Longitudinal data are needed to determine the durability of this benefit.
+The greater proportion of patients undergoing bowel resection with bypass for AMI suggests a more advanced level of ischemia in this group, making comparison with PTA/S difficult.
+However, PTA/S may be useful in selected patients with AMI and appropriate anatomy.
+Further data with greater detail regarding symptomatology and anatomy will clarify appropriate patient selection.
+Y Nationwide Inpatient Sample (No need to annotate, just for notice).

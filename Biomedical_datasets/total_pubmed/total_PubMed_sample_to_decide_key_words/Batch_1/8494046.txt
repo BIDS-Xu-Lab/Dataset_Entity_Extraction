@@ -1,0 +1,10 @@
+Inflammatory leukocytes play a central role in the pathogenesis of human atherosclerotic disease, from early atherogenesis to the late stages of atherosclerosis, such as aneurysm formation.
+We have shown previously that human abdominal aortic aneurysms are characterized by the presence of numerous chronic inflammatory cells throughout the vessel wall (Am J Pathol 1990, 137: 1199-1213).
+The signals that attract lymphocytes and monocytes into the aortic wall in aneurysmal disease remain to be precisely defined.
+(MCP-1) by aortic tissues obtained from 47 subjects.
+We compared the antigenic production of these cytokines by explants of: 1) human abdominal aneurysmal tissue, 2) occlusive (atherosclerotic) aortas, and 3) normal aortas.
+IL-8, which is chemotactic for neutrophils, lymphocytes, and endothelial cells was liberated in greater quantities by abdominal aortic aneurysms than by occlusive or normal aortas.
+Using immunohistochemistry, macrophages, and to a lesser degree endothelial cells, were found to be positive for the expression of antigenic IL-8.
+Similarly, MCP-1, a potent chemotactic cytokine for monocytes/macrophages, was released by explants from abdominal aortic aneurysms in greater quantities than by explants from occlusive or normal aortas.
+Using immunohistochemistry, the predominant MCP-1 antigen-positive cells were macrophages and to a lesser extent smooth muscle cells.
+Our results indicate that human abdominal aortic aneurysms produce IL-8 and MCP-1, both of which may serve to recruit additional inflammatory cells into the abdominal aortic wall, hence perpetuating the inflammatory reaction that may result in the pathology of vessel wall destruction and aortic aneurysm formation.

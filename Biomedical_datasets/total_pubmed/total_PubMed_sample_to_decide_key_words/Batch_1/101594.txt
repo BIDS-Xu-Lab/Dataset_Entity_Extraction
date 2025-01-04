@@ -1,0 +1,7 @@
+An antiserum was produced in C3H/
+He mice that can recognize the antigenic variations of murine C3.
+The alloantiserum is directed to the gene product of one of the alleles (C3-1a allele) of the C3-1 locus that controls genetic variations of murine C3 and is linked to H-2.
+The antiserum formed a single precipitin line in the Ouchterlony test with sera obtained from mice that carry the C3-1a/a or C3-1a/b genotype, but it did not react with sera from mice that do not have C3 coded for by the C3-1a allele.
+By the use of the alloantiserum, we detected a new C3 allotype (C3-1 CC) in SWR/J mice.
+The C3-1 CC is distinct from the other two allotypes on the basis of antigenicity and isoelectric point (pI).
+Therefore, at least three alleles have been identified for the C3-1 locus.

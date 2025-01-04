@@ -1,0 +1,5 @@
+We report a grazing incidence x-ray diffraction (GIXD) investigation of the surface lipid layer of the pre-ocular tear film.
+For the first time we demonstrate the existence of 2D order over a wide range of surface pressures in this system, with typical spicing of 3.75A and 4.16A independent of the monolayer surface pressure.
+Analogous lipid ordering is also found in an artificial lipid mixture of the major lipid components of the tear film, suggesting that the 2D ordering is set by generic lipid-lipid interactions.
+Fluorescence microscopy of the natural and artificial tear film mixture reveals the co-existence of a dilute and a much more condensed phase in the amphiphilic lipid matrix over the pressure range of 15-45mN/m investigated by GIXD, plus an additional structure due to the much more hydrophobic part of the mixture.
+This evidence supports the previous hypothesis that tear film has a layered structure.

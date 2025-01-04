@@ -1,0 +1,8 @@
+Cell suspensions were obtained from biopsy tissue from 149 patients with B cell lymphomas and analysed with regard to DNA-synthesis as assessed by 3H-thymidine uptake, response to therapy and survival.
+The 3H-thymidine uptake was significantly increased in lymphomas of high versus low grade malignancy (p = 0.0001), in patients with stage I and II versus stage III and IV (p = 0.014), and in patients with general symptoms (p = 0.0025) as opposed to asymptomatic cases.
+The complete response rate was significantly higher in patients with increased thymidine uptake than in those with low uptake, 26/51 (51%) cases versus 24/83 (29%) cases, respectively (p = 0.014).
+55 patients with increased 3H-thymidine uptake survived for significantly shorter times than (94 patients) with low uptake (p = 0.0056).
+Furthermore, a markedly larger group of high-risk patients was identified by the 3H-thymidine assay than by histopathology alone, 55 cases versus 23 cases, respectively.
+Among the patients (126 cases) with low grade tumours, those with increased 3H-thymidine uptake (40 cases) had poorer outcome than those with low uptake (86 cases) (p = 0.045).
+The data suggest that DNA-synthesis in this study, as assessed by 3H-thymidine uptake, is an independent indicator of survival in NHL.
+Furthermore, it may be a useful parameter in laying down guidelines for therapy in B cell neoplasms, especially in low grade tumours.

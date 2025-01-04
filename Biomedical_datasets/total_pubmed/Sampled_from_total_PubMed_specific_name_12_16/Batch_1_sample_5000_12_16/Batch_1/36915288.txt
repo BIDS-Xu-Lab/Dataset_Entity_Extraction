@@ -1,0 +1,17 @@
+High-sensitivity Troponin T (hsTnT), a biomarker of cardiomyocyte overload and injury, relates to aortic valve replacement (AVR) and mortality in severe aortic stenosis (AS).
+However, its prognostic value remains unknown in asymptomatic patients with AS.
+We aimed to investigate if an hsTnT level >14 pg/mL (above upper limit of normal 99th percentile) is associated with echocardiographic AS-severity, subsequent AVR, ischaemic coronary events (ICE), and mortality in asymptomatic patients with non-severe AS.
+In this post-hoc sub-analysis of the multicentre, randomised, double-blind, placebo-controlled SEAS trial (ClinicalTrials.gov, NCT00092677), we included asymptomatic patients with mild to moderate-severe AS.
+We ascertained baseline and 1-year hsTnT concentrations and examined the association between baseline levels and the risk of the primary composite endpoint, defined as the first event of all-cause mortality, isolated AVR (without coronary artery bypass grafting (CABG)), or ICE.
+Multivariable regressions and competing risk analyses examined associations of hsTnT level >14 pg/mL with clinical correlates and 5-year risk of the primary endpoint.
+Between January 6, 2003, and March 4, 2004, a total of 1873 patients were enrolled in the SEAS trial, and 1739 patients were included in this post-hoc sub-analysis.
+Patients had a mean (SD) age of 67.5 (9.7) years, 61.0% (1061) were men, 17.4% (302) had moderate-severe AS, and 26.0% (453) had hsTnT level >14 pg/mL. The median hsTnT difference from baseline to 1-year was 0.8 pg/mL (IQR, -0.4 to 2.3).
+In adjusted linear regression, log(hsTnT) did not correlate with echocardiographic AS severity (p = 0.36).
+In multivariable Cox regression, a hsTnT level >14 pg/mL vs. hsTnT ≤14 pg/mL was associated with an increased risk of the primary composite endpoint (HR, 1.41; 95% CI, 1.18-1.70; p = 0.0002).
+In a competing risk model of first of the individual components of the primary endpoint, a hsTnT level >14 pg/mL was associated with ICE risk (HR 1.71; 95% CI, 1.23-2.38; p = 0.0013), but not with isolated AVR (p = 0.064) or all-cause mortality (p = 0.49) as the first event.
+hsTnT level is within the reference range (≤14 pg/mL) in 3 out of 4 non-ischaemic patients with asymptomatic mild-to-moderate AS and remains stable during a 1-year follow-up regardless of AS-severity.
+An hsTnT level >14 pg/mL was mainly associated with subsequent ICE, which suggest that hsTnT concentration is primarily a risk marker of subclinical coronary atherosclerotic disease.
+Merck & Co., Inc., the Schering-Plough Corporation, the Interreg IVA program, Roche Diagnostics Ltd., and Gangstedfonden.
+Open access publication fee funding provided by prof.
+Olav W. Nielsen and Department of Cardiology, Bispebjerg University Hospital, Denmark.
+Y - SEAS trial (ClinicalTrials.gov, NCT00092677) (No need to annotate, just for notice).

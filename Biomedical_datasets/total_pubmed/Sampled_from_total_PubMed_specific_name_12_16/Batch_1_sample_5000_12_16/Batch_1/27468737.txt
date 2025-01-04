@@ -1,0 +1,15 @@
+The emergency surgical airway (ESA) is the final option in difficult airway management.
+We identified ESA procedures registered in the Danish Anaesthesia Database (DAD) and described the performed airway management.
+We extracted a cohort of 452 461 adult patients undergoing general anaesthesia and tracheal intubation from the DAD from June 1, 2008 to March 15, 2014.
+Difficult airway management involving an ESA was retrieved for analysis and compared with hospitals files.
+Two independent reviewers evaluated airway management according to the ASAs'2003 practice guideline for difficult airway management.
+In the DAD cohort 27 out of 452 461 patients had an ESA representing an incidence of 0.06 events per thousand (95% CI; 0.04 to 0.08).
+A total of 12 149/452 461 patients underwent Ear-Nose and Throat (ENT) surgery, giving an ESA incidence among ENT patients of 1.6 events per thousand (95% CI; 1.0-2.4).
+A Supraglottic Airway Device and/or the administration of a neuromuscular blocking agent before ESA were used as a rescue in 6/27 and 13/27 of the patients, respectively.
+In 19/27 patients ENT surgeons performed the ESA's and anaesthetists attempted 6/27 of the ESAs of which three failed.
+Reviewers evaluated airway management as satisfactory in 10/27 patients.
+The incidence of ESA in the DAD cohort was 0.06 events per thousand.
+Among ENT patients, the ESA Incidence was 1.6 events per thousand.
+Airway management was evaluated as satisfactory for 10/27 of the patients.
+ESA performed by anaesthetists failed in half of the patients.
+Y: Danish Anaesthesia Database (DAD) (No need to annotate, just for notice).

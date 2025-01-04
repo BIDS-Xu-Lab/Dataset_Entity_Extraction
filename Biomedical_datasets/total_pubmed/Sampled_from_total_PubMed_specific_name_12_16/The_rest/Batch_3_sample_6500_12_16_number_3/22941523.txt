@@ -1,0 +1,12 @@
+In the past decade there have been many attempts to improve systemic treatment and thus the outcome of patients with ovarian cancer.
+However, neither the sequential addition of non cross-resistant drugs to standard chemotherapy comprising carboplatin and paclitaxel, nor triplet combination therapies with conventional chemotherapeutic drugs have improved outcomes.
+Instead, such approaches have led to an increase in the incidence of side effects.
+We are currently experiencing a shift toward the addition of molecularly targeted and biological anticancer therapies to standard treatment.
+Vascular endothelial growth factor (VEGF), which improves vitally important tumor vasculature, is secreted by a range of tumors, and a high level of VEGF is known to be an independent risk factor for aggressive disease in ovarian cancer.
+This finding led to the development in the 1990s of bevacizumab, a humanized monoclonal antibody against VEGF.
+Several phase II trials and four phase III trials have demonstrated that bevacizumab is active in patients with advanced and recurrent ovarian cancer.
+Both phase III trials of bevacizumab as first-line therapy in advanced ovarian cancer (ICON 7/AGOOVAR 11 and GOG-0218) have shown that the addition of bevacizumab to chemotherapy and as maintenance therapy improves progressionfree survival (PFS).
+The phase III trials in platinum-sensitive (OCEANS) and platinumresistant, relapsed disease (AURELIA) have also demonstrated a benefit for bevazicumab with respect to PFS.
+The administration of bevacizumab to improve survival in patients with ovarian cancer is not without side effects and a broad discussion on the cost-effectiveness of this approach is ongoing.
+This article presents clinical trial data on bevacizumab in the treatment of ovarian cancer and discusses the indication and pitfalls in the application of bevacizumab in patients with this malignancy.
+Y ICON 7/AGOOVAR 11, GOG-0218, OCEANS, AURELIA (No need to annotate, just for notice).

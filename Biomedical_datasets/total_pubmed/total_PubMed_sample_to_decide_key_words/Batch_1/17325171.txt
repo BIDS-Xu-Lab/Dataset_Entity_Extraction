@@ -1,0 +1,17 @@
+It may be possible to restore accommodation to presbyopic human eyes by refilling the lens capsular bag with a soft polymer.
+In the present study, optical changes were measured that occurred in a pig eye model after the refilling of the capsular bag.
+The optical power and spherical aberration in 10 isolated pig lenses were measured under different conditions.
+They were first determined by using a scanning laser ray-tracing technique over an effective pupil size of 6 mm.
+Second, the contours of the anterior and posterior lens surface were photographed, and a mathematical ray-tracing was performed by using a polynomial fit through the digitized surface contours, to determine optical power and spherical aberration.
+Third, the lenses were refilled with a silicone oil until their preoperative lens thickness was reached, and scanning laser ray-tracing, contour photography, and mathematical ray-tracing were repeated.
+Comparisons between the measurements were made to determine how the change from a gradient refractive index to a homogeneous refractive index influenced spherical aberration.
+The influence of the change in lens contour on spherical aberration after lens refilling was also studied.
+The natural lenses had a higher lens power than the refilled lenses (49.9 +/- 1.5 D vs. 36.8 +/- 1.5 D; P < 0.001).
+Moreover, there was a change in sign from negative spherical aberration before lens refilling (-3.6 D) to positive spherical aberration after lens refilling (7.9 D; P < 0.001).
+The comparison between scanning laser ray-tracing of the natural lens and mathematical ray-tracing of the photographed surface contours of the natural lens to determine the effect of refractive index substitution (i.e., replacement of a gradient refractive index by a homogeneous refractive index) showed a significant change in spherical aberration from -3.6 +/- 2.0 to 11.0 +/- 2.1 D (P < 0.001).
+The change in lens contour did not result in a significant change in spherical aberration (P = 0.08) before and after lens refilling with an equal refractive index.
+The lower lens power of refilled pig lenses compared to natural lenses was due to the lower refractive index of the refill material.
+Refilling pig lenses with the silicone oil used in this study resulted in an increase in spherical aberration.
+This increase was mainly caused by the change from a gradient refractive index to a homogeneous refractive index.
+The change in lens curvature after lens refilling did not result in an increase in spherical aberration.
+The influence of lens refilling on spherical aberration of human lenses must be determined in similar experiments in human eyes.

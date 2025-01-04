@@ -1,0 +1,13 @@
+Transcatheter aortic valve implantation (TAVI) is an established treatment option for patients with severe aortic stenosis and high surgical risk.
+Currently, various prosthesis types are available.
+Atrioventricular block (AVB) requiring pacemaker (PM) implantation is a typical complication after TAVI.
+This study investigated the recovery of AV node conduction and mid-term outcome of patients with or without PM implantation after TAVI according to prosthesis type.
+From July 2008 to May 2015, 856 transcatheter heart valves were implanted at our center (age: 80.5±6.1 years; logistic EuroSCORE: 15.4%).
+These patients were followed up regularly in our outpatient clinic.
+PM implantation was performed in 16.9% of patients due to severe conduction disturbances, mainly third-degree AVB.
+The need for PM implantation differed between the various prosthesis types: Medtronic CoreValve (Medtronic Inc., Minneapolis, MN, USA): 22.8% (n=272), Edwards Sapien XT (Edwards Lifesciences, Irvine, CA, USA): 13.0% (n=262), Edwards Sapien 3 (Edwards Lifesciences, Irvine, CA, USA): 16.2% (n=234), Direct Flow Medical (Direct Flow Medical, Santa Rosa, CA, USA): 7.3% (n=41), St. Jude Medical Portico (St. Jude Medical, St. Paul, MN, USA): 15.4% (n=26), Boston Scientific Lotus (Boston Scientific, Marlborough, MA, USA): 21.4% (n=14) and Medtronic Evolut R (Medtronic Inc., Minneapolis, MN, USA): 14.3% (n=7).
+Kaplan-Meier analysis for all-cause mortality did not reveal any differences between the various prosthesis types.
+PM implantation rates declined over the years of experience in a stable intervention team; 45% of PM patients showed sufficient AV node conduction after PM reprogramming at our follow-up examination.
+Mid-term all-cause survival after TAVI seems to be independent of prosthesis type and PM implantation after TAVI.
+Intrinsic AV node conduction recovers in a significant proportion of patients.
+Therefore, regular PM interrogations including reprogramming are required to avoid unnecessary permanent right ventricular stimulation.

@@ -1,0 +1,8 @@
+Disulfide bonds are covalently bonded sulfur atoms from cysteine pairs in protein structures.
+Due to the importance of disulfide bonds in protein folding and structural stability, artificial disulfide bonds are often engineered by cysteine mutation to enhance protein structural stability.
+To facilitate the experimental design, we implemented a method based on neural networks to predict amino acid pairs for cysteine mutations to form engineered disulfide bonds.
+The designed neural network was trained with high-resolution structures curated from the Protein Data Bank.
+The testing results reveal that the proposed method recognizes 99% of natural disulfide bonds.
+In the test with engineered disulfide bonds, the algorithm achieves similar accuracy levels with other state-of-the-art algorithms in published dataset and better performance for two comprehensively studied proteins with 70% accuracy, demonstrating potential applications in protein engineering.
+The neural network framework allows exploiting the full features in distance space, and therefore improves accuracy of the disulfide bond engineering site prediction.
+The source code and a web server are available at http://liulab.csrc.ac.cn/ssbondpre.

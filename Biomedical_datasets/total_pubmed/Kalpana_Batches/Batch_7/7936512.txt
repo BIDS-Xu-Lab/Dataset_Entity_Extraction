@@ -1,0 +1,14 @@
+To determine whether depot leuprolide is effective in premenstrual syndrome (PMS) and whether symptom type or severity affects therapeutic or hormonal responses and the incidence of adverse events.
+Twenty-five women who met strict diagnostic criteria for PMS completed a double-blind, placebo-controlled, 6-month crossover trial at a university medical center.
+Depot leuprolide (3.75 mg/month) or saline was administered intramuscularly for three consecutive treatment cycles.
+Efficacy, adverse events, and hormone concentrations were assessed at each visit.
+Repeated-measures analysis of variance was used to analyze continuous data, and ordinal and binary data were analyzed using nonparametric techniques.
+Depot leuprolide treatment was significantly more effective than placebo on all rating scales.
+Irritability, neurologic symptoms, breast tenderness, and fatigue were most responsive to treatment.
+Symptoms were reduced to follicular phase levels only in women without premenstrual depression.
+Those with moderate premenstrual depression improved but remained clinically symptomatic, whereas the group with severe premenstrual depression showed no improvement on any efficacy measure.
+Adverse events were lowest in those without premenstrual depression and highest in those with severe depression.
+Leuprolide suppressed estradiol and progesterone in most premenstrual depression groups but had varying effects on gonadotropins.
+Leuprolide treatment reduced both behavioral and physical symptoms and was well tolerated in the absence of severe premenstrual depression.
+Women should be evaluated for depression severity before receiving a GnRH agonist.
+The differential response to leuprolide suggests that it may possess diagnostic value in determining distinct subtypes of PMS.

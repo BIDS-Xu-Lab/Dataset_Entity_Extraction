@@ -1,0 +1,8 @@
+Several studies have shown that maternal low-protein (LP) diet induces detrimental effects in cardiovascular system and oxidative stress in male animals.
+Additional studies suggested that female has lower incidence of cardiovascular disease.
+However until present data, the possible effects of estradiol on the undernutrition during gestational and lactation periods are not discussed.
+The present study was conducted to evaluate the effects of a maternal LP diet during gestational and lactation period on oxidative balance in the female rat hearts ventricles at two ages.
+Dams were fed with normal protein (NP) or a LP diet during the gestational and lactation period, and their female offspring were divided into age groups (22 or 122 days, corresponding to a low or high estrogen level) composing four experimental groups.
+Evaluating the nutritional effect showed an increase in oxidative stress biomarkers and decrease in enzymatic defense in LP-22D compared with NP-22D. In contrast, no changes were observed in malondialdehyde and carbonyls, but an increase in glutathione-S-transferase (GST) activity in the LP-122D compared with NP-122D. The global oxy-score in the LP-22D group indicated a predominance of oxidative damage when compared with NP-22D, while in LP-122D group the global oxy-score was restored to NP-122D levels.
+Evaluating the estradiol effect, our data show a significant decrease in oxidative stress with increase in CAT and GST activity, associated with increase in intracellular thiols.
+Our data suggest that in situation with low levels of estradiol, hypoproteic diet during gestation and lactation period has detrimental effects on heart, however when estradiol levels raise, the detrimental effects induced are mitigated.

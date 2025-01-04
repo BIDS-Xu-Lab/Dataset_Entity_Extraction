@@ -1,0 +1,16 @@
+With the advances in remote sensing technology, satellite-based rainfall estimates are gaining attraction in the field of hydrology, particularly in rainfall-runoff modeling.
+Since estimates are affected by errors correction is required.
+In this study, we tested the high resolution National Oceanic and Atmospheric Administration's (NOAA) Climate Prediction Centre (CPC) morphing technique (CMORPH) satellite rainfall product (CMORPH) in the Gilgel Abbey catchment, Ethiopia.
+CMORPH data at 8 km-30 min resolution is aggregated to daily to match in-situ observations for the period 2003-2010.
+Study objectives are to assess bias of the satellite estimates, to identify optimum window size for application of bias correction and to test effectiveness of bias correction.
+Bias correction factors are calculated for moving window (MW) sizes and for sequential windows (SW's) of 3, 5, 7, 9, …, 31 days with the aim to assess error distribution between the in-situ observations and CMORPH estimates.
+We tested forward, central and backward window (FW, CW and BW) schemes to assess the effect of time integration on accumulated rainfall.
+Accuracy of cumulative rainfall depth is assessed by Root Mean Squared Error (RMSE).
+To systematically correct all CMORPH estimates, station based bias factors are spatially interpolated to yield a bias factor map.
+Reliability of interpolation is assessed by cross validation.
+The uncorrected CMORPH rainfall images are multiplied by the interpolated bias map to result in bias corrected CMORPH estimates.
+Findings are evaluated by RMSE, correlation coefficient (r) and standard deviation (SD).
+Results showed existence of bias in the CMORPH rainfall.
+It is found that the 7 days SW approach performs best for bias correction of CMORPH rainfall.
+The outcome of this study showed the efficiency of our bias correction approach.
+Y: National Oceanic and Atmospheric Administration's (NOAA) Climate Prediction Centre (CPC) morphing technique (CMORPH) (No need to annotate, just for notice).

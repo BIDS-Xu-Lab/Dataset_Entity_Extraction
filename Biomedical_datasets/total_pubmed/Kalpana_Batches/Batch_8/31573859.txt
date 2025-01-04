@@ -1,0 +1,13 @@
+Policies regarding how to handle the review of imaging studies performed at another institution (second opinion consultations) have not been uniform in academic radiology.
+Departments must decide whether to simply store outside studies in the PACS, report the studies officially, bill third-party payers, repeat such studies, or take a combination of these steps.
+The purpose of this study was to determine the current state of practice in dealing with second opinion consultations in academic radiology departments.
+A survey was conducted of the members of the Society of Chairs of Academic Radiology Departments (SCARD) and the Association of Administration in Academic Radiology (AAARAD) for their practices with respect to outside studies.
+Completed surveys were received from 91 of 160 (56.9%)
+SCARD and 35 of 106 (33.0%)
+Of the 91 SCARD respondents, 70 (76.9%) added outside studies to their PACS, and 34 (37.4%) required formal internal reports on all outside studies.
+By contrast, 74 (81.3%) allowed at least some outside studies into their PACS without requiring an internal report.
+Many respondents interpreted outside studies only if specifically requested.
+Most (67/91 [73.6%]) billed insurers but not patients (61/91 [67.0%]) for the second opinion consultations.
+Fifteen (16.5%) preferred repeating studies rather than including outside studies in the PACS.
+With minimal exceptions, the AAARAD results paralleled the SCARD results.
+The survey showed that common practices in academic radiology are to add outside studies to the institutional PACS without mandating an internal report and to bill insurers but not patients for second opinion consultations.

@@ -1,0 +1,17 @@
+Virtually all enzymes catalyse more than one reaction, a phenomenon known as enzyme promiscuity.
+It is unclear whether promiscuous enzymes are more often generalists that catalyse multiple reactions at similar rates or specialists that catalyse one reaction much more efficiently than other reactions.
+In addition, the factors that shape whether an enzyme evolves to be a generalist or a specialist are poorly understood.
+To address these questions, we follow a three-pronged approach.
+First, we examine the distribution of promiscuity in empirical enzymes reported in the BRENDA database.
+We find that the promiscuity distribution of empirical enzymes is bimodal.
+In other words, a large fraction of promiscuous enzymes are either generalists or specialists, with few intermediates.
+Second, we demonstrate that enzyme biophysics is not sufficient to explain this bimodal distribution.
+Third, we devise a constraint-based model of promiscuous enzymes undergoing duplication and facing selection pressures favouring subfunctionalization.
+The model posits the existence of constraints between the catalytic efficiencies of an enzyme for different reactions and is inspired by empirical case studies.
+The promiscuity distribution predicted by our constraint-based model is consistent with the empirical bimodal distribution.
+Our results suggest that subfunctionalization is possible and beneficial only in certain enzymes.
+Furthermore, the model predicts that conflicting constraints and selection pressures can cause promiscuous enzymes to enter a 'frustrated' state, in which competing interactions limit the specialisation of enzymes.
+We find that frustration can be both a driver and an inhibitor of enzyme evolution by duplication and subfunctionalization.
+In addition, our model predicts that frustration becomes more likely as enzymes catalyse more reactions, implying that natural selection may prefer catalytically simple enzymes.
+In sum, our results suggest that frustration may play an important role in enzyme evolution.
+Y BRENDA database (No need to annotate, just for notice).

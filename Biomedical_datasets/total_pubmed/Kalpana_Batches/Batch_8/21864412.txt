@@ -1,0 +1,12 @@
+Sedentary behaviors (involving prolonged sitting time) are associated with deleterious health consequences, independent of (lack of) physical activity.
+To inform interventions, correlates of prevalent sedentary behaviors need to be identified.
+We examined associations of socio-demographic, home-environmental and psychosocial factors with adults' TV viewing time and leisure-time Internet use; and whether psychosocial and environmental correlates differed according to gender, age and educational attainment.
+This cross-sectional study was conducted in Ghent, Belgium, between March and May 2010.
+[12.1] years; 47.3% men) completed a questionnaire on sedentary behaviors and their potential socio-demographic, psychosocial and home environmental correlates.
+Statistical analyses were performed using multiple linear regression models.
+The independent variables explained 31% of the variance in TV viewing time and 38% of the variance in leisure-time Internet use.
+Higher education, greater perceived pros of and confidence about reducing TV time were negatively associated with TV viewing time; older age, higher body mass index, larger TV set size and greater perceived cons of reducing TV time showed positive associations.
+Perceived pros of and confidence about reducing Internet use were negatively associated with leisure-time Internet use; higher education, number of computers in the home, positive family social norms about Internet use and perceived cons of reducing Internet use showed positive associations.
+None of the socio-demographic factors moderated these associations.
+Educational level, age, self-efficacy and pros/cons were the most important correlates identified in this study.
+If further cross-sectional and longitudinal research can confirm these findings, tailored interventions focusing on both psychosocial and environmental factors in specific population subgroups might be most effective to reduce domestic screen time.

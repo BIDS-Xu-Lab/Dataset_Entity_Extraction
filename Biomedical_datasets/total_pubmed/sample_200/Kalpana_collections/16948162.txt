@@ -1,0 +1,11 @@
+Modeling and understanding protein-ligand interactions is one of the most important goals in computational drug discovery.
+To this end, proteochemometrics uses structural and chemical descriptors from several proteins and several ligands to induce interaction-models.
+Here, we present a new and generalized approach in which proteins varying greatly in terms of sequence and structure are represented by a library of local substructures.
+Using linear regression and rule-based learning, we combine such local substructures with chemical descriptors from the ligands to model binding affinity for a training set of hydrolase and lyase enzymes.
+We evaluate the predictive performance of these models using cross validation and sets of unseen ligand with unknown three-dimensional structure.
+The models are shown to generalize by outperforming models using descriptors from only proteins or only ligands, or models using global structure similarities rather than local similarities.
+Thus, we demonstrate that this approach is capable of describing dependencies between local structural properties and ligands in otherwise dissimilar protein structures.
+These dependencies are often, but not always, associated with local substructures that are in contact with the ligands.
+Finally, we show that strongly bound enzyme-ligand complexes require the presence of particular local substructures, while weakly bound complexes may be described by the absence of certain properties.
+The results demonstrate that the alignment-independent approach using local substructures is capable of describing protein-ligand interaction for largely different proteins and hence opens up for proteochemometrics-analysis of the interaction-space of entire proteomes.
+Current approaches are limited to families of closely related proteins.

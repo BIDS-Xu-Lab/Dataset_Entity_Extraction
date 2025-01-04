@@ -1,0 +1,12 @@
+Studies on the role of the insertion/deletion (I/D) polymorphism of the gene coding for angiotensin converting enzyme (ACE) in atherosclerosis have been inconsistent.
+In a meta-analysis, we recently showed that this relationship is stronger in high risk populations.
+In this paper, we used a combined functional and population based approach to investigate the gene-environment interaction of the ACE I/D polymorphism in relation to carotid artery wall thickness.
+The study was part of the Rotterdam Study, a prospective population based cohort study.
+In 5321 subjects, IMT was measured in the carotid arteries by ultrasonography and ACE genotype was determined by size analysis of polymerase chain reaction products.
+In multiple regression analysis, I/D polymorphism and smoking were the main determinants for plasma ACE activity (r(2) = 0.28).
+There was a positive association between the D allele of the I/D polymorphism and carotid artery thickness among current smokers (p = 0.03).
+Subjects carrying only one of the risk factors (smoking or the D allele) did not show significant differences in IMT compared with the non-/former smokers group carrying two II alleles, while carriers of both risk factors had significant higher IMT.
+The association was not present in non-/former smokers.
+The results provide further evidence that genetic and environmental factors interact in the formation of the arterial lesions.
+This study shows that large population based studies can be extremely helpful in unravelling the genetic origin of complex diseases such as atherosclerosis.
+Y and the Rotterdam Study (No need to annotate, just for notice).

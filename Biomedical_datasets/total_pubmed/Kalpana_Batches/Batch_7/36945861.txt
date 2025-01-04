@@ -1,0 +1,5 @@
+As a traditional fermented meat product, dry-cured Xuanwei ham could be a rich source of bioactive peptides.
+This study intended to investigate the transepithelial transport and cytoprotection of antioxidant peptides isolated from simulated gastrointestinal digestion of Xuanwei ham.
+Through ultrafiltration and gel filtration chromatography after simulated digestion, five new antioxidative cell-penetrating peptides (CPPs) with 16-27 amino acid residues were identified, and protective effects of the pretreatment with GHYTEGAELVDSVLDVVRK (GK-19) and TDEFQLHTNVNDGTEFGGSIYQK (TK-23) on H2O2-induced damaged HepG2 cells were investigated.
+The results showed that the peptide TK-23 at 0.5 mg mL-1 showed a good antioxidant activity through upregulating the activity of antioxidant enzymes (CAT, SOD and GR) and decreasing the MDA level in H2O2-induced damaged HepG2 cells with a better protective effect compared to GSH.
+Our observations of novel antioxidant CPPs with 16-27 amino acid residues could enrich the antioxidative CPP database, and these findings could provide data support for further study of CPPs.

@@ -1,0 +1,12 @@
+Papillary thyroid carcinoma (PTC) is a well-differentiated thyroid tumor that accounts for approximately 80% of thyroid cancer cases.
+On other hand, anaplastic thyroid carcinoma (ATC) is a less frequent, but aggressive subtype, with poor prognosis.
+MicroRNAs (miRNAs), small non-coding RNAs, have emerged as potent post-transcriptional regulators of gene expression, which modulate the expression of cancer-related genes.
+Computational analyses estimate that a single miRNA may modulate hundreds of mRNA targets and, at the same time, cooperate with others to regulate one single mRNA transcript.
+Due to the large number of predicted targets and possible interactions, only a small number of miRNAs have characterized biological roles, and the panorama of miRNA-mediated regulation in thyroid cancer remains to be understood.
+Taking into consideration the large amount of gene expression data deposited in public databases we aligned miRNA target prediction and gene expression data from public PTC and ATC datasets to construct a network of post-transcriptional regulation in thyroid cancer.
+After a gene set enrichment analysis we identified signaling pathways and biological processes potentially modulated by the miRNAs deregulated in PTC and ATC.
+Our results show miRNA-mRNA interaction that could contribute with the de-regulation of key tumor-host mediators, such as extra-cellular matrix molecules, interleukins and interleukin receptors, which could drive a more aggressive behavior and tumor progression.
+Moreover, our analysis through The Cancer Genome Atlas (TCGA) database revealed that aberrant expression of ECM and cytokines genes is frequent in PTC and is associated with aggressive behavior and decreased overall survival rate.
+In conclusion, we shed light on the post-transcriptional regulation of gene expression in differentiated and undifferentiated thyroid cancers, revealing a potential role of miRNAs in modulation of tumor-host interaction molecules, particularly ECM molecules and immune system mediators, which could stimulate crosstalk between tumors and the immune system to generate a more aggressive behavior.
+We propose a novel putative miRNA:mRNA network that could lead to a new path toward functional studies.
+Y: The Cancer Genome Atlas (TCGA) database (No need to annotate, just for notice).

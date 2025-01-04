@@ -1,0 +1,15 @@
+Cigarette smoking is the most important risk factor for urinary bladder cancer.
+The prognostic effect of cigarette smoking on disease recurrence and progression in patients with non-muscle-invasive bladder cancer (NMIBC), however, is still unclear.
+We evaluated the effect of smoking status and intensity, and timing of smoking cessation, on NMIBC prognosis.
+A population-based series of patients diagnosed with NMIBC from 1995 until 2010 was identified through the Netherlands Cancer Registry.
+Self-reported smoking history was obtained by a postal lifestyle questionnaire at study inclusion.
+Detailed clinical data concerning diagnosis, treatment, and disease course were collected retrospectively through a medical file survey.
+The association of smoking variables with recurrence- and progression-free survival of 963 patients with primary NMIBC was studied using cumulative incidence curves and competing risk regression analyses.
+The study population comprised 181 never smokers (18.8%), 490 former smokers (50.9%), and 292 current smokers (30.3%) at the time of diagnosis.
+No statistically significant difference or trend in risk of recurrence (Ptrend = 0.47) or progression (Ptrend = 0.23) across the 3 smoking status categories was found.
+Moreover, no dose-response association was observed across categories of smoking quantity, duration, or cumulative exposure in relation to NMIBC prognosis.
+The timing of smoking cessation (i.e., ceased smoking≥10y before diagnosis,<10y before diagnosis, vs. current smoker at diagnosis) did not significantly affect the risk of recurrence (Ptrend = 0.31) and progression (Ptrend = 0.19).
+Based on our study, smoking status, smoking intensity, or cessation at any time before diagnosis does not seem to alter the risks of recurrence and progression among patients with NMIBC.
+Patients' smoking history is not useful for the guidance of clinical management decisions.
+Patients should nevertheless be advised to quit considering the known beneficial effects on other non-NMIBC-related end points such as cardiovascular disease and second primary cancers.
+Y and the Netherlands Cancer Registry (No need to annotate, just for notice).

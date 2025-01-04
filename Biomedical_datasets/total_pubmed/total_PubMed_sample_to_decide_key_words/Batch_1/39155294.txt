@@ -1,0 +1,11 @@
+Glioblastoma is the most common and deadliest brain tumour in adults, with a median survival of 15 months under the current standard of care.
+Immunotherapies like immune checkpoint inhibitors and oncolytic viruses have been extensively studied to improve this endpoint.
+However, most thus far have failed.
+To improve the efficacy of immunotherapies to treat glioblastoma, new single-cell imaging modalities like imaging mass cytometry can be leveraged and integrated with computational models.
+This enables a better understanding of the tumour microenvironment and its role in treatment success or failure in this hard-to-treat tumour.
+Here, we implemented an agent-based model that allows for spatial predictions of combination chemotherapy, oncolytic virus, and immune checkpoint inhibitors against glioblastoma.
+We initialised our model with patient imaging mass cytometry data to predict patient-specific responses and found that oncolytic viruses drive combination treatment responses determined by intratumoral cell density.
+We found that tumours with higher tumour cell density responded better to treatment.
+When fixing the number of cancer cells, treatment efficacy was shown to be a function of CD4 + T cell and, to a lesser extent, of macrophage counts.
+Critically, our simulations show that care must be put into the integration of spatial data and agent-based models to effectively capture intratumoral dynamics.
+Together, this study emphasizes the use of predictive spatial modelling to better understand cancer immunotherapy treatment dynamics, while highlighting key factors to consider during model design and implementation.

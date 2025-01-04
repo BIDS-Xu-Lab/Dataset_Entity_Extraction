@@ -1,0 +1,17 @@
+The use of easily obtainable clinical and laboratory parameters to identify hypertensive patients with increased cardiovascular risk in resource limited settings cannot be overemphasized.
+Prolongation of QT intervals and increased dispersion has been associated with increased risk of cardiovascular death.
+The study aimed at describing the epidemiology of QT interval abnormalities among newly diagnosed hypertensive subjects and associated clinical correlates.
+One hundred and forty newly diagnosed hypertensive subjects and 70 controls were used for this study.
+Clinical and sociodemographic characteristics were obtained.
+Twelve lead resting electrocardiography, QT dispersion, heart rate corrected minimum and maximum QT intervals were determined manually.
+Increased QTcmax was defined at QTcmax >440msec.
+QT parameters were compared between various groups.
+SPSS 16.0 was used for data analysis.
+The hypertensive subjects were well matched in age and gender distribution with controls.
+QTmax and QTcmax were significantly higher among hypertensive subjects than controls (379.7±45.1 vs. 356.7±35.6, 447.5± 49.0 vs. 414.5 ±34.7 ms, respectively, P<0.05).
+QTd and QTcd were also significantly higher among hypertensive subjects than controls (62.64±25.65 vs. 46.1±17.2, 73.8 ±30.0 vs. 52.5±18.8, respectively, P<0.05).
+Seventy three (52.14%) of the hypertensive subjects had QTcmax >440ms compared to 21.43% of controls, P=0.01.
+Increased QTc dispersion was present in 36.4% of hypertensive subjects.
+Hypertensive subjects with QT abnormalities had significantly higher mean waist hip ratio, mean body mass index and a higher proportion of smoking than controls.
+QT prolongation and increased QTc dispersion are common among newly diagnosed hypertensive Nigerians and seem to be significantly associated with obesity.
+Effective antihypertensive therapy and control of obesity are important management modality for newly diagnosed hypertensive patients.

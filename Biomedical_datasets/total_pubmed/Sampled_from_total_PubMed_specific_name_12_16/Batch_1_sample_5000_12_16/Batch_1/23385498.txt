@@ -1,0 +1,9 @@
+Oral Squamous Cell Carcinoma (OSCC) is biologically characterized by the accumulation of multiple genetic and molecular alterations that end up clinically characterized as a malignant neoplasm through a phenomenon known as multistep.
+The members of the Cip/Kip family, specifically p21Waf1/CIP1, are responsible for cell cycle control, blocking the transition from phase G1 to phase S. We made a search of articles of peer-reviewed Journals in PubMed/ Medline, crossing the keywords.
+The goal of this paper is to determine the relationship between p21Waf1/CIP1 expression and several clinical and pathological aspects of OSCC, their relationship with p53 and HPV, as well as genetic alterations in their expression pattern, their use as a prognosis market in the evolution of precancerous lesions and their roles in anticancer treatments.
+The results of p21WAF1/CIP1 expression in OSCC showed mixed results in terms of positivity/negativity throughout different studies.
+CIP1 expression is controlled in a p53-dependent manner, coexpression of both in OSCC is not intrinsically related.
+Although the presence of HPV viral oncoproteins increases p21Waf1/CIP1 levels, the small number of studies, have forced us to disregard the hypothesis that HPV infected lesions that present better prognosis are due to a p21Waf1/CIP1-dependent control.
+The role of p21WAF1/CIP1 as cell-cycle regulator has been well described; however, its relationship to OSCC, the clinical and pathological variables of tumors, HPV and different treatments are not entirely clear.
+Thus, it would be very interesting to pursue further study of this protein, which may have a significant value for the diagnosis, prognosis and therapy of this type of tumors.
+Y: PubMed/ Medline (No need to annotate, just for notice).

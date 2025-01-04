@@ -1,0 +1,11 @@
+Polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs) and dioxin-like polychlorinated biphenyls (dl-PCBs) have similar toxic, endocrine-disrupting, and carcinogenic activity.
+They are classified as persistent organic pollutants accumulating in the environment and the tissues of living organisms.
+High concentrations of PCDD/F and dl-PCB have been detected in bovine milk collected in a Piedmont valley (Northwestern Italy) since 2004.
+This geographic study describes the local distribution of pollution from PCDD/Fs and dl-PCBs.
+Since their presence in animal products could be traced back to the ingestion of contaminated fodder, dioxin levels in cow milk were related to the distribution of fodder cropland parcels.
+Specifically, the aim of the study was to determine, through an exploratory approach, whether the contamination was consistent with one common point source of contamination or different scattered sources.
+Data for PCDD/F and dl-PCB concentrations in the bulk milk from 27 herds, sampled over a 4-year period (2004-2007), were matched to the georeferenced land parcels the dairy farmers used for growing fodder.
+Isopleth maps of dioxin concentrations were estimated with ordinary kriging.
+The highest level of pollution for both PCDD/Fs and dl-PCBs was geographically juxtaposed: in both instances, the location of the local steel plant was within this extremely highly polluted area.
+The study results support the hypothesis for one common point source of contamination in the valley.
+The exploratory spatial analysis applied in this research may provide a valuable, novel approach to straightforward identification of a highly likely source of dioxin contamination of dairy products (even in the absence of top soil contamination data).

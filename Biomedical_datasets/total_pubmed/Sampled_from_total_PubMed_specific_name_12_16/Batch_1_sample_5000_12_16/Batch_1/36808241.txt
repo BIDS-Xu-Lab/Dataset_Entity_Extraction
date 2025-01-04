@@ -1,0 +1,22 @@
+Maternal infection is common during pregnancy and is an important potential cause of fetal genetic and immunological abnormalities.
+Maternal infection has been reported to be associated with childhood leukemia in previous case-control or small cohort studies.
+To evaluate the association of maternal infection during pregnancy with childhood leukemia among offspring in a large study.
+This population-based cohort study used data from 7 Danish national registries (including the Danish Medical Birth Register, the Danish National Patient Registry, the Danish National Cancer Registry, and others) for all live births in Denmark between 1978 and 2015.
+Swedish registry data for all live births between 1988 and 2014 were used to validate the findings for the Danish cohort.
+Data were analyzed from December 2019 to December 2021.
+Maternal infection during pregnancy categorized by anatomic locations identified from the Danish National Patient Registry.
+The primary outcome was any leukemia; secondary outcomes were acute lymphoid leukemia (ALL) and acute myeloid leukemia (AML).
+Offspring childhood leukemia was identified in the Danish National Cancer Registry.
+Associations were first assessed in the whole cohort using Cox proportional hazards regression models, adjusted for potential confounders.
+A sibling analysis was performed to account for unmeasured familial confounding.
+This study included 2 222 797 children, 51.3% of whom were boys.
+[4.6] years per person), 1307 children were diagnosed with leukemia (ALL, 1050; AML, 165; or other, 92).
+[95% CI, 1.04-1.77]) compared with offspring of mothers without infection.
+Maternal genital and urinary tract infections were associated with a 142% and 65% increased risk of childhood leukemia, with HRs of 2.42 (95% CI, 1.50-3.92) and 1.65 (95% CI, 1.15-2.36), respectively.
+No association was observed for respiratory tract, digestive, or other infections.
+The sibling analysis showed comparable estimates to the whole-cohort analysis.
+The association patterns for ALL and AML were similar to that for any leukemia.
+No association was observed for maternal infection and brain tumors, lymphoma, or other childhood cancers.
+In this cohort study of approximately 2.2 million children, maternal genitourinary tract infection during pregnancy was associated with childhood leukemia among offspring.
+If confirmed in future studies, our findings may have implications for understanding the etiology and developing preventive measures for childhood leukemia.
+Y: Danish Medical Birth Register, Danish National Patient Registry, Danish National Cancer Registry, Swedish registry (No need to annotate, just for notice).

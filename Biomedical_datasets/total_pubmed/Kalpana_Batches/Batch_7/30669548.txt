@@ -1,0 +1,9 @@
+Obesity is an excessive fat accumulation that could lead to complications like metabolic syndrome.
+There are reports on gut microbiota and metabolic syndrome in relation to dietary, host genetics, and other environmental factors; however, it is necessary to explore the role of the gut microbiota metabolic pathways in populations like Mexicans, where the prevalence of obesity and metabolic syndrome is high.
+This study identify alterations of the gut microbiota in a sample of healthy Mexican women (CO), women with obesity (OB), and women with obesity plus metabolic syndrome (OMS).
+We studied 67 women, characterizing their anthropometric and biochemical parameters along with their gut bacterial diversity by high-throughput DNA sequencing.
+Our results indicate that in OB or OMS women, Firmicutes was the most abundant bacterial phylum.
+We observed significant changes in abundances of bacteria belonging to the Ruminococcaceae, Lachnospiraceae, and Erysipelotrichaceae families and significant enrichment of gut bacteria from 16 different taxa that might explain the observed metabolic alterations between the groups.
+Finally, the predicted functional metagenome of the gut microbiota found in each category shows differences in metabolic pathways related to lipid metabolism.
+We demonstrate that Mexican women have a particular bacterial gut microbiota characteristic of each phenotype.
+There are bacteria that potentially explain the observed metabolic differences between the groups, and gut bacteria in OMS and OB conditions carry more genes of metabolic pathways implicated in lipid metabolism.

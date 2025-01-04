@@ -1,0 +1,9 @@
+Individuals with Down syndrome (DS) are at significant risk for early onset Alzheimer's disease (AD), likely due to the triplication of genes on chromosome 21 that facilitate AD neuropathology.
+To aid the effective early diagnosis of dementia in DS, we demonstrate the strategy of using single point assessment of cognitive performance with scoring normed for degree of intellectual disability to generate age related prevalence data for acquired mild cognitive impairment (AMCI).
+Four hundred and twelve adults with DS were assessed using the Neuropsychological Assessment of dementia in adults with Intellectual Disability.
+Normative data, banded by degree of intellectual disability, allowed identification of AMCI by atypical deviation from expected performance.
+AMCI was evident in approximately 20% of adults with DS aged 40 and under, 40% aged 41-50 and 45% aged 51 and over.
+Relative risk increased significantly in those aged 46 and over.
+Analysis of prevalence by 5-year age bands revealed two peaks for higher prevalence of AMCI.
+Psychometric data indicate single point assessment of AMCI is possible for the majority of adults with DS.
+Two peaks for age-related prevalence of AMCI suggest the risk for onset of AD conferred by trisomy of chromosome 21 is moderated by another factor, possibly ApoE status.

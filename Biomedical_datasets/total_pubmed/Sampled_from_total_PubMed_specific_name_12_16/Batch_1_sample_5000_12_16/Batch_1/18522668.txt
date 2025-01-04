@@ -1,0 +1,13 @@
+The Centers for Medicare and Medicaid Services will introduce the reporting of patient surveys in 2008.
+The Consumer Assessment of Health Care Providers and Systems (CAHPS) Hospital Survey contains 18 questions about hospital care.
+Internal consistency reliability of the discharge information scale is relatively low and some important domains of care are not represented.
+To determine whether adding questions increases the reliability and validity of the survey.
+Surveys of patients at 181 hospitals participating in the California Hospitals Assessment and Reporting Taskforce (CHART), an initiative for voluntary public reporting of hospital performance in California.
+CHART added nine questions to the CAHPS Hospital Survey; two to improve reliability of the discharge information domain, five to create a coordination of care domain, and two relating to interpreter services.
+Surveys were sent to randomly selected patients from each CHART hospital.
+A total of 40,172 surveys were included.
+Adding the new discharge information questions improved the internal consistency reliability from 0.45 to 0.72 and the hospital-level reliability from 0.75 to 0.81.
+New coordination of care composites had good internal consistency reliabilities ranging from 0.58 to 0.70 and hospital-level reliabilities ranging from 0.84 to 0.87.
+The new coordination of care composites were more closely correlated with overall hospital ratings and willingness to recommend than six of the seven original domains.
+The additional discharge information questions and the new coordination of care questions significantly improved the psychometric properties of the CAHPS Hospital Survey.
+Y: California Hospitals Assessment and Reporting Taskforce (CHART), Consumer Assessment of Health Care Providers and Systems (CAHPS) Hospital Survey (No need to annotate, just for notice).

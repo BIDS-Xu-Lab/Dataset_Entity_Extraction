@@ -1,0 +1,8 @@
+Human cytomegalovirus (HCMV) latency in CD34+ progenitor cells is the outcome of a complex and continued interaction of virus and host that is initiated during very early stages of infection and reflects pro- and anti-viral activity.
+We hypothesized that a key event during early infection could involve changes to host miRNAs, allowing for rapid modulation of the host proteome.
++ cells which were then subject to multiple in silico analyses to identify potential genes and pathways important for viral infection.
+The analyses focused on the upregulated miRNAs and were used to predict potential gene hubs or common mRNA targets of multiple miRNAs.
+Constitutive deletion of one target, the transcriptional regulator JDP2, resulted in a defect in latent infection of myeloid cells; interestingly, transient knockdown in differentiated dendritic cells resulted in increased viral lytic IE gene expression, arguing for subtle differences in the role of JDP2 during latency establishment and reactivation of HCMV.
+Finally, in silico predictions identified clusters of genes with related functions (such as calcium signaling, ubiquitination, and chromatin modification), suggesting potential importance in latency and reactivation.
+Consistent with this hypothesis, we demonstrate that viral IE gene expression is sensitive to calcium channel inhibition in reactivating dendritic cells.
+In conclusion, we demonstrate HCMV alters the miRNAome rapidly upon infection and that in silico interrogation of these changes reveals new insight into mechanisms controlling viral gene expression during HCMV latency and, intriguingly, reactivation.

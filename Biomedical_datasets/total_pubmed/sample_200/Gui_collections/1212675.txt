@@ -1,0 +1,5 @@
+Ketamine hydrochloride is commonly employed to sedate or anesthetize laboratory primates but its cardiac actions have not been previously described in these animals.
+Four baboons, Papio cynocephalus, were chronically instrumented with electromagnetic flow detectors on the ascending aorta and common carotid artery.
+Cardiac output, peak aortic flow velocity and peak aortic flow acceleration are all depressed by Ketamine, 5 mg/kg i.m.
+Peak aortic flow acceleration and peak carotid flow acceleration were equally depressed.
+Thus, peak carotid flow acceleration is a useful indirect index of the left ventricular response to Ketamine in the baboon.

@@ -1,0 +1,11 @@
+The advent of ceftazidime-avibactam (CAZ-AVI)-resistant carbapenem-resistant Klebsiella pneumoniae (CRKP) isolates has been steadily documented in recent years.
+We aimed to identify risk factors of CAZ-AVI-resistant CRKP infection and assess clinical outcomes of patients.
+The study retrospectively examined the clinical and microbiological data of patients with ceftazidime avibactam susceptible and ceftazidime avibactam-resistant Klebsiella pneumonia carbapenem-resistant enterobacteriaceae infection to identify risk factors, clinical features, and outcomes using multivariate logistic regression analysis.
+A total of 152 patients with CRKP infection were enrolled in this study.
+Patients with CAZ-AVI-resistant CRKP isolates (20/34 = 58.8%) had prior exposure to carbapenems (p=0.003) and had more tracheostomies (16/34 = 47.1%) (p=0.001).
+Only 8/28 (28.6%) patients with CAZ-AVI susceptible CRKP isolates died amongst those administered ceftazidime-avibactam compared to 49/90 (54.4%) who did not receive the same (p=0.016).
+1/9 (11.1%) patients with CAZ-AVI-resistant CRKP isolates who received colistin died compared to 13/25 (52%) who did not receive colistin (p=0.03).
+There was no association between presence of CAZ-AVI-resistant CRKP isolates and overall mortality (odds ratio: 0.7; 95% CI: 0.3, 1.6), and no independent predictors of risk factors to overall mortality in the group with CAZ-AVI-resistant CRKP isolates were noted.
+Early advent of CAZ-AVI resistance in CRE isolates highlights the dynamic necessity of routine CAZ-AVI resistance laboratory testing and antimicrobial stewardship programmes focusing on the utilization of all antibiotics.
+Consolidating the hospital infection control of tracheostomies may help to prevent CAZ resistance in CRKP.
+Colistin may aid in decreasing of mortality rates among patients with CAZ-AVI CRKP isolates.

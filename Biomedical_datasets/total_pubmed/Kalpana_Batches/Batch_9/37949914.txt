@@ -1,0 +1,8 @@
+The combination of the ability to absorb most of the solar radiation and simultaneously suppress infrared re-radiation allows selective solar absorbers (SSAs) to maximize solar energy to heat conversion, which is critical to several advanced applications.
+The intrinsic spectral selective materials are rare in nature and only a few demonstrated complete solar absorption.
+Typically, intrinsic materials exhibit high performances when integrated into complex multilayered solar absorber systems due to their limited spectral selectivity and solar absorption.
+In this study, we propose CoSbx (2 < x < 3) as a new exceptionally efficient SSA.
+Here we demonstrate that the low bandgap nature of CoSbx endows broadband solar absorption (0.96) over the solar spectral range and simultaneous low emissivity (0.18) in the mid-infrared region, resulting in a remarkable intrinsic spectral solar selectivity of 5.3.
+Under 1 sun illumination, the heat concentrates on the surface of the CoSbx thin film, and an impressive temperature of 101.7 °C is reached, demonstrating the highest value among reported intrinsic SSAs.
+Furthermore, the CoSbx was tested for solar water evaporation achieving an evaporation rate of 1.4 kg m-2 h-1.
+This study could expand the use of narrow bandgap semiconductors as efficient intrinsic SSAs with high surface temperatures in solar applications.

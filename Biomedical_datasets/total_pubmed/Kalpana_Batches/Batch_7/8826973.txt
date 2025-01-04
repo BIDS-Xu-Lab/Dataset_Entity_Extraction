@@ -1,0 +1,10 @@
+Longitudinal changes in serum insulin concentrations in relation to the natural history of glucose intolerance and factors associated with the incidence of NIDDM were studied in 838 nondiabetic Micronesian Nauruans over the 5.1-year period from 1982 to 1987.
+In 13 individuals who had data at three time-points and who developed NIDDM only at the final test, 2-h insulin levels followed an inverted V-shaped pattern as glucose tolerance declined to NIDDM.
+Subjects who were normal (n = 651) or had impaired glucose tolerance (IGT) (n = 187) at the 1982 baseline survey were divided into six natural history categories depending on glucose tolerance in 1987.
+Changes in glucose tolerance were accompanied by changes in mean 2-h insulin concentration that paralleled the inverted V pattern seen in the 13 individuals.
+Longitudinal changes in fasting insulin were less consistent, but mean levels increased as subjects developed NIDDM.
+The 5.1-year incidence of NIDDM was strongly related to baseline fasting and 2-h glucose concentrations, but associations with insulin levels were weak and inconsistent.
+Neither fasting nor 2-h insulin concentrations contributed to logistic regression models predicting deterioration in glucose tolerance, whereas fasting and 2-h glucose levels were included in all models and BMI also predicted deterioration from normal.
+These data showing sequential changes in insulin concentrations support the beta-cell exhaustion theory of NIDDM pathogenesis.
+However, in contrast to glucose concentrations and obesity, insulin levels are poor predictors of NIDDM risk in Nauruans.
+This reflects the complexity of interactions with other metabolic markers and the inability of a single examination to characterize the point along the inverted V curve of insulin secretion that an individual has reached.

@@ -1,0 +1,16 @@
+Dahl Salt Sensitive (DS) rats rapidly develop high blood pressure when exposed to a high-salt diet.
+Recent studies suggest that DS rats have poorly functioning baroreceptor afferents and baroreflexes even when salt intake is restricted.
+This study examines baroreceptor pressure- and mechano-transduction in DS, Dahl Resistant (DR), and Sprague-Dawley (SD) rats during low- and high-salt conditions.
+Single unit, regularly discharging baroreceptors were studied using an in vitro aortic arch-aortic nerve preparation.
+Pressure thresholds and suprathreshold pressure sensitivities were determined from responses to slow ramps of pressure.
+Pressure-diameter relations measured in each rat were used to transform pressure threshold and pressure sensitivity values to their mechanical equivalents in terms of aortic wall strain.
+A total of 407 unit baroreceptors were studied from 49 rats.
+Tail systolic blood pressures were significantly higher only in DS during high salt.
+Pressure threshold was similar for all groups on low salt.
+Exposure to a high-salt diet increased the mean pressure threshold for all three groups.
+Pressure threshold for high-salt diet was highest in DS and lowest in DR.
+Pressure sensitivities were lowest in DS and highest in DR on low salt.
+High salt had no significant effect on pressure sensitivity.
+The differences in threshold apparent when expressed in terms of pressure were eliminated by conversion to their mechanical equivalents (strain threshold and strain sensitivity).
+The results suggest that baroreceptors in the two Dahl rat strains represent two extremes from normal baroreceptor function.
+DS tend to be less pressure responsive than normal (SD), and DR tend to be somewhat more responsive to pressure.(ABSTRACT TRUNCATED AT 250 WORDS)

@@ -1,0 +1,10 @@
+Amphibian skin harbors microorganisms that are associated with the fungal pathogen Batrachochytrium dendrobatidis (Bd), which causes chytridiomycosis, one of the most significant wildlife diseases known.
+This pathogen originated in Asia, where diverse Bd lineages exist; hence, native amphibian hosts have co-existed with Bd over long time periods.
+Determining the nuances of this co-existence is crucial for understanding the prevalence and spread of Bd from a microbial context.
+However, associations of Bd with the natural skin microbiome remain poorly understood for Asian hosts, especially in relation to skin-associated fungi.
+We used 16 S rRNA and fungal internal transcribed spacer (ITS) gene sequencing to characterize the skin microbiome of four native Asian amphibian species and examined the relationships between Bd infection and their skin bacterial and fungal communities; we also analyzed the correlates of the putative anti-Bd bacteria.
+We show that both skin bacterial and fungal community structure and composition had significant associations with infection status (Bd presence/absence) and infection intensity (frequency of Bd sequence reads).
+We also found that the putative anti-Bd bacterial richness was correlated with Bd infection status and infection intensity, and observed that the relative abundance of anti-Bd bacteria roughly correspond with changes in both Bd prevalence and mean infection intensity in populations.
+Additionally, the microbial co-occurrence network of infected frogs was significantly different from that of uninfected frogs that were characterized by more keystone nodes (connectors) and larger proportions in correlations between bacteria, suggesting stronger inter-module bacterial interactions.
+These results indicate that the mutual effects between Bd and skin-associated microbiome, including the interplay between bacteria and fungi, might vary with Bd infection in susceptible amphibian species.
+This knowledge will help in understanding the dynamics of Bd from a microbial perspective, potentially contributing to mitigate chytridiomycosis in other regions of the world.

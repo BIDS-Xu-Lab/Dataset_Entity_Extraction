@@ -1,0 +1,10 @@
+Kainate receptors (KARs) are widely expressed the basal ganglia.
+In this study, we used electron microscopic immunocytochemistry and whole-cell recording techniques to examine the localization and function of KARs in the rat globus pallidus (GP).
+Dendrites were the most common immunoreactive elements, while terminals forming symmetric or asymmetric synapses and unmyelinated axons comprised most of the presynaptic labeling.
+To determine whether synaptically released glutamate activates KARs, we recorded excitatory postsynaptic currents (EPSCs) in the GP following single-pulse stimulation of the internal capsule.
+4-(8-Methyl-9H-1,3-dioxolo[4,5 h]{2,3}benzodiazepine-5-yl)-benzenamine hydrochloride (GYKI 52466, 100 microm), an alpha-amino-3-hydroxyl-5-methyl-4-isoxazole propionic acid (AMPA) receptor antagonist, reduced but did not completely block evoked EPSCs.
+The remaining EPSC component was mediated through activation of KARs because it was abolished by 6-cyano-7-nitroquinoxaline-2, 3-dione (CNQX), an AMPA/KAR antagonist.
+The rise time (10-90%) and decay time constant (tau) for those EPSCs were longer than those of AMPA-mediated EPSCs recorded before GYKI 52466 application.
+This inhibition was associated with a significant increase in paired-pulse facilitation ratio, suggesting a presynaptic action of KAR.
+KAR inhibition of EPSCs was blocked by the G-protein inhibitor, N-ethylmaleimide (NEM), or the protein kinase C (PKC) inhibitor calphostin C. Our results demonstrate that KAR activation has dual effects on glutamatergic transmission in the rat GP: (1) it mediates small-amplitude EPSCs; and (2) it reduces glutamatergic synaptic transmission through a presynaptic G-protein coupled, PKC-dependent, metabotropic mechanism.
+These findings provide evidence for the multifarious functions of KARs in regulating synaptic transmission, and open up the possibility for the development of pharmacotherapies to reduce the hyperactive subthalamofugal projection in Parkinson's disease.

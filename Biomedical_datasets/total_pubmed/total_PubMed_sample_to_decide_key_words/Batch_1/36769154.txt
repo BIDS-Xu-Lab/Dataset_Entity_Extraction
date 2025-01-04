@@ -1,0 +1,13 @@
+In the traditional method of the bio-fabrication of zinc oxide nanoparticles (ZnONPs), bacterial strains face metal toxicity and antimicrobial action.
+In the current study, an alkalescent nucleoside antibiotic was mixed with zinc hexanitrate to fabricate the ZnONPs.
+An integrated approach of DIAION HP-20 macroporous resin and sephadex LH-20 column chromatography was adopted to separate and purify alkalescent nucleoside AN03 from Streptomyces koyanogensis.
+Alkalescent nucleoside was confirmed by the Doskochilova solvent system.
+The bio-fabricated ZnONPs were characterized by using Fourier transform infrared (FTIR), X-ray diffraction (XRD), and transmission electron microscopy (TEM) analyses.
+The XRD spectrum and the TEM images confirmed the crystallinity and the spherical shape of the ZnONPs with an average size of 22 nm.
+FTIR analysis showed the presence of functional groups, which confirmed the bio-fabrication of ZnONPs from alkalescent nucleoside ANO3.
+In-vitro studies showed that 75 μg/mL of ZnONPs had a strong inhibitory zone (28.39 mm) against the Magnaporthe grisea and significantly suppressed the spore germination.
+SEM and TEM observations respectively revealed that ZnONPs caused breakage in hyphae and could damage the cells of M. grisea.
+Greenhouse experiments revealed that the foliar spray of ZnONPs could control the rice blast disease by 98%.
+Results also revealed that ZnONPs had positive effects on the growth of the rice plant.
+The present study suggested that ZnONPs could be fabricated from microbe-derived nucleoside antibiotics without facing the problems of metal toxicity and antimicrobial action, thus overcoming the problem of pathogen resistance.
+This could be a potent biocontrol agent in rice blast disease management.

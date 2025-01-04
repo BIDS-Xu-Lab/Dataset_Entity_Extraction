@@ -1,0 +1,119 @@
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+This	O
+is	O
+a	O
+56	O
+-	O
+year	O
+-	O
+old	O
+white	O
+male	O
+who	O
+has	O
+been	O
+complaining	O
+of	O
+having	O
+had	O
+a	B-problem
+lump	I-problem
+in	I-problem
+the	I-problem
+chest	I-problem
+for	O
+the	O
+past	O
+year	O
+or	O
+so	O
+and	O
+it	O
+has	O
+been	O
+getting	O
+larger	O
+and	O
+tender	O
+according	O
+to	O
+the	O
+patient	O
+.	O
+
+It	O
+is	O
+tender	O
+on	O
+palpation	B-test
+and	O
+also	O
+he	O
+feels	O
+like	O
+,	O
+when	O
+he	O
+takes	O
+a	O
+deep	O
+breath	O
+also	O
+,	O
+it	O
+hurts	O
+.	O
+
+CHRONIC	O
+/	O
+INACTIVE	O
+CONDITIONS	O
+
+1	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+2	O
+.	O
+
+Hyperlipidemia	B-problem
+.	O
+
+3	O
+.	O
+
+Glucose	B-problem
+intolerance	I-problem
+.	O
+
+4	O
+.	O
+
+Chronic	B-problem
+obstructive	I-problem
+pulmonary	I-problem
+disease	I-problem
+?	O
+
+5	O
+.	O
+
+Tobacco	B-problem
+abuse	I-problem
+.	O
+
+6	O
+.	O
+
+History	O
+of	O
+anal	B-problem
+fistula	I-problem
+.	O
+

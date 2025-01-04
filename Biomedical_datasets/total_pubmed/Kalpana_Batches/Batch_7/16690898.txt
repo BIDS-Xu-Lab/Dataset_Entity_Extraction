@@ -1,0 +1,12 @@
+Timely access to medical treatment is critical for patients with acute stroke because acute therapies must be given very quickly after symptom onset.
+We examined the effect of socioeconomic status on prehospital delays in stroke and transient ischemic attack (TIA) patients within a large, biracial population.
+By screening all local hospital ICD-9 codes 430 to 436, all stroke and TIA patients were identified during the calendar year of 1999.
+Cases must have used emergency medical services (EMS), lived at home, had their stroke at home, and had documented times of the 911 call and arrival to the emergency department.
+Socioeconomic status was estimated using economic data regarding the geocoded home residence census tract.
+Only 38% of stroke and TIA patients used EMS.
+There were 978 cases of stroke and TIA included in this analysis.
+The mean times were call to arrival on scene 6.5 minutes, on-scene time 14.1 minutes, and transport time 13.1 minutes.
+Lower community socioeconomic status was associated with all 3 EMS time intervals; however, all time differences were small: the largest difference was 5 minutes.
+Within our population, living in a poorer area does not appear to delay access to acute care for stroke in a clinically significant way.
+We did find small, statistically significant delays in prehospital times that were associated with poorer communities, black race, and increasing age.
+However, delays related to public recognition of stroke symptoms, and limited use of 911, are likely much more important than these small delays that occur with EMS systems.

@@ -1,0 +1,6 @@
+NeuroAiD, a traditional Chinese medicine widely used to treat stroke patients in China, was recently demonstrated in rodent models and in clinical trials to possess neuroregenerative and neuroprotective properties.
+In order to understand the mechanisms employed by NeuroAiD to bring about its neuroproliferative and neuroprotective effects, we investigated the impact of MLC901, a reformulated version of MLC601, on human neural progenitors undergoing neural differentiation at the molecular level by performing three independent microarray experiments.
+Functional annotations of the genes regulated by MLC901 that were associated with neurogenesis were found to be enriched.
+We also identified potential targets (FGF19, GALR2, MMP10, FGF3 and TDO2) of MLC901 that could promote neurogenesis and neuroprotection in the human brain.
+This work highlighted some interesting targets and offered some insights into the possible mechanism of action of MLC901.
+The discovery could also provide a platform to the development of future therapeutic targets.

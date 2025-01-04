@@ -1,0 +1,16 @@
+Basic helix-loop-helix ARNT like 2 (ARNTL2) is a transcription factor that controls the circadian rhythm.
+Amounts of studies have demonstrated the carcinogenic function of ARNTL2 in human malignant tumors albeit the underlying mechanisms remain poorly understood.
+We aimed to study the significance of ARNTL2 in bladder cancer (BLCA).
+Immunohistochemical staining, immunoblotting and the database from TCGA were used to analyze the clinical relevance of ARNTL2, enolase 1 (ENO1) and solute carrier family 31 member 1 (SLC31A1) in BLCA.
+The function of ARNTL2 was explored by cell proliferation assay, apoptosis, colony formation and xenografted tumorigenesis.
+The molecular mechanisms of ARNTL2-driving BLCA development were investigated by RT-qPCR, immunoblotting and luciferase assays.
+Glycolysis was checked by measuring glucose consumption and lactate production.
+ENO1 activity was assessed by using indicated assay kit.
+Overexpression of ARNTL2 facilitates the proliferation and tumorigenesis of BLCA cells through suppression of apoptosis and enhancement of glycolysis.
+Up-regulation of SLC31A1, ENO1, and enhancement of SLC31A1-mediated ENO1 activity were critical for ARNTL2-triggered glycolysis and malignant growth in BLCA cells.
+ARNTL2 was positively correlated with SLC31A1 and ENO1 in BLCA patients.
+High expression of ARNTL2, SLC31A1 or ENO1 predicted the poor prognosis of BLCA patients.
+Depletion of SLC31A1 and inhibition of glycolysis completely blunted the growth ability of BLCA cells.
+In summary, ARNTL2 facilitates the progression of BLCA via activating ENO1-mediated glycolysis in a SLC31A1-independent and -dependent manner.
+Inhibiting SLC31A1 and glycolysis may be an aspirational approach for the treatment of BLCA patients with overexpression of ARNTL2.
+Y TCGA (No need to annotate, just for notice).

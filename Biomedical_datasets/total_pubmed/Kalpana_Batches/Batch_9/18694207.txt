@@ -1,0 +1,2 @@
+Mapping medical school curricula using the MeSH tree allows medical school administrators and medical educators to obtain a complete and detailed view of the curriculum.
+Detailed curriculum guides are indexed and then matched to MeSH terms displaying the location and frequency of a topic, concept, or keyword within the curriculum.

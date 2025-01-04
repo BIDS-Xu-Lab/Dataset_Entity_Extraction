@@ -1,0 +1,7 @@
+As the most prominent sub-nuclear compartment in the interphase nucleus and the site of ribosome biogenesis, the nucleolus synthesizes and processes rRNA and also assembles ribosomal subunits.
+Though several lines of research in recent years have indicated that the nucleolus might have additional functions-such as the assembling of signal recognition particles, the processing of mRNA, tRNA and telomerase activities, and regulating the cell cycle-proteomic analyses of the nucleolus in three representative eukaryotic species has shown that a plethora of proteins either have no association with ribosome biogenesis or are of presently unknown function.
+This phenomenon  further indicates that the composition and function of the nucleolus is far more complicated than previously thought.
+Meanwhile, the available nucleolar proteome databases has provided new approaches and led to remarkable progress in understanding the nucleolus.
+Here, we have summarized recent advances in the study of the nucleolus, including new discoveries of its structure, function, genomics/proteomics as well as its origin and evolution.
+Moreover, we highlight several of the important unresolved issues in this field.
+Y: nucleolar proteome databases (No need to annotate, just for notice).

@@ -1,0 +1,7 @@
+To determine the radiographic progression of disease in rheumatoid arthritis (RA) patients from the Cooperative Systematic Studies of the Rheumatic Diseases clinical trial of auranofin (AUR) versus methotrexate (MTX) versus a combination of the two.
+Baseline (week-0) and study-end (week-48) hand/wrist radiographs in 200 of the 211 patients who completed this multicenter trial (95%) were scored blindly by 2 readers for the presence of erosions and joint space narrowing (JSN).
+Both intraobserver reliability and interobserver reliability were 0.80 for erosions (P < or = 0.001); intraobserver reliability and interobserver reliability were both 0.75 for JSN (P < or = 0.001).
+Worsening erosion and JSN scores occurred in all 3 treatment groups, but the difference from baseline reached significance only in the AUR group.
+Clinical improvement has been clearly documented in all 3 treatment groups in this trial.
+Radiographic deterioration occurs in RA even when clinical features improve, but progression of disease as determined radiographically may be slowed by treatment with MTX.
+Y Cooperative Systematic Studies of the Rheumatic Diseases (No need to annotate, just for notice).

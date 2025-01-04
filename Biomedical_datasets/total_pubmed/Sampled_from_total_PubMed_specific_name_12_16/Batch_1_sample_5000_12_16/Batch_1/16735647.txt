@@ -1,0 +1,13 @@
+To review the available literature on the pharmacology, pharmacokinetics, efficacy, toxicology, adverse effects, drug interactions, and dosage guidelines for deferasirox, an oral iron chelator, in Phase III trials.
+Reviewers searched the following databases for English-language studies: MEDLINE (1966-April 2006), International Pharmaceutical Abstracts (1970-April 2006), and the Cochrane Library Database.
+Key search terms included iron chelation, chelation, iron overload, deferasirox, and ICL670.
+Data on efficacy, toxicology, adverse effects, and pharmacokinetics for deferasirox were obtained from randomized, open-label, blinded clinical trials.
+Other information was obtained from the manufacturer, including unpublished studies in abstract form as well as available data on deferasirox.
+Deferasirox is an orally active iron chelator.
+In clinical trials, deferasirox demonstrated efficacy at dosages of 20 and 30 mg/kg/day in treating iron overload in patients with beta-thalassemia.
+Deferasirox has been studied in patients older than 2 years and appears to be safe, with the most common adverse effects reported being mild, transient nausea, gastrointestinal disturbances, and rash.
+There were no reports of serious adverse effects in trials to date.
+Deferasirox represents a new approach to the management of chronic iron overload in patients with chronic anemias who require blood transfusions.
+The available literature suggests that deferasirox is safe and as effective as the current standard of therapy at dosages of 20-30 mg/kg/day for beta-thalassemia.
+Further studies are needed to confirm its efficacy in other chronic transfusion-requiring diseases.
+Y and the names: MEDLINE, International Pharmaceutical Abstracts, Cochrane Library Database (No need to annotate, just for notice).

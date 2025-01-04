@@ -1,0 +1,9 @@
+Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are commonly used in pediatric patients; however, rapid development of resistance, due to non-adherence and cross-resistance, results in their discontinuation and limits their recycling.
+We evaluated the clinical experience of recycling NNRTIs despite documented NNRTI resistance (NNRTI-R), and examined virologic and CD4 cell count outcomes among participants enrolled in Longitudinal Epidemiologic Study to Gain Insight into HIV/AIDS in Children and Youth (LEGACY), a national HIV-infected pediatric cohort.
+We conducted a retrospective analysis of LEGACY participants with major NNRTI-R. Using chi-square analyses and logistic regression, we examined demographic and clinical factors associated with prescription of NNRTIs despite documented NNRTI-R, and associated changes in plasma HIV RNA viral load and CD4 cell counts.
+Sixteen of 133 (12%) participants with documented NNRTI-R re-started NNRTIs for a median of 370 days (IQR 105-919) with a median 402 days (IQR 70-841) between documentation of NNRTI-R to NNRTI recycling.
+Participants recycling NNRTIs were less likely to have documented past non-adherence (40.0% vs. 69.2%; p = 0.02).
+Among twelve patients with virologic data at 24 (± 8) weeks; seven (58.3%) experienced virologic suppression while on the recycled NNRTI-based regimens.
+Of the five who failed to suppress, three with subsequent genotyping developed additional NNRTI-R mutations compromising higher generation NNRTIs.
+While NNRTI's were recycled in only a small fraction of LEGACY participants harboring NNRTI-R mutations, such recycling increased the risk of inducing further resistance mutations that compromised use of higher generation NNRTIs.
+Y: Longitudinal Epidemiologic Study to Gain Insight into HIV/AIDS in Children and Youth (LEGACY) (No need to annotate, just for notice).

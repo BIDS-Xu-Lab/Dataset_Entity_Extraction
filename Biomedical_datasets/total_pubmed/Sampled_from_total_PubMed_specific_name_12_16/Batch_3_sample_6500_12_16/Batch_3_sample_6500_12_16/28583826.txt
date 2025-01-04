@@ -1,0 +1,15 @@
+Among patients with large colorectal sessile polyps or laterally spreading lesions, it is important to identify those at risk for submucosal invasive cancer (SMIC).
+Lesions with overt endoscopic evidence of SMIC are referred for surgery, although those without these features might still contain SMIC that is not visible on endoscopic inspection (covert SMIC).
+Lesions with a high covert SMIC risk might be better suited for endoscopic submucosal dissection than for endoscopic mucosal resection (EMR).
+We analyzed a group of patients with large colon lesions to identify factors associated with SMIC, and examined lesions without overt endoscopic high-risk signs to determine factors associated with covert SMIC.
+We performed a prospective cohort study of consecutive patients referred for EMR of large sessile or flat colorectal polyps or laterally spreading lesions (≥20 mm) at academic hospitals in Australia from September 2008 through September 2016.
+We collected data on patient and lesion characteristics, outcomes of procedures, and histology findings.
+We excluded serrated lesions from the analysis of covert SMIC due to their distinct phenotype and biologic features.
+We analyzed 2277 lesions (mean size, 36.9 mm) from 2106 patients (mean age, 67.7 years; 53.2% male).
+SMIC was evident in 171 lesions (7.6%).
+Factors associated with SMIC included Kudo pit pattern V, a depressed component (0-IIc), rectosigmoid location, 0-Is or 0-IIa+Is Paris classification, non-granular surface morphology, and increasing size.
+After exclusion of lesions that were obviously SMIC or serrated, factors associated with covert SMIC were rectosigmoid location (odds ratio, 1.87; P = .01), combined Paris classification, surface morphology (odds ratios, 3.96-22.5), and increasing size (odds ratio, 1.16/10 mm; P = .012).
+In a prospective study of 2106 patients who underwent EMR for large sessile or flat colorectal polyps or laterally spreading lesions, we associated rectosigmoid location, combined Paris classification and surface morphology, and increasing size with increased risk for covert malignancy.
+Rectosigmoid 0-Is and 0-IIa+Is non-granular lesions have a high risk for malignancy, whereas proximally located 0-Is or 0-IIa granular lesions have a low risk.
+These findings can be used to inform decisions on which patients should undergo endoscopic submucosal dissection, EMR, or surgery.
+Y ClinicalTrials.gov (No need to annotate, just for notice).

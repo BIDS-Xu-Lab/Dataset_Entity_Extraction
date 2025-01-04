@@ -1,0 +1,13 @@
+Several retrospective clinical studies and recent prospective animal models demonstrate improved outcomes with beta-blocker administration after isolated blunt head injury.
+However, no investigations to date have examined the influence of race on the potential therapeutic effectiveness of these medications.
+Our hypothesis was that mortality benefits associated with beta-blocker exposure after isolated blunt head injury varies based on ethnicity.
+The trauma registry and the surgical intensive care unit (ICU) databases of an academic Level I trauma center were used to identify all patients sustaining blunt head injury requiring ICU admission from July 1998 to December 2009.
+Patients sustaining major associated extracranial injuries (Abbreviated Injury Scale [AIS] score ≥ 3 in any body region) were excluded.
+Patient demographics, injury profile, Injury Severity Score, and beta-blocker exposure were abstracted.
+The primary outcome evaluated was in-hospital mortality stratified by ethnicity.
+During the 11-year study period, 3,750 patients were admitted to the Los Angeles County + University of Southern California Medical Center trauma ICU because of blunt trauma.
+Of these, 65% (n = 2,446) had an "isolated" head injury.
+When stratified by race, most patients were Hispanics (60%), followed by Whites (21%), Asians (11%), and African Americans (8%).
+After adjusting for confounding variables with multivariate regression, only those of Asian and Hispanic descent demonstrated significantly improved outcomes associated with beta-blocker administration.
+Our results indicate that beta-blockade after traumatic brain injury may not benefit all races equally.
+Further prospective research is necessary to assess this discrepancy in treatment benefit and explore other possible therapeutic interventions.

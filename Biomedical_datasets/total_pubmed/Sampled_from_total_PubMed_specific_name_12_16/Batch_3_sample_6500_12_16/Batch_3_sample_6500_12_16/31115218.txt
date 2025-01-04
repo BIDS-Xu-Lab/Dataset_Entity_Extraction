@@ -1,0 +1,11 @@
+Helicobacter pylori is a gram-negative bacterium infecting approximately 50% of the world's population.
+Antibiotic resistance in H. pylori has significantly increased due to the overuse and misuse of common antibiotics.
+Mutations in the 23S rRNA gene and other H. pylori genetic mutations have been identified as significant drivers in the emergence of resistance.
+Therefore, there is an urgent need for genetic analysis of H. pylori antibiotic resistance.
+Published H. pylori resistance genes were collected from PubMed websites by bibliometrics.
+Pathway analysis and operon analysis were performed using the Kyoto Encyclopedia of Genes and Genomes (KEGG), the Database for Annotation, Visualization and Integrated Discovery (DAVID), and Database of prOkaryotic OpeRons (DOOR) databases to investigate pathways and biological functions of resistance genes and statistically discover novel resistance genes.
+A total of 148 genes were mined from the literature using bibliometrics, and 46 enriched pathways were identified using KEGG.
+Subsequently, 7 novel resistant genes of H. pylor, including HP0776, HP0192, HP0193, HP0475, HP1057, HP0632, and HP0633, were identified and predicted by functional enrichment analysis of pathways and operons.
+The discovery of these novel H. pylori resistance genes is of great significance to treat H. pylori-induced diseases and develop optimal treatment regimens.
+They also provide theoretical fundamentals for epidemiological prevention and strengthen our understanding of the molecular mechanism of H. pylori resistance to antibiotics.
+Y KEGG, DAVID, DOOR (No need to annotate, just for notice).

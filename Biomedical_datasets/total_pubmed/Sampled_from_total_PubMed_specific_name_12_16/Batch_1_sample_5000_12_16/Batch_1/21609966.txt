@@ -1,0 +1,5 @@
+Catalogue of Somatic Mutations in Cancer (COSMIC) (http://www.sanger.ac.uk/cosmic) is a publicly available resource providing information on somatic mutations implicated in human cancer.
+Release v51 (January 2011) includes data from just over 19,000 genes, 161,787 coding mutations and 5573 gene fusions, described in more than 577,000 tumour samples.
+COSMICMart (COSMIC BioMart) provides a flexible way to mine these data and combine somatic mutations with other biological relevant data sets.
+This article describes the data available in COSMIC along with examples of how to successfully mine and integrate data sets using COSMICMart.
+Y: Catalogue of Somatic Mutations in Cancer (COSMIC), COSMICMart (COSMIC BioMart) (No need to annotate, just for notice).

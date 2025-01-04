@@ -1,0 +1,6 @@
+The lungs of the exteriorized fetal lamb offer an unusually good opportunity for measuring the permeability of lung capillary and alveolar walls, because access to plasma, interstitial fluid and alveolar liquid can be obtained without seriously disturbing their physiological relationships.
+Although there are probably some differences in permeability between fetal and air-breathing lungs, the underlying pattern appears to be similar.
+Large water-soluble molecules, including proteins, can penetrate capillary but not alveolar walls.
+The latter appear to be impermeable to molecules with diffusion radii greater than 0.5-0.6 nm.
+Pore theory can be used to characterize these permeabilities and to obtain estimates of osmotic reflection coefficients for various water-soluble substances.
+From them, predictions can be made of the bulk movements of liquid to be expected in a variety of circumstances, including the adaptation of the lungs at birth, lung oedema and drowning in sea water or fresh water.

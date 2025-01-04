@@ -1,0 +1,14 @@
+There is widespread variation in the management of rare orthopaedic disease, in a large part owing to uncertainty.
+No individual surgeon or hospital is typically equipped to amass sufficient numbers of cases to draw robust conclusions from the information available to them.
+The programme of research will establish the British Orthopaedic Surgery Surveillance (BOSS) Study; a nationwide reporting structure for rare disease in orthopaedic surgery.
+The BOSS Study is a series of nationwide observational cohort studies of pre-specified orthopaedic disease.
+All relevant hospitals treating the disease are invited to contribute anonymised case details.
+Data will be collected digitally through REDCap, with an additional bespoke software solution used to regularly confirm case ascertainment, prompt follow-up reminders and identify potential missing cases from external sources of information (i.e. national administrative data).
+With their consent, patients will be invited to enrich the data collected by supplementing anonymised case data with patient reported outcomes.
+The study will primarily seek to calculate the incidence of the rare diseases under investigation, with 95% confidence intervals.
+Descriptive statistics will be used to describe the case mix, treatment variations and outcomes.
+Inferential statistical analysis may be used to analyze associations between presentation factors and outcomes.
+Types of analyses will be contingent on the disease under investigation.
+This study builds upon other national rare disease supporting structures, particularly those in obstetrics and paediatric surgery.
+It is particularly focused on addressing the evidence base for quality and safety of surgery, and the design is influenced by the specifications of the IDEAL collaboration for the development of surgical research.
+Y: British Orthopaedic Surgery Surveillance (BOSS) Study, REDCap (No need to annotate, just for notice).

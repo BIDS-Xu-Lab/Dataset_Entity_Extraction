@@ -1,0 +1,14 @@
+Recent findings indicate that metabolic disturbances are involved in multiple sclerosis (MS) pathology and influence the susceptibility to treatment, directing attention toward anti-diabetic drugs such as metformin and pioglitazone.
+Liraglutide, a drug of the glucagon-like peptide-1 (GLP-1) family, is also anti-diabetic and weight-reducing and is, moreover, directly neuroprotective and anti-inflammatory in a broad spectrum of experimental models of brain disease.
+In this study we investigate the potential for this FDA-approved drug, liraglutide, as a treatment for MS by utilizing the experimental model, experimental autoimmune encephalitis (EAE).
+Methods: EAE was induced in 30 female Lewis rats that subsequently received twice-daily liraglutide (200 μg/kg s.c.) or saline.
+Healthy controls were included (saline, n = 6, liraglutide, n = 7).
+Clinical score and weight were assessed daily by blinded observers.
+Animals were killed at peak disease severity (day 11) or if exceeding humane endpoint (clinical score ≥4).
+Protein levels of manganese superoxide dismutase (MnSOD), amyloid precursor protein (APP), and glial fibrillary acidic protein (GFAP) were determined.
+Liraglutide treatment delayed disease onset (group clinical score significantly >0) by 2 days and markedly reduced disease severity (median clinical score 2 vs. 5; p = 0.0003).
+Fourteen of 15 (93%) of vehicle-treated rats reached the humane endpoint (clinical score ≥4) by day 11 compared to 5 of 15 (33%) of liraglutide-treated rats (p = 0.0004).
+Liraglutide substantially increased the mitochondrial antioxidant MnSOD (p < 0.01) and reduced the neurodegenerative marker APP (p = 0.036) in the brain.
+GFAP levels were not significantly changed with drug treatment (p = 0.09).
+Conclusion: We demonstrate, for the first time, that liraglutide treatment delays onset of EAE in Lewis rats and is associated with improved protective capacity against oxidative stress.
+These data suggest GLP-1 receptor agonists should be investigated further as a potential therapy for MS.

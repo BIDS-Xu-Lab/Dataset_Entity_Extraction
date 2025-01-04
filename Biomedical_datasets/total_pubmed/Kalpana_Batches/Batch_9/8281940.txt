@@ -1,0 +1,9 @@
+The 1,25-dihydroxyvitamin-D3-(calcitriol)-induced medium osteocalcin and cellular osteocalcin mRNA concentrations are increased in a dose-dependent and time-dependent manner by prior treatment of the human MG-63 osteosarcoma cells with insulin-like growth factor-I (IGF-I).
+In addition, IGF-I reverses the inhibitory effects of dexamethasone and enhances the effects of retinoic acid on osteocalcin synthesis.
+The stimulatory effect of IGF-I on osteocalcin synthesis is accompanied by stabilization of osteocalcin mRNA and a decrease of AP-1 binding to the osteocalcin promoter.
+The binding of the vitamin-D receptor (VDR) to its cognate response element is not affected by IGF-I.
+In contrast to its effects on osteocalcin synthesis, both baseline and calcitriol-stimulated alkaline phosphatase activities are decreased by IGF-I treatment.
+Furthermore, IGF-I has mitogenic effects on MG-63 cells.
+The proliferation of the cells and the levels of c-jun mRNA are greatly increased during IGF-I treatment.
+Calcitriol reduces or eliminates both these effects.
+The low concentrations of IGF-I used in this study suggest that IGF-I is an important normal regulator of the synthesis of osteocalcin, a bone calcium-binding protein participating in bone mineralization, by modulating the effects of steroid hormones on its synthesis.

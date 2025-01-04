@@ -1,0 +1,8 @@
+The Salmonella typhimurium PhoP-repressed locus prgHIJK encodes components of a sec-independent type III secretion apparatus.
+This apparatus is composed of at least 17 proteins encoded on a 40 kb pathogenicity Island located at centisome 63 on the S. typhimurium chromosome.
+The secretion apparatus and some of its targets, SapB, SapC and SspD, are necessary for epithelial cell invasion.
+The transcription of many invasion genes, including prgHIJK, is coordinately activated by HilA, a transcription factor encoded within the pathogenicity island.
+In this report we identify sirA, a gene located outside the pathogenicity island that is essential for induction of prgHIJK and hilA transcription.
+sirA encodes a 234-amino-acid protein that is essential for S. typhimurium Ssp (Salmonella secreted protein) secretion and invasion and is similar to response regulators of two-component regulatory systems.
+sirA-mutant phenotypes could be suppressed by two DNA clones from unlinked loci, designated sirB and sirC. These data suggest that SirA may be phosphorylated in response to S. typhimurium sensing a mammalian microenvironment.
+Furthermore, SirA phosphorylation is predicted to initiate a cascade of transcription-factor synthesis which results in invasion-gene transcription, Ssp secretion, and bacterial invasion of epithelia.

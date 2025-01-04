@@ -1,0 +1,9 @@
+Voltage-gated Na+ and K+ channels play key roles in the excitability of skeletal muscle fibers.
+In this study we investigated the steady-state and kinetic properties of voltage-gated Na+ and K+ currents of slow and fast skeletal muscle fibers in zebrafish ranging in age from 1 day postfertilization (dpf) to 4-6 dpf.
+The inner white (fast) fibers possess an A-type inactivating K+ current that increases in peak current density and accelerates its rise and decay times during development.
+As the muscle matured, the V50s of activation and inactivation of the A-type current became more depolarized, and then hyperpolarized again in older animals.
+The activation kinetics of the delayed outward K+ current in red (slow) fibers accelerated within the first week of development.
+The tail currents of the outward K+ currents were too small to allow an accurate determination of the V50s of activation.
+Red fibers did not show any evidence of inward Na+ currents; however, white fibers expressed Na+ currents that increased their peak current density, accelerated their inactivation kinetics, and hyperpolarized their V50 of inactivation during development.
+The action potentials of white fibers exhibited significant changes in the threshold voltage and the half width.
+These findings indicate that there are significant differences in the ionic current profiles between the red and white fibers and that a number of changes occur in the steady-state and kinetic properties of Na+ and K+ currents of developing zebrafish skeletal muscle fibers, with the most dramatic changes occurring around the end of the first day following egg fertilization.

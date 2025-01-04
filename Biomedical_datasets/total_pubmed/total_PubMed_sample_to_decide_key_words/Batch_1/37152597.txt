@@ -1,0 +1,13 @@
+Magnetic susceptibility changes in brain MRI of Wilson's disease (WD) patients have been described in subcortical nuclei especially the basal ganglia.
+The objectives of this study were to investigate its relationship with other microstructural and functional alterations of the subcortical nuclei and the diagnostic utility of these MRI-related metrics.
+A total of 22 WD patients and 20 healthy controls (HCs) underwent 3.0T multimodal MRI scanning.
+Susceptibility, volume, diffusion microstructural indices and whole-brain functional connectivity of the putamen (PU), globus pallidus (GP), caudate nucleus (CN), and thalamus (TH) were analyzed.
+Receiver operating curve (ROC) was applied to evaluate the diagnostic value of the imaging data.
+Correlation analysis was performed to explore the connection between susceptibility change and microstructure and functional impairment of WD and screen for neuroimaging biomarkers of disease severity.
+Wilson's disease patients demonstrated increased susceptibility in the PU, GP, and TH, and widespread atrophy and microstructural impairments in the PU, GP, CN, and TH.
+Functional connectivity decreased within the basal ganglia and increased between the PU and cortex.
+The ROC model showed higher diagnostic value of isotropic volume fraction (ISOVF, in the neurite orientation dispersion and density imaging model) compared with susceptibility.
+Severity of neurological symptoms was correlated with volume and ISOVF.
+Susceptibility was positively correlated with ISOVF in GP.
+Microstructural impairment of the basal ganglia is related to excessive metal accumulation in WD.
+Brain atrophy and microstructural impairments are useful neuroimaging biomarkers for the neurological impairment of WD.

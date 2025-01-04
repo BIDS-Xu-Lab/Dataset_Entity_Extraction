@@ -1,0 +1,13 @@
+In 2014, a composite pack containing mifepristone-buccal misoprostol, indicated for use to 63 days gestation replaced the existing regimen for early medical abortion (EMA) in Australia.
+To provide updated efficacy and safety information for the use of mifepristone-buccal misoprostol for EMA in Australia, and assess the effect of patient age and gestational age on efficacy.
+Observational cohort study of 15 008 women attending one of 16 Marie Stopes International clinics in Australia for an EMA (gestational age ≤ 63 days) between 1 March 2013 and 30 September 2015.
+Administration of 200 mg oral mifepristone in-clinic was followed 24-48 h later by 800 μg buccal misoprostol self-administered at home.
+Method success was defined as complete abortion not requiring surgical intervention.
+Follow-up information was available for 87.14% (13 078/15 008) of women.
+Likelihood of follow-up was significantly lower for women from rural or remote locations (adjusted odds ratio, 0.47; P < 0.001).
+Medical abortion was successful in 95.16% (12 445/13 078) of women with follow-up.
+Higher patient and gestational ages were associated (P < 0.001) with a slight increase in method failure.
+There were 674 serious adverse events (5.15%), mainly due to method failure.
+Infection (15; 0.11%) and haemorrhage (17; 0.13%) were rare.
+One death was recorded (<0.01%); however, an association between EMA and cause of death, necrotising pneumonia, was not established.
+Mifepristone-buccal misoprostol is an effective and safe alternative to surgical termination of pregnancy up to 63 days gestation.

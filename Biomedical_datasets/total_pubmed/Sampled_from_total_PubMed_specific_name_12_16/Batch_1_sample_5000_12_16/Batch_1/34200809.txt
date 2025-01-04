@@ -1,0 +1,13 @@
+We evaluate the feasibility of a concurrent application of sorafenib and external beam radiation therapy (EBRT) for advanced hepatocellular carcinoma (HCC).
+PubMed, Embase, Medline, and Cochrane Library were searched up to 9 April 2021.
+The primary endpoint was grade ≥3 complications, and the secondary endpoint was overall survival (OS).
+Subgroup analyses were performed for studies with the EBRT targets, intrahepatic vs. non-intrahepatic lesions (e.g., extrahepatic metastases or malignant vessel involvement only).
+Eleven studies involving 512 patients were included in this meta-analysis.
+Pooled rates of gastrointestinal, hepatologic, hematologic, and dermatologic grade ≥3 toxicities were 8.1% (95% confidence interval (CI): 4.8-13.5, I2 = ~0%), 12.9% (95% CI: 7.1-22.1, I2 = 22.4%), 9.1% (95% CI: 3.8-20.3, I2 = 51.3%), and 6.8% (95% CI: 3.8-11.7, I2 = ~0%), respectively.
+Pooled grade ≥3 hepatologic and hematologic toxicity rates were lower in studies targeting non-intrahepatic lesions than those targeting intrahepatic lesions (hepatologic: 3.3% vs. 17.1%, p = 0.041; hematologic: 3.3% vs. 16.0%, p = 0.078).
+Gastrointestinal and dermatologic grade ≥3 complications were not significantly different between the subgroups.
+Regarding OS, concurrent treatment was more beneficial than non-concurrent treatment (odds ratio: 3.3, 95% CI: 1.3-8.59, p = 0.015).
+One study reported a case of lethal toxicity due to tumor rupture and gastrointestinal bleeding.
+Concurrent treatment can be considered and applied to target metastatic lesions or local vessel involvement.
+Intrahepatic lesions should be treated cautiously by considering the target size and hepatic reserve.
+Y PubMed, Embase, Medline, Cochrane Library (No need to annotate, just for notice).

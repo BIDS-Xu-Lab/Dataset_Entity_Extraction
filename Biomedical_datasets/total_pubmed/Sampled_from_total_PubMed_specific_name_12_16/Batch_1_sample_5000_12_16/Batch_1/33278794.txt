@@ -1,0 +1,14 @@
+Colectomies are common yet costly, with high surgical-site infection rates.
+Safety-net hospitals (SNHs) carry a large proportion of uninsured or Medicaid-insured patients, which has been associated with poorer surgical outcomes.
+Few studies have examined the effect of safety-net burden (SNB) status on colectomy outcomes.
+We aimed to quantify the independent effects of hospital SNB and surgical site infection (SSI) status on colectomy outcomes, as well as the interaction effect between SSIs and SNB.
+We used the Healthcare Cost and Utilization Project's State Inpatient Databases for California, Florida, New York, Maryland, and Kentucky.
+We included 459,568 colectomies (2009 to 2014) for analysis, excluding patients age <18 y and rectal cases.
+The primary and secondary outcomes were inpatient mortality and complications, respectively.
+[CI]: 1.25-1.51, P < 0.001), compared with low SNB hospitals and to experience perioperative complications (aOR: 1.12, 95% CI: 1.04-1.20, P < 0.01).
+Colectomy patients with SSIs also had greater odds of in-hospital mortality (aOR:
+1.92, 95% CI: 1.83-2.02, P < 0.001) and complications (aOR: 3.65, 95% CI: 3.55-3.75, P < 0.001) compared with those without infections.
+Patients treated at SNHs who developed a SSI were even more likely to have an additional perioperative complication (aOR: 4.33, 95% CI: 3.98-4.71, P < 0.001).
+Our study demonstrated that colectomy patients at SNHs have poorer outcomes, and for patients with SSIs, this disparity was even more pronounced in the likelihood for a complication.
+SNB should be recognized as a significant hospital-level factor affecting colectomy outcomes, with SSIs as an important quality metric.
+Y: Healthcare Cost and Utilization Project's State Inpatient Databases (No need to annotate, just for notice).

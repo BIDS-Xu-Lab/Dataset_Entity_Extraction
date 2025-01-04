@@ -1,0 +1,14 @@
+Regenerative, cell-based therapy is a promising treatment option for diabetic kidney disease (DKD), which has no cure.
+To prepare for clinical translation, this systematic review and meta-analysis summarized the effect of cell-based interventions in DKD animal models and treatment-related factors modifying outcomes.
+Electronic databases were searched for original investigations applying cell-based therapy in diabetic animals with kidney endpoints (January 1998-May 2019).
+Weighted or standardized mean differences were estimated for kidney outcomes and pooled using random-effects models.
+Subgroup analyses tested treatment-related factor effects for outcomes (creatinine, urea, urine protein, fibrosis, and inflammation).
+In 40 studies (992 diabetic rodents), therapy included mesenchymal stem/stromal cells (MSC; 61%), umbilical cord/amniotic fluid cells (UC/AF; 15%), non-MSC (15%), and cell-derived products (13%).
+Tissue sources included bone marrow (BM; 65%), UC/AF (15%), adipose (9%), and others (11%).
+Cell-based therapy significantly improved kidney function while reducing injury markers (proteinuria, histology, fibrosis, inflammation, apoptosis, epithelial-mesenchymal-transition, oxidative stress).
+Preconditioning, xenotransplantation, and disease-source approaches were effective.
+MSC and UC/AF cells had greater effect on kidney function while cell products improved fibrosis.
+BM and UC/AF tissue sources more effectively improved kidney function and proteinuria vs adipose or other tissues.
+Cell dose, frequency, and administration route also imparted different benefits.
+In conclusion, cell-based interventions in diabetic animals improved kidney function and reduced injury with treatment-related factors modifying these effects.
+These findings may aid in development of optimal repair strategies through selective use of cells/products, tissue sources, and dose administrations to allow for successful adaptation of this novel therapeutic in human DKD.

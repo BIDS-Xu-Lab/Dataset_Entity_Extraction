@@ -1,0 +1,16 @@
+We conducted this systematic review to compile the evidence for the role of neutrophil to lymphocyte ratio (NLR) in odontogenic infection (OI) and to determine whether NLR is elevated in patients with OI.
+This was done to aid physicians in better understanding this condition for clinical management.
+The search was conducted on PubMed, Scopus, and Web of Science libraries on March 30, 2023.
+Two reviewers independently screened the studies using Endnote software.
+The Newcastle-Ottawa Scale (NOS) was used to evaluate the quality of the studies.
+A total of nine studies were included in the review.
+Among patients with OI, positive and statistically significant correlations of NLR were seen with more severe disease, a prolonged hospital stay, postoperative requirement of antibiotics, and total antibiotic dose needed.
+In the receiver operating characteristics (ROC) analysis, the optimum cut-off level of NLR was 5.19 (specificity: 81, sensitivity: 51).
+In addition, NLR was correlated with preoperative fever (p = 0.001).
+Among patients with Ludwig's Angina, NLR could predict disease severity and length of stay in the hospital (p = 0.032 and p = 0.033, respectively).
+In addition, the relationship between the NLR and mortality was statistically significant (p = 0.026, specificity of 55.5%, and sensitivity of 70.8%).
+Among patients with severe oral and maxillofacial space infection, a positive correlation was found between IL-6 and CRP with NLR (rs = 0.773, P = 0.005 and rs = 0.556, P = 0.020, respectively).
+Also, a higher NLR was considered an essential predictor of organ involvement (P = 0.027) and the number of complications (P = 0.001).
+However, among diabetes mellitus (DM) patients afflicted with submandibular abscesses, NLR had no association with therapeutic response.
+Many people around the world suffer from OI, and a cheap and fast biomarker is needed for it.
+Interestingly, inflammation plays a role in this infection, and elevated NLR levels can be a good biomarker of inflammation and, as a result, for OI progression.

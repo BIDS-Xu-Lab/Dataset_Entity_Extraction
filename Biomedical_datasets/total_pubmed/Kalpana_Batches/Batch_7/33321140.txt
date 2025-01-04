@@ -1,0 +1,14 @@
+Firefighter uniforms protect firefighters from exposure to potentially harmful chemicals including a range of semi-volatile organic compounds (SVOCs).
+Contaminated uniforms can become a secondary source of firefighters' exposure to these chemicals.
+There is inconsistency on the removal efficiency of SVOCs during the cleaning, laundering and field decontamination of firefighting uniforms.
+Therefore, this study aims to assess how effective decontamination and laundering processes are in reducing firefighter uniforms as a vector for transport and exposure to SVOCs.
+Firefighters who had attended a controlled house fire and simulated container burns had their uniforms sampled pre- and post-laundering.
+Clean station wear was laundered with contaminated uniforms and after a load of contaminated uniforms to assess inter and intra load contamination.
+Surface wipes were collected from uniforms across 12 fire stations, after they had returned from a laundering provider.
+Concentrations of 13 polycyclic aromatic hydrocarbons (PAHs), six organophosphate flame retardants (OPFRs) and seven polybrominated diphenyl ethers (PBDEs) were measured in the collected samples.
+The concentrations of ∑13 PAHs in firefighters uniforms ranged between 0.063 and 43 μg g-1, while concentration of ∑6 OPFRs were between 0.061 and 90 μg g-1 with ∑7 PBDEs concentrations being measured between 0.00054 and 0.97 μg g-1.The highest concentrations of ∑13 PAHs were measured on the outer layers of gloves at an average of 19 μg g-1, with the highest ∑6 OPFRs concentrations being measured in the middle layers of gloves at an average of 31 μg g-1.
+The highest ∑7 PBDEs concentrations were measured on the shell layers of turnout jackets at 0.42 μg g-1.
+The significant reduction in ∑13 PAHs after laundering or decontamination was only found in 3 of the 16 sampled areas from firefighting uniforms.
+No significant differences were found in the between pre- and post-laundering concentrations of ∑6 OPFRs or ∑7 PBDEs in firefighting uniforms.
+The current laundering techniques do not appear to effectively remove PAHs, OPFRs and PBDEs at the measured concentrations from firefighters' uniforms.
+Further research is required to assess if chemical exposure though firefighting uniforms poses a health risk to firefighters and to develop methods for the removal of SVOCs from firefighting uniforms.

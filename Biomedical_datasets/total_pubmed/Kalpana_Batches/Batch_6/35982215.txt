@@ -1,0 +1,14 @@
+Oesophageal cancer survivorship is afflicted by cancer cachexia related weight loss and nutrition impact symptoms.
+Identifying the factors which predict cancer cachexia specifically is warranted in order to identify those at risk and render the right kind of support.
+We aimed to assess if preoperative and postoperative body mass index (BMI) adjusted weight loss grading system (WLGS) is predictive of cancer cachexia at one year after surgery for oesophageal cancer.
+Data were used from a prospective nationwide cohort study on patients operated on for oesophageal cancer in Sweden between 2013 and 2018 included at one year after surgery.
+The study exposure is BMI adjusted weight loss graded into one of five distinct weight loss grades (grades 0-4), defined in accordance with the WLGS by combining BMI and percentage weight loss, assessed at two clinical time points: preoperative and at 6 months post-surgery for oesophageal cancer.
+The study outcome is subjective measures of cancer cachexia one year after surgery, assessed using the cancer-cachexia specific questionnaire EORTC QLQ-CAX24.
+Multivariable linear regression models calculated mean score differences (MD) with 95% confidence intervals (CI) adjusted for predefined confounders.
+Statistical significance at p < 0.05 together with a clinically relevant difference of 10-points in mean scores was considered as a significant difference.
+Among a total of 232 patients, the highest grade of preoperative WLGS 4 was associated with significantly worse physical decline than lower grades of WLGS 1 (MD -10, 95% CI: -20 to -1) and WLGS 2 (MD -11, 95% CI: -20 to -2).
+Those with preoperative WLGS 2, 3 and 4 reported lower scores on the adequacy of information on weight loss provided to them than those with preoperative WLGS 0.
+Those with the highest postoperative WLGS 4 had greater eating and weight loss worry than WLGS 2 (MD -17, 95% CI: -32 to -3) and WLGS 3 (MD -11, 95% CI: -21 to -2) and worse physical decline than WLGS 0 (MD -14, 95% CI: -25 to -2).
+Higher grades of both preoperative and postoperative WLGS are predictive of cancer cachexia related physical decline one year after surgery for oesophageal cancer.
+Additionally, preoperative and postoperative WLGS were also predictive of inadequate information concerning weight loss and more worry regarding eating and weight loss, respectively.
+The WLGS may be an effective risk prediction tool for postoperative cachexia related physical decline in patients undergoing treatment for oesophageal cancer emphasizing its usability in the clinical setting.

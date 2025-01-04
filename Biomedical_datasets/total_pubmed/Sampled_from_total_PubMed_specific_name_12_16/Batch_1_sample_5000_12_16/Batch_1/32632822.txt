@@ -1,0 +1,8 @@
+Patient-related risk factors for venous thromboembolism (VTE) are infrequently studied.
+We compared the role of patient-related risk factors for VTE in patients with solid organ cancers to their role in patients without cancer using National Inpatient Sample (NIS) data.
+Patients with cancer: risk of VTE hospitalization; Increased: chronic pulmonary disease (OR 1.172, 95% CI 1.102-1.247), obesity (OR 1.369, 95% CI 1.244-1.506).
+Decreased: liver disease (OR 0.654, 95% CI 0.562-0.762), chronic kidney disease (CKD) (OR 0.539, 95% CI 0.491-0.593), end-stage renal disease (ESRD) (OR 0.247, 95% CI 0.187-0.326).
+Patients without cancer: Risk of VTE hospitalization; Increased: age (OR 1.024, 95% CI 1.022-1.025), congestive heart failure (OR 1.221, 95% CI: 1.107-1.346), chronic pulmonary disease (OR 1.372, 95% CI 1.279-1.473), obesity (OR 2.627, 95% CI 2.431-2.838).
+Decreased: female gender (OR 0.772, 95% CI 0.730-0.816), diabetes (OR 0.756, 95% CI 0.701-0.815), ESRD (OR 0.315, 95% CI 0.252-0.395).
+In conclusion, chronic pulmonary disease and obesity increase VTE hospitalization risk in patients with and without cancer and the risk decreases in cancer patients with liver disease, CKD or ESRD.
+Y and National Inpatient Sample (NIS) data (No need to annotate, just for notice).

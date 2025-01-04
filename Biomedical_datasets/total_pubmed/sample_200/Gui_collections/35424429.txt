@@ -1,0 +1,6 @@
+Photoacoustic (PA) imaging has emerged as a promising bio-imaging technique due to its non-invasive visualization of lesions at great penetration depths.
+Fluorescence (FL) imaging in the second near-infrared window (NIR-II, 1000-1700 nm) achieves a higher imaging resolution and lower background signals compared to NIR-I. However, the single imaging method possesses its own disadvantages.
+Thus, we have demonstrated ZIF-8-IR820-MnPc-HA nanoparticles (ZIMH NPs) that can achieve visualization and localization of tumors in mice models with the help of a dual-modality PA/NIR-II FL imaging performance.
+Meanwhile, these excellent nanoparticles also induce the efficient generation of singlet oxygen (1O2) upon 808 nm laser illumination, and display excellent photodynamic therapy efficacy in cells, further indicating their potential application for in vivo PDT.
+In ZIMH NPs, hyaluronic acid (HA) impressively acts as a "sponge", enhancing the generation of 1O2 and facilitating the cellular therapeutic effects.
+We believe that ZIF-8-IR820-MnPc-HA NPs present a brand-new strategy for the exploration of efficient PDT photosensitizers with dual-modality imaging performance for use in various biomedical applications.

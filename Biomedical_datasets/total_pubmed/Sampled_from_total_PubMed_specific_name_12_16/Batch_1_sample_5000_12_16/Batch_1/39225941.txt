@@ -1,0 +1,16 @@
+With the rising prevalence of shoulder arthroplasty, the incidence of revision shoulder arthroplasty is also increasing.
+The complexity of these revision procedures poses significant challenges, with bone loss being a critical factor impacting treatment outcomes.
+Addressing substantial humeral bone defects is crucial for ensuring implant stability and functionality.
+A comprehensive literature review was conducted using PubMed, Medline, and Google Scholar to identify existing classification systems for proximal humeral bone loss in the context of revision shoulder arthroplasty.
+The study assessed the advantages and limitations of these classifications, using this information to propose a new diagnostic and therapeutic algorithm.
+Several classification systems for proximal humeral bone loss were identified.
+McLendon et al. classify proximal humeral bone loss based on a 5-cm bone loss threshold and suggest an allograft prosthesis composite for losses exceeding this limit.
+Boileau's system stratifies bone loss into four types based on the extent of loss, with specific recommendations for each category.
+The PHAROS classification provides a detailed anatomical assessment but lacks quantitative precision.
+The proposed PHBL-SCORe system offers a novel algorithm incorporating preoperative radiographic measurements to determine the percentage of bone loss and guide treatment options.
+Proximal humeral bone loss presents significant challenges in revision shoulder arthroplasty, necessitating precise preoperative planning and classification to guide surgical intervention.
+Existing classification systems provide valuable frameworks but often rely on average population values, neglecting individual anatomical variations.
+The proposed PHBL-SCORe system offers a patient-specific approach, improving the accuracy of bone loss assessment and optimizing treatment strategies.
+Implementing this classification in clinical practice could enhance surgical outcomes and reduce complications associated with rRSA (revision Reverse Shoulder arthroplasty).
+Further studies are required to validate this algorithm and explore its long-term efficacy in diverse patient populations.
+Y and PubMed, Medline, Google Scholar (No need to annotate, just for notice).

@@ -1,0 +1,12 @@
+Pancreatoduodenectomy (PD) is a major surgical procedure associated with significant risks, particularly postoperative pancreatic fistula (POPF).
+Studies have highlighted the importance of certain risk factors for POPF, which are vital for surgical decision-making and the management of high-risk PD patients.
+We aimed to assess the surgical outcomes of patients undergoing PD who met the International Study Group of Pancreatic Surgery - class D (ISGPS-D) criteria.
+This study analyzed ACS-NSQIP data (2014-2021) for patients undergoing ISGPS-D PD, classified as having a soft pancreatic texture and a pancreatic duct ≤3mm.
+We focused on mortality rates and the correlation between several factors and POPF (ISGPS grade B/C).
+From 5,964 PD patients who met ISGPS-D criteria, the 30-day mortality rate was 1.98%.
+Males had a higher incidence of POPF (57.42% vs. 47.35%, p<0.001).
+Patients with POPF experienced significantly higher rates of major postoperative complications (Clavien-Dindo grade ≥IIIa), including thrombosis, pneumonia, sepsis, delayed gastric emptying, wound disruption, infections, and acute renal failure.
+There was a marked increase in the 30-day readmission and mortality rates in patients with POPF (30.0% vs. 17.6% and 3.2% vs. 1.4%, respectively; all p<0.001).
+Multivariate analysis highlighted female sex as a protective factor against mortality (OR 0.47, p<0.001) and extended hospital stay (>10 days) as a predictor of increased mortality risk (OR 2.37, p<0.001).
+This study underscores the significant association between POPF and increased postoperative morbidity and mortality rates.
+Future efforts should concentrate on refining surgical techniques and improving preoperative assessments to mitigate the risks associated with POPF in patients with PD.

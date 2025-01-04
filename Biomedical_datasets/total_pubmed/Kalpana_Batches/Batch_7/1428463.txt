@@ -1,0 +1,4 @@
+Studies that examine the pharmacokinetics of topical drugs at their site of action in the skin have been difficult to perform and, therefore, limited in number.
+In the early years of topical drug pharmacokinetic research, investigators had to rely on the measurement of less direct indicators of drug throughput such as blood levels and urinary excretion.
+Today, advances in theory are impelling pharmacokinetic research in new directions, including the measurement of drug availability in tissue compartments within the skin.
+This research will lead to greater precision in pharmacokinetic measurement and greater relevance of these measurements to the therapeutic efficacy of topical corticosteroids in cutaneous disease states.

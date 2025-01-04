@@ -1,0 +1,6 @@
+To look in-depth into the traditional Mexican truffle, this study investigated the phytochemical and pharmacological properties of field-collected corn galls and the fermentate of its pathogen Ustilago maydis MZ496986.
+Here, we established the chemical profiles of both materials via the gradient HPLC-UV method and successfully identified six previously unreported chemical entities, ustilagols A-F (1-6), and 17 known components.
+Compounds 3, 5, and 9 exhibited potent nitric oxide production inhibitory activities in murine brain microglial BV-2 cells (IC50 = 6.7 ± 0.5, 5.8 ± 0.9, and 3.9 ± 0.1 μM) without cytotoxic effects.
+DIMBOA (9) also attenuates lipopolysaccharide (LPS)-stimulated NF-κB activation in RAW 264.7 macrophages (IC50 = 58.1 ± 7.2 μM).
+Ustilagol G (7) showed potent antiplatelet aggregation in U46619-stimulated human platelets (IC50 = 16.5 ± 5.3 μM).
+These findings highlighted the potential of corn galls and U. maydis MZ496986 fermentate as functional foods for improving inflammation-related discomforts and vascular obstruction.

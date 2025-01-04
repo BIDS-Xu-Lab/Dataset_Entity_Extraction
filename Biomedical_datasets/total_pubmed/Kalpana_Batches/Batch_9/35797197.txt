@@ -1,0 +1,10 @@
+To study the impact of family history of mood disorders (FHMD), comprising genetic factors associated with depression, on the association between adverse childhood experience (ACE) and suicidality in depression.
+This multicenter cross-sectional study included 200 in- and outpatients (64% (n=128) women, mean age - (M (SD)) 36.21 (15.09) yrs.) with depression.
+Self-reports about FHMD and lifetime suicide attempts were obtained in clinical interview.
+The lifetime intensity of suicidal ideas and behavior was assessed by the Columbia-Suicide Severity Rating Scale (C-SSRS), ACE - by the Adverse Childhood Experience International Questionnaire (ACE-IQ).
+FHMD did not affect the prevalence of ACE, suicide attempts and C-SSRS scores.
+We found that FHMD weakens the link between ACE and the risk of suicide attempt.
+The emotional neglect itself increased the risk of suicide attempt (p=0.001, OR=4.428, CI 95% [1.797-10.911]), but reduced it in patients with FHMD (p=0.03, OR=0.128, CI 95%
+GLM analysis revealed that FHMD significantly affected the association between suicidal ideas and domestic violence (p=0.045) and between suicidal behavior and emotional neglect (p=0.015) and abuse (p=0.044).
+FHMD may weaken the link between ACE and suicidality in patients with depression.
+Suicidality in these patients may be underlined by mechanisms not involved in the response to ACE although more studies are needed.

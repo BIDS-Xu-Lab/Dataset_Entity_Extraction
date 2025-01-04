@@ -1,0 +1,9 @@
+β-catenin, cyclin D1 and estrogen receptor (ER)-β are closely associated with the pathogenesis of breast cancer.
+In the present study, tissue samples were collected from 226 patients with breast cancer.
+Subsequently, immunohistochemical analysis was performed to detect the expression of β-catenin, cyclin D1 and ER-β, and the Kaplan-Meier method was used for survival analysis.
+The abnormal expression rate of β-catenin was 75.2%, while the cyclin D1 positive expression rate was 77.0% and the ER-β positive expression rate was 43.4%.
+In the tissue samples exhibiting abnormal expression of β-catenin, the positive expression rate of cyclin D1 (85.9%) was significantly higher compared with the samples that expressed β-catenin normally (50.0%).
+Furthermore, the positive expression rate of ER-β (35.7%) in the β-catenin normal expression tissues was significantly lower compared with that in the β-catenin abnormal expression tissues (45.9%).
+In the tissues with positive cyclin D1 expression, the positive expression rate of ER-β (48.4%) was significantly higher compared with the cyclin D1 negative expression samples (26.9%).
+In addition, patients with normal expression of β-catenin and positive expression of cyclin D1 exhibited longer tumor-free survival times.
+Therefore, an association exists among the abnormal expression of β-catenin and the positive expression of cyclin D1 and ER-β, which may contribute to the development of breast cancer.

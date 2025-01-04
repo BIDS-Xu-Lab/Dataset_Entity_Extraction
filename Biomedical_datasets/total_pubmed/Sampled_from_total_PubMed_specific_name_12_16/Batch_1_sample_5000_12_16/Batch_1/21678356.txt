@@ -1,0 +1,16 @@
+Dyspnoea is a common symptom in chronic obstructive pulmonary disease (COPD).
+People who are hypoxaemic may be given long-term oxygen relief therapy (LTOT) to improve their life expectancy and quality of life.
+However, the symptomatic benefit of home oxygen therapy in mildly or non-hypoxaemic people with COPD with dyspnoea who do not meet international funding criteria for LTOT (PaO(2)< 55 mmHg or other special cases) is unknown.
+To determine the efficacy of oxygen versus medical air for relief of subjective dyspnoea in mildly or non-hypoxaemic people with COPD who would not otherwise qualify for home oxygen therapy.
+The main outcome was patient-reported dyspnoea and secondary outcome was exercise tolerance.
+We searched the Cochrane Airways Group Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE, to November 2009, to identify randomised controlled trials.
+We handsearched reference lists of included articles.
+We only included randomised controlled trials of oxygen versus medical air in mildly or non-hypoxaemic people with COPD.
+Two review authors independently assessed articles for inclusion.
+One review author completed data extraction and methodological quality assessment.
+A second review author then over-read evidence tables to assess for accuracy.
+Twenty-eight trials on 702 patients met the criteria for inclusion; 18 trials (431 participants) were included in the meta-analysis.
+Oxygen reduced dyspnoea with a standardised mean difference (SMD) of -0.37 (95% confidence interval (CI) -0.50 to -0.24, P < 0.00001).
+Oxygen can relieve dyspnoea in mildly and non-hypoxaemic people with COPD who would not otherwise qualify for home oxygen therapy.
+Given the significant heterogeneity among the included studies, clinicians should continue to evaluate patients on an individual basis until supporting data from ongoing, large randomised controlled trials are available.
+Y and Cochrane Airways Group Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE (No need to annotate, just for notice).

@@ -1,0 +1,10 @@
+Quality improvement initiatives in neonatology have yielded positive results; however, few programs have demonstrated sustainability.
+We evaluated an ongoing, national quality improvement initiative (Evidence-based Practice for Improving Quality Phase 3 (EPIQ-3)) on outcomes of preterm neonates with a gestational age (GA) of 220-286 weeks (i.e., from 22 weeks and 0 days of gestation to 28 weeks and 6 days of gestation).
+Data from 7459 neonates admitted to 25 Canadian centers between 2013 and 2017 were studied.
+Trends in mortality and major morbidities were evaluated.
+The number of neonates with a GA of 220-236 weeks increased from 90 in 2013 to 139 in 2017 without a significant change in any other GA categories.
+In the entire cohort, the odds of composite outcome of mortality or any major morbidity (adjusted odds ratio (AOR) 0.72, 95% confidence interval (CI) 0.61-0.84) and of necrotizing enterocolitis (AOR 0.66, 95% CI 0.49-0.89) were lower in 2017 than in 2013.
+When calculated per year, the odds of composite outcome (AOR 0.93, 95% CI 0.89-0.97) and odds of necrotizing enterocolitis (AOR 0.89, 95% CI 0.82-0.96) decreased significantly.
+Among the subgroup of neonates with a GA of 260-286 weeks, the odds of composite outcome (AOR 0.63, 95% CI 0.51-0.79), necrotizing enterocolitis (AOR 0.44, 95% CI 0.26-0.73), and nosocomial infection (AOR 0.64, 95% CI 0.49-0.84) were reduced.
+The collaborative, multidisciplinary, nationwide EPIQ-3 program improved outcomes of preterm neonates, and the improvement was sustainable over 5 years.
+Y Evidence-based Practice for Improving Quality Phase 3 (EPIQ-3) (No need to annotate, just for notice).

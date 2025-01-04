@@ -1,0 +1,13 @@
+Morphological divergences of snake retinal structure point to complex evolutionary processes and adaptations.
+The Colubridae family has a remarkable variety of retinal structure that can range from all-cone and all-rod to duplex (cone/rod) retinas.
+To explore whether nocturnal versus diurnal activity is responsible for constraints on molecular evolution and plays a role in visual opsin spectral tuning of colubrids, we carried out molecular evolution analyses of the visual opsin genes LWS, RH1, and SWS1 from 17 species and performed morphological analyses.
+Phylogenetic reconstructions of the RH1 and LWS recovered major clades characterized by primarily diurnal or primarily nocturnal activity patterns, in contrast with the topology for SWS1, which is very similar to the species tree.
+We found stronger signals of purifying selection along diurnal and nocturnal lineages for RH1 and SWS1, respectively.
+A blue-shift of the RH1 spectral peak is associated with diurnal habits.
+Spectral tuning of cone opsins did not differ among diurnal and nocturnal species.
+Retinas of nocturnal colubrids had many rows of photoreceptor nuclei, with large numbers of rods, labeled by wheat germ agglutinin (WGA), and two types of cones: large cones sensitive to long/medium wavelengths (L/M) and small cones sensitive to ultra-violet/violet wavelengths (UV/VS).
+In contrast, retinas of diurnal species had only one row of photoreceptor nuclei, with four types of cones: large and double L/M cones, small UV/VS cones, and a second group of small cones, labeled by WGA.
+For LWS gene, selection tests did not confirm different constraints related to activity pattern.
+For SWS1, stronger purifying selection in nocturnal lineages indicates divergent evolutionary pressures related to the activity pattern, and the importance of the short wavelength sensitivity at low light condition.
+Activity pattern has a clear influence on the signatures of selection and spectral tuning of RH1, with stronger purifying selection in diurnal lineages, which indicates selective pressure to preserve rhodopsin structure and function in pure-cone retinas.
+We suggest that the presence of four cone types in primarily diurnal colubrids might be related to the gain of color discrimination capacity.

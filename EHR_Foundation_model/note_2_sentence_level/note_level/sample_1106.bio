@@ -1,0 +1,131 @@
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+Mr	O
+.	O
+
+ABC	O
+is	O
+a	O
+70	O
+-	O
+year	O
+-	O
+old	O
+male	O
+who	O
+has	O
+been	O
+diagnosed	O
+with	O
+a	B-problem
+left	I-problem
+renal	I-problem
+cell	I-problem
+carcinoma	I-problem
+with	O
+multiple	B-problem
+renal	I-problem
+cysts	I-problem
+.	O
+
+He	O
+has	O
+undergone	O
+MRI	B-test
+of	I-test
+the	I-test
+abdomen	I-test
+on	O
+June	O
+18	O
+,	O
+2008	O
+revealing	O
+an	B-problem
+enhancing	I-problem
+mass	I-problem
+of	I-problem
+the	I-problem
+upper	I-problem
+pole	I-problem
+of	I-problem
+the	I-problem
+left	I-problem
+kidney	I-problem
+consistent	O
+with	O
+his	O
+history	O
+of	O
+renal	B-problem
+cell	I-problem
+carcinoma	I-problem
+.	O
+
+Of	O
+note	O
+,	O
+there	O
+are	O
+no	O
+other	O
+enhancing	B-problem
+solid	I-problem
+masses	I-problem
+seen	O
+on	O
+this	O
+MRI	B-test
+.	O
+
+After	O
+discussion	O
+of	O
+multiple	O
+management	O
+strategies	O
+with	O
+the	O
+patient	O
+including	O
+:	O
+
+1	O
+.	O
+
+Left	B-treatment
+partial	I-treatment
+nephrectomy	I-treatment
+.	O
+
+2	O
+.	O
+
+Left	B-treatment
+radical	I-treatment
+nephrectomy	I-treatment
+.	O
+
+3	O
+.	O
+
+Left	B-treatment
+renal	I-treatment
+cyst	I-treatment
+decortication	I-treatment
+.	O
+
+The	O
+patient	O
+is	O
+likely	O
+to	O
+undergo	O
+the	O
+latter	O
+procedure	O
+.	O
+

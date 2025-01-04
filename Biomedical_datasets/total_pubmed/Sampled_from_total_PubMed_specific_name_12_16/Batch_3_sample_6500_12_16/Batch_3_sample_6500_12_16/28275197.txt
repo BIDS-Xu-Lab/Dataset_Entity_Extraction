@@ -1,0 +1,10 @@
+Changes in the blood-oxygen-level-dependent (BOLD) signal provide a noninvasive measure of blood flow, but a detailed comparison with established perfusion parameters in acute stroke is lacking.
+We investigated the relationship between BOLD signal temporal delay and dynamic susceptibility contrast magnetic resonance imaging (DSC-MRI) in stroke patients.
+[Tmax], mean transit time, cerebral blood flow, and cerebral blood volume) and BOLD-based parameters (BOLD delay and coefficient of BOLD variation).
+Prediction of severe hypoperfusion (Tmax >6 seconds) was assessed using receiver-operator characteristic (ROC) analysis.
+Correlation was highest between Tmax and BOLD delay (venous sinus reference; time shift range 7; median r=0.60; interquartile range=0.49-0.71).
+Coefficient of BOLD variation correlated with cerebral blood volume (median r= 0.37; interquartile range=0.24-0.51).
+Mean R2 for predicting BOLD delay by DSC-MRI was 0.54 (SD=0.2) and for predicting coefficient of BOLD variation was 0.37 (SD=0.17).
+BOLD delay (whole-brain reference, time shift range 3) had an area under the curve of 0.76 for predicting severe hypoperfusion (sensitivity=69.2%; specificity=80%), whereas BOLD delay (venous sinus reference, time shift range 3) had an area under the curve of 0.76 (sensitivity=67.3%; specificity=83.5%).
+BOLD delay is related to macrovascular delay and microvascular hypoperfusion, can identify severely hypoperfused tissue in acute stroke, and is a promising alternative to gadolinium contrast agent-based perfusion assessment in acute stroke.
+Y ClinicalTrials (No need to annotate, just for notice).

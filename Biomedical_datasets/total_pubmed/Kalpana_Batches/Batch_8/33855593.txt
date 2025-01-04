@@ -1,0 +1,14 @@
+Radiographs are the first-line investigation for knee osteoarthritis (OA).
+Antero-posterior (AP) and Rosenberg views have demonstrated varying sensitivities in detecting severe OA.
+There is a multitude of radiological grading systems described.
+The aim of this study was to assess four commonly used grading systems in terms of inter- and intra-observer reliability and correlate the results with patient-reported symptom severity.
+This study included 100 patients who had undergone both AP and Rosenberg X-ray views of the knee and evaluated using four radiological grading systems.
+These included Kellgren & Lawrence (K&L), International Knee Documentation Committee (IKDC), Ahlbäck and Fairbank.
+Evaluations were performed by two observers, independently, at two separate time points, 8 weeks apart.
+The data was then statistically analysed and inter- and intra-observer reliability calculated.
+A significant difference was found between AP and Rosenberg views for all four grading systems (p < 0.001).
+Both inter- and intra-observer reliability were highest for IKDC (0.79 and 0.86 respectively) and lowest for Fairbank (0.20 and 0.27 respectively).
+No statistically significant correlation was found between any grading system and the Oxford knee score (OKS).
+IKDC was found to be the most reliable grading system and Fairbank was the least.
+The Rosenberg view was overall more sensitive at detecting severe OA than the AP view.
+Radiological findings did not correlate with patient-reported symptoms (OKS).

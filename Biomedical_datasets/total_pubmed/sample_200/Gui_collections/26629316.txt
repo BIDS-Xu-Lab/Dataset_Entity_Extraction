@@ -1,0 +1,5 @@
+Global alterations in epigenetic landscape are now recognized as a hallmark of cancer.
+Epigenetic mechanisms such as DNA methylation, histone modifications, nucleosome positioning and non-coding RNAs are proven to have strong association with cancer.
+In particular, covalent post-translational modifications of histone proteins are known to play an important role in chromatin remodeling and thereby in regulation of gene expression.
+Further, histone modifications have also been associated with different aspects of carcinogenesis and have been studied for their role in the better management of cancer patients.
+In this review, we will explore and discuss how histone modifications are involved in cancer diagnosis, prognosis and treatment.

@@ -1,0 +1,8 @@
+The COVID-19 pandemic context asserted the digitalization process in the European Union member countries five years forward (at least).
+The digital divide, a frequent debated issue was brought to the fore, and, under these circumstances, the proposed aim of the paper is to analyze the digitalization process, considering the data provided by Digital Economy and Society Index (DESI) and, additionally, the Stringency Index, that measure the governmental restrictions during the pandemic for 2020.
+From a methodological perspective, the empirical study focused on performing the Data Envelopment Analysis (DEA) non-parametric test.
+Measuring the digitalization efficiency or inefficiency of the European member states was conducted by using an output-oriented model, focused on output maximization for a given level of input, assuming Constant Returns to Scale (CRS).
+The results highlighted major discrepancies between the European countries.
+Solely eight countries out of 27 can be considered efficient in the digitalization processes during the COVID-19 pandemic.
+Based on the model, the most efficient EU countries could be considered peers/benchmarks for the inefficient ones, which should examine the best practices in order to improve their current situation.
+Y Digital Economy and Society Index (DESI), Stringency Index (No need to annotate, just for notice).

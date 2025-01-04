@@ -1,0 +1,9 @@
+Botryosphaeria dothidea, a notorious plant pathogen, is responsible for causing chestnut rot during postharvest storage.
+This research aimed to assess the antifungal properties of perilla essential oil (PEO) and perillaldehyde (PAE) against B. dothidea.
+PEO's and PAE's inhibitory effects on B. dothidea were investigated using an agar dilution method, a fumigation method, and an in vivo assay in chestnuts and shell buckets.
+Based on the results of gas chromatography-mass spectrometry, it was confirmed that the main component of PEO was elemicin.
+The antifungal mechanism of PEO and PAE against B. dothidea was investigated by conducting staining experiments of the fungal cell wall and cell membrane.
+PEO and PAE strongly inhibit the mycelial growth of B. dothidea in a dose-dependent manner.
+The inhibitory mechanism is mainly related to the destruction of the integrity of the fungal cell wall and plasma membrane.
+Notably, PEO retains its antifungal efficacy against B. dothidea in chestnuts, effectively prolonging their storage life.
+These findings indicate that PEO and PAE are nontoxic, eco-friendly botanical fungicides, holding promise for controlling postharvest chestnut rot.

@@ -1,0 +1,6 @@
+The zinc finger transcription factors Mxr1p and Rop are key regulators of methanol metabolism in the methylotrophic yeast, Pichia pastoris, while Trm1p and Trm2p regulate methanol metabolism in Candida boidinii.
+Here, we demonstrate that Trm1p is essential for the expression of genes of methanol utilization (mut) pathway in P. pastoris as well.
+Expression of AOXI and other genes of mut pathway is severely compromised in P. pastoris ΔTrm1 strain resulting in impaired growth on media containing methanol as the sole source of carbon.
+Trm1p localizes to the nucleus of cells cultured on glucose or methanol.
+The zinc finger domain of Mxr1p but not Trm1p binds to AOXI promoter sequences in vitro, indicating that these two positive regulators act by different mechanisms.
+We conclude that both Trm1p and Mxr1p are essential for the expression of genes of mut pathway in P. pastoris and the mechanism of transcriptional regulation of mut pathway may be similar in P. pastoris and C. boidinii.

@@ -1,0 +1,13 @@
+Muscle atrophy is an early event that occurs after stroke, but there are few reports on the changes in skeletal muscle thickness in acute stroke.
+This study investigated the factors contributing to reduced muscle thickness in patients with acute stroke.
+In total, 51 patients with stroke and the National Institute of the Health Stroke Scale (NIHSS) > 3 were included in our study.
+They were admitted to our hospital between July 2017 and May 2020.
+The quadriceps muscle thickness was measured with an ultrasound device within 2 days after admission and 14 days later.
+The collected data included age, sex, body mass index, stroke type, neuromuscular electrical stimulation, NIHSS, serum albumin at admission, start of enteral nutrition, Functional Oral Intake Scale (FOIS), start of mobilization and ambulation, number of physical and occupational therapy units, C-reactive protein at admission and whether surgery had been performed.
+These data were retrospectively retrieved from medical documents.
+A dietician calculated energy intake, protein intake, and energy adequacy.
+Multiple regression analysis was used to identify the factors associated with reduced quadriceps muscle thickness.
+The independent variables were NIHSS, date of start of enteral feeding, protein intake, FOIS, date of mobilization, and date of start of ambulation training.
+The rate of change in quadriceps muscle thickness of the paretic limb was -15.3 % (interquartile range, -46.1-14.8 %).
+Multiple regression analysis showed that the factors responsible for the decrease in muscle thickness on the paretic side were FOIS (β: 0.376; 95 % Cl, 0.999 to 4.541) and the start date of ambulation (β: -0.378; 95 % Cl, -2.575 to -0.543), with a multiple correlation coefficient of 0.456.
+The FOIS and the start date of ambulation after acute stroke were related to the rate of reduction in muscle thickness on the paretic side.

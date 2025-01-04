@@ -1,0 +1,8 @@
+The murine leukemia virus LP-BM5 has been used to reproduce the model of murine AIDS in order to evaluate the course of infection with the MO-1 strain of Mycobacterium avium complex (MAC).
+LP-BM5 was inoculated in C57BL/6 mice by intravenous (i.v.) injection either 8 weeks before an i.v. challenge with 10(3) or 10(6) CFU of MAC (coinfection 1) or 10 days after an i.v. challenge with 10(3) CFU of MAC (coinfection 2).
+During coinfection 2 experiments, the phenotypic alterations in blood lymphocyte subsets were analyzed.
+During coinfection 1, LP-BM5 infection tended to decrease the mycobacterial growth, with the difference reaching statistical significance for the lower inoculum (10(3) CFU of MAC) (P<0.001).
+During coinfection 2, LP-BM5 did not exacerbate MAC infection except in the spleen, at day 90 after LP-BM5 challenge (P<0.001).
+LP-BM5 infection and the LP-BM5-MAC coinfection increased the numbers of activated CD4+ lymphocytes (CD4+ Ly6AE+) (P<0.001), activated CD8+ lymphocytes (CD8+ Ly6AE+) (P<0.001), and activated B lymphocytes (Ly5+ Ly6AE+) (P<0.001).
+This activation of T lymphocytes could explain the lack of exacerbation of MAC infection and even the trend to a lower level of MAC infection.
+Thus, this model of retroviral infection of mice does not seem to be a reliable model of immunodepression for the study of MAC infection and its treatments.

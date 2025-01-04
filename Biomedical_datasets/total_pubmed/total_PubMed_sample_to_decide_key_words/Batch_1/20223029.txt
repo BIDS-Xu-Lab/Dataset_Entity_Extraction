@@ -1,0 +1,16 @@
+The Swedish Family-Cancer Database has been used for almost 10 years in the study of familial risks at all common sites.
+In the present paper we describe some main features of version VI of this Database, assembled in 2004.
+This update included all Swedes born in 1932 and later (offspring) with their biological parents, a total of 10.5 million individuals.
+Cancer cases were retrieved from the Swedish Cancer Registry from 1958-2002, including over 1.2 million first and multiple primary cancers and in situ tumours.
+Compared to previous versions, only 6.0% of deceased offspring with a cancer diagnosis lack any parental information.
+We show one application of the Database in the study of familial risks in colorectal adenocarcinoma, with defined age-group and anatomic site specific analyses.
+Familial standardized incidence ratios (SIRs) were determined for offspring when parents or sibling were diagnosed with colon or rectal cancer.
+As a novel finding it was shown that risks for siblings were higher than those for offspring of affected parents.
+The excess risk was limited to colon cancer and particularly to right-sided colon cancer.
+The SIRs for colon cancer in age matched populations were 2.58 when parents were probands and 3.81 when siblings were probands; for right-sided colon cancer the SIRs were 3.66 and 7.53, respectively.
+Thus the familial excess (SIR-1.00) was more than two fold higher for right-sided colon cancer.
+Colon and rectal cancers appeared to be distinguished between high-penetrant and recessive conditions that only affect the colon, whereas low-penetrant familial effects are shared by the two sites.
+Epidemiological studies can be used to generate clinical estimates for familial risk, conditioned on numbers of affected family members and their ages of onset.
+Useful risk estimates have been developed for familial breast and prostate cancers.
+Reliable risk estimates for other cancers should also be seriously considered for routine clinical recommendations, because practically all cancers show a familial effect and the risks are high for some of the rare neoplasms.
+The implementation of a unified management plan for familial cancers at large will be a major challenge to the clinical genetic counselling community.

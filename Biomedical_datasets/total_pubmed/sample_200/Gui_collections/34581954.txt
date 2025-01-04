@@ -1,0 +1,6 @@
+Cancer vaccination using tumor antigen-primed dendritic cells (DCs) was introduced in the clinic some 25 years ago, but the overall outcome has not lived up to initial expectations.
+In addition to the complexity of the immune response, there are many factors that determine the efficacy of DC therapy.
+These include accurate administration of DCs in the target tissue site without unwanted cell dispersion/backflow, sufficient numbers of tumor antigen-primed DCs homing to lymph nodes (LNs), and proper timing of immunoadjuvant administration.
+To address these uncertainties, proton (1H) and fluorine (19F) magnetic resonance imaging (MRI) tracking of ex vivo pre-labeled DCs can now be used to non-invasively determine the accuracy of therapeutic DC injection, initial DC dispersion, systemic DC distribution, and DC migration to and within LNs.
+Magnetovaccination is an alternative approach that tracks in vivo labeled DCs that simultaneously capture tumor antigen and MR contrast agent in situ, enabling an accurate quantification of antigen presentation to T cells in LNs.
+The ultimate clinical premise of MRI DC tracking would be to use changes in LN MRI signal as an early imaging biomarker to predict the efficacy of tumor vaccination and anti-tumor response long before treatment outcome becomes apparent, which may aid clinicians with interim treatment management.

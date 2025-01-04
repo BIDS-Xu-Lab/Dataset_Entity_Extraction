@@ -1,0 +1,6 @@
+Radioactive ligand binding assays are the most commonly applied method for the determination of binding affinities of compounds at a particular receptor.
+While they are highly sensitive and high-throughput capable they come with major disadvantages due to the radioactive ligands utilized.
+Here we present the development of a mass-spectrometry-based binding assay for the determination of binding affinities at the human μ-opioid receptor using non-labelled DAMGO ([D-Ala2, N-MePhe4, Gly5-ol]-enkephalin).
+The runtime of the LC-MS/MS method was 5.5 min per data point and allowed for the highly sensitive detection of 38.5 fg DAMGO on column.
+The assay shows low non-specific binding and the equilibrium dissociation constant of DAMGO was 0.57 nM. The assay was applied to determine the Ki values of 17 opiates/opioids and the results were in good agreement with the data from radioactive receptor binding assays published in the literature.
+Additionally, the Ki value of six 2-benzylbenzimidazoles, including the widely abused designer opioid isotonitazene, were determined ranging from 0.654 to 72.9 nM. Consequently, the developed assay provides a suitable alternative to radioactive binding assays as it allows for a reliable and rapid determination of receptor binding affinities of e.g. newly emerging designer opioids.

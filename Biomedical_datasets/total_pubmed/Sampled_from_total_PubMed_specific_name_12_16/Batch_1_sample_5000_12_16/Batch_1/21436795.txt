@@ -1,0 +1,12 @@
+BMI is the preferred measure of adiposity in adolescents.
+Recent evidence suggests that in adults the relationship between BMI and adiposity can vary by age and race/ethnicity.
+We investigated the relationship between BMI and percent body fat (%BF) in a large multi-ethnic, nationally representative sample of US adolescents (National Health and Nutrition Examination Survey, NHANES, 1999-2004).
+BMI was calculated; %BF was derived from dual-energy X-ray absorptiometry data and compared to BMI among adolescents from three groups: non-Hispanic white (NHW), non-Hispanic black (NHB), and Mexican-American (MA).
+Fractional polynomials were used to model a new equation to estimate %BF from a given BMI.
+MA boys weighed significantly less than either NHW or NHB boys, while only NHB girls weighed significantly more than the other girls.
+Among the boys there were no differences in mean BMI, whereas %BF differed significantly between all three groups.
+For the girls, both BMI and %BF differed significantly the groups with MA girls having the highest %BF.
+The significant correlates for modeling %BF from BMI included gender, age, race/ethnicity, weight, [formula in text]: the final model explained 79% of the variance in %BF.
+NHB adolescents had significantly lower %BF for BMI and MA had higher than NHW.
+Our results indicate that BMI may not be an equivalent measure of %BF in a multi-ethnic population of US adolescents.
+Y: National Health and Nutrition Examination Survey, NHANES (No need to annotate, just for notice).

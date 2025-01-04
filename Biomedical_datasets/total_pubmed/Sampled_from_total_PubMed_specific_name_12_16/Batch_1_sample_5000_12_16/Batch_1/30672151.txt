@@ -1,0 +1,15 @@
+Ovarian cancer (OC) represents a serious disease with high mortality and lack of efficient predictive and prognostic biomarkers.
+ATP-binding cassette (ABC) proteins constitute a large family dedicated to active transmembrane transport including transport of xenobiotics.
+mRNA level was measured by quantitative RT-PCR in tumor tissues from OC patients.
+Bioinformatics analyses were applied to two gene expression datasets (60 primary tumors and 29 peritoneal metastases).
+Two different approaches of expression data normalization were applied in parallel, and their results were compared.
+Data from publically available cancer datasets were checked to further validate our conclusions.
+The results showed significant connections between ABC gene expression profiles and time to progression (TTP), chemotherapy resistance, and metastatic progression in OC.
+Two consensus ABC gene profiles with clinical meaning were documented.
+(a) Downregulation of ABCC4, ABCC10, ABCD3, ABCE1, ABCF1, ABCF2, and ABCF3 was connected with the best sensitivity to chemotherapy and TTP.
+(b) Oppositely, downregulation of ABCB11 and upregulation of ABCB1 and ABCG2 were connected with the worst sensitivity to chemotherapy and TTP.
+Results from publicly available online databases supported our conclusions.
+This study stressed the connection between two well-documented ABC genes and clinicopathological features-ABCB1 and ABCG2.
+Moreover, we showed a comparable connection also for several other ABC genes-ABCB11, ABCC4, ABCC10, ABCD3, ABCE1, ABCF1, ABCF2, and ABCF3.
+Our results add new clinically relevant information to this oncology field and can stimulate further exploration.
+Y and "publically available cancer datasets" (No need to annotate, just for notice).

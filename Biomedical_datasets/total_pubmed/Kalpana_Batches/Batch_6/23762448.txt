@@ -1,0 +1,12 @@
+Arginine vasopressin (AVP) is released from the posterior pituitary and controls water homeostasis.
+AVP binding to vasopressin V2 receptors (V2Rs) located on kidney collecting duct epithelial cells triggers activation of Gs proteins, leading to increased cAMP levels, trafficking of aquaporin-2 water channels, and consequent increased water permeability and antidiuresis.
+Typically, loss-of-function V2R mutations cause nephrogenic diabetes insipidus (NDI), whereas gain-of-function mutations cause nephrogenic syndrome of inappropriate antidiuresis (NSIAD).
+Here we provide further characterization of two mutant V2Rs, R181C and M311V, reported to cause complete and partial NDI respectively, together with a V266A variant, in a patient diagnosed with NSIAD.
+Our data in HEK293FT cells revealed that for cAMP accumulation, AVP was about 500- or 30-fold less potent at the R181C and M311V mutants than at the wild-type receptor respectively (and about 4000- and 60-fold in COS7 cells respectively).
+However, in contrast to wild type V2R, the R181C mutant failed to increase inositol phosphate production, while with the M311V mutant, AVP exhibited only partial agonism in addition to a 37-fold potency decrease.
+Similar responses were detected in a BRET assay for β-arrestin recruitment, with the R181C receptor unresponsive to AVP, and partial agonism with a 23-fold decrease in potency observed with M311V in both HEK293FT and COS7 cells.
+Notably, the V266A V2R appeared functionally identical to the wild-type receptor in all assays tested, including cAMP and inositol phosphate accumulation, β-arrestin interaction, and in a BRET assay of receptor ubiquitination.
+Each receptor was expressed at comparable levels.
+Hence, the M311V V2R retains greater activity than the R181C mutant, consistent with the milder phenotype of NDI associated with this mutant.
+Notably, the R181C mutant appears to be a Gs protein-biased receptor incapable of signaling to inositol phosphate or recruiting β-arrestin.
+The etiology of NSIAD in the patient with V266A V2R remains unknown.

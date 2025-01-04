@@ -1,0 +1,6 @@
+The standard diagnosis of rotavirus gastroenteritis is based on the demonstration of rotavirus antigen in stools using an enzyme immunoassay (EIA).
+In this study, a one-step quantitative RT-PCR (Q-PCR) was used for sensitive detection of rotavirus in diarrheal stools.
+The primers and TaqMan probe for the Q-PCR were selected from a highly conserved region of the non-structural protein 3 (NSP3) of rotavirus.
+After validation, the test was applied to study rotavirus EIA positive (N=25) and EIA negative (N=143) stool specimens from cases of acute gastroenteritis of all degrees of severity in a prospective follow-up cohort of infants from 2 months to 2 years of age.
+Q-PCR detected all 25 EIA positive rotavirus antigens and seven additional cases that were rotavirus EIA negative, i.e. 28% more rotavirus positive cases than identified by EIA.
+It is concluded that Q-PCR using primers targeted at NSP3 is a rapid and sensitive method for diagnosing acute rotavirus gastroenteritis.

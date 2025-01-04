@@ -1,0 +1,13 @@
+Several factors might alter serum phosphate homeostasis and induce hyperhosphatemia in patients with chronic kidney disease (CKD) not requiring dialysis.
+However, whether and to what extent hyperphosphatemia is associated with a poor prognosis in different CKD patient groups remain to be elucidated.
+We utilized the "Prevenzione Insufficienza Renale Progressiva" (PIRP) database, a large project sponsored by the Emilia-Romagna Health Institute.
+PIRP is a collaborative network of nephrologists and general practitioners located in the Emilia-Romagna region, Italy, aimed at increasing awareness of CKD complications and optimizing CKD patient care.
+We identified 1716 patients who underwent a GFR and serum phosphorous assessment between 2004 and 2007.
+We tested whether phosphate levels ≥4.3 mg/dl are associated with the risk of CKD progression or all causes of death.
+Older age and male sex were associated with lower phosphate levels.
+Instead, higher phosphate levels were noted in patients with diabetes.
+Patients with phosphate levels ≥4.3 mg/dl were at an increased risk of starting dialysis or dying (hazard ratio 2.04; 95% confidence interval [1.44, 2.90]).
+Notably, subgroup analyses revealed that the magnitude of the risk associated with hyperphosphatemia varied depending on age, sex, diabetes, and different stages of CKD.
+These analyses lend support to the hypothesis that phosphorous abnormalities might have a negative effect on the residual renal function and prognosis in different groups of CKD patients.
+However, the risk associated with hyperphosphatemia might vary in specific CKD patient subgroups.
+Y PIRP (No need to annotate, just for notice).

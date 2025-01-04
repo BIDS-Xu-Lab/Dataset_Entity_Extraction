@@ -1,0 +1,13 @@
+Spending at least 90% of hospital admission in a stroke unit (SU) is a recommended indicator of receiving high-quality stroke care.
+However, whether this makes a difference to patient outcomes is unknown.
+We aimed to investigate outcomes and factors associated with patients with acute stroke spending at least 90% of their admission in an SU, compared with those having less time in the SU.
+Data from hospitals which participated in the 2015 Stroke Foundation National Audit: Acute Services (Australia) and had an SU.
+This audit includes an organisational survey and retrospective medical record audit of approximately 40 admissions from each hospital.
+Patients admitted to an SU during their acute admission were included.
+Hospital-based patient outcomes included length of stay, independence on discharge, severe complications and discharge destination.
+Patient, organisational and process indicators were included in multilevel logistic modelling to determine factors associated with spending at least 90% of their admission in an SU.
+Eighty-eight hospitals with an SU audited 2655 cases (median age 76 years, 55% male).
+Patients who spent at least 90% of their admission in an SU experienced: a length of stay that was 2 days shorter (coefficient -2.77, 95% CI -3.45 to -2.10), fewer severe complications (adjusted OR (aOR) 0.60, 95% CI 0.43 to 0.84) and were less often discharged to residential aged care (aOR 0.59, 95% CI 0.38 to 0.94) than those who had less time in the SU.
+Patients admitted to an SU within 3 hours of hospital arrival were three times more likely to spend at least 90% of their admission in an SU.
+Spending at least 90% of time in an SU is a valid measure of stroke care quality as it results in improved patient outcomes.
+Direct admission to SUs is warranted.

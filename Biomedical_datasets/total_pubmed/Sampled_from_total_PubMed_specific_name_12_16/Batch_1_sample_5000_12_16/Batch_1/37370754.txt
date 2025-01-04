@@ -1,0 +1,12 @@
+Immunosuppressive drugs (IMD) are widely utilized to treat many autoimmune conditions and to prevent rejection in organ transplantation.
+Cancer has been associated with prolonged use of IMD in transplant patients.
+However, no detailed, systematic analysis of the risk of cancer has been performed in patients receiving IMD for any condition and duration.
+We analyzed Medicare data from Texas Medicare beneficiaries, regardless of their age, between 2007 and 2018, from the Texas Cancer Registry.
+We analyzed the data for the risk of cancer after IMD use associated with demographic characteristics, clinical conditions, and subsequent cancer type.
+Of 29,196 patients who used IMD for a variety of indications, 5684 developed cancer.
+The risk of cancer (standardized incidence ratio) was particularly high for liver (9.10), skin (7.95), lymphoma (4.89), and kidney (4.39).
+Patients receiving IMD had a four fold greater likelihood of developing cancer than the general population.
+This risk was higher within the first 3 years of IMD utilization and in patients younger than 65 years and minorities.
+This study shows that patients receiving IMD for any indications have a significantly increased risk of cancer, even with short-term use.
+Caution is needed for IMD use; in addition, an aggressive neoplastic diagnostic screening is warranted.
+Y: Texas Cancer Registry (No need to annotate, just for notice).

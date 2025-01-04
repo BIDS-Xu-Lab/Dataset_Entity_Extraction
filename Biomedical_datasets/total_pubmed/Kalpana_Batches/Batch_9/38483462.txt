@@ -1,0 +1,19 @@
+Older adults face barriers to specialty care, such as occupational therapy (OT), and these challenges are worse for rural older adults.
+While in-home video telehealth may increase access to OT, older adults' health- and technology-related challenges may necessitate caregiver assistance.
+This study examines caregiver assistance with in-home OT video telehealth visits from the perspectives of OT practitioners at Veterans Health Administration (VHA).
+A web-based national survey of VHA OT practitioners about caregivers' role in video telehealth was conducted between January and February 2022.
+Survey items were developed with input from subject matter experts in geriatrics and OT and identified patient factors that necessitate caregiver participation; the extent to which caregivers assist with different types of tasks (technological and clinical tasks); and the perceived facilitators of, benefits of, and barriers to caregiver involvement.
+Of approximately 1787 eligible VHA OT practitioners, 286 (16% response rate) participated.
+Not all survey items required completion, resulting in different denominators.
+Most respondents were female (183/226, 81%), White (163/225, 72.4%), and occupational therapists (275/286, 96.2%).
+Respondents were from 87 VHA medical centers, the catchment areas of which served a patient population that was 34% rural, on average (SD 0.22).
+Most participants (162/232, 69.8%) had >10 years of OT experience serving a patient cohort mostly aged ≥65 years (189/232, 81.5%) in primarily outpatient rehabilitation (132/232, 56.9%).
+The top patient factors necessitating caregiver involvement were lack of technical skills, cognitive impairment, and advanced patient age, with health-related impairments (eg, hearing or vision loss) less frequent.
+Technological tasks that caregivers most frequently assisted with were holding, angling, moving, repositioning, or operating the camera (136/250, 54.4%) and enabling and operating the microphone and setting the volume (126/248, 50.8%).
+Clinical tasks that caregivers most frequently assisted with were providing patient history (143/239, 59.8%) and assisting with patient communication (124/240, 51.7%).
+The top facilitator of caregiver participation was clinician-delivered caregiver education about what to expect from video telehealth (152/275, 55.3%), whereas the top barrier was poor connectivity (80/235, 34%).
+Increased access to video telehealth (212/235, 90.2%) was the top-rated benefit of caregiver participation.
+Most respondents (164/232, 70.7%) indicated that caregivers were at least sometimes unavailable or unable to assist with video telehealth, in which case the appointment often shifted to phone.
+Caregivers routinely assist VHA patients with in-home OT video visits, which is invaluable to patients who are older and have complex medical needs.
+Barriers to caregiver involvement include caregivers' challenges with video telehealth or inability to assist, or lack of available caregivers.
+By elucidating the caregiver support role in video visits, this study provides clinicians with strategies to effectively partner with caregivers to enhance older patients' access to video visits.

@@ -1,0 +1,12 @@
+Sixteen patients with acute respiratory failure (ARF) were studied.
+In group I (12 patients, 15 explorations) patients were treated with continuous positive pressure ventilation (CPPV) during conventional ventilation (CV), pulmonary lesions (PL) were severe (Qsp/Qt = 0.24 +/- 0.16 with PEEP = 14 +/- 7 cm H2O) and high-frequency jet ventilation (HFJV) was performed without spontaneous ventilation (SV).
+In group II (5 patients, 12 explorations) patients were treated with intermittent mandatory ventilation (IMV) during CV, PL were moderate (Qsp/Qt = 0.13 +/- 0.05 with PEEP = 8 +/- 3 cm H2O) and HFJV was performed with SV.
+In both groups, frequency was 120 c/mn and I:E ratio = 1:2.
+The cannula size, the driving pressure and the PEEP (water column) were progressively adapted to obtain the same blood gases as those observed during CV, FIO2 being the same.
+Results on HFJV were compared to CV.
+In both groups there were no differences between PaCO2, PaO2, FIO2, Qsp/Qt during CV and HFJV.
+In group I peak airway pressure (PAWP), mean artery pressure (MAP), heart rate (HR), transmural mean pulmonary and wedge pressure (MPAPtm, PWPtm) were not different.
+Mean airway pressure (MAWP), PEEP and pleural pressure (PP) were higher, cardiac index (CI) was lower.
+In group II, PP, CI, MAP, HR, MPAPtm, MPWPtm were not different.
+PAWP was lower, MAWP and PEEP were higher.
+We conclude that during HFJV it is possible to obtain the same blood gas as during CV, but HFJV without CV may not be indicated in patients with severe PL, because circulatory impairment is higher.

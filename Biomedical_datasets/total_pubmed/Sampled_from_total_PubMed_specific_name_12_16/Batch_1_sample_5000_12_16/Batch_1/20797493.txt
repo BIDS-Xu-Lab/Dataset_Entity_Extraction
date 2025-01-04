@@ -1,0 +1,11 @@
+The purpose of this study was to test whether the association of C-reactive protein (CRP) with increased risk of atrial fibrillation is a robust and perhaps even causal association.
+Elevated levels of CRP previously have been associated with increased risk of atrial fibrillation.
+We studied 10,276 individuals from the prospective Copenhagen City Heart Study, including 771 individuals who had atrial fibrillation during follow-up, and another 36,600 persons from the cross-sectional Copenhagen General Population Study, including 1,340 cases with atrial fibrillation.
+Individuals were genotyped for 4 CRP gene polymorphisms and had high-sensitivity CRP levels measured.
+[CI]: 1.54- to 3.10-fold) increased risk of atrial fibrillation.
+Risk estimates attenuated slightly after multifactorial adjustment to 1.77 (95% CI: 1.22 to 2.55), and after additional adjustment for heart failure and plasma fibrinogen level to 1.47 (95% CI: 1.02 to 2.13) and 1.63 (95% CI: 1.21 to 2.20), respectively.
+Genotype combinations of the 4 CRP polymorphisms associated with up to a 63% increase in plasma CRP levels (p < 0.001), but not with increased risk of atrial fibrillation.
+[95% CI: 1.30 to 1.44]; p < 0.001).
+Elevated plasma CRP robustly associated with increased risk of atrial fibrillation; however, genetically elevated CRP levels did not.
+This suggests that elevated plasma CRP per se does not increase atrial fibrillation risk.
+Y: Copenhagen City Heart Study, Copenhagen General Population Study (No need to annotate, just for notice).

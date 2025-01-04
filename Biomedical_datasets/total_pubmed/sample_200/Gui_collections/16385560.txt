@@ -1,0 +1,7 @@
+Phylogenetic profiles encode patterns of presence or absence of genes across genomes, and these profiles can be used to assign functional relationships to nonhomologous pairs of proteins (Pellegrini et al., Proc Natl Acad Sci USA 1999;96:4284-4288).
+Although it is well known that many proteins were created from combinations of domains, most of the existing implementations of phylogenetic profiles do not consider this fact.
+Here, we introduce an extension that considers the multidomain nature of proteins and test the method against the known interaction data sets.
+Whereas earlier implementations associated one entire sequence with one protein phylogenetic profile (Single-Profile), our method instead breaks the sequence into a set of segments of predetermined size and constructs a separate profile for each segment (Multiple-Profile).
+The results show that the Multiple-Profile method performs as well as the Single-Profile method.
+However, the two methods share, surprisingly, a small fraction of their predictions, indicating that the Multiple-Profile method can detect known interactions missed by the Single-Profile method.
+Thus, the Multiple-Profile method can be used with other methods to determine functional relationships on a genome scale with wider coverage.

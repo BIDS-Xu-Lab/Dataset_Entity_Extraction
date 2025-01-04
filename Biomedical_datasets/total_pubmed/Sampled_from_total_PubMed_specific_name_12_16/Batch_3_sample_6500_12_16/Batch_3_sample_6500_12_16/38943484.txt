@@ -1,0 +1,8 @@
+Do chronically high-lonely individuals exhibit specific memory biases when recalling past social episodes?
+We explored negative memory biases, focusing on the recall of unfavourable social experiences and social memory biases, emphasizing the recall of social experiences irrespective of emotional valence.
+We conducted a dictionary-based semantic analysis of autobiographical episodes obtained from 4095 participants via four datasets.
+Participants recalled a positive, negative or emotionally neutral episode from their recent past.
+High-lonely individuals predominantly exhibited a decline in recalling positive social episodes, providing partial support for negative memory biases.
+However, both high- and low-lonely individuals were similarly inclined to recall negative social episodes.
+These results suggest that the primary issue among high-lonely individuals is the limited recall of positive social experiences rather than the general negativity in memory biases or the hypersensitivity to general social memories.
+Y four datasets (No need to annotate, just for notice).

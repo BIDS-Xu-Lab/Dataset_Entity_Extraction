@@ -1,0 +1,6 @@
+Glycerophosphodiesterase (GpdQ) from Enterobacter aerogenes is a binuclear metallohydrolase that catalyzes the breakdown of a broad range of phosphate ester substrates, and it is of interest for its potential application in the destruction of organophosphate nerve agents and pesticides.
+The reaction mechanism of GpdQ has been proposed to involve a nucleophilic attack by a terminally bound hydroxide molecule.
+The hydroxide species bridging the two metal ions is suggested to activate the nucleophile, thus favoring a sequential rather than a processive mechanism of action.
+Here, the hydrolysis of the two ester bonds in the substrate bis(para-nitrophenyl) phosphate (bpNPP) is probed using (31)P NMR.
+The kinetic rates measured compare well with those determined spectrophotometrically.
+Furthermore, the data indicate that the diester bonds are cleaved in two separate (non-processive) reactions, indicating that only a single nucleophile (the terminal hydroxide molecule) is likely to be employed as a nucleophile for GpdQ.

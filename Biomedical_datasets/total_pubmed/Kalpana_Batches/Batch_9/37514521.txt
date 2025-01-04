@@ -1,0 +1,13 @@
+Sugarcane straw fiber (SSF) samples were prepared by chemical pulping (CP) and steam explosion (STE).
+CP (5, 10, 15% NaOH + 0.2% w/w anthraquinone at 121 °C for 1 h) and STE pressure (1.77, 1.96, and 2.16 MPa at 220 °C for 4 min) SSF trays were molded with a hydraulic hot-press machine at 120 °C, 7 min, and 1.72 MPa.
+The yield (%) of SSF from STE (54-60% dry basis (db.)) was higher than CP (32-48% db.).
+STE trays had greater tensile strength than CP.
+However, STE's elongation and compression strength was lower than CP tray samples.
+The trays made from SSF using STE had less swelling in thickness, longer water wetting time, and a higher water contact angle than those made from CP.
+The micrographs displayed a smaller size of SSF obtained in STE than the CP.
+The appearance and area of peaks in ATR-FTIR spectra and XRD diffractograms, respectively, revealed that the STE trays had a larger residual lignin content from the lignin study and a lower crystallinity index than the CP trays.
+Moreover, the lightness values of the STE trays were lower than those of the CP trays due to lignin retention.
+The study results indicate that CP is the preferred method for producing SSF packaging material with high flexibility and fiber purity.
+However, when considering the specific SF of 4.28, the STE treatment showed superior physical and mechanical properties compared to CP.
+This suggests that STE could be an excellent alternative green pulping technique for producing durable biobased trays.
+Overall, the findings highlight the potential of STE as a viable option for obtaining trays with desirable characteristics, providing a sustainable and efficient approach to tray production.

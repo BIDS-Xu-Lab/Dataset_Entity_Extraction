@@ -1,0 +1,10 @@
+Patients with liver cirrhosis and variceal hemorrhage are at increased risk of rebleeding.
+We performed a meta-analysis toassess the clinical efficacy of combination therapy (pharmacotherapy and endoscopic variceal ligation (EVL)) compared with pharmacotherapy, EVL, or transjugular intrahepatic portosystemic shunt (TIPS) alone in the prevention of rebleeding and mortality.
+A literature search of MEDLINE, EMBASE, and the Cochrane Controlled Trials Register, up until November 2016, identified relevant randomized controlled trials.
+Data analysis was performed using Stata 12.0.
+Regarding overall mortality, combination therapy was as effective as EVL, pharmacotherapy, and TIPS (relative risk (RR) = 0.62, 95% confidence interval (CI): 0.36-1.08, RR=1.05, 95% CI: 0.68-1.63, and RR=1.39, 95% CI: 0.92-2.09, respectively).
+Combination therapy was as effective as EVL and pharmacotherapy alone in reducing blood-related mortality (RR=0.43, 95% CI: 0.15-1.25, and RR=0.42, 95% CI: 0.17-1.06), whereas TIPS was more effective than combination therapy (RR=5.66, 95% CI: 1.02-31.40).
+This was also the case for rebleeding; combination therapy was more effective than EVL and pharmacotherapy alone (RR=0.57, 95% CI: 0.41-0.79, and RR=0.65, 95% CI: 0.48-0.88), whereas TIPS was more effective than combination therapy (RR=9.42, 95% CI: 2.99-29.65).
+Finally, regarding rebleeding from esophageal varices, combination therapy was as effective as EVL alone (RR=0.59, 95% CI: 0.33-1.06) and was more effective than pharmacotherapy alone (RR=0.58, 95% CI: 0.40-0.85), although was less effective than TIPS (RR=2.20, 95% CI: 1.22-3.99).
+TIPS was recommended as the first choice of therapy in the secondary prevention of esophageal variceal bleeding.
+Y MEDLINE, EMBASE, Cochrane Controlled Trials Register (No need to annotate, just for notice).

@@ -1,0 +1,4 @@
+There is substantial evidence that probiotics modulate Helicobacter pylori colonization of the gastric mucosa.
+This chapter presents the data currently available to support an interaction between probiotics and H. pylori, the importance of lactic acid production by probiotics and their capacity to release bacteriocins or secrete antibiotics.
+The ability of probiotics to interfere with H. pylori adhesion to epithelial cells and their capacity to attenuate H. pylori-induced gastritis in man is addressed.
+Finally, the potential of probiotics to modify the H. pylori eradication rate and the antibiotic-associated gastrointestinal side-effects during H. pylori eradication therapy are reviewed.

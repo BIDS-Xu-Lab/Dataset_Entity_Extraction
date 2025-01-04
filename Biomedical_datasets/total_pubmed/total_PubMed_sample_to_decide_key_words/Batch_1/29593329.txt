@@ -1,0 +1,8 @@
+Excessive fat accumulation is a major risk factor for the development of type 2 diabetes mellitus and other common conditions, including cardiovascular disease and certain types of cancer.
+Here, we identify a mechanism that regulates adiposity based on the activator of autophagy TP53INP2.
+We report that TP53INP2 is a negative regulator of adipogenesis in human and mouse preadipocytes.
+In keeping with this, TP53INP2 ablation in mice caused enhanced adiposity, which was characterized by greater cellularity of subcutaneous adipose tissue and increased expression of master adipogenic genes.
+TP53INP2 modulates adipogenesis through autophagy-dependent sequestration of GSK3β into late endosomes.
+GSK3β sequestration was also dependent on ESCRT activity.
+As a result, TP53INP2 promotes greater β-catenin levels and induces the transcriptional activity of TCF/LEF transcription factors.
+These results demonstrate a link between autophagy, sequestration of GSK3β into late endosomes and inhibition of adipogenesis in vivo.

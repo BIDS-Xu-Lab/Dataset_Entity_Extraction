@@ -1,0 +1,7 @@
+The purpose of this study is to investigate the dose-dependent effects of ultrasound contrast agent (UCA) on the changes of peak systolic velocity (PSV) and pulsatility index (PI) in the arteries of 24 male Sprague-Dawley rats.
+The rats were sonicated with 1.0-MHz pulsed high-intensity focused ultrasound (HIFU) at two acoustic powers, 15 W and 30 W, with UCA present at four concentrations (0, 150, 300, and 450 μL/kg).
+Ultrasound imaging was used to localize and to monitor the pulsed-HIFU exposure.
+The mean PSV of blood flow, as measured by Doppler ultrasound imaging, increased immediately in the arteries where UCA has been administrated at all four doses after pulsed-HIFU at 15 W. However, the normalized PSV change decreased with each injected dose of UCA at 30 W. Furthermore, the normalized pulsatility index changes increased as the injected dose of UCA increased at two acoustic powers.
+No obvious changes were found in terms of histological structures and temperature rise at the vessel wall.
+Our results demonstrated that the response of the artery to pulsed-HIFU was dependent on UCA dose at the same acoustic power.
+The value of normalized PSV change was minimal and the normalized PI change reached a maximum when the UCA dose was at the highest dose of UCA (450 μL/kg) with the two acoustic powers.

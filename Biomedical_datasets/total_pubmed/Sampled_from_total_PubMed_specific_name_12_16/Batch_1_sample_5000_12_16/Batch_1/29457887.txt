@@ -1,0 +1,5 @@
+The synthesis of uracil/thymine containing tetra/trisubstituted imidazole derivatives was demonstrated using Ugi/Passerini-reaction followed by a postcyclization reaction sequence.
+The approach enables the one-pot facile construction of diverse compounds in moderate to excellent yields (47-82%).
+The 5-fluorouracil and 5-methyluracil moieties afford potentially bioactive molecules with drug-like properties.
+These scaffolds are currently being utilized in the screening deck of the European Lead Factory.
+Y and European Lead Factory (No need to annotate, just for notice).

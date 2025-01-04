@@ -1,0 +1,4 @@
+The trend towards DRGs (Diagnosis Related Groups) represents a major step in the development of hospital information systems.
+Based on the experience with the use of routine hospital data in the Swiss DRG project, this article presents recommendations in five areas: 1.
+Data collection and coding of medical routine data in hospitals 2.
+Continuous monitoring of the computer algorithm used to group diagnoses ("Grouper") 3.

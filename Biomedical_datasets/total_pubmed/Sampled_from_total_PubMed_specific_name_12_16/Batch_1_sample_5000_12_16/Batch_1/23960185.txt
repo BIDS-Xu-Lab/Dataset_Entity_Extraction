@@ -1,0 +1,14 @@
+Pancreatic cancer clinical trials open in the United States and their accrual were examined to identify opportunities to accelerate progress in the treatment of pancreatic cancer.
+Pancreatic cancer-specific clinical trials open in the United States in the years 2011 and 2012 were obtained from the Pancreatic Cancer Action Network database.
+Accrual information was obtained from trial sponsors.
+The portfolio of pancreatic cancer clinical trials identified by type (adenocarcinoma or neuroendocrine), phase, disease stage, and treatment approach is reported.
+More than half of trials for patients with pancreatic ductal adenocarcinoma applied biologic insights to new therapeutic approaches, and 38% focused on optimization of radiation or chemotherapy delivery or regimens.
+In 2011, pancreatic cancer trials required total enrollment of 11,786 patients.
+Actual accrual to 93.2% of trials was 1,804 patients, an estimated 4.57% of the patients with pancreatic cancer alive in that year.
+The greatest need was for patients with resectable cancer.
+Trials open in 2011 enrolled an average of 15% of their total target accrual.
+Physician recommendations greatly influenced patients' decision to enroll or not enroll onto a clinical trial.
+Matching to a clinical trial within a 50-mile radius and identifying trials for recurrent/refractory disease were documented as challenges for patient accrual.
+Overall trial enrollment indicates that pancreatic cancer trials open in 2011 would require 6.7 years on average to complete accrual.
+These results suggest that harmonizing patient supply and demand for clinical trials is required to accelerate progress toward improving survival in pancreatic cancer.
+Y and Pancreatic Cancer Action Network database (No need to annotate, just for notice).

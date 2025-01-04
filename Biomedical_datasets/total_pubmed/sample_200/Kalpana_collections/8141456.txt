@@ -1,0 +1,10 @@
+Although the bronchial circulation has traditionally been thought to provide adequate blood flow for the lung when the pulmonary artery is obstructed, recent studies have demonstrated that pulmonary artery occlusion results in lung injury.
+We hypothesized that after pulmonary artery occlusion, aerobic lung metabolic function is altered.
+We studied the changes in the concentration of adenine nucleotides as markers of injury in the intact rabbit lung after pulmonary artery occlusion in the presence and absence of pneumothorax.
+A thoracotomy was performed on the rabbits, and on occlusive microvascular clamp was placed on the left pulmonary artery.
+The rabbit lungs were studied after 24 h of in vivo left pulmonary artery occlusion (n = 5), 24 h of left pulmonary artery occlusion with the lung collapsed by pneumothorax (n = 6), or 24 h of lung collapse alone (n = 5).
+Adenosine triphosphate concentrations of the occluded left lung decreased dramatically at 24 h in the group with pulmonary artery occlusion and collapse (adenosine triphosphate concentration 196 +/- 32 ng/g for the left lung and 1,479 +/- 197 ng/g for the right lung; P < 0.001).
+There were no differences between the lungs in the rabbits undergoing occlusion alone or collapse alone.
+After pulmonary artery occlusion or lung collapse, adenine nucleotides are preserved if ventilation is continued.
+The increased permeability of rabbit lungs after 24 h of left pulmonary artery occlusion alone cannot be explained on the basis of depletion of high-energy phosphates.
+In the absence of ventilation due to lung collapse, pulmonary artery occlusion results in decreased adenosine triphosphate concentrations, demonstrating that the residual circulations (bronchial and pulmonary venous flow) are inadequate to support normal lung aerobic metabolism.

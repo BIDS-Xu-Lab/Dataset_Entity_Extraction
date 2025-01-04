@@ -1,0 +1,10 @@
+Several epidemiological studies have demonstrated that genetic and environmental factors contribute to the development of allergic diseases.
+However, there is limited information on these factors in the Korean population.
+This study investigated the importance of genetic and environmental factors in allergic diseases, such as allergic rhinitis, asthma, allergic conjunctivitis, or atopic dermatitis, by comparing the disease incidence in Korean adult monozygotic and dizygotic twins.
+This cross-sectional study utilized data from 1296 twin pairs, including 1052 monozygotic and 244 dizygotic twins, aged over 20 years, from the Korean Genome and Epidemiology Study (2005-2014).
+The study utilized binomial and multinomial logistic regression models to compute odds ratios of disease concordance.
+The concordance rate (92%) of the presence or absence of atopic dermatitis in monozygotic twins was slightly higher than that in dizygotic twins (90.2%), which only had a borderline significance (p = 0.090).
+The concordance rates of other allergic diseases within monozygotic twins were lower compared to dizygotic twins (asthma, 94.3% vs. 95.1%; allergic rhinitis, 77.5% vs. 78.7%; allergic conjunctivitis, 90.6% vs. 91.8%), of which the differences were not statistically significant.
+Monozygotic twins had a higher proportion of cases in which both siblings had allergic diseases than dizygotic twins (asthma, 1.1% vs. 0.0%; allergic rhinitis, 6.7% vs. 3.3%; atopic dermatitis, 2.9% vs. 0.0%; allergic conjunctivitis, 1.5% vs. 0.0%), of which the differences were also not statistically significant.
+In conclusion, our results appear to indicate the relative importance of environmental factors over genetic factor in the development of allergic diseases in Korean adult monozygotic twins.
+Y: Korean Genome and Epidemiology Study (No need to annotate, just for notice).

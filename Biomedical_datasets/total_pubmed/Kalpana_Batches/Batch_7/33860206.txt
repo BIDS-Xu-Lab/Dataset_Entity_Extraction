@@ -1,0 +1,7 @@
+Triterpenoids are ubiquitously distributed secondary metabolites, primarily scrutinized as a source of medication and preventive measures for various chronic diseases.
+The ease of isolation and excellent pharmacological properties of triterpenoids are notable reasons behind the exponential rise of extensive research on the bioactive triterpenoids over the past few decades.
+Herein, we attempted to explore the anticancer potential of the fruit extract of the ethnomedicinal plant Dillenia indica against oral squamous cell carcinoma (OSCC) and have exclusively attributed the efficacy of the extracts to the presence of two triterpenoids, namely, betulinic acid (BA) and koetjapic acid (KA).
+Preliminary in vitro screening of both BA and KA unveiled that the entities could impart cytotoxicity and induce apoptosis in OSCC cell lines, which were further well-supported by virtual screening based on ligand binding affinity and molecular dynamic simulations.
+JAK/STAT3 signaling pathways involved in the regulation of important hallmarks of cancer like cell survival, proliferation, invasion, angiogenesis, and metastasis.
+The present findings provide insight and immense scientific support and integrity to a piece of indigenous knowledge.
+However, in vivo validation is a requisite for moving to clinical trials and developing it as a commercial drug.

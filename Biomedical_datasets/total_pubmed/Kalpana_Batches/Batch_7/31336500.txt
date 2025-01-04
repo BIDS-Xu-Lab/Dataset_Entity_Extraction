@@ -1,0 +1,11 @@
+Psoriasis is an immune-mediated chronic inflammatory skin disease with unknown etiology.
+Current findings demonstrate that psoriatic patients are at higher risk of other systemic disorders such as diabetes mellitus.
+The present study was conducted to evaluate the association between psoriasis and diabetes mellitus.
+The current study was conducted based on preferred reporting items for systematic reviews and meta-analysis (PRISMA) guidelines.
+Using MeSH keywords we searched online databases of PubMed, Scopus, Web of Science, Science Direct, Embase, CINAHL, Cochrane Library, EBSCO and Google scholar search engine and the reference list of the retrieved articles until June 2018.
+Heterogeneity among studies was assessed using Cochran's Q test and I2 index and the random effects model was used to estimate Odds Ratio (OR) and 95% confidence interval (CI).
+Data were analyzed using Comprehensive Meta-Analysis (CMA) software version 2.
+Analysis of 38 eligible studies involving 922870 cases and 12808071 controls suggested the estimated OR to be 1.69 (95%
+Subgroup analysis was conducted based on study design and country of study and was significant (test for subgroup differences: P = 0.025 and P < 0.001, respectively).
+Our study indicated the significant association between psoriasis and diabetes.
+Therefore, psoriasis is a systemic disorder and other comorbidities should be considered in the management of patients with psoriasis.

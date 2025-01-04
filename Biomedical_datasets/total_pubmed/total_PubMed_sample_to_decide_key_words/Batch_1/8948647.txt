@@ -1,0 +1,7 @@
+We have determined the location of cis-acting elements that are important for the expression of RPO21 and RPO22, genes that encode the two largest subunits of RNA polymerase II (RNAPII) in Saccharomyces cerevisiae.
+A series of 5'-end deletions and nucleotide substitutions in the upstream regions of RPO21 and RPO22 were tested for their effect on the expression of lacZ fusions of these genes.
+Deletion of sequences from -723 to -693 in RPO21, which disrupted two Reb1p-binding sites and an Abf1p-binding site, resulted in a 10-fold decrease in expression.
+A T-rich region downstream of these sites was also important for expression.
+Deletion of sequences from -437 to -392 in the RPO22-upstream, which resulted in a 30-fold decrease in expression, indicated that the Reb1p- and Abf1p-binding sites in this region were important for RPO22 expression, as was a T-rich sequence immediately downstream of these sites.
+The RPO21 and RPO22 upstream regions were capable of interacting in vitro (gel-mobility-shift assays) with Reb1p and Abf1p.
+The similarities in the type and organization of elements in the upstream regions of RPO21 and RPO22 suggest that expression of these genes may be regulated coordinately.

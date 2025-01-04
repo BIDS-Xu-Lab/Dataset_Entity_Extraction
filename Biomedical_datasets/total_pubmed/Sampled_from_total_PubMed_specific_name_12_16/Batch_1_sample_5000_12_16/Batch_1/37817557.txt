@@ -1,0 +1,15 @@
+This scoping review aims to provide an overview of patients and caregivers perceptions of hospital-at-home (HaH) services.
+HaH services provide patients with hospital-level care at home and are central to integrated healthcare systems.
+Despite favourable data from individual studies in the literature, in-depth analysis from patient and caregivers perspectives is lacking.
+This understanding is essential for the dissemination and scaling of HaH services.
+The scoping review was performed using the PRISMA-ScR checklist and PAGER framework for the findings report and research recommendations.
+Literature from PubMed, Web of Science, Ovid, CINAHL, Cochrane and Mednar databases were searched.
+Relevant studies published between 1st January 2005 and 31st December 2022 were identified.
+The conceptual model of the development of patient perceptions of quality was used for data extraction and tabulation.
+Expectation attributions were identified as needs, types of service, hospitalisation experiences, family care preferences, social-demographics and coping skills.
+From patient's and caregiver's perspectives, HaH was safe, effective and viewed positively.
+Perceived concerns/barriers and enablers/facilitators were associated with individual, caregiver and system factors, but demonstrated an overall satisfaction in the HaH service.
+HaH provides an excellent service according to patients' and caregivers' perceptions.
+However, gaps in care were identified such as prioritising patient-centred care, along with improved multidisciplinary continuity of care and future studies should incorporate these into their research of HaH. Patients' and caregivers' HaH needs should be embedded in the design, development and implementation of HaH services.
+Not applicable for the study design of this scoping review.
+Y PubMed, Web of Science, Ovid, CINAHL, Cochrane, Mednar (No need to annotate, just for notice).

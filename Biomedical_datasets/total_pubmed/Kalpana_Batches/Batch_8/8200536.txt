@@ -1,0 +1,4 @@
+In order to take advantage of non-radioactive methods, we have developed two plasmids (p lambda LE and p lambda RE) for mapping restriction sites of long inserts cloned in phage lambda vectors.
+These plasmids are constructed by cloning the left 402-bp and right 560-bp phage lambda genome ends, respectively.
+To map restriction sites, the cloned sequences in p lambda LE and p lambda RE are labeled with digoxygenin and hybridized to partially digested lambda DNA.
+The ladder of bands detected with these probes can be used to construct restriction maps in the same way as those obtained using radioactively labeled cos complementary oligodeoxyribonucleotides [Rackwitz et al., Gene 30 (1984) 195-200].

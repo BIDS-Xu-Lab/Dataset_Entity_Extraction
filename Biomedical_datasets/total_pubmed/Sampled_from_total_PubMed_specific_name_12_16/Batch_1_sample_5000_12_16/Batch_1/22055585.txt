@@ -1,0 +1,14 @@
+Surgical resection remains the only potentially curative option for patients with pancreatic adenocarcinoma (PAC).
+Advances in surgical technique and perioperative care have reduced perioperative mortality; however, temporal trends in perioperative morbidity and the use of adjuvant therapy on a population basis remain ill-defined.
+Using Surveillance, Epidemiology, and End Results-Medicare data, 2,461 patients with resected PAC were identified from 1991 to 2005.
+We examined trends in preoperative comorbidity indices, adjuvant treatment, type of pancreatic resection, and changes in morbidity and mortality during 4 time intervals (ie, 1991-1996, 1997-2000, 2001-2003, and 2003-2005).
+The majority of patients underwent pancreaticoduodenectomy (n = 1,945; 79%).
+There was a temporal increase in mean patient age (p < 0.05) and the number of patients with multiple preoperative comorbidities (Elixhauser comorbidities ≥3: 1991-1996, 10% vs 2003-2005, 26%; p < 0.001).
+Perioperative morbidity (53%) did not, however, change over time (p = 0.97) and 30-day mortality decreased by half (1991-1996: 6% vs 2003-2005: 3%; p = 0.04).
+Overall, 51% (n = 1,243) of patients received adjuvant therapy, with the majority receiving chemoradiation (n = 817; 33%).
+Among patients who received adjuvant therapy, factors associated with receipt of adjuvant chemotherapy alone relative to chemoradiation included older patient age (odds ratio = 1.75; p < 0.001) and ≥3 medical comorbidities (odds ratio = 1.57; p = 0.007).
+Receipt of adjuvant chemotherapy alone also increased over time (2003-2005 vs 1991-1996, odds ratio = 2.21; p < 0.001).
+Perioperative 30-day mortality associated with resection for PAC decreased by one-half from 1991 to 2005.
+Although patients undergoing resection for PAC were older and had more preoperative comorbidities, the incidence of perioperative complications remained stable.
+The relative use of adjuvant chemotherapy alone vs chemoradiation therapy for PAC has increased in the United States during the 15 years examined.
+Y Surveillance, Epidemiology, and End Results-Medicare data (No need to annotate, just for notice).

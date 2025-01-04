@@ -1,0 +1,10 @@
+We propose a multivariate theory for the pathogenesis of nasal polyps.
+Turbulent flow of air in the lateral wall of the nose or viral-bacterial-host interactions produce an inflammatory change in the mucosa of the lateral wall of the nose.
+Ulceration and prolapse of the submucosa with reepithelialization and new gland formation may then follow.
+The structural cells of the nasal polyp, including epithelial cells and fibroblasts, have the ability to produce messenger RNA for granulocyte-monocyte colony-stimulating factor and other cytokines.
+Stimulation of such an effector capability by structural cell-derived cytokines would undoubtedly represent a major amplification pathway of the inflammatory response in nasal polyps.
+Allergy may be one mechanism for the development of this cascade of events.
+This microenvironmental structural inflammatory response in the nasal polyp, in turn, can affect the bioelectric integrity of the Na+ and Cl- channels at the luminal surface of the respiratory epithelial cell.
+The change in the Na+ absorption, which has been demonstrated in our studies, may result in an increased movement of water into the cell and into the interstitial fluid.
+The resultant edema can lead to growth and enlargement of the nasal polyp.
+Finally, the rapid recurrence of nasal polyps despite adequate surgery may reflect some intrinsic phenotypic characteristic of nasal epithelial cells in the lateral wall of the nose, which is likely to be under genetic control.

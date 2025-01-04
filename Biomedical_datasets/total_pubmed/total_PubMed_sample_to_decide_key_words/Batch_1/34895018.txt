@@ -1,0 +1,8 @@
+Previous studies examining potential relationships of impaired insight with severity obsessive-compulsive (O-C) symptoms and depressive symptoms in patients diagnosed with obsessive-compulsive disorder (OCD) have produced mixed results.
+Here, we examined differences in these clinical characteristics and their changes after treatment in adult patients with OCD who have poor insight (OCD-PI) versus in those who have good insight (OCD-GI).
+Fifty-nine full-text articles were screened for eligibility with 20 studies ultimately being included in the present meta-analysis.
+The OCD-PI and OCD-GI groups differed from each other with respect to O-C symptom (p < 0.001, g > 0.7) and depressive symptom (p < 0.001, g = 0.614) severity.
+Significant and moderate correlations were observed between insight and treatment outcomes (O-C symptoms, r = 0.33; depressive symptoms, r = 0.47).
+Exploratory meta-regression showed that methodological factors influenced the magnitudes of inter-group O-C symptom differences.
+The current meta-analysis indicates that poorer insight is associated with more severe O-C and depression, and less improvement of symptoms in patients with OCD.
+Insight impairment may be a critical and core OCD-related deficit.

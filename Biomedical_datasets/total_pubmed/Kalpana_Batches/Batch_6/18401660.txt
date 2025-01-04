@@ -1,0 +1,12 @@
+The common brushtail possum (Trichosurus vulpecula) is a generalist herbivore whose diet includes Eucalyptus leaves that are well defended by plant secondary metabolites (PSM) such as the terpene 1,8-cineole (cineole).
+We accustomed possums to a terpene-free diet, then challenged them with the addition of 2% cineole to the diet.
+Initially, there was a 50% reduction in total overnight food consumption associated with a marked decrease in the mass of the major feeding bout.
+After nine nights, however, cineole tolerance had developed as total food consumption had returned to the control amount.
+Compared to the control diet, the cineole diet was eaten in a larger number of smaller bouts, which were also eaten at a slower rate.
+The experiment was repeated with animals that had been accustomed to day-time feeding to take blood samples during feeding sessions.
+Feeding variables and blood concentration data for cineole were compared on the first and seventh day of the cineole diet.
+Although the total food consumed increased 2.5-fold after 7 days of the cineole diet, there was no increase in average blood cineole concentration, measured as the area under the concentration-time curve.
+This indicates that induction of liver enzymes resulted in greater pre-systemic metabolism of cineole and reduced bioavailability.
+The maximum tolerated blood concentration of cineole also increased, suggesting some adaptation of the central nervous system to the cineole aversive effects.
+This appears to be the first report in a vertebrate herbivore that consumption of a dietary PSM leads to metabolism induction and that this contributes to development of tolerance to the PSM.
+Overall, herbivores adapt to newly encountered dietary PSMs by immediate changes in feeding behavior followed by development of increased metabolism of PSM and probably diminished cellular responsiveness to effects.

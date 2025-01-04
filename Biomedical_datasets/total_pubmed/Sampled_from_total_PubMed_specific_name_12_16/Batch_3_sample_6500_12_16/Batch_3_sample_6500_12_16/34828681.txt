@@ -1,0 +1,9 @@
+Sexually active young people face an increasing public health burden of unintended pregnancies and sexually transmitted diseases due to improper contraception.
+However, environmental and social factors related to young people's contraception remain unclear.
+To identify the key factors, we applied ensemble machine learning methods to the data of 12,280 heterosexual Chinese college students who reported sexual intercourse experience in the National College Student Survey on Sexual and Reproductive Health in 2020 (NCSS-SRH 2020).
+In the order of variable importance, convenient access to contraceptives, certain attitudes towards sex, sexual health knowledge level, being an only-child, and purchasing a bachelor's or master's degree were positively associated with a high frequency of contraceptive use.
+In contrast, smoking, free access to contraceptives, a specific attitude towards marriage, and negotiation with a sexual partner were negatively associated with a higher frequency of contraceptive use.
+Our analysis provides insights into young people's contraceptive use under a typically conservative culture of sexuality.
+Compared to previous studies, we thoroughly investigated internal and external factors that might impact young people's decision on contraception while having sex.
+Under a conservative culture of sexuality, the effects of the external factors on young people's contraception may outweigh those of the internal factors.
+Y NCSS-SRH 2020 (No need to annotate, just for notice).

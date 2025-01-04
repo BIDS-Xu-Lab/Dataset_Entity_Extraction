@@ -1,0 +1,12 @@
+Nutritional status influences the growth and development of the eyes.
+However, there are few studies on the association between diet, especially whole grains (WG) consumption, and myopia.
+The study aimed to evaluate the association between WG intake and myopia prevalence among primary school-age children in China.
+This cross-sectional epidemiological study conducted between November 2019 and December 2019 included 586 children, aged 6-12 years, attending primary school in Binhai district, Tianjin, China.
+Ophthalmologic examinations and optometric cycloplegic refraction measurements were conducted.
+Information was collected on known risks and protective factors for myopia and the consumption of WGs, vegetables, and fruits.
+This association between the probability of myopia and the proportion of WG consumption (WG proportion was calculated as the mean intake from WG sources divided by total grain intake), adjusted for protective and risk factors, was analysed using crude and multivariable logistic regression.
+Among the study participants, 226/586 (38.57%) children had myopia in at least one eye.
+WG intake was inversely correlated with the prevalence of myopia.
+Furthermore, in the multivariate analysis, WG intake of > 50% was identified as a protective factor against myopia after subsequent adjustment for children's age, sex, parental myopia, near-work activity, screen time, reading and writing habits, visual fatigue, outdoor time, and classroom light environment (all P < 0.05).
+WG intake (> 50%) was an independent protective factor against myopia.
+Modifying the form of grains consumed (whole versus refined) could be one of the targets of future public health measures.

@@ -1,0 +1,15 @@
+Hepatic encephalopathy (HE) is a serious complication of cirrhosis and is associated with gut dysbiosis.
+Proton pump inhibitors (PPIs), frequently prescribed to patients with cirrhosis, can contribute to small-bowel bacterial overgrowth.
+We investigated whether PPI predisposes patients with cirrhosis to HE using a large database of patients.
+We performed a case-control study nested within a sample of Taiwan National Health Insurance beneficiaries (n = 1,000,000), followed up longitudinally from 1998 through 2011.
+Patients with cirrhosis and an occurrence of HE (n = 1166) were selected as the case cohort and matched to patients without HE (1:1, controls) for sex, enrollment time, end point time, follow-up period, and advanced cirrhosis.
+Information on prescribed drugs, drug dosage, supply days, and numbers of dispensed pills was extracted from the Taiwan National Health Insurance database.
+PPI use was defined as more than 30 cumulative defined daily doses (cDDDs); PPI nonuse was defined as 30 cDDDs or fewer.
+We performed logistic regression analyses to estimate the association between PPI use and the occurrence of HE.
+Among patients with cirrhosis and an occurrence of HE, 38% (n = 445) had a history of PPI use before HE occurrence.
+We observed a relationship between dose of PPI taken and HE risk.
+[CI], 1.09-1.84), 1.51 (95% CI, 1.11-2.06), and 3.01 (95% CI, 1.78-5.10) for patients with 30-120 cDDDs, 120-365 cDDDs, and more than 365 cDDDs, respectively, compared with PPI nonusers.
+All categories of PPIs, except rabeprazole, were associated with an increased risk of HE.
+Based on an analysis of data from Taiwan National Health Insurance beneficiaries, we found that use of PPIs in patients with cirrhosis increases the risk for HE; risk increases with dose.
+It therefore is important for health care providers to carefully consider prolonged PPI use by patients with cirrhosis.
+Y: Taiwan National Health Insurance database (No need to annotate, just for notice).

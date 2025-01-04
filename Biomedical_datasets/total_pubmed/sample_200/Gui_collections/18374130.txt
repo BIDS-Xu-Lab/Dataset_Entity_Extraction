@@ -1,0 +1,8 @@
+We admixed cultured porcine keratocytes or corneal endothelial cells in the presence of human sera or peripheral blood mononuclear cells (PBMCs) for 4 to 72 hours to investigate their immune-related susceptibilities to xeno-related rejection.
+We evaluated complement deposition at 48 hours by flow cytometry after staining with the C3 anti-goat cy3 antibody.
+The inhibition of proliferation of porcine corneal cells by human sera was examined using the 3-[4,5-dimethy/thiazol-2,5-dephenyl tetrazolium bromide (MTT) assay over 24 to 72 hours.
+The amount of 51chromium (Cr)-release was estimated after a reaction between the porcine cells and human PBMCs for 4 hours.
+There was greater C3 deposition in keratocytes (60.2%) than in endothelial cells (26.9%; P = .05, Mann-Whitney U test).
+Both keratocytes and endothelial cells showed significant levels of proliferative inhibition over a period of 72 hours.
+The number of 51Cr-release cells on interleukin-2 addition was significantly higher among keratocytes (88.0%) than endothelial cells (51.4%) at a 1:100 target:effector ratio (P = .04, Mann-Whitney U test).
+Our present data suggested that porcine keratocytes might be key target cells in xeno-related rejections when the porcine cornea is transplanted to primates.

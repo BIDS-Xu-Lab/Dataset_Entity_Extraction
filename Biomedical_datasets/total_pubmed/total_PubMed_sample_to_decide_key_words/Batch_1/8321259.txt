@@ -1,0 +1,13 @@
+Treatment of the central nervous system is crucial to the successful treatment of acute lymphoblastic leukemia in children.
+The intensity and timing of the therapy are based on the presence or predicted risk of central nervous system leukemia as assessed according to criteria that remain controversial.
+The clinical importance of leukemic blast cells detected in cerebrospinal fluid at the time of diagnosis was evaluated in 351 children with acute lymphoblastic leukemia in a randomized trial of intensive chemotherapy.
+All patients received intrathecal chemotherapy during the first year.
+Patients considered to be at high risk of relapse because of their clinical and cytogenetic features also received cranial irradiation and intrathecal chemotherapy one year after remission.
+Patients were considered to have central nervous system leukemia at diagnosis if they had at least 5 leukocytes per microliter of cerebrospinal fluid, with leukemic blast cells apparent in cytocentrifuged preparations, or cranial-nerve palsy; they received additional intrathecal injections of chemotherapeutic agents and cranial irradiation.
+Patients were retrospectively classified on the basis of cerebrospinal fluid findings: 291 patients had no detectable blast cells, 42 had fewer than 5 leukocytes per microliter and blast cells, and 18 had central nervous system leukemia as defined above.
+The clinical characteristics and outcomes of treatment in these groups were analyzed.
+The five-year probability of survival free of relapses confined to the central nervous system in patients with detectable blast cells and fewer than 5 leukocytes per microliter of cerebrospinal fluid was lower than in patients without blast cells (mean [+/- SE], 87 +/- 13 vs. 96 +/- 2 percent), but was not different from the probability in patients with central nervous system leukemia at diagnosis.
+All such isolated relapses of leukemia in patients with detectable blast cells occurred during the first year of treatment, before scheduled cranial irradiation.
+In a multivariate analysis, the presence of cerebrospinal fluid blast cells with fewer than 5 leukocytes per microliter was independently related to the risk of relapse confined to the central nervous system.
+Patients with leukemic blast cells in their cerebrospinal fluid are at increased risk for central nervous system relapse when cranial irradiation is delayed.
+Such patients require intensified central nervous system treatment early in the course of therapy.

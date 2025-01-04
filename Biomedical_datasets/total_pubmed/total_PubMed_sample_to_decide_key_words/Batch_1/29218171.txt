@@ -1,0 +1,8 @@
+Reaction with halogen vapor allows us to post-synthetically exchange halides in both three- (3D) and two-dimensional (2D) organic-inorganic metal-halide perovskites.
+Films of 3D Pb-I perovskites cleanly convert to films of Pb-Br or Pb-Cl perovskites upon exposure to Br2 or Cl2 gas, respectively.
+This gas-solid reaction provides a simple method to produce the high-quality Pb-Br or Pb-Cl perovskite films required for optoelectronic applications.
+Reactivity with halogens can be extended to the organic layers in 2D metal-halide perovskites.
+Here, terminal alkene groups placed between the inorganic layers can capture Br2 gas through chemisorption to form dibromoalkanes.
+This reaction's selectivity for Br2 over I2 allows us to scrub Br2 to obtain high-purity I2 gas streams.
+We also observe unusual halogen transfer between the inorganic and organic layers within a single perovskite structure.
+Remarkably, the perovskite's crystallinity is retained during these massive structural rearrangements.

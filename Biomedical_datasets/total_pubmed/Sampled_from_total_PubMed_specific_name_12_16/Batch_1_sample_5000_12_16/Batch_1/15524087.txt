@@ -1,0 +1,11 @@
+Devices that produce electromagnetic fields (EMF) within the range of 0-300 GHz are widely used in surgical and diagnostic procedures.
+As a result a large number of physicians and other groups of medical personnel may be exposed to EMF.
+Even if patients' exposure, sometimes quite high, is inevitable or even recommended, medical personnel should be substantially protected against EMF exposure.
+Evaluation of nurses' exposure to EMF was based on an analysis of EMF magnitudes in the surrounding of magnetic resonance imaging (MRI) and electrosurgical units.
+These two kinds of apparatus are the strongest EMF sources in health service facilities.
+The measurements were performed according to the norms and hygiene regulations binding in Poland.
+Measurements performed by the Nofer Institute of Medicine in Lódź, and data collected by the Central Database on EMF Sources were used in the analysis.
+The Central Database is run by the Nofer Institute of Medicine at the behest of the Chief Sanitary Inspector.
+The study showed that nurses' exposure to EMF emitted by MRI and electrosurgical units complies with Polish norms and hygiene regulations and can be classified as negligible or allowable.
+It was found that work of nurses in exposure to EMF emitted by MRI and electrosurgical units can be regarded as safe, which means that their health should not be endangered by performing their job.
+Y: Central Database on EMF Sources (No need to annotate, just for notice).

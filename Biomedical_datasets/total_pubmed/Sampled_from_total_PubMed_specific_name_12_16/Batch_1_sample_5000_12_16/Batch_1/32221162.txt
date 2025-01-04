@@ -1,0 +1,9 @@
+Chronic hepatitis C virus (HCV) infection is associated with nonhepatocellular carcinoma malignancies.
+We aimed to evaluate whether achieving a sustained virological response (SVR, defined as HCV RNA seronegativity throughout posttreatment 24-week follow-up) could reduce the risk of non-hepatocellular carcinoma malignancy in a real-world nationwide Taiwanese Chronic Hepatitis C Cohort (T-COACH).
+A total of 10,714 patients with chronic hepatitis C who had received interferon-based therapy (8,186 SVR and 2,528 non-SVR) enrolled in T-COACH and were linked to the National Cancer Registry database for the development of 12 extrahepatic malignancies, including those with potential associations with HCV and with the top-ranking incidence in Taiwan, over a median follow-up period was 3.79 years (range, 0-16.44 years).
+During the 44,354 person-years of follow-up, 324 (3.02%) patients developed extrahepatic malignancies, without a difference between patients with and without SVR (annual incidence: 0.69% vs 0.87%, respectively).
+Compared with patients with SVR, patients without SVR had a significantly higher risk of gastric cancer (0.10% vs 0.03% per person-year, P = 0.004) and non-Hodgkin lymphoma (NHL) (0.08% vs 0.03% per person-year, respectively, P = 0.03).
+When considering death as a competing risk, non-SVR was independently associated with gastric cancer (hazard ratio [HR]/95% confidence intervals [CIs]: 3.29/1.37-7.93, P = 0.008).
+When patients were stratified by age, the effect of SVR in reducing gastric cancer (HR/CI: 0.30/0.11-0.83) and NHL (HR/CI: 0.28/0.09-0.85) was noted only in patients aged <65 years but not those aged >65 years.
+HCV eradication reduced the risk of gastric cancer and NHL, in particular among younger patients, indicating that patients with chronic hepatitis C should be treated as early as possible.
+Y: Taiwanese Chronic Hepatitis C Cohort (T-COACH), National Cancer Registry database (No need to annotate, just for notice).

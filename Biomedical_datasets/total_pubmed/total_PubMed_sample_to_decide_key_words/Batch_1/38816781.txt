@@ -1,0 +1,7 @@
+Prospective memory (PM) refers to the ability to perform planned activities in the appropriate future situations.
+It needs to be planned in advance and processed through multiple stages such as encoding, retention, retrieval, and execution, which usually require more attention resources.
+Impulsivity trait individuals are usually characterized by lack of consideration, premature expression, excessive risk-taking and easy to make inappropriate reaction, so they are more likely to show disadvantages in PM.
+Nevertheless, increasing the importance of PM tasks can promote more adequate and effective cue encoding, and encourage individuals to devote attention to PM tasks, which may change the disadvantage of impulsivity individuals in PM performance.
+In this study, the between-subjects design of 2 (trait type: high-impulsivity trait, low-impulsivity trait) ×2 (task importance: important, unimportant) was adopted in the experiment, the 2-back task was used for the ongoing task, and the focal cues were used for the PM task cues.
+The results showed that the PM accuracy of high-impulsivity trait individuals was lower than that of low-impulsivity trait individuals under the task unimportant condition, but there was no difference between the two traits groups under the task important condition.
+The results of this study suggested that high-impulsivity trait individuals had a deficit in PM performance, but emphasizing the importance of PM tasks can compensate for their disadvantage in PM performance.

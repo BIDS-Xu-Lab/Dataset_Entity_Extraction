@@ -1,0 +1,15 @@
+Here we present a detailed statistical analysis of the discharge characteristics of mitral cells of the main olfactory bulb of urethane-anesthetized rats.
+Neurons were recorded from the mitral cell layer, and antidromically identified by stimuli applied to the lateral olfactory tract.
+All mitral cells displayed repeated, prolonged bursts of action potentials typically lasting >100 sec and separated by similarly long intervals; about half were completely silent between bursts.
+No such bursting was observed in nonmitral cells recorded in close proximity to mitral cells.
+Bursts were asynchronous among even adjacent mitral cells.
+The intraburst activity of most mitral cells showed strong entrainment to the spontaneous respiratory rhythm; similar entrainment was seen in some, but not all nonmitral cells.
+All mitral cells displayed a peak of excitability at ~25 msec after spikes, as reflected by a peak in the interspike interval distribution and in the corresponding hazard function.
+About half also showed a peak at about 6 msec, reflecting the common occurrence of doublet spikes.
+Nonmitral cells showed no such doublet spikes.
+Bursts typically increased in intensity over the first 20-30 sec of a burst, during which time doublets were rare or absent.
+After 20-30 sec (in cells that exhibited doublets), doublets occurred frequently for as long as the burst persisted, in trains of up to 10 doublets.
+The last doublet was followed by an extended relative refractory period the duration of which was independent of train length.
+In cells that were excited by application of a particular odor, responsiveness was apparently greater during silent periods between bursts than during bursts.
+Conversely in cells that were inhibited by a particular odor, responsiveness was only apparent when cells were active.
+Extensive raw (event timing) data from the cells, together with details of those analyses, are provided as supplementary material, freely available for secondary use by others.

@@ -1,0 +1,14 @@
+Symptomatic carotid disease conveys a high risk of recurrent stroke.
+Plaque morphology and specific plaque characteristics are associated with the risk of stroke.
+This study aimed to evaluate the detailed plaque features by optical coherence tomography (OCT) and develop a simple scale combining clinical indicators, digital subtraction angiography (DSA), and OCT imaging markers to identify symptomatic carotid plaque.
+Methods: Carotid plaques from consecutive patients who underwent carotid OCT imaging between June 2017 and June 2021 were evaluated.
+Clinical characteristics, DSA, and OCT data were compared between the symptomatic and asymptomatic groups.
+Logistic regression was performed to identify the factors associated with symptomatic carotid plaque and to develop a scale.
+The area under the receiver operating characteristic curve (AUC) was used to evaluate the performance of the scale.
+A total of 90 carotid plaques from 90 patients were included (symptomatic 35.6%, asymptomatic 64.4%).
+Three main factors were found to be associated with symptomatic carotid plaque: high-density lipoprotein cholesterol (HDL-C) <0.925 mmol/L (OR, 4.708; 95% CI, 1.640 to 13.517;
+P = 0.004), irregular plaque (OR, 4.017; 95% CI, 1.250 to 12.910; P = 0.020), and white thrombus (OR, 4.594; 95% CI, 1.141 to 18.487; P = 0.032).
+The corresponding score of three items produced a scale with good discrimination (AUC, 0.768; 95% CI, 0.665 to 0.871).
+The optimal cutoff value of the scale was 1.5 points with 59.4% sensitivity and 84.5% specificity.
+Conclusion: The three-item scale comprising HDL-C <0.925 mmol/L, angiographical irregular plaque, and white thrombus detected by OCT may provide information to identify symptomatic carotid plaque.
+Further large-scale studies are required to validate whether the symptomatic carotid plaque scale is clinically valuable in recognizing carotid atherosclerosis in the early stages.

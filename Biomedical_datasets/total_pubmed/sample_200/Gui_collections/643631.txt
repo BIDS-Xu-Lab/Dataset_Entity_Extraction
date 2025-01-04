@@ -1,0 +1,8 @@
+An increased image of blood-filled spaces (Plexus choriodeus, Sinus transversus) was observed in 99mTc-pertechnetate scintigraphy when it had been preceded by the administration of tin (e.g. of 99mTc-Sn-diphosphonate).
+We have called this behaviour the "tin effect".
+In vitro studies demonstrated binding of about 80% of the administered activity in the blood with a biological half-life of about 44 hr and an effective half-life of about 5.3 hr.
+95% of the blood activity was bound to red cells and 5% to plasma.
+This resulted in an increased radiation dose to the bone marrow of about 530 mrad/mCi 99mTc-pertechnetate (following tin).
+The extent of the tin effect decreased with the length of the interval between tin and 99mTc-pertechnetate administration.
+Because of the tin effect 99mTc-DTPA or 99mTc-citrate should be used for brain scintigraphy if this has to be performed within the first 5 or 7 days following a bone scintigraphy with a tin-containing radiopharmaceutical.
+The "tin effect" might be taken advantages of when labelling red cells and imaging vascular spaces.

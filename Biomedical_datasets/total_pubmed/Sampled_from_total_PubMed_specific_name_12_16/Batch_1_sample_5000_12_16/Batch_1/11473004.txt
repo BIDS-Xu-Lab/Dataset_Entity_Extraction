@@ -1,0 +1,14 @@
+We present a framework to generate comprehensive overviews of protein-protein interactions.
+In the post-genomic view of cellular function, each biological entity is seen in the context of a complex network of interactions.
+Accordingly, we model functional space by representing protein-protein-interaction data as undirected graphs.
+We suggest a general approach to generate interaction maps of cellular networks in the presence of huge amounts of fragmented and incomplete data, and to derive representations of large networks which hide clutter while keeping the essential architecture of the interaction space.
+This is achieved by contracting the graphs according to domain-specific hierarchical classifications.
+The key concept here is the notion of induced interaction, which allows the integration, comparison and analysis of interaction data from different sources and different organisms at a given level of abstraction.
+We apply this approach to compute the overlap between the DIP compendium of interaction data and a dataset of yeast two-hybrid experiments.
+The architecture of this network is scale-free, as frequently seen in biological networks, and this property persists through many levels of abstraction.
+Connections in the network can be projected downwards from higher levels of abstraction down to the level of individual proteins.
+As an example, we describe an algorithm for fold assignment by network context.
+This method currently predicts protein folds at 30% accuracy without any requirement of detectable sequence similarity of the query protein to a protein of known structure.
+We used this algorithm to compile a list of structural assignments for previously unassigned genes from yeast.
+Finally we discuss ways forward to use interaction networks for the prediction of novel protein-protein interactions.
+Y: DIP compendium (No need to annotate, just for notice).

@@ -1,0 +1,5 @@
+Delivery of insulin to the deep lung presents unique challenges to the body's mucosal defense system.
+Pulmonary mucosal defense has the ability to discriminate between self and non-self antigens and has the potential for induction of immunologic tolerance.
+Published data concerning the immunogenicity of inhaled human insulin in drug trials will be reviewed, and data regarding the possible adverse effects of anti-insulin antibody development will be presented.
+Examination of the immunologic safety of inhaled human insulin will include discussion of comparator studies, factors affecting immunogenicity, the effects of insulin immunity on glycemic control and pulmonary function, and the relationship of insulin antibodies to dose requirements, pharmacodynamics, and hypoglycemia.
+Inhaled human insulin, whether formulated as a powder or liquid, has been shown to be more immunogenic than comparator insulins given by subcutaneous routes; however, adverse effects of antibody formation have not been demonstrated.

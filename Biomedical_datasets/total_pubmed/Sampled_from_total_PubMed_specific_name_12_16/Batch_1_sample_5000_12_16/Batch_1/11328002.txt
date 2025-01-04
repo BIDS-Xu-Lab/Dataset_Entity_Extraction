@@ -1,0 +1,5 @@
+Recent results from BOOMERANG-98 and MAXIMA-1, taken together with COBE DMR, provide consistent and high signal-to-noise measurements of the cosmic microwave background power spectrum at spherical harmonic multipole bands over 2<l less similar to 800.
+Analysis of the combined data yields 68% (95%) confidence limits on the total density, Omega(tot) approximately 1.11+/-0.07 (+0.13)(-0.12), the baryon density, Omega(b)h(2) approximately 0.032(+0.005)(-0.004) (+0.009)(-0.008), and the scalar spectral tilt, n(s) approximately 1.01(+0.09)(-0.07) (+0.17)(-0.14).
+These data are consistent with inflationary initial conditions for structure formation.
+Taken together with other cosmological observations, they imply the existence of both nonbaryonic dark matter and dark energy in the Universe.
+Y and BOOMERANG-98, MAXIMA-1, COBE DMR (No need to annotate, just for notice).

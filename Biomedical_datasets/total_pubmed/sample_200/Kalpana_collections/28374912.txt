@@ -1,0 +1,9 @@
+Mutations in the Peripheral Myelin Protein 22 (PMP22) leads to Charcot Marie Tooth type 1A (CMT1A, a subtype of CMT1) disease which is the most common inherited neuropathy of peripheral nervous system.
+In the present study, we used series of in silico prediction methods to screen and identify the most deleterious non-synonymous SNPs (nsSNPs) in PMP22 gene.
+Out of 48 nsSNPs, five nsSNPs (L16P, L19P, T23R, W28R, and L147R) associated with PMP22 were predicted to be highly deleterious and destabilizing the protein.
+To explore the possible structure-function relationship, we employed abinitio modeling strategy using the CABS-fold server to predict the three-dimensional structure models in the absence of crystallized structures in PMP22 protein.
+We used Cytoscape 3.4.0 plugin Integrated Complex Traits Networks interface (iCTNet) to identify the probable drug-gene interactions in PMP22 gene.
+A total of 22 chemical compounds yielded from the aforementioned tool was subjected to Molinspiration and OSIRIS program to screen and identify the potent drug molecules for further analysis.
+Five chemical compounds with excellent bioavailability and drug relevant property were selected for molecular docking simulation study.
+We modeled five mutant structures at their corresponding positions and performed molecular docking simulation analysis using AutoDock Tools (ADT) version 1.5.6 and ArgusLab 4.0.1 tools to analyze their interaction patterns and binding efficacy.
+Based on the results obtained from the computational study, we predict that estradiol could be a potential drug of choice for treating patients with CMT1A which needs larger attention from biologists in the near future.

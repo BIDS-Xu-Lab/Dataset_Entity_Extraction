@@ -1,0 +1,5 @@
+The present work describes the preparation and characterization of a carbon nanotube paste electrode modified with 2,7-bis(ferrocenyl ethyl)fluoren-9-one (2,7-BF).
+This electrode showed an efficient catalytic activity for the electro-oxidation of 6-thioguanine (6-TG), which leads to lowering 6-TG overpotential by more than 610 mV.  Also, the values of catalytic rate constant (k = 2.7 × 10(3) mol(-1) L s(-1)), and diffusion coefficient (D = 2.7 × 10(-5) cm(2) s) were calculated.
+In 0.1 M phosphate buffer solution of pH 7.0, the oxidation current increased linearly with two concentration intervals of 6-TG, one is 0.06 to 10.0 µmol L(-1) and the other is 10.0 to 160.0 µmol L(-1).
+The detection limit (3σ) obtained by differential pulse voltammetry (DPV) was 22.0 nmol L(-1).
+DPV was used for simultaneous determination of 6-TG, uric acid (UA) and folic acid (FA) at the modified electrode, and for quantification of 6-TG, UA and FA in some real samples by the standard addition method.

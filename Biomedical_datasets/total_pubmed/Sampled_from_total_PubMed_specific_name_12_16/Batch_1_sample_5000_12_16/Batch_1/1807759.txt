@@ -1,0 +1,10 @@
+Stroke is the third leading cause of death in the United States and a major source of morbidity.
+[1] Recent studies have shown a potential use for thrombolytic agents in the treatment of ischemic stroke (IS) but these agents are contraindicated in intracerebral hemorrhage (ICH).
+A computed tomographic scan is used to distinguish between these two stroke types prior to the use of thrombolytic agents, but may not be readily obtainable.
+Decision making aids such as algorithms developed at Guy's Hospital and Strong Memorial Hospital have been designed in an attempt to make this distinction on clinical grounds.
+We have constructed computerized medical decision-making (CMD) systems based upon these algorithms and compared their performance to a system we developed with the use of National Stroke Data Bank data.
+Relevant medical data for each of 337 patient cases in the Mount Sinai Hospital Stroke Data Bank were presented to each of the CMD systems.
+In consideration of the clinical task of using thrombolytic agents, we attempted to maximize the positive predictive value (PPV) for ischemic stroke.
+The CMD systems based upon the Guy's Hospital and Mount Sinai algorithms produced PPV's of 95% and 94% with sensitivities of 77% and 78% respectively compared to a PPV of 93% and sensitivity of 56% with the Strong Memorial CMD system.
+The Mount Sinai CMD system was judged more efficacious than the Guy's Hospital system in that it required less clinical information that could be more easily obtained to arrive at similar results.
+Y: National Stroke Data Bank, Mount Sinai Hospital Stroke Data Bank (No need to annotate, just for notice).

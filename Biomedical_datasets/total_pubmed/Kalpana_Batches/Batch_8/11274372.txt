@@ -1,0 +1,9 @@
+The placenta contains several types of feto-maternal interfaces where zygote-derived cells interact with maternal cells or maternal blood for the promotion of fetal growth and viability.
+The genetic factors regulating the interactions between different cell types within feto-maternal interfaces and the relative contributions of the maternal and zygotic genomes are poorly understood.
+Genomic imprinting, the epigenetic process responsible for parental origin-dependent functional differences between homologous chromosomes, has been proposed to contribute to these events.
+Previous studies showed that mouse conceptuses with an absence of imprinted differences between the two copies of chromosome 12 (upon paternal inheritance of both copies) die late in gestation and have a variety of defects, including placentomegaly.
+Here we examined the role of chromosome 12 imprinting in these placentae in more detail.
+We show that the spatial interactions between different cell types within feto-maternal interfaces are defective and identify abnormal behaviors in both zygote-derived and maternal cells that are attributed to the genome of the zygote but not the mother.
+These include compromised invasion of the maternal decidualized endometrium and the central maternal artery situated within it by zygote-derived trophoblast, abnormalities in the wall of the central maternal artery, and defects within the zygote-derived cellular layer of the labyrinth, which is in direct contact with maternal blood.
+These findings demonstrate multiple roles for chromosome 12 imprinting in the placenta that have not previously been associated with imprinting effects.
+They provide insights into the function of imprinting in placental development and have evolutionary and clinical implications.

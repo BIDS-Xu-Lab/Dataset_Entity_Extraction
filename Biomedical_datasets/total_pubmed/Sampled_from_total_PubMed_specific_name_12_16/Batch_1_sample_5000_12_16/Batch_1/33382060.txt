@@ -1,0 +1,16 @@
+This living, systematic review aims to provide a timely, rigorous, and continuously updated summary of the available evidence on the role of cell-based therapies in the treatment of patients with COVID-19.
+We conducted searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature, and in a centralized repository in L·OVE (Living OVerview of Evidence).
+L·OVE is a platform that maps PICO questions to evidence from the Epistemonikos database.
+In response to the COVID-19 emergency, L·OVE was adapted to expand the range of evidence it covers and customized to group all COVID-19 evidence in one place.
+All the searches covered the period until 23 April 2020 (one day before submission).
+We adapted an already published standard protocol for multiple parallel systematic reviews to the specificities of this question.
+We searched for randomized trials evaluating the effectiveness and safety of cell-based therapies versus placebo or no treatment in patients with COVID-19.
+Anticipating the lack of randomized trials directly addressing this question, we also searched for trials evaluating other coronavirus infections, such as MERS-CoV and SARS-CoV, and nonrandomized studies in COVID-19.
+Two reviewers independently screened each study for eligibility.
+A living, web-based version of this review will be openly available during the COVID-19 pandemic.
+We will resubmit this review to a peer-reviewed journal every time the conclusions change or whenever there are substantial updates.
+We screened 1 043 records, but no study was considered eligible.
+We identified 61 ongoing studies, including 39 randomized trials evaluating different types of cell-based therapies in COVID-19.
+We did not find any studies that met our inclusion criteria, and hence there is no evidence to support or refute the use of cell-based therapies for treating patients with COVID-19.
+A substantial number of ongoing studies should provide valuable evidence to inform researchers and decision-makers in the near future.
+Y: PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), L·OVE (Living OVerview of Evidence), Epistemonikos database (No need to annotate, just for notice).

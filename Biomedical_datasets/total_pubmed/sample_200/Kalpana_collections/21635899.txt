@@ -1,0 +1,9 @@
+The process of cell division in mammalian cells is orchestrated by cell-cycle-dependent oscillations of cyclin protein levels.
+Cyclin levels are controlled by redundant transcriptional, post-translational and degradation feedback loops.
+How each of these separate loops contributes to the regulation of the key cell cycle events and to the connection between the G1-S transition and the subsequent mitotic events is under investigation.
+Here, we present an integrated computational model of the mammalian cell cycle based on the sequential activation of cyclins.
+We validate the model against experimental data on liver cells (hepatocytes), which undergo one or two rounds of synchronous circadian-clock gated cell divisions during liver regeneration, after partial hepatectomy (PH).
+The model exhibits bandpass filter properties that allow the system to ignore strong but transient, or sustained but weak damages after PH.
+Bifurcation analysis of the model suggests two different threshold mechanisms for the progression of the cell through mitosis.
+These results are coherent with the notion that the mitotic exit in mammalian cells is bistable, and suggests that Cdc20 homologue 1 (Cdh1) is an important regulator of mitosis.
+Regulation by Cdh1 also explains the observed G2/M phase prolongation after hepatocyte growth factor (HGF) stimulation during S phase.

@@ -1,0 +1,18 @@
+Mare and foal survival are increased with prompt dystocia management.
+Data regarding mortality outcomes in mares and foals, when mares are recumbent at admission for dystocia resolution, are scarce.
+To evaluate recumbency at hospital admission as a risk factor for survival of mares and foals following dystocia management.
+Subsequent mare fertility was also evaluated.
+Data were obtained from medical records at Rood and Riddle Equine Hospital of mares with dystocia between 1995 and 2018.
+Mare signalment, ambulation status, survival data and foaling records were collected.
+The proportion of mare survival and mare fertility were analysed using chi-squared tests.
+Foal survival was analysed using Fisher's exact test.
+Odds ratios were calculated using multivariable logistic regression.
+There were 1038 ambulatory mares and 41 recumbent mares included in the analysis.
+Survival rates after dystocia resolution were 90.5% (977/1079) in mares and 37.3% (402/1079) in foals.
+Ambulatory mares had higher odds of survival (OR 6.93, 95% CI: 3.25-14.78, p < 0.001) than recumbent mares.
+Foals delivered from ambulatory mares had higher odds of survival (OR 22.7, 95% CI: 3.11-165.44, p = 0.002) compared with foals delivered from recumbent mares.
+Fertility was not statistically different for surviving Thoroughbred mares within 3 years following dystocia resolution between ambulatory and recumbent mares.
+Retrospective study design and small case number of recumbent mares.
+Mare and foal survival was significantly decreased when mares with dystocia were recumbent at hospital admission.
+Subsequent fertility, as defined for this study, of surviving mares was not affected by ambulation status at the time of dystocia resolution.
+Y and Rood and Riddle Equine Hospital (No need to annotate, just for notice).

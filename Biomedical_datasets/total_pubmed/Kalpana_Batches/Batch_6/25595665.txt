@@ -1,0 +1,12 @@
+Apathy, or lack of motivation for goal-directed activities, contributes to reduced engagement in and benefit from rehabilitation, impeding recovery from stroke.
+To examine the effects of strategy training, a behavioral intervention used to augment usual inpatient rehabilitation, on apathy symptoms over the first 6 months after stroke.
+Secondary analysis of randomized controlled trial.
+Participants with acute stroke who exhibited cognitive impairments (Quick Executive Interview Scores ≥3) and were admitted for inpatient rehabilitation were randomized to receive strategy training (n = 15, 1 session per day, 5 days per week, in addition to usual inpatient rehabilitation) or reflective listening (n = 15, same dose).
+Strategy training sessions focused on participant-selected goals and participant-derived strategies to address these goals, using a global strategy training method (Goal-Plan-Do-Check).
+Reflective listening sessions focused on participant reflections on their rehabilitation goals and experiences, facilitated by open-ended questions and active listening skills (attending, following, and responding).
+Trained raters blinded to group assignment administered the Apathy Evaluation Scale at study admission, 3 months, and 6 months.
+Data were analyzed with repeated-measures fixed-effects models.
+Participants in both groups had similar subsyndromal levels of apathy symptoms at study admission (strategy training, mean = 25.79, standard deviation = 7.62; reflective listening, mean = 25.18, standard deviation = 4.40).
+A significant group × time interaction (F2,28 = 3.61, P = .040) indicated that changes in apathy symptom levels differed between groups over time.
+The magnitude of group differences in change scores was large (d = -0.99, t28 = -2.64, P = .013) at month 3 and moderate to large (d = -0.70, t28 = -1.86, P = .073) at month 6.
+Strategy training shows promise as an adjunct to usual rehabilitation for maintaining low levels of poststroke apathy.

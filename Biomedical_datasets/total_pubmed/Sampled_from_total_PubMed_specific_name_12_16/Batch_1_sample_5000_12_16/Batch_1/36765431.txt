@@ -1,0 +1,13 @@
+Increasing evidence indicates that psoriasis (PSO) and periodontitis (PD) are likely to occur together, however, the underlying mechanism remains unclear.
+The expression profiles of PSO (lesion vs non-lesion, GSE30999, GSE14905) and PD (affected vs unaffected gingival tissue, GSE16134, GSE10334) were downloaded from the GEO database.
+First, we investigated the common differentially expressed genes (DEGs) of PSO and PD.
+Then, GO and KEGG enrichment analysis, protein interaction network (PPI) construction, and hub gene identification analysis were carried out.
+Finally, GO and KEGG enrichment analysis, miRNA interaction analysis, and transcription factors (TFs) interaction analysis for hub genes were performed.
+Eighteen DEGs were identified for further analysis, including 15 up-regulated genes and 3 down-regulated genes.
+9 hub genes were then identified via Cytohubba, including IL1B, CXCL1, CXCL8, MMP12, CCL18, SELL, CXCL13, FCGR3B, and SELE.
+Their functions are mainly enriched in two aspects: neutrophil chemotaxis and migration, chemokine activation and interaction.
+The enriched signaling pathways includes three categories: host defense, inflammation-related signaling pathways, and disease-related pathways.
+9 common miRNAs based on experimental evidence and 10 common TFs were further identified in both PSO and PD.
+Our study revealed possible comorbidity mechanisms in PSO and PD from the perspective of bioinformatics tentatively.
+The data can present new insight for joint prevention and treatment of in PSO and PD, as well as provide data support for further prospective studies.
+Y: GEO database (No need to annotate, just for notice).

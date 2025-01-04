@@ -1,0 +1,10 @@
+At present, 51 genes are already known to be responsible for Non-Syndromic hereditary Hearing Loss (NSHL), but the knowledge of 121 NSHL-linked chromosomal regions brings to the hypothesis that a number of disease genes have still to be uncovered.
+To help scientists to find new NSHL genes, we built a gene-scoring system, integrating Gene Ontology, NCBI Gene and Map Viewer databases, which prioritizes the candidate genes according to their probability to cause NSHL.
+We defined a set of candidates and measured their functional similarity with respect to the disease gene set, computing a score ( S S M avg) that relies on the assumption that functionally related genes might contribute to the same (disease) phenotype.
+A Kolmogorov-Smirnov test, comparing the pair-wise distribution on the disease gene set with the distribution on the remaining human genes, provided a statistical assessment of this assumption.
+We found at a p-value < 2.2.10 (-16) that the former pair-wise is greater than the latter, justifying a prioritization strategy based on the functional similarity of candidate genes respect to the disease gene set.
+A cross-validation test measured to what extent the S S M avg ranking for NSHL is different from a random ordering: adding 15% of the disease genes to the candidate gene set, the ranking of the disease genes in the first eight positions resulted statistically different from a hypergeometric distribution with a p-value = 2.04.10(-5) and a power > 0.99.
+The twenty top-scored genes were finally examined to evaluate their possible involvement in NSHL.
+We found that half of them are known to be expressed in human inner ear or cochlea and are mainly involved in remodeling and organization of actin formation and maintenance of the cilia and the endocochlear potential.
+These findings strongly indicate that our metric was able to suggest excellent NSHL candidates to be screened in patients and controls for causative mutations.
+Y and NCBI Gene, Map Viewer (No need to annotate, just for notice).

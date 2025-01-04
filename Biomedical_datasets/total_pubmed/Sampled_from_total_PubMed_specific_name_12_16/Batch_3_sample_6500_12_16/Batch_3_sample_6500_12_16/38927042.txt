@@ -1,0 +1,9 @@
+Sheep and goat may become carriers of some zoonotic diseases.
+They are important livestock and experimental model animals for human beings.
+The fast and accurate identification of genetic materials originating from sheep and goat can prevent and inhibit the spread of some zoonotic diseases, monitor market product quality, and maintain the stability of animal husbandry and food industries.
+This study proposed a methodology for identifying sheep and goat common specific sites from a genome-wide perspective.
+A total of 150 specific sites were selected from three data sources, including the coding sequences of single copy genes from nine species (sheep, goat, cow, pig, dog, horse, human, mouse, and chicken), the dbSNPs for these species, and human 100-way alignment data.
+These 150 sites exhibited low intraspecific heterogeneity in the resequencing data of 1450 samples from five species (sheep, goat, cow, pig, and chicken) and high interspecific divergence in the human 100-way alignment data after quality control.
+The results were proven to be reliable at the data level.
+Using the process proposed in this study, specific sites of other species can be screened, and genome-level species identification can be performed using the screened sites.
+Y dbSNPs, human 100-way alignment data (No need to annotate, just for notice).

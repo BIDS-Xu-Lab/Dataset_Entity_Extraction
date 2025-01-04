@@ -1,0 +1,11 @@
+Variation in offspring sex ratio, particularly in birds, has been frequently studied over the last century, although seldom using long-term monitoring data.
+In raptors, the cost of raising males and females is not equal, and several variables have been found to have significant effects on sex ratio, including food availability, parental age, and hatching order.
+Sex ratio differences between island populations and their mainland counterparts have been poorly documented, despite broad scientific literature on the island syndrome reporting substantial differences in population demography and ecology.
+Here, we assessed individual and environmental factors potentially affecting the secondary sex ratio of the long-lived Egyptian vulture Neophron percnopterus.
+We used data collected from Spanish mainland and island populations over a ca.
+30-year period (1995-2021) to assess the effects of insularity, parental age, breeding phenology, brood size, hatching order, type of breeding unit (pairs vs. trios), and spatial and temporal variability on offspring sex ratio.
+No sex bias was found at the population level, but two opposite trends were observed between mainland and island populations consistent with the island syndrome.
+Offspring sex ratio was nonsignificantly female-biased in mainland Spain (0.47, n = 1112) but significantly male-biased in the Canary Islands (0.55, n = 499), where a male-biased mortality among immatures could be compensating for offspring biases and maintaining a paired adult sex ratio.
+Temporal and spatial variation in food availability might also have some influence on sex ratio, although the difficulties in quantifying them preclude us from determining the magnitude of such influence.
+This study shows that insularity influences the offspring sex ratio of the Egyptian vulture through several processes that can affect island and mainland populations differentially.
+Our research contributes to improving our understanding of sex allocation theory by investigating whether sex ratio deviations from parity are possible as a response to changing environments comprised by multiple and complexly interrelated factors.

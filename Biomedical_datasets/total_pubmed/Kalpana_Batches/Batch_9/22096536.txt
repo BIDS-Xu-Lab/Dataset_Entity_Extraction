@@ -1,0 +1,7 @@
+Folic acid deficiency during pregnancy causes birth neurocristopathic malformations resulting from aberrant development of neural crest cells.
+The Reduced folate carrier (RFC) is a membrane-bound receptor for facilitating transfer of reduced folate into the cells.
+RFC knockout mice are embryonic lethal and develop multiple malformations, including neurocristopathies.
+Here we show that XRFC is specifically expressed in neural crest tissues in Xenopus embryos and knockdown of XRFC by specific morpholino results in severe neurocristopathies.
+Inhibition of RFC blocked the expression of a series of neural crest marker genes while overexpression of RFC or injection of 5-methyltetrahydrofolate expanded the neural crest territories.
+In animal cap assays, knockdown of RFC dramatically reduced the mono- and trimethyl-Histone3-K4 levels and co-injection of the lysine methyltransferase hMLL1 largely rescued the XRFC morpholino phenotype.
+Our data revealed that the RFC mediated folate metabolic pathway likely potentiates neural crest gene expression through epigenetic modifications.

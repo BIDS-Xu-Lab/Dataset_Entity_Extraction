@@ -1,0 +1,8 @@
+We investigated whether childhood social isolation was associated with retinal neural layer changes in adulthood, and whether this association was independent of other childhood or adulthood risk factors, including adult social isolation.
+Participants were members of the Dunedin Multidisciplinary Health and Development Study, a longitudinal population-based birth cohort from Aotearoa New Zealand (n = 1037), born 1972-1973 and followed until age 45, with 94% of the living cohort still participating.
+Social isolation was recorded prospectively at ages 5, 7, 9, and 11, from teacher and parent report.
+Retinal nerve fiber layer (RNFL) and ganglion cell-inner plexiform layer (GC-IPL) thicknesses were measured via optical coherence tomography (OCT) at age 45.
+Childhood social isolation was associated with thinner average RNFL (B = -0.739, p = .02), nasal RNFL (B = -1.118, p = .005) and inferior RNFL (B = -1.524, p = .007), although only nasal RNFL remained significant after adjustment.
+These associations were not fully explained by other psychosocial or physical health risk factors in childhood or adulthood, nor were they mediated by adult loneliness or social support.
+Childhood social isolation was an independent predictor of RNFL thickness in middle age.
+Highlighting prospective links between childhood psychosocial adversity and retinal neuronal measures will help to inform future research into the utility of retinal neuronal thickness as a biomarker for neurodegeneration.

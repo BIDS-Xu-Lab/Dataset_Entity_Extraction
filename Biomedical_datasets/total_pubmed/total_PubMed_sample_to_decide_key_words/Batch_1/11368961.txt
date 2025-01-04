@@ -1,0 +1,8 @@
+To investigate the relationship between the prefrontal and hippocampal acetylcholine (ACh) systems and working memory, an in vivo microdialysis study was conducted.
+A group of rats was trained to perform a working memory task, delayed alternation, in an operant chamber for food reinforcement.
+The rats had to choose one of two response levers in an alternative manner in each trial, with a certain interval between trials.
+They had to remember which lever they chose in the previous trial without the assistance of external cues.
+Another group was trained to perform a reference memory task, cued alternation, in which the behavioral sequence was identical, but an external cue was provided.
+After stable behavior was established, a dialysis probe was implanted into the prefrontal cortex or the hippocampus of each rat.
+The extracellular concentration of ACh in the dialysates from the prefrontal cortex increased during performance of the delayed alternation task, while the hippocampal ACh showed a more distinct increase during performance of the cued alternation task.
+These results suggest that the prefrontal ACh is mainly related to working memory, whereas the hippocampal ACh is mainly related to reference memory.

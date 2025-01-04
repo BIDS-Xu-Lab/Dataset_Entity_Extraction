@@ -1,0 +1,21 @@
+The primary objective of this study was to describe the demographic, clinical, and attrition characteristics of active duty U.S. military service members who were aeromedically evacuated from Iraq and Afghanistan theaters with a psychiatric condition as the primary diagnosis.
+The study links the U.S. Transportation Command Regulating and Command and Control Evacuation System (TRAC2ES) data with the Defense Manpower Data Center (DMDC) to conduct an examination of the long-term occupational impact of psychiatric aeromedical evacuations on military separations and discharges.
+Retrospective analyses were conducted on the demographic, clinical, and attrition information of active duty service members (N = 7,023) who received a psychiatric aeromedical evacuation from Iraq or Afghanistan between 2001 and 2013 using TRAC2ES data.
+Additionally, TRAC2ES database was compared with DMDC data to analyze personal and service demographics, aeromedical evacuation information, and reasons for military separation with the entire 2013 active duty force.
+Chi-square tests of independence and standardized residuals were used to identify cells with observed frequencies or proportions significantly different than expected by chance.
+Additionally, OR were calculated to provide context about the nature of any significant relationships.
+Compared with the active duty comparison sample, those with a psychiatric aeromedical evacuation tended to be younger, female, white, divorced or widowed, and less educated.
+They were also more likely to be junior enlisted service members in the Army serving in a Combat Arms military occupational specialty.
+The primary psychiatric conditions related to the aeromedical evacuation were depressive disorders (25%), adjustment disorders (18%), post-traumatic stress disorder (9%), bipolar disorders (6%), and anxiety disorders (6%).
+Approximately, 3% were evacuated for suicidal ideation and associated behaviors.
+Individuals who received a psychiatric aeromedical evacuation were almost four times as likely (53%) to have been subsequently separated from active duty at the time of the data analysis compared with other active duty service members (14%).
+The current study also found that peaks in the number of aeromedical evacuations coincided with significant combat operational events.
+These peaks almost always preceded or followed a significant operational event.
+An unexpected finding of the present study was that movement classification code was not predictive of subsequent reasons for separation from the military.
+Thus, the degree of clinical supervision and restraint of a service member during psychiatric aeromedical evacuation from deployment proved to be unrelated to subsequent service outcome.
+Psychiatric conditions are one of the leading reasons for the aeromedical evacuation of active duty military personnel from the military combat theater.
+For many active duty military personnel, a psychiatric aeromedical evacuation from a combat theater is the start of a military career-ending event that results in separation from active duty.
+This finding has important clinical and operational implications for the evaluation and treatment of psychiatric conditions during military deployments.
+Whenever possible, deployed military behavioral health providers should attempt to treat psychiatric patients in theater to help them remain in theater to complete their operational deployments.
+Improved understanding of the factors related to psychiatric aeromedical evacuations will provide important clinical and policy implications for future conflicts.
+Y: U.S. Transportation Command Regulating and Command and Control Evacuation System (TRAC2ES), Defense Manpower Data Center (DMDC) (No need to annotate, just for notice).

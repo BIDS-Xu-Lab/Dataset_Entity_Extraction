@@ -1,0 +1,16 @@
+Locoregional progression following definitive chemoradiotherapy (CRT) for locally advanced non-small cell lung cancer (NSCLC) is common.
+In this study, we explore the utility of pre-treatment PET for predicting sites of disease progression following CRT.
+We identified patients treated at our institution with definitive, concurrent CRT for stage III NSCLC in the years 2007-2010 who underwent staging FDG-PET/CT.
+Using a semiautomatic gradient-based tool, visible thoracic hypermetabolic lesions were contoured on each patient's pre-treatment PET.
+Post-treatment imaging was reviewed to identify specific locations of disease progression.
+Patients' maximum SUV (SUVmax_pat) and metabolic tumor volume (MTV_pat) were evaluated as predictors of clinical outcomes using logrank testing.
+Competing risks analysis was performed to examine the relationship between lesion (tumor or lymph node) MTV (MTV_les) and the risk of local disease progression.
+Patient death and progression in other sites were treated as competing risks.
+28 patients with 82 hypermetabolic lesions (27 pulmonary tumors, 55 lymph nodes) met inclusion criteria.
+Median follow-up was 39.0 months for living patients.
+Median progression-free survival (PFS) was 12.4 months, and median overall survival (OS) was 31.8 months.
+Low MTV_pat was associated with improved PFS (median 14.3 months for MTV<60 cc vs. 9.7 months for MTV>60 cc, p=0.039).
+MTV_les was strongly associated with the risk of local disease progression.
+The 2-year cumulative incidence rate (CIR) for progression in lesions larger than 25 cc was 45%, compared to 5% for lesions under 25 cc (p<0.001).
+Pre-treatment PET can be used to identify specific lesions at high risk for treatment failure following definitive CRT for locally advanced NSCLC.
+Selective treatment intensification to high-risk lesions should be studied as a strategy to improve clinical outcomes in this patient population.

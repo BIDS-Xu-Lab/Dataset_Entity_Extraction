@@ -1,0 +1,6 @@
+A relatively new cognitive-affective training procedure, the Attentional Bias Modification (ABM) technique, is thought to decrease biases in the allocation of attention toward negative emotional stimuli.
+In two studies, we tested in samples of healthy students whether a single session of ABM has an influence on early orienting of spatial attention as indexed by the N2pc.
+Replicating previous studies, we found an occipitotemporal N2pc (180-300  ms) contralateral to angry versus neutral facial expressions, indicating that threatening faces automatically draw attention in early stages of stimulus processing.
+However, this N2pc effect did not significantly change during the ABM training session.
+Our results therefore indicate that a single session of ABM does not affect early attentional orienting.
+ABM effects reported in prior research may therefore have been mediated by later cognitive-affective mechanisms.

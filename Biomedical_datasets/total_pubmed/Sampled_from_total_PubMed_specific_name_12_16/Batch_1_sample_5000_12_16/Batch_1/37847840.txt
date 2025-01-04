@@ -1,0 +1,12 @@
+To evaluate the peri-implant outcomes of customized healing abutments (CstHA) placed on dental implants inserted in fresh tooth extraction sockets.
+The study was registered on PROSPERO: CRD42022304320.
+A systematic search in PubMed, Scopus, and Web of Science was conducted between April 2022 and October 2022 to identify clinical studies involving immediate implant surgery associated with CstHA placement.
+The Joanna Briggs Institute Critical Appraisal and RoB2 tool were performed for the risk of bias analysis.
+A total of 12 studies were included, most of them with low risk of bias.
+Four studies compared CstHA vs conventional healing abutments (CnvtHA), two compared CstHA vs cover screw and collagen matrix (CMa), and six were clinical case series.
+For the CstHA vs CnvtHA comparison, favorable results were observed for CstHA considering papilla maintenance and probing depth, yet the mean marginal bone level was statistically similar between CstHA and CnvtHA.
+CstHA showed advantages when compared to CMa for total bone volume, papilla height, and midfacial mucosa maintenance.
+Significantly less horizonal bone loss was reported when using CstHA compared with CMa.
+Horizontal and vertical bone loss was observed in a few (or no) sites in the case series using CstHA.
+CstHA provides favorable peri-implant response because in general it does not result in a significant loss of soft and hard tissues.
+Y and PROSPERO, PubMed, Scopus, Web of Science (No need to annotate, just for notice).

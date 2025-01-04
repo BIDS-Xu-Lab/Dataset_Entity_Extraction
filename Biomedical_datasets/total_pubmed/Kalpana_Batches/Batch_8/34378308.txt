@@ -1,0 +1,11 @@
+We performed quantitative analysis of differences in deformable image registration (DIR) and deformable dose accumulation (DDA) computed on CBCT datasets reconstructed using the standard (Feldkamp-Davis-Kress: FDK_CBCT) and a novel iterative (iterative_CBCT) CBCT reconstruction algorithms.
+Both FDK_CBCT and iterative_CBCT images were reconstructed for 323 fractions of treatment for 10 prostate cancer patients.
+Planning CT images were deformably registered to each CBCT image data set.
+After daily dose distributions were computed, they were mapped to planning CT to obtain deformed doses.
+Dosimetric and image registration results based CBCT images reconstructed by two algorithms were compared at three levels: (A) voxel doses over entire dose calculation volume, (B) clinical constraint results on targets and sensitive structures, and (C) contours propagated to CBCT images using DIR results based on three algorithms (SmartAdapt, Velocity, and Elastix) were compared with manually delineated contours as ground truth.
+(A) Average daily dose differences and average normalized DDA differences between FDK_CBCT and iterative_CBCT were ≤1 cGy.
+Maximum daily point dose differences increased from 0.22 ± 0.06 Gy (before the deformable dose mapping operation) to 1.33 ± 0.38 Gy after the deformable dose mapping.
+Maximum differences of normalized DDA per fraction were up to 0.80 Gy (0.42 ± 0.19 Gy).
+(B) Differences in target minimum doses were up to 8.31 Gy (-0.62 ± 4.60 Gy) and differences in critical structure doses were 0.70 ± 1.49 Gy.
+For mapped prostate contours based on iterative_CBCT (relative to standard FDK_CBCT), dice similarity coefficient increased by 0.10 ± 0.09 (p < 0.0001), mass center distances decreased by 2.5 ± 3.0 mm (p < 0.00005), and Hausdorff distances decreased by 3.3 ± 4.4 mm (p < 0.00015).
+The new iterative CBCT reconstruction algorithm leads to different mapped volumes of interest, deformed and cumulative doses than results based on conventional FDK_CBCT.

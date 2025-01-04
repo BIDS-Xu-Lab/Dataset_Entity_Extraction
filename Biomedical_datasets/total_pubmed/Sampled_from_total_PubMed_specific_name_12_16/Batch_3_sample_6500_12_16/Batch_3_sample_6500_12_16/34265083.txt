@@ -1,0 +1,13 @@
+Cancer and its treatment damage the musculoskeletal system and induce neurotoxicity, affecting the key sensory inputs for maintaining balance.
+The present study describes the pattern of balance impairment and evaluated its association with mortality among US cancer survivors.
+Data on a nationally representative sample of cancer survivors from the US National Health and Nutrition Examination Survey from 1999 to 2015 was analyzed.
+Sensory-specific balance impairment was measured at baseline by the modified Romberg test of standing balance on firm and compliant support surfaces.
+The linked mortality data were updated through December 31, 2015.
+Among 511 cancer survivors, 282 (48.3%) had a balance impairment, predominantly attributing to vestibular dysfunction (251; 89.0% of 282 and 44.5% of 511).
+A higher prevalence of balance impairment was observed among cancer survivors with advanced age, lower socioeconomic status or educational attainment, body mass index <25 kg/m2 , and an inactive lifestyle.
+During up to 16.4 years of follow-up (median, 11.3 years; 5088 person-years), 253 cancer survivors had died.
+Cancer survivors with a balance impairment had a 63% higher risk of death from all causes (hazard ratio, 1.63; 95% confidence interval [CI], 1.12-2.38) after adjusting for sociodemographic factors, comorbidities, and cancer type.
+Specifically, those with vestibular dysfunctions had approximately 1.54 (95% CI, 1.05-2.27) times the risk of death compared to those without any balance impairment.
+These associations were stronger in males than in females.
+In a US nationally representative sample of cancer survivors, balance impairment and vestibular dysfunctions were prevalent and associated with heightened all-cause mortality.
+Y National Health and Nutrition Examination Survey (No need to annotate, just for notice).

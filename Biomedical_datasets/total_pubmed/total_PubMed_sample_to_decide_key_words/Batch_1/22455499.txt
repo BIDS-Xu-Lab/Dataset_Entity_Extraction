@@ -1,0 +1,15 @@
+Over the past two decades, gene therapy has garnered tremendous attention and is heralded by many as the ultimate cure to treat diseases such as cancer, viral infections, and inherited genetic disorders.
+However, the therapeutic applications of nucleic acids extend beyond the delivery of double-stranded DNA and subsequent expression of deficient gene products in diseased tissue.
+Other strategies include antisense oligonucleotides and most notably RNA interference (RNAi).
+Antisense strategies bear great potential for the treatment of diseases that are caused by misspliced mRNA, and RNAi is a universal and extraordinarily efficient tool to knock down the expression of virtually any gene by specific degradation of the desired target mRNA.
+However, because of the hurdles associated with effective delivery of nucleic acids across a cell membrane, the initial euphoria surrounding siRNA therapy soon subsided.
+The ability of oligonucleotides to cross the plasma membrane is hampered by their size and highly negative charge.
+Viral vectors have long been the gold standard to overcome this barrier, but they are associated with severe immunogenic effects and possible tumorigenesis.
+Cell-penetrating peptides (CPPs), cationic peptides that can translocate through the cell membrane independent of receptors and can transport cargo including proteins, small organic molecules, nanoparticles, and oligonucleotides, represent a promising class of nonviral delivery vectors.
+This Account focuses on peptide carrier systems for the cellular delivery of various types of therapeutic nucleic acids with a special emphasis on cell-penetrating peptides.
+We also emphasize the clinical relevance of this research through examples of promising in vivo studies.
+Although CPPs are often derived from naturally occurring protein transduction domains, they can also be artificially designed.
+Because CPPs typically include many positively charged amino acids, those electrostatic interactions facilitate the formation of complexes between the carriers and the oligonucleotides.
+One drawback of CPP-mediated delivery includes entrapment of the cargo in endosomes because uptake tends to be endocytic: coupling of fatty acids or endosome-disruptive peptides to the CPPs can overcome this problem.
+CPPs can also lack specificity for a single cell type, which can be addressed through the use of targeting moieties, such as peptide ligands that bind to specific receptors.
+Researchers have also applied these strategies to cationic carrier systems for nonviral oligonucleotide delivery, such as liposomes or polymers, but CPPs tend to be less cytotoxic than other delivery vehicles.

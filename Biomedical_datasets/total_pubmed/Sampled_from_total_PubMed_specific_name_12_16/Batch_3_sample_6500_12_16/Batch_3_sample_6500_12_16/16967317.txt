@@ -1,0 +1,9 @@
+The conversion from alpha-helix to beta-strand that has been widely observed in so-called chameleon sequences has received considerable attention since such a structural change may induce many amyloidogenic proteins to self-assemble into fibrils thus causing fatal diseases.
+Here we report a large scale-analysis of the energetics of secondary structural conversions in a collection of chameleon sequences retrieved from the Protein Data Bank.
+Major energetic contributions to the secondary structural conversion were analyzed by carrying out energy decomposition on a pairwise per-residue basis, i.e., (i,i), (i,i +/- 1), (i,i +/- 2), (i,i +/- 3), (i,i +/- 4) and > (i,i +/- 4) intra-/inter-residual interactions.
+While the overall potential energy differences were subtle, individual residue-based interacting energy differences were observed to vary significantly depending on the specific type of secondary structural conversion.
+The average energy difference between alpha-helix and beta-strand, <DeltaE (alpha-->beta)>, in the chameleon sequences varied significantly in (i,i), (i,i +/- 1) and > (i,i +/- 4) interactions.
+The major energetic factors in secondary structure conversions were electrostatic interactions and the polar term for solvation energy.
+In addition, residue-based average energy differences in alpha-helix --> beta-strand conversions were well-correlated to those in alpha-helix --> random coil --> beta-strand conversions (R2 = 0.92).
+Assuming that three secondary structural elements can transform in either direction, this strong correlation indicates that the present energy decomposition method using database structures of chameleon sequences provides a reliable tool for the characterization of secondary structure fluctuations in amino acid sequences.
+Y Protein Data Bank (No need to annotate, just for notice).

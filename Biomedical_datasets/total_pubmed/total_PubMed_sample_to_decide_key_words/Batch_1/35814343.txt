@@ -1,0 +1,16 @@
+Time is of the essence in how neural codes, synchronies, and oscillations might function in encoding, representation, transmission, integration, storage, and retrieval of information in brains.
+This Hypothesis and Theory article examines observed and possible relations between codes, synchronies, oscillations, and types of neural networks they require.
+Toward reverse-engineering informational functions in brains, prospective, alternative neural architectures incorporating principles from radio modulation and demodulation, active reverberant circuits, distributed content-addressable memory, signal-signal time-domain correlation and convolution operations, spike-correlation-based holography, and self-organizing, autoencoding anticipatory systems are outlined.
+Synchronies and oscillations are thought to subserve many possible functions: sensation, perception, action, cognition, motivation, affect, memory, attention, anticipation, and imagination.
+These include direct involvement in coding attributes of events and objects through phase-locking as well as characteristic patterns of spike latency and oscillatory response.
+They are thought to be involved in segmentation and binding, working memory, attention, gating and routing of signals, temporal reset mechanisms, inter-regional coordination, time discretization, time-warping transformations, and support for temporal wave-interference based operations.
+A high level, partial taxonomy of neural codes consists of channel, temporal pattern, and spike latency codes.
+The functional roles of synchronies and oscillations in candidate neural codes, including oscillatory phase-offset codes, are outlined.
+Various forms of multiplexing neural signals are considered: time-division, frequency-division, code-division, oscillatory-phase, synchronized channels, oscillatory hierarchies, polychronous ensembles.
+An expandable, annotative neural spike train framework for encoding low- and high-level attributes of events and objects is proposed.
+Coding schemes require appropriate neural architectures for their interpretation.
+Time-delay, oscillatory, wave-interference, synfire chain, polychronous, and neural timing networks are discussed.
+Some novel concepts for formulating an alternative, more time-centric theory of brain function are discussed.
+As in radio communication systems, brains can be regarded as networks of dynamic, adaptive transceivers that broadcast and selectively receive multiplexed temporally-patterned pulse signals.
+These signals enable complex signal interactions that select, reinforce, and bind common subpatterns and create emergent lower dimensional signals that propagate through spreading activation interference networks.
+If memory traces share the same kind of temporal pattern forms as do active neuronal representations, then distributed, holograph-like content-addressable memories are made possible via temporal pattern resonances.

@@ -1,0 +1,6 @@
+Thyroid hormones have a profound effect on cardiovascular physiology.
+We utilized a large national inpatient database in the United States (National Inpatient Sample) to study hypothyroidism in relation to the prevalence of coronary heart disease (CHD) and its impact on outcomes (mortality, the length of stay, and hospitalization cost) in the acute coronary syndrome (ACS) subgroup of CHD patients.
+[OR] 1.11, 95% confidence interval [CI] 1.09 to 1.12, p <0.001), the odds of developing ACS in these CHD patients is lower in the hypothyroid group (OR 0.71, 95% CI 0.70 to 0.72, p <0.001) after adjusting for multiple risk factors.
+Additionally, patients with hypothyroid ACS have a reduced odds of in-hospital mortality (OR 0.86, 95% CI 0.83 to 0.88, p <0.001), shorter length of stay by 0.45 days (p <0.001), and lower hospitalization cost by $1,531.45 (p <0.001) compared with the euthyroid group.
+Our findings suggest that hypothyroidism has an increased CHD risk but a lower risk of development of ACS in hospitalized CHD patients, as well as a better short-term prognosis including ACS-associated mortality.
+Y and National Inpatient Sample (No need to annotate, just for notice).

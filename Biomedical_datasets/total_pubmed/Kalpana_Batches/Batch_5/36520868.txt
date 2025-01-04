@@ -1,0 +1,6 @@
+The presence of ex-ante moral hazard could undermine the potential gain from expanding health insurance coverage in developing nations.
+To test the proposition, this study utilizes a nationally representative longitudinal survey with Indonesia's health insurance for poor policy in 2014 as the quasi-experimental case study.
+The country represents developing nations that undergo a massive and rapid expansion of health insurance coverage.
+The empirical approach combines a matching and difference-in-differences method to obviate potential bias of the selectivity nature of health insurance provision and time-invariant unobserved factors.
+The findings suggest the presence of ex-ante moral hazard in the form of the less people using trash cans associated with the introduction of the subsidized health insurance premium.
+The results add empirical findings of a negative side effect of expanding health insurance coverage in developing nations.

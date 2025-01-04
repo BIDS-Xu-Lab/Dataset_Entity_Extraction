@@ -1,0 +1,11 @@
+BnPGIPs interacted with Sclerotinia sclerotiorum PGs to improve rapeseed SSR resistance at different levels; the BnPGIP-overexpression lines did not affect plant morphology or seed quality traits.
+Plant polygalacturonase-inhibiting proteins (PGIPs) play a crucial role in plant defence against phytopathogenic fungi by inhibiting fungal polygalacturonase (PG) activity.
+We overexpressed BnPGIP2, BnPGIP5, and BnPGIP10 genes in an inbred line 7492 of rapeseed (Brassica napus).
+Compared with 7492WT, the overexpression of BnPGIP2 lines significantly increased Sclerotinia sclerotiorum resistance in both seedlings and adult plants.
+BnPGIP5 overexpression lines exhibited decreased S. sclerotiorum disease symptoms in seedlings only, whereas BnPGIP10 overexpression lines did not improve Sclerotinia resistance for seedlings or adult plants.
+Quantitative real-time PCR analysis of S. sclerotiorum PG1, SsPG3, SsPG5, and SsPG6 genes in overexpressing BnPGIP lines showed that these pathogenic genes in the Sclerotinia resistance transgenic lines exhibited low expression in stem tissues.
+Split-luciferase complementation experiments confirmed the following: BnPGIP2 interacts with SsPG1 and SsPG6 but not with SsPG3 or SsPG5; BnPGIP5 interacts with SsPG3 and SsPG6 but not with SsPG1 or SsPG5; and BnPGIP10 interacts with SsPG1 but not SsPG3, SsPG5, or SsPG6.
+Leaf crude protein extracts from BnPGIP2 and BnPGIP5 transgenic lines displayed high inhibitory activity against the SsPG crude protein.
+BnPGIP-overexpression lines with Sclerotinia resistance displayed a lower accumulation of H2O2 and higher expression of the H2O2-removing gene BnAPX (ascorbate peroxidase) than 7492WT, as well as elevated expression of defence response genes including jasmonic acid/ethylene and salicylic acid pathways after S. sclerotiorum infection.
+The plants overexpressing BnPGIP exhibited no difference in either agronomic traits or grain yield from 7492WT.
+This study provides potential target genes for developing S. sclerotiorum resistance in rapeseed.

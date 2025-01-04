@@ -1,0 +1,8 @@
+Oxygen therapy using mechanical ventilation with hyperoxia is necessary to treat patients with respiratory failure and distress.
+However, prolonged exposure to hyperoxia leads to the generation of excessive reactive oxygen species (ROS), causing cellular damage and multiple organ dysfunctions.
+As the lungs are directly exposed, hyperoxia can cause both acute and chronic inflammatory lung injury and compromise innate immunity.
+ROS may contribute to pulmonary oxygen toxicity by overwhelming redox homeostasis, altering signaling cascades that affect cell fate, ultimately leading to hyperoxia-induced acute lung injury (HALI).
+HALI is characterized by pronounced inflammatory responses with leukocyte infiltration, injury, and death of pulmonary cells, including epithelia, endothelia, and macrophages.
+Under hyperoxic conditions, ROS mediate both direct and indirect modulation of signaling molecules such as protein kinases, transcription factors, receptors, and pro- and anti-apoptotic factors.
+The focus of this review is to elaborate on hyperoxia-activated key sensing molecules and current understanding of their signaling mechanisms in HALI.
+A better understanding of the signaling pathways leading to HALI may provide valuable insights on its pathogenesis and may help in designing more effective therapeutic approaches.

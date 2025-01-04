@@ -1,0 +1,11 @@
+Little is known about use and expenditure patterns of children's eye-care services and about possible disparities in care among children.
+This report describes the use and expenditure patterns of eye care and non-eye care services for children under 18 years old in the United States.
+Levels of use and expenditure were estimated using self-reported information from the nationally representative Medical Expenditure Panel Surveys (1996-2001) for 48,304 subjects under 18 years old from randomly selected households in the United States.
+Means presented for children with and without diagnosed eye conditions were adjusted for child and family characteristics using generalized linear models.
+Children with diagnosed eye conditions had higher levels of use and expenditure than children without diagnosed conditions.
+Families of children with diagnosed eye conditions incurred higher out-of-pocket expenditures.
+Black children and children living below 400% of the federal poverty level had lower levels of use and expenditure, indicating that they received fewer and less intensive services.
+Children with diagnosed eye conditions experienced higher overall use of health care.
+Some groups of children appear to be underserved.
+Estimates of use and expenditure patterns, stratified by socioeconomic factors, will be needed to plan for future delivery of children's eye and vision care services and to assess progress toward Healthy People 2010 goals.
+Y and Medical Expenditure Panel Surveys (No need to annotate, just for notice).

@@ -1,0 +1,14 @@
+Recently, tracheal narrowing has been recognized as a significant comorbid condition in patients with Morquio A, also known as mucopolysaccharidosis IVA.
+We studied a large cohort of patients with Morquio A to describe the extent of their tracheal narrowing and its relationship to airway management during anesthesia care.
+This is an observational study, collecting data retrospectively, of a cohort of patients with Morquio A. Ninety-two patients with Morquio A syndrome were enrolled, among whom 44 patients had their airway evaluated by computed tomography angiography and had undergone an anesthetic within a year of the evaluation.
+Our hypothesis was that the tracheal narrowing as evaluated by computed tomography angiography increases with age in patients with Morquio A.
+The primary aim of the study was to examine the degree of tracheal narrowing in patients with Morquio A and describe the difficulties encountered during airway management, thus increasing awareness of both the tracheal narrowing and airway management difficulties in this patient population.
+In addition, the degree of tracheal narrowing was evaluated for its association with age or spirometry parameters using Spearman's rank correlation.
+Analysis of variance followed by the Bonferroni test was used to further examine the age-based differences in tracheal narrowing for the 3 age groups: 1 to 10 years, 11 to 20 years, and >21 years.
+Patient age showed a positive correlation with tracheal narrowing ( rs= 0.415; 95% confidence interval [95% CI], 0.138-0.691;
+P = .005) with older patients having greater narrowing of the trachea.
+Among spirometry parameters, FEF25%-75% showed an inverse correlation with tracheal narrowing as follows: FEF25%-75% versus tracheal narrowing: ( rs = -0.467; 95% CI, -0.877 to -0.057; P = .007).
+During anesthetic care, significant airway management difficulties were encountered, including cancelation of surgical procedures, awake intubation using flexible bronchoscope, and failed video laryngoscopy attempts.
+Clinically significant tracheal narrowing was present in patients with Morquio A, and the degree of such narrowing likely contributed to the difficulty with airway management during their anesthetic care.
+Tracheal narrowing worsens with age, but the progression appears to slow down after 20 years of age.
+In addition to tracheal narrowing, spirometry values of FEF25%-75% may be helpful in the overall evaluation of the airway in patients with Morquio A.

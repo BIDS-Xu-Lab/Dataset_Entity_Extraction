@@ -1,0 +1,7 @@
+Despite their important contribution to the economic domain, active heat-releasing industrial plants have significant implications for human health and climate change.
+However, a spatially detailed dataset of various heat-releasing industrial sectors and large-scale characterization of heat emissions from industrial sources have not been reported yet.
+In this study, a dataset of heat-releasing industries was established using a national detection map of thermal anomalies produced by a novel and more accurate method employing daily nighttime visible infrared imaging radiometer suite thermal infrared images corresponding to 1 year.
+Subsequently, we quantified the dimensional features of heat radiation fluxes of China's industrial plants.
+A total of 12 114 industrial objects were structured in a two-level hierarchical dataset of heat-releasing industries, representing a magnitude of at least 1 order higher than the number enumerated in the state-of-the-art inventory of industrial heat sources across China.
+The satellite observations helped more completely characterize industrial heat plumes, which represent the industrial heat radiation fluxes with higher levels of densities that prevail in the central-eastern part of China having spatial clustering islands.
+Our results could be used to inform policy and environmental management in relation to meaningful dynamic industrial supervision, targeting extreme polluters and differentiated emission mitigation measurements.

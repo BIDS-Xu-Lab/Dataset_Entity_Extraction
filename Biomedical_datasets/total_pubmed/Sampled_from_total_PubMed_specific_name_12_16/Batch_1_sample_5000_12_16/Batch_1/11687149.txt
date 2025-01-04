@@ -1,0 +1,17 @@
+Tonsillectomy is a commonly performed surgical procedure.
+There are several operative methods currently in use, but the superiority of one over another has not been clearly demonstrated.
+To compare the morbidity associated with tonsillectomy by two different techniques - dissection and diathermy.
+Cochrane Controlled Trials Register, Medline (1966-2000), Embase (1974-2000).
+Reference lists were scanned for additional material.
+Randomised controlled trials of children and adults undergoing tonsillectomy or adenotonsillectomy by dissection or diathermy techniques.
+Trials were assessed for methodological quality according to the method outlined in the Cochrane Reviewers Handbook.
+The reviewers assessed each trial and extracted data independently.
+Twenty-two potential studies were identified for further assessment.
+Twenty trials were not included because they did not meet the inclusion criteria for randomisation methods, controls or outcome criteria.
+Two trials met the inclusion criteria, one comparing monopolar dissection diathermy with conventional cold dissection in children, and the other comparing microscopic bipolar dissection with cold dissection in children and adults.
+These studies demonstrate reduced intraoperative bleeding, but increased pain in the diathermy group.
+There was no difference in the rate of secondary bleeding overall, although the power of both studies to detect a small difference was insufficient.
+There are insufficient data to show that one method of tonsillectomy is superior.
+There is evidence that pain may be greater after monopolar dissection.
+Large, well designed randomised controlled trials are necessary to determine the optimum method for tonsillectomy.
+Y Cochrane Controlled Trials Register, Medline, Embase (No need to annotate, just for notice).

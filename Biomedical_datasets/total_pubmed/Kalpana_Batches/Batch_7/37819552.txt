@@ -1,0 +1,13 @@
+To assess whether embryo transfer (ET) technique can influence the clinical pregnancy rate (CPR) and its correlation with the embryo transfer difficulty.
+This single center retrospective cohort analysis of fresh and frozen single blastocyst transfers performed between January 2016 and December 2021 included fresh and frozen single blastocyst transfers performed during the study timeframe.
+Direct technique was the only one used from January 2016 to September 2017.
+From September 2017 to March 2019, the choice between the two techniques was given by randomization, due to a clinical trial recruitment.
+From April 2019, only the afterload technique was used.
+Preimplantation genetic testing cycles and gamete donation procedures and cycles performed with external gametes or embryos were excluded.
+CPR was the primary outcome, while difficult transfer rate the secondary one.
+Univariate and multivariate logistic regressions were performed.
+During the period, 8,189 transfers were performed.
+CPR of the afterload group resulted significantly higher compared to the direct group (44.69% versus 41.65%, OR 1.13, 95% CI 1.02-1.25, p = 0.017) and the rate of difficult transfers two-thirds lower (9.06% versus 26.85%, OR 0.27, 95% CI 0.24-0.31, p < 0.001).
+Our study demonstrated that CPR is significantly affected by the ET technique.
+In particular, with the afterload protocol, both CPR and easy transfer rates increased.
+http://clinicaltrials.gov registration number: NCT05364528, retrospectively registered on 3rd of May 2022.

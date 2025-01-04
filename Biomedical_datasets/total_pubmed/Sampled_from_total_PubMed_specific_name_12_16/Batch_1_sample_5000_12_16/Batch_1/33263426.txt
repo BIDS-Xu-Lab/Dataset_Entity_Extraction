@@ -1,0 +1,10 @@
+Schwannomatosis is a relatively rare disorder and is related to neurofibromatosis type 2.
+Although there is clinical overlap between schwannomatosis and neurofibromatosis type 2, these diseases have to be regarded as separate entities due to the genetic origin and course of the disease.
+A comprehensive review of the literature was conducted for relevant studies using Pubmed and Cochrane databases to discuss the epidemiology, clinical presentation, diagnostic criteria, pathological and imaging features, treatment and genetics of schwannomatosis.
+Germline mutations SMARCB1 and LZTRI together with the NF2 gene play a role in the pathophysiology of schwannomatosis.
+The most common symptom is pain with affection of the spine and peripheral nerves in the majority of patients.
+High quality contrast enhanced MRI scan is the imaging modality of choice.
+Treatment is conservative if asymptomatic and surgical if symptomatic.
+The goal is symptom control with preservation of neurological function.
+Schwannomatosis is a relatively rare disorder in which the main goal is to preserve neurological function.
+Y Pubmed, Cochrane databases (No need to annotate, just for notice).

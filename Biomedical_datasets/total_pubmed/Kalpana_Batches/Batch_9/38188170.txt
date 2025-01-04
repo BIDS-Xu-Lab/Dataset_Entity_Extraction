@@ -1,0 +1,14 @@
+Detection sensitivity of aquatic species using environmental DNA (eDNA) generally decreases in turbid water but is poorly characterized.
+In this study, eDNA detection targeted delta smelt (Hypomesus transpacificus), a critically endangered estuarine fish associated with turbid water.
+eDNA sampling in the field was first paired with a trawl survey.
+Species-specific detection using a Taqman qPCR assay showed concordance between the methods, but a weak eDNA signal.
+Informed by the results of field sampling, an experiment was designed to assess how turbidity and filtration methods influence detection of a rare target.
+Water from non-turbid (5 NTU) and turbid (50 NTU) estuarine sites was spiked with small volumes (0.5 and 1 mL) of water from a delta smelt tank to generate low eDNA concentrations.
+Samples were filtered using four filter types: cartridge filters (pore size 0.45 μm) and 47 mm filters (glass fiber, pore size 1.6 μm and polycarbonate, pore sizes 5 and 10 μm).
+Prefiltration was also tested as an addition to the filtration protocol for turbid water samples.
+eDNA copy numbers were analyzed using a censored data method for qPCR data.
+The assay limits and lack of PCR inhibition indicated an optimized assay.
+Glass fiber filters yielded the highest detection rates and eDNA copies in non-turbid and turbid water.
+Prefiltration improved detection in turbid water only when used with cartridge and polycarbonate filters.
+Statistical analysis identified turbidity as a significant effect on detection probability and eDNA copies detected; filter type and an interaction between filter type and prefilter were significant effects on eDNA copies detected, suggesting that particulate-filter interactions can affect detection sensitivity.
+Pilot experiments and transparent criteria for positive detection could improve eDNA surveys of rare species in turbid environments.

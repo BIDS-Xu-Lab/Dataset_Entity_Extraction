@@ -1,0 +1,14 @@
+Since the cornea is responsible for transmitting and focusing light into the eye, injury or pathology affecting any layer of the cornea can cause a detrimental effect on visual acuity.
+Aging is also a reason for corneal degeneration.
+Depending on the level of the injury, conservative therapies and donor tissue transplantation are the most common treatments for corneal diseases.
+Not only is there a lack of donor tissue and risk of infection/rejection, but the inherent ability of corneal cells and layers to regenerate has led to research in regenerative approaches and treatments.
+In this review, we first discussed the anatomy of the cornea and the required properties for reconstructing layers of the cornea.
+Regenerative approaches are divided into two main categories; using direct cell/growth factor delivery or using scaffold-based cell delivery.
+It is expected delivered cells migrate and integrate into the host tissue and restore its structure and function to restore vision.
+Growth factor delivery also has shown promising results for corneal surface regeneration.
+Scaffold-based approaches are categorized based on the type of scaffold, since it has a significant impact on the efficiency of regeneration, into the hydrogel and non-hydrogel based scaffolds.
+Various types of cells, biomaterials, and techniques are well covered.
+The most important characteristics to be considered for biomaterials in corneal regeneration are suitable mechanical properties, biocompatibility, biodegradability, and transparency.
+Moreover, a curved shape structure and spatial arrangement of the fibrils have been shown to mimic the corneal extracellular matrix for cells and enhance cell differentiation.
+Tissue engineering and regenerative medicine approaches showed to have promising outcomes for corneal regeneration.
+However, besides proper mechanical and optical properties, other factors such as appropriate sterilization method, storage, shelf life and etc. should be taken into account in order to develop an engineered cornea for clinical trials.

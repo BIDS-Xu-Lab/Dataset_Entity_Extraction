@@ -1,0 +1,5 @@
+Efficient analytical representations of the thermodynamic properties for carbon disulfide remain open challenges in the communality of science and engineering.
+We present two analytical representations of the entropy and Gibbs free energy for gaseous carbon disulfide which we find to be of satisfactory accuracy and convenient for future use.
+The proposed two analytical representations merely rely on five molecular constants of the carbon disulfide molecule and avoid applications of a large number of experimental spectroscopy data.
+In the temperature range from 300 to 6000 K, the average relative deviations of the predicted molar entropy and reduced Gibbs free energy values from the National Institute of Standards and Technology database are 0.250 and 0.108%, respectively.
+Y National Institute of Standards and Technology database (No need to annotate, just for notice).

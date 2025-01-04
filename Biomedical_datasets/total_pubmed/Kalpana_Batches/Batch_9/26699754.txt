@@ -1,0 +1,6 @@
+This study investigated the effects of a flavonoid-rich ethanol extract of persimmon leaf (PL), an ethanol extract of Citrus junos Sieb (CJS), and a PL-CJS mixture (MPC) on mice fed a highfat diet (HFD).
+We sought to elucidate the mechanisms of biological activity of these substances using measurements of blood coagulation indices and lipid metabolism parameters.
+C57BL/6J mice were fed a HFD with PL (0.5% (w/w)), CJS (0.1% (w/w)), or MPC (PL 0.5%, CJS 0.1% (w/w)) for 10 weeks.
+In comparison with data obtained for mice in the untreated HFD group, consumption of MPC remarkably prolonged the activated partial thromboplastin time (aPTT) and prothrombin time (PT), whereas exposure to PL prolonged aPTT only.
+Lower levels of plasma total cholesterol, hepatic cholesterol, and erythrocyte thiobarbituric acid-reactive substances, hepatic HMG-CoA reductase, and decreased SREBP-1c gene expression were observed in mice that received PL and MPC supplements compared with the respective values detected in the untreated HFD animals.
+Our results indicate that PL and MPC may have beneficial effects on blood circulation and lipid metabolism in obese mice.

@@ -1,0 +1,21 @@
+Understanding the correlation between demographic, socio-economic, and lifestyle factors with e-cigarette use, cigarette smoking, and dual use is essential for targeted public health interventions.
+This study examines the prevalence of these behaviors in Scotland and identifies the associated factors.
+We conducted a repeated cross-sectional analysis of the Scottish Health Survey data from 2017 to 2021, leveraging data from 12,644 participants aged 16 and older: 2271 cigarette smokers, 687 e-cigarette users, 428 dual users, and 9258 never users.
+Weighted prevalences were calculated by age group, sex, and survey year, followed by weighted multinomial logistic regression to explore associated factors.
+The overall prevalences were 72.0% (95% CI 70.9-73.1) for never users, 18.9% (95% CI 17.9-19.9) for cigarette smokers, 5.5% (95% CI 5.0-6.1) for e-cigarette users, and 3.6% (95% CI 3.2-4.0) for dual users.
+From 2017 to 2021, cigarette smoking declined from 21.7% (95% CI 19.6-23.9) to 13.1% (95% CI 11.5-15.0), e-cigarette use from 6.5% (95% CI 5.4-7.8) to 4.8% (95% CI 3.6-6.4), and dual use from 3.7% (95% CI 2.9-4.6) to 2.7% (95% CI 1.9-3.7).
+Age was a critical factor, with the 25-34 age group more likely to use e-cigarettes (p = 0.007) and the 35-44 age group more likely to engage in dual use (p = 0.006) compared to the 16-24 age group.
+Males had higher odds of e-cigarette use than females (p = 0.031).
+White individuals had higher odds of using e-cigarettes (p = 0.023) and being dual users (p = 0.017) compared to non-whites.
+Previously married individuals had higher odds of dual use than singles (p = 0.031).
+Larger household sizes were linked to reduced odds of all three behaviors (p = 0.001).
+Rural residents were less likely to use e-cigarettes compared to urban residents (p = 0.025).
+Higher education correlated with lower odds of all three behaviors (p = 0.001).
+Manual occupation increased the likelihood of dual use (p = 0.042).
+Lower income and higher deprivation significantly increased the odds of all three behaviors (p < 0.001).
+Excessive alcohol consumption was associated with increased odds of the three behaviors (p < 0.001).
+Poor sleep quality correlated with increased odds of dual use (p = 0.002) and cigarette smoking (p < 0.001).
+Adherence to physical activity guidelines was associated with reduced odds of all three behaviors (cigarette smoking p < 0.001, e-cigarette use p = 0.031, dual use p = 0.016).
+In conclusion, this study showed a decline in the prevalence of cigarette smoking, e-cigarette use, and dual usage from 2017 to 2021 in Scotland.
+Significant associations with demographic, socio-economic, and lifestyle factors highlight the need for targeted public health interventions.
+Y: Scottish Health Survey (No need to annotate, just for notice).

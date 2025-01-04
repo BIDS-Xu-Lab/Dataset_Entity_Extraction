@@ -1,0 +1,7 @@
+Binding of 3H-misonidazole in hypoxic nonmalignant tissue was investigated in the gerbil stroke model.
+Cerebral infarcts were produced in male Mongolian gerbils by ligating the right common carotid artery and the severity of the lesions was quantified by scoring the animals' symptoms.
+The uptake of [H-3]misonidazole in the right cerebral hemisphere and the ratios of right:left hemispheral uptake correlated positively with the severity of the stroke when measured 6 to 10 hours after carotid ligation.
+Autoradiographs of the gerbil brains with severe infarcts showed heavy label, which was uniformly distributed, on the affected side.
+We conclude that the gerbil stroke model is useful for studying hypoxia in vivo.
+There is variability between animals that closely correlates with stroke index, but more importantly the hypoxia may be more homogeneous over regions of the brain within one animal.
+A reliable model of homogeneous induced hypoxia in vivo will be useful for evaluating radiolabeled drugs which may be used for quantitation of hypoxia in tumors by nuclear imaging.

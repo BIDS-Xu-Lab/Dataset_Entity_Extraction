@@ -1,0 +1,12 @@
+As a challenging computer vision task, Scene Graph Generation (SGG) finds the latent semantic relationships among objects from a given image, which may be limited by the datasets and real-world scenarios.
+In this paper, we consider a novel incremental learning task called Relationship-Incremental Scene Graph Generation (RISGG) that learns the semantic relationships among objects in an incremental way.
+Compared with classic Class-Incremental Learning (CIL) problem, RISGG suffers from its special issues: (1) Old class shift - the relationship-labeled object pair may have different labels during different learning sessions.
+(2) Background shift - the relationship-unlabeled object pair may not be a real unlabeled one.
+In this work, we address the above issues from the following aspects.
+First, we present a Divide-and-Conquer (DaC) pipeline to deal with the old class shift via decoupling the recognition of relationship classes and recognizing relationships individually.
+In this way, label confusion and interaction among different relationships are eliminated during training.
+Second, we propose a Feature Adapter (FA) to bridge the feature space gap between the current session and the previous one and use our extra supervision to mine old relationship information in the current session.
+Our proposed network combined DaC and FA, abbreviated DaCFA-Net, for RISGG.
+Experimental results on the benchmark dataset demonstrate the significant performance gain of DaCFA-Net in RISGG.
+It gains about 20% improvement against the SGG baselines on the popular VG dataset.
+Y VG dataset (No need to annotate, just for notice).

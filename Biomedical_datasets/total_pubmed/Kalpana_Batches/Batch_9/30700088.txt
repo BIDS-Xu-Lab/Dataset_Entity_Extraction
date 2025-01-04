@@ -1,0 +1,8 @@
+Atmospheric oxidation of monoterpenes (emitted primarily by evergreen trees) is known to contribute to the formation and growth of aerosol particles.
+While recent research has tied the formation of organic aerosol to unimolecular chemistry of the organic peroxy radicals (RO2) formed in the oxidation of monoterpenes, the fundamental physical chemistry of these RO2 remains obscure.
+Here we use isomer-specific measurements and ab initio calculations to determine the unimolecular reaction rates and products of RO2 derived from the hydroxyl radical (OH) oxidation of α-pinene and β-pinene.
+Among all of the structural isomers of the first-generation RO2 from both monoterpenes, we find that the first-generation RO2 produced following opening of the four-membered ring undergo fast unimolecular reactions (4 ± 2 and 16 ± 5 s-1 for α-pinene and β-pinene, respectively) at 296 K, in agreement with high-level ab initio calculations.
+The presence of the hydroxy group and carbon-carbon double bond in the ring-opened RO2 enhances the rates of these unimolecular reactions, including endo-cyclization and H-shift via transition states involving six- and seven-membered rings.
+These reaction rate coefficients are sufficiently large that unimolecular chemistry is the dominant fate of these monoterpene-derived RO2 in the atmosphere.
+In addition, the overall yields of first-generation α-pinene and β-pinene hydroxy nitrates, C10H17NO4, at 296 K and 745 Torr are measured to be 3.3 ± 1.5% and 6.4 ± 2.1%, respectively, for conditions where all RO2 are expected to react with NO ([NO] > 1000 ppbv).
+These yields are lower than anticipated.

@@ -1,0 +1,11 @@
+The purpose of this paper is to introduce two experimental paradigms used for a laboratory approach to spatial choice behaviour in the mouse.
+The experimental procedure involves a free-choice spatial situation which allows the development of a long-term behavioural process.
+The animal is placed in an arena containing two or more nest-boxes to be chosen as nest-sites.
+These may differ in certain characteristics, such as size, shape, or composition.
+The experimental procedures are: (1) a series of independent successive choice tests, or "paired comparisons"; (2) a dependent successive choice test, or "forced progressive elimination ranking".
+Both procedures have been used to study nest-box choice in mice according to spatial parameters.
+In Experiment I, "paired comparisons" were used to evaluate the strength of individual preferences for nest-boxes differing in design (size and/or shape), according to whether nest-boxes were open or closed.
+In Experiment II, the second method was used to analyse individual preferential ranking patterns with series of nest-boxes differing in design or composition.
+The results of the two types of experiment were complementary regarding the design (size and shape) of the nest-boxes: highest in order of preference were small narrow-sided nest-boxes, followed by small square ones, then the small circular one, and last the big circular ones.
+Experiment I proved in particular the role of closure in reinforcing the strength of preferences.
+In Experiment II, on the other hand, the constituent materials did not appear to have any clear influence on preferential ranking patterns for the nest-boxes differing in design; nevertheless, a positive correlation was noted between the classification of objects made of different materials, and the degree of darkness afforded by these materials.

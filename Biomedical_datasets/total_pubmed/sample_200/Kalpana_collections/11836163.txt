@@ -1,0 +1,12 @@
+The tumor suppressor genes p53 and p16(INK4a), both of which act in tumor surveillance, are homozygously deleted in the human leukemia cell line K562.
+This study was performed to assess whether co-transfection of the p16(INK4a) and p53 genes could inhibit K562 cell proliferation.
+p16(INK4a) and p53 genes were co-transfected into K562 cells with liposome, and the expression of the transfected genes was detected by Western-immunoblotting and immunocytochemistry.
+The effect of the p16(INK4a) and p53 transfected cell culture was quantified by trypan blue staining, and the number of recovered viable cells was assessed every day after transfection.
+Cells were analyzed for expression of annexin V in order to detect apoptosis.
+Differentiation of transfected K562 cells was measured by the benzidine oxidation test, and the cell cycle was analyzed by flow cytometry.
+After co-transfection, there were 23% and 28% p53 and p16(INK4a) positive cells respectively.
+Co-transfection with p16(INK4a) and p53 genes significantly inhibited cell proliferation when compared to transfection with either p16(INK4a) or p53 gene.
+The percentage of cells expressing the apoptosis-related cell surface antigen annexin V was significantly higher in p53 and p16(INK4a) transfected cells than in p53 or p16(INK4a) transfected cells (6.24+/-0.37% vs 4.88+/- 0.17%, p<0.05 and vs 2.78+/-0.26%, p<0.05, respectively).
+p16(INK4a) and p53 co-transfection significantly increased the number of cells in G1 phase and decreased that in S phase.
+Expression of wild-type p16(INK4a) and p53 genes in K562 cells results in reduced proliferation and apoptosis.
+Introduction of exogenous p16(INK4a) and p53 genes into K562 cells might contribute to the clinical treatment of leukemia.

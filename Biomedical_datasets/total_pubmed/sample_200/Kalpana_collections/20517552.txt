@@ -1,0 +1,14 @@
+High resolution microwave (a-type) and millimetre-wave (b-type) spectra of He(N)-(13)C(16)O, He(N)-(12)C(18)O, and He(N)-(13)C(18)O clusters (N<or= 10) were observed, significantly extending the initial spectroscopic observations on He(N)-(12)C(16)O by Surin et al.
+[Phys. Rev. Lett., 2008, 101, 233401].
+The frequencies of the a-type series, which evolves from the end-over-end rotation of the dimer, decrease from N = 1 to 3, then increase smoothly to at least N = 9.
+This turnaround indicates a rapid evolution of the solvation character from classical to quantum.
+The b-type series, which evolves from the free molecule rotation of CO, increases from N = 0 to 6 and then decreases to at least N = 10.
+This is consistent with an initially increasing anisotropy of the helium environment, followed by a tendency of the solvation shell to become more isotropic.
+The shift of the vibrational frequency of CO as determined from the infrared [A. R. W. McKellar, J. Chem.
+Phys., 2004, 121, 6868; ibid., 2006, 125, 164328] and microwave data reveals an approximately linear decrease from N = 1 to at least 9.
+[K. von Haeften, S. Rudolph, I. Simanovski, M. Havenith, R. E. Zillich and K. B. Whaley, Phys.
+In this case, there must be an upturn in the vibrational shift beyond N = 14, which is not predicted by theory [T. Skrbić, S. Moroni and S. Baroni, J. Phys.
+By extrapolating the a-type series to N = 14 (assuming a linear vibrational shift), we estimate the rotational constant, B, of CO in the helium nanodroplet to be approximately 74% of its gas phase value.
+This is in reasonable agreement with simulations (76% at N = 14), which predict the limiting value to be approximately reached upon completion of the first solvation shell (73% at N = 100)
+[T. Skrbić, S. Moroni and S. Baroni, J. Phys.
+However, this value is significantly larger than that inferred from helium nanodroplet experiments (63%).

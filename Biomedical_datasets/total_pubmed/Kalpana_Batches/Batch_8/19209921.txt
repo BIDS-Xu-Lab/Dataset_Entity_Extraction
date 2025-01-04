@@ -1,0 +1,7 @@
+Results from molecular dynamics simulations of aqueous hydroxide of varying concentrations have been compared with experimental structural data.
+First, the polarizable POL3 model was verified against neutron scattering using a reverse Monte Carlo fitting procedure.
+It was found to be competitive with other simple water models and well suited for combining with hydroxide ions.
+Second, a set of four polarizable models of OH- were developed by fitting against accurate ab initio calculations for small hydroxide-water clusters.
+All of these models were found to provide similar results that robustly agree with structural data from X-ray scattering.
+The present force field thus represents a significant improvement over previously tested nonpolarizable potentials.
+Although it cannot in principle capture proton hopping and can only approximately describe the charge delocalization within the immediate solvent shell around OH-, it provides structural data that are almost entirely consistent with data obtained from scattering experiments.

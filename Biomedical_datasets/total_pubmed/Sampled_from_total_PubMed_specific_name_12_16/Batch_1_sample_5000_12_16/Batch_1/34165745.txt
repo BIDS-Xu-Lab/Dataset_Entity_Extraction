@@ -1,0 +1,13 @@
+Satellite and reanalysis precipitation products are potential alternatives in hydrological studies, and it is very important to evaluate their accuracy and potential use for reliable simulations.
+In this study, three precipitation products (Tropical Rainfall Measuring Mission 3B43 Version 7 (TRMM 3B43), spatial interpolation grid data based on 2472 national meteorological observation stations in China (GRID_0.5), and National Centers for Environmental Prediction-Climate Forecast System Reanalysis (NCEP-CFSR)) were evaluated against gauge observations in the Xiangxi River watershed of Hubei Province.
+The performance results indicated that the results of the three precipitation products were correlated with those of the rain gauges; however, there were differences among the three products.
+TRMM 3B43 tended to overestimate precipitation with the highest correlation coefficient, while NCEP-CFSR tended to underestimate precipitation with the least satisfactory performance, and the performance of GRID_0.5 ranked between them.
+However, the annual and monthly mean errors differed, as the errors of most of the results driven by NCEP-CFSR were lowest.
+The errors varied at different time scales.
+During years with high precipitation, the results were often underestimated, while the results are often overestimated during years with low precipitation.
+According to the average monthly results, the GRID_0.5 results were closest to the gauge observations for most months.
+During the wet season, TRMM 3B43 performed better, while NCEP-CFSR precipitation performed better during the dry season.
+The errors from precipitation to streamflow, NPS pollution, and water environmental capacity (WEC) driven by the three precipitation products increased gradually, ranging from 10% for precipitation to over 20% for NPS pollution and almost 100% for WEC.
+The error increase for NCEP-CFSR was lower than that of the other two products.
+Although the simulation error from precipitation to the WEC results driven by the three precipitation products gradually increased, the degree of overestimation and underestimation became smaller.
+Y: Tropical Rainfall Measuring Mission 3B43 Version 7 (TRMM 3B43), GRID_0.5, National Centers for Environmental Prediction-Climate Forecast System Reanalysis (NCEP-CFSR) (No need to annotate, just for notice).

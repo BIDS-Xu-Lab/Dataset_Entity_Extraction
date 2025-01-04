@@ -1,0 +1,6 @@
+In patients with mesial temporal lobe epilepsy (MTLE) it remains an unresolved issue whether the interictal decrease in N-acetyl aspartate (NAA) detected by proton magnetic resonance spectroscopy ((1)H-MRS) reflects the epilepsy-associated loss of hippocampal pyramidal neurons or metabolic dysfunction.
+To address this problem, we applied high-resolution (1)H-MRS at 14.1 Tesla to measure metabolite concentrations in ex vivo tissue slices from three hippocampal subfields (CA1, CA3, dentate gyrus) as well as from the parahippocampal region of 12 patients with MTLE.
+In contrast to four patients with lesion-caused MTLE, we found a large variance of NAA concentrations in the individual hippocampal regions of patients with Ammon's horn sclerosis (AHS).
+Specifically, in subfield CA3 of AHS patients despite of a moderate preservation of neuronal cell densities the concentration of NAA was significantly lowered, while the concentrations of lactate, glucose, and succinate were elevated.
+We suggest that these subfield-specific alterations of metabolite concentrations in AHS are very likely caused by impairment of mitochondrial function and not related to neuronal cell loss.
+A subfield-specific impairment of energy metabolism is the probable cause for lowered NAA concentrations in sclerotic hippocampi of MTLE patients.

@@ -1,0 +1,17 @@
+Fluoride varnish reduces children's tooth decay, yet few clinicians provide it.
+Most state Medicaid programs have covered this service during medical visits for children aged 1 to 5 years, but private insurers began covering it only in 2015 due to the Patient Protection and Affordable Care Act (ACA) mandate that they cover a set of recommended preventive services without cost-sharing.
+Evidence on clinicians' behavior change postmandate is limited.
+To examine monthly changes in fluoride varnish applications among pediatric clinicians following the ACA mandate.
+Using all-payer claims data from Massachusetts, this cohort study applied an interrupted time-series approach with linear regression models comparing changes in monthly clinician-level outcomes before and after the mandate.
+Participants included clinicians who billed at least 5 well-child visits for patients aged 1 to 5 years and were observed at least once premandate.
+Adjusted for clinician fixed effects, models were assessed overall and separately for clinicians categorized by their monthly share of well-child visits paid by private insurers before the mandate: mostly private (>66% of visits paid by private insurers), mostly public (<33% of visits paid by private insurers), or mixed (33%-66% of visits paid by private insurers) insurance types.
+Analysis was performed from June 1, 2022, to July 31, 2023.
+Preenactment and postenactment of the ACA mandate for private insurers to cover fluoride varnish applications without cost-sharing.
+Clinician-month measures of whether fluoride varnish was provided during at least 1 well-child visit and the share of such visits, analyzed separately for clinicians who did and did not apply fluoride varnish premandate.
+The sample included 2405 clinicians, with 107 841 clinician-months.
+Premandate, 10.48% of the visits included fluoride varnish applications.
+Two years postmandate, the likelihood of ever applying fluoride varnish was 13.64 (95% CI, 10.97-16.32) percentage points higher.
+For clinicians providing fluoride varnish premandate, the share of visits with fluoride varnish increased by 9.22 (95% CI, 5.41-13.02) percentage points.
+This increase was observed in clinicians who treated children with insurance that was mostly mixed and mostly private; no substantial change was observed among those treating children with mostly public insurance.
+In this cohort study of pediatric primary care clinicians, an association between the ACA mandate and an increase in fluoride varnish application was observed, especially among clinicians primarily treating privately insured patients and those applying it premandate.
+However, application remains infrequent, suggesting persistent barriers.

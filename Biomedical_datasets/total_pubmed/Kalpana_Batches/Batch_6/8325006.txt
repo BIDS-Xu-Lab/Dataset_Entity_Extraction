@@ -1,0 +1,6 @@
+This paper describes how Bayesian networks can be used in combination with compartmental models to plan recombinant human erythropoietin delivery in the treatment of anemia of chronic uremic patients.
+Past measurements of hemoglobin concentration in a patient during the therapy can be exploited to adjust the parameters of a compartmental model of erythropoiesis.
+This adaptive process provides more accurate patient-specific predictions, and hence a more rational dosage planning.
+Inferences are performed by using a stochastic simulation algorithm called Gibbs sampling.
+We describe a drug delivery optimization protocol based on our approach.
+Some results obtained on real data are presented.

@@ -1,0 +1,8 @@
+Cosine tuning is ubiquitous in the motor system, yet a satisfying explanation of its origin is lacking.
+Here we argue that cosine tuning minimizes expected errors in force production, which makes it a natural choice for activating muscles and neurons in the final stages of motor processing.
+Our results are based on the empirically observed scaling of neuromotor noise, whose standard deviation is a linear function of the mean.
+Such scaling predicts a reduction of net force errors when redundant actuators pull in the same direction.
+We confirm this prediction by comparing forces produced with one versus two hands and generalize it across directions.
+Under the resulting neuromotor noise model, we prove that the optimal activation profile is a (possibly truncated) cosine--for arbitrary dimensionality of the workspace, distribution of force directions, correlated or uncorrelated noise, with or without a separate cocontraction command.
+The model predicts a negative force bias, truncated cosine tuning at low muscle cocontraction levels, and misalignment of preferred directions and lines of action for nonuniform muscle distributions.
+All predictions are supported by experimental data.

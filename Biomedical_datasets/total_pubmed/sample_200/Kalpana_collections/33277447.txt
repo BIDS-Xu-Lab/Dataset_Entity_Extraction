@@ -1,0 +1,12 @@
+The main causes of death in kidney transplant recipients are cardiovascular diseases and malignancy.
+This study aimed to determine the types of post-transplant malignancy, incidence, and related factors in renal transplant recipients referred to Razi Hospital in Rasht, Iran.
+This retrospective cross-sectional study was conducted on 549 kidney transplant recipients between 1998 and 2018.
+Patient-, transplant-, and medication-related factors and pathology reports were recorded in the check list.
+Chi-square, T-test and Logistic Regression were used to investigate the effect of variables.
+Malignancy-person-year incidence rate was calculated using survival tables and Kaplan-Mayer analysis.
+The most common site of malignancy was the skin (53.5%).
+Non-Melanoma Skin Cancer (NMSC) was the most common cancer (32.6%) followed by Kaposi sarcoma (20.9%).
+The standardized incidence ratio (SIR) of post-transplant malignancies in renal transplant recipients was 26.9 times the malignancies in Guilan province and 21.7 times the malignancies in Iran.
+Cox proportional hazard models identified older age at the time of transplantation and history of azathioprine consumption seems to be associated with risk for post-transplant malignancy.
+The most common malignancies in these people were non-melanoma skin cancer, Kaposi sarcoma and then GI malignancies.
+According to the information obtained in this study, regular periodic examinations of kidney transplant recipients for early detection of malignancy is important.

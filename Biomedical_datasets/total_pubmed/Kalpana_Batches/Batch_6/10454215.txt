@@ -1,0 +1,7 @@
+The signal transduction pathway mediated by mitogen-activated protein kinases is an attractive target for the design of pharmacologically effective inhibitors.
+Two specific cell-permeant small molecule inhibitors of this pathway have been reported.
+However, under certain circumstances, nonpermeable inhibitors, such as neutralizing antibodies and peptide inhibitors, are also useful.
+We present here a novel approach for such peptide inhibitor design.
+The procedure is based on the synthesis of a structure-mimetic peptide corresponding to a short peptide segment in the target molecule.
+The results obtained so far show that a peptide designed in such a way is an effective inhibitor of the pathway.
+The possible application of such peptides and antipeptide antibodies as probes for protein kinase regulation mechanisms is also evaluated.

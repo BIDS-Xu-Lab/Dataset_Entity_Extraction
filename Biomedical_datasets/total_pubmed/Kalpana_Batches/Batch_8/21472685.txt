@@ -1,0 +1,6 @@
+The immune response of broiler chickens exposed to intra-tracheal (i.t.) administration of benzo[a]pyrene (BaP) with and without Nigella sativa (Ns) supplementation was investigated.
+A total of 120 day-old chicks were divided into four groups comprising 30 birds each, into a control, Ns, BaP, and BaP+Ns group.
+Immune responses to Newcastle disease (ND) were evaluated by haemagglutination inhibition (HI), phytohaemagglutinin (PHA) skin test and carbon clearance assay (CCA).
+In most instances, there was a significant increase (p<0.05) in the ND-HI antibody titers, PHA skin-swelling response and phagocytic activity in the BaP + Ns group compared to that of the BaP group.
+Likewise, organ weight and indices of the spleen, bursa of Fabricius and thymus of birds from the BaP + Ns group were also higher (p<0.05) than that of the BaP group from day 1 until day 21.
+It is concluded that exposure to BaP may exert adverse effects on the immune system of broilers which may increase their susceptibility to disease, and Ns supplementation significantly reduces these alterations.

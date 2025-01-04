@@ -1,0 +1,13 @@
+To assess the drug utilization patterns for proton pump inhibitors (PPIs) prescriptions dispensed in periods with and without restrictions on reimbursement in a public healthcare system.
+Data on all PPI prescriptions dispensed for gastroesophageal reflux disease (GERD) was retrieved from the Norwegian Prescription Database (NorPD) from 1 January 2004 to 31 January 2008.
+PPI utilization patterns were studied in new and current users of PPI in periods affected and not affected by a change in prescription policy.
+The policy change resulted in 39% of esomeprazole patients discontinuing PPI therapy during a 12-month period while 23% discontinued PPI therapy during a period not affected by the policy change.
+The shift frequency to a different PPI was low, 5% and 7% respectively, during periods not affected by policy change.
+Despite a required shift in most esomeprazole patients, 64% still continued on esomeprazole.
+Among the 36% who shifted from esomeprazole to a different PPI, 25% subsequently shifted back to esomeprazole.
+In new PPI users, the proportion of esomeprazole users declined from 57% before to 20% after the introduction of the policy change.
+Despite GERD being a chronic disease in most patients, there was a high degree of alteration seen in the utilization patterns of PPIs.
+A high proportion discontinued PPI therapy indicating mild symptoms or remission.
+The switching between different PPIs was low indicating good efficacy and tolerability in most patients.
+The policy change was more effective in new PPI users compared with the mandated shift in ongoing esomeprazole users.
+Y Norwegian Prescription Database (NorPD) (No need to annotate, just for notice).

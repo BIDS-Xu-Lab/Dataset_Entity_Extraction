@@ -1,0 +1,13 @@
+Embedded smart cameras have limited processing power, memory, energy, and bandwidth.
+Thus, many system- and algorithm-wise challenges remain to be addressed to have operational, battery-powered wireless smart-camera networks.
+We present a wireless embedded smart-camera system for cooperative object tracking and detection of composite events spanning multiple camera views.
+Each camera is a CITRIC mote consisting of a camera board and wireless mote.
+Lightweight and robust foreground detection and tracking algorithms are implemented on the camera boards.
+Cameras exchange small-sized data wirelessly in a peer-to-peer manner.
+Instead of transferring or saving every frame or trajectory, events of interest are detected.
+Simpler events are combined in a time sequence to define semantically higher-level events.
+Event complexity can be increased by increasing the number of primitives and/or number of camera views they span.
+Examples of consistently tracking objects across different cameras, updating location of occluded/lost objects from other cameras, and detecting composite events spanning two or three camera views, are presented.
+All the processing is performed on camera boards.
+Operating current plots of smart cameras, obtained when performing different tasks, are also presented.
+Power consumption is analyzed based upon these measurements.

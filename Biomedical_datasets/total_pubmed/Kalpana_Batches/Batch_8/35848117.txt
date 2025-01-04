@@ -1,0 +1,10 @@
+The impact and risk of SARS-CoV-2 transmission from asymptomatic and presymptomatic hosts remains an open question.
+This study measured the secondary attack rates (SARs) and relative risk (RR) of SARS-CoV-2 transmission from asymptomatic and presymptomatic index cases as compared with symptomatic index cases.
+We used COVID-19 test results, daily health check reports, and contact tracing data to measure SARs and corresponding RRs among close contacts of index cases in a cohort of 12 960 young adults at the University of Notre Dame in Indiana for 103 days, from August 10 to November 20, 2020.
+Further analysis included Fisher exact tests to determine the association between symptoms and COVID-19 infection and z tests to determine statistical differences between SARs.
+Asymptomatic rates of transmission of SARS-CoV-2 were higher (SAR = 0.19; 95% CI, 0.14-0.24) than was estimated in prior studies, producing an RR of 0.75 (95% CI, 0.54-1.07) when compared with symptomatic transmission.
+In addition, the transmission rate associated with presymptomatic cases (SAR = 0.25; 95% CI, 0.21-0.30) was approximately the same as that for symptomatic cases (SAR = 0.25; 95% CI, 0.19-0.31).
+Furthermore, different symptoms were associated with different transmission rates.
+Asymptomatic and presymptomatic hosts of SARS-CoV-2 are a risk for community spread of COVID-19, especially with new variants emerging.
+Moreover, typical symptom checks may easily miss people who are asymptomatic or presymptomatic but still infectious.
+Our study results may be used as a guide to analyze the spread of SARS-CoV-2 variants and help inform appropriate public health measures as they relate to asymptomatic and presymptomatic cases.

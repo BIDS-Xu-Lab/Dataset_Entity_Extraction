@@ -1,0 +1,11 @@
+Occupational exposure to blood borne pathogens caused by percutaneous injuries or mucosal contamination is frequent among Healthcare Workers (HCW).
+A cross-sectional analysis of HCW with an occupational exposure to blood reported to professional risk insurance agencies between 2009 and 2014 was performed.
+Comparisons between groups according to exposure level (mild, moderate, and severe) were evaluated.
+Two thousand, four hundred three reports were classified according exposure as mild 2.7 %, moderate 74.8 %, severe 21.9 %.
+Factors related: health sciences student with mild exposure events [adjusted odds ratio (AOR) 11.91, 95 % CI 5.13-27.61, p < 0.00001], and physician with moderate exposure events (AOR 1.90, 95 % CI 1.17-3.07, p = 0.009).
+Factors inversely related: physician with severe exposure events (AOR 0.54, 95 % CI 0.32-0.91, p = 0.02) and health sciences student with moderate exposure events (AOR 0.08, 95 % CI 0.04-0.15, p < 0.00001).
+It was found an important relationship between severe events with infectious diseases specialist assessment, and follow-up adherence.
+Additionally, a case of Human Immunodeficiency Virus seroconversion was presented (0.0004 %), no other seroconversions were observed.
+Occupational exposure events must be managed according to established protocols, but adherence failure was evident with the exception of severe exposure cases.
+Thus, interventions to enhance occupational safety are required.
+Occupation must be considered as a risk factor during initial assessment of events.

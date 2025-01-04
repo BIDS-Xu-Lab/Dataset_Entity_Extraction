@@ -1,0 +1,19 @@
+Telemedicine that combines information technology and health care augments the operational model of traditional medical services and brings new opportunities to the medical field.
+China promotes telemedicine with great efforts, and its practices in the deployment of telemedicine platforms and delivery of services have become important references for the research and development in this field.
+Our work described in this paper focuses on a regional telemedicine platform that was built in 2014.
+We analyzed the system design scheme and remote consultations that were conducted via the system to understand the deployment and service delivery processes of a representative telemedicine platform in China.
+We collected information on remote consultations conducted from 2015 to 2020 via the regional telemedicine platform that employs a centralized architectural system model.
+We used graphs and statistical methods to describe the changing trends of service volume of remote consultation, geographical and demographic distribution of patients, and waiting time and duration of consultations.
+The factors that affect consultation duration and patient referral were analyzed by multivariable linear regression models and binary logistic regression models, respectively.
+The attitudes toward telemedicine of 225 medical practitioners and 225 patients were collected using the snowball sampling method.
+The regional telemedicine platform covers all levels of medical institutions and hospitals in all 18 cities of Henan Province as well as some interprovince hospitals.
+From 2015 to 2020, 103,957 remote medical consultations were conducted via the platform with an annual increasing rate of 0.64%.
+A total of 86.64% (90,069/103,957) of medical institutions (as clients) that applied for remote consultations were tier 1 or 2 and from less-developed regions; 65.65% (68,243/103,945) of patients who applied for remote consultations were aged over 50 years.
+The numbers of consultations were high for departments focusing in the treatment of chronic diseases such as neurology, respiratory medicine, and oncology.
+The invited experts were mainly experienced doctors with senior professional titles.
+Year of consultation, tier of hospital, consultation department, and necessity of patient referral were the main factors affecting the duration of consultations.
+In surveys, we found that 60.4% (136/225) of medical practitioners and 53.8% (121/225) of patients had high satisfaction and believed that telemedicine is of vital importance for the treatment of illness.
+The development of telemedicine in China shows a growing trend and provides great benefits especially to medical institutions located in less developed regions and senior citizens who have less mobility.
+Cases of remote consultations are mainly for chronic diseases.
+At present, the importance and necessity of telemedicine are well recognized by both patients and medical practitioners.
+However, the waiting time needs to be further reduced to improve the efficiency of remote medical services.

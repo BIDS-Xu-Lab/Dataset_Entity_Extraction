@@ -1,0 +1,14 @@
+Duration of untreated psychosis (DUP) is an important measure of access to care as it predicts prognosis and treatment outcomes.
+Little is known about potential socioeconomic inequalities in DUP.
+The aim of this study was to investigate inequalities in DUP associated with socioeconomic deprivation in a national cohort in England.
+We analysed a cohort of 887 patients with a first-episode in psychosis using the administrative Mental Health Services Dataset in England for 2012/13-2014/15.
+We used a Generalised Linear Model to account for non-linearity in DUP and looked at inequalities across the whole distribution of DUP using quantile regression.
+The median DUP was 22 days (mean = 74 days) with considerable variations between and within the 31 hospital providers.
+We found evidence of significant inequalities regarding the level of socioeconomic deprivation.
+Patients living in the second, third and fourth deprived neighbourhood quintiles faced a 36, 24 and 31 day longer DUP than patients from the least deprived neighbourhoods.
+Inequalities were more prevalent in higher quantiles of the DUP distribution.
+Unemployment prolonged DUP by 40 days.
+Having been in contact with mental health care services prior to the psychosis start significantly reduced the DUP by up to 53 days.
+Socioeconomic deprivation is an important factor in explaining inequalities in DUP.
+Policies to improve equitable access to care should particularly focus on preventing very long delays in treatment and target unemployed patients as well as people that have not been in contact with any mental health professional in the past.
+Y Mental Health Services Dataset (No need to annotate, just for notice).

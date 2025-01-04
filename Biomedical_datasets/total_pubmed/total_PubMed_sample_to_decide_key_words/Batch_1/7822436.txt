@@ -1,0 +1,13 @@
+Myo-inositol (MI) influx as a function of concentration in rat lens consisted of a saturable component, fit by a rectangular hyperbola, and a linear component which was more distinct at high myo-inositol concentrations suggesting passive diffusion.
+The hyperbolic component was half-maximally saturated (Kt) at 61.3 microM and had a maximal transport rate (Jmax) of 44.6 mumol/kg wet wt/h. The linear component had an apparent permeability coefficient of 1.44 x 10(-6) s-1.
+Sorbitol, which distributed rapidly in the extracellular space (6.83 ml/100 g wet wt), also appeared to enter the intracellular space with a permeability coefficient of 1.37 x 10(-6) s-1, similar to that of myo-inositol.
+The influx of myo-inositol was critically dependent on the concentration of extracellular sodium consistent with a sodium-myo-inositol cotransport.
+The kinetics of influx activation by sodium suggested an apparent 2:1 coupling ratio for sodium and myo-inositol.
+When potassium was used as sodium substitute, a significantly stronger influx inhibition was observed than with nondepolarizing sodium substitutes, indicating that myo-inositol was driven by the electrochemical gradient of sodium rather than the chemical gradient only.
+Reducing the extracellular Na concentration increased the MI concentration at which transport was half-maximally activated, suggesting an ordered binding sequence of Na followed by MI.
+Myo-inositol influx was competitively inhibited by phlorizin with an inhibitory coefficient (Ki) of 35 microM.
+Phloretin also was capable of inhibition but with a much lesser efficacy.
+Myo-inositol desaturates from the lens at a rate of 0.00862 h-1.
+Approximately 19% of the efflux can be inhibited with phlorizin, suggesting that it represents carrier-mediated flux.
+The phlorizin insensitive flux has a rate of 0.00695 h-1 or 1.93 x 10(-6) s-1, similar to the Na-independent passive influx.
+MI influx is due to a Na-dependent, phlorizin-sensitive active transport while the efflux consists largely of a phlorizin-independent passive leakage.

@@ -1,0 +1,11 @@
+Coarctation of the aorta is a relatively common congenital heart disease occurring in 0.4-0.6 per 1000 live births with a low mortality rate.
+This is a retrospective study, with data abstracted from the Pediatric Health Information System database (PHIS).
+The study sample included pediatric patients less than or equal to 3 months of age discharged from a PHIS participating hospital between January 1, 2004 and December 31, 2018 who underwent surgical repair of isolated COA.
+The primary outcome for the study was post-operative hospital length of stay (PH-LOS), and the secondary outcome was in-hospital mortality.
+Patient demographics, comorbidities, procedures, and outcomes were assessed for statistical differences between eras.
+A total of 5354 patients were included in the study.
+The study highlights an increasing trend in PH-LOS and NICU hospital length of stay (NICU-LOS) across the investigated eras.
+Prematurity (before 37 weeks gestation) was an independent risk factor associated with both longer post-operative length of the stay and higher mortality.
+In addition, congenital anomalies, respiratory and abdominal surgeries have a significant impact on the post-operative hospital stay.
+In conclusion, this study is the largest published systematic assessment of PH-LOS in patients with isolated COA repair during infancy to date and identifies independent risk factors of increased PH-LOS.
+Y: Pediatric Health Information System database (PHIS) (No need to annotate, just for notice).

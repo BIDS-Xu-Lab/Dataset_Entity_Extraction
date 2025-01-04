@@ -1,0 +1,16 @@
+Physical activity (PA) can improve health and quality of life (QOL) of healthy people.
+However, the association between PA and QOL among people with physical disability (PWPD) is inconclusive.
+This study was conducted to determine the relationships between factors including intensity of PA, activitiy in daily living (ADL), stress, and self-esteem that influences self-reported QOL among PWPD.
+The relationships were further explored using the in-depth interview method to find out whether the intensity of PA, stress, and self-esteem are related to QOL perception in PWPD.
+One hundred sixty PWPD aged 18-48 years who studied at a vocational school were enrolled.
+A mixed method case study was conducted: cross-sectional survey and in-depth interview.
+Five questionnaires, including the Barthel Index, Perceived Stress Scale (PSS), Rosenberg Self-Esteem Scale (RSES), and Physical Activity Scale for Individuals with Physical Disabilities (PASIPD) were distributed.
+QOL was measured using the WHOQOL_BREF.
+Multiple linear regression was used to determine factors for QOL prediction.
+For in-depth interview, ten persons from each group (poor-to-fair and good QOL) volunteered to explore further about life satisfaction related to physical disability.
+One hundred forty-six (91%) subjects completed all questionnaires.
+One hundred fourteen (77%) reported poor-to-fair QOL.
+QOL was explained by self-esteem and ADL (adjusted R² 34.7%, p < 0.001) after adjusted for age, stress, and PA.
+Although PA could not explain QOL in PWPD, good QOL reported high activities (28.40 ± 30.20 MET hour/day) compared to poor and fair QOL (17.94 ± 22.06 and 21.70 ± 17.75 MET hour/day).
+Those who had good QOL reported that they were proud to be independent and did not feel inferior.
+PA participation among people with disabilities should therefore be encouraged.

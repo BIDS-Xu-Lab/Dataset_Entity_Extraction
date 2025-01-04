@@ -1,0 +1,7 @@
+Knowledge of the impact of variations on protein structure can enhance the comprehension of the mechanisms of genetic diseases related to that protein.
+Here, we present a new version of GALT Protein Database, a Web-accessible data repository for the storage and interrogation of structural effects of variations of the enzyme galactose-1-phosphate uridylyltransferase (GALT), the impairment of which leads to classic Galactosemia, a rare genetic disease.
+This new version of this database now contains the models of 201 missense variants of GALT enzyme, including heterozygous variants, and it allows users not only to retrieve information about the missense variations affecting this protein, but also to investigate their impact on substrate binding, intersubunit interactions, stability, and other structural features.
+In addition, it allows the interactive visualization of the models of variants collected into the database.
+We have developed additional tools to improve the use of the database by nonspecialized users.
+This Web-accessible database (http://bioinformatica.isa.cnr.it/GALT/GALT2.0) represents a model of tools potentially suitable for application to other proteins that are involved in human pathologies and that are subjected to genetic variations.
+Y: GALT Protein Database (No need to annotate, just for notice).

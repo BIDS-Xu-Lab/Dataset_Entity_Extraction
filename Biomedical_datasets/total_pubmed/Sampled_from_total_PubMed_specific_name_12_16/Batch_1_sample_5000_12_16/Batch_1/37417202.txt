@@ -1,0 +1,16 @@
+Adverse drug reactions (ADRs) are a prominent cause of morbidity and mortality and higher healthcare expenditures.
+Healthcare professionals (HCPs) play a crucial role in ADR reporting through spontaneous reporting systems, but under-reporting is their major limitation.
+The goal of this study is to evaluate HCPs' knowledge, attitude, and practice regarding ADR reporting as well as the factors that influence reporting using research papers that are currently available.
+A literature search was conducted using sources such as PubMed, Scopus, and Google Scholar to find studies that evaluated HCPs' knowledge, attitudes, and practices regarding ADRs reporting in Ethiopia.
+A standard procedure of systematic review protocol was used to conduct this review.
+Demographic factors, sample size, response rate, survey delivery, HCP working setting, and encouraging and discouraging factors of ADR reporting were extracted from articles.
+A total of 17 articles were included in the systematic review out of 384.
+The number of HCPs in the included studies ranged from 62 to 708.
+Response rate ranges from 76.1% to 100%.
+Most of the research included in this evaluation looked at HCPs, who worked in hospitals.
+When pharmacists were compared to other HCPs, they were more likely to report ADRs; because they had higher knowledge, attitude, and practice.
+Lack of understanding, unavailability of reporting forms, uncertainty about the causal relationship between the drug and ADR, and failure to report because the ADR was well known were among the common hurdles to ADR reporting identified in research.
+To improve reporting, educational initiatives and continued training in pharmacovigilance and ADRs are frequently recommended considerations.
+In Ethiopia, there is a pressing need to close the gap in HCP knowledge, attitudes, and practice regarding PV and ADR reporting.
+To address this point, specific educational interventions based on existing gaps in ADR reporting should be developed and integrated into the health education curriculum or provided as in-service training after graduation.
+Y and PubMed, Scopus, Google Scholar (No need to annotate, just for notice).

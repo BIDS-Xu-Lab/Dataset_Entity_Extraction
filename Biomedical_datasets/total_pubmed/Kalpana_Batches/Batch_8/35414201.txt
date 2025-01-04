@@ -1,0 +1,5 @@
+Aim: This retrospective, observational study evaluated the long-term (>12 months) safety and effectiveness of bisphosphonate.
+Methods: Data collected for 359 patients included quantity and proportion of adverse events (AEs) and skeletal-related events (SREs), and times to first AE and first SRE.
+Results: Patients in the ≤24-month group experienced significantly fewer AEs compared with the >24-month treatment group (p = 0.008), and treatment for >24 months was a potential risk factor for AEs (p = 0.05).
+Neither the proportion nor the risk of SRE was significantly associated with therapy duration (p = 0.525 and 0.084, respectively).
+Conclusion: Bisphosphonate treatment beyond 2 years may increase the risk of AEs, but may prolong SRE-free survival early after 24 months, compared with medication administered for ≤24 months.

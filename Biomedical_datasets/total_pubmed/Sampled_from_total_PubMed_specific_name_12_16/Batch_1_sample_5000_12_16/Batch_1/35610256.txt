@@ -1,0 +1,12 @@
+Rapid eye movement sleep behavior disorder (RBD) is associated with high likelihood of prodromal Parkinson's disease (PD) and is common in de novo PD.
+It is associated with greater cognitive impairment and brain atrophy.
+However, the relation between structural brain characteristics and cognition remains poorly understood.
+We aimed to investigate subcortical and cortical atrophy in de novo PD with probable RBD (PD-pRBD) and to relate it with cognitive impairment.
+We analyzed volumetry, cortical thickness, and cognitive measures from 79 PD-pRBD patients, 126 PD without probable RBD patients (PD-non pRBD), and 69 controls from the Parkinson's Progression Markers Initiative (PPMI).
+Regression models of cognition were tested using magnetic resonance imaging measures as predictors.
+We found lower left thalamus volume in PD-pRBD compared with PD-non pRBD.
+Compared with controls, PD-pRBD group showed atrophy in the bilateral putamen, left hippocampus, left amygdala, and thinning in the right superior temporal gyrus.
+Specific deep gray matter nuclei volumes were associated with impairment in global cognition, phonemic fluency, processing speed, and visuospatial function in PD-pRBD.
+In conclusion, cognitive impairment and gray matter atrophy are already present in de novo PD-pRBD.
+Thalamus, hippocampus, and putamen volumes were mainly associated with these cognitive deficits.
+Y and the names: Parkinson's Progression Markers Initiative (PPMI) (No need to annotate, just for notice).

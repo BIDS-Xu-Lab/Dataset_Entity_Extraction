@@ -1,0 +1,11 @@
+The protozoans Trypanosoma cruzi, Trypanosoma brucei and Leishmania major (Tritryps), are evolutionarily ancient eukaryotes which cause worldwide human parasitosis.
+Indeed, canonical DNA/RNA cis-acting elements remain mostly elusive.
+Repetitive sequences, originally considered as selfish DNA, have been lately recognized as potentially important functional sequence elements in cell biology.
+In particular, the dinucleotide patterns have been related to genome compartmentalization, gene evolution and gene expression regulation.
+Thus, we perform a comparative analysis of the occurrence, length and location of dinucleotide repeats (DRs) in the Tritryp genomes and their putative associations with known biological processes.
+We observe that most types of DRs are more abundant than would be expected by chance.
+Complementary DRs usually display asymmetrical strand distribution, favoring TT and GT repeats in the coding strands.
+In addition, we find that GT repeats are among the longest DRs in the three genomes.
+We also show that specific DRs are non-uniformly distributed along the polycistronic unit, decreasing toward its boundaries.
+Distinctive non-uniform density patterns were also found in the intergenic regions, with predominance at the vicinity of the ORFs.
+These findings further support that DRs may control genome structure and gene expression.

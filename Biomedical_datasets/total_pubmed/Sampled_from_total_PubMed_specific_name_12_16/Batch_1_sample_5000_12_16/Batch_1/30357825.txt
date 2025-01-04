@@ -1,0 +1,16 @@
+Genomic analysis of the child might offer new potential to illuminate human parenting.
+We examined whether offspring (G2) genome-wide genotype variation (SNPs) is associated with their mother's (G1) emotional warmth and intolerance, indicating a gene-environment correlation.
+If this association is stronger than between G2's genes and their emotional warmth and intolerance toward their own children, then this would indicate the presence of an evocative gene-environment correlation.
+To further understand how G1 mother's parenting has been evoked by genetically influenced characteristics of the child (G2), we examined whether child (G2) temperament partially accounted for the association between offspring genes and parental responses.
+Participants were from the Young Finns Study.
+G1 mothers (N = 2,349; mean age 39 years) self-reported the emotional warmth and intolerance toward G2 in 1980 when the participants were from 3 to 18 years old.
+G2 participants answered the same parenting scales in 2007/2012 (N = 1,378; mean age = 38 years in 2007; 59% female) when their children were on average 11 years old.
+Offspring temperament traits were self-reported in 1992 (G2 age range 15-30 years).
+Estimation of the phenotypic variance explained by the SNPs of G2 was done by genome-wide complex trait analysis with restricted maximum likelihood (GCTA-GREML).
+Results showed that the SNPs of a child (G2) explained 22.6% of the phenotypic variance of maternal intolerance (G1; p-value = .039).
+G2 temperament trait negative emotionality explained only 2.4% points of this association.
+G2 genes did not explain G1 emotional warmth or G2's own emotional warmth and intolerance.
+However, further analyses of a combined measure of both G1 parenting scales found genetic effects.
+Parent or child gender did not moderate the observed associations.
+Presented genome-wide evidence is pointing to the important role a child plays in affecting and shaping his/her family environment, though the underlying mechanisms remain unclear.
+Y and Young Finns Study (No need to annotate, just for notice).

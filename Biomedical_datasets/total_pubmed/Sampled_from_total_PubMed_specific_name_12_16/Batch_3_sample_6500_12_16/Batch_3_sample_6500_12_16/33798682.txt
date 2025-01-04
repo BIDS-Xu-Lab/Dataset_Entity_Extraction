@@ -1,0 +1,8 @@
+Viruses are abundant entities that infect almost every living organism.
+In recent years, Next Generation Sequencing coupled with bioinformatic analyses is widely adopted for identification of known and unknown viruses in a plant sample.
+In the present study, nine putative novel viruses were discovered from public domain transcriptome datasets of five endangered plant species by de novo assembly of reads using CLC and SPAdes followed by BLAST analysis.
+Of the identified viruses, ten coding-complete and five partial genomic segments were recovered.
+Based on phylogeny and BLAST analysis, the identified viruses were putatively assigned to various plant viral genera except dactylorhiza hatagirea benylike virus that probably represents a new group of plant virus.
+The methodology followed can be adopted for the discovery of novel viruses in plant species with little genomic information.
+Viral genome sequences recovered in the study will serve as a valuable resource for further characterization of identified viruses.
+Y public domain transcriptome datasets (No need to annotate, just for notice).

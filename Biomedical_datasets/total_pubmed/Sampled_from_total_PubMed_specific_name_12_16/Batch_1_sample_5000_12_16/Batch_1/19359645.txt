@@ -1,0 +1,15 @@
+Stroke patients with hemorrhagic (HS) and ischemic strokes were compared with regard to stroke severity, mortality, and cardiovascular risk factors.
+A registry started in 2001, with the aim of registering all hospitalized stroke patients in Denmark, now holds information for 39,484 patients.
+The patients underwent an evaluation including stroke severity (Scandinavian Stroke Scale), CT, and cardiovascular risk factors.
+They were followed-up from admission until death or censoring in 2007.
+Independent predictors of death were identified by means of a survival model based on 25,123 individuals with a complete data set.
+Of the patients 3993 (10.1%) had HS.
+Stroke severity was almost linearly related to the probability of having HS (2% in patients with the mildest stroke and 30% in those with the most severe strokes).
+Factors favoring ischemic strokes vs HS were diabetes, atrial fibrillation, previous myocardial infarction, previous stroke, and intermittent arterial claudication.
+Smoking and alcohol consumption favored HS, whereas age, sex, and hypertension did not herald stroke type.
+Compared with ischemic strokes, HS was associated with an overall higher mortality risk (HR, 1.564; 95% CI, 1.441-1.696).
+The increased risk was, however, time-dependent; initially, risk was 4-fold, after 1 week it was 2.5-fold, and after 3 weeks it was 1.5-fold.
+After 3 months stroke type did not correlate to mortality.
+Strokes are generally more severe in patients with HS.
+Within the first 3 months after stroke, HS is associated with a considerable increase of mortality, which is specifically associated with the hemorrhagic nature of the lesion.
+Y and a registry started in 2001 (No need to annotate, just for notice).

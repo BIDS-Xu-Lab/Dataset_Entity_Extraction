@@ -1,0 +1,10 @@
+Determination of metabolomic signatures of pulmonary function and chronic obstructive pulmonary disease (COPD) in the general population could aid in identification and understanding of early disease processes.
+Metabolome measurements were performed on serum from 4742 individuals (2354 African-Americans and 1529 European-Americans from the Atherosclerosis Risk in Communities study and 859 Europeans from the Cooperative Health Research in the Region of Augsburg study).
+We examined 368 metabolites in relation to cross-sectional measures of forced expiratory volume in 1 s (FEV1), forced vital capacity (FVC), their ratio (FEV1/FVC) and COPD using multivariable regression followed by meta-analysis.
+At a false discovery rate of 0.05, 95 metabolites were associated with FEV1 and 100 with FVC (73 overlapping), including inverse associations with branched-chain amino acids and positive associations with glutamine.
+Ten metabolites were associated with FEV1/FVC and seventeen with COPD (393 cases).
+Enriched pathways of amino acid metabolism were identified.
+Associations with FEV1 and FVC were not driven by individuals with COPD.
+We identified novel metabolic signatures of pulmonary function and COPD in African and European ancestry populations.
+These may allow development of biomarkers in the general population of early disease pathogenesis, before pulmonary function has decreased to levels diagnostic for COPD.
+Y and the Atherosclerosis Risk in Communities study, Cooperative Health Research in the Region of Augsburg study (No need to annotate, just for notice).

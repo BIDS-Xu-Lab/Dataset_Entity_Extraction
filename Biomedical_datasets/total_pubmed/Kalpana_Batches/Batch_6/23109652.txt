@@ -1,0 +1,10 @@
+To conduct a population-based study describing school performance in children with episodic migraine (EM), chronic migraine (CM), and probable migraine (PM), relative to controls.
+Children (n = 5,671) from 87 cities and 18 Brazilian states were interviewed by their teachers (n = 124).
+First, teachers were asked to provide information on the performance of the students while at school, which consisted of the same information provided to the educational board, with measurements of the overall achievement of competencies for the school year.
+The MTA-SNAP-IV scale was then used to capture symptoms of attention-deficit/hyperactivity disorder, and to provide objective information on the performance of the students.
+Parents were interviewed using a validated headache questionnaire and the Strengths and Difficulties Questionnaire, which measures behavior in 5 domains.
+Multivariate models estimated determinants of school performance as a function of headache status.
+EM occurred in 9% of the children, PM in 17.6%, and CM in 0.6%.
+Poor performance at school was significantly more likely in children with EM and CM, relative to children without headaches, and was significantly influenced by severity (p < 0.001) and duration (p < 0.001) of headache attacks, by abnormal scores of mental health (p < 0.001), and by nausea (p < 0.001), as well as by headache frequency, use of analgesics, and gender.
+Children with migraine are at an increased risk of having impairments in their school performance and factors associated with impairment have been mapped.
+Future studies should address the directionality of the association and putative mechanisms to explain it.

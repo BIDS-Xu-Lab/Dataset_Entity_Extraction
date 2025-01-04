@@ -1,0 +1,10 @@
+Numerous studies have documented mental health challenges during the COVID-19 pandemic.
+Few studies included pre-pandemic levels of mental health or were comprehensive in assessing factors likely associated with longer-term mental health impacts.
+Analyses used prospective data from a subset of participants in the nationwide Cancer Prevention Study-3 (CPS-3) United States cohort (N=2,359; 1,534 women; 825 men) who completed surveys in 2018 and during the COVID-19 pandemic (July-September 2020).
+Logistic regressions examined associations of pandemic-related stressors, sociodemographic and other predictors with (i) overall psychological distress (PD) and depression and anxiety separately during the COVID-19 pandemic and (ii) change in PD from 2018 to during the pandemic (low/low; high to low; low to high; high/high).
+During the pandemic, 10% of participants reported moderate-to-severe PD and almost half (42%) reported at least mild PD.
+Pandemic PD levels were associated with pre-pandemic PD (female OR=5.65; male OR=9.70), financial stressors (female OR=2.48; male OR=3.68), and work/life balance stressors (female OR=3.03; male OR=3.33) experienced since the pandemic began.
+These stressors also predicted an escalation from low PD in 2018 to high PD during the pandemic.
+Factors associated with high PD at both time points included younger age, female sex, and financial stressors.
+These results highlight the importance of regular mental health assessment and support among those with a history of mental health problems and those experiencing pandemic-related stressors, such as those with caregiving responsibilities or job changes.
+The American Cancer Society funds the creation, maintenance, and updating of the CPS-3.

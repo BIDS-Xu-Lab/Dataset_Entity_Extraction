@@ -1,0 +1,15 @@
+Risk-benefit analysis of triple-rule-out 256-slice computed tomography angiography (TRO-CTA) requires data on associated cancer risks, currently not available.
+The aim of the current study was to provide estimates of patient radiation burden and lifetime attributable risk (LAR) of radiation-induced cancer in patients undergoing typical 256-slice TRO-CTA.
+Standard step-and-shoot 256-slice TRO-CTA exposures were simulated on 31 male and 31 female individual-specific voxelized phantoms using a Monte Carlo CT dosimetry software.
+Dose images were generated depicting the dose deposition on the exposed body region of the patient.
+Organ doses were obtained for all primarily irradiated radiosensitive organs.
+Organ doses were correlated to patient body size.
+TRO-CTA effective dose was estimated from (a) organ doses and (b) dose-length product data.
+Recently published sex-, age-, and organ-specific cancer risk factors were used to estimate the total LAR of radiation-induced cancer.
+The theoretical risks of radiation-induced cancer to the lung and breast following a 256-slice TRO-CTA were compared with the corresponding nominal risks for each of the studied patients.
+The highest organ doses were observed for the breast, heart, esophagus, and lung.
+Mean effective dose estimated using organ dose data was found to be 6.5 ± 1.0 mSv for female and 3.8 ± 0.7 mSv for male individuals subjected to 256-slice TRO-CTA.
+The associated mean LARs of cancer was found to be 41 per 10 female and 17 per 10 male patients.
+The total radiation-induced cancer risk was found to markedly decrease with patient age.
+TRO-CTA exposure was found to increase the intrinsic risks of developing lung or breast cancer during the remaining lifetime by less than 0.5% and 0.1%, respectively.
+The mean theoretical risk of radiation-induced cancer for a patient cohort subjected to step-and-shoot 256-slice TRO-CTA may be considered to be low compared with the intrinsic risk of developing cancer.

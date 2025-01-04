@@ -1,0 +1,2 @@
+Modelling shows that the pore size distribution of microporous carbons determined by NLDFT only hides relatively small variations of the surface-related capacitance C/S between 0.7 and 1.3 nm.
+F m(-2) for our typical carbons, including carbide-based samples.

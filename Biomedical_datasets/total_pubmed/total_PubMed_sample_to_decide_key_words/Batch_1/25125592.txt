@@ -1,0 +1,14 @@
+The aim of this study was to use whole transcriptome sequencing (RNA-Seq) of RA neutrophils to identify pre-therapy gene expression signatures that correlate with disease activity or response to TNF inhibitor (TNFi) therapy.
+Neutrophils were isolated from the venous blood of RA patients (n = 20) pre-TNFi therapy and from healthy controls (n = 6).
+RNA was poly(A) selected and sequenced on the Illumina HiSeq 2000 platform.
+Reads were mapped to the human genome (hg19) using TopHat and differential expression analysis was carried out using edgeR (5% false discovery rate).
+Signalling pathway analysis was carried out using Ingenuity Pathway Analysis (IPA) software.
+IFN signalling was confirmed by western blotting for phosphorylated signal transducer and activator of transcription (STAT) proteins.
+Response to TNFi was measured at 12 weeks using change in the 28-item DAS (DAS28).
+Pathway analysis with IPA predicted activation of IFN signalling in RA neutrophils, identifying 178 IFN-response genes regulated by IFN-α, IFN-β or IFN-γ (P < 0.01).
+IPA also predicted activation of STAT1, STAT2 and STAT3 transcription factors in RA neutrophils (P < 0.01), which was confirmed by western blotting.
+Expression of IFN-response genes was heterogeneous and patients could be categorized as IFN-high or IFN-low.
+Patients in the IFN-high group achieved a better response to TNFi therapy [ΔDAS28, P = 0.05, odds ratio (OR) 1.4 (95% CI 1.005, 1.950)] than patients in the IFN-low group.
+The level of expression of IFN-response genes (IFN score) predicted a good response [European League Against Rheumatism (EULAR) criteria] to TNFi using receiver operating characteristic curve analysis (area under the curve 0.76).
+IFN-response genes are significantly up-regulated in RA neutrophils compared with healthy controls.
+Higher IFN-response gene expression in RA neutrophils correlates with a good response to TNFi therapy.

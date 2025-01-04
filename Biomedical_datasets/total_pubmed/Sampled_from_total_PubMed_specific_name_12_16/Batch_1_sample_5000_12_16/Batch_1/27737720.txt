@@ -1,0 +1,17 @@
+Systematized Nomenclature of Medicine - Clinical Terms (SNOMED CT) has been designed as standard clinical terminology for annotating Electronic Health Records (EHRs).
+EHRs textual information is used to classify patients' diseases into an International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) category (usually by an expert).
+Improving the accuracy of classification is the main purpose of using ontologies and OWL representations at the core of classification systems.
+In the last few years some ontologies and OWL representations for representing ICD-10-CM categories have been developed.
+However, they were not designed to be the basis for an automatic classification tool nor do they model ICD-10-CM inclusion terms as Web Ontology Language (OWL) axioms, which enables automatic classification.
+In this context we have developed Dione, an OWL representation of ICD-10-CM.
+Dione is the first OWL representation of ICD-10-CM, which is logically consistent, whose axioms define the ICD-10-CM inclusion terms by means of a methodology based on SNOMED CT/ICD-10-CM mappings.
+The ICD-10-CM exclusions are handled with these mappings.
+Dione currently contains 391,669 classes, 391,720 entity annotation axioms and 11,795 owl:equivalentClass axioms which have been constructed using 104,646 relationships extracted from the SNOMED CT/ICD-10-CM and BioPortal mappings included in Dione using the owl:intersectionOf and the owl:someValuesFrom statements.
+The resulting OWL representation has been classified and its consistency tested with the ELK reasoner.
+We have also taken three clinical records from the Virgen de la Victoria Hospital (Málaga, Spain) which have been manually annotated using SNOMED CT.
+These annotations have been included as instances to be classified by the reasoner.
+The classified instances show that Dione could be a promising ICD-10-CM OWL representation to support the classification of patients' diseases.
+Dione is a first step towards the automatic classification of patients' diseases by using SNOMED CT annotations embedded in Electronic Health Records (EHRs).
+The purpose of Dione is to standardise and formalise a medical terminology, thereby enabling new kinds of tools and new sets of functionalities to be developed.
+This in turn assists health specialists by providing classified information from EHRs and enables the automatic annotation of patients' diseases with ICD-10-CM codes.
+Y: SNOMED CT, ICD-10-CM, BioPortal, Dione (No need to annotate, just for notice).

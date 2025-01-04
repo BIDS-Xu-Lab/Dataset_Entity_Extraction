@@ -1,0 +1,4 @@
+Visual patterns have widely varying contrasts and elicit local signals of varying reliability, ranging from noisy to relatively noise-free.
+One way to deal efficiently with the variable visual input is to employ flexible neural mechanisms that adapt to changing conditions.
+We investigated whether the spatial properties of motion mechanisms change with stimulus contrast and found that the optimal size for perceiving motion decreases with increasing contrast.
+These data were well-described by a model in which spatial summation increases with decreasing contrast.

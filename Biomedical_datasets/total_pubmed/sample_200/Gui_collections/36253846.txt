@@ -1,0 +1,11 @@
+Compared to the healthy population, the psychological impact of rheumatoid arthritis(RA) on patients' lives could dramatically lower their oral health-related quality of life (OHRQoL).
+Our goal is to analyze OHRQoL in RA patients and look into the role of disease activity, dental health index, and Temporomandibular disorders score in maintaining their oral health.
+In a cross-sectional comparative study, we compared a sample of 40 RA patients with 40 age- and gender-matched healthy controls in terms of oral health and OHRQoL. Temporomandibular disorders (TMD), number of decayed, filled, or missing teeth (DMFT), and Oral Health Impact Profile (OHIP) were among the oral health factors studied (OHIP-14).
+This study also looked at the link between the RA disease activity score (DAS28) and oral health factors.
+RA patients had a significantly higher mean (poorer OHRQol) than healthy controls in total oral function, total psychosocial impact, OHIP-14 sum score, OHIP-14 extent score, TMD score and the number of missed teeth (Mann-Whitney U test, P-value < 0.05).
+After adjustment for DMFT, only the oral function score of OHIP-14 had a significant correlation with disease activity (Mann-Whitney U test, P-value < 0.05).
+The TMD sum score significantly correlated with disease activity regardless of adjustment for DMFT (Spearman's Correlation test, P-value < 0.05 for both).
+The number of decayed teeth and missed teeth showed a positive correlation with increased disease activity (Coefficient = 0.239 and 0.245, P-value < 0.05 for both).
+Patients with RA are less satisfied with their oral health than healthy controls.
+In RA patients, the number of missing teeth and temporomandibular disorders was substantially greater, and the number of missing teeth and temporomandibular diseases increased significantly with increased disease activity.
+Although OHRQoL was inversely connected with RA activity, after correcting for decaying, missing, and filled teeth, only the oral function score of OHIP-14 exhibited a slight connection to DAS28.

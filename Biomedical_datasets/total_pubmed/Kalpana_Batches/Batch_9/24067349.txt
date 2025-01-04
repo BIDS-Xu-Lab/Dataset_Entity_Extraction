@@ -1,0 +1,9 @@
+The percentile distribution of blood pressure (BP) with regard to age, sex and cardiovascular risk factors is unknown.
+We aimed to provide epidemiological data for a comprehensive description of the BP distribution across a wide age-range.
+We used data from the German Metabolic and Cardiovascular Risk Project (GEMCAS), a cross-sectional study with 35 683 participants aged 18-99 years, conducted during October 2005 in 1511 randomly selected general practices in Germany.
+BP and waist circumference were measured, data on lifestyle, cardiovascular disease (CVD) risk factors and medication assessed.
+In men, we found even in the lowest percentile (5th) a gradual increase of the systolic BP from the lowest to the highest age group of 10 mm Hg, all other percentile groups an increase of 20 mm Hg.
+In women, this increase ranged from 15 mm Hg (5th percentile) to 40 mm Hg (95th percentile).
+In a subgroup of participants with no antihypertensive usage (n=22 550) and no CVD/CVD risk factors (n=13 297), we still observed a distinct age-related increase of BP readings.
+Our study provides detailed information on the population distribution of BP readings in both sexes and also among very old individuals.
+The results are useful in a public health context to plan gender-

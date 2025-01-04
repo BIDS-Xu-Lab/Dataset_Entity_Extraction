@@ -1,0 +1,12 @@
+We have previously demonstrated that, in C6 glioma cells, eicosapentaenoic acid (EPA) stimulates the expression of proteolipid protein (PLP) via cAMP-mediated pathways.
+In this study, we investigated whether n-3 polyunsaturated fatty acids can affect myelinogenesis in vivo.
+A single dose of either EPA or docosahexaenoic acid (DHA) was injected intracerebroventricularly into 2-day-old rats, which were then killed after 3 days post-injection (p.i.).
+Total RNA was isolated from the medulla, cerebellum, and cortex, and the expression of myelin-specific mRNAs was analyzed by real-time PCR.
+The levels of PLP, myelin basic protein, and myelin oligodendrocyte protein mRNAs increased in nearly all brain regions of DHA- and EPA-treated animals, but the effect was more pronounced in EPA-treated rats.
+The enhancement in PLP transcript levels was followed by an increase in PLP translation in EPA-treated rats.
+A further indicator of accelerated myelination was the increase in 2'-3'-cyclic nucleotide 3'-phosphodiesterase (CNPase) protein levels.
+In EPA-treated rats, the increased expression of myelin genes coincided with a decrease of cAMP-response element-binding protein (CREB)-DNA binding in the cerebellum and cortex (1 hr p.i.).
+After 16 hr, this effect was still present in the same cerebral regions even though the decrease in EPA-treated rats was less pronounced than in controls.
+The down-regulation of CREB activity was due to a decrease in the levels of CREB phosphorylation.
+In conclusion, our data suggest that EPA stimulates the expression of specific myelin proteins through decreased CREB phosphorylation.
+These results corroborate the clinical studies of the n-3 PUFA beneficial effects on several demyelinating diseases.

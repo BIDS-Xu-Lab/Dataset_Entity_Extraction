@@ -1,0 +1,14 @@
+Abnormal alveolar formation and excessive disordered elastin accumulation are key pathological features in bronchopulmonary dysplasia.
+Transforming growth factor (TGF)-β is an important regulator of the extracellular matrix in the developing lung.
+To determine if increased TGF-β would injure alveolar development by activating TGF-β signaling and by influencing the expression of elastogenesis-related protein, we performed intraperitoneal injection of newborn mice with the TGF-β-neutralizing antibody 1D11 and observed whether 1D11 had a protective role in the oxygen (O2)-exposed newborn mouse lung.
+The newborn mice were exposed to 85% O2 for 14 and 21 days.
+1D11 was administered by intraperitoneal injection every day from postnatal days 3 to 20.
+Alveolar morphology was assessed by hematoxylin and eosin staining.
+The expression and distribution of elastin were evaluated by immunohistochemistry.
+The level of TGF-β signaling-related proteins were measured by immunohistochemistry, enzyme-linked immunosorbent assay, and Western blot.
+The expression levels of elastogenesis-related proteins, including tropoelastin, fibulin-5, and neutrophil elastase (NE), which participate in the synthesis, assembly, and degradation of elastin, were detected by real-time PCR and Western blot.
+In this research, impaired alveolar development and elastin deposition as well as the excessive activation of TGF-β signaling were observed in the newborn mouse lung exposed to hyperoxia.
+1D11 improved alveolarization as well as the distribution of elastin in the newborn lung with hyperoxia exposure.
+The expression levels of tropoelastin, fibulin-5, and NE, which are important components of elastogenesis, were decreased by treatment with 1D11 in the injured newborn lung.
+These data demonstrate that 1D11 improved alveolarization by blocking the TGF-β signaling pathway and by reducing the abnormal expression of elastogenesis-related proteins in the O2-exposed newborn mouse lung.
+1D11 may become a new therapeutic method to prevent the development of bronchopulmonary dysplasia.

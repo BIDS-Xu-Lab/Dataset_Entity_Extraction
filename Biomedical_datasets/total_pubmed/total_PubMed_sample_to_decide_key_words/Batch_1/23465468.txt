@@ -1,0 +1,11 @@
+To describe therapist-reported factors affecting therapy sessions in spinal cord injury (SCI) inpatient rehabilitation and explore their impact on the patient's rehabilitation program.
+Data were obtained from systematic recordings of interventions by clinicians and from medical record abstraction.
+Patients (N=1376) with traumatic SCI admitted for initial rehabilitation.
+Factors recorded as impacting the objective or content of treatment sessions by physical therapy, occupational therapy, speech therapy, and therapeutic recreation, patients' participation in treatment as rated using a modified Pittsburgh Rehabilitation Participation Scale (PRPS), length of stay (LOS), medical morbidity measured using the Comprehensive Severity Index, hours of therapy per week, and missed therapy minutes.
+Patients received 151,172 treatment sessions from 483 therapists.
+; other medical, behavioral, and logistical factors were also frequent, with 30% of sessions being affected by at least 1 factor.
+The number of factors was correlated with missed therapy minutes and with the PRPS score.
+Patients with more reported factors, overall or per average session, had a longer LOS and fewer hours of treatment per week.
+Medical and other factors complicating therapy are common.
+Those who need a longer stay because of their injury level or for other reasons have more opportunity to have sessions affected, but having many treatment sessions impacted by 1 or more factors also is likely to increase LOS.
+The nature of these factors and their impact on rehabilitation processes and outcomes deserve further study.

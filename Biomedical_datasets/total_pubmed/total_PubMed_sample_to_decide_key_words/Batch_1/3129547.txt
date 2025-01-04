@@ -1,0 +1,8 @@
+Experiments were designed to study the interaction of rat peritoneal neutrophils with the vascular smooth muscle of the rat aorta.
+Rings of aorta, suspended in 10-ml organ chambers containing a physiologic salt solution, were precontracted with phenylephrine.
+Neutrophils (1 X 10(5) -4 X 10(7) cells/organ chamber) caused a cell number-dependent relaxation of the rat aorta that was augmented by superoxide dismutase (100 U/ml) or changing the oxygen content from 95 to 21%.
+The neutrophil-induced smooth muscle relaxation occurred in rings with and without endothelium and in rings precontracted with increasing concentrations of phenylephrine, prostaglandin F2 alpha or KCI.
+Catalase (1000 U/ml) and mannitol (1 X 10(-3) M) did not block the neutrophil-induced relaxation, whereas phenazine methosulfate (1 X 10(-5) M), hydroquinone (3 X 10(-5) M) and methylene blue (1 X 10(-5) M) reversed the neutrophil-induced relaxation.
+Pre-exposure of endothelium-rubbed rings to neutrophils (2 X 10(7) cells/organ chamber; 15 min) depressed the subsequent concentration-response curve to phenylephrine but augmented the relaxation induced by the phosphodiesterase inhibitor zaprinast (1 X 10(-5) M).
+The effluent from a column restraining the neutrophils induced a relaxation of endothelium-rubbed aortic rings that was prevented by methylene blue (1 X 10(-5) M).
+These results demonstrate that rat neutrophils release a factor that has a pharmacologic profile similar to that previously reported for the relaxing factor released from the vascular endothelium.

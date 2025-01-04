@@ -1,0 +1,7 @@
+Although pain was previously not considered an important element of multiple sclerosis (MS), recent evidence indicates that over 50% of MS patients suffer from chronic pain.
+In the present study, we utilized the Theiler's murine encephalomyelitis virus (TMEV) model of MS to examine whether changes in nociception occur during disease progression and to investigate whether sex influences the development of nociception or disease-associated neurological symptoms.
+Using the rotarod assay, TMEV infected male mice displayed increased neurological deficits when compared to TMEV infected female mice, which mimics what is observed in human MS.
+While both male and female TMEV infected mice exhibited thermal hyperalgesia and mechanical allodynia, female mice developed mechanical allodynia at a faster rate and displayed significantly more mechanical allodynia than male mice.
+Since neuropathic symptoms have been described in MS patients, we quantified sensory nerve fibers in the epidermis of TMEV-infected and non-infected mice to determine if there were alterations in epidermal nerve density.
+There was a significantly higher density of PGP9.5 and CGRP-immunoreactive axons in the epidermis of TMEV-infected mice versus controls.
+Collectively these results indicate that the TMEV model is well suited to study the mechanisms of MS-induced nociception and suggest that alterations in peripheral nerve innervation may contribute to MS pain.

@@ -1,0 +1,20 @@
+Human brain organoids are a valuable research tool for studying brain development, physiology, and pathology.
+Yet, a host of potential ethical concerns are inherent in their creation.
+There is a growing group of bioethicists who acknowledge the moral imperative to develop brain organoid technologies and call for caution in this research.
+Although a relatively new technology, brain organoids and their uses are already being discussed in media literature.
+Media literature informs the public and policymakers but has the potential for utopian or dystopian distortions.
+Thus, it is important to understand how this technology is portrayed to the public.
+To investigate how brain organoids are displayed to the public, we conducted a systematic review of media literature indexed in the Nexis Uni database from 2013-2019.
+News and media source articles passing exclusion criteria (n = 93) were scored to evaluate tone and relevant themes.
+Themes were validated with a pilot sample before being applied to the dataset.
+Thematic analysis assessed article tone, reported potential for the technology, and the scientific, social, and ethical contexts surrounding brain organoids research.
+Brain organoid publications became more frequent from 2013 to 2019.
+We observed increases in positively and negatively toned articles, suggesting growing polarization.
+While many sources discuss realistic applications of brain organoids, others suggest treatment and cures beyond the scope of the current technology.
+This could work to overhype the technology and disillusion patients and families by offering false hope.
+In the ethical narrative we observe a preoccupation with issues such as development of artificial consciousness and "humanization" of organoid-animal chimeras.
+Issues of regulation, ownership, and accuracy of the organoid models are rarely discussed.
+Given the power that media have to inform or misinform the public, it is important this literature provides an accurate and balanced reflection of the therapeutic potential and associated ethical issues regarding brain organoid research.
+Our study suggests increasing polarization, coupled with misplaced and unfounded ethical concern.
+Given the inhibitory effects of public fear or disillusion on research funding, it is important media literature provides an accurate reflection of brain organoids.
+Y: Nexis Uni database (No need to annotate, just for notice).

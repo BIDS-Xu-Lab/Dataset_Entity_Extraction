@@ -1,0 +1,11 @@
+It is unclear whether non-high-density lipoprotein cholesterol (Non-HDL-C) is associated with haemorrhagic transformation (HT) after acute ischaemic stroke (AIS).
+We aimed to explore the association between Non-HDL-C and HT, as well as compare the predictive values of Non-HDL-C and low-density lipoprotein cholesterol (LDL-C) for HT.
+We consecutively enrolled AIS patients within 7 days of stroke onset.
+Participants were divided into four categories according to quartiles of Non-HDL-C. HT was assessed by follow-up brain imaging.
+We assessed the association between Non-HDL-C, LDL-C and HT in multivariate logistic regression analysis.
+A total of 2043 patients were included, among whom 232 were identified as HT.
+[95% CI 1.10-2.83], respectively, P for trend = 0.024).
+Similar results were found for LDL-C. There was significant interaction between Non-HDL-C and age (P for interaction = 0.021).
+The addition of Non-HDL-C and LDL-C to conventional factors significantly improved predictive values [Non-HDL-C, net reclassification index (NRI) 0.24, 95%CI 0.17-0.31, P < 0.001; LDL-C, NRI 0.15, 95%CI 0.08-0.22, P = 0.03].
+Low Non-HDL-C was associated with increased risks of HT.
+In addition, Non-HDL-C has similar effects as LDL-C for predicting HT.

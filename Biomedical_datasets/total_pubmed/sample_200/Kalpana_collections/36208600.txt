@@ -1,0 +1,11 @@
+The effect of the endophytic Cupriavidus taiwanensis KKU2500-3 on the Cd toxicity of KDML105 rice seedlings was investigated in a 10 μM CdCl2 hydroponic system.
+As demonstrated after bacterial inoculation of germinating rice seeds, KKU2500-3 colonized all rice plant parts.
+In RB (Rice + KKU2500-3) and RBC (Rice + KKU2500-3+Cd), KKU2500-3 effectively colonized and was detected at a markedly higher number in the root surface and interior than in shoots and leaves.
+The activities of antioxidant enzymes ascorbate peroxidase (APOX), glutathione reductase (GR), and superoxide dismutase (SOD) and the proline content in inoculated rice were higher in roots and aboveground tissues.
+RBC exhibited a higher reduced-to-oxidized glutathione ratio in roots and leaves (3-55%) but a lower malondialdehyde content (8-78%).
+Phytochelatins (PCs) were detected in all rice tissues, but their levels in RBC were 13-70% lower than those in RC (Rice + Cd), demonstrating that the induction of PCs in rice was unrelated to KKU2500-3.
+The Cd levels in roots and shoots were lower in RBC than RC, and the root-to-shoot Cd translocation factor was 0.6-62.2% lower.
+At 30 DAT, the Cd levels in RBC roots and shoots were 30.2% and 73.7% lower, respectively, than those in RC.
+Colonized KKU2500-3 activated GR and increased the proline content to overcome rice Cd toxicity.
+These effects may trap Cd in plant cells and reduce its translocation.
+Hence, KKU2500-3 synergistically interacts with rice to detoxify Cd at early growth stages, and KDML105 rice grains with low Cd accumulation could be produced if this interaction is maintained until late growth stages.

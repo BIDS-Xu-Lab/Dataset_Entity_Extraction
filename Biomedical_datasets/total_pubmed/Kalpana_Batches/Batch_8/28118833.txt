@@ -1,0 +1,12 @@
+The aim of this study was to assess the psychometric properties, namely acceptability, validity, reliability, interpretability and responsiveness of the EuroQol EQ-5D (EQ-5D visual analogue (VAS) and EQ-5D (utility)), Short Form 12 Dimensions (SF-12), SF-6D and Michigan Hand Outcome Questionnaire (MHQ) in patients with rheumatoid arthritis (RA) of the hand.
+The empirical investigation was based upon data from a randomised controlled trial of 488 adults with rheumatoid arthritis who had pain and dysfunction of the hands and/or wrists.
+Participants completed the EQ-5D, SF-12 and MHQ at baseline and at 4 and 12 months follow up.
+Acceptability was measured using completion rates over time; construct validity using the "known groups" approach, based on pain troublesomeness; convergent validity using spearman's rho correlation (ρ);
+reliability using internal consistency (Cronbach's alpha); interpretability using minimal important differences (MID); and responsiveness using effect sizes and standardised response means (SRM) stratified by level of self-rated improvement in hand and wrist function or level of self-rated benefit and satisfaction from trial treatments.
+At baseline, the study population had a mean age of 62.4 years, a mean MHQ score of 52.1 and included 76% women.
+The EQ-5D (utility) had the highest completion rates across time points.
+All instruments discriminated between pre-specified groups based on pain troublesomeness.
+Convergent validity analysis indicated that the MHQ score correlated strongly with the EQ-5D (ρ = 0.65) and SF-6D (ρ = 0.63) utility scores.
+The MHQ was most responsive at detecting change in indicators of RA pain severity between baseline and 4 months, whilst minimal important differences varied considerably across PROMs.
+The instruments evaluated in this study displayed varying psychometric properties in the context of RA of the hand.
+The selection of a preferred instrument in evaluative studies should ultimately depend on the relative importance placed on individual psychometric properties and the importance placed on generation of health utilities for economic evaluation purposes.

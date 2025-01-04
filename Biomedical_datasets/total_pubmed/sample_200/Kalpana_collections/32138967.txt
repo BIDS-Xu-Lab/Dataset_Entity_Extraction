@@ -1,0 +1,7 @@
+Percutaneous coronary intervention with a drug-eluting stent is the most common mode of revascularization for coronary artery disease.
+Non-stent-based local drug delivery by a drug-coated balloon (DCB) has been investigated, as it leaves no metallic mesh.
+A DCB consists of a semicompliant balloon coated with antiproliferative agents encapsulated in a polymer matrix, which is released into the wall after inflation and contact with the intima.
+DCB have demonstrated effectiveness in treating in-stent restenosis.
+Clinical studies using DCB in de novo coronary artery disease have shown mixed results, with a major benefit in small-vessel disease.
+Differences in study results are not only due to variations in DCB technology but also to disparity in procedural approach, "leave nothing behind" or "combination therapy," and vessel size.
+This review focuses on the available evidence from randomized trials and proposes a design for future clinical trials.

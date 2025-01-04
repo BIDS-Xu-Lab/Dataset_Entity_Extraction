@@ -1,0 +1,16 @@
+Analysis of multi-institutional data and benchmarking is an accepted accreditation standard in cardiac surgery.
+Such a database does not exist for congenital cardiac surgery in Australia and New Zealand (ANZ).
+To fill this gap, the ANZ Congenital Outcomes Registry for Surgery (ANZCORS) was established in 2017.
+Inclusion criteria included all cardiothoracic and extracorporeal membrane oxygenation (ECMO) procedures performed at five participating centres.
+Data was collected by data managers, validated by the surgical team, and securely transmitted to a central repository.
+Between 2015 and 2019, 9723 procedures were performed in 7003 patients.
+Cardiopulmonary bypass was utilized for 59% and 9% were ECMO procedures.
+Fifty-seven percent (n = 5531) of the procedures were performed in children younger than 1 year of age.
+Twenty-four percent of procedures (n = 2365) were performed in neonates (≤28 days) and 33% (n = 3166) were performed in children aged 29 days to 1 year (infants).
+The 30-day mortality for cardiac cases (n = 6572) was 1.3% and there was no statistical difference between the participating centres (P = 0.491).
+Sixty-nine percent of cases had no major post-operative complications (5121/7456).
+For cardiopulmonary bypass procedures (n = 5774), median stay in intensive care and hospital was 2 days (IQR 1, 4) and 9 days (IQR 5, 18), respectively.
+ANZCORS has facilitated pooled data analysis for paediatric cardiac surgery across ANZ for the first time.
+Non-risk-adjusted 30-day mortality for individual procedures was similar in all units.
+The continued evaluation of surgical outcomes through ANZCORS will drive quality assessment in paediatric cardiac surgery across ANZ.
+Y: ANZ Congenital Outcomes Registry for Surgery (ANZCORS) (No need to annotate, just for notice).

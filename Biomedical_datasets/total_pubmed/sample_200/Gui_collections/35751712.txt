@@ -1,0 +1,9 @@
+An efficient siderophore producing strain, YQ9, was isolated from heavy metal contaminated soil and identified as Burkholderia vietnamiensis.
+To the best of our known, the strain owns the highest siderophore producing capacity among genus Burkholderia with 96.6% siderophore unit.
+Moreover, B. vietnamiensis YQ9 has good adaptability to different pH values, temperatures, NaCl, and Fe3+ concentrations.
+In addition, the minimum inhibitory concentration (MIC) of heavy metals and antibiotics were also tested.
+It was found that the MIC values of strain YQ9 to several major soil heavy metal pollutants, such as Pb2+, Zn2+, Cu2+, and Cd2+ reached 3000, 5000, 4500, and 1000 μmol·L-1, respectively.
+And YQ9 was sensitive to 4 of 8 test antibiotics, including rifampicin, kanamycin, doxycycline hyclate, and gentamicin (25, 25, 30, and 30 μg·mL-1, respectively).
+Strain YQ9 also owns the ability to produce indole-3-acetic acid (IAA) and 1-aminocyclopropane-1-carboxylic acid (ACC) deaminase and dissolve phosphorus.
+The IAA production capacity was 6.93 mg·L-1, the ACC deaminase activity was 8.71 μmol α-KA·(h·mg)-1, and the phosphorus dissolving capacity of YQ9 was 104.05 mg·L-1.
+The traits were excellent, and the strain was qualified as a candidate for microbial reinforcement of phytoremediation in soil contaminated by heavy metals.

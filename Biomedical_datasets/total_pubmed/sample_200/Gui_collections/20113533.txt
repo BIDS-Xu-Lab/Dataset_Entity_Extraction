@@ -1,0 +1,9 @@
+Many microbial pathogens subvert proteoglycans for their adhesion to host tissues, invasion of host cells, infection of neighbouring cells, dissemination into the systemic circulation, and evasion of host defence mechanisms.
+Where studied, specific virulence factors mediate these proteoglycan-pathogen interactions, which are thus thought to affect the onset, progression and outcome of infection.
+Proteoglycans are composites of glycosaminoglycan (GAG) chains attached covalently to specific core proteins.
+Proteoglycans are expressed ubiquitously on the cell surface, in intracellular compartments, and in the extracellular matrix.
+GAGs mediate the majority of ligand-binding activities of proteoglycans, and many microbial pathogens elaborate cell-surface and secreted factors that interact with GAGs.
+Some pathogens also modulate the expression and function of proteoglycans through known virulence factors.
+Several GAG-binding pathogens can no longer attach to and invade host cells whose GAG expression has been reduced by mutagenesis or enzymatic treatment.
+Furthermore, GAG antagonists have been shown to inhibit microbial attachment and host cell entry in vitro and reduce virulence in vivo.
+Together, these observations underscore the biological significance of proteoglycan-pathogen interactions in infectious diseases.

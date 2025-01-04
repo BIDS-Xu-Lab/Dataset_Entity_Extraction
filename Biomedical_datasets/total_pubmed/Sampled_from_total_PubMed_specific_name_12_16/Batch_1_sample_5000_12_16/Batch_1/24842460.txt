@@ -1,0 +1,10 @@
+Neighborhood research has increasingly emphasized the potential for contextual characteristics to moderate the effects of youths' experiences on their outcomes.
+Drawing on collective efficacy theory, we examine the variable consequences of youths' exposures to life-threatening violence across neighborhoods.
+We argue that strong community normative orientations supporting the control of violence diminish the negative effect of exposure to severe violence on subsequent mental health among urban youth.
+We also consider the extent to which the consequences of exposure to violence vary by gender.
+Employing data from the Project on Human Development in Chicago Neighborhoods, we estimate a series of multivariate, multilevel linear models of internalizing and externalizing symptoms.
+Results indicate that, for girls, exposure to life-threatening violence (witnessing someone being attacked with a weapon or shot) increases both internalizing and externalizing symptoms.
+However, this effect achieves statistical significance only for girls who reside in neighborhoods with lower collective efficacy.
+For boys, our analyses offered weaker evidence of violence exposure effects on mental health.
+Implications for research on the social context of mental health are discussed.
+Y: Project on Human Development in Chicago Neighborhoods (No need to annotate, just for notice).

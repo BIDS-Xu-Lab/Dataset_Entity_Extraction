@@ -1,0 +1,4 @@
+The design and implementation is described of MultiLink, a desktop system for direct enduser access to remote bibliographic information.
+The system is an application of a client-server technique based on a campuswide network, with the objective to assist end-users to accomplish the information--retrieval process by capturing knowledge and expertise for searches in query formulations.
+MultiLink, via intelligent interfaces, allows users to access several dozens of bibliographic databases.
+The application integrates regional, national and international resources, and brings library services to the user's desktop level.

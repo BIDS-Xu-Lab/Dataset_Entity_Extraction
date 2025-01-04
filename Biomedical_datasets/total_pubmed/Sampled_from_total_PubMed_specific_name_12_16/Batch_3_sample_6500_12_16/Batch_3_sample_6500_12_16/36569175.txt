@@ -1,0 +1,8 @@
+Many researchers around the world are working to reach a general framework to provide solutions for COVID-19 in different ways.
+From our economic and business orientation, "Health, Longevity, Infrastructure and Competitiveness" are presented in this paper as the Four Horsemen of COVID-19.
+Our aim is to analyse the relationship between these proposed four factors and their influence on COVID-19.
+Using the Global Competitive Index (GCI), Health Systems in Transition (HiT) and the System of Health Accounts (SHA), we complete a database for a total of 28 countries of the European Union, including the United Kingdom and using variables related to the environment of each region (competitiveness, security, infrastructure, population and health system).
+Our study is focused on a descriptive analysis and a binary logistic model (logit), trying to distinguish between countries with more and less incidence of COVID-19.
+According to the results, the presence of these four factors - which are desirables for any country - implies a greater transmission of the virus in these regions.
+However, a higher annual expenditure in the health system is related to a lower incidence of COVID-19.
+Y Global Competitive Index (GCI), Health Systems in Transition (HiT), System of Health Accounts (SHA) (No need to annotate, just for notice).

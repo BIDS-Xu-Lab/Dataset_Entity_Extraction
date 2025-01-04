@@ -1,0 +1,11 @@
+Road and sidewalk detection in urban scenarios is a challenging task because of the road imperfections and high sensor data bandwidth.
+Traditional free space and ground filter algorithms are not sensitive enough for small height differences.
+Camera-based or sensor-fusion solutions are widely used to classify drivable road from sidewalk or pavement.
+A LIDAR sensor contains all the necessary information from which the feature extraction can be done.
+Therefore, this paper focuses on LIDAR-based feature extraction.
+For road and sidewalk detection, the current paper presents a real-time (20 Hz+) solution.
+This solution can also be used for local path planning.
+Sidewalk edge detection is the combination of three algorithms working parallelly.
+To validate the result, the de facto standard benchmark dataset, KITTI, was used alongside our measurements.
+The data and the source code to reproduce the results are shared publicly on our GitHub repository.
+Y: KITTI, GitHub (No need to annotate, just for notice).

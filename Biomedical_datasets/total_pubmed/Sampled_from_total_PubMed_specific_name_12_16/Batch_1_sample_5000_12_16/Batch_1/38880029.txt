@@ -1,0 +1,17 @@
+This study aimed to investigate the factors contributing to the variability of Multiple Sclerosis (MS) among individuals born and residing in France.
+Geographical variation in MS prevalence was observed in France, but the role of genetic and environmental factors in explaining this heterogeneity has not been yet elucidated.
+We employed a heritability analysis on a cohort of 403 trios with an MS-affected proband in the French population.
+This sample was retrieved from REFGENSEP register of MS cases collected in 23 French hospital centers from 1992 to 2017.
+Our objective was to quantify the proportion of MS liability variability explained by genetic variability, sex, shared environment effects, region of birth and year of birth.
+We further considered gene x environment (GxE) interaction effects between genetic variability and region of birth.
+We have implemented a Bayesian liability threshold model to obtain posterior distributions for the parameters of interest adjusting for ascertainment bias.
+Our analysis revealed that GxE interaction effects between genetic variability and region of birth represent the primary significant explanatory factor for MS liability variability in French individuals (29 %
+[95 %CI: 5 %; 53 %]), suggesting that additive genetic effects are modified by environmental factors associated to the region of birth.
+The individual contributions of genetic variability and region of birth explained, respectively, ≈15 % and ≈16 % of MS variability, highlighting a significantly higher MS liability in individuals born in the Northern regions compared to the Southern region.
+Overall, the joint contribution of genetic variability, region of birth, and their interaction was then estimated to explain 65 %
+[95 %CI: 35 %; 92 %] of MS liability variability.
+The remaining proportion of MS variability is attributed to environmental exposures associated with the year of birth, shared within the same household, and specific to individuals.
+Overall, our analysis highlighted the interaction between genetic variability and environmental exposures linked to the region of birth as the main factor explaining MS variability within individuals born and residing in France.
+Among the environmental exposures prevalent in the Northern regions, and potentially interacting with genetic variability, lower vitamin D levels due to reduced sun exposure, higher obesity prevalence and higher pollution levels represent the main risk factors in influencing MS risk.
+These findings emphasize the importance of accounting for environmental factors linked to geographical location in the investigation of MS risk factors, as well as to further explore the influence of GxE interactions in modifying genetic risk.
+Y and REFGENSEP register (No need to annotate, just for notice).

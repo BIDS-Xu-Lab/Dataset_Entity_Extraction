@@ -1,0 +1,8 @@
+Manganese-based compounds, especially manganese oxides, are one of the most exceptional electrode materials.
+Specifically, manganese oxides have gained significant interest owing to their unique crystal structures, high theoretical capacity, abundant natural availability and eco-friendly nature.
+However, as transition metal semiconductors, manganese oxide possess low electrical conductivity, limited rate capacity, and suboptical cycle stability.
+Thus, combining manganese oxides with carbon or other metallic materials can significantly improve their electrochemical performance.
+These composites increase active sites and conductivity, thereby improving electrode reaction kinetics, cycle stability, and lifespan of supercapacitors (SCs) and batteries.
+This paper reviews the latest applications of Mn-based cathodes in SCs and advanced batteries.
+Moreover, the energy storage mechanisms were also proposed.
+In this review, the development prospects and challenges for advanced energy storage applications of Mn-based cathodes are summarized.

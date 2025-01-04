@@ -1,0 +1,7 @@
+Despite a close relationship between the childrens' anthropometric status and mortality rates, the highest mortality rates are concentrated in sub-Saharan Africa, while the lowest anthropometric indicators, in particular the height-for-age z-scores, are concentrated in South Asia.
+This discrepancy should, however, be expected to decrease when one accounts for the survivorship bias, i.e. selective mortality.
+We analyse whether the survivorship bias can explain these observed differences in three standard anthropometric indicators (stunting, underweight and wasting) by using individual data of children from six waves of Demographic and Health Surveys for a large cross-section of 37 low- and middle-income countries between 1991 and 2016.
+We use both a matching approach and semi-parametric regression to estimate the values for the anthropometric status of deceased children.
+The results are twofold: first, both methods reveal that the imputed values for the anthropometric indicators are, on average, between 0.10 and 0.25 standard deviations lower than the observed anthropometric indicators.
+Second, since the share of deceased children in our sample is below ten per cent, the contribution of the anthropometric status of deceased children to overall anthropometric indicators is small and therefore only influences it marginally.
+Y - Demographic and Health Surveys (No need to annotate, just for notice).

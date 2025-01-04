@@ -1,0 +1,9 @@
+The aim of this study was to measure the level of serum complement lq(Clq) and anti-C1q antibodies (ClqAb) in pediatric systemic lupus erythematosus (PSLE), and then analyze the correlation between the levels of serum Clq and ClqAb with disease activity and kidney damage.
+We investigated 90 PSLE patients, including 43 patients in active stage and 47 patients in remission.
+Our results showed that the level of serum Clq of PSLE patients was significantly lower than the level of healthy children and children with other rheumatic diseases.
+In contrast, the level of ClqAb of PSLE patients was significantly higher than the other groups.
+The level of serum Clq was negatively correlated with systemic lupus erythematosus (SLE) disease active index (SLEDAI) and the level of ClqAb was positively correlated with SLEDAI and kidney damage.
+The sensitivity of using ClqAb levels to diagnose PSLE was 95.6% and the specificity was 97.5%.
+93.0% SLE patients who had high C1qAb levels also showed kidney damage.
+Therefore, the levels of C1q and C1qAb in serum reflect the disease severity of SLE.
+Decreased Clq and increased C1qAb is closely correlated with lupus nephritis (LN) in children and may have diagnosis values for child LN.

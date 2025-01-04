@@ -1,0 +1,6 @@
+A convenient method is described for the intracistronic mapping of genetic sites responsible for electrophoretic variation of a specific protein in Drosophila melanogaster.
+A number of wild-type isoalleles of the rosy locus have been isolated which are associated with the production of electrophoretically distinguishable xanthine dehydrogenases.
+Large-scale recombination experiments were carried out involving null enzyme mutants induced on electrophoretically distinct wild-type isoalleles, the genetic basis for which is followed as a nonselective marker in the cross.
+Additionally, a large-scale recombination experiment was carried out involving null enzyme rosy mutants induced on the same wild-type isoallele.
+Examination of the electrophoretic character of crossover and convertant products recovered from the latter experiment revealed that all exhibited the same parental electrophoretic character.
+In addition to documenting the stability of the xanthine dehydrogenase electrophoretic character, this observation argues against a special mutagenesis hypothesis to explain conversions resulting from allele recombination studies.

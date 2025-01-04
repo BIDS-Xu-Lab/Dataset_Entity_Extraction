@@ -1,0 +1,13 @@
+Transcription factor MafB regulates differentiation and activity of monocytes/macrophage and is associated with the development of atherosclerosis and cancers.
+However, the role of MafB in modulation of CD14+ monocytes in chronic viral hepatitis was not fully elucidated.
+Thus, the aim of current study was to investigate the immunoregulatory function of MafB to type I interferon (IFN) secretion by CD14+ monocytes and its contribution to pathogenesis of chronic hepatitis C virus (HCV) infection.
+A total of 29 chronic hepatitis C patients and 21 healthy individuals were enrolled.
+Serum IFN-α1 and IFN-β was measured by ELISA, while MafB mRNA and protein expression were assessed by real-time PCR and Western blot.
+MafB siRNA or MafB expression plasmid was transfected into purified CD14+ monocytes to suppress or increase MafB expression.
+The function of MafB siRNA transfected CD14+ monocytes to HCV in cell culture (HCVcc)-infected Huh7.5 cells or CD4+ T cells was also investigated in direct and indirect contact co-culture system.
+Serum IFN-α1 and IFN-β was robustly reduced in chronic hepatitis C patients.
+By contrast, MafB was notably elevated in chronic hepatitis C patients and negatively correlated with serum IFN-α1.
+Overexpression of MafB reduced the IFN-α1 production by CD14+ monocytes from healthy individuals.
+However, MafB inhibition elevated IFN-α1 secretion by CD14+ monocytes and interferon regulatory factor 3 phosphorylation in chronic hepatitis C. MafB inhibition also promoted CD14+ monocytes-induced viral clearance in HCVcc-infected Huh7.5 cells by up-regulation of IFN-α1 and IFN-β without increasingly destroying hepatocytes, however, did not affect CD14+ monocytes-induced CD4+ T cells differentiation in chronic hepatitis C patients.
+The current data revealed that overexpression of MafB in chronic hepatitis C patients might suppress type I IFN production by CD14+ monocytes, leading to the viral persistence.
+MafB might be a potential therapeutic target for treatment of chronic hepatitis C.

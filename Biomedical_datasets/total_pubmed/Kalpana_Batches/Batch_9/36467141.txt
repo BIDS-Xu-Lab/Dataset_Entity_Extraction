@@ -1,0 +1,8 @@
+Musicians experience varying degrees of togetherness with their co-performers when playing in ensembles.
+However, little is known about how togetherness is experienced by audiences and how interpersonal dynamics in body motion and sound support the judgment of togetherness.
+This research investigates audience sensitivity to audio and visual markers of interperformer coordination and expressivity in ensembles, in relation to modality of stimulus presentation and audience music background.
+A set of duo ensemble performances, comprising motion capture recordings of the musicians' upper bodies and instruments, were presented to participants with varying music background, including novices and semi-professional musicians.
+Participants were required to: (i) watch and listen, (ii) only watch, and (iii) only listen to the selected recordings, whilst providing dynamic ratings of how much togetherness between musicians they perceived.
+Results demonstrate that sound intensity and similarity in right arm motion (quantified using cross-wavelet transform analysis) were significant predictors of rated togetherness in novices, whilst sound synchronization and chest motion coordination predicted togetherness responses in semi-professional musicians.
+These results suggest the relevance of the quality of body motion coordination and of certain features of the audio outputs in the audience perception of togetherness.
+This research contributes to a better understanding of the perceptual mechanisms supporting socio-cognitive judgments of joint action activities.

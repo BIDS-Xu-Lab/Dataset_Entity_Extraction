@@ -1,0 +1,13 @@
+Although depression is a risk and prognostic factor for cardiovascular disease (CVD), clinical trials treating depression in patients with CVD have not demonstrated cardiovascular benefits.
+We proposed a novel explanation for the null results for CVD-related outcomes: the late timing of depression treatment in the natural history of CVD.
+Our objective was to determine whether successful depression treatment before, versus after, clinical CVD onset reduces CVD risk in depression.
+We conducted a single-center, parallel-group, assessor-blinded randomized controlled trial.
+Primary care patients with depression and elevated CVD risk from a safety net healthcare system (N = 216, Mage = 59 years, 78% female, 50% Black, 46% with income <$10,000/year) were randomized to 12 months of the eIMPACT intervention (modernized collaborative care involving internet cognitive-behavioral therapy [CBT], telephonic CBT, and/or select antidepressants) or usual primary care for depression (primary care providers supported by embedded behavioral health clinicians and psychiatrists).
+Outcomes were depressive symptoms and CVD risk biomarkers at 12 months.
+Intervention participants, versus usual care participants, exhibited moderate-to-large (Hedges' g = -0.65, p < 0.01) improvements in depressive symptoms.
+Clinical response data yielded similar results - 43% of intervention participants, versus 17% of usual care participants, had a ≥ 50% reduction in depressive symptoms (OR = 3.73, 95% CI: 1.93-7.21, p < 0.01).
+However, no treatment group differences were observed for the CVD risk biomarkers - i.e., brachial flow-mediated dilation, high-frequency heart rate variability, interleukin-6, high-sensitivity C-reactive protein, β-thromboglobulin, and platelet factor 4 (Hedges' gs = -0.23 to 0.02, ps ≥ 0.09).
+Our modernized collaborative care intervention - which harnessed technology to maximize access and minimize resources - produced clinically meaningful improvements in depressive symptoms.
+However, successful depression treatment did not lower CVD risk biomarkers.
+Our findings indicate that depression treatment alone may not be sufficient to reduce the excess CVD risk of people with depression and that alternative approaches are needed.
+In addition, our effective intervention highlights the utility of eHealth interventions and centralized, remote treatment delivery in safety net clinical settings and could inform contemporary integrated care approaches.

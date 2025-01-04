@@ -1,0 +1,6 @@
+Growth is characterized by the interplay between cell division and cell expansion, two processes that occur separated along the growth zone at the maize leaf.
+To gain further insight into the transition between cell division and cell expansion, conditions were investigated in which the position of this transition zone was positively or negatively affected.
+High levels of gibberellic acid (GA) in plants overexpressing the GA biosynthesis gene GA20-OXIDASE (GA20OX-1OE ) shifted the transition zone more distally, whereas mild drought, which is associated with lowered GA biosynthesis, resulted in a more basal positioning.
+However, the increased levels of GA in the GA20OX-1OE line were insufficient to convey tolerance to the mild drought treatment, indicating that another mechanism in addition to lowered GA levels is restricting growth during drought.
+Transcriptome analysis with high spatial resolution indicated that mild drought specifically induces a reprogramming of transcriptional regulation in the division zone.
+'Leaf Growth Viewer' was developed as an online searchable tool containing the high-resolution data.

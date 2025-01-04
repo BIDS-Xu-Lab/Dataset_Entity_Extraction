@@ -1,0 +1,17 @@
+Cancer/testis antigens (CTAs) are a large family of tumor-associated antigens expressed in human tumors of different histological origin, but not in normal tissues, with the exception of the testes and placenta.
+Numerous immunohistochemical studies have reported associations between CTA expression and a negative estrogen receptor (ER) status in breast tumors, and demonstrated that CTAs are frequently expressed in tumors with higher nuclear grade.
+The expression of CTAs has not been studied as extensively in ductal carcinoma in situ (DCIS) as it has been in invasive breast cancer.
+The present retrospective study included archived paraffin-embedded specimens from 83 patients diagnosed with DCIS in the period between January 2007 and December 2014.
+The follow-up time for local recurrence ranged between 1 and 8 years (mean, 5.02 years).
+Antigens from the melanoma-associated antigen gene (MAGE) family, namely multi-MAGE-A, MAGE-A1, MAGE-A10 and New York esophageal squamous cell carcinoma 1 (NY-ESO-1) antigen, were evaluated by immunostaining and their subcellular location was investigated.
+Presence of tumor-infiltrating lymphocytes (TILs) was evaluated on all sections, together with the histopathological variables of DCIS.
+Specific tested antigens exhibited associations with histopathological parameters for DCIS and all demonstrated statistically significant associations with nuclear staining, simultaneous cytoplasmic and nuclear staining, and local recurrence.
+Antigen MAGE-A10 demonstrated a significant association with higher expression of ER (P=0.005) and higher tumor nuclear grade (P=0.001), cytoplasmic staining (P=0.029) and antigen NY-ESO-1 with higher tumor size (P=0.001), expression of TILs (P=0.001) and R1 resection (P=0.001).
+A χ2 test revealed significant associations between simultaneous cytoplasmic and nuclear staining and local recurrence (P=0.005), central necrosis (P=0.016), and the expression of ER (P=0.003) and progesterone receptor (PR) (P=0.010).
+Additional analysis revealed an association between antigen MAGE-A10 and TILs (P=0.05).
+Additional analysis of TILs indicated that they were significantly associated with tumor grade (P=0.023), central necrosis (P<0.001), ER (P=0.003) and PR (P=0.029).
+Overall, CTAs from the MAGE family (MAGE-A1, multi-MAGE-A and MAGE-A10) and NY-ESO-1 associate with histopathological predictive variables of DCIS.
+The expression of antigens NY-ESO-1 and MAGE-A10 could serve an important role in the treatment of patients with negative histopathological predictive variables, but further analysis is required.
+Simultaneous cytoplasmic and nuclear protein expression of MAGE-A family and NY-ESO-1 CTAs may represent an independent marker for local recurrence.
+Taken together, the present data suggest that CTAs are not perfect indicators of invasiveness for DCIS, but could inform treatment strategies for patients when taken in combination with other histopathological predictive variables.
+However, this was a small study and further larger studies will be necessary to confirm the current findings.

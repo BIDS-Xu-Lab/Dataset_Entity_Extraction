@@ -1,0 +1,14 @@
+Numerous proposed surgical techniques have had minimal success in managing greater trochanter overgrowth secondary to retarded growth of the femoral capital epiphysis.
+For reconstruction of residual hip deformities, a novel type of proximal femur L-osteotomy was performed with satisfactory results.
+Although the clinical outcome was good, the biomechanical characteristics of the femur after such an osteotomy have not been clearly elucidated.
+Therefore, this study presents a three dimensional finite element analysis designed to understand the mechanical characteristics of the femur after the L-osteotomy.
+A patient with left hip dysplasia was recruited as the study model for L-osteotomy.
+The normal right hip was used as a reference for performing the corrective surgery.
+Four FEA models were constructed using different numbers of fixation screws but the same osteotomy lengths together with four FEA models with the same number of fixation screws but different osteotomy lengths.
+The von Mises stress distributions and femoral head displacements were analyzed and compared.
+The results revealed the following: 1).
+The fixation devices (plate and screws) sustained most of the external loading, and the peak value of von Mises stress on the fixation screws decreased with an increasing number of screws.
+Additional screws are more beneficial on the proximal segment than on the distal segment for improving the stability of the postoperative femur.
+The extent of osteotomy should be limited because local stress might be concentrated in the femoral neck region with increasing length of the L-osteotomy.
+Additional screw placement on the proximal segment improves stability in the postoperative femur.
+The cobra-type plate with additional screw holes in the proximal area might improve the effectiveness of L-osteotomies.

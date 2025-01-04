@@ -1,0 +1,13 @@
+The use of mesenchymal stem cells (MSCs) in tissue engineering has been extensively investigated.
+The greater the proliferation of this cellular group, the greater the regenerative and healing capacity of the tissue to which they belong.
+In this context, photobiomodulation (PBM) is an efficient technique in proliferation of distinct cell types.
+However, its parameters and mode of action are still unclear and require further investigation.
+This study aimed to evaluate the PBM action with different energies in MSCs of adipose tissue (hASCs).
+We used hASCs, seeded in 24-well plates, with 3 × 104 cells per well, in culture media.
+We used a total of four experimental groups, one with hASCs and simulated PBM and three other groups, which received PBM irradiation at 24, 48, and 72 h, with a 660-nm laser and power of 40 mW and energy of 0.56, 1.96, and 5.04 J. We performed analyses of MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromidefor) and trypan blue to evaluate cell proliferation and viability, 1 h after PBM irradiation.
+Software Graph PadPrism 7.0 was used.
+Intergroup comparisons were performed with ANOVA two-way and we used the Tukey post hoc test.
+Mitochondrial activity evaluated by MTT revealed the statistical difference in the first 24 h for group with more high energy when compared to control group; and in the 72 h for two irradiated groups when compared to the control group.
+The trypan blue test showed significant differences at the end of the experiment for two irradiated groups LG1 (4.52 × 104 ± 0.2) and LG2 (4.85 × 104 ± 0.8), when compared to the control group (1.87 × 104 ± 0.7).
+Both tests failed to be statistically different at the end of the experiment for groups LG1 and LG2 and observed a reduction in cellular mitochondrial growth and activity for group LG3.
+We conclude that PBM with energy close to 0.56 and 1.96 J promote proliferation of hASCs, and higher energy, such as 5.04 J, can be harmful.

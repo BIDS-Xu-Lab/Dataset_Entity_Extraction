@@ -1,0 +1,8 @@
+Under normal circumstances, the adaptive immune response to either self or harmless antigens is kept under tight control by a combination of deletion mechanisms in the central immune system, and by a system of regulatory cells in the periphery.
+Together, these control mechanisms enforce a state referred to as immunological tolerance.
+Breakdown of these mechanisms lead to a variety of immunological disease states involving persistent immune-mediated pathologies.
+Whereas the processes inducing central tolerance in the immune system are well documented, the mechanisms by which peripheral regulatory cells function are still unclear.
+Recent publications have reported an unexpected role for the Notch pathway, itself a classical regulator of cell fate, in the development of regulatory T cells.
+These exciting data demonstrate that Notch signals modulate events downstream of the T cell receptor, diverting T cell differentiation into alternative fates which regulate immune responses in an antigen-specific manner.
+The Notch pathway is, therefore, uniquely positioned in the developmental pathways leading to regulatory T cells.
+In this review, the authors discuss the data surrounding the role of Notch in the peripheral immune system, and discuss how this pathway might be manipulated for the treatment of immunological disorders.

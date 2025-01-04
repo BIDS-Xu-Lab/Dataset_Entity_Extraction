@@ -1,0 +1,11 @@
+L1 is a dizinc subclass B3 metallo-β-lactamase (MBL) that hydrolyzes most β-lactam antibiotics and is a key resistance determinant in the Gram-negative pathogen Stenotrophomonas maltophilia, an important cause of nosocomial infections in immunocompromised patients.
+L1 is not usefully inhibited by MBL inhibitors in clinical trials, underlying the need for further studies on L1 structure and mechanism.
+We describe kinetic studies and crystal structures of L1 in complex with hydrolyzed β-lactams from the penam (mecillinam), cephem (cefoxitin/cefmetazole), and carbapenem (tebipenem, doripenem, and panipenem) classes.
+Despite differences in their structures, all the β-lactam-derived products hydrogen bond to Tyr33, Ser221, and Ser225 and are stabilized by interactions with a conserved hydrophobic pocket.
+The carbapenem products were modeled as Δ1-imines, with (2S)-stereochemistry.
+Their binding mode is determined by the presence of a 1β-methyl substituent: the Zn-bridging hydroxide either interacts with the C-6 hydroxyethyl group (1β-hydrogen-containing carbapenems) or is displaced by the C-6 carboxylate (1β-methyl-containing carbapenems).
+Unexpectedly, the mecillinam product is a rearranged N-formyl amide rather than penicilloic acid, with the N-formyl oxygen interacting with the Zn-bridging hydroxide.
+NMR studies imply mecillinam rearrangement can occur nonenzymatically in solution.
+Cephem-derived imine products are bound with (3R)-stereochemistry and retain their 3' leaving groups, likely representing stable endpoints, rather than intermediates, in MBL-catalyzed hydrolysis.
+Our structures show preferential complex formation by carbapenem- and cephem-derived species protonated on the equivalent (β) faces and so identify interactions that stabilize diverse hydrolyzed antibiotics.
+These results may be exploited in developing antibiotics, and β-lactamase inhibitors, that form long-lasting complexes with dizinc MBLs.

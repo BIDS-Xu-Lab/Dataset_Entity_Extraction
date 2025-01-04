@@ -1,0 +1,13 @@
+Shift work has been related to adverse health outcomes that can partially be attributed to physical inactivity.
+However, our knowledge of the influence of shift work on physical activity and sedentary behavior is inconclusive.
+Therefore, this study aimed to assess physical activity levels among shift and non-shift workers among a sample of Iranian adults.
+Baseline data of the Ravansar Non-Communicable Disease (RaNCD) cohort study were used.
+All participants of RaNCD except those excluded due to unemployment or considerable disability were included in the study.
+We evaluated participants' physical activity levels using the PERSIAN cohort questionnaire and examined its associations with being a shift worker.
+A total of 4695 participants with a mean age of 46.1 (SD = 7.74) were included in the study.
+In total, 1108 (23.6%) participants were shift workers, 1420 (30.2%) had insufficient physical activity levels, and 4283 (91.2%) were male.
+The prevalence of physical inactivity was significantly lower among shift workers compared to non-shift workers (21% vs. 33.1%, p < 0.001).
+Multiple backward stepwise binary logistic regression tests indicated that being a shift worker was significantly associated with a lower chance of having insufficient physical activity levels (OR = 0.77, 95% CI = 0.65-0.92, p = 0.003).
+The prevalence of insufficient physical activity was higher among non-shift workers than shift workers in our study.
+By providing the factors associated with insufficient physical activity among the workers in a region of Iran, the current study findings might help policymakers target groups at higher risk of physical activity in Iran and design interventions to improve physical activity, especially among non-shift workers.
+Y: Ravansar Non-Communicable Disease (RaNCD) cohort study, PERSIAN cohort questionnaire (No need to annotate, just for notice).

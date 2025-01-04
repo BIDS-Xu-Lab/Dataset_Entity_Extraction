@@ -1,0 +1,11 @@
+It is generally acknowledged that hormones are implicated in socioemotional behavior, yet little is known about the role of hormones in the context of emotion regulation.
+The aims of the present review and meta-analysis were to review and synthesize the available evidence pertaining to the effect of emotion regulation instructions on hormones, and to investigate whether this effect varies according to: type of hormone, context (e.g., emotion-induction procedure), emotion regulation characteristics (e.g., emotion regulation strategy), and presence and type of psychiatric disorder.
+PubMed, PsycINFO, and CINAHL were searched for experimental studies assessing the effect of instructed emotion regulation on levels of hormones (i.e., testosterone, cortisol, oxytocin, estradiol, and vasopressin) in physically healthy adults.
+The literature search yielded 17 relevant studies, 16 investigating cortisol and one investigating testosterone.
+Of these, 12 cortisol studies had eligible data for the meta-analysis.
+The results of the meta-analysis indicated no statistically significant effect of receiving an emotion regulation instruction compared with receiving no instruction on the cortisol response to subsequent emotion induction (g ​= ​-0.05, p ​= ​.48).
+However, within-person comparisons of change from an unregulated response to a regulated response indicated a significant change in cortisol levels (g ​= ​0.18, p ​= ​.03) consistent with the specified regulation goal (i.e., either up- or downregulation).
+No statistically significant effects were found in subgroup meta-analyses conducted according to context, emotion regulation characteristics or psychiatric disorders.
+Taken together, the findings indicate that emotion-induction procedures are associated with increases in cortisol that may subsequently return to equilibrium regardless of emotion-regulation instructions.
+Based on the large gaps in research (e.g., few studies investigated other hormones than cortisol, few studies included self-report measures of emotions) identified in the present review, we conclude that the effect of emotion regulation on hormones remains poorly understood.
+Y: PubMed, PsycINFO, CINAHL (No need to annotate, just for notice).

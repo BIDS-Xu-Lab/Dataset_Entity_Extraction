@@ -1,0 +1,8 @@
+In this paper, acoustic emission data fusion based on multiple measurements is presented for damage detection and identification in oxide-based ceramic matrix composites.
+Multi-AE (acoustic emission) sensor fusion is considered with the aim of a better identification of damage mechanisms.
+In this context, tensile tests were conducted on ceramic matrix composites, fabricated with 3M™ Nextel™ 610 fibers and aluminosilicate matrix, with two kinds of AE sensors.
+Redundant and complementary sensor data were merged to enhance AE system capability and reliability.
+Data fusion led to consistent signal clustering with an unsupervised procedure.
+A correlation between these clusters and the damage mechanisms was established thanks to in situ observations.
+The complementarity of the information from both sensors greatly improves the characterization of sources for their classification.
+Moreover, this complementarity allows features to be perceived more precisely than using only the information from one kind of sensor.

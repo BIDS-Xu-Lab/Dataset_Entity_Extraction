@@ -1,0 +1,8 @@
+A survey presents the technical conditions and facilities of the computed tomographic virtual endoscopy.
+The inner surface of the upper airway was reconstructed from the data set of a helical CT.
+The anatomical structures were visualized in over 80 patients.
+15 patients with a suspected tracheal stenosis were additional investigated.
+The virtual endoscopy allowed an identification of the anatomical structures.
+Pathological endoluminal findings, as stenosis, were investigated successfully.
+The virtual endoscopy combines the advantages of helical CT and the imaging of the endoluminal surface.
+Compared with the endoscopic examination the non-invasive technique offers additional indications, especially in high-risk patients or non-passable Stenosis.

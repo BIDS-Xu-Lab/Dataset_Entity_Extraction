@@ -1,0 +1,9 @@
+The O6-methylguanine-DNA-methyltransferase (MGMT) promoter methylation has been shown to be associated with improved outcomes in patients with glioblastoma (GBM) and may be a predictive marker of sensitivity to chemotherapy.
+However, determination of the MGMT promoter methylation status requires tissue obtained via surgical resection or biopsy.
+The aim of this study was to assess the ability of quantitative and qualitative imaging variables in predicting MGMT methylation status noninvasively.
+A retrospective analysis of MR images from GBM patients was conducted.
+Multivariate prediction models were obtained by machine-learning methods and tested on data from The Cancer Genome Atlas (TCGA) database.
+The status of MGMT promoter methylation was predicted with an accuracy of up to 73.6%.
+Experimental analysis showed that the edema/necrosis volume ratio, tumor/necrosis volume ratio, edema volume, and tumor location and enhancement characteristics were the most significant variables in respect to the status of MGMT promoter methylation in GBM.
+The obtained results provide further evidence of an association between standard preoperative MRI variables and MGMT methylation status in GBM.
+Y The Cancer Genome Atlas (TCGA) (No need to annotate, just for notice).

@@ -1,0 +1,12 @@
+Anorexia and malnutrition are associated with poor outcomes in children with chronic kidney disease (CKD).
+We assessed changes in body mass index (BMI) as kidney function declines and its association with risk for end-stage renal disease (ESRD) among 854 participants followed between 2005 to 2013 in the CKD in Children (CKiD) Study.
+Repeated measurements of estimated glomerular filtration rate (eGFR) by serum creatinine concentration in our trajectory analysis using mixed models; change in BMI z score (per year) after eGFR decreased to <35mL/min/1.73m2 in logistic regression models.
+Repeated measurements of BMI z score (as a reflection of weight status) in our trajectory analysis; ESRD in logistic regression models.
+During a mean longitudinal follow-up of 3.4 years, BMI z scores remained stable until eGFR decreased to <35mL/min/1.73m2.
+When eGFR decreased to <35mL/min/1.73m2, a mean decline in BMI z score of 0.13 (95% CI, 0.09-0.17) was noted with each 10-mL/min/1.73m2 further decline in eGFR.
+This was statistically significantly different from the weight trajectory when eGFR was ≥35mL/min/1.73 m2 (P<0.001).
+Among children and adolescents with significant weight loss (defined as decline in BMI z score > 0.2 per year) after eGFR decreased to <35mL/min/1.73m2, the odds of ESRD was 3.28 (95% CI, 1.53-7.05) times greater compared with participants with stable BMI z scores (BMI z score change per year of 0-0.1).
+Observational nature of our study, lack of longitudinal assessments of inflammatory markers.
+In children and adolescents with CKD, weight loss mostly occurs when eGFR decreases to <35mL/min/1.73m2, and this weight loss was associated with higher risk for ESRD.
+Further studies are needed to define the reasons for the association between weight loss and more rapid progression to ESRD in children and adolescents.
+Y and the names: CKD in Children (CKiD) Study (No need to annotate, just for notice).

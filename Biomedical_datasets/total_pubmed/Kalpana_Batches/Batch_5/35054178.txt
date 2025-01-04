@@ -1,0 +1,15 @@
+Progressive supranuclear palsy (PSP) and Parkinson's disease (PD) are difficult to differentiate especially in the early stages.
+We aimed to investigate the diagnostic performance of the magnetic resonance parkinsonism index (MRPI) in differentiating PSP from PD.
+A systematic literature search of PubMed-MEDLINE and EMBASE was performed to identify original articles evaluating the diagnostic performance of the MRPI in differentiating PSP from PD published up to 20 February 2021.
+The pooled sensitivity, specificity, and 95% CI were calculated using the bivariate random-effects model.
+The area under the curve (AUC) was calculated using a hierarchical summary receiver operating characteristic (HSROC) model.
+Meta-regression was performed to explain the effects of heterogeneity.
+A total of 14 original articles involving 484 PSP patients and 1243 PD patients were included.
+In all studies, T1-weighted images were used to calculate the MRPI.
+Among the 14 studies, nine studies used 3D T1-weighted images.
+The pooled sensitivity and specificity for the diagnostic performance of the MRPI in differentiating PSP from PD were 96% (95% CI, 87-99%) and 98% (95% CI, 91-100%), respectively.
+The area under the HSROC curve was 0.99 (95% CI, 0.98-1.00).
+Heterogeneity was present (sensitivity: I2 = 97.29%; specificity: I2 = 98.82%).
+Meta-regression showed the association of the magnet field strength with heterogeneity.
+Studies using 3 T MRI showed significantly higher sensitivity (100%) and specificity (100%) than those of studies using 1.5 T MRI (sensitivity of 98% and specificity of 97%) (p < 0.01).
+Thus, the MRPI could accurately differentiate PSP from PD and support the implementation of appropriate management strategies for patients with PSP.

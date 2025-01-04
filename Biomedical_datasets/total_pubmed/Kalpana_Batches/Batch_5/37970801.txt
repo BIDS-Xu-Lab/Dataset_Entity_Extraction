@@ -1,0 +1,13 @@
+OBJECTIVE: To summarize and describe risk factors for running-related injuries (RRIs) among high school and collegiate cross-country runners.
+Four databases (Scopus, SPORTDiscus, CINAHL, Cochrane) were searched from inception to August 2023.
+Studies assessing RRI risk factors in high school or collegiate runners using a prospective design with at least 1 season of follow-up were included.
+Results across each study for a given risk factor were summarized and described.
+The NOS and GRADE frameworks were used to evaluate quality of each study and certainty of evidence for each risk factor.
+Overall, study quality and certainty of evidence were low to moderate.
+Females or runners with prior RRI or increased RED-S (relative energy deficiency in sport) risk factors were most at risk for RRI, as were runners with a quadriceps angle of >20° and lower step rates.
+Runners with weaker thigh muscle groups had increased risk of anterior knee pain.
+Certainty of evidence regarding training, sleep, and specialization was low, but suggests that changes in training volume, poorer sleep, and increased specialization may increase RRI risk.
+The strongest predictors of RRI in high school and collegiate cross-country runners were sex and RRI history, which are nonmodifiable.
+There was moderate certainty that increased RED-S risk factors increased RRI risk, particularly bone stress injuries.
+There was limited evidence that changes in training and sleep quality influenced RRI risk, but these are modifiable factors that should be studied further in this population.
+J Orthop Sports Phys Ther 2024;54(2):1-13.

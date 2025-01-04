@@ -1,0 +1,10 @@
+At what age are children with an autism spectrum disorder (ASD) identified by community providers?
+What factors influence the timing of when children are identified with ASDs?
+This study examined the timing of when children with ASDs are identified.
+Data came from 13 sites participating in the Centers for Disease Control and Prevention's 2002 multisite ongoing autism surveillance program, the Autism and Developmental Disabilities Monitoring Network.
+Survival analysis was used to examine factors that influence the timing of community-based identification and diagnosis.
+Data from health and education records reveal that the median age of identification was 5.7 years (SE 0.08 years).
+Parametric survival models revealed that several factors were associated with a younger age of identification: being male, having an IQ of 70 or lower, and having experienced developmental regression.
+Significant differences in the age of identification among the 13 sites were also discovered.
+The large gap between the age at which children can be identified and when they actually are identified suggests a critical need for further research, innovation, and improvement in this area of clinical practice.
+Y and the Autism and Developmental Disabilities Monitoring Network (No need to annotate, just for notice).

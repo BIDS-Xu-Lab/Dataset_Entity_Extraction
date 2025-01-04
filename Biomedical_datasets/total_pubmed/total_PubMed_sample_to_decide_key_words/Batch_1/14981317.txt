@@ -1,0 +1,5 @@
+Transcriptional initiation sites of the ostA gene involved in organic solvent sensitivity in Escherichia coli were found by primer extension analysis.
+Two transcriptional initiation sites were newly identified at -133 and -48 nucleotides from the initiation codon of ostA, but the previously reported sigmaE-dependent one at -227 could not be detected.
+No heat-inducible expression of ostA was observed by Northern blotting analysis, indicating that the contribution of sigmaE-dependent transcription was very small if any.
+SigmaD-dependent promoter-like sequences were found just upstream of the newly identified transcriptional initiation sites by computer-aided analysis.
+Deletion analysis of ostA-lacZ fusions demonstrated that these two promoters contributed almost equally to the constitutive expression of the ostA gene.

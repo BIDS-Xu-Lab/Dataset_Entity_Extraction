@@ -1,0 +1,12 @@
+We previously established conditions to reconstitute kinesin-dependent early endocytic vesicle motility and fission on microtubules in vitro.
+The present study examined the question whether motility and fission are regulated in this system.
+Screening for proteins by immunofluorescence microscopy revealed that the small G protein, Rab4, was associated with 80% of hepatocyte-derived early endocytic vesicles that contain the ligand asialoorosomucoid (ASOR).
+By contrast, other markers for early endocytic vesicles including clathrin, Rab5 and EEA1 were present in the preparation but did not colocalize with the ASOR vesicles.
+Guanine nucleotides exchanged into the Rab4 present on the vesicles as shown by solubilization of Rab4 by Rab-GDI; solubilization was inhibited by incubation with GTP-gamma-S and promoted by GDP.
+Pre-incubation of vesicles with GDP increased the number of vesicles moving on microtubules and markedly increased vesicle fission.
+This increase in motility from GDP was shown to be towards the minus end of microtubules, possibly through activation of the minus-end-directed kinesin, KIFC2.
+Pre-incubation of vesicles with GTP-gamma-S, by contrast, repressed motility.
+Addition of exogenous GST-Rab4- GTP-gamma-S led to a further repression of motility and fission.
+Repression was not seen with addition of GST-Rab4-GDP.
+Treatment of vesicles with Rab4 antibody also repressed motility, and repression was not seen when vesicles were pre-incubated with GDP.
+Based on these results we hypothesize that endogenous Rab4-GTP suppresses motility of ASOR-containing vesicles in hepatocytes and that conversion of Rab4-GTP to Rab4-GDP serves as a molecular switch that activates minus-end kinesin-based motility, facilitating early endosome fission and consequent receptor-ligand segregation.

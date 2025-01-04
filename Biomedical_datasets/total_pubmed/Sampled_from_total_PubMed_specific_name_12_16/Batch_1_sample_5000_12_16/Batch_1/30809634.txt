@@ -1,0 +1,11 @@
+A number of clinical trials have examined the effect of canola oil (CO) on body composition in recent years; however, the results have been inconsistent.
+The present investigation aims to examine the effect of CO on body weight (BW) and body composition using a systematic review and meta-analysis of controlled clinical trials.
+Online databases including PubMed, Scopus, and Google Scholar were searched up to February, 2018 for randomized controlled clinical trials that examined the effect of CO on anthropometric measures and body composition indexes in adults.
+The Cochrane Collaboration's tool was used to assess the risk of bias in individual studies.
+A random-effects model was used to evaluate the effect of CO consumption on several outcomes: BW, body mass index, waist circumference, hip circumference, waist-to-hip ratio, android-to-gynoid ratio, and body lean and fat mass.
+In total, 25 studies were included in the systematic review.
+The meta-analysis revealed that CO consumption reduces BW [weighted mean difference (WMD) = -0.30 kg; 95% CI: -0.52, -0.08 kg, P = 0.007; n = 23 effect sizes], particularly in participants with type 2 diabetes (WMD = -0.63 kg; 95% CI: -1.09, -0.17 kg, P = 0.007), in studies with a parallel design (WMD = -0.49 kg; 95% CI: -0.85, -0.14 kg, P = 0.006), in nonfeeding trials (WMD = -0.32 kg; 95% CI: -0.55, -0.09 kg, P = 0.006), and when compared with saturated fat (WMD = -0.40 kg; 95% CI: -0.74, -0.06 kg, P = 0.019).
+CO consumption did not significantly affect any other anthropometric measures or body fat markers (P > 0.05).
+Although CO consumption results in a modest decrease in BW, no significant effect was observed on other adiposity indexes.
+Further well-constructed clinical trials that target BW and body composition as their primary outcomes are needed.
+Y: PubMed, Scopus, Google Scholar (No need to annotate, just for notice).

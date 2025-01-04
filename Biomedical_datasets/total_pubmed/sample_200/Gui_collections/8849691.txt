@@ -1,0 +1,4 @@
+A fucosyltransferase activity has been detected using lacto-N-biose I as acceptor in the lower eukaryote Dictyostelium discoideum.
+This transferase requires divalent cations and is inhibited by N-ethylmaleimide and detergent treatment.
+Apparent calculated Km values for GDP-Fuc and lacto-N-biose I are 1.27 microM and 2.80 mM, respectively.
+The activity is quantitatively recovered in the supernatant after centrifugation at 100000 x g for 1 h. The reaction product, as determined by gel permeation chromatography, sensitivity to fucosidases, and analysis of partially methylated derivatives, is Fucalpha1-2Galbeta1-3GlcNAc (H type 1 trisaccharide).

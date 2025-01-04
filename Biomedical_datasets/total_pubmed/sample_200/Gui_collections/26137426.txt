@@ -1,0 +1,7 @@
+Maintaining ecological integrity necessitates a proactive approach of identifying and acquiring lands to conserve unfragmented landscapes, as well as evaluating existing mitigation strategies to increase connectivity in fragmented landscapes.
+The increased use of highway underpasses and overpasses to restore connectivity for wildlife species offers clear conservation benefits, yet also presents a unique opportunity to understand how weather conditions may impact movement of wildlife species.
+We used remote camera observations (19,480) from an existing wildlife highway underpass in Wyoming and daily meteorological observations to quantify weather conditions associated with autumn migration of mule deer in 2009 and 2010.
+We identified minimal daily temperature and snow depth as proximate cues associated with mule deer migration to winter range.
+These weather cues were consistent across does and bucks, but differed slightly by year.
+Additionally, extreme early season snow depth or cold temperature events appear to be associated with onset of migration.
+This information will assist wildlife managers and transportation officials as they plan future projects to maintain and enhance migration routes for mule deer.

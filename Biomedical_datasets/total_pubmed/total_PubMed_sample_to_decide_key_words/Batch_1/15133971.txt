@@ -1,0 +1,12 @@
+In order to load a muscle optimally during resistance exercise, it should be heavily taxed throughout the entire range of motion for that exercise.
+However, traditional constant resistance squats only tax the lower-extremity muscles to their limits at the "sticking region" or a critical joint configuration of the exercise cycle.
+Therefore, a linear motion (Smith) exercise machine was modified with pneumatics and appropriate computer control so that it could be capable of adjusting force to control velocity within a repetition of the squat exercise or other exercise performed with the device.
+Prior to application of this device in a dynamic squat setting, the maximum voluntary isometric force (MVIF) produced over a spectrum of knee angles is needed.
+This would reveal the sticking region and overall variation in strength capacity.
+Five incremental knee angles (90, 110, 130, 150, and 170 degrees, where 180 degrees defined full extension) were examined.
+After obtaining university-approved informed consent, 12 men and 12 women participated in the study.
+The knee angle was set, and the pneumatic cylinder was pressurized such that the subject could move the barbell slightly but no more than two-centimeters.
+The peak pressure exerted over a five-second maximum effort interval was recorded at each knee angle in random order and then repeated.
+The average of both efforts was then utilized for further analysis.
+The sticking region occurred consistently at a 90 degrees knee angle, however, the maximum force produced varied between 110 degrees and 170 degrees with the greatest frequency at 150 degrees for both men and women.
+The percent difference between the maximum and minimum MVIF was 46% for men and 57% for women.

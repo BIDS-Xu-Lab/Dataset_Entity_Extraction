@@ -1,0 +1,10 @@
+The optimal groove design of a MEMS piezoresistive pressure sensor for ultra-low pressure measurement is proposed in this work.
+Two designs of the local groove and one design of the annular groove are investigated.
+The sensitivity and linearity of the sensor are investigated due to the variations of two dimensionless geometric parameters of these grooves.
+The finite element method is used to determine the stress and deflection of the diaphragm in order to find the sensor performances.
+The sensor performances can be enhanced by creating the annular or local groove on the diaphragm with the optimal dimensionless groove depth and length.
+In contrast, the performances are diminished when the local groove is created on the beam at the piezoresistor.
+The sensitivity can be increased by increasing the dimensionless groove length and depth.
+However, to maintain low nonlinearity error, the annular and local grooves should be created on the top of the diaphragm.
+With the optimal designs of annular and local grooves, the net volume of the annular groove is four times greater than that of the local groove.
+Finally, the functional forms of the stress and deflection of the diaphragm are constructed for both annular and local groove cases.

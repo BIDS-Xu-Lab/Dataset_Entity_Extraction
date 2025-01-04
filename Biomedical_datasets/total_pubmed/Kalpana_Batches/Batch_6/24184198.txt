@@ -1,0 +1,6 @@
+Hepatitis C virus (HCV) chronically infects 130-170 million people worldwide and is a major public health burden.
+HCV is an RNA virus that infects hepatocytes within liver, and this infection is sensed as non-self by the intracellular innate immune response to program antiviral immunity to HCV.
+HCV encodes several strategies to evade this antiviral response, and this evasion of innate immunity plays a key role in determining viral persistence.
+This review discusses the molecular mechanisms of how the intracellular innate immune system detects HCV infection, including how HCV pathogen-associated molecular patterns are generated during infection and where they are recognized as foreign by the innate immune system.
+Further, this review highlights the key innate immune evasion strategies used by HCV to establish persistent infection within the liver, as well as how host genotype influences the outcome of HCV infection.
+Understanding these HCV-host interactions is key in understanding how to target HCV during infection and for the design of more effective HCV therapies at the immunological level.

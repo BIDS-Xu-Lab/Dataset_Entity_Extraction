@@ -1,0 +1,6 @@
+Quantitative models of psychopathology (i.e., HiTOP) propose that personality and psychopathology are intertwined, such that the various processes that characterize personality traits may be useful in describing and predicting manifestations of psychopathology.
+In the current study, we used data from the Human Connectome Project (N = 1050) to investigate neural activation following receipt of a reward during an fMRI task as one shared mechanism that may be related to the personality trait Extraversion (specifically its sub-component Agentic Extraversion) and internalizing psychopathology.
+We also conducted exploratory analyses on the links between neural activation following reward receipt and the other Five-Factor Model personality traits, as well as separate analyses by gender.
+No significant relations (p < .005) were observed between any personality trait or index of psychopathology and neural activation following reward receipt, and most effect sizes were null to very small in nature (i.e., r < |.05|).
+We conclude by discussing the appropriate interpretation of these null findings, and provide suggestions for future research that spans psychological and neurobiological levels of analysis.
+Y: Human Connectome Project (No need to annotate, just for notice).

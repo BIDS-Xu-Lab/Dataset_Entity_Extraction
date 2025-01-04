@@ -1,0 +1,11 @@
+Cyt1Aa is a cytolytic toxin, found together with the delta-endotoxins in Bacillus thuringiensis subsp.
+The latter are used as an environmental friendly insecticide against mosquitoes and black flies.
+Contrary to Cry delta-endotoxin, the mode of action of Cyt1Aa is not completely understood.
+In the absence of direct structural data, a novel mutated cyt1Aa gene was used to obtain indirect informations on Cyt1Aa conformation changes in the lipid membrane environment.
+A mutated cyt1Aa gene named cyt1A97 has been isolated from a B. thuringiensis israelensis strain named BUPM97.
+The nucleotide sequence predicted a protein of 249 amino acids residues with a calculated molecular mass of 27 kDa.
+Both nucleotide and amino acid sequences similarity analysis revealed that cyt1A97 presents one amino acid different from the native cyt1Aa gene.
+This mutation was located in the helix alpha C corresponding to a substitution of Met(115) by a Thr.
+The heterologous expression of the cyt1A97 and another cyt1Aa-type gene called cyt1A98, not affected by such mutation used as control, was performed in Escherichia coli.
+It revealed that the mutated Cyt1A97 protein was over produced as inclusion bodies showing a very weak toxicity to E. coli contrarily to Cyt1A98 that stopped E. coli growth.
+Hence, hydrophobic residue Met at position 115 of Cyt1Aa should play a very important role for the maintenance of the structure and cytolytic functions of Cyt1Aa.

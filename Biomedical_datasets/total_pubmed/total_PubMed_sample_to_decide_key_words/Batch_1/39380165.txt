@@ -1,0 +1,13 @@
+The bedside head impulse test (bHIT) is a clinical method of assessing the vestibulo-ocular reflex.
+It is a critical component of the bedside assessment of dizzy patients and helps differentiate acute stroke from vestibular neuritis.
+A previous study on senior Otolaryngology residents showed poor competence in performing and interpreting the bHIT and called for specific evaluations in the Competency By Design (CBD) curriculum to remedy this.
+This study aimed to assess whether those competencies have improved after full implementation of CBD in residency programs.
+Thirty post-graduate year 4 Otolaryngology residents in Canada were evaluated on the use of the bHIT using a written multiple-choice question (MCQ) examination, interpretation of bHIT videos, and performance of a bHIT.
+Ratings of bHIT performance were completed by 2 expert examiners (DT, DL) using the Ottawa Clinic Assessment Tool.
+Only 6.7% (rater DT) and 20% (rater DL) of residents were found able to perform the bHIT independently.
+Inter-rater reliability was moderate (0.55, intraclass correlation).
+Mean scores were 70% (13.4% standard deviation) for video interpretation and 59% (20.6% standard deviation) for multiple-choice questions.
+Video interpretation scores did not correlate with bHIT ratings (Pearson r = 0.11), but MCQs and bHIT ratings did correlate moderately (Pearson r = 0.52).Comparing to the prior study, residents performed worse on the bHIT (3.14 average score vs 3.64, P < .01) and fewer residents performed the bHIT independently (6.7% vs 22%-rater DT, 20% vs 39%-rater DL).
+Residents also performed worse on MCQs (58.7% vs 70.9%, P = 0.038), though similarly on video interpretation (70% vs 65%, P = .198).
+Fourth year OTL-HNS residents in Canada are not competent in performing the bHIT.
+These findings have implications for refining competency-based curricula in the evaluation of critical physical exam skills.

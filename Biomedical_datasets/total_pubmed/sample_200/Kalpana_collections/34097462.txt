@@ -1,0 +1,9 @@
+Zebrafish (Danio rerio) are an attractive model organism for a variety of scientific studies, including host-microbe interactions.
+The organism is particularly useful for the study of aquatic microbes that can colonize vertebrate hosts, including Vibrio cholerae, an intestinal pathogen.
+V. cholerae must colonize the intestine of an exposed host for pathogenicity to occur.
+While numerous studies have explored various aspects of the pathogenic effects of V. cholerae on zebrafish and other model organisms, few, if any, have examined how a V. cholerae infection alters the resident intestinal microbiome and the role of the type six secretion system (T6SS) in that process.
+In this study, 16S rRNA gene sequencing was utilized to investigate how strains of V. cholerae both with and without the T6SS alter the aforementioned microbial profiles following an infection.
+V. cholerae infection induced significant changes in the zebrafish intestinal microbiome, and while not necessary for colonization, the T6SS was important for inducing mucin secretion, a marker for diarrhea.
+Additional salient differences to the microbiome were observed based on the presence or absence of the T6SS in the V. cholerae utilized for challenging the zebrafish hosts.
+We conclude that V. cholerae significantly modulates the zebrafish intestinal microbiome to enable colonization and that the T6SS is important for pathogenesis induced by the examined V. cholerae strains.
+Furthermore, the presence or absence of T6SS differentially and significantly affected the composition and structure of the intestinal microbiome, with an increased abundance of other Vibrio bacteria observed in the absence of V. cholerae T6SS.

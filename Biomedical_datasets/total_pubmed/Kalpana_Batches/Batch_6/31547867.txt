@@ -1,0 +1,11 @@
+Recent studies suggested that miR-17~106 family was involved in the regulation of neural stem/progenitor cells (NPCs).
+However, distinct function of each family member was reported in regulating stem cells within and without the brain.
+Hence, to investigate the roles of individual miRNAs in miR-17~106 family and mechanisms underlying their effects on neurogenesis is important to extend our understanding in the CNS development.
+Here, we examined the influence of miR-106a/b on the proliferation, differentiation, and survival of embryonic NPCs using specific mimics and inhibitor.
+The targets of miR-106a/b were identified from miRNA target prediction database and confirmed by luciferase assay.
+Specific siRNAs were utilized to erase the effects of miR-106a/b on the expression levels of target genes.
+A positive correlation was observed between the temporal reduction of miR-106a/b expression levels and the decline of NPC pools in vivo and in vitro.
+The perturbation of miR-106's function approaches revealed that miR-106b, but not miR-106a, facilitated the maintenance of NPCs and repressed the generation of both neuronal and glial cells, without preference to a particular lineage.
+No effect was observed for miR-106a/b in NPCs' survival.
+The influence of miR-106b on NPCs' proliferation and differentiation is likely achieved by directly inhibiting the expression of Tp53inp1 and Cdkn1a, key components of Tp53inp1-Tp53-Cdkn1a axis.
+Our study demonstrated a novel axis, miR-106b-Tp53inp1-Tp53-Cdkn1a, in regulating the proliferation and differentiation of NPCs.

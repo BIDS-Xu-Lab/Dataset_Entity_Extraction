@@ -1,0 +1,10 @@
+To assess whether perioperative surgical outcomes associated with thyroid operations were different in those with benign or malignant conditions, we queried the NSQIP, a multi-institutional, risk-adjusted, prospective U.S. database.
+A total of 10,838 patients who underwent initial thyroid surgery as their principal operation during 2005-2007 were analyzed.
+Analysis focused on demographics, preoperative risk factors, operative details, postoperative complications, return to the operating room, and length of surgical stay.
+Thirty-three percent of patients had a postoperative diagnosis of malignancy.
+Mean operating time was 121.8 min (119.3 min benign, 123.0 min malignant, P = .004) and average length of stay 1.16 days (1.12 days benign, vs. 1.21 days malignant, P = .007).
+Overall morbidity (return to the operating room plus medical complications) was 3.8% for the entire cohort, significantly higher in patients with malignant disease (4.9 vs. 3.3%, respectively, P < .001).
+On multivariate analysis, American Society of Anesthesiologists class, congestive heart failure (odds ratio [OR] 6.83, 95% confidence interval [CI] 1.81-25.80), dyspnea, and return to the operating room (OR 5.41, 95% CI 3.1-9.45) were significant risk factors for complications, while malignant disease (OR 2.25, 95% CI 1.75-2.9), outpatient status (OR 3.16, 95% CI 2.4-4.17), and other complications (OR 6.46, 95% CI 3.61-11.54) were risk factors for returning to the operating room.
+Patients undergoing thyroid surgery for malignancy have a longer length of stay (1.21 days), longer operation times, and return to the operating room at higher rates compared to those with benign disease.
+Malignancy itself is only an independent risk factor for return to the operating room and not other complications; surgeons may consider keeping those patients overnight for observation.
+Y: NSQIP (No need to annotate, just for notice).

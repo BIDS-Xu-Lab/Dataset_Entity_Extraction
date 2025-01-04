@@ -1,0 +1,11 @@
+Negative consequences of alcohol (or secondhand effects) extend beyond drinkers to affect other people, including both known others (friends, family members, spouses/partners) and strangers.
+Secondhand effects of alcohol manifest across various social environments, including the places where people drink and the neighborhoods where they live.
+These neighborhoods are characterized by different levels of alcohol availability and degrees of residential social cohesion.
+Hence, social environments may confer risk or protect from harms from others' drinking.
+The current study explores: (a) how drinking venues and neighborhood contexts relate to harms from other people's drinking (both known others and strangers), and (b) whether these associations vary by gender.
+Using pooled data from the National Alcohol Survey and National Alcohol's Harms to Others Survey (N = 5425), we regressed harms from various drinking others on social environment characteristics (drinking venues, alcohol availability and social cohesion) for the full sample and separately by gender.
+We used the false discovery rate method to adjust for multiple testing.
+Overall, greater neighborhood social cohesion was associated with lower odds of harm from drinking others and, specifically, harm from drinking strangers.
+The effect of social cohesion was most pronounced for men.
+Social cohesion was the most salient neighborhood factor associated with reduced alcohol-related harms from strangers.
+Directions for future research and policies to mitigate these harms are discussed.

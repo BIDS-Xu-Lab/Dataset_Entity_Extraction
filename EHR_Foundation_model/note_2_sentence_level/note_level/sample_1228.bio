@@ -1,0 +1,293 @@
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+The	O
+patient	O
+is	O
+an	O
+80	O
+-	O
+year	O
+-	O
+old	O
+African	O
+-	O
+American	O
+male	O
+,	O
+very	O
+well	O
+known	O
+to	O
+my	O
+service	O
+,	O
+with	O
+a	O
+past	O
+medical	O
+history	O
+significant	O
+for	O
+asbestos	B-problem
+exposure	I-problem
+.	O
+
+The	O
+patient	O
+also	O
+has	O
+a	O
+very	O
+extensive	O
+cardiac	O
+history	O
+that	O
+would	O
+be	O
+outlined	O
+below	O
+.	O
+
+He	O
+is	O
+being	O
+admitted	O
+with	O
+worsening	B-problem
+shortness	I-problem
+of	I-problem
+breath	I-problem
+and	O
+constipation	B-problem
+.	O
+
+He	O
+is	O
+also	O
+complaining	O
+of	O
+cough	B-problem
+and	O
+blood	B-problem
+mixed	I-problem
+with	I-problem
+sputum	I-problem
+production	I-problem
+,	O
+but	O
+there	O
+is	O
+no	O
+fever	B-problem
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+
+1	O
+.	O
+
+Benign	B-problem
+prostatic	I-problem
+hypertrophy	I-problem
+.	O
+
+2	O
+.	O
+
+Peptic	B-problem
+ulcer	I-problem
+disease	I-problem
+.	O
+
+3	O
+.	O
+
+Atrial	B-problem
+fibrillation	I-problem
+.	O
+
+4	O
+.	O
+
+Coronary	B-problem
+artery	I-problem
+disease	I-problem
+.	O
+
+5	O
+.	O
+
+Aortic	B-treatment
+valve	I-treatment
+replacement	I-treatment
+in	O
+1991	O
+,	O
+St	B-treatment
+.	I-treatment
+
+Jude	I-treatment
+mechanical	I-treatment
+valve	I-treatment
+#	O
+23	O
+.	O
+
+6	O
+.	O
+
+ICD	B-treatment
+implantation	I-treatment
+.	O
+
+7	O
+.	O
+
+Peripheral	B-problem
+vascular	I-problem
+disease	I-problem
+.	O
+
+8	O
+.	O
+
+CABG	B-treatment
+in	O
+1991	O
+and	O
+1998	O
+.	O
+
+9	O
+.	O
+
+Congestive	B-problem
+heart	I-problem
+failure	I-problem
+,	O
+EF	B-test
+40	O
+%	O
+.	O
+
+10	O
+.	O
+
+Asbestos	B-problem
+exposure	I-problem
+.	O
+
+MEDICATIONS	O
+
+1	O
+.	O
+
+Coumadin	B-treatment
+6	O
+mg	O
+alternating	O
+with	O
+9	O
+mg	O
+.	O
+
+2	O
+.	O
+
+Prevacid	B-treatment
+30	O
+mg	O
+once	O
+a	O
+day	O
+.	O
+
+3	O
+.	O
+
+Diovan	B-treatment
+160	O
+mg	O
+every	O
+day	O
+.	O
+
+4	O
+.	O
+
+Flomax	B-treatment
+0	O
+.	O
+4	O
+mg	O
+every	O
+day	O
+.	O
+
+5	O
+.	O
+
+Coreg	B-treatment
+25	O
+mg	O
+in	O
+the	O
+morning	O
+and	O
+12	O
+.	O
+5	O
+mg	O
+at	O
+night	O
+.	O
+
+6	O
+.	O
+
+Aldactone	B-treatment
+25	O
+mg	O
+a	O
+day	O
+.	O
+
+7	O
+.	O
+
+Lasix	B-treatment
+20	O
+mg	O
+a	O
+day	O
+.	O
+
+8	O
+.	O
+
+Zocor	B-treatment
+40	O
+mg	O
+every	O
+day	O
+.	O
+
+ALLERGIES	O
+
+1	O
+.	O
+
+DARVOCET	B-treatment
+.	O
+
+2	O
+.	O
+
+CLONIDINE	B-treatment
+.	O
+

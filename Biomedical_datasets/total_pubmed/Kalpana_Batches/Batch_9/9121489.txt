@@ -1,0 +1,7 @@
+Mutation of isoleucine 747 to threonine in the C-terminal part of the ligand-binding domain (LBD) of the human glucocorticoid receptor (GR) alters the ligand specificity for transactivation.
+Natural glucocorticoids such as cortisol or corticosterone were completely inactive with the mutant 1747T, whereas synthetic steroids like dexamethasone efficiently stimulated GR 1747T-mediated transactivation.
+However, the corresponding ligand dose-response curve for dexamethasone-induced transactivation was shifted to higher concentrations when compared with that obtained with the wild type GR.
+Neither this shift nor the inability of cortisol to activate the 1747T mutant was due to an altered in vitro ligand-binding affinity.
+In the canonical three-dimensional structure of nuclear receptor LBDs, isoleucine 747 is in the direct vicinity of residues that contribute to the ligand-binding pocket.
+Moreover, it is located in the C-terminal LBD region, which harbors the conserved core of the activation function AF-2 and undergoes a ligand-induce transconformation, required to generate the surface interacting with putative transcriptional intermediary factors/coactivators of AF-2.
+The phenotype of 1747T mutant is discussed in view of the possible consequences of the mutation on the various events which, according to the model, lead to a transcriptionally competent AF-2.

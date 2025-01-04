@@ -1,0 +1,11 @@
+Authors of this report describe 2 patients who had undergone shunt insertion for hydrocephalus and who, at 6 weeks or 9 months after their last revision, presented with symptoms of shunt dysfunction and CSF collections at the valve site.
+At the ensuing shunt revision in both patients, the silicone housing was fractured and the Siphonguard was disconnected from the Codman Hakim Precision flat-bottom valve.
+The cause of these failures was not clear since manipulation, bending, and twisting of the valves were not thought to have occurred during implantation.
+A review of the FDA's Manufacturer and User Facility Device Experience (MAUDE) database revealed 58 cases of silicone housing failure in the Codman Hakim Precision valve with integrated Siphonguard since the year 2000.
+A single report was found in the databases administered by the Canadian Medical Devices Sentinel Network (CMDSNet).
+The Codman Hakim Precision valves with integrated Siphonguard are delicate devices that do not withstand the intraoperative handling tolerated by other valves.
+When these valves are implanted, gentle handling and wide exposures are needed to minimize the risk of valve damage.
+Valves should be handled according to the manufacturer's instructions.
+However, in light of this particular pattern of failure, it is recommended that the manufacturer redesign this valve to provide handling tolerance that is characteristic of other valves on the market.
+The featured cases illustrate the importance of the surgeon's role in postmarket surveillance of medical devices and reporting device failures to the responsible agencies and manufacturers.
+Y: FDA's Manufacturer and User Facility Device Experience (MAUDE) database, Canadian Medical Devices Sentinel Network (CMDSNet) (No need to annotate, just for notice).

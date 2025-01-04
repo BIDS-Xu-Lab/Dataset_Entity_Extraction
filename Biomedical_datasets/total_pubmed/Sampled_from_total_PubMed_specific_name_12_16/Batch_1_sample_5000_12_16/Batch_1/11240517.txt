@@ -1,0 +1,12 @@
+To estimate stillbirth rate et neonatal mortality in very preterm infants in relation to gestational age at birth, place of delivery, and type of birth.
+This study includes neonates from the EPIPAGE cohort survey, born between 22 and 32 weeks of gestation, in the Paris area from the first of February to the 31(st) of July 1997.
+Stillbirth rate and mortality before hospital discharge were studied.
+Level III facilities were defined by facilities that had an obstetric ward and intensive care unit for the newborn on the same site.
+Of the 772 neonates, 58% were born in level III centers.
+This percentage increased to 71% for multiple births.
+Mortality (stillbirth rate and mortality before discharge) of neonates born in level III was lower than the observed for neonates born in other centers (22.9% versus 45.8%).
+This difference was mainly due to difference in stillbirth rate and mortality in the delivery room.
+Differences in perinatal and neonatal mortality were observed between maternity units.
+It may reflect differences in attitudes.
+The explaination of such differences should be based only on long term outcome.
+Y: EPIPAGE cohort survey (No need to annotate, just for notice).

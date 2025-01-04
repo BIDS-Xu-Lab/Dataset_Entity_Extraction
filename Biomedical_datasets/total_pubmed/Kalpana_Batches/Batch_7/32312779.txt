@@ -1,0 +1,10 @@
+Aspergillus niger, the third species responsible for invasive aspergillosis, has been considered as a homogeneous species until DNA-based identification uncovered many cryptic species.
+However, little is yet known among the section Nigri about the species distribution and the antifungal susceptibility pattern of each cryptic species.
+A total of 112 clinical isolates collected from 5 teaching hospitals in France and phenotypically identified as A. niger were analyzed.
+Identification to the species level was carried out by nucleotide sequence analysis.
+The MICs of itraconazole, voriconazole, posaconazole, isavuconazole, and amphotericin B were determined by both the EUCAST and gradient concentration strip methods.
+Aspergillus tubingensis (n = 51, 45.5%) and Aspergillus welwitschiae (n = 50, 44.6%) were the most common species while A. niger accounted for only 6.3% (n = 7).
+The MICs of azole drugs were higher for A. tubingensis than for A. welwitschiae The MIC of amphotericin B was 2 mg/liter or less for all isolates.
+Importantly, MICs determined by EUCAST showed no correlation with those determined by the gradient concentration strip method, with the latter being lower than the former (Spearman's rank correlation tests ranging from 0.01 to 0.25 depending on the antifungal agent; P > 0.4).
+The differences in MICs between species for different azoles underline the importance of accurate identification.
+Significant divergences in the determination of MIC between EUCAST and the gradient concentration strip methods require further investigation.

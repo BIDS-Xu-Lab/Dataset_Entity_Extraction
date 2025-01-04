@@ -1,0 +1,10 @@
+The objective of this study was to determine the trend of breast conservation surgery (BCS) in North Carolina over a 6-year period and to identify patient, hospital, and surgeon factors associated with the use of BCS.
+Despite evidence that BCS is an appropriate method of treatment for early stage breast cancer, surgeons in the United States have been slow to adopt this treatment method.
+Cases of primary breast cancer surgery in all 157 hospitals in the state from 1988 to 1993, inclusive (N = 20,760), were obtained from the State Medical Database Commission, Area Resource File, American Hospital Association and State Board of Medical Examiner's Databases.
+Multiple logistic regression was used to generate odds ratios (ORs) and 95% confidence intervals (CIs) to determine factors associated with BCS.
+The rate of BCS doubled from 7.3% in 1988 to 14.3% in 1993, with an overall rate of 10.2% (2117/ 20.760).
+Multiple logistic regression identified the following factors associated with BCS: patient age younger than 50 years of age (OR = 1.7, 95% CI = 1.4, 2.1), patient age 50 to 69 years of age (OR = 1.2, 95% CI = 1.1, 1.4), private insurance (OR = 1.2, 95% CI = 1.0, 1.4), hospital bed size 401+(OR = 2.0, 95% CI = 1.6, 2.5), bed size 101 to 400 (OR = 1.7, 95% CI = 1.3, 2.1), and surgeon graduation from medical school since 1981 (OR = 1.6, 95% CI = 1.2, 2.0).
+Rates of BCS in North Carolina are low.
+Least likely to have BCS were women older than 70 years of age, without private insurance, treated at small hospitals by older surgeons.
+To increase the use of BCS, widespread education of surgeons, other health care providers, policy makers, and the general public is warranted.
+Y: State Medical Database Commission, Area Resource File, American Hospital Association, State Board of Medical Examiner's Databases (No need to annotate, just for notice).

@@ -1,0 +1,10 @@
+We report here the nucleotide sequence of a full-length Chinese hamster genomic proviral element, CHIAP34.
+CHIAP34 is 6,403 bp long with long terminal repeats of 311 bp at each end.
+The genetic organization of CHIAP34 was determined by comparison with intracisternal A particle (IAP) genetic elements from the mouse and Syrian hamster.
+Extensive homology at the nucleotide and deduced amino acid sequence levels was observed between CHIAP34 and the mouse and Syrian hamster IAP elements.
+CHIAP34 may represent a defective Chinese hamster IAP genetic element.
+The gag gene consists of 837 codons, of which 558 codons are in a single long open reading frame followed by several frameshifts.
+The pol gene begins with a -1 frameshift and consists of a long open reading frame of 753 codons followed by a short open reading frame of 103 codons.
+The putative env region contains multiple termination codons in all reading frames.
+CHIAP34 is representative of the predominant retroviral elements in the Chinese hamster ovary cell genome present at around 80 copies per haploid genome.
+Y CHIAP34 (No need to annotate, just for notice).

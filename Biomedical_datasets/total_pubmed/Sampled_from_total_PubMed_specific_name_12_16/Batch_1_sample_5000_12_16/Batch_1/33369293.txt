@@ -1,0 +1,12 @@
+To describe and compare demographics, outcomes, and comorbidities among schizophrenia patients according to treatment response.
+A cross-sectional survey was conducted in the United States through the Adelphi Schizophrenia Disease Specific Program from January to May 2014.
+Participating physicians provided information on the first 10 schizophrenia patients aged ≥ 18 years they saw in daily clinical practice; these patients were invited to voluntarily complete a patient self-completion form.
+Patients were considered partial responders or responders based on the physician-reported Clinical Global Impressions improvement scale.
+Regression analyses were performed to identify potential drivers of response and the clinical and humanistic outcomes associated with response.
+150 physicians provided data on 433 partial responders and 872 responders; 185 partial responders and 415 responders completed a patient self-completion form.
+A significant predictor of response was always being adherent with the medication regimen (P < .001).
+Positive symptoms (P = .006) and moderate (P = .004) or severe (P = .002) illness severity were significant predictors of inadequate response.
+Responders were more likely to have better EQ-5D (EuroQol 5 Dimensions) visual analog scale, Quality of Life Enjoyment and Satisfaction Questionnaire, and work productivity and impairment scores (all P < .05).
+Partial responders were more likely to have significantly poorer clinical and quality of life outcomes compared with responders.
+Improved therapeutic approaches, either new therapies or optimized treatments, could lead to both better outcomes and improved adherence in this population.
+Y and Adelphi Schizophrenia Disease Specific Program (No need to annotate, just for notice).

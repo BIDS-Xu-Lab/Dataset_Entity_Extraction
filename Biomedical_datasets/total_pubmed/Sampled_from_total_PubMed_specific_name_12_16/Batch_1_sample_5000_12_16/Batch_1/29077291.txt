@@ -1,0 +1,11 @@
+To describe the structure of the Spanish emergency medicine research network or networks, researchers' roles, and patterns of collaboration between hospitals.
+The search for publications was carried out in the SCOPUS database for the 5-year period of 2010 to 2014.
+We used network analysis software to map ties between researchers and hospitals that had established at least 5 and 10 relationships, respectively, during the period under study.
+We calculated indicators of degree of centrality for individual scientists and hospitals and tabulated data for the main authors and centers.
+We identified 2626 articles with 12 372 different authors at 1134 hospitals in 75 countries.
+The largest number of international relations were with France, the United States, and the United Kingdom.
+Authors had established 93 687 connections that allowed us to identify 23 collaborating groups, the largest of which was comprised of 30 individuals.
+We also found 12 855 connections between hospitals that identified a single subnetwork of collaboration comprised of 19 hospitals, 1 of which was in Switzerland.
+Measures of centrality, intermediation, and proximity led to classification of the most important members of author and hospital networks.
+This analysis of research networks in emergency medicine has afforded the first details describing the relationships maintained by Spanish scientists and hospitals.
+Y SCOPUS (No need to annotate, just for notice).

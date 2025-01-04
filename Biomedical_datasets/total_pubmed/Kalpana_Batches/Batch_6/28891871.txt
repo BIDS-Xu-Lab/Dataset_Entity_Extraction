@@ -1,0 +1,11 @@
+The temporal bone shows regional differences in bone development.
+The spreading pattern of acute mastoiditis shows age-related differences.
+In infants, it spreads laterally and causes retroauricular swelling, whereas in older children, it tends to spread medially and causes intracranial complications.
+We hypothesized that bone maturation may influence the spreading pattern of acute mastoiditis.
+Eighty participants with normal hearing, aged 3 months to 42 years, participated in this study.
+Computed tomography (CT) values (Hounsfield unit [HU]) in various regions of the temporal bone, such as the otic capsule (OC), lateral surface of the mastoid cavity (LS), posterior cranial fossa (PCF), and middle cranial fossa (MCF), were measured as markers of bone density.
+Bone density development curves, wherein CT values were plotted against age, were created for each region.
+The age at which the CT value exceeded 1000 HU, which is used as an indicator of bone maturation, was calculated from the development curves and compared between the regions.
+The OC showed mature bone at birth, whereas the LS, PCF, and MCF showed rapid maturation in early childhood.
+However, there were significant regional differences in the ages of maturation: 1.7, 3.9, and 10.8 years for the LS, PCF, and MCF, respectively.
+To our knowledge, this is the first report to show regional differences in the maturation of temporal bone, which could partly account for the differences in the spreading pattern of acute mastoiditis in individuals of different ages.

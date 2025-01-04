@@ -1,0 +1,14 @@
+Intestinal atresia represents a significant surgically correctable cause of intestinal obstruction in neonates.
+Intestinal development proceeds as a tube-like structure with differentiation along its axis.
+As the intestine differentiates, the cecum develops at the transition from small to large intestine.
+Fgf10 is known to serve a key role in budding morphogenesis; however, little is known about its role in the development of this transitional structure.
+Here we evaluate the effect of Fgf10/Fgfr2b invalidation on the developing cecum.
+Wild-type C57Bl/6, Fgf10(-/-), and Fgfr2b(-/-) embryos harvested from timed pregnant mothers were analyzed for cecal phenotype, Fgf10 expression, and differentiation of smooth muscle actin.
+Wt cecal development is first evident at E11.5.
+FGF10 is discreetly expressed in the area of the developing cecum at early stages of development.
+One hundred percent of Fgf10(-/-) and Fgfr2b(-/-) mutant embryos demonstrate cecal atresia with absence of epithelial and muscular layers.
+The development of neighboring anatomical structures such as the ileocecal valve is not affected by Fgf10/Fgfr2b invalidation.
+FGF10 expression is localized to the cecum early in the normal development of the cecum.
+Fgf10(-/-) and Fgfr2b(-/-) mutant embryos demonstrate cecal atresia with complete penetrance.
+Epithelial and muscular layers of the cecum are not present in the atretic cecum.
+The Fgf10(-/-) and Fgfr2b(-/-) mutants represent a genetically reproducible animal model of autosomal recessive intestinal atresia.

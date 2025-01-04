@@ -1,0 +1,5 @@
+As part of a study to evaluate the safety and efficacy of dialyzer reuse, a comparative study of two methods of dialyzer reprocessing, manual and automated, was conducted.
+Five stable end-stage renal disease patients on center hemodialysis were evaluated as to hematological and metabolic parameters throughout two series of three consecutive dialyses using first new and then reused dialyzers reprocessed according to each of the two methods.
+New dialyzers and reused dialyzers following automated reprocessing always induced a profound fall in circulating neutrophil counts shortly after the start of dialysis.
+Hemodialysis neutropenia was not observed, however, with reused dialyzers reprocessed manually unless the concentration of sodium hypochlorite (bleach) employed was made equal to that required in automated reprocessing by being raised from 1.0 to 4.3%.
+It would be reasonable to conclude from these results that among the various differences between the two dialyzer reprocessing methods, restoration of the original level of biocompatibility of the reused dialyzer's membrane is related to the concentration of the cleansing agent.

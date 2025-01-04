@@ -1,0 +1,12 @@
+Erythroid differentiation depends on the establishment of specific patterns of gene expression.
+Hypersensitive site 2 (HS2, serving as a major enhancer of globin genes)-binding proteins may be involved in its natural open chromosomal environment formation.
+Previously we prepared monoclonal antibodies against HS2-binding nuclear proteins of terminal differentiated erythroid cells.
+By utilizing the monoclonal antibodies, we screened lambda-gt11 human fetal liver cDNA expression library and obtained one cDNA clone, which was named erythroid differentiation related gene (EDRF1, Genbank accession number AF040247), encompassing an entire open reading frame.
+We investigated the expression pattern of EDRF1 by RT-PCR technique.
+And a clue to the function of EDRF1 has been found from confirmation of high levels of EDRF1 mRNA in differentiated K562 and human fetal liver tissue.
+To illuminate the function of EDRF1 in K562 cells, sense and antisense EDRF1 constructs were prepared and transfected into K562 cells.
+alpha-globin mRNA was down-regulated and EpoR (erythropoietin receptor) mRNA expression was increased in antisense transfected cells.
+Cells transfected with sense construct grew more slowly than control cells suggested by [(3)H] thimidine incorporation experiments.
+Suppression of K562 proliferation was accompanied by increased spontaneous hemoglobin synthesis demonstrated by spectrometry.
+K562 cells transfected with sense construct exhibited reduced clongenicity compared with control cells in methycellulose culture.
+These data provided the evidence that EDRF1 can influence globin expression and hemoglobin synthesis in K562 cells and modulated self-renewal in K562 cells.

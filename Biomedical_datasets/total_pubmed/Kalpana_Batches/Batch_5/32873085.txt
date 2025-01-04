@@ -1,0 +1,8 @@
+Working time arrangements that match employees' preferences have been proposed as determinants of employees' well-being, an assumption rooted in person-environment fit theory.
+The aim of this study was to investigate the role of fit and misfit between actual and preferred working time arrangements (length of working hours, control over the beginning and end of workdays, and workplace segmentation) for employees' satisfaction with work-life balance.
+We analyzed data from 8,580 employees from the BAuA-working time survey - a representative study among the working population in Germany - by means of polynomial regression and response surface analyses.
+Analyses did not point toward congruence effects but revealed significant main effects: Satisfaction with work-life balance was higher in case of shorter actual and longer preferred weekly working hours, and it was decreased if employees worked longer than they preferred.
+Moreover, more supplies and lower preferences in terms of control over the beginning and end of workdays, more workplace segmentation supplies, and lower workplace segmentation preferences were related to higher satisfaction with work-life balance.
+Overall, this study sheds light on the roles of fit and misfit between actual and preferred working time arrangements for employees' work-home interface.
+Findings suggest that while employees' preferences should find entrance into the design of work schedules, congruence is not a precondition for achieving a good work-life balance.
+Most importantly, for a good work-life balance, working hours should not be longer than preferred, and employees should have some control over their scheduling and possibilities to segment work and private life.

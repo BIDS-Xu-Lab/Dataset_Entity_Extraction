@@ -1,0 +1,14 @@
+Infection by the canine heartworm, Dirofilaria immitis, causes significant cardiopulmonary disease, with progression impacted by increasing parasite numbers and duration of infection.
+The renin-angiotensin-aldosterone system (RAAS) is an important mediator of cardiac and pulmonary disease.
+Angiotensin-converting enzyme 2 (ACE2) mitigates the maladaptive effects of angiotensin II by converting it to angiotensin (1-7).
+We hypothesized that circulating ACE2 activity would be altered in dogs with high heartworm infection intensities relative to dogs without heartworms.
+Frozen serum samples (-80 °C) from 30 dogs euthanized at Florida shelters were analyzed for ACE2 activity using liquid chromatography-mass spectrometry/mass spectroscopy and a kinetics approach with and without an ACE2 inhibitor.
+A convenience sample of 15 dogs without heartworms (HW0) and 15 dogs with > 50 heartworms (HW>50) was included.
+Heartworm number and microfilariae presence were determined at necropsy.
+The effects of heartworm status, body weight, and sex on ACE2 were evaluated using regression analysis.
+Values of P < 0.05 were considered significant.
+All HW0 dogs were D. immitis microfilariae-negative and all HW>50 dogs were D. immitis microfilariae-positive with a median adult worm count of 74 (minimum = 63, maximum = 137).
+The ACE2 activity of HW>50 dogs (median = 28.2 ng/ml; minimum = 13.6, maximum = 76.2) was not different from HW0 dogs (median 31.9 ng/ml; minimum = 14.1, maximum = 139.1; P = 0.53).
+The ACE2 activity was higher in dogs with high body weight (median 34.2 ng/ml minimum = 14.1, maximum = 76.2) than in dogs with low weight (median 27.5 ng/ml; minimum = 16.4, maximum = 139.1; P = .044).
+Heartworm infection did not impact ACE2 activity in shelter dogs with or without heartworms, but heavier dogs had higher ACE2 activity compared to lighter dogs.
+Comprehensive RAAS evaluation and additional clinical information would aid in understanding how ACE2 activity relates to the entire cascade and clinical status in dogs with heartworm disease.

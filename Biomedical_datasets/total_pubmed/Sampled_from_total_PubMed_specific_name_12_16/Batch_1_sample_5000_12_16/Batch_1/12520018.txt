@@ -1,0 +1,8 @@
+PlantsP and PlantsT allow users to quickly gain a global understanding of plant phosphoproteins and plant membrane transporters, respectively, from evolutionary relationships to biochemical function as well as a deep understanding of the molecular biology of individual genes and their products.
+As one database with two functionally different web interfaces, PlantsP and PlantsT are curated plant-specific databases that combine sequence-derived information with experimental functional-genomics data.
+PlantsP focuses on proteins involved in the phosphorylation process (i.e., kinases and phosphatases), whereas PlantsT focuses on membrane transport proteins.
+Experimentally, PlantsP provides a resource for information on a collection of T-DNA insertion mutants (knockouts) in each kinase and phosphatase, primarily in Arabidopsis thaliana, and PlantsT uniquely combines experimental data regarding mineral composition (derived from inductively coupled plasma atomic emission spectroscopy) of mutant and wild-type strains.
+Both databases provide extensive information on motifs and domains, detailed information contributed by individual experts in their respective fields, and descriptive information drawn directly from the literature.
+The databases incorporate a unique user annotation and review feature aimed at acquiring expert annotation directly from the plant biology community.
+PlantsP is available at http://plantsp.sdsc.edu and PlantsT is available at http://plantst.sdsc.edu.
+Y, PlantsP, PlantsT (No need to annotate, just for notice).

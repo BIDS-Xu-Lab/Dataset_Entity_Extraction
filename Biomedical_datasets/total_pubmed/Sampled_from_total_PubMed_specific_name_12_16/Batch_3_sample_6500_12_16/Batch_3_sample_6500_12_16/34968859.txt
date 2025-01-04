@@ -1,0 +1,12 @@
+In microsurgical procedures, surgeons use micro-instruments under high magnifications to handle delicate tissues.
+These procedures require highly skilled attentional and motor control for planning and implementing eye-hand coordination strategies.
+Eye-hand coordination in surgery has mostly been studied in open, laparoscopic, and robot-assisted surgeries, as there are no available tools to perform automatic tool detection in microsurgery.
+We introduce and investigate a method for simultaneous detection and processing of micro-instruments and gaze during microsurgery.
+We train and evaluate a convolutional neural network for detecting 17 microsurgical tools with a dataset of 7500 frames from 20 videos of simulated and real surgical procedures.
+Model evaluations result in mean average precision at the 0.5 threshold of 89.5-91.4% for validation and 69.7-73.2% for testing over partially unseen surgical settings, and the average inference time of 39.90 ± 1.2 frames/second.
+While prior research has mostly evaluated surgical tool detection on homogeneous datasets with limited number of tools, we demonstrate the feasibility of transfer learning, and conclude that detectors that generalize reliably to new settings require data from several different surgical procedures.
+In a case study, we apply the detector with a microscope eye tracker to investigate tool use and eye-hand coordination during an intracranial vessel dissection task.
+The results show that tool kinematics differentiate microsurgical actions.
+The gaze-to-microscissors distances are also smaller during dissection than other actions when the surgeon has more space to maneuver.
+The presented detection pipeline provides the clinical and research communities with a valuable resource for automatic content extraction and objective skill assessment in various microsurgical environments.
+Y Dataset of 7500 frames from 20 videos (No need to annotate, just for notice).

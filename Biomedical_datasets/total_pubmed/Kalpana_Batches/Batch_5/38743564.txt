@@ -1,0 +1,11 @@
+Environmental disinfection is essential for reducing spread of healthcare-associated infections (HAIs).
+Previous studies report conflicting results regarding the effects of ultraviolet (UV) light in reducing infections.
+This trial evaluated the impact of adding pulsed-xenon UV (PX-UV) to standard terminal cleaning in reducing environmentally implicated HAIs (eiHAIs).
+The Lowering the Acquisition of MDROs with Pulsed-xenon (LAMP) trial was conducted in 2 hospitals (15 inpatient wards) utilizing a cluster-randomized, controlled, double-blinded, interventional crossover trial comparing standard terminal cleaning followed by either PX-UV (intervention arm) or sham (control arm) disinfection.
+The primary outcome was incidence of eiHAIs from clinical microbiology tests on the fourth day of stay or later or within 3 days after discharge from the study unit.
+EiHAIs included clinical cultures positive for vancomycin-resistant enterococci, extended-spectrum beta-lactamase-producing Escherichia coli or Klebsiella pneumonia, methicillin-resistant Staphylococcus aureus, and Acinetobacter baumannii, and stool polymerase chain reaction (PCR) positive for Clostridiodes difficile.
+Between 18 May 2017 and 7 January 2020, 25 732 patients were included, with an incidence of 601 eiHAIs and 180 954 patient-days.
+There was no difference in the rate of eiHAIs in the intervention and sham arms (3.49 vs 3.17 infections/1000 patient-days, respectively; RR, 1.10; 95% CI, .94-1.29; P = .23).
+Study results were similar when stratified by eiHAI type, hospital, and unit type.
+The LAMP study failed to demonstrate an effect of the addition of UV light disinfection following terminal cleaning on reductions in rates of eiHAIs.
+Further investigations targeting hospital environmental surfaces and the role of no-touch technology to reduce HAIs are needed.

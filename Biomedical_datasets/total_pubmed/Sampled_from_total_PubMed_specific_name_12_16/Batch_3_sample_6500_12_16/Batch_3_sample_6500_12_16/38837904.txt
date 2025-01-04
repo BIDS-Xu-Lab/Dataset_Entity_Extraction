@@ -1,0 +1,12 @@
+Little is known about the extent to which microvascular disease is associated with cardiorespiratory fitness (CRF) among individuals with type 2 diabetes.
+A total of 4,766 participants with type 2 diabetes underwent maximal exercise testing in the Look AHEAD (Action for Health in Diabetes) study at baseline.
+Low CRF was defined based on the Aerobics Center Longitudinal Study reference standards.
+Microvascular disease was defined as having one or more of diabetes-related kidney disease (DKD), retinopathy, and neuropathy.
+The burden of microvascular disease was defined as the number of microvascular beds affected.
+Of the 4,766 participants (mean age 58.9 ± 6.7 years, 58.5% women, 66.1% White individuals), 1,761 (37%) had microvascular disease.
+Participants with microvascular complications in three vascular territories had a lower CFR than those without any microvascular disease (mean adjusted metabolic equivalent of task [MET] 6.58 vs. 7.26, P = 0.001).
+Participants with any microvascular disease had higher odds of low CRF than those without microvascular disease (adjusted odds ratio [OR] 1.45, 95% CI 1.24-1.71).
+An increasing burden of microvascular disease was associated with higher odds of low CRF (for microvascular disease in three vascular territories, adjusted OR 2.82, 95% CI 1.36-5.85).
+Adjusted ORs for low CRF were 1.24 (95% CI 0.99-1.55), 1.34 (95% CI 1.02-1.76), and 1.44 (95% CI 1.20-1.73) for neuropathy, retinopathy, and DKD associations, respectively.
+In a large cohort of adults with type 2 diabetes, the presence of microvascular disease and its burden were independently associated with lower CRF.
+Y Look AHEAD (No need to annotate, just for notice).

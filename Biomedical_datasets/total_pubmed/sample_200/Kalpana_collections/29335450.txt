@@ -1,0 +1,7 @@
+Atherosclerosis is characterized by the accumulation of lipids within the arterial wall.
+Although activation of TRPV1 cation channels by capsaicin may reduce lipid storage and the formation of atherosclerotic lesions, a clinical use for capsaicin has been limited by its chronic toxicity.
+Here we show that coupling of copper sulfide (CuS) nanoparticles to antibodies targeting TRPV1 act as a photothermal switch for TRPV1 signaling in vascular smooth muscle cells (VSMCs) using near-infrared light.
+Upon irradiation, local increases of temperature open thermo-sensitive TRPV1 channels and cause Ca2+ influx.
+The increase in intracellular Ca2+ activates autophagy and impedes foam cell formation in VSMCs treated with oxidized low-density lipoprotein.
+In vivo, CuS-TRPV1 allows photoacoustic imaging of the cardiac vasculature and reduces lipid storage and plaque formation in ApoE-/- mice fed a high-fat diet, with no obvious long-term toxicity.
+Together, this suggests CuS-TRPV1 may represent a therapeutic tool to locally and temporally attenuate atherosclerosis.

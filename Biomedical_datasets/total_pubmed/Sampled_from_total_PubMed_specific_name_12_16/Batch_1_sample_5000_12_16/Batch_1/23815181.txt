@@ -1,0 +1,12 @@
+Next-Generation Sequencing (NGS) technology has exceptionally increased the ability to sequence DNA in a massively parallel and cost-effective manner.
+Nevertheless, NGS data analysis requires bioinformatics skills and computational resources well beyond the possibilities of many "wet biology" laboratories.
+Moreover, most of projects only require few sequencing cycles and standard tools or workflows to carry out suitable analyses for the identification and annotation of genes, transcripts and splice variants found in the biological samples under investigation.
+These projects can take benefits from the availability of easy to use systems to automatically analyse sequences and to mine data without the preventive need of strong bioinformatics background and hardware infrastructure.
+To address this issue we developed an automatic system targeted to the analysis of NGS data obtained from large-scale transcriptome studies.
+This system, we named NGS-Trex (NGS Transcriptome profile explorer) is available through a simple web interface http://www.ngs-trex.org and allows the user to upload raw sequences and easily obtain an accurate characterization of the transcriptome profile after the setting of few parameters required to tune the analysis procedure.
+The system is also able to assess differential expression at both gene and transcript level (i.e. splicing isoforms) by comparing the expression profile of different samples.
+By using simple query forms the user can obtain list of genes, transcripts, splice sites ranked and filtered according to several criteria.
+Data can be viewed as tables, text files or through a simple genome browser which helps the visual inspection of the data.
+NGS-Trex is a simple tool for RNA-Seq data analysis mainly targeted to "wet biology" researchers with limited bioinformatics skills.
+It offers simple data mining tools to explore transcriptome profiles of samples investigated taking advantage of NGS technologies.
+Y NGS-Trex (No need to annotate, just for notice).

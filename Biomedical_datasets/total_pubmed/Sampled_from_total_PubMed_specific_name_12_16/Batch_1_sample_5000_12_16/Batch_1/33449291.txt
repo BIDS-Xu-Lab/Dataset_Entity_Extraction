@@ -1,0 +1,8 @@
+High-dimensional flow cytometry experiments have become a method of choice for high-throughput integration and characterization of cell populations.
+Here, we present a summary of state-of-the-art R-based pipelines used for differential analyses of cytometry data, largely based on chimeric antigen receptor (CAR) T cell therapies.
+These pipelines are based on publicly available R libraries, put together in a systematic and functional fashion, therefore free of cost.
+In recent years, existing tools tailored to analyze complex high-dimensional data such as single-cell RNA sequencing (scRNAseq) have been successfully ported to cytometry studies due to the similar nature of flow cytometry and scRNAseq platforms.
+Existing environments like Cytobank (Kotecha et al., 2010), FlowJo (FlowJo™ Software) and FCS Express (https://denovosoftware.com) already offer a variety of these ported tools, but they either come at a premium or are fairly complicated to manage by an inexperienced user.
+To mitigate these limitations, experienced cytometrists and bioinformaticians usually incorporate these functions into an RShiny (https://shiny.rstudio.com) application that ultimately offers a user-friendly, intuitive environment that can be used to analyze flow cytometry data.
+Computational tools and Shiny-based tools are the perfect answer to the ever-growing dimensionality and complexity of flow cytometry data, by offering a dynamic, yet user-friendly exploratory space, tailored to bridge the space between the lab experimental world and the computational, machine learning space.
+Y: Cytobank, FlowJo, FCS Express (No need to annotate, just for notice).

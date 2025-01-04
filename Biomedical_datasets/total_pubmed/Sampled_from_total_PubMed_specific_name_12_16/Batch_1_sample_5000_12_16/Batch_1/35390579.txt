@@ -1,0 +1,11 @@
+With an emphasis on patient-centered care and provider transparency, patient satisfaction measures have become a key indicator of healthcare quality.
+Using the Press Ganey Outpatient Medical Practice Survey (PGOMPS), we sought to determine key factors that impact patient satisfaction.
+We conducted a retrospective review of new pediatric (<18 years old) outpatient otolaryngology visits between January 1, 2014 and December 31, 2018 at a children's hospital clinic and satellite clinics.
+Univariate and multivariate binary logistic regression analysis were used to determine factors correlated with patient satisfaction for both the PGOMPS Total Score and Provider Sub-Score.
+A total of 1,050 patient or parent responses were included.
+The mean patient age was 5.6 ± 5.0 years with 54.7% identified as male.
+[OR] 0.5; P < 0.001) and Provider Sub-Score (OR 0.8; P < 0.001).
+Furthermore, for each additional 5-year increase in patient age, patients were significantly more likely to report satisfaction on Total Score (OR 1.21; P = 0.011).
+Multivariate analysis revealed that the odds of achieving satisfaction for each decile increase in Total Wait Time were 0.5 for Total Score (P < 0.001) and 0.8 for Provider Sub-Score (P < 0.001), independent of patient age, sex, insurance category, socioeconomic disadvantage level, and patient community type.
+Wait time is a significant factor impacting patients' likelihood of being satisfied with their overall care in a pediatric otolaryngology clinic setting.
+Y and the Press Ganey Outpatient Medical Practice Survey (PGOMPS) (No need to annotate, just for notice).

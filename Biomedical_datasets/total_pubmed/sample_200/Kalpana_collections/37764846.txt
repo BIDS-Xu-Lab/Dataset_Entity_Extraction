@@ -1,0 +1,9 @@
+We investigated whether cigarette smoking and dietary acid load (DAL) are associated with a risk of chronic obstructive pulmonary disease (COPD) in healthy, middle-aged Korean men.
+Healthy men without diagnosed chronic disease (aged 40-64 years) from the KNHANES-VI (2013-2015) were included in the analysis (n = 774) and were subdivided by smoking status and DAL levels, as estimated using the quartile of net endogenous acid production (NEAP).
+The current smokers tended to have a higher risk of COPD than the never-smokers before and after adjustment.
+When divided by the DAL quartile, the Q4 group tended to have a higher risk of COPD than the Q1 group.
+Additionally, the current smokers with lower (Q2), modest (Q3), and the highest NEAP scores (Q4) showed risks of COPD that were more than fourfold higher than those of the never-smokers with the lowest NEAP scores (Q1).
+The ex-smokers with higher NEAP scores (Q3 and Q4) showed risks of COPD that were more than fourfold higher than those of the Q1 group.
+Interestingly, the risk of COPD was also more than sixfold higher in the never-smokers with the highest NEAP scores compared to that in the Q1 group.
+The NEAP scores and smoking status synergistically increased the risk of COPD in healthy, middle-aged Korean men.
+This suggests that DAL levels are an important factor in the prevention and management of COPD.

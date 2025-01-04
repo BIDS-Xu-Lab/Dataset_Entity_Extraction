@@ -1,0 +1,8 @@
+Post-operative cognitive dysfunction (POCD) is associated with elderly patients undergoing surgery.
+However, pharmacological treatments for POCD are limited.
+In this study, we found that curcumin, an active compound derived from Curcuma longa, ameliorated the cognitive dysfunction following abdominal surgery in aged mice.
+Further, curcumin prevented surgery-induced anti-oxidant enzyme activity.
+Curcumin also increased brain-derived neurotrophic factor (BDNF)-positive area and expression of pAkt in the brain, suggesting that curcumin activated BDNF signaling in aged mice.
+Furthermore, curcumin neutralized cholinergic dysfunction involving choline acetyltransferase expression induced by surgery.
+These results strongly suggested that curcumin prevented cognitive impairments via multiple targets, possibly by increasing the activity of anti-oxidant enzymes, activation of BDNF signaling, and neutralization of cholinergic dysfunction, concurrently.
+Based on these novel findings, curcumin might be a potential agent in POCD prophylaxis and treatment.

@@ -1,0 +1,8 @@
+Selective protein recognition is critical in molecular biology techniques such as Western blotting and ELISA.
+Successful detection of the target proteins in these methods relies on the specific interaction of the antibodies, which often bring a high production cost and require a long incubation time.
+Aptamers represent an alternative class of simple and affordable affinity reagents for protein recognition, and replacing antibodies with aptamers in Western blotting would potentially be more time- and cost-effective.
+In this work, multiple fluorescent DNA aptamers were isolated by in vitro selection to selectively label commonly used tag proteins including GST, MBP, and His-tag.
+The generated aptamers G1, M1, and H1 specifically bound to their cognate target proteins with nanomolar affinities, respectively.
+Compared with conventional antibody-based immunoblotting, such aptamer-based procedure gave a cleaner background and was able to selectively label target protein in a complex mixture.
+Lastly, the identified aptamers were also effective in recognition of different fusion proteins with the same tag, thus greatly expanding the scope of the potential applications of these aptamers.
+This work provided aptamers as useful molecular tools for selective protein recognition in Western blotting analysis.
