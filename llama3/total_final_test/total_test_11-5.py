@@ -1,7 +1,7 @@
 import json
 
 
-name = 'HuatoGPT-o1-7B_JAMAFinalAll'
+name = 'Llama-3.3-70B-Instruct_JAMAFinalAll'
 
 
 
@@ -59,21 +59,48 @@ def test_diagnose(each_diagnosis,true_diagnosis):
     return result
 
 
-# parse the prediction
-def segement_predict(predict):
-
+def spl(predict, key):
+    predict = predict.split(key)[1]
     prediction = predict.replace('\n\n','\n')
     pattern = r'(\d+)\.\s*([^\d\n]+(?:\n(?!\d+\.)[^\d\n]+)*)'
     diagnosis_list = re.findall(pattern, prediction)
-    processed_list = [diagnosis.strip() for number, diagnosis in diagnosis_list if int(number) <= 10]
+    if len(diagnosis_list) > 10:
+        diagnosis_list = diagnosis_list[:10]
+    return diagnosis_list
 
-    if len(processed_list) < 10:
-        processed_list = prediction.split('\n')
 
-    if len(processed_list) > 10:
-            processed_list = processed_list[-10:]
+# parse the prediction
+def segement_predict(predict):
+    diagnosis_list = []
+    key_word = ['RANKING', 'Reranked', 're-ranking', 'ranking', 'rerank']
 
-    return processed_list
+    for i in key_word:
+        if i in predict:
+            diagnosis_list = spl(predict, i)
+        if len(diagnosis_list) == 10:
+            break
+    
+
+    if len(diagnosis_list)<10:
+        if 'The final answer is' in predict:
+            predict = predict.split('The final answer is')[0]
+        prediction = predict.replace('\n\n','\n')
+        pattern = r'(\d+)\.\s*([^\d\n]+(?:\n(?!\d+\.)[^\d\n]+)*)'
+        diagnosis_list = re.findall(pattern, prediction)
+
+
+    index = 0
+    for i in range(len(diagnosis_list)):
+        if diagnosis_list[i][0] == '1':
+            index = i
+
+    diagnosis_list = diagnosis_list[index:]
+
+    processed_list = [diagnosis.strip() for number, diagnosis in diagnosis_list]
+    processed_list = [i.split('\n')[0] if '\n' in i else i for i in processed_list]
+    numbers = [number for number, diagnosis in diagnosis_list]
+
+    return processed_list, numbers
 
 
 
@@ -98,9 +125,12 @@ def main(file_name):
         diagnosis = i['true']
         predict = i['predict']
 
-        processed_list = segement_predict(predict)
-        if len(processed_list) < 10:
-            error_list.append(i)
+        processed_list, numbers = segement_predict(predict)
+        save_list = [f'{numbers[i]}. {processed_list[i]}' for i in range(len(numbers))]
+        if len(numbers) < 10:
+            error_list.append({'predict': i['predict'], 'predict_list': save_list})
+        elif numbers[0] != '1' or numbers[-1] != '10':
+            error_list.append({'predict': i['predict'], 'predict_list': save_list})
 
         i['acc'] = []
         for prediction in processed_list:
