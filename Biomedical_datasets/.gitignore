@@ -10,3 +10,6 @@
 !*.ann
 !*.json
 !*.jsonl
+!*.tsv
+!/total_pubmed/Sampled_from_total_PubMed_specific_name_12_16/Batch_1_sample_5000_12_16/Batch_1_sample_5000_12_16.joblib
+!/total_pubmed/Sampled_from_total_PubMed_specific_name_12_16/Batch_3_sample_6500_12_16/Batch_3_sample_6500_12_16.joblib
